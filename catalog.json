@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "daily-quid-2026-07-18-c8cf8b4fa686",
+  "generatedAt": "2026-07-18T13:07:22.890Z",
+  "edition": "manual",
+  "language": "it-IT",
+  "stories": [
+    {
+      "id": "story-fbeb3ac676654b01",
+      "title": "Russia: attacco ucraino provoca 7 morti e 24 feriti",
+      "summary": "Un massiccio attacco con droni ucraini ha colpito la regione di Mosca, causando 7 morti e 24 feriti. L'offensiva ha preso di mira importanti impianti logistici e un sito petrolifero, segnando un'escalation nel conflitto.",
+      "spokenText": "Un attacco condotto con droni ucraini ha causato sette morti e ventiquattro feriti nella regione di Mosca. Durante la notte, l’area è stata bersagliata da oltre 370 velivoli senza pilota, come riferito dal sindaco della capitale Sergej Sobjanin. Il presidente Volodymyr Zelensky ha precisato su X che le forze armate ucraine hanno colpito due importanti impianti logistici nelle regioni di Mosca e Tambov, oltre a un impianto petrolifero, definendo l’azione una risposta agli attacchi russi contro le infrastrutture civili. Mosca ha inoltre sostenuto di aver colpito due navi coinvolte nel trasporto di carichi militari nell’area del porto di Chernomorsk.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "ucraina",
+        "mosca",
+        "tambov",
+        "volodymyr zelensky",
+        "sergej sobjanin"
+      ],
+      "importance": 80,
+      "mustInclude": false,
+      "estimatedSeconds": 40,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/18/russia-attacco-ucraino-provoca-7-morti-e-24-feriti_beb67616-48cb-4263-aed2-7f5605296599.html"
+      },
+      "analysis": {
+        "mainFact": "Un attacco con droni ucraini ha provocato 7 morti e 24 feriti nella regione di Mosca.",
+        "whyItMatters": "Mosca ha inoltre sostenuto di aver colpito due navi coinvolte nel trasporto di carichi militari nell’area del porto di Chernomorsk: una ormeggiata nel porto e una seconda in mare.",
+        "confirmedFacts": [
+          "Un attacco con droni ucraini ha provocato 7 morti e 24 feriti nella regione di Mosca.",
+          "Mosca ha inoltre sostenuto di aver colpito due navi coinvolte nel trasporto di carichi militari nell’area del porto di Chernomorsk: una ormeggiata nel porto e una seconda in mare.",
+          "Regione di Mosca bersagliata da oltre 370 droni",
+          "La regione di Mosca è stata a sua volta bersagliata da oltre 370 droni durante la notte, ha riferito il sindaco della capitale, Sergej Sobjanin.",
+          "Zelensky: «Colpiti importanti impianti logistici russi e sito petrolifero» Le forze armate ucraine hanno ’’colpito due importanti impianti logistici, nelle regioni di Mosca e Tambov, rispettivamente a oltre 500 e quasi 700 chilometri dalla linea del fronte’’ e ’’un impianto petrolifero’’.",
+          "Lo ha scritto il presidente ucraino Volodymyr Zelensky su ’X’ spiegando che si tratta di una ’’risposta agli attacchi russi contro le nostre infrastrutture civili, le nostre città e comunità’’.",
+          "Un attacco con droni ucraini contro un centro logistico russo ha provocato otto morti e 24 feriti.",
+          "Almeno 7 morti e oltre 20 feriti nell’attacco."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Russia",
+          "Ucraina",
+          "Mosca",
+          "Tambov",
+          "Volodymyr Zelensky",
+          "Sergej Sobjanin"
+        ],
+        "numbersAndDates": [
+          "Regione di Mosca bersagliata da oltre 370 droni",
+          "La regione di Mosca è stata a sua volta bersagliata da oltre 370 droni durante la notte, ha riferito il sindaco della capitale, Sergej Sobjanin.",
+          "Un attacco con droni ucraini contro un centro logistico russo ha provocato otto morti e 24 feriti.",
+          "Almeno 7 morti e oltre 20 feriti nell’attacco.",
+          "7",
+          "24"
+        ]
+      }
+    },
+    {
+      "id": "story-771fc78723a8ee66",
+      "title": "Kuwait, l'Iran prende di mira siti civili e infrastrutture vitali",
+      "summary": "L'Iran ha lanciato un attacco contro siti civili e infrastrutture vitali in Kuwait, causando feriti e danni a un impianto petrolifero. L'azione segna un'escalation delle ostilità in Medio Oriente.",
+      "spokenText": "L'Iran ha lanciato un attacco contro siti civili e infrastrutture vitali in Kuwait. La compagnia petrolifera statale kuwaitiana ha segnalato feriti e danni dopo che un impianto petrolifero è stato colpito. Il Kuwait ha sospeso temporaneamente le operazioni di decollo e atterraggio all'aeroporto internazionale della capitale in seguito a questa ondata di attacchi. L'esercito iraniano ha dichiarato oggi di aver sferrato un attacco con droni contro una base americana in Bahrein. Questa settimana l'Iran ha attaccato almeno due basi giordane, provocando il ferimento di diversi militari americani.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "iran",
+        "kuwait",
+        "bahrein"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 35,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/18/kuwait-liran-prende-di-mira-siti-civili-e-infrastrutture-vitali_3006fade-ac3a-4ed8-96f9-6f320254fdf2.html"
+      },
+      "analysis": {
+        "mainFact": "L'Iran ha lanciato un attacco contro siti civili e infrastrutture vitali in Kuwait, causando feriti e danni a un impianto petrolifero.",
+        "whyItMatters": "La compagnia petrolifera statale del Kuwait ha segnalato feriti e danni dopo che un attacco ha colpito un impianto petrolifero.",
+        "confirmedFacts": [
+          "L'Iran ha lanciato un attacco contro siti civili e infrastrutture vitali in Kuwait, causando feriti e danni a un impianto petrolifero.",
+          "La compagnia petrolifera statale del Kuwait ha segnalato feriti e danni dopo che un attacco ha colpito un impianto petrolifero.",
+          "Il Kuwait ha sospeso temporaneamente le operazioni di decollo e atterraggio all'aeroporto internazionale della capitale in seguito all'ultima ondata di attacchi iraniani.",
+          "L'esercito iraniano ha dichiarato oggi in un comunicato di aver sferrato questa mattina un attacco con droni contro una base americana in Bahrein.",
+          "L'Iran ha attaccato almeno due basi giordane questa settimana, provocando il ferimento di diversi militari americani dopo che la loro struttura è stata colpita."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Iran",
+          "Kuwait",
+          "Bahrein"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-6958de53c9205bda",
+      "title": "Centcom: 'Colpiti in Iran infrastrutture militari e depositi di armi sotterranei'",
+      "summary": "Il Comando centrale statunitense ha annunciato di aver colpito infrastrutture militari e depositi di armi sotterranei in Iran, concludendo la settima notte consecutiva di attacchi.",
+      "spokenText": "Il Centcom ha annunciato di aver colpito infrastrutture militari e depositi di armi sotterranei in Iran. Le forze statunitensi hanno concluso la settima notte consecutiva di attacchi contro l'Iran. Oltre 50 mila militari statunitensi sono operativi in tutto il Medio Oriente, conclude il Centcom, \"e rimangono vigili, letali e pronti all'azione\".",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "centcom",
+        "iran"
+      ],
+      "importance": 70,
+      "mustInclude": false,
+      "estimatedSeconds": 21,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/18/centcom-colpiti-in-iran-infrastrutture-militari-e-depositi-di-armi-sotterranei_2ca3b287-9fb2-4a6a-9c42-d3391b5d2d58.html"
+      },
+      "analysis": {
+        "mainFact": "Il Centcom ha annunciato di aver colpito infrastrutture militari e depositi di armi sotterranei in Iran.",
+        "whyItMatters": "Le forze statunitensi hanno concluso la settima notte consecutiva di attacchi contro l'Iran.",
+        "confirmedFacts": [
+          "Il Centcom ha annunciato di aver colpito infrastrutture militari e depositi di armi sotterranei in Iran.",
+          "Le forze statunitensi hanno concluso la settima notte consecutiva di attacchi contro l'Iran.",
+          "Oltre 50 mila militari statunitensi sono operativi in tutto il Medio Oriente, conclude il Centcom, \"e rimangono vigili, letali e pronti all'azione\"."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Centcom",
+          "Iran"
+        ],
+        "numbersAndDates": [
+          "Oltre 50 mila militari statunitensi sono operativi in tutto il Medio Oriente, conclude il Centcom, \"e rimangono vigili, letali e pronti all'azione\"."
+        ]
+      }
+    },
+    {
+      "id": "story-0f73f7b60aa4f8c3",
+      "title": "Orso bruno marsicano: presentata la nuova stima di popolazione nell’Appennino centrale",
+      "summary": "Un'ampia attività di monitoraggio genetico ha stimato la presenza di 81 esemplari di orso bruno marsicano nell'Appennino centrale, confermando la stabilità del nucleo storico e una lenta espansione.",
+      "spokenText": "Si è conclusa la più estesa attività di monitoraggio genetico mai realizzata per l'orso bruno marsicano. L'analisi modellistica, basata sui dati raccolti nell’estate del 2025, ha stimato una popolazione complessiva di 81 individui, con un intervallo di incertezza compreso tra 73 e 88 esemplari. Tra questi, sono state identificate 43 femmine e 38 maschi. La stima copre un’area di circa 6500 chilometri quadrati, estesa dalla Provincia di Rieti fino a quelle di Frosinone e Isernia. Per dare un termine di paragone, l’ultimo progetto di stima del 2014 aveva interessato un territorio di soli 1500 chilometri quadrati. Rispetto ai 51 stimati nel 2014, la popolazione appare stabile o in lieve crescita, con una densità prossima alla saturazione. La ricerca, finanziata dal PNRR, conferma quindi la tenuta del nucleo storico e una lenta espansione verso le aree periferiche. Nella porzione storica della distribuzione dell’orso (comprendente il solo PNALM e l’area contigua) la stima risulta invece di 56 orsi (49-63).",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "orso bruno marsicano",
+        "appennino centrale",
+        "mase",
+        "pnrr",
+        "digitap"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 63,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/orso-bruno-marsicano-presentata-la-nuova-stima-di-popolazione-nellappennino-centrale"
+      },
+      "analysis": {
+        "mainFact": "Una stima di popolazione del 2025 ha censito 81 esemplari di orso bruno marsicano nell'Appennino centrale.",
+        "whyItMatters": "La ricerca, finanziata dal PNRR, conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
+        "confirmedFacts": [
+          "Una stima di popolazione del 2025 ha censito 81 esemplari di orso bruno marsicano nell'Appennino centrale.",
+          "La ricerca, finanziata dal PNRR, conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
+          "I numeri della popolazione: stabilità ed espansione L'analisi modellistica, basata sui dati genetici raccolti nell’estate del 2025, ha stimato una popolazione complessiva di 81 individui (43 femmine e 38 maschi), con un intervallo di incertezza compreso tra 73 e 88 esemplari.",
+          "La stima si riferisce ad un’area complessiva di circa 6500 km² , estesa dalla Provincia di Rieti a nord, fino a quelle di Frosinone e Isernia a sud.",
+          "Durante l’ultimo progetto di stima di popolazione, realizzato nel 2014, l’area di studio aveva invece interessato un territorio di circa 1500 km² .",
+          "Nella porzione storica della distribuzione dell’orso (comprendente il solo PNALM e l’area contigua) la stima risulta invece di 56 orsi (49-63).",
+          "Rispetto ai 51 stimati nel 2014, la popolazione appare quindi stabile o in lieve crescita, con una densità prossima alla saturazione (4.4 individui/100 km²).",
+          "Stimata la presenza di 81 esemplari nell'intero areale Si è conclusa la più estesa e completa attività di monitoraggio genetico mai realizzata per stimare la dimensione della popolazione di orso bruno marsicano (Ursus arctos marsicanus), una delle popolazioni ursine più minacciate al mondo."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Orso bruno marsicano",
+          "Appennino centrale",
+          "MASE",
+          "PNRR",
+          "DigitAP"
+        ],
+        "numbersAndDates": [
+          "I numeri della popolazione: stabilità ed espansione L'analisi modellistica, basata sui dati genetici raccolti nell’estate del 2025, ha stimato una popolazione complessiva di 81 individui (43 femmine e 38 maschi), con un intervallo di incertezza compreso tra 73 e 88 esemplari.",
+          "La stima si riferisce ad un’area complessiva di circa 6500 km² , estesa dalla Provincia di Rieti a nord, fino a quelle di Frosinone e Isernia a sud.",
+          "Durante l’ultimo progetto di stima di popolazione, realizzato nel 2014, l’area di studio aveva invece interessato un territorio di circa 1500 km² .",
+          "Nella porzione storica della distribuzione dell’orso (comprendente il solo PNALM e l’area contigua) la stima risulta invece di 56 orsi (49-63).",
+          "Rispetto ai 51 stimati nel 2014, la popolazione appare quindi stabile o in lieve crescita, con una densità prossima alla saturazione (4.4 individui/100 km²).",
+          "Stimata la presenza di 81 esemplari nell'intero areale Si è conclusa la più estesa e completa attività di monitoraggio genetico mai realizzata per stimare la dimensione della popolazione di orso bruno marsicano (Ursus arctos marsicanus), una delle popolazioni ursine più minacciate al mondo.",
+          "2025",
+          "81"
+        ]
+      }
+    },
+    {
+      "id": "story-c54e29a7e96d203a",
+      "title": "Ucraina in piazza contro la rimozione di Fedorov, il ministro che aveva rivoluzionato il modo di combattere",
+      "summary": "La rimozione di Mychajlo Fedorov dalla Difesa ha scatenato proteste in Ucraina. Fedorov era noto per aver rivoluzionato l'approccio tecnologico al conflitto, e il suo siluramento è legato a tensioni militari e calcoli politici.",
+      "spokenText": "Ucraina in piazza contro la rimozione di Fedorov, il ministro che aveva rivoluzionato il modo di combattere. Dietro il siluramento ci sono tensioni militari e calcoli politici. Fedorov ha confermato l’uscita dal governo con un messaggio sui social in cui ha rivendicato 22 risultati ottenuti in sei mesi di mandato. Fedorov è uno dei collaboratori più stretti di Zelens’kyj, con cui lavora fin dalla campagna elettorale del 2019, quando il futuro presidente era ancora attore e produttore. “Probabilmente è davvero il destino dell’Ucraina quello di lottare e scendere in piazza a far valere i propri diritti”, afferma.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "ucraina"
+      ],
+      "importance": 60,
+      "mustInclude": false,
+      "estimatedSeconds": 39,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/ucraina-proteste-rimozione-fedorov-difesa-droni/"
+      },
+      "analysis": {
+        "mainFact": "Ucraina in piazza contro la rimozione di Fedorov, il ministro che aveva rivoluzionato il modo di combattere",
+        "whyItMatters": "Dietro il siluramento ci sono tensioni militari e calcoli politici.",
+        "confirmedFacts": [
+          "Ucraina in piazza contro la rimozione di Fedorov, il ministro che aveva rivoluzionato il modo di combattere",
+          "Dietro il siluramento ci sono tensioni militari e calcoli politici.",
+          "Fedorov ha confermato l’uscita dal governo con un messaggio sui social in cui ha rivendicato 22 risultati ottenuti in sei mesi di mandato :",
+          "Fedorov tra Zelens’kyj e Syrs’kyj Fedorov è uno dei collaboratori più stretti di Zelens’kyj, con cui lavora fin dalla campagna elettorale del 2019, quando il futuro presidente era ancora attore e produttore.",
+          "Fedorov era già una figura centrale della politica Ucraina: dal 2019 guidava la Trasformazione Digitale, dove aveva creato Diia , l’app che ha digitalizzato i servizi pubblici e il passaporto ucraino, rivelatasi particolarmente utile per gli sfollati durante la guerra.",
+          "Secondo la testata indipendente Ukrainska Pravda , tra i due si sarebbe consumato un “conflitto sistemico”, alimentato anche dalla resistenza di Fedorov alla corruzione contro una parte della lobby della difesa, che lo liquidava come un abile comunicatore più che un vero innovatore.",
+          "La piazza in fermento Nella piazza della capitale davanti al teatro “Ivan Franko”, ai piedi dell’ufficio presidenziale, le urla degli slogan di protesta sono cominciate puntuali alle ore 9, subito dopo il minuto di silenzio nazionale che onora la memoria di tutti gli ucraini caduti per la guerra.",
+          "“Probabilmente è davvero il destino dell’Ucraina quello di lottare e scendere in piazza a far valere i propri diritti”, afferma."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Ucraina"
+        ],
+        "numbersAndDates": [
+          "Fedorov ha confermato l’uscita dal governo con un messaggio sui social in cui ha rivendicato 22 risultati ottenuti in sei mesi di mandato :",
+          "Fedorov tra Zelens’kyj e Syrs’kyj Fedorov è uno dei collaboratori più stretti di Zelens’kyj, con cui lavora fin dalla campagna elettorale del 2019, quando il futuro presidente era ancora attore e produttore.",
+          "Fedorov era già una figura centrale della politica Ucraina: dal 2019 guidava la Trasformazione Digitale, dove aveva creato Diia , l’app che ha digitalizzato i servizi pubblici e il passaporto ucraino, rivelatasi particolarmente utile per gli sfollati durante la guerra.",
+          "La piazza in fermento Nella piazza della capitale davanti al teatro “Ivan Franko”, ai piedi dell’ufficio presidenziale, le urla degli slogan di protesta sono cominciate puntuali alle ore 9, subito dopo il minuto di silenzio nazionale che onora la memoria di tutti gli ucraini caduti per la guerra."
+        ]
+      }
+    },
+    {
+      "id": "story-4f897c0d8c01792b",
+      "title": "La missione Psyche della NASA ha catturato una serie di immagini che mostrano la crescente falce di Marte durante l'avvicinamento per un'assistenza gravitazionale",
+      "summary": "La missione Psyche della NASA ha catturato una serie di immagini che mostrano la crescente falce di Marte mentre la sonda si avvicinava al pianeta per un'assistenza gravitazionale.",
+      "spokenText": "La missione Psyche della NASA ha catturato una serie di immagini che mostrano la crescente falce di Marte durante l'avvicinamento per un'assistenza gravitazionale. Durante il sorvolo del 15 maggio 2026, la sonda ha acquisito un mosaico a colori migliorati della superficie marziana. Psyche stava viaggiando da destra a sinistra, da nord-est a sud-ovest su Marte, nei sei minuti necessari per le riprese, con una risoluzione in scala di pixel che varia da 381 metri per pixel sulla destra a 440 metri per pixel sulla sinistra.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "psyche mission"
+      ],
+      "importance": 60,
+      "mustInclude": false,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/"
+      },
+      "analysis": {
+        "mainFact": "La missione Psyche della NASA ha catturato una serie di immagini che mostrano la crescente falce di Marte durante l'avvicinamento per un'assistenza gravitazionale.",
+        "whyItMatters": "La sonda ha acquisito un mosaico a colori migliorati della superficie marziana durante il sorvolo del 15 maggio 2026.",
+        "confirmedFacts": [
+          "La missione Psyche della NASA ha catturato una serie di immagini che mostrano la crescente falce di Marte durante l'avvicinamento per un'assistenza gravitazionale.",
+          "La sonda ha acquisito un mosaico a colori migliorati della superficie marziana durante il sorvolo del 15 maggio 2026.",
+          "Psyche stava viaggiando da destra a sinistra (da nord-est a sud-ovest su Marte) durante i sei minuti necessari per acquisire le immagini per questo mosaico, e la risoluzione in scala di pixel varia da 381 metri per pixel sulla destra a 440 metri per pixel sulla sinistra.",
+          "Il mosaico copre parte della regione di Iapygia delle aspre alture meridionali di Marte, da circa 62 gradi est a 78 gradi est di longitudine e da 4 gradi nord a 14 gradi sud di latitudine."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "Psyche mission"
+        ],
+        "numbersAndDates": [
+          "Psyche stava viaggiando da destra a sinistra (da nord-est a sud-ovest su Marte) durante i sei minuti necessari per acquisire le immagini per questo mosaico, e la risoluzione in scala di pixel varia da 381 metri per pixel sulla destra a 440 metri per pixel sulla sinistra.",
+          "Il mosaico copre parte della regione di Iapygia delle aspre alture meridionali di Marte, da circa 62 gradi est a 78 gradi est di longitudine e da 4 gradi nord a 14 gradi sud di latitudine.",
+          "15",
+          "2026"
+        ]
+      }
+    }
+  ]
+}
