@@ -1,88 +1,100 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-07-21-b2c43ff85ff9",
-  "generatedAt": "2026-07-21T20:30:09.756Z",
+  "catalogId": "daily-quid-2026-07-25-c2a2fbb76c02",
+  "generatedAt": "2026-07-25T22:40:51.569Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-34ff129575e2340c",
-      "title": "Trump: 'In Iran non abbiamo finito'. Ma il Pentagono è a corto di fondi",
-      "summary": "Il presidente Trump annuncia che l'azione militare contro l'Iran non è conclusa, mentre il Pentagono affronta una carenza di fondi. Negli ultimi quattordici giorni, cento soldati americani sono rimasti feriti. Teheran rivendica un attacco che ha distrutto un data center di Amazon in Bahrein, segnando una pericolosa escalation nel conflitto.",
-      "spokenText": "Pasdaran: “Distrutti data center di Amazon in Bahrein”. Teheran colpisce un data center Amazon in Barhein. Feriti 100 americani in 14 giorni. Trump: “Colpiremo la montagna del nucleare”. Il presidente Usa: “Non abbiamo finito” 100 soldati Usa feriti.",
-      "category": "mondo",
+      "id": "story-6429a69c7ae91149",
+      "title": "Completato con successo il volo di Starship, 'scenario da sogno'",
+      "summary": "SpaceX ha completato con successo il tredicesimo volo di prova della sua astronave Starship, definito uno 'scenario da sogno' nonostante un impatto violento del booster in mare. Il test, il secondo per la versione V3 del veicolo, ha centrato tutti gli obiettivi principali della missione, segnando un progresso decisivo verso l'operatività del sistema di lancio più potente mai realizzato.",
+      "spokenText": "SpaceX ha completato con successo il tredicesimo volo di prova di Starship, un test che il team ha definito uno 'scenario da sogno'. Era il secondo tentativo per la versione V3 e il terzo lancio complessivo della missione Starship Flight 13. Il portavoce Dan Huot, visibilmente entusiasta, ha commentato in diretta: 'Sto perdendo la testa, in questo momento'. L'emozione era giustificata dal traguardo raggiunto: per la prima volta la parte superiore della navicella è ammarata intatta nell'Oceano Indiano, continuando a trasmettere immagini anche mentre galleggiava in acqua. Huot ha osservato che si è trattato della 'prima volta che riusciamo a mettere in acqua una Starship intatta'. Con un pizzico di ironia ha poi aggiunto che 'il numero 13 porta fortuna', riferendosi alla riuscita di questo tredicesimo volo con un Super Heavy completamente integrato. Era il secondo test per la V3.",
+      "category": "altro",
       "tags": [
-        "mondo",
-        "pentagono",
-        "iran",
-        "teheran",
-        "pasdaran",
-        "amazon",
-        "bahrein"
+        "altro",
+        "spacex",
+        "starship",
+        "dan huot"
       ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 16,
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 56,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/21/trump-in-iran-non-abbiamo-finito.-ma-il-pentagono-e-a-corto-di-fondi_d22b7e10-c335-49a1-bb63-3ea7796a4eef.html"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/25/completato-con-successo-il-volo-di-starship-scenario-da-sogno_4fb55a80-463d-41a3-bfd1-03baee5169da.html"
       },
       "analysis": {
-        "mainFact": "Pasdaran: “Distrutti data center di Amazon in Bahrein”.",
-        "whyItMatters": "Teheran colpisce un data center Amazon in Barhein",
+        "mainFact": "Completato con successo il volo di Starship, definito uno 'scenario da sogno'.",
+        "whyItMatters": "Il volo di prova, denominato Volo 13, ha raggiunto traguardi fondamentali prima di concludersi con un ammaraggio controllato della parte superiore della navicella Starship nell'Oceano Indiano.",
         "confirmedFacts": [
-          "Pasdaran: “Distrutti data center di Amazon in Bahrein”.",
-          "Teheran colpisce un data center Amazon in Barhein",
-          "Feriti 100 americani in 14 giorni.",
-          "Trump: “Colpiremo la montagna del nucleare”",
-          "Il presidente Usa: “Non abbiamo finito” 100 soldati Usa feriti."
+          "Completato con successo il volo di Starship, definito uno 'scenario da sogno'.",
+          "Il volo di prova, denominato Volo 13, ha raggiunto traguardi fondamentali prima di concludersi con un ammaraggio controllato della parte superiore della navicella Starship nell'Oceano Indiano.",
+          "\"Sto perdendo la testa, in questo momento\", ha detto il portavoce di SpaceX Dan Huot mentre Starship continuava a trasmettere immagini in diretta anche mentre galleggiava nell'Oceano Indiano dopo un ammaraggio controllato.",
+          "Huot ha definito l'atterraggio uno \"scenario da sogno\", osservando: \" la prima volta che riusciamo a mettere in acqua una Starship intatta\".",
+          "\"Il numero 13 porta fortuna\", ha commentato, riferendosi al fatto che questo il tredicesimo volo di una Starship completamente integrata con un Super Heavy.",
+          "Entusiasmo di SpaceX, 'fortunato il 13° tentativo'.",
+          "Era il secondo test per la V3",
+          "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Pentagono",
-          "Iran",
-          "Teheran",
-          "Pasdaran",
-          "Amazon",
-          "Bahrein"
+          "SpaceX",
+          "Starship",
+          "Dan Huot"
         ],
         "numbersAndDates": [
-          "Feriti 100 americani in 14 giorni."
+          "\"Il numero 13 porta fortuna\", ha commentato, riferendosi al fatto che questo il tredicesimo volo di una Starship completamente integrata con un Super Heavy.",
+          "Entusiasmo di SpaceX, 'fortunato il 13° tentativo'.",
+          "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
+          "13"
         ]
       }
     },
     {
-      "id": "story-38d655abfdac413b",
-      "title": "La Francia vieta i social ai minori di 15 anni, è il primo Paese nell’Ue",
-      "summary": "Il Parlamento francese ha approvato una legge che vieta l'uso dei social network ai minori di 15 anni, rendendo la Francia il primo paese dell'Unione Europea ad adottare una misura simile. Il presidente Macron promuove una 'Coalizione dei volenterosi' per proteggere i giovani dalle piattaforme statunitensi e dagli algoritmi cinesi.",
-      "spokenText": "La Francia vieta i social ai minori di 15 anni, è il primo Paese nell’Ue. Macron vuole una “Coalizione dei volenterosi” per proteggere i ragazzi da piattaforme Usa e algoritmi cinesi. Francia prima in Europa: social network vietati ai minori di 15 anni e stop ai cellulari nelle scuole superiori.",
-      "category": "mondo",
+      "id": "story-5daeb4bde8ae1d72",
+      "title": "Il nuovo test di Starship è andato benissimo",
+      "summary": "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13. Centrati tutti i test principali, nonostante un impatto violento del booster in mare.",
+      "spokenText": "SpaceX ha completato con successo il test Starship Flight 13, al terzo tentativo. Dopo una settimana turbolenta, con un annullamento a pochi istanti dal lancio e un rinvio per maltempo, il nuovo tentativo era stato fissato per il 23 luglio. Al decollo, tutti i 33 motori Raptor si sono accesi regolarmente. Il booster ha subito un impatto violento in mare, ma il bilancio complessivo resta molto positivo. Un'immagine ha catturato la fase di rientro della Starship durante il test. Prospettive per Flight 14 Nonostante l'atterraggio duro del booster, il bilancio complessivo della missione molto positivo.",
+      "category": "scienza",
       "tags": [
-        "mondo",
-        "francia"
+        "scienza",
+        "spacex",
+        "starship flight 13"
       ],
-      "importance": 70,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 20,
+      "estimatedSeconds": 38,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/07/21/news/francia_approvato_divieto_social_under_15-425484949/"
+        "name": "Focus",
+        "url": "https://www.focus.it/scienza/spazio/flight-13-di-spacex-starship-e-un-successo-decollo-perfetto-e-primi-satelliti-starlink-v3-in-orbita"
       },
       "analysis": {
-        "mainFact": "La Francia vieta i social ai minori di 15 anni, è il primo Paese nell’Ue",
-        "whyItMatters": "Macron vuole una “Coalizione dei volenterosi” per proteggere i ragazzi da piattaforme Usa e algoritmi cinesi",
+        "mainFact": "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
+        "whyItMatters": "Centrati tutti i test principali, nonostante un impatto violento del booster in mare.",
         "confirmedFacts": [
-          "La Francia vieta i social ai minori di 15 anni, è il primo Paese nell’Ue",
-          "Macron vuole una “Coalizione dei volenterosi” per proteggere i ragazzi da piattaforme Usa e algoritmi cinesi",
-          "Francia prima in Europa: social network vietati ai minori di 15 anni e stop ai cellulari nelle scuole superiori"
+          "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
+          "Centrati tutti i test principali, nonostante un impatto violento del booster in mare.",
+          "Il volo e l'impatto del booster Al terzo tentativo, tutti i 33 motori Raptor si sono accesi regolarmente, permettendo il decollo.",
+          "SpaceX Dopo una settimana turbolenta, segnata da un annullamento pochi istanti prima del lancio e un rinvio per maltempo, SpaceX finalmente riuscita a portare in volo la missione Starship Flight 13 .",
+          "Il nuovo tentativo era stato fissato per il 23 luglio.",
+          "Spazio Flight 13 di SpaceX Starship è un successo: decollo perfetto e primi satelliti Starlink V3 in orbita Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
+          "Prospettive per Flight 14 Nonostante l'atterraggio duro del booster, il bilancio complessivo della missione molto positivo.",
+          "Un'immagine della fase di rientro della Starship di SpaceX durante il test Flight 13."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Francia"
+          "SpaceX",
+          "Starship Flight 13"
         ],
         "numbersAndDates": [
-          "Francia prima in Europa: social network vietati ai minori di 15 anni e stop ai cellulari nelle scuole superiori",
-          "15"
+          "Il volo e l'impatto del booster Al terzo tentativo, tutti i 33 motori Raptor si sono accesi regolarmente, permettendo il decollo.",
+          "SpaceX Dopo una settimana turbolenta, segnata da un annullamento pochi istanti prima del lancio e un rinvio per maltempo, SpaceX finalmente riuscita a portare in volo la missione Starship Flight 13 .",
+          "Il nuovo tentativo era stato fissato per il 23 luglio.",
+          "Spazio Flight 13 di SpaceX Starship è un successo: decollo perfetto e primi satelliti Starlink V3 in orbita Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
+          "Prospettive per Flight 14 Nonostante l'atterraggio duro del booster, il bilancio complessivo della missione molto positivo.",
+          "Un'immagine della fase di rientro della Starship di SpaceX durante il test Flight 13.",
+          "13"
         ]
       }
     },
@@ -90,16 +102,16 @@
       "id": "story-4c4e3b5e98b4e99f",
       "title": "Orso bruno marsicano: i risultati della stima di popolazione 2025 presentati al MASE",
       "summary": "Si è svolta oggi, presso il Ministero dell’Ambiente e della Sicurezza Energetica (MASE), la presentazione della nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione, frutto del campionamento genetico condotto nell’estate 2025. Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
-      "spokenText": "È stata presentata al Ministero dell’Ambiente e della Sicurezza Energetica la nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione nell’Appennino centrale. La ricerca, promossa dal MASE e coordinata da ISPRA, ha documentato la presenza di 81 esemplari. Si tratta del risultato della più estesa e completa attività di monitoraggio genetico mai realizzata per questa popolazione, una delle più minacciate al mondo. Lo studio, condotto nell’ambito del progetto DigitAP e finanziato grazie al PNRR, conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche. L’obiettivo del progetto è stato mettere l’innovazione tecnologica al servizio della conservazione della biodiversità nelle aree protette. Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I. 3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
+      "spokenText": "È stata presentata al Ministero dell’Ambiente e della Sicurezza Energetica la nuova stima di popolazione dell’orso bruno marsicano, la prima condotta sull’intero areale di distribuzione. Lo studio, promosso dal MASE e coordinato da ISPRA, è stato realizzato nell’ambito del progetto DigitAP, finanziato con fondi del PNRR. La ricerca documenta la presenza di 81 esemplari negli oltre 6.000 chilometri quadrati dell’Appennino centrale che costituiscono l’areale di questa sottospecie endemica. Si tratta della più estesa attività di monitoraggio genetico mai realizzata per una delle popolazioni ursine più minacciate al mondo. I risultati confermano la stabilità del nucleo storico e indicano una lenta espansione verso le aree periferiche. Il progetto DigitAP, inserito nella misura del Piano Nazionale di Ripresa e Resilienza dedicata alla digitalizzazione dei parchi nazionali e delle aree marine protette, ha messo l’innovazione tecnologica al servizio della conservazione della biodiversità nelle aree protette.",
       "category": "scienza",
       "tags": [
         "scienza",
         "ministero dell ambiente e della sicurezza energe",
-        "mase",
-        "ispra",
         "orso bruno marsicano",
-        "appennino centrale",
-        "pnrr"
+        "pnrr",
+        "digitap",
+        "ispra",
+        "appennino centrale"
       ],
       "importance": 72,
       "mustInclude": false,
@@ -109,146 +121,143 @@
         "url": "https://www.isprambiente.gov.it/it/news/orso-bruno-marsicano-i-risultati-della-stima-di-popolazione-2025-presentati-al-mase"
       },
       "analysis": {
-        "mainFact": "Presentata al MASE la nuova stima di popolazione dell'orso bruno marsicano, la prima realizzata sull'intero areale di distribuzione.",
-        "whyItMatters": "Orso bruno marsicano: presentata la nuova stima di popolazione nell’Appennino centrale",
+        "mainFact": "Presentata al MASE la nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione.",
+        "whyItMatters": "Stimata la presenza di 81 esemplari nell'intero areale, a conclusione della più estesa attività di monitoraggio genetico mai realizzata per una delle popolazioni ursine più minacciate al mondo.",
         "confirmedFacts": [
-          "Presentata al MASE la nuova stima di popolazione dell'orso bruno marsicano, la prima realizzata sull'intero areale di distribuzione.",
-          "Orso bruno marsicano: presentata la nuova stima di popolazione nell’Appennino centrale",
-          "Stimata la presenza di 81 esemplari nell'intero areale Si è conclusa la più estesa e completa attività di monitoraggio genetico mai realizzata per stimare la dimensione della popolazione di orso bruno marsicano (Ursus arctos marsicanus), una delle popolazioni ursine più minacciate al mondo.",
+          "Presentata al MASE la nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione.",
+          "Stimata la presenza di 81 esemplari nell'intero areale, a conclusione della più estesa attività di monitoraggio genetico mai realizzata per una delle popolazioni ursine più minacciate al mondo.",
+          "La stima si riferisce agli oltre 6.000 km² nell’Appennino centrale che ad oggi costituiscono l’areale di distribuzione di questa sottospecie endemica di orso, gravemente minacciata di estinzione.",
           "Realizzata nell'ambito del progetto DigitAP, finanziato dal PNRR, la ricerca conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
           "Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
+          "Orso bruno marsicano: presentata la nuova stima di popolazione nell’Appennino centrale",
           "Lo studio, promosso dal Ministero dell’Ambiente e della Sicurezza Energetica (MASE) e coordinato da ISPRA, è stato realizzato nell'ambito del progetto DigitAP .",
           "Quest'ultimo, finanziato con fondi del PNRR, ha avuto l’obiettivo di mettere l’innovazione tecnologica al servizio della conservazione della biodiversità nelle aree protette."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ministero dell'Ambiente e della Sicurezza Energetica",
-          "MASE",
+          "Ministero dell’Ambiente e della Sicurezza Energetica (MASE)",
+          "orso bruno marsicano",
+          "PNRR",
+          "DigitAP",
           "ISPRA",
-          "Orso bruno marsicano",
-          "Appennino centrale",
-          "PNRR"
+          "Appennino centrale"
         ],
         "numbersAndDates": [
-          "Stimata la presenza di 81 esemplari nell'intero areale Si è conclusa la più estesa e completa attività di monitoraggio genetico mai realizzata per stimare la dimensione della popolazione di orso bruno marsicano (Ursus arctos marsicanus), una delle popolazioni ursine più minacciate al mondo.",
-          "Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”."
+          "La stima si riferisce agli oltre 6.000 km² nell’Appennino centrale che ad oggi costituiscono l’areale di distribuzione di questa sottospecie endemica di orso, gravemente minacciata di estinzione.",
+          "Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
+          "81"
         ]
       }
     },
     {
-      "id": "story-18f6a8ca6314c266",
-      "title": "Argento nel Sole, ce n’è più di quanto si pensava",
-      "summary": "I ricercatori dell'Università di Uppsala hanno calcolato che il Sole contiene il 55 per cento in più di argento rispetto alle stime precedenti. I risultati si basano su una modellizzazione più realistica dell'atmosfera solare e risolvono un annoso problema relativo alla mancanza di argento nelle vecchie rilevazioni.",
-      "spokenText": "I ricercatori dell'Università di Uppsala hanno calcolato che il Sole contiene il 55 per cento in più di argento rispetto alle stime precedenti. Questo risultato risolve un annoso problema relativo alla mancanza di argento nelle vecchie rilevazioni del Sistema solare.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "universita di uppsala",
-        "sole",
-        "argento"
-      ],
-      "importance": 40,
-      "mustInclude": false,
-      "estimatedSeconds": 16,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/07/21/argento-nel-sole/"
-      },
-      "analysis": {
-        "mainFact": "I ricercatori dell'Università di Uppsala hanno calcolato che il Sole contiene il 55 per cento in più di argento rispetto alle stime precedenti.",
-        "whyItMatters": "Il risultato risolve un annoso problema relativo alla mancanza di argento nelle vecchie rilevazioni del Sistema solare.",
-        "confirmedFacts": [
-          "I ricercatori dell'Università di Uppsala hanno calcolato che il Sole contiene il 55 per cento in più di argento rispetto alle stime precedenti.",
-          "Il risultato risolve un annoso problema relativo alla mancanza di argento nelle vecchie rilevazioni del Sistema solare.",
-          "I ricercatori dell’Università di Uppsala hanno calcolato che il Sole contiene il 55 per cento in più di argento rispetto a quanto stimato in precedenza.",
-          "I risultati si basano su una modellizzazione più realistica dell’atmosfera solare e risolvono un annoso problema relativo alla mancanza di argento nel Sistema solare."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Università di Uppsala",
-          "Sole",
-          "argento"
-        ],
-        "numbersAndDates": [
-          "55"
-        ]
-      }
-    },
-    {
-      "id": "story-032dd7655313b161",
-      "title": "Pasdaran, 'abbiamo distrutto un data center di Amazon in Bahrein'",
-      "summary": "I Pasdaran rivendicano la distruzione di un data center di Amazon in Bahrein.",
-      "spokenText": "I Pasdaran rivendicano la distruzione di un data center di Amazon in Bahrein. Teheran ha colpito la struttura. In quattordici giorni, cento soldati americani sono rimasti feriti. I mediatori propongono una tregua di dieci giorni. Trump: 'In Iran non abbiamo finito'.",
+      "id": "story-038fded7c777e9fb",
+      "title": "Circa 250mila evacuati negli incendi fra Francia e Spagna",
+      "summary": "I roghi imperversano nel sud-ovest francese e vicino a Madrid",
+      "spokenText": "Incendi senza precedenti stanno devastando il sud-ovest della Francia e il centro della Spagna. In Francia, il ministro dell'Interno ha annunciato 167.000 evacuati in Gironda, a cui si aggiungono 30.000 persone nel dipartimento delle Lande. Complessivamente, circa 250.000 persone sono state evacuate nelle aree colpite. Incendi «senza precedenti» in Francia e Spagna hanno portato all'evacuazione di 270mila persone. I roghi imperversano nel sud-ovest francese e vicino a Madrid. Madrid, bruciati 25mila ettari: due volte la superficie di Parigi Gli incendi che imperversano a ovest di Madrid hanno bruciato fino a 25mila ettari , ha dichiarato il ministero dell’Interno spagnolo.",
       "category": "altro",
       "tags": [
         "altro",
-        "pasdaran",
-        "amazon",
-        "bahrein",
-        "iran",
-        "teheran"
+        "francia",
+        "spagna",
+        "gironda",
+        "lande",
+        "madrid"
       ],
       "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 17,
+      "estimatedSeconds": 40,
       "source": {
         "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/21/pasdaran-abbiamo-distrutto-un-data-center-di-amazon-in-bahrein_9b04f84c-e818-4a67-b34b-7df79852e57c.html"
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/circa-250mila-evacuati-negli-incendi-fra-francia-e-spagna_3f129ceb-8475-43c5-93ae-a4b72761fd76.html"
       },
       "analysis": {
-        "mainFact": "I Pasdaran rivendicano la distruzione di un data center di Amazon in Bahrein.",
-        "whyItMatters": "Trump: 'In Iran non abbiamo finito'.",
+        "mainFact": "Incendi «senza precedenti» in Francia e Spagna hanno portato all'evacuazione di 270mila persone.",
+        "whyItMatters": "I roghi imperversano nel sud-ovest francese e vicino a Madrid",
         "confirmedFacts": [
-          "I Pasdaran rivendicano la distruzione di un data center di Amazon in Bahrein.",
-          "Trump: 'In Iran non abbiamo finito'.",
-          "Il presidente Usa: “Non abbiamo finito” 100 soldati Usa feriti.",
-          "Feriti 100 americani in 14 giorni.",
-          "Teheran colpisce un data center Amazon in Barhein",
-          "I mediatori propongono tregua di 10 giorni."
+          "Incendi «senza precedenti» in Francia e Spagna hanno portato all'evacuazione di 270mila persone.",
+          "I roghi imperversano nel sud-ovest francese e vicino a Madrid",
+          "In Francia, il ministro dell'Interno ha annunciato 167.000 persone evacuate in Gironda, nel sud-ovest del Paese, a cui si aggiungono 30.000 evacuati poco pi a sud, nel dipartimento delle Lande.",
+          "Madrid, bruciati 25mila ettari: due volte la superficie di Parigi Gli incendi che imperversano a ovest di Madrid hanno bruciato fino a 25mila ettari , ha dichiarato il ministero dell’Interno spagnolo.",
+          "Circa 250.000 persone in totale sono finora state evacuate nel sud-ovest della Francia e nel centro della Spagna, dove imperversano vasti e incontrollabili incendi boschivi."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Pasdaran",
-          "Amazon",
-          "Bahrein",
-          "Iran",
-          "Teheran"
+          "Francia",
+          "Spagna",
+          "Gironda",
+          "Lande",
+          "Madrid"
         ],
         "numbersAndDates": [
-          "Feriti 100 americani in 14 giorni.",
-          "I mediatori propongono tregua di 10 giorni."
+          "In Francia, il ministro dell'Interno ha annunciato 167.000 persone evacuate in Gironda, nel sud-ovest del Paese, a cui si aggiungono 30.000 evacuati poco pi a sud, nel dipartimento delle Lande.",
+          "Circa 250.000 persone in totale sono finora state evacuate nel sud-ovest della Francia e nel centro della Spagna, dove imperversano vasti e incontrollabili incendi boschivi."
+        ]
+      }
+    },
+    {
+      "id": "story-63aeb9cfaf4b61d8",
+      "title": "Tour, epica vittoria di Carapaz sull’Alpe d’Huez, Evenepoel 2° stacca Pogacar e Del Toro",
+      "summary": "L’ecuadoriano passa per primo su tutti i gran premi della montagna e approfitta anche di due cadute di Kuss. Lo sloveno festeggerà domani a Parigi: ha 6’26\" su Remco",
+      "spokenText": "Evenepoel 2° stacca Pogacar e Del Toro. L'ecuadoriano passa per primo su tutti i gran premi della montagna e approfitta anche di due cadute di Kuss. “Non ci credo ancora” ha detto con un sorriso smagliante Carapaz.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "alpe d huez"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 15,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/sport/ciclismo/2026/07/25/news/carapaz_vince_alpe_d_huez_evenepoel_stacca_pogacar_del_toro_tour_de_france-425492783/"
+      },
+      "analysis": {
+        "mainFact": "Evenepoel 2° stacca Pogacar e Del Toro.",
+        "whyItMatters": "L'ecuadoriano passa per primo su tutti i gran premi della montagna e approfitta anche di due cadute di Kuss.",
+        "confirmedFacts": [
+          "Evenepoel 2° stacca Pogacar e Del Toro.",
+          "L'ecuadoriano passa per primo su tutti i gran premi della montagna e approfitta anche di due cadute di Kuss.",
+          "“Non ci credo ancora” ha detto con un sorriso smagliante Carapaz."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Alpe d'Huez"
+        ],
+        "numbersAndDates": [
+          "2"
         ]
       }
     },
     {
       "id": "story-0f73f7b60aa4f8c3",
       "title": "Orso bruno marsicano: presentata la nuova stima di popolazione nell’Appennino centrale",
-      "summary": "Il monitoraggio genetico più esteso mai realizzato, finanziato dal PNRR, ha stimato la presenza di 81 esemplari di orso bruno marsicano nell'Appennino centrale. Lo studio conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche, offrendo dati cruciali per la conservazione della specie.",
-      "spokenText": "Il monitoraggio genetico più esteso mai realizzato, finanziato dal PNRR, ha stimato la presenza di 81 esemplari di orso bruno marsicano nell'Appennino centrale. Lo studio conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche, offrendo dati cruciali per la conservazione della specie.",
+      "summary": "È stata presentata al Ministero dell'Ambiente la nuova stima della popolazione di orso bruno marsicano, frutto della più estesa attività di monitoraggio genetico mai realizzata sull'intero areale. La ricerca, condotta nell'ambito del progetto DigitAP finanziato dal PNRR, stima la presenza di 81 esemplari, confermando la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
+      "spokenText": "È stata presentata al Ministero dell'Ambiente la nuova stima della popolazione di orso bruno marsicano, frutto della più estesa attività di monitoraggio genetico mai realizzata sull'intero areale. La ricerca, condotta nell'ambito del progetto DigitAP finanziato dal PNRR, stima la presenza di 81 esemplari, confermando la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
       "category": "scienza",
       "tags": [
         "scienza"
       ],
-      "importance": 52,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 19,
+      "estimatedSeconds": 23,
       "source": {
         "name": "ISPRA Notizie",
         "url": "https://www.isprambiente.gov.it/it/news/orso-bruno-marsicano-presentata-la-nuova-stima-di-popolazione-nellappennino-centrale"
       },
       "analysis": {
-        "mainFact": "Il monitoraggio genetico più esteso mai realizzato, finanziato dal PNRR, ha stimato la presenza di 81 esemplari di orso bruno marsicano nell'Appennino centrale. Lo studio conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche, offrendo dati cruciali per la conservazione della specie.",
-        "whyItMatters": "Fornisce una base scientifica aggiornata per le politiche di conservazione di una specie simbolo a rischio di estinzione.",
+        "mainFact": "È stata presentata al Ministero dell'Ambiente la nuova stima della popolazione di orso bruno marsicano, frutto della più estesa attività di monitoraggio genetico mai realizzata sull'intero areale. La ricerca, condotta nell'ambito del progetto DigitAP finanziato dal PNRR, stima la presenza di 81 esemplari, confermando la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
+        "whyItMatters": "La stima della popolazione di orso bruno marsicano è un indicatore chiave dello stato di salute degli ecosistemi appenninici e dell'efficacia delle politiche di conservazione.",
         "confirmedFacts": [
-          "Il monitoraggio genetico più esteso mai realizzato, finanziato dal PNRR, ha stimato la presenza di 81 esemplari di orso bruno marsicano nell'Appennino centrale. Lo studio conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche, offrendo dati cruciali per la conservazione della specie.",
-          "Fornisce una base scientifica aggiornata per le politiche di conservazione di una specie simbolo a rischio di estinzione.",
+          "È stata presentata al Ministero dell'Ambiente la nuova stima della popolazione di orso bruno marsicano, frutto della più estesa attività di monitoraggio genetico mai realizzata sull'intero areale. La ricerca, condotta nell'ambito del progetto DigitAP finanziato dal PNRR, stima la presenza di 81 esemplari, confermando la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
+          "La stima della popolazione di orso bruno marsicano è un indicatore chiave dello stato di salute degli ecosistemi appenninici e dell'efficacia delle politiche di conservazione.",
           "Orso bruno marsicano: i risultati della stima di popolazione 2025 presentati al MASE",
           "Realizzata nell'ambito del progetto DigitAP, finanziato dal PNRR, la ricerca conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
           "Stimata la presenza di 81 esemplari nell'intero areale Si è conclusa la più estesa e completa attività di monitoraggio genetico mai realizzata per stimare la dimensione della popolazione di orso bruno marsicano (Ursus arctos marsicanus), una delle popolazioni ursine più minacciate al mondo.",
           "Lo studio, promosso dal Ministero dell’Ambiente e della Sicurezza Energetica (MASE) e coordinato da ISPRA, è stato realizzato nell'ambito del progetto DigitAP .",
           "Quest'ultimo, finanziato con fondi del PNRR, ha avuto l’obiettivo di mettere l’innovazione tecnologica al servizio della conservazione della biodiversità nelle aree protette.",
           "Si è svolta oggi, presso il Ministero dell’Ambiente e della Sicurezza Energetica (MASE), la presentazione della nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione, frutto del campionamento genetico condotto nell’estate 2025.",
-          "Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”."
+          "Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
+          "I numeri della popolazione: stabilità ed espansione L'analisi modellistica, basata sui dati genetici raccolti nell’estate del 2025, ha stimato una popolazione complessiva di 81 individui ( 43 femmine e 38 maschi ), con un intervallo di incertezza compreso tra 73 e 88 esemplari."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -256,27 +265,27 @@
       }
     },
     {
-      "id": "story-78d9258e8b885979",
-      "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica",
-      "summary": "Il satellite NISAR, frutto della collaborazione tra NASA e ISRO, ha iniziato a rilasciare dati. I suoi potenti strumenti radar hanno già rivelato una formazione simile a un colibrì in Antartide, dimostrando le capacità di osservazione senza precedenti della missione per il monitoraggio dei cambiamenti globali.",
-      "spokenText": "Il satellite NISAR, frutto della collaborazione tra NASA e ISRO, ha iniziato a rilasciare dati. I suoi potenti strumenti radar hanno già rivelato una formazione simile a un colibrì in Antartide, dimostrando le capacità di osservazione senza precedenti della missione per il monitoraggio dei cambiamenti globali.",
+      "id": "story-bc2237f7d9d55774",
+      "title": "Venere? Un pianeta tutt’altro che inattivo",
+      "summary": "Una nuova ricerca guidata dal Politecnico di Zurigo, basata su simulazioni tridimensionali, indica che Venere è un mondo geologicamente attivo. Lo studio suggerisce che i grandi sistemi di rift del pianeta siano molto più giovani di quanto si pensasse, ribaltando l'idea di un pianeta spento e rivelando una dinamica interna ancora in corso.",
+      "spokenText": "Una nuova ricerca guidata dal Politecnico di Zurigo, basata su simulazioni tridimensionali, indica che Venere è un mondo geologicamente attivo. Lo studio suggerisce che i grandi sistemi di rift del pianeta siano molto più giovani di quanto si pensasse, ribaltando l'idea di un pianeta spento e rivelando una dinamica interna ancora in corso.",
       "category": "scienza",
       "tags": [
         "scienza"
       ],
-      "importance": 52,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 19,
+      "estimatedSeconds": 22,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/07/24/venere-pianeta-geologicamente-inattivo/"
       },
       "analysis": {
-        "mainFact": "Il satellite NISAR, frutto della collaborazione tra NASA e ISRO, ha iniziato a rilasciare dati. I suoi potenti strumenti radar hanno già rivelato una formazione simile a un colibrì in Antartide, dimostrando le capacità di osservazione senza precedenti della missione per il monitoraggio dei cambiamenti globali.",
-        "whyItMatters": "I dati del satellite NISAR aiuteranno a monitorare i cambiamenti climatici, i movimenti tettonici e le risorse naturali con una precisione senza precedenti.",
+        "mainFact": "Una nuova ricerca guidata dal Politecnico di Zurigo, basata su simulazioni tridimensionali, indica che Venere è un mondo geologicamente attivo. Lo studio suggerisce che i grandi sistemi di rift del pianeta siano molto più giovani di quanto si pensasse, ribaltando l'idea di un pianeta spento e rivelando una dinamica interna ancora in corso.",
+        "whyItMatters": "Comprendere l'attività geologica di Venere è fondamentale per studiare l'evoluzione dei pianeti terrestri e i meccanismi che regolano il clima planetario.",
         "confirmedFacts": [
-          "Il satellite NISAR, frutto della collaborazione tra NASA e ISRO, ha iniziato a rilasciare dati. I suoi potenti strumenti radar hanno già rivelato una formazione simile a un colibrì in Antartide, dimostrando le capacità di osservazione senza precedenti della missione per il monitoraggio dei cambiamenti globali.",
-          "I dati del satellite NISAR aiuteranno a monitorare i cambiamenti climatici, i movimenti tettonici e le risorse naturali con una precisione senza precedenti."
+          "Una nuova ricerca guidata dal Politecnico di Zurigo, basata su simulazioni tridimensionali, indica che Venere è un mondo geologicamente attivo. Lo studio suggerisce che i grandi sistemi di rift del pianeta siano molto più giovani di quanto si pensasse, ribaltando l'idea di un pianeta spento e rivelando una dinamica interna ancora in corso.",
+          "Comprendere l'attività geologica di Venere è fondamentale per studiare l'evoluzione dei pianeti terrestri e i meccanismi che regolano il clima planetario."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -284,29 +293,27 @@
       }
     },
     {
-      "id": "story-d88b8579b1ddd785",
-      "title": "Francia prima in Europa: social network vietati ai minori di 15 anni e stop ai cellulari nelle scuole superiori",
-      "summary": "Il Parlamento francese ha adottato il testo che introduce il divieto dell’uso dei social network per i minori di 15 anni, rendendo la Francia il primo Paese Ue ad approvare...",
-      "spokenText": "Il Parlamento francese ha adottato il testo che introduce il divieto dell’uso dei social network per i minori di 15 anni, rendendo la Francia il primo Paese Ue ad approvare...",
+      "id": "story-c7fe8c7bfc163aef",
+      "title": "Guerra Ucraina - Russia, le news. Missili balistici su Kiev, almeno due colpiscono il centro della capitale",
+      "summary": "Nuova ondata di missili balistici russi ha colpito il centro di Kiev. Il presidente ucraino Zelensky ha dichiarato che nel Mar Caspio sono state colpite navi che trasportavano armi per l'Iran, accusa che Teheran ha definito un atto di aggressione confermando una vittima. La portavoce del ministero degli Esteri russo Zakharova ha attaccato il ministro della Difesa italiano Crosetto. La Romania ha segnalato l'abbattimento di un secondo drone sul proprio territorio.",
+      "spokenText": "Nuova ondata di missili balistici russi ha colpito il centro di Kiev. Il presidente ucraino Zelensky ha dichiarato che nel Mar Caspio sono state colpite navi che trasportavano armi per l'Iran, accusa che Teheran ha definito un atto di aggressione confermando una vittima. La portavoce del ministero degli Esteri russo Zakharova ha attaccato il ministro della Difesa italiano Crosetto. La Romania ha segnalato l'abbattimento di un secondo drone sul proprio territorio.",
       "category": "mondo",
       "tags": [
         "mondo"
       ],
-      "importance": 70,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 12,
+      "estimatedSeconds": 29,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/francia-parlamento-approva-divieto-social-sotto-15-anni-primo-paese-ue-AJlgrZR"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/07/26/diretta/guerra_ucraina_russia_news_oggi-425493456/"
       },
       "analysis": {
-        "mainFact": "Il Parlamento francese ha adottato il testo che introduce il divieto dell’uso dei social network per i minori di 15 anni, rendendo la Francia il primo Paese Ue ad approvare...",
-        "whyItMatters": "Notizia di interesse generale.",
+        "mainFact": "Nuova ondata di missili balistici russi ha colpito il centro di Kiev. Il presidente ucraino Zelensky ha dichiarato che nel Mar Caspio sono state colpite navi che trasportavano armi per l'Iran, accusa che Teheran ha definito un atto di aggressione confermando una vittima. La portavoce del ministero degli Esteri russo Zakharova ha attaccato il ministro della Difesa italiano Crosetto. La Romania ha segnalato l'abbattimento di un secondo drone sul proprio territorio.",
+        "whyItMatters": "L'intensificarsi degli attacchi russi e le accuse di forniture militari all'Iran allargano il conflitto, aumentando l'instabilità globale e il rischio di un confronto più ampio.",
         "confirmedFacts": [
-          "Il Parlamento francese ha adottato il testo che introduce il divieto dell’uso dei social network per i minori di 15 anni, rendendo la Francia il primo Paese Ue ad approvare...",
-          "Notizia di interesse generale.",
-          "Francia prima in Europa: social network vietati ai minori di 15 anni e stop ai cellulari nelle scuole superiori",
-          "Sì del Parlamento, Macron vuole una “Coalizione dei volenterosi” per proteggere i ragazzi da piattaforme Usa e algoritmi cinesi"
+          "Nuova ondata di missili balistici russi ha colpito il centro di Kiev. Il presidente ucraino Zelensky ha dichiarato che nel Mar Caspio sono state colpite navi che trasportavano armi per l'Iran, accusa che Teheran ha definito un atto di aggressione confermando una vittima. La portavoce del ministero degli Esteri russo Zakharova ha attaccato il ministro della Difesa italiano Crosetto. La Romania ha segnalato l'abbattimento di un secondo drone sul proprio territorio.",
+          "L'intensificarsi degli attacchi russi e le accuse di forniture militari all'Iran allargano il conflitto, aumentando l'instabilità globale e il rischio di un confronto più ampio."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -314,27 +321,27 @@
       }
     },
     {
-      "id": "story-37431396b0e7a45c",
-      "title": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine'",
-      "summary": "La presidente del Consiglio: 'Verità sulla morte di Fakir'. Schlein: 'Lo Stato ha fallito e proprio lo Stato deve fare piena luce'. Bufera sugli scontri. Lepore: 'Solo una piazza ci rappresenta'.",
-      "spokenText": "La presidente del Consiglio: 'Verità sulla morte di Fakir'. Schlein: 'Lo Stato ha fallito e proprio lo Stato deve fare piena luce'. Bufera sugli scontri. Lepore: 'Solo una piazza ci rappresenta'.",
-      "category": "mondo",
+      "id": "story-548d5f7446cef6ee",
+      "title": "Falcon 9 contro la Luna: appuntamento il 5 agosto",
+      "summary": "Una collaborazione scientifica internazionale si prepara a osservare l'impatto controllato dello stadio superiore di un razzo Falcon 9 di SpaceX sulla superficie lunare, previsto per il 5 agosto. L'evento, che genererà un bagliore e una nube di polvere, permetterà di studiare la composizione del suolo nel cratere dove avverrà l'impatto, fornendo dati cruciali per la futura esplorazione.",
+      "spokenText": "Una collaborazione scientifica internazionale si prepara a osservare l'impatto controllato dello stadio superiore di un razzo Falcon 9 di SpaceX sulla superficie lunare, previsto per il 5 agosto. L'evento, che genererà un bagliore e una nube di polvere, permetterà di studiare la composizione del suolo nel cratere dove avverrà l'impatto, fornendo dati cruciali per la futura esplorazione.",
+      "category": "scienza",
       "tags": [
-        "mondo"
+        "scienza"
       ],
-      "importance": 70,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 13,
+      "estimatedSeconds": 23,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile.-lepore-chiedere-la-verita-non-delegittima-le-divise_5e512a40-7ef6-47a1-8d8c-b364832957c4.html"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/07/24/falcon-9-contro-la-luna-appuntamento-il-5-agosto/"
       },
       "analysis": {
-        "mainFact": "La presidente del Consiglio: 'Verità sulla morte di Fakir'. Schlein: 'Lo Stato ha fallito e proprio lo Stato deve fare piena luce'. Bufera sugli scontri. Lepore: 'Solo una piazza ci rappresenta'.",
-        "whyItMatters": "Notizia di interesse generale.",
+        "mainFact": "Una collaborazione scientifica internazionale si prepara a osservare l'impatto controllato dello stadio superiore di un razzo Falcon 9 di SpaceX sulla superficie lunare, previsto per il 5 agosto. L'evento, che genererà un bagliore e una nube di polvere, permetterà di studiare la composizione del suolo nel cratere dove avverrà l'impatto, fornendo dati cruciali per la futura esplorazione.",
+        "whyItMatters": "L'impatto offrirà dati preziosi sulla composizione del suolo lunare e sulla dinamica degli impatti, contribuendo alla preparazione di future missioni umane.",
         "confirmedFacts": [
-          "La presidente del Consiglio: 'Verità sulla morte di Fakir'. Schlein: 'Lo Stato ha fallito e proprio lo Stato deve fare piena luce'. Bufera sugli scontri. Lepore: 'Solo una piazza ci rappresenta'.",
-          "Notizia di interesse generale."
+          "Una collaborazione scientifica internazionale si prepara a osservare l'impatto controllato dello stadio superiore di un razzo Falcon 9 di SpaceX sulla superficie lunare, previsto per il 5 agosto. L'evento, che genererà un bagliore e una nube di polvere, permetterà di studiare la composizione del suolo nel cratere dove avverrà l'impatto, fornendo dati cruciali per la futura esplorazione.",
+          "L'impatto offrirà dati preziosi sulla composizione del suolo lunare e sulla dinamica degli impatti, contribuendo alla preparazione di future missioni umane."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -342,26 +349,54 @@
       }
     },
     {
-      "id": "story-d724bce47f0a610e",
-      "title": "Hegseth, 'è urgente approvare i fondi al Pentagono per 67 miliardi'",
-      "summary": "Al Congresso chiede 1,5 miliardi per carburanti e 2 miliardi per equipaggiamenti",
-      "spokenText": "Al Congresso chiede 1,5 miliardi per carburanti e 2 miliardi per equipaggiamenti",
+      "id": "story-4256ca5463ae07c5",
+      "title": "Incendi «senza precedenti» in Francia e Spagna, evacuate 270mila persone. Un morto vicino Valencia",
+      "summary": "Incendi di proporzioni storiche stanno devastando vaste aree della Francia sud-occidentale e della Spagna. Le fiamme hanno già causato un morto vicino a Valencia e costretto all'evacuazione di circa 270.000 persone. Le aree più colpite sono quelle di Bordeaux e della Gironda in Francia, mentre il governo spagnolo ha dichiarato lo stato di emergenza nazionale per far fronte alla crisi.",
+      "spokenText": "Incendi di proporzioni storiche stanno devastando vaste aree della Francia sud-occidentale e della Spagna. Le fiamme hanno già causato un morto vicino a Valencia e costretto all'evacuazione di circa 270.000 persone. Le aree più colpite sono quelle di Bordeaux e della Gironda in Francia, mentre il governo spagnolo ha dichiarato lo stato di emergenza nazionale per far fronte alla crisi.",
       "category": "altro",
       "tags": [
         "altro"
       ],
-      "importance": 70,
+      "importance": 60,
       "mustInclude": false,
-      "estimatedSeconds": 5,
+      "estimatedSeconds": 24,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/hegseth-e-urgente-approvare-i-fondi-al-pentagono-per-67-miliardi_efb69589-f0a4-44a3-bd12-20006a489412.html"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/incendi-francia-e-spagna-evacuate-220mila-persone-AJGZrWV"
       },
       "analysis": {
-        "mainFact": "Al Congresso chiede 1,5 miliardi per carburanti e 2 miliardi per equipaggiamenti",
+        "mainFact": "Incendi di proporzioni storiche stanno devastando vaste aree della Francia sud-occidentale e della Spagna. Le fiamme hanno già causato un morto vicino a Valencia e costretto all'evacuazione di circa 270.000 persone. Le aree più colpite sono quelle di Bordeaux e della Gironda in Francia, mentre il governo spagnolo ha dichiarato lo stato di emergenza nazionale per far fronte alla crisi.",
+        "whyItMatters": "L'evento sottolinea l'impatto crescente del cambiamento climatico in Europa, mettendo a dura prova i sistemi di protezione civile e avendo potenziali ripercussioni economiche e politiche.",
+        "confirmedFacts": [
+          "Incendi di proporzioni storiche stanno devastando vaste aree della Francia sud-occidentale e della Spagna. Le fiamme hanno già causato un morto vicino a Valencia e costretto all'evacuazione di circa 270.000 persone. Le aree più colpite sono quelle di Bordeaux e della Gironda in Francia, mentre il governo spagnolo ha dichiarato lo stato di emergenza nazionale per far fronte alla crisi.",
+          "L'evento sottolinea l'impatto crescente del cambiamento climatico in Europa, mettendo a dura prova i sistemi di protezione civile e avendo potenziali ripercussioni economiche e politiche."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-4a13514f0fa1c84d",
+      "title": "Mosca punge Crosetto: 'Un posto a Fedorov? Meglio Bin Laden'",
+      "summary": "Attacco di Zakharova dopo l'intervista. Il presidente kazako a Putin: 'La guerra deve finire'",
+      "spokenText": "Attacco di Zakharova dopo l'intervista. Il presidente kazako a Putin: 'La guerra deve finire'",
+      "category": "mondo",
+      "tags": [
+        "mondo"
+      ],
+      "importance": 100,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/25/zakharova-crosetto-offre-un-posto-a-fedorov-meglio-bin-laden..._e7bc33b0-2bb6-4506-9549-2d10566f73c4.html"
+      },
+      "analysis": {
+        "mainFact": "Attacco di Zakharova dopo l'intervista. Il presidente kazako a Putin: 'La guerra deve finire'",
         "whyItMatters": "Notizia di interesse generale.",
         "confirmedFacts": [
-          "Al Congresso chiede 1,5 miliardi per carburanti e 2 miliardi per equipaggiamenti",
+          "Attacco di Zakharova dopo l'intervista. Il presidente kazako a Putin: 'La guerra deve finire'",
           "Notizia di interesse generale."
         ],
         "uncertainties": [],
@@ -370,27 +405,27 @@
       }
     },
     {
-      "id": "story-224986083299a38d",
-      "title": "Quanto è spessa la regolite lunare?",
-      "summary": "Un nuovo studio della Brown University ha mappato lo spessore della regolite lunare analizzando oltre 300 crateri da impatto. I dati confermano uno strato medio di sei metri negli altipiani e di quattro nei mari, un'informazione chiave per la pianificazione delle future basi lunari.",
-      "spokenText": "Un nuovo studio della Brown University ha mappato lo spessore della regolite lunare analizzando oltre 300 crateri da impatto. I dati confermano uno strato medio di sei metri negli altipiani e di quattro nei mari, un'informazione chiave per la pianificazione delle future basi lunari.",
+      "id": "story-d4703b279518d1c6",
+      "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
+      "summary": "Una delle due sonde della missione ESCAPADE della NASA, diretta verso Marte, ha catturato un suggestivo ritratto di famiglia della Terra e della Luna. L'immagine, scattata il 3 luglio a una distanza di oltre 584.000 chilometri, mostra il nostro pianeta e il suo satellite in luce visibile e infrarossa termica, offrendo una prospettiva unica del sistema Terra-Luna.",
+      "spokenText": "Una delle due sonde della missione ESCAPADE della NASA, diretta verso Marte, ha catturato un suggestivo ritratto di famiglia della Terra e della Luna. L'immagine, scattata il 3 luglio a una distanza di oltre 584.000 chilometri, mostra il nostro pianeta e il suo satellite in luce visibile e infrarossa termica, offrendo una prospettiva unica del sistema Terra-Luna.",
       "category": "scienza",
       "tags": [
         "scienza"
       ],
-      "importance": 40,
+      "importance": 60,
       "mustInclude": false,
-      "estimatedSeconds": 18,
+      "estimatedSeconds": 23,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/07/21/quanto-e-spessa-la-regolite-lunare/"
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/"
       },
       "analysis": {
-        "mainFact": "Un nuovo studio della Brown University ha mappato lo spessore della regolite lunare analizzando oltre 300 crateri da impatto. I dati confermano uno strato medio di sei metri negli altipiani e di quattro nei mari, un'informazione chiave per la pianificazione delle future basi lunari.",
-        "whyItMatters": "Conoscere lo spessore della regolite è fondamentale per pianificare la costruzione di basi lunari e l'estrazione di risorse.",
+        "mainFact": "Una delle due sonde della missione ESCAPADE della NASA, diretta verso Marte, ha catturato un suggestivo ritratto di famiglia della Terra e della Luna. L'immagine, scattata il 3 luglio a una distanza di oltre 584.000 chilometri, mostra il nostro pianeta e il suo satellite in luce visibile e infrarossa termica, offrendo una prospettiva unica del sistema Terra-Luna.",
+        "whyItMatters": "La missione ESCAPADE, diretta su Marte, rappresenta un passo avanti nell'esplorazione interplanetaria a basso costo, e l'immagine ha un forte valore simbolico e divulgativo.",
         "confirmedFacts": [
-          "Un nuovo studio della Brown University ha mappato lo spessore della regolite lunare analizzando oltre 300 crateri da impatto. I dati confermano uno strato medio di sei metri negli altipiani e di quattro nei mari, un'informazione chiave per la pianificazione delle future basi lunari.",
-          "Conoscere lo spessore della regolite è fondamentale per pianificare la costruzione di basi lunari e l'estrazione di risorse."
+          "Una delle due sonde della missione ESCAPADE della NASA, diretta verso Marte, ha catturato un suggestivo ritratto di famiglia della Terra e della Luna. L'immagine, scattata il 3 luglio a una distanza di oltre 584.000 chilometri, mostra il nostro pianeta e il suo satellite in luce visibile e infrarossa termica, offrendo una prospettiva unica del sistema Terra-Luna.",
+          "La missione ESCAPADE, diretta su Marte, rappresenta un passo avanti nell'esplorazione interplanetaria a basso costo, e l'immagine ha un forte valore simbolico e divulgativo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -398,27 +433,27 @@
       }
     },
     {
-      "id": "story-5ae5fc018567fe7f",
-      "title": "Amore nell’era dello swipe: relazioni liquide, desiderio e vulnerabilità nel dating digitale",
-      "summary": "Le relazioni digitali stanno cambiando il modo di vivere il desiderio, l'intimità e i legami affettivi. L'era dello swipe crea nuove opportunità di incontro ma anche nuove forme di incertezza e vulnerabilità, in un contesto di 'relazioni liquide' dove la scelta abbondante può paradossalmente rendere più difficile costruire legami solidi.",
-      "spokenText": "Le relazioni digitali stanno cambiando il modo di vivere il desiderio, l'intimità e i legami affettivi. L'era dello swipe crea nuove opportunità di incontro ma anche nuove forme di incertezza e vulnerabilità, in un contesto di 'relazioni liquide' dove la scelta abbondante può paradossalmente rendere più difficile costruire legami solidi.",
-      "category": "tecnologia",
+      "id": "story-575068589a985f93",
+      "title": "New Crew Members Welcomed to International Space Station",
+      "summary": "Tre nuovi membri dell'equipaggio, i cosmonauti di Roscosmos Anna Kikina e Pyotr Dubrov e l'astronauta NASA Anil Menon, sono stati accolti a bordo della Stazione Spaziale Internazionale. Il trio è arrivato sulla stazione il 14 luglio 2026, dopo un lancio avvenuto due giorni prima, unendosi agli altri occupanti del laboratorio orbitante per la Expedition 74.",
+      "spokenText": "Tre nuovi membri dell'equipaggio, i cosmonauti di Roscosmos Anna Kikina e Pyotr Dubrov e l'astronauta NASA Anil Menon, sono stati accolti a bordo della Stazione Spaziale Internazionale. Il trio è arrivato sulla stazione il 14 luglio 2026, dopo un lancio avvenuto due giorni prima, unendosi agli altri occupanti del laboratorio orbitante per la Expedition 74.",
+      "category": "scienza",
       "tags": [
-        "tecnologia"
+        "scienza"
       ],
-      "importance": 40,
+      "importance": 50,
       "mustInclude": false,
-      "estimatedSeconds": 20,
+      "estimatedSeconds": 22,
       "source": {
-        "name": "State of Mind (Psicologia)",
-        "url": "https://www.stateofmind.it/2026/07/relazioni-app-dating/?utm_source=rss&utm_medium=rss&utm_campaign=relazioni-app-dating"
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/"
       },
       "analysis": {
-        "mainFact": "Le relazioni digitali stanno cambiando il modo di vivere il desiderio, l'intimità e i legami affettivi. L'era dello swipe crea nuove opportunità di incontro ma anche nuove forme di incertezza e vulnerabilità, in un contesto di 'relazioni liquide' dove la scelta abbondante può paradossalmente rendere più difficile costruire legami solidi.",
-        "whyItMatters": "Aiuta a comprendere come la tecnologia stia rimodellando l'intimità, il desiderio e la formazione dei legami affettivi.",
+        "mainFact": "Tre nuovi membri dell'equipaggio, i cosmonauti di Roscosmos Anna Kikina e Pyotr Dubrov e l'astronauta NASA Anil Menon, sono stati accolti a bordo della Stazione Spaziale Internazionale. Il trio è arrivato sulla stazione il 14 luglio 2026, dopo un lancio avvenuto due giorni prima, unendosi agli altri occupanti del laboratorio orbitante per la Expedition 74.",
+        "whyItMatters": "La Stazione Spaziale Internazionale rimane un simbolo di cooperazione pacifica e un laboratorio cruciale per la ricerca scientifica in microgravità.",
         "confirmedFacts": [
-          "Le relazioni digitali stanno cambiando il modo di vivere il desiderio, l'intimità e i legami affettivi. L'era dello swipe crea nuove opportunità di incontro ma anche nuove forme di incertezza e vulnerabilità, in un contesto di 'relazioni liquide' dove la scelta abbondante può paradossalmente rendere più difficile costruire legami solidi.",
-          "Aiuta a comprendere come la tecnologia stia rimodellando l'intimità, il desiderio e la formazione dei legami affettivi."
+          "Tre nuovi membri dell'equipaggio, i cosmonauti di Roscosmos Anna Kikina e Pyotr Dubrov e l'astronauta NASA Anil Menon, sono stati accolti a bordo della Stazione Spaziale Internazionale. Il trio è arrivato sulla stazione il 14 luglio 2026, dopo un lancio avvenuto due giorni prima, unendosi agli altri occupanti del laboratorio orbitante per la Expedition 74.",
+          "La Stazione Spaziale Internazionale rimane un simbolo di cooperazione pacifica e un laboratorio cruciale per la ricerca scientifica in microgravità."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -426,27 +461,55 @@
       }
     },
     {
-      "id": "story-e1fb4d2cda050288",
-      "title": "The people’s atheist",
-      "summary": "La storia di Jean Meslier, un prete rurale francese che, in segreto, scrisse un testamento filosofico in cui sosteneva che la religione è progettata per produrre sudditi obbedienti. Un ritratto dell'uomo che, dall'interno della Chiesa, gettò le basi per una critica radicale al potere religioso.",
-      "spokenText": "La storia di Jean Meslier, un prete rurale francese che, in segreto, scrisse un testamento filosofico in cui sosteneva che la religione è progettata per produrre sudditi obbedienti. Un ritratto dell'uomo che, dall'interno della Chiesa, gettò le basi per una critica radicale al potere religioso.",
+      "id": "story-6774906e8a1aae3c",
+      "title": "I danni della crisi del carburante all’economia russa",
+      "summary": "La campagna di attacchi con droni ucraini contro le infrastrutture petrolifere sta spingendo l'economia russa verso una fase critica. La produzione di carburante è in calo mentre i prezzi della benzina salgono alle stelle, creando una tempesta perfetta che potrebbe portare al razionamento e a una recessione, mettendo sotto pressione la capacità del Cremlino di finanziare lo sforzo bellico.",
+      "spokenText": "La campagna di attacchi con droni ucraini contro le infrastrutture petrolifere sta spingendo l'economia russa verso una fase critica. La produzione di carburante è in calo mentre i prezzi della benzina salgono alle stelle, creando una tempesta perfetta che potrebbe portare al razionamento e a una recessione, mettendo sotto pressione la capacità del Cremlino di finanziare lo sforzo bellico.",
       "category": "cultura",
       "tags": [
         "cultura"
       ],
-      "importance": 40,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 18,
+      "estimatedSeconds": 24,
       "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/the-rural-french-priest-who-preached-atheism-to-the-people"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/crisi-carburante-russia-economia-droni-ucraina/"
       },
       "analysis": {
-        "mainFact": "La storia di Jean Meslier, un prete rurale francese che, in segreto, scrisse un testamento filosofico in cui sosteneva che la religione è progettata per produrre sudditi obbedienti. Un ritratto dell'uomo che, dall'interno della Chiesa, gettò le basi per una critica radicale al potere religioso.",
-        "whyItMatters": "Riscopre le radici filosofiche della critica alla religione come strumento di controllo sociale.",
+        "mainFact": "La campagna di attacchi con droni ucraini contro le infrastrutture petrolifere sta spingendo l'economia russa verso una fase critica. La produzione di carburante è in calo mentre i prezzi della benzina salgono alle stelle, creando una tempesta perfetta che potrebbe portare al razionamento e a una recessione, mettendo sotto pressione la capacità del Cremlino di finanziare lo sforzo bellico.",
+        "whyItMatters": "La crisi del carburante in Russia, causata dagli attacchi ucraini, sta minando un pilastro dell'economia di guerra di Mosca, con potenziali ripercussioni sulla sua capacità di sostenere il conflitto.",
         "confirmedFacts": [
-          "La storia di Jean Meslier, un prete rurale francese che, in segreto, scrisse un testamento filosofico in cui sosteneva che la religione è progettata per produrre sudditi obbedienti. Un ritratto dell'uomo che, dall'interno della Chiesa, gettò le basi per una critica radicale al potere religioso.",
-          "Riscopre le radici filosofiche della critica alla religione come strumento di controllo sociale."
+          "La campagna di attacchi con droni ucraini contro le infrastrutture petrolifere sta spingendo l'economia russa verso una fase critica. La produzione di carburante è in calo mentre i prezzi della benzina salgono alle stelle, creando una tempesta perfetta che potrebbe portare al razionamento e a una recessione, mettendo sotto pressione la capacità del Cremlino di finanziare lo sforzo bellico.",
+          "La crisi del carburante in Russia, causata dagli attacchi ucraini, sta minando un pilastro dell'economia di guerra di Mosca, con potenziali ripercussioni sulla sua capacità di sostenere il conflitto."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-c2fb023dffcfce5a",
+      "title": "Signal then storm",
+      "summary": "Un ritratto di Allan Basbaum, ricercatore che ha dedicato cinquant'anni della sua carriera a esplorare il sistema nervoso alla ricerca dei luoghi in cui il dolore ha origine e dove può essere fermato. L'articolo ripercorre il suo lavoro pionieristico, offrendo una panoramica sulla complessa neurobiologia del dolore e sulle potenziali strade per future terapie.",
+      "spokenText": "Un ritratto di Allan Basbaum, ricercatore che ha dedicato cinquant'anni della sua carriera a esplorare il sistema nervoso alla ricerca dei luoghi in cui il dolore ha origine e dove può essere fermato. L'articolo ripercorre il suo lavoro pionieristico, offrendo una panoramica sulla complessa neurobiologia del dolore e sulle potenziali strade per future terapie.",
+      "category": "cultura",
+      "tags": [
+        "cultura"
+      ],
+      "importance": 60,
+      "mustInclude": false,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain"
+      },
+      "analysis": {
+        "mainFact": "Un ritratto di Allan Basbaum, ricercatore che ha dedicato cinquant'anni della sua carriera a esplorare il sistema nervoso alla ricerca dei luoghi in cui il dolore ha origine e dove può essere fermato. L'articolo ripercorre il suo lavoro pionieristico, offrendo una panoramica sulla complessa neurobiologia del dolore e sulle potenziali strade per future terapie.",
+        "whyItMatters": "La ricerca sul dolore ha implicazioni enormi per la qualità della vita di milioni di persone, e il profilo offre una visione d'insieme su decenni di progressi scientifici.",
+        "confirmedFacts": [
+          "Un ritratto di Allan Basbaum, ricercatore che ha dedicato cinquant'anni della sua carriera a esplorare il sistema nervoso alla ricerca dei luoghi in cui il dolore ha origine e dove può essere fermato. L'articolo ripercorre il suo lavoro pionieristico, offrendo una panoramica sulla complessa neurobiologia del dolore e sulle potenziali strade per future terapie.",
+          "La ricerca sul dolore ha implicazioni enormi per la qualità della vita di milioni di persone, e il profilo offre una visione d'insieme su decenni di progressi scientifici."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
