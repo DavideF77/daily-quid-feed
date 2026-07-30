@@ -1,519 +1,645 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-07-25-c2a2fbb76c02",
-  "generatedAt": "2026-07-25T22:40:51.569Z",
+  "catalogId": "daily-quid-2026-07-30-32d079944b26",
+  "generatedAt": "2026-07-30T12:04:45.485Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-6429a69c7ae91149",
-      "title": "Completato con successo il volo di Starship, 'scenario da sogno'",
-      "summary": "SpaceX ha completato con successo il tredicesimo volo di prova della sua astronave Starship, definito uno 'scenario da sogno' nonostante un impatto violento del booster in mare. Il test, il secondo per la versione V3 del veicolo, ha centrato tutti gli obiettivi principali della missione, segnando un progresso decisivo verso l'operatività del sistema di lancio più potente mai realizzato.",
-      "spokenText": "SpaceX ha completato con successo il tredicesimo volo di prova di Starship, un test che il team ha definito uno 'scenario da sogno'. Era il secondo tentativo per la versione V3 e il terzo lancio complessivo della missione Starship Flight 13. Il portavoce Dan Huot, visibilmente entusiasta, ha commentato in diretta: 'Sto perdendo la testa, in questo momento'. L'emozione era giustificata dal traguardo raggiunto: per la prima volta la parte superiore della navicella è ammarata intatta nell'Oceano Indiano, continuando a trasmettere immagini anche mentre galleggiava in acqua. Huot ha osservato che si è trattato della 'prima volta che riusciamo a mettere in acqua una Starship intatta'. Con un pizzico di ironia ha poi aggiunto che 'il numero 13 porta fortuna', riferendosi alla riuscita di questo tredicesimo volo con un Super Heavy completamente integrato. Era il secondo test per la V3.",
-      "category": "altro",
+      "id": "story-274be3debdf6cb5b",
+      "title": "Duri raid Usa sull'Iran. 'Risposta ai loro tentati attacchi contro le nostre forze'",
+      "summary": "Teheran: 'Uccise tre persone a Qeshm. Trump: 'Finiremo l'Iran molto presto'",
+      "spokenText": "Gli Stati Uniti hanno concluso una serie di duri attacchi contro l'Iran in risposta ai tentativi di colpire le forze statunitensi. Le Guardie Rivoluzionarie iraniane affermano che tre loro membri sono stati uccisi in un raid americano nel nord-ovest del Paese e dichiarano di aver distrutto tre caccia F-35 in una base in Qatar, danneggiandone altri. Intanto, sono state colpite l'isola di Qeshm e la città di Abadan. È stato presentato a Trump un piano per intensificare i bombardamenti e ridurre le capacità missilistiche iraniane in due settimane.",
+      "category": "mondo",
       "tags": [
-        "altro",
-        "spacex",
-        "starship",
-        "dan huot"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 56,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/25/completato-con-successo-il-volo-di-starship-scenario-da-sogno_4fb55a80-463d-41a3-bfd1-03baee5169da.html"
-      },
-      "analysis": {
-        "mainFact": "Completato con successo il volo di Starship, definito uno 'scenario da sogno'.",
-        "whyItMatters": "Il volo di prova, denominato Volo 13, ha raggiunto traguardi fondamentali prima di concludersi con un ammaraggio controllato della parte superiore della navicella Starship nell'Oceano Indiano.",
-        "confirmedFacts": [
-          "Completato con successo il volo di Starship, definito uno 'scenario da sogno'.",
-          "Il volo di prova, denominato Volo 13, ha raggiunto traguardi fondamentali prima di concludersi con un ammaraggio controllato della parte superiore della navicella Starship nell'Oceano Indiano.",
-          "\"Sto perdendo la testa, in questo momento\", ha detto il portavoce di SpaceX Dan Huot mentre Starship continuava a trasmettere immagini in diretta anche mentre galleggiava nell'Oceano Indiano dopo un ammaraggio controllato.",
-          "Huot ha definito l'atterraggio uno \"scenario da sogno\", osservando: \" la prima volta che riusciamo a mettere in acqua una Starship intatta\".",
-          "\"Il numero 13 porta fortuna\", ha commentato, riferendosi al fatto che questo il tredicesimo volo di una Starship completamente integrata con un Super Heavy.",
-          "Entusiasmo di SpaceX, 'fortunato il 13° tentativo'.",
-          "Era il secondo test per la V3",
-          "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "SpaceX",
-          "Starship",
-          "Dan Huot"
-        ],
-        "numbersAndDates": [
-          "\"Il numero 13 porta fortuna\", ha commentato, riferendosi al fatto che questo il tredicesimo volo di una Starship completamente integrata con un Super Heavy.",
-          "Entusiasmo di SpaceX, 'fortunato il 13° tentativo'.",
-          "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
-          "13"
-        ]
-      }
-    },
-    {
-      "id": "story-5daeb4bde8ae1d72",
-      "title": "Il nuovo test di Starship è andato benissimo",
-      "summary": "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13. Centrati tutti i test principali, nonostante un impatto violento del booster in mare.",
-      "spokenText": "SpaceX ha completato con successo il test Starship Flight 13, al terzo tentativo. Dopo una settimana turbolenta, con un annullamento a pochi istanti dal lancio e un rinvio per maltempo, il nuovo tentativo era stato fissato per il 23 luglio. Al decollo, tutti i 33 motori Raptor si sono accesi regolarmente. Il booster ha subito un impatto violento in mare, ma il bilancio complessivo resta molto positivo. Un'immagine ha catturato la fase di rientro della Starship durante il test. Prospettive per Flight 14 Nonostante l'atterraggio duro del booster, il bilancio complessivo della missione molto positivo.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "spacex",
-        "starship flight 13"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 38,
-      "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/scienza/spazio/flight-13-di-spacex-starship-e-un-successo-decollo-perfetto-e-primi-satelliti-starlink-v3-in-orbita"
-      },
-      "analysis": {
-        "mainFact": "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
-        "whyItMatters": "Centrati tutti i test principali, nonostante un impatto violento del booster in mare.",
-        "confirmedFacts": [
-          "Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
-          "Centrati tutti i test principali, nonostante un impatto violento del booster in mare.",
-          "Il volo e l'impatto del booster Al terzo tentativo, tutti i 33 motori Raptor si sono accesi regolarmente, permettendo il decollo.",
-          "SpaceX Dopo una settimana turbolenta, segnata da un annullamento pochi istanti prima del lancio e un rinvio per maltempo, SpaceX finalmente riuscita a portare in volo la missione Starship Flight 13 .",
-          "Il nuovo tentativo era stato fissato per il 23 luglio.",
-          "Spazio Flight 13 di SpaceX Starship è un successo: decollo perfetto e primi satelliti Starlink V3 in orbita Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
-          "Prospettive per Flight 14 Nonostante l'atterraggio duro del booster, il bilancio complessivo della missione molto positivo.",
-          "Un'immagine della fase di rientro della Starship di SpaceX durante il test Flight 13."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "SpaceX",
-          "Starship Flight 13"
-        ],
-        "numbersAndDates": [
-          "Il volo e l'impatto del booster Al terzo tentativo, tutti i 33 motori Raptor si sono accesi regolarmente, permettendo il decollo.",
-          "SpaceX Dopo una settimana turbolenta, segnata da un annullamento pochi istanti prima del lancio e un rinvio per maltempo, SpaceX finalmente riuscita a portare in volo la missione Starship Flight 13 .",
-          "Il nuovo tentativo era stato fissato per il 23 luglio.",
-          "Spazio Flight 13 di SpaceX Starship è un successo: decollo perfetto e primi satelliti Starlink V3 in orbita Al terzo tentativo SpaceX porta in volo la missione Starship Flight 13.",
-          "Prospettive per Flight 14 Nonostante l'atterraggio duro del booster, il bilancio complessivo della missione molto positivo.",
-          "Un'immagine della fase di rientro della Starship di SpaceX durante il test Flight 13.",
-          "13"
-        ]
-      }
-    },
-    {
-      "id": "story-4c4e3b5e98b4e99f",
-      "title": "Orso bruno marsicano: i risultati della stima di popolazione 2025 presentati al MASE",
-      "summary": "Si è svolta oggi, presso il Ministero dell’Ambiente e della Sicurezza Energetica (MASE), la presentazione della nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione, frutto del campionamento genetico condotto nell’estate 2025. Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
-      "spokenText": "È stata presentata al Ministero dell’Ambiente e della Sicurezza Energetica la nuova stima di popolazione dell’orso bruno marsicano, la prima condotta sull’intero areale di distribuzione. Lo studio, promosso dal MASE e coordinato da ISPRA, è stato realizzato nell’ambito del progetto DigitAP, finanziato con fondi del PNRR. La ricerca documenta la presenza di 81 esemplari negli oltre 6.000 chilometri quadrati dell’Appennino centrale che costituiscono l’areale di questa sottospecie endemica. Si tratta della più estesa attività di monitoraggio genetico mai realizzata per una delle popolazioni ursine più minacciate al mondo. I risultati confermano la stabilità del nucleo storico e indicano una lenta espansione verso le aree periferiche. Il progetto DigitAP, inserito nella misura del Piano Nazionale di Ripresa e Resilienza dedicata alla digitalizzazione dei parchi nazionali e delle aree marine protette, ha messo l’innovazione tecnologica al servizio della conservazione della biodiversità nelle aree protette.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "ministero dell ambiente e della sicurezza energe",
-        "orso bruno marsicano",
-        "pnrr",
-        "digitap",
-        "ispra",
-        "appennino centrale"
+        "mondo",
+        "stati uniti",
+        "iran",
+        "guardie rivoluzionarie iraniane"
       ],
       "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 57,
+      "estimatedSeconds": 36,
       "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/orso-bruno-marsicano-i-risultati-della-stima-di-popolazione-2025-presentati-al-mase"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/30/duri-raid-usa-sulliran.-risposta-ai-loro-tentati-attacchi-contro-le-nostre_edbbf734-96fd-47ea-ba02-1bfc1b57381b.html"
       },
       "analysis": {
-        "mainFact": "Presentata al MASE la nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione.",
-        "whyItMatters": "Stimata la presenza di 81 esemplari nell'intero areale, a conclusione della più estesa attività di monitoraggio genetico mai realizzata per una delle popolazioni ursine più minacciate al mondo.",
+        "mainFact": "Gli Stati Uniti hanno terminato una serie di duri attacchi contro l'Iran in risposta ai loro tentati attacchi contro le forze statunitensi.",
+        "whyItMatters": "Video Gli Usa diffondono immagini di nuovi raid contro l'Iran Le guardie della rivoluzione islamica iraniana hanno dichiarato di avere distrutto con un raid contro una base degli Stati Uniti in Qatar tre caccia americani F-35, danneggiandone altri.",
         "confirmedFacts": [
-          "Presentata al MASE la nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione.",
-          "Stimata la presenza di 81 esemplari nell'intero areale, a conclusione della più estesa attività di monitoraggio genetico mai realizzata per una delle popolazioni ursine più minacciate al mondo.",
-          "La stima si riferisce agli oltre 6.000 km² nell’Appennino centrale che ad oggi costituiscono l’areale di distribuzione di questa sottospecie endemica di orso, gravemente minacciata di estinzione.",
-          "Realizzata nell'ambito del progetto DigitAP, finanziato dal PNRR, la ricerca conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
-          "Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
-          "Orso bruno marsicano: presentata la nuova stima di popolazione nell’Appennino centrale",
-          "Lo studio, promosso dal Ministero dell’Ambiente e della Sicurezza Energetica (MASE) e coordinato da ISPRA, è stato realizzato nell'ambito del progetto DigitAP .",
-          "Quest'ultimo, finanziato con fondi del PNRR, ha avuto l’obiettivo di mettere l’innovazione tecnologica al servizio della conservazione della biodiversità nelle aree protette."
+          "Gli Stati Uniti hanno terminato una serie di duri attacchi contro l'Iran in risposta ai loro tentati attacchi contro le forze statunitensi.",
+          "Video Gli Usa diffondono immagini di nuovi raid contro l'Iran Le guardie della rivoluzione islamica iraniana hanno dichiarato di avere distrutto con un raid contro una base degli Stati Uniti in Qatar tre caccia americani F-35, danneggiandone altri.",
+          "Teheran: colpite l'isola di Qeshm e la città di Abadan",
+          "Le Guardie Rivoluzionarie iraniane affermano che tre dei loro membri sono stati uccisi in un attacco statunitense nel nord-ovest del Paese.",
+          "Presentato a Trump un piano in 2 settimane per intensificare i bombardamenti e ridurre le capacità missilistiche iraniane.",
+          "Per maggiori informazioni sui servizi di ANSA. it, puoi consultare le nostre risposte alle domande pi frequenti , oppure contattarci inviando una mail a register@ansa. it o telefonando al numero verde 800 938 881."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ministero dell’Ambiente e della Sicurezza Energetica (MASE)",
-          "orso bruno marsicano",
-          "PNRR",
-          "DigitAP",
-          "ISPRA",
-          "Appennino centrale"
+          "Stati Uniti",
+          "Iran",
+          "Guardie Rivoluzionarie iraniane"
         ],
         "numbersAndDates": [
-          "La stima si riferisce agli oltre 6.000 km² nell’Appennino centrale che ad oggi costituiscono l’areale di distribuzione di questa sottospecie endemica di orso, gravemente minacciata di estinzione.",
-          "Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
-          "81"
+          "Presentato a Trump un piano in 2 settimane per intensificare i bombardamenti e ridurre le capacità missilistiche iraniane.",
+          "Per maggiori informazioni sui servizi di ANSA. it, puoi consultare le nostre risposte alle domande pi frequenti , oppure contattarci inviando una mail a register@ansa. it o telefonando al numero verde 800 938 881.",
+          "35"
         ]
       }
     },
     {
-      "id": "story-038fded7c777e9fb",
-      "title": "Circa 250mila evacuati negli incendi fra Francia e Spagna",
-      "summary": "I roghi imperversano nel sud-ovest francese e vicino a Madrid",
-      "spokenText": "Incendi senza precedenti stanno devastando il sud-ovest della Francia e il centro della Spagna. In Francia, il ministro dell'Interno ha annunciato 167.000 evacuati in Gironda, a cui si aggiungono 30.000 persone nel dipartimento delle Lande. Complessivamente, circa 250.000 persone sono state evacuate nelle aree colpite. Incendi «senza precedenti» in Francia e Spagna hanno portato all'evacuazione di 270mila persone. I roghi imperversano nel sud-ovest francese e vicino a Madrid. Madrid, bruciati 25mila ettari: due volte la superficie di Parigi Gli incendi che imperversano a ovest di Madrid hanno bruciato fino a 25mila ettari , ha dichiarato il ministero dell’Interno spagnolo.",
+      "id": "story-edafb5aff724a944",
+      "title": "'Progressi nelle trattative Hamas-Israele su Gaza, accordo possibile'",
+      "summary": "Una fonte al quotidiano israeliano Ynet: 'Sembra che Hamas accetti disarmo completo'",
+      "spokenText": "Il quotidiano israeliano riporta che sono in corso una serie di sviluppi che potrebbero portare a \"una svolta\" per un accordo tra Israele e Hamas nell'attuazione del piano di Trump per la Striscia di Gaza. Continua 11:54 30 luglio 2026 35 minuti fa Progressi nelle trattative Hamas-Israele su Gaza: accordo possibile «La direzione sembra positiva: sembra che Hamas si sia arreso.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "hamas",
+        "israele",
+        "ynet"
+      ],
+      "importance": 70,
+      "mustInclude": false,
+      "estimatedSeconds": 25,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/30/media-progressi-nelle-trattative-hamas-israele-su-gaza-accordo-possibile_cb149ebf-52ed-418d-ae07-95069aa12235.html"
+      },
+      "analysis": {
+        "mainFact": "Una fonte al quotidiano israeliano Ynet: 'Sembra che Hamas accetti disarmo completo'",
+        "whyItMatters": "Il quotidiano israeliano riporta che sono in corso una serie di sviluppi che potrebbero portare a ''una svolta'' per un accordo tra Israele e Hamas nell'attuazione del piano di Trump per la Striscia di Gaza.",
+        "confirmedFacts": [
+          "Una fonte al quotidiano israeliano Ynet: 'Sembra che Hamas accetti disarmo completo'",
+          "Il quotidiano israeliano riporta che sono in corso una serie di sviluppi che potrebbero portare a ''una svolta'' per un accordo tra Israele e Hamas nell'attuazione del piano di Trump per la Striscia di Gaza.",
+          "Lo ha affermato a Ynet una fonte israeliana coinvolta nei negoziati per il disarmo di Hamas''.",
+          "Continua 11:54 30 luglio 2026 35 minuti fa Progressi nelle trattative Hamas-Israele su Gaza: accordo possibile «La direzione sembra positiva: sembra che Hamas si sia arreso e accetti un disarmo completo e totale»."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Hamas",
+          "Israele",
+          "Ynet"
+        ],
+        "numbersAndDates": [
+          "Continua 11:54 30 luglio 2026 35 minuti fa Progressi nelle trattative Hamas-Israele su Gaza: accordo possibile «La direzione sembra positiva: sembra che Hamas si sia arreso e accetti un disarmo completo e totale»."
+        ]
+      }
+    },
+    {
+      "id": "story-552ed89987fa075c",
+      "title": "La Fed lascia i tassi fermi ma è divisa: tre i voti contrari",
+      "summary": "Tassi fermi. La Federal reserve ha confermato il corridoio dei Fed Funds al 3,50%-3,75%, in linea con le attese. La decisione, contrariamente a quanto è avvenuto a luglio, non è...",
+      "spokenText": "La Federal Reserve ha lasciato i tassi di interesse fermi, confermando il corridoio dei Fed Funds al 3,50%-3,75%, ma la decisione non è stata unanime: tre i voti contrari. Warsh non ha voluto quindi caratterizzare la decisione di luglio come una «pausa» all’interno di una manovra più ampia. Se però Hammack si era schierata contro un taglio dei tassi (al 4,25-4,50%) anche nel dicembre 2024, lasciando immaginare un suo orientamento da “falco”, i precedenti e lontani (nel 2017 e nel 2020) voti contrari di Kashkari - che sembra quindi un pragmatico - erano a favore di un orientamento più espansivo. Secondo il presidente, i mercati si stanno concentrando sui dati e non sulle mosse della Fed e «questo è un cambiamento in meglio, e siamo solo all’inizio».",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "federal reserve",
+        "fed",
+        "hammack",
+        "kashkari",
+        "warsh"
+      ],
+      "importance": 65,
+      "mustInclude": false,
+      "estimatedSeconds": 51,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/la-fed-lascia-tasso-sconto-invariato-375percento-AJptBZZ"
+      },
+      "analysis": {
+        "mainFact": "La Federal Reserve ha lasciato i tassi di interesse fermi, confermando il corridoio dei Fed Funds al 3,50%-3,75%, ma la decisione non è stata unanime: tre i voti contrari.",
+        "whyItMatters": "Warsh non ha voluto quindi caratterizzare la decisione di luglio come una «pausa» all’interno di una manovra più ampia.",
+        "confirmedFacts": [
+          "La Federal Reserve ha lasciato i tassi di interesse fermi, confermando il corridoio dei Fed Funds al 3,50%-3,75%, ma la decisione non è stata unanime: tre i voti contrari.",
+          "Warsh non ha voluto quindi caratterizzare la decisione di luglio come una «pausa» all’interno di una manovra più ampia.",
+          "Se però Hammack si era schierata contro un taglio dei tassi (al 4,25-4,50%) anche nel dicembre 2024, lasciando immaginare un suo orientamento da “falco”, i precedenti e lontani (nel 2017 e nel 2020) voti contrari di Kashkari - che sembra quindi un pragmatico - erano a favore di un orientamento più espansivo.",
+          "Secondo il presidente, i mercati si stanno concentrando sui dati e non sulle mosse della Fed e «questo è un cambiamento in meglio, e siamo solo all’inizio»."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Federal Reserve",
+          "Fed",
+          "Hammack",
+          "Kashkari",
+          "Warsh"
+        ],
+        "numbersAndDates": [
+          "Se però Hammack si era schierata contro un taglio dei tassi (al 4,25-4,50%) anche nel dicembre 2024, lasciando immaginare un suo orientamento da “falco”, i precedenti e lontani (nel 2017 e nel 2020) voti contrari di Kashkari - che sembra quindi un pragmatico - erano a favore di un orientamento più espansivo.",
+          "3,50",
+          "3,75"
+        ]
+      }
+    },
+    {
+      "id": "story-4cee7229010b1994",
+      "title": "L’importanza del retrofit per le strategie di crescita dei data center",
+      "summary": "La spinta trainante verso l’approccio retrofit Con l’AI, il cloud, l'edge computing e l'IoT che stanno ridefinendo le economie, la necessità di infrastrutture resilienti e ad alte prestazioni non è ma...",
+      "spokenText": "La spinta verso l'approccio retrofit per i data center è trainata dalla necessità di infrastrutture resilienti per AI, cloud, edge computing e IoT. Le sfide si intensificano e ci si orienta sempre più verso un'opzione considerata fino a poco fa un ripiego: il retrofit. L'ammodernamento di un data center esistente ha un costo fino al 40% inferiore rispetto alla realizzazione di un nuovo sito. Basti pensare che il vantaggio del retrofit può ridurre i tempi di realizzazione del progetto di circa il 30%, principalmente grazie ai risparmi nello sviluppo del sito e nella configurazione dei servizi.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "data center",
+        "ai",
+        "cloud",
+        "edge computing",
+        "iot"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 39,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/limportanza-del-retrofit-per-le-strategie-di-crescita-dei-data-center"
+      },
+      "analysis": {
+        "mainFact": "La spinta verso l'approccio retrofit per i data center è trainata dalla necessità di infrastrutture resilienti per AI, cloud, edge computing e IoT.",
+        "whyItMatters": "L'ammodernamento di un data center esistente ha un costo fino al 40% inferiore e può ridurre i tempi di realizzazione del progetto di circa il 30% rispetto alla realizzazione di un nuovo sito.",
+        "confirmedFacts": [
+          "La spinta verso l'approccio retrofit per i data center è trainata dalla necessità di infrastrutture resilienti per AI, cloud, edge computing e IoT.",
+          "L'ammodernamento di un data center esistente ha un costo fino al 40% inferiore e può ridurre i tempi di realizzazione del progetto di circa il 30% rispetto alla realizzazione di un nuovo sito.",
+          "Le sfide si intensificano e ci si orienta sempre più verso un approccio considerato fino a poco fa un ripiego: il retrofit.",
+          "Basti pensare che il vantaggio del retrofit può ridurre i tempi di realizzazione del progetto di circa il 30%, principalmente grazie ai risparmi nello sviluppo del sito e nella configurazione dei servizi."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "data center",
+          "AI",
+          "cloud",
+          "edge computing",
+          "IoT"
+        ],
+        "numbersAndDates": [
+          "Basti pensare che il vantaggio del retrofit può ridurre i tempi di realizzazione del progetto di circa il 30%, principalmente grazie ai risparmi nello sviluppo del sito e nella configurazione dei servizi.",
+          "40",
+          "30"
+        ]
+      }
+    },
+    {
+      "id": "story-33a3586b7fd45562",
+      "title": "Liberali, Leoni, Inacio: il tesoretto azzurro di Mancini",
+      "summary": "mentre tornano le incognite Chiesa e Zaniolo. Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+      "spokenText": "Mentre tornano le incognite Chiesa e Zaniolo. Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "liberali",
+        "leoni",
+        "inacio",
+        "mancini",
+        "fagioli",
+        "ndour",
+        "pisilli",
+        "chiesa",
+        "zaniolo"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 10,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/sport/calcio/nazionale/2026/07/30/news/liberali_leoni_inacio_giovani_mancini_nazionale-425500795/"
+      },
+      "analysis": {
+        "mainFact": "mentre tornano le incognite Chiesa e Zaniolo.",
+        "whyItMatters": "Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+        "confirmedFacts": [
+          "mentre tornano le incognite Chiesa e Zaniolo.",
+          "Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+          "Non solo esordienti assoluti a centrocampo spazio a Fagioli, Ndour e Pisilli in attacco tante incognite tornano Chiesa e Zaniolo"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Liberali",
+          "Leoni",
+          "Inacio",
+          "Mancini",
+          "Fagioli",
+          "Ndour",
+          "Pisilli",
+          "Chiesa",
+          "Zaniolo"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-9990956801b9001b",
+      "title": "Mattarella: 'Inammissibili i fatti della val Susa. La violenza è un virus letale per la democrazia'",
+      "summary": "'tensioni elettorali intempestive non tolgano attenzione ai problemi. Adattare le leggi a comportamenti individuali è l'abdicazione dello Stato'",
+      "spokenText": "Adattare le leggi a comportamenti individuali è l'abdicazione dello Stato'. Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "mattarella",
+        "val susa"
+      ],
+      "importance": 65,
+      "mustInclude": false,
+      "estimatedSeconds": 11,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/07/30/mattarella-tensioni-elettorali-intempestive-non-tolgano-attenzione-ai-problemi_2f2e3a9f-0831-4506-aed8-58a26f1217da.html"
+      },
+      "analysis": {
+        "mainFact": "Adattare le leggi a comportamenti individuali è l'abdicazione dello Stato'",
+        "whyItMatters": "Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+        "confirmedFacts": [
+          "Adattare le leggi a comportamenti individuali è l'abdicazione dello Stato'",
+          "Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Mattarella",
+          "Val Susa"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-fd8ca29e9523394b",
+      "title": "Circa 8",
+      "summary": "Le raffiche di vento impediscono l'uso di aerei per spegnere le fiamme",
+      "spokenText": "Circa 8.000 persone sono state evacuate a Creta a causa di incendi che minacciano una località turistica, alimentati da forti venti. Le raffiche impediscono l'uso di aerei per spegnere le fiamme. La guardia costiera greca ha partecipato alle operazioni, facendo evacuare 29 individui via mare, a bordo delle proprie motovedette e con il supporto di imbarcazioni private, dalla zona di Agios Pavlos, sulla costa meridionale. Buona parte dei turisti e dei residenti evacuati è stata trasferita al palazzetto dello sport del Comune di Festo, a Mires, mentre altre centinaia sono state temporaneamente ospitate in un edificio scolastico della zona. Maria Lioni, vice governatrice della regione di Rethymno, ha dichiarato alla televisione di stato Ert: \"Abbiamo evacuato circa 8.000 persone\". Il ministro, parlando in diretta dal centro di coordinamento antincendio di Ankara, ha sottolineato che 69 di questi incendi sono scoppiati al di fuori delle aree forestali, probabilmente in zone agricole.",
       "category": "altro",
       "tags": [
         "altro",
-        "francia",
-        "spagna",
-        "gironda",
-        "lande",
-        "madrid"
+        "grecia",
+        "creta",
+        "maria lioni",
+        "guardia costiera greca"
       ],
-      "importance": 82,
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 60,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/30/incendi-in-grecia-8.000-persone-evacuate-a-creta_49f8ef90-d6ff-4052-80b7-9f83890321fd.html"
+      },
+      "analysis": {
+        "mainFact": "Circa 8.000 persone sono state evacuate a Creta a causa di incendi che minacciano una località turistica, alimentati da forti venti.",
+        "whyItMatters": "Le raffiche di vento impediscono l'uso di aerei per spegnere le fiamme",
+        "confirmedFacts": [
+          "Circa 8.000 persone sono state evacuate a Creta a causa di incendi che minacciano una località turistica, alimentati da forti venti.",
+          "Le raffiche di vento impediscono l'uso di aerei per spegnere le fiamme",
+          "Anche la guardia costiera greca ha partecipato alle operazioni, facendo evacuare 29 persone via mare, a bordo delle proprie motovedette e con il supporto di imbarcazioni private, dalla zona di Agios Pavlos, sulla costa meridionale.",
+          "Buona parte dei turisti e dei residenti evacuati è stata trasferita al palazzetto dello sport del Comune di Festo, a Mires, mentre altre centinaia di persone sono state temporaneamente ospitate in un edificio scolastico della zona.",
+          "Migliaia di persone sono state evacuate nella notte a causa degli incendi che minacciavano una località turistica sull'isola greca di Creta e che continuano a imperversare, alimentati da forti venti, ha dichiarato un funzionario locale.",
+          "\"Abbiamo evacuato circa 8.000 persone\", ha detto Maria Lioni, vice governatrice della regione di Rethymno, alla televisione di stato Ert.",
+          "Parlando in diretta dal centro di coordinamento antincendio di Ankara, il ministro ha sottolineato che 69 di questi incendi sono scoppiati \"al di fuori delle aree forestali\", probabilmente in zone agricole."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Grecia",
+          "Creta",
+          "Maria Lioni",
+          "Guardia costiera greca"
+        ],
+        "numbersAndDates": [
+          "Anche la guardia costiera greca ha partecipato alle operazioni, facendo evacuare 29 persone via mare, a bordo delle proprie motovedette e con il supporto di imbarcazioni private, dalla zona di Agios Pavlos, sulla costa meridionale.",
+          "Parlando in diretta dal centro di coordinamento antincendio di Ankara, il ministro ha sottolineato che 69 di questi incendi sono scoppiati \"al di fuori delle aree forestali\", probabilmente in zone agricole.",
+          "8.000"
+        ]
+      }
+    },
+    {
+      "id": "story-8e31bd0507693f9e",
+      "title": "Il rover Curiosity della NASA ha scoperto un campo di strutture a nido d'ape, chiamate fratture poligonali, mentre risaliva una valle marziana",
+      "summary": "Il rover Curiosity della NASA ha scoperto un campo di strutture a nido d'ape, chiamate fratture poligonali, mentre risaliva una valle marziana soprannominata 'Valle Grande'. Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+      "spokenText": "Il rover Curiosity della NASA ha documentato un campo di strutture a nido d’ape mentre risaliva una valle marziana chiamata Valle Grande. Per ora l’informazione si ferma qui: gli effetti più ampi di questa variazione restano da verificare.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "curiosity mars rover"
+      ],
+      "importance": 52,
+      "mustInclude": false,
+      "estimatedSeconds": 16,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/"
+      },
+      "analysis": {
+        "mainFact": "Il rover Curiosity della NASA ha scoperto un campo di strutture a nido d'ape, chiamate fratture poligonali, mentre risaliva una valle marziana soprannominata 'Valle Grande'.",
+        "whyItMatters": "Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+        "confirmedFacts": [
+          "Il rover Curiosity della NASA ha scoperto un campo di strutture a nido d'ape, chiamate fratture poligonali, mentre risaliva una valle marziana soprannominata 'Valle Grande'.",
+          "Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+          "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across.",
+          "Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with its Mast Camera, or Mastcam, on June 11, 2026, the 4,923rd Martian day, or sol, of the mission.",
+          "Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission.",
+          "In a 360-degree panorama that the rover captured on June 19 and 20, the 4,930th and 4,931st Martian days, or sols, of the mission, the polygonal shapes spread in all directions for as far as the rover can see.",
+          "These newly discovered polygons are among the many surprises Curiosity has trundled across since landing on Mars 14 years ago, on Aug.",
+          "Billions of years ago, lakes and streams dappled the lower foothills of Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain that Curiosity has been ascending since 2014.",
+          "NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, on June 11, 2026.",
+          "The panorama is made up of 11 individual images that were sent to Earth and stitched together."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "Curiosity Mars Rover"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-11c331caa5cc540e",
+      "title": "Come potenti lobby dell’agroindustria stanno indebolendo le leggi a tutela del clima e della fauna selvatica",
+      "summary": "I documenti riservati di Copa Cogeca svelano la strategia delle lobby dell'agroindustria per affossare le leggi UE sui pesticidi e bloccare la transizione ecologica europea.",
+      "spokenText": "Documenti riservati di Copa Cogeca hanno svelato la strategia messa in campo dalle lobby dell’agroindustria per rallentare e affossare le proposte di legge dell’Unione Europea sui pesticidi, frenando la transizione ecologica in corso. L’organizzazione, nata nel 1962 dalla fusione di due realtà a tutela degli interessi degli agricoltori, ha lavorato per proteggere l’uso di sostanze nocive per le api e del glifosato. Questo obiettivo si inserisce in un quadro in cui la vendita di pesticidi nell’UE è aumentata dell’8% nel 2024. L’azione documentata arriva dopo un periodo in cui gli storici Accordi di Parigi del 2015 e l’esplosione del movimento Fridays for Future, lanciato nel 2018, avevano contribuito a generare un’atmosfera favorevole per una decisa svolta nelle politiche ambientali dell’Unione Europea.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "copa cogeca",
+        "unione europea"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 49,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/lobby-agroindustria-pesticidi-leggi-clima-europa/"
+      },
+      "analysis": {
+        "mainFact": "I documenti riservati di Copa Cogeca svelano la strategia delle lobby dell'agroindustria per affossare le leggi UE sui pesticidi e bloccare la transizione ecologica europea.",
+        "whyItMatters": "L'azione di Copa Cogeca mirava a tutelare l'uso di pesticidi nocivi per le api e del glifosato, mentre la vendita di pesticidi nell'UE è aumentata dell'8% nel 2024.",
+        "confirmedFacts": [
+          "I documenti riservati di Copa Cogeca svelano la strategia delle lobby dell'agroindustria per affossare le leggi UE sui pesticidi e bloccare la transizione ecologica europea.",
+          "L'azione di Copa Cogeca mirava a tutelare l'uso di pesticidi nocivi per le api e del glifosato, mentre la vendita di pesticidi nell'UE è aumentata dell'8% nel 2024.",
+          "Rallentare e affossare le proposte di legge in linea con il Green Deal è da anni un obiettivo strategico per questo tipo di organizzazioni, interessate a frenare la transizione ecologica in corso.",
+          "Copa Cogeca nasce nel 1962 dalla fusione di due organizzazioni a tutela degli interessi degli agricoltori.",
+          "Gli storici Accordi di Parigi del 2015 e l’esplosione del movimento Fridays for Future, lanciato nel 2018, avevano contribuito a generare un’atmosfera favorevole per una decisa svolta nelle politiche ambientali dell’Unione Europea."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Copa Cogeca",
+          "Unione Europea"
+        ],
+        "numbersAndDates": [
+          "Copa Cogeca nasce nel 1962 dalla fusione di due organizzazioni a tutela degli interessi degli agricoltori.",
+          "Gli storici Accordi di Parigi del 2015 e l’esplosione del movimento Fridays for Future, lanciato nel 2018, avevano contribuito a generare un’atmosfera favorevole per una decisa svolta nelle politiche ambientali dell’Unione Europea.",
+          "8",
+          "2024"
+        ]
+      }
+    },
+    {
+      "id": "story-cb690e4ac3bd78e0",
+      "title": "Scegli le nuove banconote europee",
+      "summary": "Sono dieci le proposte in gara per le nuove banconote Bce, rivelate dalla presidente della Bce Christine Lagarde il 23 luglio 2026: cinque disegni per i motivi decorativi di ognuno...",
+      "spokenText": "Sono dieci i disegni finalisti delle nuove banconote dell'euro, rivelati dalla presidente della BCE Christine Lagarde il 23 luglio 2026. I cittadini europei sono invitati a votare tra queste proposte per la prima riprogettazione completa delle banconote dall'emissione del 2002. Le serie proposte si ispirano a temi come cultura e natura. Già sei milioni di persone hanno partecipato al sondaggio ufficiale della BCE, che resterà aperto fino al 21 settembre 2026. Il Consiglio direttivo adotterà la decisione finale sul disegno verso la fine dell'anno, basandosi sui contributi della giuria del concorso, una valutazione tecnica e i risultati dei due sondaggi.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "christine lagarde"
+      ],
+      "importance": 52,
       "mustInclude": false,
       "estimatedSeconds": 40,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/25/circa-250mila-evacuati-negli-incendi-fra-francia-e-spagna_3f129ceb-8475-43c5-93ae-a4b72761fd76.html"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/scegli-nuove-banconote-europee-AJdDLAZ"
       },
       "analysis": {
-        "mainFact": "Incendi «senza precedenti» in Francia e Spagna hanno portato all'evacuazione di 270mila persone.",
-        "whyItMatters": "I roghi imperversano nel sud-ovest francese e vicino a Madrid",
+        "mainFact": "Sono dieci i disegni finalisti delle nuove banconote dell'euro rivelati dalla Presidente della Bce Christine Lagarde il 23 luglio 2026.",
+        "whyItMatters": "I cittadini europei sono invitati a votare tra dieci proposte finaliste per la prima riprogettazione completa delle banconote euro dal 2002.",
         "confirmedFacts": [
-          "Incendi «senza precedenti» in Francia e Spagna hanno portato all'evacuazione di 270mila persone.",
-          "I roghi imperversano nel sud-ovest francese e vicino a Madrid",
-          "In Francia, il ministro dell'Interno ha annunciato 167.000 persone evacuate in Gironda, nel sud-ovest del Paese, a cui si aggiungono 30.000 evacuati poco pi a sud, nel dipartimento delle Lande.",
-          "Madrid, bruciati 25mila ettari: due volte la superficie di Parigi Gli incendi che imperversano a ovest di Madrid hanno bruciato fino a 25mila ettari , ha dichiarato il ministero dell’Interno spagnolo.",
-          "Circa 250.000 persone in totale sono finora state evacuate nel sud-ovest della Francia e nel centro della Spagna, dove imperversano vasti e incontrollabili incendi boschivi."
+          "Sono dieci i disegni finalisti delle nuove banconote dell'euro rivelati dalla Presidente della Bce Christine Lagarde il 23 luglio 2026.",
+          "I cittadini europei sono invitati a votare tra dieci proposte finaliste per la prima riprogettazione completa delle banconote euro dal 2002.",
+          "SERIE CULTURA Proposte design delle banconote SERIE NATURA PARTECIPA AL SONDAGGIO UFFICIALE BCE entro il 21 settembre 2026.",
+          "Già in sei milioni hanno votato per le nuove banconote",
+          "Il Consiglio direttivo dovrebbe adottare la decisione finale sul disegno delle nuove banconote intorno alla fine dell’anno , sulla base di una combinazione di contributi, tra cui le conclusioni della: 1) giuria del concorso; 2) una valutazione tecnica; 3-4) i risultati dei due sondaggi.",
+          "Questa sarà la prima riprogettazione completa delle banconote in euro dopo la loro emissione nel 2002."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Francia",
-          "Spagna",
-          "Gironda",
-          "Lande",
-          "Madrid"
+          "Christine Lagarde"
         ],
         "numbersAndDates": [
-          "In Francia, il ministro dell'Interno ha annunciato 167.000 persone evacuate in Gironda, nel sud-ovest del Paese, a cui si aggiungono 30.000 evacuati poco pi a sud, nel dipartimento delle Lande.",
-          "Circa 250.000 persone in totale sono finora state evacuate nel sud-ovest della Francia e nel centro della Spagna, dove imperversano vasti e incontrollabili incendi boschivi."
+          "SERIE CULTURA Proposte design delle banconote SERIE NATURA PARTECIPA AL SONDAGGIO UFFICIALE BCE entro il 21 settembre 2026.",
+          "Il Consiglio direttivo dovrebbe adottare la decisione finale sul disegno delle nuove banconote intorno alla fine dell’anno , sulla base di una combinazione di contributi, tra cui le conclusioni della: 1) giuria del concorso; 2) una valutazione tecnica; 3-4) i risultati dei due sondaggi.",
+          "Questa sarà la prima riprogettazione completa delle banconote in euro dopo la loro emissione nel 2002.",
+          "23",
+          "2026",
+          "2002"
         ]
       }
     },
     {
-      "id": "story-63aeb9cfaf4b61d8",
-      "title": "Tour, epica vittoria di Carapaz sull’Alpe d’Huez, Evenepoel 2° stacca Pogacar e Del Toro",
-      "summary": "L’ecuadoriano passa per primo su tutti i gran premi della montagna e approfitta anche di due cadute di Kuss. Lo sloveno festeggerà domani a Parigi: ha 6’26\" su Remco",
-      "spokenText": "Evenepoel 2° stacca Pogacar e Del Toro. L'ecuadoriano passa per primo su tutti i gran premi della montagna e approfitta anche di due cadute di Kuss. “Non ci credo ancora” ha detto con un sorriso smagliante Carapaz.",
+      "id": "story-4d31c9e3e67df62c",
+      "title": "La Russia nella notte ha attaccato con missili Kiev e varie regioni dell'Ucraina, poche ore dopo che il presidente Volodymyr Zelensky aveva avvertito di un imminente 'attacco massiccio'",
+      "summary": "La Russia nella notte ha attaccato con missili Kiev e varie regioni dell’Ucraina, poche ore dopo che il presidente Volodymyr Zelensky aveva avvertito di un imminente “attacco massiccio”. L’aeronautica militare...",
+      "spokenText": "La Russia ha sferrato nella notte un attacco su larga scala con missili contro Kiev e diverse regioni dell’Ucraina. Il presidente Volodymyr Zelensky, poche ore prima, aveva avvertito di un’imminente offensiva massiccia. Per il ministro degli Esteri ucraino, si è trattato di un missile da crociera russo Kh-101. Gli attacchi russi hanno ucciso almeno 8 persone e ferito più di una dozzina di altre in diverse zone dell'Ucraina, con un missile caduto in Polonia. Zelensky su X: in questo attacco russo sono stati impiegati 74 missili e 286 droni , un numero significativo dei quali balistici. Missile su una palazzina: 6 morti, due sono bambine.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "ucraina",
+        "polonia",
+        "volodymyr zelensky"
+      ],
+      "importance": 80,
+      "mustInclude": false,
+      "estimatedSeconds": 42,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/ucraina-attacco-russo-kiev-e-varie-regioni-almeno-otto-morti-AJ2JUyZ"
+      },
+      "analysis": {
+        "mainFact": "La Russia nella notte ha attaccato con missili Kiev e varie regioni dell'Ucraina, poche ore dopo che il presidente Volodymyr Zelensky aveva avvertito di un imminente 'attacco massiccio'.",
+        "whyItMatters": "Gli attacchi russi hanno ucciso almeno 8 persone e ferito più di una dozzina di altre in diverse zone dell'Ucraina, con un missile caduto in Polonia.",
+        "confirmedFacts": [
+          "La Russia nella notte ha attaccato con missili Kiev e varie regioni dell'Ucraina, poche ore dopo che il presidente Volodymyr Zelensky aveva avvertito di un imminente 'attacco massiccio'.",
+          "Gli attacchi russi hanno ucciso almeno 8 persone e ferito più di una dozzina di altre in diverse zone dell'Ucraina, con un missile caduto in Polonia.",
+          "Zelensky su X: in questo attacco russo sono stati impiegati 74 missili e 286 droni , un numero significativo dei quali balistici.",
+          "Missile su una palazzina: 6 morti, due sono bambine",
+          "Per il ministro degli Esteri ucraino si è trattato di “un missile da crociera russo Kh-101”.",
+          "Kiev colpisce quattro petroliere e principale porto russo FT:",
+          "Ucraina, pesante attacco russo nella notte.",
+          "Mosca attacca: otto morti, missile cade in Polonia."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Russia",
+          "Ucraina",
+          "Polonia",
+          "Volodymyr Zelensky"
+        ],
+        "numbersAndDates": [
+          "Zelensky su X: in questo attacco russo sono stati impiegati 74 missili e 286 droni , un numero significativo dei quali balistici.",
+          "Missile su una palazzina: 6 morti, due sono bambine",
+          "Per il ministro degli Esteri ucraino si è trattato di “un missile da crociera russo Kh-101”.",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "story-8fd6de0b9ceb79c9",
+      "title": "Rinviato il voto sul riconoscimento facciale. L'Ue: 'Il riconoscimento facciale in spazi pubblici è vietato dall'AI Act'",
+      "summary": "Slitta il parere. Il provvedimento è approdato anche all'esame delle commissioni Affari costituzionali e Giustizia di Camera e Senato",
+      "spokenText": "Il voto sul riconoscimento facciale è stato rinviato e il provvedimento è approdato all'esame delle commissioni Affari costituzionali e Giustizia di Camera e Senato. Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
       "category": "altro",
       "tags": [
         "altro",
-        "alpe d huez"
+        "commissione politiche ue del senato",
+        "commissioni affari costituzionali e giustizia"
       ],
-      "importance": 72,
+      "importance": 70,
       "mustInclude": false,
-      "estimatedSeconds": 15,
+      "estimatedSeconds": 16,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/sport/ciclismo/2026/07/25/news/carapaz_vince_alpe_d_huez_evenepoel_stacca_pogacar_del_toro_tour_de_france-425492783/"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/07/30/rinviato-il-voto-sul-riconoscimento-facciale-alla-commissione-affari-ue-alla-camera_b0e5a2b0-364a-4f19-9a3f-021b114ccf5a.html"
       },
       "analysis": {
-        "mainFact": "Evenepoel 2° stacca Pogacar e Del Toro.",
-        "whyItMatters": "L'ecuadoriano passa per primo su tutti i gran premi della montagna e approfitta anche di due cadute di Kuss.",
+        "mainFact": "Il voto sul riconoscimento facciale è stato rinviato e il provvedimento è approdato all'esame delle commissioni Affari costituzionali e Giustizia di Camera e Senato.",
+        "whyItMatters": "Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
         "confirmedFacts": [
-          "Evenepoel 2° stacca Pogacar e Del Toro.",
-          "L'ecuadoriano passa per primo su tutti i gran premi della montagna e approfitta anche di due cadute di Kuss.",
-          "“Non ci credo ancora” ha detto con un sorriso smagliante Carapaz."
+          "Il voto sul riconoscimento facciale è stato rinviato e il provvedimento è approdato all'esame delle commissioni Affari costituzionali e Giustizia di Camera e Senato.",
+          "Per ora il dato importante è il cambiamento documentato; gli effetti più ampi restano da verificare.",
+          "Il provvedimento è approdato anche all'esame delle commissioni Affari costituzionali e Giustizia di Camera e Senato",
+          "Dopo il via libera della commissione Politiche Ue del Senato, arrivato ieri, il provvedimento è approdato oggi anche all'esame delle commissioni Affari costituzionali e Giustizia di Camera e Senato per i rispettivi pareri."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Alpe d'Huez"
+          "Commissione Politiche Ue del Senato",
+          "Commissioni Affari costituzionali e Giustizia"
         ],
-        "numbersAndDates": [
-          "2"
-        ]
-      }
-    },
-    {
-      "id": "story-0f73f7b60aa4f8c3",
-      "title": "Orso bruno marsicano: presentata la nuova stima di popolazione nell’Appennino centrale",
-      "summary": "È stata presentata al Ministero dell'Ambiente la nuova stima della popolazione di orso bruno marsicano, frutto della più estesa attività di monitoraggio genetico mai realizzata sull'intero areale. La ricerca, condotta nell'ambito del progetto DigitAP finanziato dal PNRR, stima la presenza di 81 esemplari, confermando la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
-      "spokenText": "È stata presentata al Ministero dell'Ambiente la nuova stima della popolazione di orso bruno marsicano, frutto della più estesa attività di monitoraggio genetico mai realizzata sull'intero areale. La ricerca, condotta nell'ambito del progetto DigitAP finanziato dal PNRR, stima la presenza di 81 esemplari, confermando la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/orso-bruno-marsicano-presentata-la-nuova-stima-di-popolazione-nellappennino-centrale"
-      },
-      "analysis": {
-        "mainFact": "È stata presentata al Ministero dell'Ambiente la nuova stima della popolazione di orso bruno marsicano, frutto della più estesa attività di monitoraggio genetico mai realizzata sull'intero areale. La ricerca, condotta nell'ambito del progetto DigitAP finanziato dal PNRR, stima la presenza di 81 esemplari, confermando la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
-        "whyItMatters": "La stima della popolazione di orso bruno marsicano è un indicatore chiave dello stato di salute degli ecosistemi appenninici e dell'efficacia delle politiche di conservazione.",
-        "confirmedFacts": [
-          "È stata presentata al Ministero dell'Ambiente la nuova stima della popolazione di orso bruno marsicano, frutto della più estesa attività di monitoraggio genetico mai realizzata sull'intero areale. La ricerca, condotta nell'ambito del progetto DigitAP finanziato dal PNRR, stima la presenza di 81 esemplari, confermando la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
-          "La stima della popolazione di orso bruno marsicano è un indicatore chiave dello stato di salute degli ecosistemi appenninici e dell'efficacia delle politiche di conservazione.",
-          "Orso bruno marsicano: i risultati della stima di popolazione 2025 presentati al MASE",
-          "Realizzata nell'ambito del progetto DigitAP, finanziato dal PNRR, la ricerca conferma la stabilità del nucleo storico e una lenta espansione verso le aree periferiche.",
-          "Stimata la presenza di 81 esemplari nell'intero areale Si è conclusa la più estesa e completa attività di monitoraggio genetico mai realizzata per stimare la dimensione della popolazione di orso bruno marsicano (Ursus arctos marsicanus), una delle popolazioni ursine più minacciate al mondo.",
-          "Lo studio, promosso dal Ministero dell’Ambiente e della Sicurezza Energetica (MASE) e coordinato da ISPRA, è stato realizzato nell'ambito del progetto DigitAP .",
-          "Quest'ultimo, finanziato con fondi del PNRR, ha avuto l’obiettivo di mettere l’innovazione tecnologica al servizio della conservazione della biodiversità nelle aree protette.",
-          "Si è svolta oggi, presso il Ministero dell’Ambiente e della Sicurezza Energetica (MASE), la presentazione della nuova stima di popolazione dell’orso bruno marsicano, la prima realizzata sull’intero areale di distribuzione, frutto del campionamento genetico condotto nell’estate 2025.",
-          "Lo studio è stato finanziato grazie al Piano Nazionale di Ripresa e Resilienza (PNRR) nell’ambito Misura M2C4 I.3.2 “ DigitAP - Digitalizzazione dei parchi nazionali e delle aree marine protette ”.",
-          "I numeri della popolazione: stabilità ed espansione L'analisi modellistica, basata sui dati genetici raccolti nell’estate del 2025, ha stimato una popolazione complessiva di 81 individui ( 43 femmine e 38 maschi ), con un intervallo di incertezza compreso tra 73 e 88 esemplari."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-bc2237f7d9d55774",
-      "title": "Venere? Un pianeta tutt’altro che inattivo",
-      "summary": "Una nuova ricerca guidata dal Politecnico di Zurigo, basata su simulazioni tridimensionali, indica che Venere è un mondo geologicamente attivo. Lo studio suggerisce che i grandi sistemi di rift del pianeta siano molto più giovani di quanto si pensasse, ribaltando l'idea di un pianeta spento e rivelando una dinamica interna ancora in corso.",
-      "spokenText": "Una nuova ricerca guidata dal Politecnico di Zurigo, basata su simulazioni tridimensionali, indica che Venere è un mondo geologicamente attivo. Lo studio suggerisce che i grandi sistemi di rift del pianeta siano molto più giovani di quanto si pensasse, ribaltando l'idea di un pianeta spento e rivelando una dinamica interna ancora in corso.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/07/24/venere-pianeta-geologicamente-inattivo/"
-      },
-      "analysis": {
-        "mainFact": "Una nuova ricerca guidata dal Politecnico di Zurigo, basata su simulazioni tridimensionali, indica che Venere è un mondo geologicamente attivo. Lo studio suggerisce che i grandi sistemi di rift del pianeta siano molto più giovani di quanto si pensasse, ribaltando l'idea di un pianeta spento e rivelando una dinamica interna ancora in corso.",
-        "whyItMatters": "Comprendere l'attività geologica di Venere è fondamentale per studiare l'evoluzione dei pianeti terrestri e i meccanismi che regolano il clima planetario.",
-        "confirmedFacts": [
-          "Una nuova ricerca guidata dal Politecnico di Zurigo, basata su simulazioni tridimensionali, indica che Venere è un mondo geologicamente attivo. Lo studio suggerisce che i grandi sistemi di rift del pianeta siano molto più giovani di quanto si pensasse, ribaltando l'idea di un pianeta spento e rivelando una dinamica interna ancora in corso.",
-          "Comprendere l'attività geologica di Venere è fondamentale per studiare l'evoluzione dei pianeti terrestri e i meccanismi che regolano il clima planetario."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-c7fe8c7bfc163aef",
-      "title": "Guerra Ucraina - Russia, le news. Missili balistici su Kiev, almeno due colpiscono il centro della capitale",
-      "summary": "Nuova ondata di missili balistici russi ha colpito il centro di Kiev. Il presidente ucraino Zelensky ha dichiarato che nel Mar Caspio sono state colpite navi che trasportavano armi per l'Iran, accusa che Teheran ha definito un atto di aggressione confermando una vittima. La portavoce del ministero degli Esteri russo Zakharova ha attaccato il ministro della Difesa italiano Crosetto. La Romania ha segnalato l'abbattimento di un secondo drone sul proprio territorio.",
-      "spokenText": "Nuova ondata di missili balistici russi ha colpito il centro di Kiev. Il presidente ucraino Zelensky ha dichiarato che nel Mar Caspio sono state colpite navi che trasportavano armi per l'Iran, accusa che Teheran ha definito un atto di aggressione confermando una vittima. La portavoce del ministero degli Esteri russo Zakharova ha attaccato il ministro della Difesa italiano Crosetto. La Romania ha segnalato l'abbattimento di un secondo drone sul proprio territorio.",
+      "id": "story-d804ad51e9f2ff4c",
+      "title": "Stellantis, il motore Nord America traina la ripresa. L’Europa fa più fatica. Giù il titolo",
+      "summary": "Ricavi più 13% e utile torna positivo. La ripresa industriale e finanziaria del costruttore italo-francese tiene grazie soprattutto alle performance in Messico e Usa. Filosa: “Target 2026 confermati”.",
+      "spokenText": "Stellantis torna in utile e registra ricavi in crescita del 13%, trainati dalla spinta del Nord America. Nel trimestre, il costruttore italo-francese ha migliorato su base annua tutti i principali indicatori, anche se l'utile operativo adjusted è risultato inferiore alle stime. In Borsa, però, l'avvio di contrattazione è stato negativo. La ripartenza industriale e finanziaria tiene, ancorata a elementi che proseguono anche nel secondo trimestre del 2026. Filosa: “Target 2026 confermati”.",
       "category": "mondo",
       "tags": [
-        "mondo"
+        "mondo",
+        "stellantis",
+        "nord america",
+        "messico",
+        "usa",
+        "europa",
+        "filosa"
       ],
-      "importance": 72,
+      "importance": 60,
       "mustInclude": false,
       "estimatedSeconds": 29,
       "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/07/26/diretta/guerra_ucraina_russia_news_oggi-425493456/"
+        "url": "https://www.repubblica.it/economia/2026/07/30/news/stellantis_secondo_trimestre_conti_filosa_nord_america_europa-425501279/"
       },
       "analysis": {
-        "mainFact": "Nuova ondata di missili balistici russi ha colpito il centro di Kiev. Il presidente ucraino Zelensky ha dichiarato che nel Mar Caspio sono state colpite navi che trasportavano armi per l'Iran, accusa che Teheran ha definito un atto di aggressione confermando una vittima. La portavoce del ministero degli Esteri russo Zakharova ha attaccato il ministro della Difesa italiano Crosetto. La Romania ha segnalato l'abbattimento di un secondo drone sul proprio territorio.",
-        "whyItMatters": "L'intensificarsi degli attacchi russi e le accuse di forniture militari all'Iran allargano il conflitto, aumentando l'instabilità globale e il rischio di un confronto più ampio.",
+        "mainFact": "Stellantis torna in utile grazie alla spinta del Nord America, con ricavi in crescita del 13%.",
+        "whyItMatters": "La ripartenza industriale e finanziaria tiene.",
         "confirmedFacts": [
-          "Nuova ondata di missili balistici russi ha colpito il centro di Kiev. Il presidente ucraino Zelensky ha dichiarato che nel Mar Caspio sono state colpite navi che trasportavano armi per l'Iran, accusa che Teheran ha definito un atto di aggressione confermando una vittima. La portavoce del ministero degli Esteri russo Zakharova ha attaccato il ministro della Difesa italiano Crosetto. La Romania ha segnalato l'abbattimento di un secondo drone sul proprio territorio.",
-          "L'intensificarsi degli attacchi russi e le accuse di forniture militari all'Iran allargano il conflitto, aumentando l'instabilità globale e il rischio di un confronto più ampio."
+          "Stellantis torna in utile grazie alla spinta del Nord America, con ricavi in crescita del 13%.",
+          "La ripartenza industriale e finanziaria tiene.",
+          "Filosa: “Target 2026 confermati”.",
+          "Salgono i ricavi, utile operativo adjusted inferiore alle stime, confermata la guidance - In Borsa avvio di contrattazione negativo",
+          "Nel trimestre il costruttore italo-francese ha registrato un miglioramento su base annua di tutti i principali indicatori, sostenuto soprattutto dalla performance del Nord America.",
+          "Elementi a cui è ancorata la ripresa di Stellantis che prosegue anche nel secondo trimestre del 2026."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
+        "peopleAndOrganizations": [
+          "Stellantis",
+          "Nord America",
+          "Messico",
+          "Usa",
+          "Europa",
+          "Filosa"
+        ],
+        "numbersAndDates": [
+          "Elementi a cui è ancorata la ripresa di Stellantis che prosegue anche nel secondo trimestre del 2026.",
+          "13"
+        ]
       }
     },
     {
-      "id": "story-548d5f7446cef6ee",
-      "title": "Falcon 9 contro la Luna: appuntamento il 5 agosto",
-      "summary": "Una collaborazione scientifica internazionale si prepara a osservare l'impatto controllato dello stadio superiore di un razzo Falcon 9 di SpaceX sulla superficie lunare, previsto per il 5 agosto. L'evento, che genererà un bagliore e una nube di polvere, permetterà di studiare la composizione del suolo nel cratere dove avverrà l'impatto, fornendo dati cruciali per la futura esplorazione.",
-      "spokenText": "Una collaborazione scientifica internazionale si prepara a osservare l'impatto controllato dello stadio superiore di un razzo Falcon 9 di SpaceX sulla superficie lunare, previsto per il 5 agosto. L'evento, che genererà un bagliore e una nube di polvere, permetterà di studiare la composizione del suolo nel cratere dove avverrà l'impatto, fornendo dati cruciali per la futura esplorazione.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/07/24/falcon-9-contro-la-luna-appuntamento-il-5-agosto/"
-      },
-      "analysis": {
-        "mainFact": "Una collaborazione scientifica internazionale si prepara a osservare l'impatto controllato dello stadio superiore di un razzo Falcon 9 di SpaceX sulla superficie lunare, previsto per il 5 agosto. L'evento, che genererà un bagliore e una nube di polvere, permetterà di studiare la composizione del suolo nel cratere dove avverrà l'impatto, fornendo dati cruciali per la futura esplorazione.",
-        "whyItMatters": "L'impatto offrirà dati preziosi sulla composizione del suolo lunare e sulla dinamica degli impatti, contribuendo alla preparazione di future missioni umane.",
-        "confirmedFacts": [
-          "Una collaborazione scientifica internazionale si prepara a osservare l'impatto controllato dello stadio superiore di un razzo Falcon 9 di SpaceX sulla superficie lunare, previsto per il 5 agosto. L'evento, che genererà un bagliore e una nube di polvere, permetterà di studiare la composizione del suolo nel cratere dove avverrà l'impatto, fornendo dati cruciali per la futura esplorazione.",
-          "L'impatto offrirà dati preziosi sulla composizione del suolo lunare e sulla dinamica degli impatti, contribuendo alla preparazione di future missioni umane."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-4256ca5463ae07c5",
-      "title": "Incendi «senza precedenti» in Francia e Spagna, evacuate 270mila persone. Un morto vicino Valencia",
-      "summary": "Incendi di proporzioni storiche stanno devastando vaste aree della Francia sud-occidentale e della Spagna. Le fiamme hanno già causato un morto vicino a Valencia e costretto all'evacuazione di circa 270.000 persone. Le aree più colpite sono quelle di Bordeaux e della Gironda in Francia, mentre il governo spagnolo ha dichiarato lo stato di emergenza nazionale per far fronte alla crisi.",
-      "spokenText": "Incendi di proporzioni storiche stanno devastando vaste aree della Francia sud-occidentale e della Spagna. Le fiamme hanno già causato un morto vicino a Valencia e costretto all'evacuazione di circa 270.000 persone. Le aree più colpite sono quelle di Bordeaux e della Gironda in Francia, mentre il governo spagnolo ha dichiarato lo stato di emergenza nazionale per far fronte alla crisi.",
-      "category": "altro",
-      "tags": [
-        "altro"
-      ],
-      "importance": 60,
-      "mustInclude": false,
-      "estimatedSeconds": 24,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/incendi-francia-e-spagna-evacuate-220mila-persone-AJGZrWV"
-      },
-      "analysis": {
-        "mainFact": "Incendi di proporzioni storiche stanno devastando vaste aree della Francia sud-occidentale e della Spagna. Le fiamme hanno già causato un morto vicino a Valencia e costretto all'evacuazione di circa 270.000 persone. Le aree più colpite sono quelle di Bordeaux e della Gironda in Francia, mentre il governo spagnolo ha dichiarato lo stato di emergenza nazionale per far fronte alla crisi.",
-        "whyItMatters": "L'evento sottolinea l'impatto crescente del cambiamento climatico in Europa, mettendo a dura prova i sistemi di protezione civile e avendo potenziali ripercussioni economiche e politiche.",
-        "confirmedFacts": [
-          "Incendi di proporzioni storiche stanno devastando vaste aree della Francia sud-occidentale e della Spagna. Le fiamme hanno già causato un morto vicino a Valencia e costretto all'evacuazione di circa 270.000 persone. Le aree più colpite sono quelle di Bordeaux e della Gironda in Francia, mentre il governo spagnolo ha dichiarato lo stato di emergenza nazionale per far fronte alla crisi.",
-          "L'evento sottolinea l'impatto crescente del cambiamento climatico in Europa, mettendo a dura prova i sistemi di protezione civile e avendo potenziali ripercussioni economiche e politiche."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-4a13514f0fa1c84d",
-      "title": "Mosca punge Crosetto: 'Un posto a Fedorov? Meglio Bin Laden'",
-      "summary": "Attacco di Zakharova dopo l'intervista. Il presidente kazako a Putin: 'La guerra deve finire'",
-      "spokenText": "Attacco di Zakharova dopo l'intervista. Il presidente kazako a Putin: 'La guerra deve finire'",
+      "id": "story-38e18ace79b5205a",
+      "title": "Istat, Pil cresce oltre le attese: +0,2% nel trimestre. Meloni: “Continuate pure a sottovalutarci”",
+      "summary": "Su base annua crescita dell’1%. Variazione acquisita dello 0,8%. Il ministro Giorgetti fa eco alla premier: “L’economia migliora nonostante il contesto negativo”",
+      "spokenText": "Il Pil italiano è cresciuto dello 0,2% nel secondo trimestre, oltre le attese. Su base annua, i dati diffusi oggi dall'Istat certificano una crescita dell'1,0%. La variazione acquisita per il 2026, corretta per gli effetti di calendario, è pari allo 0,8%. Il ministro dell'economia Giancarlo Giorgetti commenta: 'L'economia migliora nonostante il contesto negativo'. La premier Meloni aggiunge: 'Continuate pure a sottovalutarci'.",
       "category": "mondo",
       "tags": [
-        "mondo"
-      ],
-      "importance": 100,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/25/zakharova-crosetto-offre-un-posto-a-fedorov-meglio-bin-laden..._e7bc33b0-2bb6-4506-9549-2d10566f73c4.html"
-      },
-      "analysis": {
-        "mainFact": "Attacco di Zakharova dopo l'intervista. Il presidente kazako a Putin: 'La guerra deve finire'",
-        "whyItMatters": "Notizia di interesse generale.",
-        "confirmedFacts": [
-          "Attacco di Zakharova dopo l'intervista. Il presidente kazako a Putin: 'La guerra deve finire'",
-          "Notizia di interesse generale."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-d4703b279518d1c6",
-      "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
-      "summary": "Una delle due sonde della missione ESCAPADE della NASA, diretta verso Marte, ha catturato un suggestivo ritratto di famiglia della Terra e della Luna. L'immagine, scattata il 3 luglio a una distanza di oltre 584.000 chilometri, mostra il nostro pianeta e il suo satellite in luce visibile e infrarossa termica, offrendo una prospettiva unica del sistema Terra-Luna.",
-      "spokenText": "Una delle due sonde della missione ESCAPADE della NASA, diretta verso Marte, ha catturato un suggestivo ritratto di famiglia della Terra e della Luna. L'immagine, scattata il 3 luglio a una distanza di oltre 584.000 chilometri, mostra il nostro pianeta e il suo satellite in luce visibile e infrarossa termica, offrendo una prospettiva unica del sistema Terra-Luna.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
+        "mondo",
+        "istat",
+        "italia",
+        "giancarlo giorgetti"
       ],
       "importance": 60,
       "mustInclude": false,
-      "estimatedSeconds": 23,
+      "estimatedSeconds": 25,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/economia/2026/07/30/news/istat_pil_secondo_trimestre_2026-425501512/"
       },
       "analysis": {
-        "mainFact": "Una delle due sonde della missione ESCAPADE della NASA, diretta verso Marte, ha catturato un suggestivo ritratto di famiglia della Terra e della Luna. L'immagine, scattata il 3 luglio a una distanza di oltre 584.000 chilometri, mostra il nostro pianeta e il suo satellite in luce visibile e infrarossa termica, offrendo una prospettiva unica del sistema Terra-Luna.",
-        "whyItMatters": "La missione ESCAPADE, diretta su Marte, rappresenta un passo avanti nell'esplorazione interplanetaria a basso costo, e l'immagine ha un forte valore simbolico e divulgativo.",
+        "mainFact": "Il Pil italiano è cresciuto dello 0,2% nel secondo trimestre, oltre le attese, con una crescita su base annua dell'1%.",
+        "whyItMatters": "Così il ministro dell'economia e delle finanze Giancarlo Giorgetti commenta i dati del Pil diffusi oggi dall'Istat.",
         "confirmedFacts": [
-          "Una delle due sonde della missione ESCAPADE della NASA, diretta verso Marte, ha catturato un suggestivo ritratto di famiglia della Terra e della Luna. L'immagine, scattata il 3 luglio a una distanza di oltre 584.000 chilometri, mostra il nostro pianeta e il suo satellite in luce visibile e infrarossa termica, offrendo una prospettiva unica del sistema Terra-Luna.",
-          "La missione ESCAPADE, diretta su Marte, rappresenta un passo avanti nell'esplorazione interplanetaria a basso costo, e l'immagine ha un forte valore simbolico e divulgativo."
+          "Il Pil italiano è cresciuto dello 0,2% nel secondo trimestre, oltre le attese, con una crescita su base annua dell'1%.",
+          "Così il ministro dell'economia e delle finanze Giancarlo Giorgetti commenta i dati del Pil diffusi oggi dall'Istat.",
+          "La variazione acquisita del Pil per il 2026 - ovvero la crescita annuale che si otterrebbe in presenza di una variazione congiunturale nulla nei restanti trimestri dell'anno -, corretta per gli effetti di calendario, è pari allo 0,8%.",
+          "Meloni: “Continuate pure a sottovalutarci”",
+          "Il ministro Giorgetti fa eco alla premier: “L’economia migliora nonostante il contesto negativo”",
+          "Il Pil cresce dello 0,2% nel secondo trimestre.",
+          "I dati diffusi oggi dall'Istat certificano invece una crescita dell'1,0%, con una crescita acquisita per il 2026 pari allo 0,8%."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
+        "peopleAndOrganizations": [
+          "Istat",
+          "Italia",
+          "Giancarlo Giorgetti"
+        ],
+        "numbersAndDates": [
+          "La variazione acquisita del Pil per il 2026 - ovvero la crescita annuale che si otterrebbe in presenza di una variazione congiunturale nulla nei restanti trimestri dell'anno -, corretta per gli effetti di calendario, è pari allo 0,8%.",
+          "Il Pil cresce dello 0,2% nel secondo trimestre.",
+          "I dati diffusi oggi dall'Istat certificano invece una crescita dell'1,0%, con una crescita acquisita per il 2026 pari allo 0,8%.",
+          "0,2",
+          "1"
+        ]
       }
     },
     {
-      "id": "story-575068589a985f93",
-      "title": "New Crew Members Welcomed to International Space Station",
-      "summary": "Tre nuovi membri dell'equipaggio, i cosmonauti di Roscosmos Anna Kikina e Pyotr Dubrov e l'astronauta NASA Anil Menon, sono stati accolti a bordo della Stazione Spaziale Internazionale. Il trio è arrivato sulla stazione il 14 luglio 2026, dopo un lancio avvenuto due giorni prima, unendosi agli altri occupanti del laboratorio orbitante per la Expedition 74.",
-      "spokenText": "Tre nuovi membri dell'equipaggio, i cosmonauti di Roscosmos Anna Kikina e Pyotr Dubrov e l'astronauta NASA Anil Menon, sono stati accolti a bordo della Stazione Spaziale Internazionale. Il trio è arrivato sulla stazione il 14 luglio 2026, dopo un lancio avvenuto due giorni prima, unendosi agli altri occupanti del laboratorio orbitante per la Expedition 74.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 50,
-      "mustInclude": false,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/"
-      },
-      "analysis": {
-        "mainFact": "Tre nuovi membri dell'equipaggio, i cosmonauti di Roscosmos Anna Kikina e Pyotr Dubrov e l'astronauta NASA Anil Menon, sono stati accolti a bordo della Stazione Spaziale Internazionale. Il trio è arrivato sulla stazione il 14 luglio 2026, dopo un lancio avvenuto due giorni prima, unendosi agli altri occupanti del laboratorio orbitante per la Expedition 74.",
-        "whyItMatters": "La Stazione Spaziale Internazionale rimane un simbolo di cooperazione pacifica e un laboratorio cruciale per la ricerca scientifica in microgravità.",
-        "confirmedFacts": [
-          "Tre nuovi membri dell'equipaggio, i cosmonauti di Roscosmos Anna Kikina e Pyotr Dubrov e l'astronauta NASA Anil Menon, sono stati accolti a bordo della Stazione Spaziale Internazionale. Il trio è arrivato sulla stazione il 14 luglio 2026, dopo un lancio avvenuto due giorni prima, unendosi agli altri occupanti del laboratorio orbitante per la Expedition 74.",
-          "La Stazione Spaziale Internazionale rimane un simbolo di cooperazione pacifica e un laboratorio cruciale per la ricerca scientifica in microgravità."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-6774906e8a1aae3c",
-      "title": "I danni della crisi del carburante all’economia russa",
-      "summary": "La campagna di attacchi con droni ucraini contro le infrastrutture petrolifere sta spingendo l'economia russa verso una fase critica. La produzione di carburante è in calo mentre i prezzi della benzina salgono alle stelle, creando una tempesta perfetta che potrebbe portare al razionamento e a una recessione, mettendo sotto pressione la capacità del Cremlino di finanziare lo sforzo bellico.",
-      "spokenText": "La campagna di attacchi con droni ucraini contro le infrastrutture petrolifere sta spingendo l'economia russa verso una fase critica. La produzione di carburante è in calo mentre i prezzi della benzina salgono alle stelle, creando una tempesta perfetta che potrebbe portare al razionamento e a una recessione, mettendo sotto pressione la capacità del Cremlino di finanziare lo sforzo bellico.",
+      "id": "story-462fc7f09c8a77d1",
+      "title": "La crisi industriale tedesca rischia di aprire le porte dell’ultradestra in Europa?",
+      "summary": "Dal declino industriale all'ascesa di AfD. Se in Germania cade il cordone sanitario contro l'ultradestra, le conseguenze stravolgeranno gli equilibri di tutta l'Unione Europea.",
+      "spokenText": "Il cancelliere tedesco Friedrich Merz sta varando un importante rimpasto di governo per cercare di contenere la disaffezione dell'elettorato. Merz avrebbe un record negativo di popolarità tra 24 leader di paesi democratici. Non è riuscito a convincere determinati strati dell'elettorato, a partire dalle donne: nella fascia giovanile, solo il 9 per cento lo vedeva come il candidato preferito nel 2024.",
       "category": "cultura",
       "tags": [
-        "cultura"
+        "cultura",
+        "friedrich merz",
+        "cdu"
       ],
-      "importance": 72,
+      "importance": 62,
       "mustInclude": false,
       "estimatedSeconds": 24,
       "source": {
         "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/crisi-carburante-russia-economia-droni-ucraina/"
+        "url": "https://www.valigiablu.it/crisi-germania-merz-afd-economia/"
       },
       "analysis": {
-        "mainFact": "La campagna di attacchi con droni ucraini contro le infrastrutture petrolifere sta spingendo l'economia russa verso una fase critica. La produzione di carburante è in calo mentre i prezzi della benzina salgono alle stelle, creando una tempesta perfetta che potrebbe portare al razionamento e a una recessione, mettendo sotto pressione la capacità del Cremlino di finanziare lo sforzo bellico.",
-        "whyItMatters": "La crisi del carburante in Russia, causata dagli attacchi ucraini, sta minando un pilastro dell'economia di guerra di Mosca, con potenziali ripercussioni sulla sua capacità di sostenere il conflitto.",
+        "mainFact": "Per cercare di contenere la disaffezione dell'elettorato, il cancelliere tedesco Friedrich Merz sta varando un importante rimpasto di governo.",
+        "whyItMatters": "Merz avrebbe un record negativo di popolarità tra 24 leader di paesi democratici.",
         "confirmedFacts": [
-          "La campagna di attacchi con droni ucraini contro le infrastrutture petrolifere sta spingendo l'economia russa verso una fase critica. La produzione di carburante è in calo mentre i prezzi della benzina salgono alle stelle, creando una tempesta perfetta che potrebbe portare al razionamento e a una recessione, mettendo sotto pressione la capacità del Cremlino di finanziare lo sforzo bellico.",
-          "La crisi del carburante in Russia, causata dagli attacchi ucraini, sta minando un pilastro dell'economia di guerra di Mosca, con potenziali ripercussioni sulla sua capacità di sostenere il conflitto."
+          "Per cercare di contenere la disaffezione dell'elettorato, il cancelliere tedesco Friedrich Merz sta varando un importante rimpasto di governo.",
+          "Merz avrebbe un record negativo di popolarità tra 24 leader di paesi democratici.",
+          "Merz non è riuscito a convincere determinati strati dell’elettorato, a partire dalle donne, dove nella fascia giovanile solo il 9 per cento lo vedeva come il candidato preferito nel 2024."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-c2fb023dffcfce5a",
-      "title": "Signal then storm",
-      "summary": "Un ritratto di Allan Basbaum, ricercatore che ha dedicato cinquant'anni della sua carriera a esplorare il sistema nervoso alla ricerca dei luoghi in cui il dolore ha origine e dove può essere fermato. L'articolo ripercorre il suo lavoro pionieristico, offrendo una panoramica sulla complessa neurobiologia del dolore e sulle potenziali strade per future terapie.",
-      "spokenText": "Un ritratto di Allan Basbaum, ricercatore che ha dedicato cinquant'anni della sua carriera a esplorare il sistema nervoso alla ricerca dei luoghi in cui il dolore ha origine e dove può essere fermato. L'articolo ripercorre il suo lavoro pionieristico, offrendo una panoramica sulla complessa neurobiologia del dolore e sulle potenziali strade per future terapie.",
-      "category": "cultura",
-      "tags": [
-        "cultura"
-      ],
-      "importance": 60,
-      "mustInclude": false,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain"
-      },
-      "analysis": {
-        "mainFact": "Un ritratto di Allan Basbaum, ricercatore che ha dedicato cinquant'anni della sua carriera a esplorare il sistema nervoso alla ricerca dei luoghi in cui il dolore ha origine e dove può essere fermato. L'articolo ripercorre il suo lavoro pionieristico, offrendo una panoramica sulla complessa neurobiologia del dolore e sulle potenziali strade per future terapie.",
-        "whyItMatters": "La ricerca sul dolore ha implicazioni enormi per la qualità della vita di milioni di persone, e il profilo offre una visione d'insieme su decenni di progressi scientifici.",
-        "confirmedFacts": [
-          "Un ritratto di Allan Basbaum, ricercatore che ha dedicato cinquant'anni della sua carriera a esplorare il sistema nervoso alla ricerca dei luoghi in cui il dolore ha origine e dove può essere fermato. L'articolo ripercorre il suo lavoro pionieristico, offrendo una panoramica sulla complessa neurobiologia del dolore e sulle potenziali strade per future terapie.",
-          "La ricerca sul dolore ha implicazioni enormi per la qualità della vita di milioni di persone, e il profilo offre una visione d'insieme su decenni di progressi scientifici."
+        "peopleAndOrganizations": [
+          "Friedrich Merz",
+          "CDU"
         ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "Merz non è riuscito a convincere determinati strati dell’elettorato, a partire dalle donne, dove nella fascia giovanile solo il 9 per cento lo vedeva come il candidato preferito nel 2024.",
+          "24"
+        ]
       }
     }
   ]
