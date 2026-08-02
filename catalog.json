@@ -1,74 +1,422 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-02-dab5c9dcf624",
-  "generatedAt": "2026-08-02T10:21:24.447Z",
+  "catalogId": "daily-quid-2026-08-02-f8eba9670a4e",
+  "generatedAt": "2026-08-02T10:52:52.648Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-b1857bd3fbe7f664",
-      "title": "Beaver dams 'helping boost drought resilience'",
-      "summary": "Beaver dams 'helping boost drought resilience'",
-      "spokenText": "Beaver dams 'helping boost drought resilience'.",
+      "id": "story-3b76a757b3dc7f28",
+      "title": "Rifiuti speciali: aumenta la produzione",
+      "summary": "Nel 2024 oltre 172 milioni di tonnellate. L'edilizia è la più “circolare”, riciclo record. Recupero di materia in crescita: +5,2% in un anno In Italia nel 2024 la produzione complessiva di rifiuti speciali derivanti da attività industriali, commerciali, artigianali, di servizio, di trattamento rifiuti. Risanamento, ha subito una netta accelerazione, superando i 172 milioni di tonnellate. Registrando un incremento del +4,6% rispetto al 2023 (circa 7,6 milioni di tonnellate in più), un dato che evidenzia un forte scollamento rispetto alla crescita più contenuta dell’economia nazionale, che nello stesso periodo ha segnato un +0,8% del PIL.",
+      "spokenText": "L'Italia ha prodotto oltre 172 milioni di tonnellate di rifiuti speciali nel 2024, segnando un incremento del 4,6% rispetto all'anno precedente. A trainare questa mole di scarti è il settore delle costruzioni e demolizioni, che da solo genera 90,4 milioni di tonnellate, più della metà del totale nazionale. Eppure, proprio l'edilizia si conferma il comparto più virtuoso, raggiungendo tassi di riciclo record. La quasi totalità di questi materiali, il 93,7%, è di natura non pericolosa. Demolizioni si conferma il principale motore della produzione di rifiuti speciali, generando da solo 90,4 milioni di tonnellate ( il 52,5% del totale nazionale ).",
       "category": "ambiente",
       "tags": [
-        "ambiente"
+        "ambiente",
+        "italia"
       ],
-      "importance": 75,
+      "importance": 80,
       "mustInclude": true,
-      "estimatedSeconds": 3,
+      "estimatedSeconds": 40,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c5yr7z150d7o?at_medium=RSS&at_campaign=rss"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/rifiuti-speciali-aumenta-la-produzione"
       },
       "analysis": {
-        "mainFact": "Beaver dams 'helping boost drought resilience'",
-        "whyItMatters": "Ricerca su castori e resilienza alla siccità: rilevante per ambiente e adattamento climatico.",
+        "mainFact": "Nel 2024 la produzione di rifiuti speciali in Italia ha superato i 172 milioni di tonnellate, con un incremento del 4,6% rispetto al 2023.",
+        "whyItMatters": "L'edilizia è la più “circolare”, riciclo record.",
         "confirmedFacts": [
-          "Beaver dams 'helping boost drought resilience'",
-          "Ricerca su castori e resilienza alla siccità: rilevante per ambiente e adattamento climatico.",
-          "Puttock said wetland ponds held about 1,000 cubic metres of water each, reducing peak flows by 30% by retaining it in leaky dams.",
-          "Related topics Devon Conservation More on this story More than half of England in drought, Environment Agency declares 3 days ago How reintroducing beavers is changing our landscape 14 March Related internet links University of Exeter"
+          "Nel 2024 la produzione di rifiuti speciali in Italia ha superato i 172 milioni di tonnellate, con un incremento del 4,6% rispetto al 2023.",
+          "L'edilizia è la più “circolare”, riciclo record.",
+          "Il settore delle costruzioni e demolizioni si conferma il principale motore della produzione di rifiuti speciali, generando da solo 90,4 milioni di tonnellate ( il 52,5% del totale nazionale ).",
+          "La quasi totalità dei rifiuti speciali prodotti è di natura non pericolosa (93,7%), in crescita del +4,5% rispetto al 2023.",
+          "Il Nord traina con il 56% di produzione ; la sola Lombardia ne produce 36,4 milioni (il 21,2% del dato italiano), seguita da Veneto (18 milioni), Emilia- Romagna (15 milioni) e Piemonte (13,9 milioni).",
+          "Nel Sud Italia se ne producono 44,3 milioni di tonnellate (25,8% del totale); la Campania è la regione con la produzione più alta dell’area con 11,7 milioni di tonnellate, seguita da Sicilia (10,1 milioni) e Puglia (9,3 milioni)."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [],
+        "peopleAndOrganizations": [
+          "Italia"
+        ],
+        "numbersAndDates": [
+          "Il settore delle costruzioni e demolizioni si conferma il principale motore della produzione di rifiuti speciali, generando da solo 90,4 milioni di tonnellate ( il 52,5% del totale nazionale ).",
+          "La quasi totalità dei rifiuti speciali prodotti è di natura non pericolosa (93,7%), in crescita del +4,5% rispetto al 2023.",
+          "Il Nord traina con il 56% di produzione ; la sola Lombardia ne produce 36,4 milioni (il 21,2% del dato italiano), seguita da Veneto (18 milioni), Emilia- Romagna (15 milioni) e Piemonte (13,9 milioni).",
+          "Nel Sud Italia se ne producono 44,3 milioni di tonnellate (25,8% del totale); la Campania è la regione con la produzione più alta dell’area con 11,7 milioni di tonnellate, seguita da Sicilia (10,1 milioni) e Puglia (9,3 milioni).",
+          "2024",
+          "172",
+          "4,6",
+          "2023"
+        ]
+      }
+    },
+    {
+      "id": "story-f34a8c4eb4f8e2cf",
+      "title": "Imparare dal mare con ACeS. Acqua, ambiente e salute: cittadini e ricercatori in dialogo",
+      "summary": "Attraverso il contributo dei partner del progetto ACeS, i cittadini avranno l’opportunità di conoscere da vicino le attività del Progetto ACeS e comprendere il valore della prevenzione e della tutela delle acque attraverso spazi interattivi e attività divulgative pensate per favorire il confronto diretto tra ricerca scientifica e territorio. Attraverso attività interattive e momenti di confronto, il progetto ACeS porta la ricerca fuori dai laboratori per raccontare come la qualità delle acque, l’ambiente marino e la salute siano strettamente collegati.",
+      "spokenText": "A Ortona, lungo la Passeggiata Orientale, il progetto ACeS invita tutti a un evento pensato per trasformare la ricerca scientifica in un dialogo aperto con la comunità. Dalle 19:00 alle 22:00, la passeggiata si animerà con spazi interattivi dove ARPAE Emilia-Romagna e IZSAM proporranno dimostrazioni, attività divulgative ed esperienze pratiche dedicate al monitoraggio delle acque, dell’ambiente marino e dei microrganismi. Poi, dalle 21:00, a Largo Farnese prenderà il via un incontro pubblico: i ricercatori, insieme ai partner del progetto e ai rappresentanti della Regione Abruzzo, racconteranno il contributo di ACeS alla valutazione dei rischi e alla prevenzione per la tutela della salute e dell’ambiente. Il progetto ACeS organizza un evento a Ortona il 06/08/2026 per avvicinare i cittadini alla ricerca su qualità delle acque, ambiente marino e salute.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "aces",
+        "ispra",
+        "arpae emilia romagna",
+        "izsam",
+        "regione abruzzo",
+        "ortona"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 52,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/imparare-dal-mare-con-aces-acqua-ambiente-e-salute-cittadini-e-ricercatori-in-dialogo"
+      },
+      "analysis": {
+        "mainFact": "Il progetto ACeS organizza un evento a Ortona il 06/08/2026 per avvicinare i cittadini alla ricerca su qualità delle acque, ambiente marino e salute.",
+        "whyItMatters": "ARPAE Emilia-Romagna e IZSAM ) proporranno dimostrazioni, attività divulgative ed esperienze pratiche dedicate al monitoraggio delle acque, dell’ambiente marino e dei microrganismi, coinvolgendo cittadini di tutte le età.",
+        "confirmedFacts": [
+          "Il progetto ACeS organizza un evento a Ortona il 06/08/2026 per avvicinare i cittadini alla ricerca su qualità delle acque, ambiente marino e salute.",
+          "ARPAE Emilia-Romagna e IZSAM ) proporranno dimostrazioni, attività divulgative ed esperienze pratiche dedicate al monitoraggio delle acque, dell’ambiente marino e dei microrganismi, coinvolgendo cittadini di tutte le età.",
+          "Quando il 06/08/2026 dalle 19:00 alle 22:00 (Europe/Berlin / UTC200) Dove Ortona Aggiungi l'evento al calendario iCal L’evento si svolgerà lungo la Passeggiata Orientale di Ortona , in prossimità di una delle due aree pilota del progetto ACeS, e sarà articolato in due momenti principali:",
+          "Dalle 19:00, spazi interattivi lungo la Passeggiata Orientale .",
+          "Dalle 21:00, incontro pubblico e dialogo con i cittadini .",
+          "Presso Largo Farnese , I ricercatori, partner del progetto e rappresentanti della Regione Abruzzo illustreranno il contributo del progetto ACeS alla ricerca, alla valutazione dei rischi e alla prevenzione per la tutela della salute e dell’ambiente.",
+          "L’obiettivo dell’iniziativa è avvicinare la comunità al mondo della ricerca, favorire il dialogo tra scienza e cittadini e promuovere una cultura della prevenzione e della sostenibilità, affinché ognuno possa contribuire alla tutela delle risorse idriche, dell’ambiente e della salute collettiva."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "ACeS",
+          "ISPRA",
+          "ARPAE Emilia-Romagna",
+          "IZSAM",
+          "Regione Abruzzo",
+          "Ortona"
+        ],
+        "numbersAndDates": [
+          "Quando il 06/08/2026 dalle 19:00 alle 22:00 (Europe/Berlin / UTC200) Dove Ortona Aggiungi l'evento al calendario iCal L’evento si svolgerà lungo la Passeggiata Orientale di Ortona , in prossimità di una delle due aree pilota del progetto ACeS, e sarà articolato in due momenti principali:",
+          "Dalle 19:00, spazi interattivi lungo la Passeggiata Orientale .",
+          "Dalle 21:00, incontro pubblico e dialogo con i cittadini .",
+          "06",
+          "08",
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-0374e370c9d4f3c9",
+      "title": "Terremoto ai Campi Flegrei, riaperto il porto di Pozzuoli",
+      "summary": "Ancora chiuso il mercato ittico, dopo scossa ingenti danni per il commercio",
+      "spokenText": "Il porto di Pozzuoli è stato riaperto, un segnale di graduale ritorno alla normalità dopo la forte scossa di terremoto che ha colpito i Campi Flegrei. Restano invece chiusi il cimitero e il mercato ittico, dove si registrano danni alla copertura. Lo sciame sismico, iniziato venerdì alle 19:46 con un evento di magnitudo 4. 7 – il più intenso degli ultimi quarant’anni in quest’area segnata dal bradisismo – ha fatto registrare oltre centosettanta scosse fino alle quattordici di sabato, concedendo ora una fase di relativa calma. Intanto, il bilancio dei danni al commercio locale appare destinato ad aggravarsi. Per i trasporti, la ferrovia che collega Napoli ai comuni flegrei si ferma a Bagnoli: il resto della linea è coperto da autobus sostitutivi, con partenze da Bagnoli e Torregaveta ogni venticinque-trenta minuti. Ottantotto persone (di cui 17 minori) sono accolte attualmente presso il Palatrincone di Pozzuoli, mentre le restanti hanno trovato autonoma sistemazione.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "pozzuoli",
+        "campi flegrei",
+        "palatrincone"
+      ],
+      "importance": 52,
+      "mustInclude": true,
+      "estimatedSeconds": 61,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html"
+      },
+      "analysis": {
+        "mainFact": "Il porto di Pozzuoli è stato riaperto dopo il terremoto ai Campi Flegrei.",
+        "whyItMatters": "ma restano chiusi il cimitero e il mercato ittico con danni alla copertura.",
+        "confirmedFacts": [
+          "Il porto di Pozzuoli è stato riaperto dopo il terremoto ai Campi Flegrei.",
+          "ma restano chiusi il cimitero e il mercato ittico con danni alla copertura.",
+          "Lo sciame sismico iniziato venerdì alle 19. 46, con il terremoto 4. 7 (il più forte degli ultimi 40 anni nell'area del bradisismo), concede dunque un po' di respiro dopo il parossismo delle prime ore, con oltre 170 scosse rilevate fino alle 14 di ieri, sabato.",
+          "Appare destinato ad aggravarsi il bilancio dei danni che l'emergenza bradisismica, acuita dalla forte scossa registrata l'altra sera, sta causando al commercio locale.",
+          "Ottantotto persone (di cui 17 minori) sono accolte attualmente presso il Palatrincone di Pozzuoli, mentre le restanti hanno trovato autonoma sistemazione.",
+          "Le corse della ferrovia, importante collegamento tra Napoli e i comuni flegrei, dovranno dunque fermarsi a Bagnoli: il resto della linea sarà coperto da autobus sostitutivi, con partenze da Bagnoli e Torregaveta, in media ogni 25-30 minuti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Pozzuoli",
+          "Campi Flegrei",
+          "Palatrincone"
+        ],
+        "numbersAndDates": [
+          "Lo sciame sismico iniziato venerdì alle 19. 46, con il terremoto 4. 7 (il più forte degli ultimi 40 anni nell'area del bradisismo), concede dunque un po' di respiro dopo il parossismo delle prime ore, con oltre 170 scosse rilevate fino alle 14 di ieri, sabato.",
+          "Ottantotto persone (di cui 17 minori) sono accolte attualmente presso il Palatrincone di Pozzuoli, mentre le restanti hanno trovato autonoma sistemazione.",
+          "Le corse della ferrovia, importante collegamento tra Napoli e i comuni flegrei, dovranno dunque fermarsi a Bagnoli: il resto della linea sarà coperto da autobus sostitutivi, con partenze da Bagnoli e Torregaveta, in media ogni 25-30 minuti."
+        ]
+      }
+    },
+    {
+      "id": "story-4dd9b636a2bfc14f",
+      "title": "Clinica oncologica Ospedale Ancona, nuovo sequenziatore per test genetici",
+      "summary": "La professoressa Berardi: \"Tempi di refertazione ridotti e testeremo più pazienti\"",
+      "spokenText": "La clinica oncologica dell’Ospedale di Ancona ha acquisito un nuovo sequenziatore per test genetici, uno strumento che promette di accelerare in modo significativo il percorso diagnostico. La professoressa Berardi: \"Tempi di refertazione ridotti e testeremo più pazienti\".",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "clinica oncologica ospedale ancona",
+        "professoressa berardi"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 15,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/08/02/clinica-oncologica-ospedale-ancona-nuovo-sequenziatore-per-test-genetici_3c89bc71-5426-49de-b58d-ff5bbb9b44c4.html"
+      },
+      "analysis": {
+        "mainFact": "La clinica oncologica dell'Ospedale di Ancona ha acquisito un nuovo sequenziatore per test genetici.",
+        "whyItMatters": "La professoressa Berardi: \"Tempi di refertazione ridotti e testeremo più pazienti\"",
+        "confirmedFacts": [
+          "La clinica oncologica dell'Ospedale di Ancona ha acquisito un nuovo sequenziatore per test genetici.",
+          "La professoressa Berardi: \"Tempi di refertazione ridotti e testeremo più pazienti\""
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Clinica oncologica Ospedale Ancona",
+          "professoressa Berardi"
+        ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-337aa4d712b3ba65",
-      "title": "Muore a 13 anni Mattia Maestri, il bambino in coma da 9 anni per il formaggio crudo contaminato",
-      "summary": "Aveva quattro anni quando un’infezione da Escherichia coli, contratta dopo aver mangiato un formaggio a latte crudo, lo aveva fatto precipitare in uno stato vegetativo irreversibile. Era paralizzato, cieco ed epilettico. La sua vicenda ha portato a una storica condanna e aperto il dibattito sulla sicurezza dei prodotti non pastorizzati",
-      "spokenText": "È morto Mattia Maestri, il bambino di Coredo, in Trentino, che dal 2017 versava in uno stato vegetativo permanente. La sua condizione, che lo aveva reso paralizzato, cieco ed epilettico, era insorta dopo aver consumato formaggio lavorato con latte crudo contaminato dal batterio dell'Escherichia coli. La sua vicenda aveva già portato a una storica condanna e aperto il dibattito sulla sicurezza dei prodotti non pastorizzati.",
-      "category": "salute",
+      "id": "story-bb58c2a0f68abda2",
+      "title": "Trump: 'Ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
+      "summary": "Il presidente Usa: 'Ora rapido accordo su Hormuz e stop minaccia nucleare'",
+      "spokenText": "In base a questa richiesta, ha affermato Trump, ho accettato, per il bene del futuro del mondo e per la sopravvivenza di un Iran prospero e di successo, di annullare l'attacco, a patto che si arrivi rapidamente a un accordo. L'intesa, secondo il presidente americano, dovrà riguardare la totale apertura dello Stretto di Hormuz e la fine della minaccia nucleare iraniana. Fonti dei media iraniani hanno però respinto la ricostruzione: l'agenzia Mehr ha definito una menzogna l'affermazione che Teheran abbia chiesto a Trump di non attaccare. Sul piano diplomatico e militare, l'amministrazione statunitense starebbe intanto valutando opzioni di attacco per le prossime due settimane. Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi.",
+      "category": "mondo",
       "tags": [
-        "salute",
-        "mattia maestri",
-        "coredo",
-        "trentino"
+        "mondo",
+        "donald trump",
+        "iran",
+        "stretto di hormuz"
       ],
-      "importance": 80,
+      "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 26,
+      "estimatedSeconds": 49,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/cronaca/2026/08/02/news/mattia_maestri_morto_formaggio_a_latte_crudo-425507546/"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_9627b960-bbbb-43e9-891a-e77a10e8b09e.html"
       },
       "analysis": {
-        "mainFact": "È morto a 13 anni Mattia Maestri, il bambino che dal 2017 versava in stato vegetativo permanente dopo aver consumato formaggio a latte crudo contaminato da Escherichia coli.",
-        "whyItMatters": "La sua vicenda aveva già portato a una storica condanna e aperto il dibattito sulla sicurezza dei prodotti non pastorizzati.",
+        "mainFact": "Il presidente USA Donald Trump ha dichiarato di aver ritirato l'attacco contro l'Iran su richiesta di Teheran e di altri Paesi del Medio Oriente.",
+        "whyItMatters": "Il presidente americano Donald Trump ha detto di aver \"accettato di ritirare l'attacco\" sull'Iran su richiesta di Teheran \"e di altri Paesi del Medio Oriente\" a patto che si arrivi \"ad un rapido accordo\" sulla \"totale apertura dello Stretto di Hormuz e sulla fine della minaccia nucleare da parte dell'Iran\". E sulla fine della minaccia nucleare iraniana.",
         "confirmedFacts": [
-          "È morto a 13 anni Mattia Maestri, il bambino che dal 2017 versava in stato vegetativo permanente dopo aver consumato formaggio a latte crudo contaminato da Escherichia coli.",
-          "La sua vicenda aveva già portato a una storica condanna e aperto il dibattito sulla sicurezza dei prodotti non pastorizzati.",
-          "Era paralizzato, cieco ed epilettico.",
-          "È morto Mattia Maestri, il bimbo di Coredo in Trentino, che dal 2017 versava in uno stato vegetativo permanente, dopo avere consumato formaggio lavorato con latte crudo contaminato dal batterio dell'Escherichia coli.",
-          "È morto Mattia Maestri, il bimbo in coma che mangiò formaggio a latte crudo"
+          "Il presidente USA Donald Trump ha dichiarato di aver ritirato l'attacco contro l'Iran su richiesta di Teheran e di altri Paesi del Medio Oriente.",
+          "Il presidente americano Donald Trump ha detto di aver \"accettato di ritirare l'attacco\" sull'Iran su richiesta di Teheran \"e di altri Paesi del Medio Oriente\" a patto che si arrivi \"ad un rapido accordo\" sulla \"totale apertura dello Stretto di Hormuz e sulla fine della minaccia nucleare da parte dell'Iran\". E sulla fine della minaccia nucleare iraniana.",
+          "In base a questa richiesta, ho accettato, per il bene del futuro del mondo e, allo stesso modo, per la sopravvivenza di un Iran prospero e di successo, di annullare l'attacco, a patto che si arrivi rapidamente a un accordo.",
+          "Media Iran: 'Una menzogna che Teheran abbia chiesto a Trump di non attaccare' L'agenzia iraniana Mehr ha definito una \"menzogna\" l'affermazione del presidente Usa Donald Trump, secondo il quale è stata Teheran, insieme \"ad altri Paesi del Medio Oriente\", a chiedergli di rinunciare a nuovi attacchi contro l'Iran.",
+          "Trump: “Ritiro l'attacco per il bene del mondo, ma subito un accordo”",
+          "Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi.",
+          "«Stop raid su richiesta iraniana, ora accordo».",
+          "Il passo indietro del presidente Usa: “L’hanno chiesto l’Iran e gli altri Paesi del Medio Oriente”."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
+          "Donald Trump",
+          "Iran",
+          "Stretto di Hormuz"
+        ],
+        "numbersAndDates": [
+          "Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi."
+        ]
+      }
+    },
+    {
+      "id": "story-6e4f2ae63e6e1d89",
+      "title": "La NASA ha aperto il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research",
+      "summary": "La NASA ha aperto il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia. Ci offre una potente nuova piattaforma per testare le idee. Le tecnologie che daranno forma al futuro dell'aviazione. Dell'esplorazione\", ha dichiarato l'amministratore della NASA Jared Isaacman.",
+      "spokenText": "La NASA ha inaugurato al Langley Research Center in Virginia il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in oltre quarant'anni. L'amministratore della NASA Jared Isaacman ha spiegato che questa struttura offre una potente piattaforma per testare le idee e le tecnologie che daranno forma al futuro dell'aviazione e dell'esplorazione. La camera di prova ha un diametro di venti piedi, molto più grande dei suoi predecessori, il che permette a più aria di fluire attorno ai modelli e migliora sensibilmente l'accuratezza dei dati raccolti. Inoltre, la velocità massima dell'aria raggiunge le centodiciassette miglia orarie, il doppio rispetto alle vecchie gallerie, consentendo per la prima volta test di volo libero con modelli in scala molto più pesanti.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "flight dynamics research facility",
+        "langley research center",
+        "hampton",
+        "virginia"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 49,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/"
+      },
+      "analysis": {
+        "mainFact": "La NASA ha aperto il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia.",
+        "whyItMatters": "\"Il Flight Dynamics Research Facility è la prima nuova grande galleria del vento della NASA in più di 40 anni e ci offre una potente nuova piattaforma per testare le idee e le tecnologie che daranno forma al futuro dell'aviazione e dell'esplorazione\", ha dichiarato l'amministratore della NASA Jared Isaacman.",
+        "confirmedFacts": [
+          "La NASA ha aperto il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia.",
+          "\"Il Flight Dynamics Research Facility è la prima nuova grande galleria del vento della NASA in più di 40 anni e ci offre una potente nuova piattaforma per testare le idee e le tecnologie che daranno forma al futuro dell'aviazione e dell'esplorazione\", ha dichiarato l'amministratore della NASA Jared Isaacman.",
+          "La camera di prova di 20 piedi di diametro della struttura è molto più grande di quelle dei suoi predecessori al Langley della NASA, consentendo a più aria di passare attorno ai modelli di prova e migliorando l'accuratezza dei dati.",
+          "La velocità massima dell'aria del Flight Dynamics Research Facility di 117 miglia orarie è due volte più veloce delle vecchie strutture, consentendo test di volo libero di modelli in scala più pesanti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "Flight Dynamics Research Facility",
+          "Langley Research Center",
+          "Hampton",
+          "Virginia"
+        ],
+        "numbersAndDates": [
+          "La camera di prova di 20 piedi di diametro della struttura è molto più grande di quelle dei suoi predecessori al Langley della NASA, consentendo a più aria di passare attorno ai modelli di prova e migliorando l'accuratezza dei dati.",
+          "La velocità massima dell'aria del Flight Dynamics Research Facility di 117 miglia orarie è due volte più veloce delle vecchie strutture, consentendo test di volo libero di modelli in scala più pesanti.",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "story-ed5e723fc5ad3268",
+      "title": "Cambia tutto sul digitale terrestre: la nuova numerazione a inizio agosto",
+      "summary": "Con l'inizio di agosto cambia tutto: scopri la nuova numerazione LCN nazionale dei canali del digitale terrestre e ottienila anche tu.",
+      "spokenText": "Con l’inizio di agosto il digitale terrestre ha aggiornato la sua numerazione LCN nazionale, un intervento che tocca l’ordine dei canali che milioni di persone consultano ogni giorno. Anche in piena estate, quindi, il digitale terrestre non si ferma e continua a modificare la geografia dei canali che compongono il panorama audiovisivo italiano.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "digitale terrestre",
+        "lcn"
+      ],
+      "importance": 62,
+      "mustInclude": true,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/cambia-tutto-sul-digitale-terrestre-la-nuova-numerazione-a-inizio-agosto/"
+      },
+      "analysis": {
+        "mainFact": "A inizio agosto è stata aggiornata la numerazione LCN nazionale dei canali del digitale terrestre.",
+        "whyItMatters": "La piattaforma digitale terrestre è in continuo divenire e anche con l’inizio di agosto è stata aggiornata la Numerazione LCN Nazionale dei Canali .",
+        "confirmedFacts": [
+          "A inizio agosto è stata aggiornata la numerazione LCN nazionale dei canali del digitale terrestre.",
+          "La piattaforma digitale terrestre è in continuo divenire e anche con l’inizio di agosto è stata aggiornata la Numerazione LCN Nazionale dei Canali .",
+          "Cambia tutto sul digitale terrestre: la nuova numerazione a inizio agosto Con l'inizio di agosto cambia tutto: scopri la nuova numerazione LCN nazionale dei canali del digitale terrestre e ottienila anche tu."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "digitale terrestre",
+          "LCN"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-44a19baa42b7212c",
+      "title": "Fra misteri e tragedie, il millenario rompicapo delle Linee di Nazca",
+      "summary": "L’area archeologica, dichiarata patrimonio dell’umanità dall’Unesco, è meta ogni anno di decine di migliaia di turisti. Ma solo dal 2010 in zona ci sono stati almeno 13 incidenti aerei legati al maltempo o a guasti meccanici",
+      "spokenText": "Le Linee di Nazca, quel patrimonio Unesco che ogni anno attira decine di migliaia di visitatori, raccontano una storia millenaria: a tracciarle con precisione, spostando le pietre scure del deserto per far emergere il terreno chiaro, fu la civiltà precolombiana dei Nazca, vissuta tra il 300 a. C. Dal 2010 a oggi, si sono verificati almeno tredici gravissimi incidenti aerei durante i sorvoli turistici. Molti sono stati legati al maltempo, in una zona nota per i forti venti e le turbolenze improvvise sopra il deserto, tanto che le allerte meteo – come quella dichiarata due giorni fa per l’intera area – vengono generalmente rispettate con scrupolo. Tuttavia, le autorità hanno accertato che almeno cinque di questi incidenti sono stati causati da guasti meccanici e avarie sui velivoli delle compagnie che operano nella regione.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "linee di nazca",
+        "unesco",
+        "civilta precolombiana dei nazca"
+      ],
+      "importance": 62,
+      "mustInclude": true,
+      "estimatedSeconds": 54,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/02/news/linee_nazca_peru_misteri_tragedie_millenario_rompicapo-425507756/"
+      },
+      "analysis": {
+        "mainFact": "L'area archeologica delle Linee di Nazca, patrimonio Unesco, è meta di decine di migliaia di turisti ogni anno, ma dal 2010 si sono verificati almeno 13 incidenti aerei legati a maltempo o guasti meccanici.",
+        "whyItMatters": "L'area di Nazca è nota per i forti venti e le turbolenze che possono manifestarsi improvvisamente sopra il deserto, per questo le allerte meteo – come quella dichiarata due giorni fa per l’intera zona – generalmente vengono rispettate scrupolosamente.",
+        "confirmedFacts": [
+          "L'area archeologica delle Linee di Nazca, patrimonio Unesco, è meta di decine di migliaia di turisti ogni anno, ma dal 2010 si sono verificati almeno 13 incidenti aerei legati a maltempo o guasti meccanici.",
+          "L'area di Nazca è nota per i forti venti e le turbolenze che possono manifestarsi improvvisamente sopra il deserto, per questo le allerte meteo – come quella dichiarata due giorni fa per l’intera zona – generalmente vengono rispettate scrupolosamente.",
+          "Dal 2010 a oggi, sono stati registrati almeno tredici gravissimi incidenti .",
+          "Molti legati al maltempo, ma almeno cinque – hanno accertato le autorità – sono stati causati da guasti meccanici e avarie sui velivoli delle compagnie che sorvolano l’area.",
+          "la scoperta dal drone La civiltà precolombiana A tracciarli con tanta precisione e perizia, spostando le pietre scure del deserto per far emergere il terreno di sotto assai più chiaro, è stata la civiltà precolombiana dei Nazca, vissuta nella zona tra il a il 300 a. C. Ed il 500 d."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Linee di Nazca",
+          "Unesco",
+          "civiltà precolombiana dei Nazca"
+        ],
+        "numbersAndDates": [
+          "Dal 2010 a oggi, sono stati registrati almeno tredici gravissimi incidenti .",
+          "la scoperta dal drone La civiltà precolombiana A tracciarli con tanta precisione e perizia, spostando le pietre scure del deserto per far emergere il terreno di sotto assai più chiaro, è stata la civiltà precolombiana dei Nazca, vissuta nella zona tra il a il 300 a. C. Ed il 500 d.",
+          "2010",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "story-3c166fb2086e75c1",
+      "title": "Da Trump a Vannacci: l’ascesa della Slopaganda di estrema destra",
+      "summary": "Dal caso \"Robertus Vannaccius\" all'estrema destra globale: cos'è la Slopaganda, come funziona l'IA generativa nei social e perché sta cambiando la propaganda politica.",
+      "spokenText": "L'ascesa della cosiddetta 'Slopaganda' sta cambiando il volto della propaganda politica sui social. La Slopaganda rappresenta un'evoluzione della propaganda digitale.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "trump",
+        "vannacci",
+        "estrema destra",
+        "ia generativa"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 8,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/slopaganda-vannacci-ia-propaganda-trump/"
+      },
+      "analysis": {
+        "mainFact": "L'ascesa della Slopaganda di estrema destra, da Trump a Vannacci, mostra come l'IA generativa stia cambiando la propaganda politica sui social.",
+        "whyItMatters": "Analisi propaganda IA dell'estrema destra: tema diritti e tecnologia, rilevante per comprendere manipolazione informativa.",
+        "confirmedFacts": [
+          "L'ascesa della Slopaganda di estrema destra, da Trump a Vannacci, mostra come l'IA generativa stia cambiando la propaganda politica sui social.",
+          "Analisi propaganda IA dell'estrema destra: tema diritti e tecnologia, rilevante per comprendere manipolazione informativa.",
+          "Dal caso \"Robertus Vannaccius\" all'estrema destra globale: cos'è la Slopaganda, come funziona l'IA generativa nei social e perché sta cambiando la propaganda politica."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Trump",
+          "Vannacci",
+          "estrema destra",
+          "IA generativa"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-fc69ea3b5b682ace",
+      "title": "È morto Mattia Maestri, il bimbo in coma che mangiò formaggio a latte crudo",
+      "summary": "Il padre aveva fondato un'associazione per sensibilizzare sul tema",
+      "spokenText": "È morto a tredici anni Mattia Maestri, il bambino di Coredo, in Trentino, che dal 2017 versava in uno stato vegetativo permanente. In questi anni il padre di Mattia aveva fondato un'associazione di consumatori dedicata ai rischi connessi ai prodotti alimentari intrinsecamente pericolosi, trasformando il proprio dramma familiare in un impegno concreto per la sensibilizzazione pubblica.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "mattia maestri",
+        "coredo",
+        "trentino",
+        "escherichia coli"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 23,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/e-morto-mattia-maestri-il-bimbo-in-coma-che-mangio-formaggio-a-latte-crudo_0b92c19b-89df-4184-8f94-d3ab5ab152ab.html"
+      },
+      "analysis": {
+        "mainFact": "È morto a 13 anni Mattia Maestri, il bambino di Coredo in Trentino che dal 2017 era in stato vegetativo permanente dopo aver consumato formaggio a latte crudo contaminato da Escherichia coli.",
+        "whyItMatters": "Il padre aveva fondato un'associazione per sensibilizzare sul tema",
+        "confirmedFacts": [
+          "È morto a 13 anni Mattia Maestri, il bambino di Coredo in Trentino che dal 2017 era in stato vegetativo permanente dopo aver consumato formaggio a latte crudo contaminato da Escherichia coli.",
+          "Il padre aveva fondato un'associazione per sensibilizzare sul tema",
+          "È morto Mattia Maestri, il bimbo di Coredo in Trentino, che dal 2017 versava in uno stato vegetativo permanente, dopo avere consumato formaggio lavorato con latte crudo contaminato dal batterio dell'Escherichia coli."
+        ],
+        "uncertainties": [
+          "Il padre aveva anche fondato un'associazione di consumatori dedicata ai \"rischi connessi ai prodotti alimentari intrinsecamente pericolosi\"."
+        ],
+        "peopleAndOrganizations": [
           "Mattia Maestri",
           "Coredo",
-          "Trentino"
+          "Trentino",
+          "Escherichia coli"
         ],
         "numbersAndDates": [
           "È morto Mattia Maestri, il bimbo di Coredo in Trentino, che dal 2017 versava in uno stato vegetativo permanente, dopo avere consumato formaggio lavorato con latte crudo contaminato dal batterio dell'Escherichia coli.",
@@ -78,391 +426,78 @@
       }
     },
     {
-      "id": "story-96d103e57cf6804b",
-      "title": "Ospedale Santobono cura bimbo affetto da rarissima malattia metabolica",
-      "summary": "Descritti 93 casi nel mondo. A neanche un anno sottoposto a 42 ore di dialisi continua",
-      "spokenText": "Ospedale Santobono cura bimbo affetto da rarissima malattia metabolica. Descritti 93 casi nel mondo. A neanche un anno sottoposto a 42 ore di dialisi continua. Per correggere la severa acidosi metabolica, che non rispondeva ai normali trattamenti farmacologici, infatti, stato necessario ricorrere a 42 ore di dialisi continua, trattamento praticato in pochi centri in Italia, per riportare i valori nella norma e stabilizzare il piccolo nelle ore pi critiche.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "ospedale santobono"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 28,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/07/31/ospedale-santobono-cura-bimbo-affetto-da-rarissima-malattia-metabolica_1c93d4a6-48e3-4700-9874-3a640acc6383.html"
-      },
-      "analysis": {
-        "mainFact": "Ospedale Santobono cura bimbo affetto da rarissima malattia metabolica",
-        "whyItMatters": "Descritti 93 casi nel mondo.",
-        "confirmedFacts": [
-          "Ospedale Santobono cura bimbo affetto da rarissima malattia metabolica",
-          "Descritti 93 casi nel mondo.",
-          "A neanche un anno sottoposto a 42 ore di dialisi continua",
-          "Per correggere la severa acidosi metabolica, che non rispondeva ai normali trattamenti farmacologici, infatti, stato necessario ricorrere a 42 ore di dialisi continua, trattamento praticato in pochi centri in Italia, per riportare i valori nella norma e stabilizzare il piccolo nelle ore pi critiche."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Ospedale Santobono"
-        ],
-        "numbersAndDates": [
-          "A neanche un anno sottoposto a 42 ore di dialisi continua",
-          "Per correggere la severa acidosi metabolica, che non rispondeva ai normali trattamenti farmacologici, infatti, stato necessario ricorrere a 42 ore di dialisi continua, trattamento praticato in pochi centri in Italia, per riportare i valori nella norma e stabilizzare il piccolo nelle ore pi critiche.",
-          "93"
-        ]
-      }
-    },
-    {
-      "id": "story-3415ec8e6ac5180f",
-      "title": "Guerra in Iran, le news di oggi. Trump: “Ritiro l'attacco per il bene del mondo, ma subito un accordo”",
-      "summary": "Il passo indietro del presidente Usa: “L’hanno chiesto l’Iran e gli altri Paesi del Medio Oriente”. Aveva sentito bin Salman",
-      "spokenText": "Trump: 'Ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'. Aveva sentito bin Salman. Il passo indietro del presidente Usa: “L’hanno chiesto l’Iran e gli altri Paesi del Medio Oriente”. Trump: “Ritiro l'attacco per il bene del mondo, ma subito un accordo”. Axios ha riferito di una telefonata tra il presidente Usa e bin Salman, contrario all’offensiva. Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "iran",
-        "medio oriente"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 30,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/02/diretta/guerra_iran_usa_israele_news_oggi-425507325/"
-      },
-      "analysis": {
-        "mainFact": "Trump: 'Ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
-        "whyItMatters": "Aveva sentito bin Salman",
-        "confirmedFacts": [
-          "Trump: 'Ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
-          "Aveva sentito bin Salman",
-          "Il passo indietro del presidente Usa: “L’hanno chiesto l’Iran e gli altri Paesi del Medio Oriente”.",
-          "Trump: “Ritiro l'attacco per il bene del mondo, ma subito un accordo”",
-          "Axios ha riferito di una telefonata tra il presidente Usa e bin Salman, contrario all’offensiva.",
-          "Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Iran",
-          "Medio Oriente"
-        ],
-        "numbersAndDates": [
-          "Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi."
-        ]
-      }
-    },
-    {
-      "id": "story-fa0f65ab16cf5cb9",
-      "title": "Media, 9 palestinesi uccisi nei raid israeliani a Gaza, anche tre bambini",
-      "summary": "Lo riferiscono fonti degli ospedali locali",
-      "spokenText": "Media, 9 palestinesi uccisi nei raid israeliani a Gaza, anche tre bambini. Lo riferiscono fonti degli ospedali locali. Raid israeliani su Gaza nella notte, 9 morti tra cui 3 bambini.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "gaza",
-        "al jazeera"
-      ],
-      "importance": 62,
-      "mustInclude": true,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/media-9-palestinesi-uccisi-nei-raid-israeliani-a-gaza-anche-tre-bambini_0dcdd2bb-3dbe-44ba-b7bc-a584eac79952.html"
-      },
-      "analysis": {
-        "mainFact": "Media, 9 palestinesi uccisi nei raid israeliani a Gaza, anche tre bambini",
-        "whyItMatters": "Lo riferiscono fonti degli ospedali locali",
-        "confirmedFacts": [
-          "Media, 9 palestinesi uccisi nei raid israeliani a Gaza, anche tre bambini",
-          "Lo riferiscono fonti degli ospedali locali",
-          "Lo riferiscono fonti degli ospedali di Gaza ad Al Jazeera.",
-          "Raid israeliani su Gaza nella notte, 9 morti tra cui 3 bambini"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Gaza",
-          "Al Jazeera"
-        ],
-        "numbersAndDates": [
-          "Raid israeliani su Gaza nella notte, 9 morti tra cui 3 bambini",
-          "9"
-        ]
-      }
-    },
-    {
-      "id": "story-8b5cfc72a3f12ac3",
-      "title": "Valanga in Pakistan, la speranza finisce: morto l’alpinista Nirmal Purja con i 9 compagni",
-      "summary": "Travolto da una valanga insieme a 9 compagni della spedizione sul Broad Peak",
-      "spokenText": "Il corpo dell'alpinista Nirmal Purja è stato ritrovato dalle squadre di soccorso sul Broad Peak, la montagna del Pakistan che giovedì è stata teatro di una valanga. L'incidente si è verificato in alta quota, tra i 6.500 e i 7.000 metri, mentre Purja e altri alpinisti si trovavano su quel versante della vetta, che raggiunge gli 8.047 metri nel nord-est del paese, vicino al confine con la Cina. La notizia è stata confermata con profonda tristezza dal club di appartenenza, che in un comunicato ha dichiarato: 'La squadra di soccorso ha trovato Nims Dai a circa 5.700 metri, su una montagna che amava e che ce l'ha portato via'. Il premier nepalese Balendra Shah ha espresso sgomento per la tragica morte di sei alpinisti nepalesi e quattro stranieri, tra cui il detentore del record mondiale Purja. L'alpinista era celebre per aver scalato le 14 cime più alte del mondo in soli sei mesi, un'impresa compiuta sette anni fa che lo aveva reso una figura di riferimento nell'alpinismo internazionale.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "nirmal purja",
-        "broad peak",
-        "pakistan",
-        "nepal"
-      ],
-      "importance": 45,
-      "mustInclude": true,
-      "estimatedSeconds": 68,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/cronaca/2026/08/01/news/valanga_broad_peak_pakistan_morte_alpinista_nirmal_purja-425506751/"
-      },
-      "analysis": {
-        "mainFact": "Il corpo dell'alpinista Nirmal Purja, morto in una valanga sul Broad Peak in Pakistan, è stato ritrovato dalle squadre di soccorso.",
-        "whyItMatters": "C'è anche Nirmal Purja tra le vittime della valanga che giovedì ha travolto dieci alpinisti sul monte Broad Peak.",
-        "confirmedFacts": [
-          "Il corpo dell'alpinista Nirmal Purja, morto in una valanga sul Broad Peak in Pakistan, è stato ritrovato dalle squadre di soccorso.",
-          "C'è anche Nirmal Purja tra le vittime della valanga che giovedì ha travolto dieci alpinisti sul monte Broad Peak.",
-          "La valanga si è verificata giovedì mattina ad alta quota, a un'altezza tra i 6.500 e i 7.000 metri, proprio mentre gli alpinisti si trovavano su quel lato del Broad Peak: un monte alto 8.047 metri che si erge nel nord-est del Pakistan, a un passo dal confine con la Cina.",
-          "\"La squadra di soccorso sul posto ha trovato Nims Dai (il soprannome di Nirmal Purja) a circa 5.700 metri di altitudine sul Broad Peak, una montagna che amava e che ce l'ha portato via\", ha dichiarato il club sui social.",
-          "\"La tragica morte di sei alpinisti nepalesi e quattro stranieri, tra cui il detentore del record mondiale Nirmal Purja, nella catena montuosa del Karakoram, in Pakistan, ci ha profondamente sconvolti\", ha dichiarato il premier, Balendra Shah.",
-          "\"È con profonda tristezza e immenso dolore che confermiamo che Nirmal Purja ha tragicamente perso la vita\", ha dichiarato il gruppo in un comunicato subito ripreso dai giornali di tutto il mondo.",
-          "Il corpo del famoso alpinista Nirmal Purja, morto in una valanga sul Broad Peak, una vetta che supera gli 8.000 metri nel nord del Pakistan, è stato ritrovato dalle squadre di soccorso.",
-          "L'alpinista nepalese era noto per aver scalato in sei mesi le 14 cime più alte del mondo sette anni fa."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Nirmal Purja",
-          "Broad Peak",
-          "Pakistan",
-          "Nepal"
-        ],
-        "numbersAndDates": [
-          "La valanga si è verificata giovedì mattina ad alta quota, a un'altezza tra i 6.500 e i 7.000 metri, proprio mentre gli alpinisti si trovavano su quel lato del Broad Peak: un monte alto 8.047 metri che si erge nel nord-est del Pakistan, a un passo dal confine con la Cina.",
-          "Il corpo del famoso alpinista Nirmal Purja, morto in una valanga sul Broad Peak, una vetta che supera gli 8.000 metri nel nord del Pakistan, è stato ritrovato dalle squadre di soccorso.",
-          "L'alpinista nepalese era noto per aver scalato in sei mesi le 14 cime più alte del mondo sette anni fa."
-        ]
-      }
-    },
-    {
-      "id": "story-6e4f2ae63e6e1d89",
-      "title": "La NASA ha inaugurato il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley",
-      "summary": "La NASA ha inaugurato il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia.",
-      "spokenText": "Si tratta della prima nuova grande galleria del vento che l'agenzia spaziale americana costruisce in oltre quarant'anni. Il cuore del nuovo impianto è una camera di prova di venti piedi di diametro, molto più ampia rispetto a quelle dei suoi predecessori. Questo permette a un volume maggiore d'aria di fluire attorno ai modelli, migliorando sensibilmente l'accuratezza dei dati raccolti. Inoltre, la galleria può raggiungere una velocità massima di centodiciassette miglia orarie, il doppio rispetto alle vecchie strutture, consentendo per la prima volta test in volo libero con modelli in scala più pesanti. Venerdì 31 luglio 2026, la leadership della NASA e i funzionari del governo della Virginia hanno inaugurato la prima nuova grande galleria del vento della NASA in più di 40 anni, il Flight Dynamics Research Facility presso il Langley Research Center della NASA a Hampton, Virginia.",
+      "id": "story-bc4458a6447222c7",
+      "title": "Una fettuccia composta da 60% Kevlar® e 40% polibenzimidazolo (PBI) di Sturges Manufacturing, nella versione naturale, ha superato il test di",
+      "summary": "Una fettuccia composta da 60% Kevlar® e 40% polibenzimidazolo (PBI) di Sturges Manufacturing, nella versione naturale, ha superato il test di infiammabilità NASA-STD-6001B Test 1 a 37% di ossigeno e 8,2 psia.",
+      "spokenText": "Una fettuccia composita prodotta da Sturges Manufacturing ha superato il test di infiammabilità NASA-STD-6001B Test 1, condotto presso il White Sands Test Facility. Il materiale, costituito per il 60% da Kevlar® e per il 40% da polibenzimidazolo, nella sua versione naturale, ha dimostrato di resistere in un’atmosfera con una concentrazione di ossigeno pari al 37% e a una pressione di 8,2 psia.",
       "category": "scienza",
       "tags": [
         "scienza",
         "nasa",
-        "langley research center",
-        "jared isaacman",
-        "hampton",
-        "virginia"
+        "sturges manufacturing company inc",
+        "white sands test facility"
       ],
-      "importance": 72,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 56,
+      "estimatedSeconds": 25,
       "source": {
         "name": "NASA Releases",
-        "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/"
+        "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/"
       },
       "analysis": {
-        "mainFact": "La NASA ha inaugurato il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia.",
-        "whyItMatters": "",
+        "mainFact": "Una fettuccia composta da 60% Kevlar® e 40% polibenzimidazolo (PBI) di Sturges Manufacturing, nella versione naturale, ha superato il test di infiammabilità NASA-STD-6001B Test 1 a 37% di ossigeno e 8,2 psia.",
+        "whyItMatters": "Ricerca NASA su materiali ignifughi per missioni lunari e marziane. Alto valore per appassionati di spazio e tecnologia.",
         "confirmedFacts": [
-          "La NASA ha inaugurato il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia.",
-          "Venerdì 31 luglio 2026, la leadership della NASA e i funzionari del governo della Virginia hanno inaugurato la prima nuova grande galleria del vento della NASA in più di 40 anni, il Flight Dynamics Research Facility presso il Langley Research Center della NASA a Hampton, Virginia.",
-          "\"Il Flight Dynamics Research Facility è la prima nuova grande galleria del vento della NASA in più di 40 anni e ci fornisce una potente nuova piattaforma per testare le idee e le tecnologie che daranno forma al futuro dell'aviazione e dell'esplorazione\", ha dichiarato l'amministratore della NASA Jared Isaacman.",
-          "La camera di prova di 20 piedi di diametro della struttura è molto più grande di quelle dei suoi predecessori del NASA Langley, consentendo a più aria di passare intorno ai modelli di prova e migliorando l'accuratezza dei dati.",
-          "La velocità massima dell'aria del Flight Dynamics Research Facility di 117 miglia orarie è due volte più veloce delle vecchie strutture, consentendo test in volo libero di modelli in scala più pesanti."
+          "Una fettuccia composta da 60% Kevlar® e 40% polibenzimidazolo (PBI) di Sturges Manufacturing, nella versione naturale, ha superato il test di infiammabilità NASA-STD-6001B Test 1 a 37% di ossigeno e 8,2 psia.",
+          "Ricerca NASA su materiali ignifughi per missioni lunari e marziane. Alto valore per appassionati di spazio e tecnologia.",
+          "Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a surface ignition in J-configuration at 37% oxygen and 8.2 psia.",
+          "In this study, materials are being evaluated for use at 37% oxygen and 8.2 psia.",
+          "Test Methods/Data Collection NASA-STD-6001B Test 1 was performed on the webbing candidates at White Sands Test Facility (WSTF) to determine the maximum oxygen concentration (MOC) at a pressure of 8.2 psia.",
+          "One-inch-width natural and black webbings, composed of 60% Kevlar and 40% PBI produced by Sturges Manufacturing (see Figure 1), were tested.",
+          "Analysis and Results Table 1 summarizes the webbing properties and test results.",
+          "The webbings had MOCs of 37% and 35% oxygen for the natural and black webbing, respectively, at 8.2 psia."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "NASA",
-          "Langley Research Center",
-          "Jared Isaacman",
-          "Hampton",
-          "Virginia"
+          "Sturges Manufacturing Company, Inc.",
+          "White Sands Test Facility"
         ],
         "numbersAndDates": [
-          "Venerdì 31 luglio 2026, la leadership della NASA e i funzionari del governo della Virginia hanno inaugurato la prima nuova grande galleria del vento della NASA in più di 40 anni, il Flight Dynamics Research Facility presso il Langley Research Center della NASA a Hampton, Virginia.",
-          "\"Il Flight Dynamics Research Facility è la prima nuova grande galleria del vento della NASA in più di 40 anni e ci fornisce una potente nuova piattaforma per testare le idee e le tecnologie che daranno forma al futuro dell'aviazione e dell'esplorazione\", ha dichiarato l'amministratore della NASA Jared Isaacman.",
-          "La camera di prova di 20 piedi di diametro della struttura è molto più grande di quelle dei suoi predecessori del NASA Langley, consentendo a più aria di passare intorno ai modelli di prova e migliorando l'accuratezza dei dati.",
-          "La velocità massima dell'aria del Flight Dynamics Research Facility di 117 miglia orarie è due volte più veloce delle vecchie strutture, consentendo test in volo libero di modelli in scala più pesanti.",
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-e1915b6866e8619a",
-      "title": "Deepfake su Google Earth: rimosso il tool con Nano Banana 2",
-      "summary": "La funzionalità basata su Nano Banana 2 in Google Earth consentiva di creare immagini satellitari fasulle, quindi è stata rimossa dopo 24 ore. The post Deepfake su Google Earth: rimosso il tool con Nano Banana 2 appeared first on Punto Informatico.",
-      "spokenText": "Google Earth ha rimosso in appena ventiquattr'ore la nuova funzionalità che permetteva di generare immagini satellitari fasulle. 1 Flash Image, e dal 30 luglio consentiva a chiunque, dalla versione web del software, di aggiungere elementi inesistenti alle mappe reali semplicemente scrivendo un prompt testuale. Nel post è citato l’articolo pubblicato da Henk van Ess che aveva aggiunto un impianto nucleare in Iran e altre immagini fasulle. Per questo motivo ha rimosso il tool dopo 24 ore. In realtà non funziona bene, quindi non sempre rileva le immagini AI.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google earth",
-        "nano banana 2",
-        "henk van ess"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 36,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/deepfake-google-earth-rimosso-tool-nano-banana-2/"
-      },
-      "analysis": {
-        "mainFact": "Google Earth ha rimosso dopo 24 ore la funzionalità basata su Nano Banana 2 che consentiva di creare immagini satellitari fasulle.",
-        "whyItMatters": "Nel post è citato l’articolo pubblicato da Henk van Ess che aveva aggiunto un impianto nucleare in Iran e altre immagini fasulle.",
-        "confirmedFacts": [
-          "Google Earth ha rimosso dopo 24 ore la funzionalità basata su Nano Banana 2 che consentiva di creare immagini satellitari fasulle.",
-          "Nel post è citato l’articolo pubblicato da Henk van Ess che aveva aggiunto un impianto nucleare in Iran e altre immagini fasulle.",
-          "Dal 30 luglio era possibile sfruttare il modello Nano Banana 2 (Gemini 3. 1 Flash Image) per aggiungere immagini satellitari, aeree e 3D a Google Earth .",
-          "Utilizzando il pulsante dedicato e inserendo un prompt testuale nella versione web di Google Earth, il modello Nano Banana 2 poteva generare immagini da sovrapporre a quelle dei luoghi reali .",
-          "Deepfake su Google Earth: rimosso il tool con Nano Banana 2 La funzionalità basata su Nano Banana 2 in Google Earth consentiva di creare immagini satellitari fasulle, quindi è stata rimossa dopo 24 ore.",
-          "Per questo motivo ha rimosso il tool dopo 24 ore.",
-          "In realtà non funziona bene, quindi non sempre rileva le immagini AI."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google Earth",
-          "Nano Banana 2",
-          "Henk van Ess"
-        ],
-        "numbersAndDates": [
-          "Dal 30 luglio era possibile sfruttare il modello Nano Banana 2 (Gemini 3. 1 Flash Image) per aggiungere immagini satellitari, aeree e 3D a Google Earth .",
-          "Utilizzando il pulsante dedicato e inserendo un prompt testuale nella versione web di Google Earth, il modello Nano Banana 2 poteva generare immagini da sovrapporre a quelle dei luoghi reali .",
-          "Deepfake su Google Earth: rimosso il tool con Nano Banana 2 La funzionalità basata su Nano Banana 2 in Google Earth consentiva di creare immagini satellitari fasulle, quindi è stata rimossa dopo 24 ore.",
-          "Per questo motivo ha rimosso il tool dopo 24 ore.",
-          "24",
-          "2"
-        ]
-      }
-    },
-    {
-      "id": "story-b574be116a6038e6",
-      "title": "Pensare insieme: l’altro come condizione del pensiero",
-      "summary": "Perché il confronto con idee diverse dalle nostre migliora il pensiero? Ecco cosa raccontano psicologia e neuroscienze L'articolo Pensare insieme: l’altro come condizione del pensiero proviene da State of Mind.",
-      "spokenText": "C’è un’idea affascinante dello psicologo Lev Vygotsky, secondo cui il pensiero non nasce dentro di noi, ma nello spazio tra le persone, per poi diventare interno all’individuo. È una condizione del pensiero stesso, un processo che prende forma nella relazione prima di trasformarsi in voce interiore. Lo racconta un articolo pubblicato su State of Mind, che esplora proprio ciò che psicologia e neuroscienze ci dicono su questo meccanismo: l’altro non è un semplice interlocutore, ma il terreno originario su cui si costruisce la nostra capacità di riflettere.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "lev vygotsky",
-        "state of mind"
-      ],
-      "importance": 80,
-      "mustInclude": true,
-      "estimatedSeconds": 35,
-      "source": {
-        "name": "State of Mind (Psicologia)",
-        "url": "https://www.stateofmind.it/2026/07/pensare-confronto-altri/?utm_source=rss&utm_medium=rss&utm_campaign=pensare-confronto-altri"
-      },
-      "analysis": {
-        "mainFact": "Secondo lo psicologo Lev Vygotsky, il pensiero nasce nello spazio tra le persone prima di diventare interno all'individuo.",
-        "whyItMatters": "Ecco cosa raccontano psicologia e neuroscienze L'articolo Pensare insieme: l’altro come condizione del pensiero proviene da State of Mind.",
-        "confirmedFacts": [
-          "Secondo lo psicologo Lev Vygotsky, il pensiero nasce nello spazio tra le persone prima di diventare interno all'individuo.",
-          "Ecco cosa raccontano psicologia e neuroscienze L'articolo Pensare insieme: l’altro come condizione del pensiero proviene da State of Mind.",
-          "È una condizione del pensiero stesso."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Lev Vygotsky",
-          "State of Mind"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-71d11c2211dd0993",
-      "title": "La calciatrice Faten e gli altri morti in mare che restano senza nome",
-      "summary": "La foto della giovane sportiva ha fatto il giro dei social. Un hangar non basta a contenere tutti i corpi. Appelli per i dispersi",
-      "spokenText": "La fotografia di Faten, la giovane calciatrice annegata durante un naufragio, ha attraversato i social network diventando in poche ore un’immagine condivisa da migliaia di profili.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "faten"
-      ],
-      "importance": 62,
-      "mustInclude": true,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/02/news/ceuta_spagna_calciatrice_faten_migranti_morti_in_mare_piu_di_130-425507225/"
-      },
-      "analysis": {
-        "mainFact": "La foto della giovane calciatrice Faten, morta in mare, ha fatto il giro dei social.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "La foto della giovane calciatrice Faten, morta in mare, ha fatto il giro dei social.",
-          "La foto della giovane sportiva ha fatto il giro dei social."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Faten"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-ed96edf71f0d037c",
-      "title": "L'Uganda ha dimesso il suo ultimo paziente affetto da Ebola dall'ospedale circa due settimane fa, dopo aver registrato 20 casi e due decessi",
-      "summary": "L'Uganda ha dimesso il suo ultimo paziente affetto da Ebola dall'ospedale circa due settimane fa, dopo aver registrato 20 casi e due decessi.",
-      "spokenText": "L'Uganda ha dimesso il suo ultimo paziente affetto da Ebola dall'ospedale circa due settimane fa.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "uganda"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "L'Uganda ha dimesso il suo ultimo paziente affetto da Ebola dall'ospedale circa due settimane fa, dopo aver registrato 20 casi e due decessi.",
-        "whyItMatters": "Caso di successo nel contenimento di Ebola in Uganda, lezioni replicabili per altre epidemie.",
-        "confirmedFacts": [
-          "L'Uganda ha dimesso il suo ultimo paziente affetto da Ebola dall'ospedale circa due settimane fa, dopo aver registrato 20 casi e due decessi.",
-          "Caso di successo nel contenimento di Ebola in Uganda, lezioni replicabili per altre epidemie.",
-          "Uganda only ever recorded 20 cases and two deaths from the virus.",
-          "This outbreak is the 17th to have emerged in DR Congo since Ebola was discovered 50 years ago.",
-          "By comparison Uganda has had nine since 2000, with officials there saying lessons learnt from past tragedies have allowed them to stop the disease ripping through the country on various occasions.",
-          "16 July 'They said it isn't real': Ebola rumours fuel attacks on health workers 9 July Out of the 20 people who tested positive in Uganda, 15 came from DR Congo.",
-          "But after Uganda and DR Congo jointly declared the Ebola outbreak on 15 May, people with symptoms - which include headaches, fever and vomiting - \"came direct to the treatment unit,\" Dr Kaggwa said."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Uganda"
-        ],
-        "numbersAndDates": [
-          "20"
+          "60",
+          "40",
+          "1",
+          "37",
+          "8,2"
         ]
       }
     },
     {
       "id": "story-41e52cee26b13618",
-      "title": "Il presidente degli Stati Uniti Donald Trump ha annunciato che Hamas e altri gruppi militanti a Gaza hanno accettato di disarmare, definendolo un passo critico per una pace duratura",
-      "summary": "Il presidente degli Stati Uniti Donald Trump ha annunciato che Hamas e altri gruppi militanti a Gaza hanno accettato di disarmare, definendolo un passo critico per una pace duratura. Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi.",
-      "spokenText": "Donald Trump ha annunciato che Hamas e altri gruppi militanti a Gaza hanno accettato di disarmare, definendo questo passaggio come critico per una pace duratura. L’intesa, secondo quanto riportato, includerebbe la rete di tunnel, le armi pesanti, le strutture di produzione e i depositi di armamenti. Se si concretizzasse un disarmo completo, rappresenterebbe una concessione enorme per il movimento, fondato nel 1987 con il duplice obiettivo di resistere all’occupazione israeliana della Cisgiordania, della Striscia di Gaza e di Gerusalemme Est e di sfidare il dominio del partito Fatah nella politica palestinese. Hamas, da parte sua, ha dichiarato di respingere qualsiasi tentativo di minare la resistenza e le sue armi, segnando la distanza tra l’annuncio presidenziale e la posizione ufficiale del movimento. Se Hamas accettasse un disarmo completo, questa sarebbe un'enorme concessione da parte del movimento nella sua resistenza di quasi 40 anni all'occupazione israeliana della Cisgiordania, della Striscia di Gaza.",
+      "title": "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza",
+      "summary": "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza. Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi.",
+      "spokenText": "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza. Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi. Hamas è stato lanciato nel 1987 con il duplice obiettivo di resistere all'occupazione israeliana e sfidare il dominio del partito Fatah nella politica palestinese. Hamas ha detto che 'respinge ogni tentativo di minare la resistenza e le sue armi'.",
       "category": "mondo",
       "tags": [
         "mondo",
         "hamas",
         "gaza"
       ],
-      "importance": 75,
+      "importance": 65,
       "mustInclude": true,
-      "estimatedSeconds": 60,
+      "estimatedSeconds": 31,
       "source": {
         "name": "The Conversation",
         "url": "https://theconversation.com/trump-is-hailing-it-as-a-breakthrough-but-will-hamas-actually-disarm-in-gaza-288805"
       },
       "analysis": {
-        "mainFact": "Il presidente degli Stati Uniti Donald Trump ha annunciato che Hamas e altri gruppi militanti a Gaza hanno accettato di disarmare, definendolo un passo critico per una pace duratura.",
+        "mainFact": "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza.",
         "whyItMatters": "Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi.",
         "confirmedFacts": [
-          "Il presidente degli Stati Uniti Donald Trump ha annunciato che Hamas e altri gruppi militanti a Gaza hanno accettato di disarmare, definendolo un passo critico per una pace duratura.",
+          "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza.",
           "Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi.",
-          "Se Hamas accettasse un disarmo completo, questa sarebbe un'enorme concessione da parte del movimento nella sua resistenza di quasi 40 anni all'occupazione israeliana della Cisgiordania, della Striscia di Gaza e di Gerusalemme Est.",
-          "Hamas è stato fondato nel 1987 con il duplice obiettivo di resistere all'occupazione israeliana e sfidare il dominio del partito Fatah nella politica palestinese.",
-          "Hamas ha dichiarato di 'respingere qualsiasi tentativo di minare la resistenza e le sue armi'."
+          "Hamas è stato lanciato nel 1987 con il duplice obiettivo di resistere all'occupazione israeliana e sfidare il dominio del partito Fatah nella politica palestinese.",
+          "Hamas ha detto che 'respinge ogni tentativo di minare la resistenza e le sue armi'."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
@@ -470,75 +505,72 @@
           "Gaza"
         ],
         "numbersAndDates": [
-          "Se Hamas accettasse un disarmo completo, questa sarebbe un'enorme concessione da parte del movimento nella sua resistenza di quasi 40 anni all'occupazione israeliana della Cisgiordania, della Striscia di Gaza e di Gerusalemme Est.",
-          "Hamas è stato fondato nel 1987 con il duplice obiettivo di resistere all'occupazione israeliana e sfidare il dominio del partito Fatah nella politica palestinese.",
-          "Hamas ha dichiarato di 'respingere qualsiasi tentativo di minare la resistenza e le sue armi'."
+          "Hamas è stato lanciato nel 1987 con il duplice obiettivo di resistere all'occupazione israeliana e sfidare il dominio del partito Fatah nella politica palestinese.",
+          "Hamas ha detto che 'respinge ogni tentativo di minare la resistenza e le sue armi'."
         ]
       }
     },
     {
-      "id": "story-7f6ce964a9129216",
-      "title": "La NASA terrà una conferenza stampa al Kennedy Space Center in Florida per celebrare la leadership americana nello spazio e nell'aviazione",
-      "summary": "La NASA terrà una conferenza stampa al Kennedy Space Center in Florida per celebrare la leadership americana nello spazio e nell'aviazione. I partecipanti includono: l'amministratore della NASA Jared Isaacman, la leadership della NASA, membri del Congresso. L'agenzia trasmetterà questa conferenza stampa in diretta attraverso una varietà di piattaforme. Questo evento è aperto ai media e ai creatori digitali statunitensi.",
-      "spokenText": "La NASA terrà una conferenza stampa al Kennedy Space Center in Florida per celebrare la leadership americana nello spazio e nell'aviazione. I partecipanti includono: l'amministratore della NASA Jared Isaacman, la leadership della NASA, membri del Congresso. L'agenzia trasmetterà questa conferenza stampa in diretta attraverso una varietà di piattaforme. Questo evento è aperto ai media e ai creatori digitali statunitensi. Il 14, in diretta dal Kennedy Space Center dell'agenzia in Florida, e i media e i creatori digitali sono invitati a partecipare di persona.",
+      "id": "story-8dbfdfe81d78a020",
+      "title": "Un'alga a strisce rosa, avvistata per la prima volta 40 anni fa da Christine Maggs, entrerà nella collezione del Natural History Museum",
+      "summary": "Un'alga a strisce rosa, avvistata per la prima volta 40 anni fa da Christine Maggs, entrerà nella collezione del Natural History Museum. E 40 anni fa, mentre studiava uno di questi letti per il suo dottorato, la Prof. ssa Christine Maggs trovò un frammento di alga a strisce rosa che viveva su maerl che non aveva mai visto prima.",
+      "spokenText": "Immaginate di immergervi nelle fredde acque britanniche del 1982, in una muta stagna fatta in casa. È esattamente quello che faceva Christine Maggs durante il suo dottorato, con il supervisore Mike Guiry al fianco, mentre setacciava i fondali di maerl. In una di quelle esplorazioni, la professoressa Maggs notò un frammento di alga a strisce rosa che non aveva mai visto prima. Il biologo marino Francis Bunker, che collaborava a quella stessa ricerca, continuò a trovarlo in tutti i campioni raccolti. Oggi, a quarant'anni di distanza da quel primo avvistamento, quell'alga a strisce rosa sta per entrare ufficialmente nella collezione del Natural History Museum.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "nasa",
-        "kennedy space center",
-        "jared isaacman"
+        "christine maggs",
+        "francis bunker"
       ],
-      "importance": 52,
+      "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 34,
+      "estimatedSeconds": 42,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "La NASA terrà una conferenza stampa al Kennedy Space Center in Florida per celebrare la leadership americana nello spazio e nell'aviazione.",
-        "whyItMatters": "I partecipanti includono: l'amministratore della NASA Jared Isaacman, la leadership della NASA, membri del Congresso. L'agenzia trasmetterà questa conferenza stampa in diretta attraverso una varietà di piattaforme. Questo evento è aperto ai media e ai creatori digitali statunitensi.",
+        "mainFact": "Un'alga a strisce rosa, avvistata per la prima volta 40 anni fa da Christine Maggs, entrerà nella collezione del Natural History Museum.",
+        "whyItMatters": "E 40 anni fa, mentre studiava uno di questi letti per il suo dottorato, la Prof. ssa Christine Maggs trovò un frammento di alga a strisce rosa che viveva su maerl che non aveva mai visto prima.",
         "confirmedFacts": [
-          "La NASA terrà una conferenza stampa al Kennedy Space Center in Florida per celebrare la leadership americana nello spazio e nell'aviazione.",
-          "I partecipanti includono: l'amministratore della NASA Jared Isaacman, la leadership della NASA, membri del Congresso. L'agenzia trasmetterà questa conferenza stampa in diretta attraverso una varietà di piattaforme. Questo evento è aperto ai media e ai creatori digitali statunitensi.",
-          "Il 14, in diretta dal Kennedy Space Center dell'agenzia in Florida, e i media e i creatori digitali sono invitati a partecipare di persona.",
-          "14, per evidenziare la leadership americana nello spazio e nell'aviazione."
+          "Un'alga a strisce rosa, avvistata per la prima volta 40 anni fa da Christine Maggs, entrerà nella collezione del Natural History Museum.",
+          "E 40 anni fa, mentre studiava uno di questi letti per il suo dottorato, la Prof. ssa Christine Maggs trovò un frammento di alga a strisce rosa che viveva su maerl che non aveva mai visto prima.",
+          "Christine Maggs nel 1982 in una muta stagna fatta in casa con il suo supervisore di dottorato Mike Guiry accanto a lei Francis Bunker, un biologo marino freelance e indipendente, continuava a trovare la minuscola alga nei campioni che aveva raccolto in quell'indagine."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "NASA",
-          "Kennedy Space Center",
-          "Jared Isaacman"
+          "Christine Maggs",
+          "Francis Bunker"
         ],
         "numbersAndDates": [
-          "Il 14, in diretta dal Kennedy Space Center dell'agenzia in Florida, e i media e i creatori digitali sono invitati a partecipare di persona.",
-          "14, per evidenziare la leadership americana nello spazio e nell'aviazione."
+          "Christine Maggs nel 1982 in una muta stagna fatta in casa con il suo supervisore di dottorato Mike Guiry accanto a lei Francis Bunker, un biologo marino freelance e indipendente, continuava a trovare la minuscola alga nei campioni che aveva raccolto in quell'indagine.",
+          "40"
         ]
       }
     },
     {
       "id": "story-63f3d35735eeb0c2",
-      "title": "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa",
+      "title": "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa del 30 luglio, nella più grande crisi migratoria mai registrata nell'enclave spagnola",
       "summary": "Prosegue il rientro verso il Marocco dei migranti entrati in massa lo scorso 30 luglio a Ceuta nella maggiore crisi migratoria finora registrata nella città autonoma. Secondo fonti delle forze...",
-      "spokenText": "Oltre 73mila migranti hanno ormai lasciato Ceuta per fare ritorno in Marocco, dopo gli arrivi in massa dei giorni scorsi nell’exclave spagnola. Secondo fonti delle forze di sicurezza spagnole citate dall’agenzia Efe, sono circa 73.500 le persone rientrate oltreconfine, mentre il bilancio delle vittime nel tentativo di raggiungere a nuoto la città è salito a 72. Sul piano sanitario, almeno 1.149 migranti feriti sono stati sottoposti a cure mediche all’interno dell’enclave. Secondo le stime delle forze di sicurezza citate da Efe, il numero dei morti sale a 71. Tuttavia, il ministero dell’Interno non conferma queste cifre, lasciando fermo fra le 50.000 e le 60.000 persone il numero di migranti entrati a Ceuta dei quali oltre 48.300 avrebbero già fatto rientro.",
-      "category": "diritti",
+      "spokenText": "Oltre 73mila migranti hanno già lasciato Ceuta per fare ritorno in Marocco dopo gli arrivi in massa del 30 luglio, nella più grande crisi migratoria mai registrata nell'enclave spagnola. Secondo fonti delle forze di sicurezza citate dall'agenzia Efe, il bilancio delle vittime nel tentativo di raggiungere a nuoto l'exclave è salito a 72. Intanto, almeno 1.149 migranti feriti sono stati sottoposti a cure sanitarie. Secondo le stime delle forze di sicurezza citate da Efe, il numero dei morti sale a 71.",
+      "category": "mondo",
       "tags": [
-        "diritti",
+        "mondo",
         "ceuta",
-        "marocco"
+        "marocco",
+        "efe"
       ],
-      "importance": 55,
+      "importance": 50,
       "mustInclude": true,
-      "estimatedSeconds": 48,
+      "estimatedSeconds": 33,
       "source": {
         "name": "Il Sole 24 Ore - Mondo",
         "url": "https://www.ilsole24ore.com/art/oltre-73mila-migranti-rientrati-ceuta-marocco-AJGZoqc"
       },
       "analysis": {
-        "mainFact": "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa.",
+        "mainFact": "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa del 30 luglio, nella più grande crisi migratoria mai registrata nell'enclave spagnola.",
         "whyItMatters": "Secondo le stime delle forze di sicurezza citate da Efe, il numero dei morti sale a 71",
         "confirmedFacts": [
-          "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa.",
+          "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa del 30 luglio, nella più grande crisi migratoria mai registrata nell'enclave spagnola.",
           "Secondo le stime delle forze di sicurezza citate da Efe, il numero dei morti sale a 71",
           "Secondo fonti delle forze di sicurezza spagnole citate dall’agenzia Efe, sono circa 73.500 le persone che hanno ormai lasciato Ceuta per fare ritorno oltreconfine, mentre il bilancio delle vittime nel tentativo di raggiungere a nuoto l’exclave è salito a 72.",
           "Tuttavia, il ministero dell’Interno non conferma queste cifre, lasciando fermo fra le 50.000 e le 60.000 persone il numero di migranti entrati a Ceuta dei quali oltre 48.300 avrebbero già fatto rientro.",
@@ -549,7 +581,8 @@
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Ceuta",
-          "Marocco"
+          "Marocco",
+          "Efe"
         ],
         "numbersAndDates": [
           "Secondo fonti delle forze di sicurezza spagnole citate dall’agenzia Efe, sono circa 73.500 le persone che hanno ormai lasciato Ceuta per fare ritorno oltreconfine, mentre il bilancio delle vittime nel tentativo di raggiungere a nuoto l’exclave è salito a 72.",
@@ -557,34 +590,35 @@
           "Intanto, almeno 1.149 migranti feriti entrati nell’enclave sono stati sottoposti a cure sanitarie.",
           "Secondo le stime delle forze di sicurezza, il numero dei morti sale a 72",
           "Secondo fonti delle forze di sicurezza spagnole citate dall'agenzia Efe, sono circa 73.500 le persone che hanno ormai lasciato Ceuta per fare ritorno oltreconfine, mentre il bilancio delle vittime nel tentativo di raggiungere a nuoto l'exclave salito a 71.",
+          "30",
           "71"
         ]
       }
     },
     {
       "id": "story-60c9aca73529b029",
-      "title": "Il Bushfire Research Centre of Excellence è stato istituito all'indomani della peggiore stagione di incendi mai registrata in Australia, gli incendi",
-      "summary": "Il Bushfire Research Centre of Excellence è stato istituito all'indomani della peggiore stagione di incendi mai registrata in Australia, gli incendi della 'Black Summer' del 2019-20, che rasero al suolo un'area complessiva grande quanto il Regno Unito.",
-      "spokenText": "L’Australia ha istituito il Bushfire Research Centre of Excellence all’indomani della peggiore stagione di incendi mai registrata nel paese, la cosiddetta ‘Black Summer’ del 2019-20. In quei mesi il fuoco rase al suolo un’area complessiva grande quanto l’intero Regno Unito, lasciando un segno profondo nel territorio e nella memoria collettiva.",
+      "title": "L'Australia combina tecnologia moderna e conoscenze indigene per combattere gli incendi, come evidenziato dal Bushfire Research Centre of Excellence",
+      "summary": "L'Australia combina tecnologia moderna e conoscenze indigene per combattere gli incendi, come evidenziato dal Bushfire Research Centre of Excellence istituito dopo gli incendi della Black Summer 2019-20. Dirige il Bushfire Research Centre of Excellence, istituito all'indomani della peggiore stagione di incendi mai registrata in Australia: gli incendi della Black Summer del 2019-20, che hanno raso al suolo un'area complessiva grande quanto il Regno Unito.",
+      "spokenText": "L’Australia sta unendo tecnologia moderna e conoscenze indigene per affrontare la minaccia degli incendi boschivi. A guidare questo sforzo è il Bushfire Research Centre of Excellence, nato all’indomani della peggiore stagione di fuoco mai registrata nel paese: la Black Summer del 2019-20, quando le fiamme hanno raso al suolo un’area complessiva grande quanto l’intero Regno Unito.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
         "australia",
         "bushfire research centre of excellence"
       ],
-      "importance": 72,
+      "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 20,
+      "estimatedSeconds": 23,
       "source": {
         "name": "BBC News - World",
         "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Il Bushfire Research Centre of Excellence è stato istituito all'indomani della peggiore stagione di incendi mai registrata in Australia, gli incendi della 'Black Summer' del 2019-20, che rasero al suolo un'area complessiva grande quanto il Regno Unito.",
-        "whyItMatters": "Tecnologia e saperi indigeni contro incendi, lezione utile.",
+        "mainFact": "L'Australia combina tecnologia moderna e conoscenze indigene per combattere gli incendi, come evidenziato dal Bushfire Research Centre of Excellence istituito dopo gli incendi della Black Summer 2019-20.",
+        "whyItMatters": "Dirige il Bushfire Research Centre of Excellence, istituito all'indomani della peggiore stagione di incendi mai registrata in Australia: gli incendi della Black Summer del 2019-20, che hanno raso al suolo un'area complessiva grande quanto il Regno Unito.",
         "confirmedFacts": [
-          "Il Bushfire Research Centre of Excellence è stato istituito all'indomani della peggiore stagione di incendi mai registrata in Australia, gli incendi della 'Black Summer' del 2019-20, che rasero al suolo un'area complessiva grande quanto il Regno Unito.",
-          "Tecnologia e saperi indigeni contro incendi, lezione utile.",
+          "L'Australia combina tecnologia moderna e conoscenze indigene per combattere gli incendi, come evidenziato dal Bushfire Research Centre of Excellence istituito dopo gli incendi della Black Summer 2019-20.",
+          "Dirige il Bushfire Research Centre of Excellence, istituito all'indomani della peggiore stagione di incendi mai registrata in Australia: gli incendi della Black Summer del 2019-20, che hanno raso al suolo un'area complessiva grande quanto il Regno Unito.",
           "She heads up the Bushfire Research Centre of Excellence, which was set up in the aftermath of Australia's worst fire season on record: the Black Summer fires of 2019-20 , which razed a combined area about the size of the UK."
         ],
         "uncertainties": [],
