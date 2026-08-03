@@ -1,634 +1,614 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-02-f8eba9670a4e",
-  "generatedAt": "2026-08-02T10:52:52.648Z",
+  "catalogId": "daily-quid-2026-08-03-c6f1abcb399e",
+  "generatedAt": "2026-08-03T14:01:15.620Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-3b76a757b3dc7f28",
-      "title": "Rifiuti speciali: aumenta la produzione",
-      "summary": "Nel 2024 oltre 172 milioni di tonnellate. L'edilizia è la più “circolare”, riciclo record. Recupero di materia in crescita: +5,2% in un anno In Italia nel 2024 la produzione complessiva di rifiuti speciali derivanti da attività industriali, commerciali, artigianali, di servizio, di trattamento rifiuti. Risanamento, ha subito una netta accelerazione, superando i 172 milioni di tonnellate. Registrando un incremento del +4,6% rispetto al 2023 (circa 7,6 milioni di tonnellate in più), un dato che evidenzia un forte scollamento rispetto alla crescita più contenuta dell’economia nazionale, che nello stesso periodo ha segnato un +0,8% del PIL.",
-      "spokenText": "L'Italia ha prodotto oltre 172 milioni di tonnellate di rifiuti speciali nel 2024, segnando un incremento del 4,6% rispetto all'anno precedente. A trainare questa mole di scarti è il settore delle costruzioni e demolizioni, che da solo genera 90,4 milioni di tonnellate, più della metà del totale nazionale. Eppure, proprio l'edilizia si conferma il comparto più virtuoso, raggiungendo tassi di riciclo record. La quasi totalità di questi materiali, il 93,7%, è di natura non pericolosa. Demolizioni si conferma il principale motore della produzione di rifiuti speciali, generando da solo 90,4 milioni di tonnellate ( il 52,5% del totale nazionale ).",
+      "id": "story-3540151b484ac7da",
+      "title": "Francia e Grecia ancora assediate dal fuoco",
+      "summary": "Francia e Grecia ancora assediate dal fuoco",
+      "spokenText": "Sul Carso triestino, l'incendio divampato ieri è ancora attivo dopo 24 ore, ma i vigili del fuoco lo tengono sotto controllo con mezzi terrestri ed elicotteri. Dal 21 luglio, nella zona, le fiamme hanno colpito 70 abitazioni, 41 delle quali completamente distrutte. Intanto, si registra un netto miglioramento in Gironda, nel sud-ovest, teatro nei giorni scorsi del più vasto incendio in Francia dal 1949. E in Grecia, un grave incidente ha coinvolto due elicotteri Bell impegnati nello spegnimento di un rogo a circa 65 chilometri a ovest di Atene: un video mostra uno dei velivoli colpire i rotori dell'altro, che prende fuoco e precipita in un burrone. Oltralpe, ad essere assediata dal fuoco e soprattutto il dipartimento del Var , a sud, nella regione di Provence-Alpes-Cote d’Azur, con oltre 1.500 vigili del fuoco schierati nella lotta al fuoco.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "francia",
+        "grecia",
+        "italia",
+        "var",
+        "gironda",
+        "alessandrino",
+        "valchiavenna",
+        "carso",
+        "atene"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 56,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/francia-e-grecia-ancora-assediate-fuoco-AJPecWd"
+      },
+      "analysis": {
+        "mainFact": "Francia e Grecia ancora assediate dal fuoco",
+        "whyItMatters": "Incendi in Francia, Grecia e Italia, emergenza ambientale con impatti concreti e sistemici.",
+        "confirmedFacts": [
+          "Francia e Grecia ancora assediate dal fuoco",
+          "Incendi in Francia, Grecia e Italia, emergenza ambientale con impatti concreti e sistemici.",
+          "Oltralpe, ad essere assediata dal fuoco e soprattutto il dipartimento del Var , a sud, nella regione di Provence-Alpes-Cote d’Azur, con oltre 1.500 vigili del fuoco schierati nella lotta al fuoco.",
+          "In totale, nella zona, sono 70 le case colpite dalle fiamme, di cui 41 interamente distrutte, dal 21 luglio.",
+          "Netto miglioramento della situazione in Gironda, l’altro dipartimento francese (nel sud-ovest), colpito nei giorni scorsi dal più importante incendio in Francia dal 1949.",
+          "Un video dell’incidente, avvenuto a circa 65 km a ovest di Atene, mostra uno dei due elicotteri Bell che colpisce i rotori dell’altro, il quale prende fuoco e precipita in un burrone.",
+          "L’incendio divampato ieri sul Carso triestino, al quale stanno operando mezzi terrestri ed elicotteri dei vigili del fuoco, a distanza di 24 ore è ancora attivo ma viene tenuto sotto controllo dai pompieri."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Francia",
+          "Grecia",
+          "Italia",
+          "Var",
+          "Gironda",
+          "Alessandrino",
+          "Valchiavenna",
+          "Carso",
+          "Atene"
+        ],
+        "numbersAndDates": [
+          "Oltralpe, ad essere assediata dal fuoco e soprattutto il dipartimento del Var , a sud, nella regione di Provence-Alpes-Cote d’Azur, con oltre 1.500 vigili del fuoco schierati nella lotta al fuoco.",
+          "In totale, nella zona, sono 70 le case colpite dalle fiamme, di cui 41 interamente distrutte, dal 21 luglio.",
+          "Netto miglioramento della situazione in Gironda, l’altro dipartimento francese (nel sud-ovest), colpito nei giorni scorsi dal più importante incendio in Francia dal 1949.",
+          "Un video dell’incidente, avvenuto a circa 65 km a ovest di Atene, mostra uno dei due elicotteri Bell che colpisce i rotori dell’altro, il quale prende fuoco e precipita in un burrone.",
+          "L’incendio divampato ieri sul Carso triestino, al quale stanno operando mezzi terrestri ed elicotteri dei vigili del fuoco, a distanza di 24 ore è ancora attivo ma viene tenuto sotto controllo dai pompieri."
+        ]
+      }
+    },
+    {
+      "id": "story-8741ffe4c3dc0817",
+      "title": "Giacarta, la città al limite: viaggio nella megalopoli che sta sprofondando",
+      "summary": "Con i suoi 42 milioni di abitanti, la capitale dell'Indonesia è la più popolosa del mondo. Ma allo stesso tempo è paralizzata dall'inquinamento e i suoi cittadini convivono ogni giorno con sovraffollamento e traffico",
+      "spokenText": "Giacarta, la capitale dell'Indonesia, è oggi la città più popolosa del pianeta: 42 milioni di persone vivono nell'area metropolitana. Ma allo stesso tempo è paralizzata dall'inquinamento e i suoi cittadini convivono ogni giorno con sovraffollamento e traffico.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "giacarta",
+        "indonesia"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 15,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/dossier/lena/2026/08/03/news/viaggio_a_giacarta_la_citta_al_limite_che_esplode_e_sprofonda-425508391/"
+      },
+      "analysis": {
+        "mainFact": "Giacarta, con i suoi 42 milioni di abitanti, è la città più popolosa del mondo ma è paralizzata dall'inquinamento e i cittadini convivono con sovraffollamento e traffico.",
+        "whyItMatters": "Ma allo stesso tempo è paralizzata dall'inquinamento e i suoi cittadini convivono ogni giorno con sovraffollamento e traffico",
+        "confirmedFacts": [
+          "Giacarta, con i suoi 42 milioni di abitanti, è la città più popolosa del mondo ma è paralizzata dall'inquinamento e i cittadini convivono con sovraffollamento e traffico.",
+          "Ma allo stesso tempo è paralizzata dall'inquinamento e i suoi cittadini convivono ogni giorno con sovraffollamento e traffico",
+          "Con i suoi 42 milioni di abitanti, la capitale dell'Indonesia è la più popolosa del mondo."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Giacarta",
+          "Indonesia"
+        ],
+        "numbersAndDates": [
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "story-6c5ac3b4ccbab709",
+      "title": "Sarcomi, scoperto un meccanismo che li rende resistenti alle terapie",
+      "summary": "Studio Cro di Aviano pubblicato su Journal of experimental and clinical cancer research",
+      "spokenText": "Un gruppo di ricercatori italiani ha messo a fuoco un meccanismo che spiega perché i sarcomi, tumori rari e aggressivi dei tessuti molli e delle ossa, riescono spesso a resistere alle terapie. Lo studio, condotto dal Cro di Aviano in collaborazione con l’Ospedale policlinico San Martino di Genova, è stato pubblicato sul Journal of experimental and clinical cancer research. L’indagine ha permesso di individuare in Twist1 un potenziale biomarcatore, cioè un segnale.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "cro di aviano",
+        "ospedale policlinico san martino di genova",
+        "journal of experimental and clinical cancer rese",
+        "twist1"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 29,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/08/03/sarcomi-scoperto-un-meccanismo-che-li-rende-resistenti-alle-terapie_6f59fe0d-813f-438c-b169-84ec8560e0e4.html"
+      },
+      "analysis": {
+        "mainFact": "Sarcomi, scoperto un meccanismo che li rende resistenti alle terapie",
+        "whyItMatters": "Studio Cro di Aviano pubblicato su Journal of experimental and clinical cancer research",
+        "confirmedFacts": [
+          "Sarcomi, scoperto un meccanismo che li rende resistenti alle terapie",
+          "Studio Cro di Aviano pubblicato su Journal of experimental and clinical cancer research",
+          "Lo studio, in collaborazione con l'Ospedale policlinico San Martino di Genova, stato pubblicato su Journal of experimental and clinical cancer research e indica nella proteina Twist1 un potenziale biomarcatore e un nuovo bersaglio terapeutico."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Cro di Aviano",
+          "Ospedale policlinico San Martino di Genova",
+          "Journal of experimental and clinical cancer research",
+          "Twist1"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-d39cd711cde750f9",
+      "title": "Guerra ultime notizie. Droni ucraini su spiaggia russa, Mosca: «Nato e Ue con i terroristi»",
+      "summary": "Continuano gli attacchi dell’esercito ucraino in territorio russo. È salito a sei morti, tra cui tre bambini, e a 40 feriti il bilancio di un bombardamento di droni ucraini di...",
+      "spokenText": "Un attacco di droni ucraini ha colpito una spiaggia a Gelendzhik, località turistica nel sud della Russia, provocando la morte di sei persone, tra cui tre bambini, e il ferimento di altre quaranta. Continuano gli attacchi dell’esercito ucraino in territorio russo. Mosca: «Nato e Ue con i terroristi». \"Una banda terrorista ha occupato l'apparato dello Stato ucraino e opera nel centro dell'Europa\", ha detto all'agenzia Tass la portavoce.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "nato",
+        "gelendzhik"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 28,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-viceministro-esteri-russo-galuzin-pronti-negoziare-l-ucraina-AJcJEJd"
+      },
+      "analysis": {
+        "mainFact": "Un bombardamento di droni ucraini su una spiaggia a Gelendzhik, nel sud della Russia, ha causato sei morti, tra cui tre bambini, e 40 feriti.",
+        "whyItMatters": "Continuano gli attacchi dell’esercito ucraino in territorio russo.",
+        "confirmedFacts": [
+          "Un bombardamento di droni ucraini su una spiaggia a Gelendzhik, nel sud della Russia, ha causato sei morti, tra cui tre bambini, e 40 feriti.",
+          "Continuano gli attacchi dell’esercito ucraino in territorio russo.",
+          "Mosca: «Nato e Ue con i terroristi»",
+          "\"Una banda terrorista ha occupato l'apparato dello Stato ucraino e opera nel centro dell'Europa\", ha detto all'agenzia Tass la portavoce."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Russia",
+          "NATO",
+          "Gelendzhik"
+        ],
+        "numbersAndDates": [
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "story-35848ebeed58b6a9",
+      "title": "Von der Leyen a Sanchez, 'migrazione è sfida Ue, raddoppiare gli sforzi'",
+      "summary": "'Solidarietà è fondamentale, la Spagna può contare sulla Commissione'",
+      "spokenText": "Von der Leyen ha dichiarato a Sanchez che la migrazione è una sfida europea e che la Spagna può contare sul supporto della Commissione.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "von der leyen",
+        "sanchez",
+        "spagna"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 10,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/von-der-leyen-a-sanchez-migrazione-e-sfida-ue-raddoppiare-gli-sforzi_25644885-7683-4d37-bb04-0bb80d17f325.html"
+      },
+      "analysis": {
+        "mainFact": "Von der Leyen ha dichiarato a Sanchez che la migrazione è una sfida europea e che la Spagna può contare sul supporto della Commissione.",
+        "whyItMatters": "Scontro Italia-Spagna su migranti: alta importanza geopolitica, trend growing.",
+        "confirmedFacts": [
+          "Von der Leyen ha dichiarato a Sanchez che la migrazione è una sfida europea e che la Spagna può contare sul supporto della Commissione.",
+          "Scontro Italia-Spagna su migranti: alta importanza geopolitica, trend growing.",
+          "'Solidarietà è fondamentale, la Spagna può contare sulla Commissione'",
+          "\"La Spagna - aggiunge - può contare sul supporto della Commissione\"."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Von der Leyen",
+          "Sanchez",
+          "Spagna"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-02d733ae3bfdca26",
+      "title": "Ceuta, allarme bambini: sono migliaia i minori arrivati dal Marocco",
+      "summary": "Mille e cinquecento nei centri di accoglienza, altrettanti fuori tra i corpi che il mare restituisce anche quelli di piccoli schiacciati",
+      "spokenText": "Migliaia di minori sono arrivati a Ceuta dal Marocco. Ma il dato più drammatico è che un numero altrettanto elevato di minori resta fuori da qualsiasi circuito ufficiale di protezione. corpi senza vita, tra cui anche quelli di bambini e adolescenti schiacciati dalla violenza del viaggio.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "ceuta",
+        "marocco"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 19,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/03/news/ceuta_allarme_bambini_migliaia_minori_arrivati_da_marocco-425508497/"
+      },
+      "analysis": {
+        "mainFact": "Migliaia di minori sono arrivati a Ceuta dal Marocco.",
+        "whyItMatters": "Mille e cinquecento nei centri di accoglienza, altrettanti fuori tra i corpi che il mare restituisce anche quelli di piccoli schiacciati",
+        "confirmedFacts": [
+          "Migliaia di minori sono arrivati a Ceuta dal Marocco.",
+          "Mille e cinquecento nei centri di accoglienza, altrettanti fuori tra i corpi che il mare restituisce anche quelli di piccoli schiacciati"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Ceuta",
+          "Marocco"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-4becca3d5c024f17",
+      "title": "Meta, TikTok, Snap e YouTube affrontano una nuova causa legale negli Stati Uniti",
+      "summary": "L'accusa è di aver alimentato dipendenza digitale sfociata in suicidi di quattro minori",
+      "spokenText": "L'accusa è di aver alimentato dipendenza digitale sfociata in suicidi di quattro minori. TikTok, Snap e YouTube sono oggetto di un nuovo procedimento legale avviato dai familiari di quattro adolescenti, che sarebbero morti suicidi in circostanze collegate, per l'accusa dovute all'uso e alla sovraesposizione ai servizi telematici.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "meta",
+        "tiktok",
+        "snap",
+        "youtube",
+        "stati uniti"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 19,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/03/meta-tiktok-snap-e-youtube-affrontano-una-nuova-causa-legale-negli_49324e05-de94-4d14-b046-062bd4da03c1.html"
+      },
+      "analysis": {
+        "mainFact": "TikTok, Snap e YouTube affrontano una nuova causa legale negli Stati Uniti",
+        "whyItMatters": "L'accusa è di aver alimentato dipendenza digitale sfociata in suicidi di quattro minori",
+        "confirmedFacts": [
+          "TikTok, Snap e YouTube affrontano una nuova causa legale negli Stati Uniti",
+          "L'accusa è di aver alimentato dipendenza digitale sfociata in suicidi di quattro minori"
+        ],
+        "uncertainties": [
+          "TikTok, Snap e YouTube sono oggetto di un nuovo procedimento legale avviato dai familiari di quattro adolescenti, che sarebbero morti suicidi in circostanze collegate, per l'accusa dovute all'uso e alla sovraesposizione ai servizi telematici."
+        ],
+        "peopleAndOrganizations": [
+          "Meta",
+          "TikTok",
+          "Snap",
+          "YouTube",
+          "Stati Uniti"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-4f18e8652ed23055",
+      "title": "Ft: AstraZeneca tratta con Bristol Myers Squibb maxi fusione da 400 miliardi",
+      "summary": "La britannica AstraZeneca tratta la maxi fusione con la rivale Usa, Bristol Myers Squibb: l’operazione darebbe vita al quarto colosso al mondo di Big Pharma per capitalizzazione di mercato, a...",
+      "spokenText": "AstraZeneca sta trattando una maxi fusione con la rivale statunitense Bristol Myers Squibb. Al momento AstraZeneca, che è la seconda società quotata britannica per valore, capitalizza circa centonovantasei miliardi di sterline, equivalenti a duecentosessanta miliardi di dollari, mentre Bristol Myers Squibb si attesta a centotrentatré miliardi di dollari.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "astrazeneca",
+        "bristol myers squibb"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/ft-astrazeneca-tratta-bristol-myers-squibb-maxi-fusione-400-miliardi-AJibvHd"
+      },
+      "analysis": {
+        "mainFact": "AstraZeneca tratta la maxi fusione con la rivale statunitense Bristol Myers Squibb: l’operazione darebbe vita al quarto colosso mondiale di Big Pharma per capitalizzazione di mercato, a ridosso dei 400 miliardi di dollari.",
+        "whyItMatters": "Il gruppo anglo-americano salirebbe al quarto posto per capitalizzazione tra Big Pharma",
+        "confirmedFacts": [
+          "AstraZeneca tratta la maxi fusione con la rivale statunitense Bristol Myers Squibb: l’operazione darebbe vita al quarto colosso mondiale di Big Pharma per capitalizzazione di mercato, a ridosso dei 400 miliardi di dollari.",
+          "Il gruppo anglo-americano salirebbe al quarto posto per capitalizzazione tra Big Pharma",
+          "AstraZeneca , la seconda società quotata britannica per valore, capitalizza 196 miliardi di sterline (260 miliardi di dollari), mentre Bms 133 miliardi di dollari."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "AstraZeneca",
+          "Bristol Myers Squibb"
+        ],
+        "numbersAndDates": [
+          "AstraZeneca , la seconda società quotata britannica per valore, capitalizza 196 miliardi di sterline (260 miliardi di dollari), mentre Bms 133 miliardi di dollari.",
+          "400"
+        ]
+      }
+    },
+    {
+      "id": "story-e2b08a01f60118f5",
+      "title": "Prysmian rilancia sul mercato Usa rilevando Aktore per 3,3 miliardi",
+      "summary": "Nuova operazione di peso sul mercato nordamericano dopo quelle di Encore Wire e Channel - L’obiettivo è presidiare un ambito in forte espansione grazie a data center, Ai ed elettrificazione",
+      "spokenText": "Prysmian mette a segno la terza grande acquisizione nel giro di pochi anni sul mercato nordamericano, rilevando Atkore per 3,3 miliardi di dollari. Due anni fa, Prysmian aveva acquistato Encore Wire per quasi 4 miliardi di euro, la più grande operazione della sua storia, seguita circa un anno dopo da Channell Commercial per circa un miliardo di euro. Atkore, che nell’anno fiscale 2025 ha registrato ricavi per 2,85 miliardi di dollari e un Ebitda di 386 milioni, impiega circa 5.400 persone a livello globale. Prysmian prevede che l’acquisizione genererà circa 150 milioni di dollari di sinergie pre-imposte a regime (run-rate) entro tre anni dalla chiusura dell’operazione.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "prysmian",
+        "atkore",
+        "encore wire",
+        "channell commercial",
+        "stati uniti"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 43,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/prysmian-rilancia-mercato-usa-rilevando-aktor-33-miliardi-AJ7kyOd"
+      },
+      "analysis": {
+        "mainFact": "Prysmian acquisisce Atkore per 3,3 miliardi di dollari.",
+        "whyItMatters": "Nuova operazione di peso sul mercato nordamericano dopo quelle di Encore Wire e Channel - L’obiettivo è presidiare un ambito in forte espansione grazie a data center, Ai ed elettrificazione",
+        "confirmedFacts": [
+          "Prysmian acquisisce Atkore per 3,3 miliardi di dollari.",
+          "Nuova operazione di peso sul mercato nordamericano dopo quelle di Encore Wire e Channel - L’obiettivo è presidiare un ambito in forte espansione grazie a data center, Ai ed elettrificazione",
+          "Si tratta della terza acquisizione di peso negli Stati Uniti nel giro di pochi anni per in ordine di tempo per Prysmian, che due anni fa ha acquistato Encore Wire per quasi 4 miliardi di euro, la più grande operazione della sua storia, seguita da Channell Commercial circa un anno dopo, per circa 1 euro miliardo.",
+          "Atkore ha generato ricavi per 2,85 miliardi di dollari e un Ebitda di 386 milioni di dollari nell’anno fiscale 2025, e impiega circa 5.400 persone a livello globale.",
+          "Prysmian prevede che l’acquisizione genererà circa 150 milioni di dollari di sinergie pre-imposte a regime (run-rate) entro tre anni dalla chiusura dell’operazione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Prysmian",
+          "Atkore",
+          "Encore Wire",
+          "Channell Commercial",
+          "Stati Uniti"
+        ],
+        "numbersAndDates": [
+          "Si tratta della terza acquisizione di peso negli Stati Uniti nel giro di pochi anni per in ordine di tempo per Prysmian, che due anni fa ha acquistato Encore Wire per quasi 4 miliardi di euro, la più grande operazione della sua storia, seguita da Channell Commercial circa un anno dopo, per circa 1 euro miliardo.",
+          "Atkore ha generato ricavi per 2,85 miliardi di dollari e un Ebitda di 386 milioni di dollari nell’anno fiscale 2025, e impiega circa 5.400 persone a livello globale.",
+          "Prysmian prevede che l’acquisizione genererà circa 150 milioni di dollari di sinergie pre-imposte a regime (run-rate) entro tre anni dalla chiusura dell’operazione.",
+          "3,3"
+        ]
+      }
+    },
+    {
+      "id": "story-3499962641420f2d",
+      "title": "Nel Dna umano ci sono tracce di antenati fantasma",
+      "summary": "Nel Dna umano ci sono tracce di antenati fantasma. Uno degli antenati 'fantasma' si è incrociato con l'uomo moderno oltre 50.000 anni fa , prima della più recente migrazione dell'Homo sapiens dall'Africa verso l'Europa e l'Asia.",
+      "spokenText": "Nel nostro Dna ci sono tracce di antenati fantasma. Non è una metafora, ma il risultato di analisi genetiche che raccontano un incrocio avvenuto oltre cinquantamila anni fa, prima che l’Homo sapiens uscisse dall’Africa per popolare l’Europa e l’Asia. Questa linea evolutiva di ominidi sconosciuti si era separata da quella degli esseri umani moderni circa ottocentomila anni fa, più o meno nello stesso periodo in cui si differenziarono anche i Neanderthal e i Denisoviani. Eppure, a differenza di questi ultimi, di questo antenato non abbiamo fossili, solo la firma chimica lasciata nel genoma. Una firma che oggi rappresenta circa l’un per cento del Dna delle popolazioni moderne, una quantità paragonabile a quella del Dna di Neanderthal che ancora portiamo con noi. Uno degli antenati 'fantasma' si è incrociato con l'uomo moderno oltre 50.000 anni fa , prima della più recente migrazione dell'Homo sapiens dall'Africa verso l'Europa e l'Asia.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "antenati fantasma",
+        "homo sapiens",
+        "neanderthal",
+        "denisoviani",
+        "africa"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 60,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/03/nel-dna-umano-ci-sono-tracce-di-antenati-fantasma-_5b79982e-76be-4b1b-ad4d-54cdcfef0621.html"
+      },
+      "analysis": {
+        "mainFact": "Nel Dna umano ci sono tracce di antenati fantasma.",
+        "whyItMatters": "Uno degli antenati 'fantasma' si è incrociato con l'uomo moderno oltre 50.000 anni fa , prima della più recente migrazione dell'Homo sapiens dall'Africa verso l'Europa e l'Asia.",
+        "confirmedFacts": [
+          "Nel Dna umano ci sono tracce di antenati fantasma.",
+          "Uno degli antenati 'fantasma' si è incrociato con l'uomo moderno oltre 50.000 anni fa , prima della più recente migrazione dell'Homo sapiens dall'Africa verso l'Europa e l'Asia.",
+          "Questa linea evolutiva di ominidi sconosciuti si è separata da quella degli esseri umani moderni all'incirca nello stesso periodo in cui i Neanderthal e i Denisoviani si sono differenziati, circa 800.000 anni fa .",
+          "I suoi geni costituiscono circa l'1% del genoma degli esseri umani moderni, una quantità paragonabile a quella del Dna di Neanderthal presente nel genoma umano ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "antenati fantasma",
+          "Homo sapiens",
+          "Neanderthal",
+          "Denisoviani",
+          "Africa"
+        ],
+        "numbersAndDates": [
+          "Questa linea evolutiva di ominidi sconosciuti si è separata da quella degli esseri umani moderni all'incirca nello stesso periodo in cui i Neanderthal e i Denisoviani si sono differenziati, circa 800.000 anni fa .",
+          "I suoi geni costituiscono circa l'1% del genoma degli esseri umani moderni, una quantità paragonabile a quella del Dna di Neanderthal presente nel genoma umano .",
+          "50.000"
+        ]
+      }
+    },
+    {
+      "id": "story-42cacdd58fef53a5",
+      "title": "Il 2 agosto 2026, l'Astronomy Picture of the Day (APOD) presenta un arcobaleno di fuoco sulla Virginia Occidentale",
+      "summary": "Il 2 agosto 2026, l'Astronomy Picture of the Day (APOD) presenta un arcobaleno di fuoco sulla Virginia Occidentale.",
+      "spokenText": "L'immagine del giorno scelta oggi dall'APOD, il 2 agosto 2026, ci porta in Virginia Occidentale con un arcobaleno di fuoco che domina il cielo sopra la North Fork Mountain. Lo scatto, firmato da Christa Harbig, risale in realtà al 2021, ma la sua forza visiva resta intatta. L'arcobaleno di fuoco, un fenomeno ottico che si forma in condizioni molto particolari, è stato catturato in primo piano, regalando una prospettiva quasi surreale del paesaggio. una meteora in vaporizzazione che ruba la scena alla Nebulosa Lacerta. Immagine di domani: photobomb meteorico. Data: 2 agosto 2026. Crediti e copyright: Christa Harbig. Autori e curatori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA/GSFC, NASA Science Activation e Michigan Tech. Immagine di ieri APOD: 1 agosto 2026 – Luna del Cervo e Cintura di Venere.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "apod",
+        "nasa",
+        "west virginia",
+        "north fork mountain",
+        "christa harbig"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 55,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/"
+      },
+      "analysis": {
+        "mainFact": "Il 2 agosto 2026, l'Astronomy Picture of the Day (APOD) presenta un arcobaleno di fuoco sulla Virginia Occidentale.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Il 2 agosto 2026, l'Astronomy Picture of the Day (APOD) presenta un arcobaleno di fuoco sulla Virginia Occidentale.",
+          "L'arcobaleno di fuoco in primo piano è stato fotografato nel 2021 vicino a North Fork Mountain, in Virginia Occidentale, USA.",
+          "Immagine di domani: photobomb meteorico. Data: 2 agosto 2026. Crediti e copyright: Christa Harbig. Autori e curatori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA/GSFC, NASA Science Activation e Michigan Tech.",
+          "Immagine di ieri APOD: 1 agosto 2026 – Luna del Cervo e Cintura di Venere. Immagine di domani APOD: 3 agosto 2026 – Meteora in vaporizzazione fa photobomb alla Nebulosa Lacerta."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "APOD",
+          "NASA",
+          "West Virginia",
+          "North Fork Mountain",
+          "Christa Harbig"
+        ],
+        "numbersAndDates": [
+          "L'arcobaleno di fuoco in primo piano è stato fotografato nel 2021 vicino a North Fork Mountain, in Virginia Occidentale, USA.",
+          "Immagine di domani: photobomb meteorico. Data: 2 agosto 2026. Crediti e copyright: Christa Harbig. Autori e curatori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA/GSFC, NASA Science Activation e Michigan Tech.",
+          "Immagine di ieri APOD: 1 agosto 2026 – Luna del Cervo e Cintura di Venere. Immagine di domani APOD: 3 agosto 2026 – Meteora in vaporizzazione fa photobomb alla Nebulosa Lacerta.",
+          "2",
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-7355628b3a0739be",
+      "title": "Ricerca medica, 9 scienziate italiane su 10 incontrano barriere legate al genere",
+      "summary": "Studio sulle ricercatrici senior, 91% ha difficoltà a conciliare carriera e vita privata",
+      "spokenText": "Nella ricerca medica italiana, nove scienziate su dieci incontrano barriere legate al genere. È il dato complessivo che emerge da uno studio condotto su ricercatrici senior, dove il 91% delle intervistate segnala difficoltà nel conciliare carriera e vita privata. Un problema di equilibrio che si intreccia con la percezione di stereotipi e pregiudizi, indicata dal 39% del campione. Dentro questo quadro, il 37% delle scienziate ha pensato almeno una volta di lasciare la ricerca biomedica o di cambiare organizzazione.",
+      "category": "scienza",
+      "tags": [
+        "scienza"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 32,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/03/ricerca-medica-9-scienziate-italiane-su-10-incontrano-barriere-legate-al-genere_7c1407ae-1926-4dd2-ad6c-69c1c732de20.html"
+      },
+      "analysis": {
+        "mainFact": "Nella ricerca medica italiana, 9 scienziate su 10 incontrano barriere legate al genere.",
+        "whyItMatters": "Studio sulle ricercatrici senior, 91% ha difficoltà a conciliare carriera e vita privata.",
+        "confirmedFacts": [
+          "Nella ricerca medica italiana, 9 scienziate su 10 incontrano barriere legate al genere.",
+          "Studio sulle ricercatrici senior, 91% ha difficoltà a conciliare carriera e vita privata.",
+          "Inoltre, il 37% ha pensato almeno una volta di lasciare la ricerca biomedica o di cambiare organizzazione.",
+          "il 39% segnala stereotipi o pregiudizi nei confronti delle donne nella ricerca biomedica."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "Inoltre, il 37% ha pensato almeno una volta di lasciare la ricerca biomedica o di cambiare organizzazione.",
+          "il 39% segnala stereotipi o pregiudizi nei confronti delle donne nella ricerca biomedica.",
+          "9",
+          "10",
+          "91"
+        ]
+      }
+    },
+    {
+      "id": "story-0afbbc89a169dc39",
+      "title": "Moonshot rilascia i segreti di Kimi K3, il modello IA cinese che sfida gli Usa",
+      "summary": "L'obiettivo è superare la strategia chiusa delle big tech statunitensi",
+      "spokenText": "Moonshot ha deciso di rilasciare pubblicamente i dettagli tecnici del suo modello di intelligenza artificiale Kimi K3, una mossa che punta dritto alla trasparenza. Resta da capire come reagiranno le big tech statunitensi a questa sfida, che non è solo tecnologica ma anche culturale. L'obiettivo è superare la strategia chiusa delle big tech statunitensi.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "moonshot",
+        "kimi k3",
+        "big tech statunitensi"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/07/28/moonshot-rilascia-i-segreti-di-kimi-k3-il-modello-ia-cinese-che-sfida-gli-usa_3f3ce74f-d6e4-4974-a174-7c6ad2e3b5e8.html"
+      },
+      "analysis": {
+        "mainFact": "Moonshot rilascia i segreti di Kimi K3, il modello IA cinese che sfida gli Usa.",
+        "whyItMatters": "L'obiettivo è superare la strategia chiusa delle big tech statunitensi",
+        "confirmedFacts": [
+          "Moonshot rilascia i segreti di Kimi K3, il modello IA cinese che sfida gli Usa.",
+          "L'obiettivo è superare la strategia chiusa delle big tech statunitensi"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Moonshot",
+          "Kimi K3",
+          "big tech statunitensi"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-422d0991ea318c8e",
+      "title": "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore",
+      "summary": "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore. Milano e Napoli, sono già in allerta rossa, e entro lunedì lo saranno tutte tranne due.",
+      "spokenText": "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore. Milano e Napoli sono già in allerta rossa, e entro lunedì lo saranno tutte tranne due. Funzionari sanitari affermano che 19 città da nord a sud, inclusa la capitale Roma, Milano, Venezia. Il ministero esorta i residenti nelle aree interessate a evitare l'esposizione al calore e alla luce solare diretta durante le ore più calde tra le 11:00 e le 18:00, a rimanere in casa e a bere molti liquidi.",
       "category": "ambiente",
       "tags": [
         "ambiente",
         "italia"
       ],
-      "importance": 80,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 40,
+      "estimatedSeconds": 34,
       "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/rifiuti-speciali-aumenta-la-produzione"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Nel 2024 la produzione di rifiuti speciali in Italia ha superato i 172 milioni di tonnellate, con un incremento del 4,6% rispetto al 2023.",
-        "whyItMatters": "L'edilizia è la più “circolare”, riciclo record.",
+        "mainFact": "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore.",
+        "whyItMatters": "Milano e Napoli, sono già in allerta rossa, e entro lunedì lo saranno tutte tranne due.",
         "confirmedFacts": [
-          "Nel 2024 la produzione di rifiuti speciali in Italia ha superato i 172 milioni di tonnellate, con un incremento del 4,6% rispetto al 2023.",
-          "L'edilizia è la più “circolare”, riciclo record.",
-          "Il settore delle costruzioni e demolizioni si conferma il principale motore della produzione di rifiuti speciali, generando da solo 90,4 milioni di tonnellate ( il 52,5% del totale nazionale ).",
-          "La quasi totalità dei rifiuti speciali prodotti è di natura non pericolosa (93,7%), in crescita del +4,5% rispetto al 2023.",
-          "Il Nord traina con il 56% di produzione ; la sola Lombardia ne produce 36,4 milioni (il 21,2% del dato italiano), seguita da Veneto (18 milioni), Emilia- Romagna (15 milioni) e Piemonte (13,9 milioni).",
-          "Nel Sud Italia se ne producono 44,3 milioni di tonnellate (25,8% del totale); la Campania è la regione con la produzione più alta dell’area con 11,7 milioni di tonnellate, seguita da Sicilia (10,1 milioni) e Puglia (9,3 milioni)."
+          "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore.",
+          "Milano e Napoli, sono già in allerta rossa, e entro lunedì lo saranno tutte tranne due.",
+          "Funzionari sanitari affermano che 19 città da nord a sud - inclusa la capitale Roma, Milano, Venezia e Napoli - sono già in allerta rossa, e entro lunedì tutte le città tranne due lo saranno.",
+          "Il ministero esorta i residenti nelle aree interessate a evitare l'esposizione al calore e alla luce solare diretta durante le ore più calde tra le 11:00 e le 18:00, a rimanere in casa e a bere molti liquidi."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Italia"
         ],
         "numbersAndDates": [
-          "Il settore delle costruzioni e demolizioni si conferma il principale motore della produzione di rifiuti speciali, generando da solo 90,4 milioni di tonnellate ( il 52,5% del totale nazionale ).",
-          "La quasi totalità dei rifiuti speciali prodotti è di natura non pericolosa (93,7%), in crescita del +4,5% rispetto al 2023.",
-          "Il Nord traina con il 56% di produzione ; la sola Lombardia ne produce 36,4 milioni (il 21,2% del dato italiano), seguita da Veneto (18 milioni), Emilia- Romagna (15 milioni) e Piemonte (13,9 milioni).",
-          "Nel Sud Italia se ne producono 44,3 milioni di tonnellate (25,8% del totale); la Campania è la regione con la produzione più alta dell’area con 11,7 milioni di tonnellate, seguita da Sicilia (10,1 milioni) e Puglia (9,3 milioni).",
-          "2024",
-          "172",
-          "4,6",
-          "2023"
+          "Funzionari sanitari affermano che 19 città da nord a sud - inclusa la capitale Roma, Milano, Venezia e Napoli - sono già in allerta rossa, e entro lunedì tutte le città tranne due lo saranno.",
+          "Il ministero esorta i residenti nelle aree interessate a evitare l'esposizione al calore e alla luce solare diretta durante le ore più calde tra le 11:00 e le 18:00, a rimanere in casa e a bere molti liquidi."
         ]
       }
     },
     {
-      "id": "story-f34a8c4eb4f8e2cf",
-      "title": "Imparare dal mare con ACeS. Acqua, ambiente e salute: cittadini e ricercatori in dialogo",
-      "summary": "Attraverso il contributo dei partner del progetto ACeS, i cittadini avranno l’opportunità di conoscere da vicino le attività del Progetto ACeS e comprendere il valore della prevenzione e della tutela delle acque attraverso spazi interattivi e attività divulgative pensate per favorire il confronto diretto tra ricerca scientifica e territorio. Attraverso attività interattive e momenti di confronto, il progetto ACeS porta la ricerca fuori dai laboratori per raccontare come la qualità delle acque, l’ambiente marino e la salute siano strettamente collegati.",
-      "spokenText": "A Ortona, lungo la Passeggiata Orientale, il progetto ACeS invita tutti a un evento pensato per trasformare la ricerca scientifica in un dialogo aperto con la comunità. Dalle 19:00 alle 22:00, la passeggiata si animerà con spazi interattivi dove ARPAE Emilia-Romagna e IZSAM proporranno dimostrazioni, attività divulgative ed esperienze pratiche dedicate al monitoraggio delle acque, dell’ambiente marino e dei microrganismi. Poi, dalle 21:00, a Largo Farnese prenderà il via un incontro pubblico: i ricercatori, insieme ai partner del progetto e ai rappresentanti della Regione Abruzzo, racconteranno il contributo di ACeS alla valutazione dei rischi e alla prevenzione per la tutela della salute e dell’ambiente. Il progetto ACeS organizza un evento a Ortona il 06/08/2026 per avvicinare i cittadini alla ricerca su qualità delle acque, ambiente marino e salute.",
+      "id": "story-67cbb2dc7431cf7d",
+      "title": "A Budapest si ferma per la prima volta in 44 anni l'impianto atomico che produce il 40% dell'elettricità nazionale",
+      "summary": "Il riscaldamento climatico prosciuga il grande fiume europeo. A Budapest si ferma per la prima volta in 44 anni l’impianto atomico che produce il 40% dell’elettricità nazionale, mentre in Serbia rallenta la produzione idroelettrica. E dal letto del fiume riemergono anche i relitti delle navi naziste affondate nel 1944",
+      "spokenText": "A Budapest si ferma per la prima volta in 44 anni l'impianto atomico che produce il 40% dell'elettricità nazionale. E dal letto del fiume riemergono anche i relitti delle navi naziste affondate nel 1944.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "aces",
-        "ispra",
-        "arpae emilia romagna",
-        "izsam",
-        "regione abruzzo",
-        "ortona"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 52,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/imparare-dal-mare-con-aces-acqua-ambiente-e-salute-cittadini-e-ricercatori-in-dialogo"
-      },
-      "analysis": {
-        "mainFact": "Il progetto ACeS organizza un evento a Ortona il 06/08/2026 per avvicinare i cittadini alla ricerca su qualità delle acque, ambiente marino e salute.",
-        "whyItMatters": "ARPAE Emilia-Romagna e IZSAM ) proporranno dimostrazioni, attività divulgative ed esperienze pratiche dedicate al monitoraggio delle acque, dell’ambiente marino e dei microrganismi, coinvolgendo cittadini di tutte le età.",
-        "confirmedFacts": [
-          "Il progetto ACeS organizza un evento a Ortona il 06/08/2026 per avvicinare i cittadini alla ricerca su qualità delle acque, ambiente marino e salute.",
-          "ARPAE Emilia-Romagna e IZSAM ) proporranno dimostrazioni, attività divulgative ed esperienze pratiche dedicate al monitoraggio delle acque, dell’ambiente marino e dei microrganismi, coinvolgendo cittadini di tutte le età.",
-          "Quando il 06/08/2026 dalle 19:00 alle 22:00 (Europe/Berlin / UTC200) Dove Ortona Aggiungi l'evento al calendario iCal L’evento si svolgerà lungo la Passeggiata Orientale di Ortona , in prossimità di una delle due aree pilota del progetto ACeS, e sarà articolato in due momenti principali:",
-          "Dalle 19:00, spazi interattivi lungo la Passeggiata Orientale .",
-          "Dalle 21:00, incontro pubblico e dialogo con i cittadini .",
-          "Presso Largo Farnese , I ricercatori, partner del progetto e rappresentanti della Regione Abruzzo illustreranno il contributo del progetto ACeS alla ricerca, alla valutazione dei rischi e alla prevenzione per la tutela della salute e dell’ambiente.",
-          "L’obiettivo dell’iniziativa è avvicinare la comunità al mondo della ricerca, favorire il dialogo tra scienza e cittadini e promuovere una cultura della prevenzione e della sostenibilità, affinché ognuno possa contribuire alla tutela delle risorse idriche, dell’ambiente e della salute collettiva."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ACeS",
-          "ISPRA",
-          "ARPAE Emilia-Romagna",
-          "IZSAM",
-          "Regione Abruzzo",
-          "Ortona"
-        ],
-        "numbersAndDates": [
-          "Quando il 06/08/2026 dalle 19:00 alle 22:00 (Europe/Berlin / UTC200) Dove Ortona Aggiungi l'evento al calendario iCal L’evento si svolgerà lungo la Passeggiata Orientale di Ortona , in prossimità di una delle due aree pilota del progetto ACeS, e sarà articolato in due momenti principali:",
-          "Dalle 19:00, spazi interattivi lungo la Passeggiata Orientale .",
-          "Dalle 21:00, incontro pubblico e dialogo con i cittadini .",
-          "06",
-          "08",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-0374e370c9d4f3c9",
-      "title": "Terremoto ai Campi Flegrei, riaperto il porto di Pozzuoli",
-      "summary": "Ancora chiuso il mercato ittico, dopo scossa ingenti danni per il commercio",
-      "spokenText": "Il porto di Pozzuoli è stato riaperto, un segnale di graduale ritorno alla normalità dopo la forte scossa di terremoto che ha colpito i Campi Flegrei. Restano invece chiusi il cimitero e il mercato ittico, dove si registrano danni alla copertura. Lo sciame sismico, iniziato venerdì alle 19:46 con un evento di magnitudo 4. 7 – il più intenso degli ultimi quarant’anni in quest’area segnata dal bradisismo – ha fatto registrare oltre centosettanta scosse fino alle quattordici di sabato, concedendo ora una fase di relativa calma. Intanto, il bilancio dei danni al commercio locale appare destinato ad aggravarsi. Per i trasporti, la ferrovia che collega Napoli ai comuni flegrei si ferma a Bagnoli: il resto della linea è coperto da autobus sostitutivi, con partenze da Bagnoli e Torregaveta ogni venticinque-trenta minuti. Ottantotto persone (di cui 17 minori) sono accolte attualmente presso il Palatrincone di Pozzuoli, mentre le restanti hanno trovato autonoma sistemazione.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "pozzuoli",
-        "campi flegrei",
-        "palatrincone"
-      ],
-      "importance": 52,
-      "mustInclude": true,
-      "estimatedSeconds": 61,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html"
-      },
-      "analysis": {
-        "mainFact": "Il porto di Pozzuoli è stato riaperto dopo il terremoto ai Campi Flegrei.",
-        "whyItMatters": "ma restano chiusi il cimitero e il mercato ittico con danni alla copertura.",
-        "confirmedFacts": [
-          "Il porto di Pozzuoli è stato riaperto dopo il terremoto ai Campi Flegrei.",
-          "ma restano chiusi il cimitero e il mercato ittico con danni alla copertura.",
-          "Lo sciame sismico iniziato venerdì alle 19. 46, con il terremoto 4. 7 (il più forte degli ultimi 40 anni nell'area del bradisismo), concede dunque un po' di respiro dopo il parossismo delle prime ore, con oltre 170 scosse rilevate fino alle 14 di ieri, sabato.",
-          "Appare destinato ad aggravarsi il bilancio dei danni che l'emergenza bradisismica, acuita dalla forte scossa registrata l'altra sera, sta causando al commercio locale.",
-          "Ottantotto persone (di cui 17 minori) sono accolte attualmente presso il Palatrincone di Pozzuoli, mentre le restanti hanno trovato autonoma sistemazione.",
-          "Le corse della ferrovia, importante collegamento tra Napoli e i comuni flegrei, dovranno dunque fermarsi a Bagnoli: il resto della linea sarà coperto da autobus sostitutivi, con partenze da Bagnoli e Torregaveta, in media ogni 25-30 minuti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Pozzuoli",
-          "Campi Flegrei",
-          "Palatrincone"
-        ],
-        "numbersAndDates": [
-          "Lo sciame sismico iniziato venerdì alle 19. 46, con il terremoto 4. 7 (il più forte degli ultimi 40 anni nell'area del bradisismo), concede dunque un po' di respiro dopo il parossismo delle prime ore, con oltre 170 scosse rilevate fino alle 14 di ieri, sabato.",
-          "Ottantotto persone (di cui 17 minori) sono accolte attualmente presso il Palatrincone di Pozzuoli, mentre le restanti hanno trovato autonoma sistemazione.",
-          "Le corse della ferrovia, importante collegamento tra Napoli e i comuni flegrei, dovranno dunque fermarsi a Bagnoli: il resto della linea sarà coperto da autobus sostitutivi, con partenze da Bagnoli e Torregaveta, in media ogni 25-30 minuti."
-        ]
-      }
-    },
-    {
-      "id": "story-4dd9b636a2bfc14f",
-      "title": "Clinica oncologica Ospedale Ancona, nuovo sequenziatore per test genetici",
-      "summary": "La professoressa Berardi: \"Tempi di refertazione ridotti e testeremo più pazienti\"",
-      "spokenText": "La clinica oncologica dell’Ospedale di Ancona ha acquisito un nuovo sequenziatore per test genetici, uno strumento che promette di accelerare in modo significativo il percorso diagnostico. La professoressa Berardi: \"Tempi di refertazione ridotti e testeremo più pazienti\".",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "clinica oncologica ospedale ancona",
-        "professoressa berardi"
+        "danubio",
+        "ungheria",
+        "serbia",
+        "budapest"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 15,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/08/02/clinica-oncologica-ospedale-ancona-nuovo-sequenziatore-per-test-genetici_3c89bc71-5426-49de-b58d-ff5bbb9b44c4.html"
-      },
-      "analysis": {
-        "mainFact": "La clinica oncologica dell'Ospedale di Ancona ha acquisito un nuovo sequenziatore per test genetici.",
-        "whyItMatters": "La professoressa Berardi: \"Tempi di refertazione ridotti e testeremo più pazienti\"",
-        "confirmedFacts": [
-          "La clinica oncologica dell'Ospedale di Ancona ha acquisito un nuovo sequenziatore per test genetici.",
-          "La professoressa Berardi: \"Tempi di refertazione ridotti e testeremo più pazienti\""
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Clinica oncologica Ospedale Ancona",
-          "professoressa Berardi"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-bb58c2a0f68abda2",
-      "title": "Trump: 'Ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
-      "summary": "Il presidente Usa: 'Ora rapido accordo su Hormuz e stop minaccia nucleare'",
-      "spokenText": "In base a questa richiesta, ha affermato Trump, ho accettato, per il bene del futuro del mondo e per la sopravvivenza di un Iran prospero e di successo, di annullare l'attacco, a patto che si arrivi rapidamente a un accordo. L'intesa, secondo il presidente americano, dovrà riguardare la totale apertura dello Stretto di Hormuz e la fine della minaccia nucleare iraniana. Fonti dei media iraniani hanno però respinto la ricostruzione: l'agenzia Mehr ha definito una menzogna l'affermazione che Teheran abbia chiesto a Trump di non attaccare. Sul piano diplomatico e militare, l'amministrazione statunitense starebbe intanto valutando opzioni di attacco per le prossime due settimane. Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "donald trump",
-        "iran",
-        "stretto di hormuz"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 49,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_9627b960-bbbb-43e9-891a-e77a10e8b09e.html"
-      },
-      "analysis": {
-        "mainFact": "Il presidente USA Donald Trump ha dichiarato di aver ritirato l'attacco contro l'Iran su richiesta di Teheran e di altri Paesi del Medio Oriente.",
-        "whyItMatters": "Il presidente americano Donald Trump ha detto di aver \"accettato di ritirare l'attacco\" sull'Iran su richiesta di Teheran \"e di altri Paesi del Medio Oriente\" a patto che si arrivi \"ad un rapido accordo\" sulla \"totale apertura dello Stretto di Hormuz e sulla fine della minaccia nucleare da parte dell'Iran\". E sulla fine della minaccia nucleare iraniana.",
-        "confirmedFacts": [
-          "Il presidente USA Donald Trump ha dichiarato di aver ritirato l'attacco contro l'Iran su richiesta di Teheran e di altri Paesi del Medio Oriente.",
-          "Il presidente americano Donald Trump ha detto di aver \"accettato di ritirare l'attacco\" sull'Iran su richiesta di Teheran \"e di altri Paesi del Medio Oriente\" a patto che si arrivi \"ad un rapido accordo\" sulla \"totale apertura dello Stretto di Hormuz e sulla fine della minaccia nucleare da parte dell'Iran\". E sulla fine della minaccia nucleare iraniana.",
-          "In base a questa richiesta, ho accettato, per il bene del futuro del mondo e, allo stesso modo, per la sopravvivenza di un Iran prospero e di successo, di annullare l'attacco, a patto che si arrivi rapidamente a un accordo.",
-          "Media Iran: 'Una menzogna che Teheran abbia chiesto a Trump di non attaccare' L'agenzia iraniana Mehr ha definito una \"menzogna\" l'affermazione del presidente Usa Donald Trump, secondo il quale è stata Teheran, insieme \"ad altri Paesi del Medio Oriente\", a chiedergli di rinunciare a nuovi attacchi contro l'Iran.",
-          "Trump: “Ritiro l'attacco per il bene del mondo, ma subito un accordo”",
-          "Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi.",
-          "«Stop raid su richiesta iraniana, ora accordo».",
-          "Il passo indietro del presidente Usa: “L’hanno chiesto l’Iran e gli altri Paesi del Medio Oriente”."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Donald Trump",
-          "Iran",
-          "Stretto di Hormuz"
-        ],
-        "numbersAndDates": [
-          "Trump valuta opzioni di attacco per le prossime due settimane Mar Rosso, i sauditi chiamano 43 Paesi."
-        ]
-      }
-    },
-    {
-      "id": "story-6e4f2ae63e6e1d89",
-      "title": "La NASA ha aperto il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research",
-      "summary": "La NASA ha aperto il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia. Ci offre una potente nuova piattaforma per testare le idee. Le tecnologie che daranno forma al futuro dell'aviazione. Dell'esplorazione\", ha dichiarato l'amministratore della NASA Jared Isaacman.",
-      "spokenText": "La NASA ha inaugurato al Langley Research Center in Virginia il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in oltre quarant'anni. L'amministratore della NASA Jared Isaacman ha spiegato che questa struttura offre una potente piattaforma per testare le idee e le tecnologie che daranno forma al futuro dell'aviazione e dell'esplorazione. La camera di prova ha un diametro di venti piedi, molto più grande dei suoi predecessori, il che permette a più aria di fluire attorno ai modelli e migliora sensibilmente l'accuratezza dei dati raccolti. Inoltre, la velocità massima dell'aria raggiunge le centodiciassette miglia orarie, il doppio rispetto alle vecchie gallerie, consentendo per la prima volta test di volo libero con modelli in scala molto più pesanti.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "flight dynamics research facility",
-        "langley research center",
-        "hampton",
-        "virginia"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 49,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/"
-      },
-      "analysis": {
-        "mainFact": "La NASA ha aperto il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia.",
-        "whyItMatters": "\"Il Flight Dynamics Research Facility è la prima nuova grande galleria del vento della NASA in più di 40 anni e ci offre una potente nuova piattaforma per testare le idee e le tecnologie che daranno forma al futuro dell'aviazione e dell'esplorazione\", ha dichiarato l'amministratore della NASA Jared Isaacman.",
-        "confirmedFacts": [
-          "La NASA ha aperto il Flight Dynamics Research Facility, la sua prima nuova grande galleria del vento in più di 40 anni, presso il Langley Research Center in Virginia.",
-          "\"Il Flight Dynamics Research Facility è la prima nuova grande galleria del vento della NASA in più di 40 anni e ci offre una potente nuova piattaforma per testare le idee e le tecnologie che daranno forma al futuro dell'aviazione e dell'esplorazione\", ha dichiarato l'amministratore della NASA Jared Isaacman.",
-          "La camera di prova di 20 piedi di diametro della struttura è molto più grande di quelle dei suoi predecessori al Langley della NASA, consentendo a più aria di passare attorno ai modelli di prova e migliorando l'accuratezza dei dati.",
-          "La velocità massima dell'aria del Flight Dynamics Research Facility di 117 miglia orarie è due volte più veloce delle vecchie strutture, consentendo test di volo libero di modelli in scala più pesanti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Flight Dynamics Research Facility",
-          "Langley Research Center",
-          "Hampton",
-          "Virginia"
-        ],
-        "numbersAndDates": [
-          "La camera di prova di 20 piedi di diametro della struttura è molto più grande di quelle dei suoi predecessori al Langley della NASA, consentendo a più aria di passare attorno ai modelli di prova e migliorando l'accuratezza dei dati.",
-          "La velocità massima dell'aria del Flight Dynamics Research Facility di 117 miglia orarie è due volte più veloce delle vecchie strutture, consentendo test di volo libero di modelli in scala più pesanti.",
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-ed5e723fc5ad3268",
-      "title": "Cambia tutto sul digitale terrestre: la nuova numerazione a inizio agosto",
-      "summary": "Con l'inizio di agosto cambia tutto: scopri la nuova numerazione LCN nazionale dei canali del digitale terrestre e ottienila anche tu.",
-      "spokenText": "Con l’inizio di agosto il digitale terrestre ha aggiornato la sua numerazione LCN nazionale, un intervento che tocca l’ordine dei canali che milioni di persone consultano ogni giorno. Anche in piena estate, quindi, il digitale terrestre non si ferma e continua a modificare la geografia dei canali che compongono il panorama audiovisivo italiano.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "digitale terrestre",
-        "lcn"
-      ],
-      "importance": 62,
-      "mustInclude": true,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/cambia-tutto-sul-digitale-terrestre-la-nuova-numerazione-a-inizio-agosto/"
-      },
-      "analysis": {
-        "mainFact": "A inizio agosto è stata aggiornata la numerazione LCN nazionale dei canali del digitale terrestre.",
-        "whyItMatters": "La piattaforma digitale terrestre è in continuo divenire e anche con l’inizio di agosto è stata aggiornata la Numerazione LCN Nazionale dei Canali .",
-        "confirmedFacts": [
-          "A inizio agosto è stata aggiornata la numerazione LCN nazionale dei canali del digitale terrestre.",
-          "La piattaforma digitale terrestre è in continuo divenire e anche con l’inizio di agosto è stata aggiornata la Numerazione LCN Nazionale dei Canali .",
-          "Cambia tutto sul digitale terrestre: la nuova numerazione a inizio agosto Con l'inizio di agosto cambia tutto: scopri la nuova numerazione LCN nazionale dei canali del digitale terrestre e ottienila anche tu."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "digitale terrestre",
-          "LCN"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-44a19baa42b7212c",
-      "title": "Fra misteri e tragedie, il millenario rompicapo delle Linee di Nazca",
-      "summary": "L’area archeologica, dichiarata patrimonio dell’umanità dall’Unesco, è meta ogni anno di decine di migliaia di turisti. Ma solo dal 2010 in zona ci sono stati almeno 13 incidenti aerei legati al maltempo o a guasti meccanici",
-      "spokenText": "Le Linee di Nazca, quel patrimonio Unesco che ogni anno attira decine di migliaia di visitatori, raccontano una storia millenaria: a tracciarle con precisione, spostando le pietre scure del deserto per far emergere il terreno chiaro, fu la civiltà precolombiana dei Nazca, vissuta tra il 300 a. C. Dal 2010 a oggi, si sono verificati almeno tredici gravissimi incidenti aerei durante i sorvoli turistici. Molti sono stati legati al maltempo, in una zona nota per i forti venti e le turbolenze improvvise sopra il deserto, tanto che le allerte meteo – come quella dichiarata due giorni fa per l’intera area – vengono generalmente rispettate con scrupolo. Tuttavia, le autorità hanno accertato che almeno cinque di questi incidenti sono stati causati da guasti meccanici e avarie sui velivoli delle compagnie che operano nella regione.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "linee di nazca",
-        "unesco",
-        "civilta precolombiana dei nazca"
-      ],
-      "importance": 62,
-      "mustInclude": true,
-      "estimatedSeconds": 54,
+      "estimatedSeconds": 14,
       "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/02/news/linee_nazca_peru_misteri_tragedie_millenario_rompicapo-425507756/"
+        "url": "https://www.repubblica.it/esteri/2026/08/03/news/riscaldamento_climatico_danubio_in_secca_europa_senza_acqua_oltre_40_gradi_ungheria_chiusa_centrale_nucleare-425508872/"
       },
       "analysis": {
-        "mainFact": "L'area archeologica delle Linee di Nazca, patrimonio Unesco, è meta di decine di migliaia di turisti ogni anno, ma dal 2010 si sono verificati almeno 13 incidenti aerei legati a maltempo o guasti meccanici.",
-        "whyItMatters": "L'area di Nazca è nota per i forti venti e le turbolenze che possono manifestarsi improvvisamente sopra il deserto, per questo le allerte meteo – come quella dichiarata due giorni fa per l’intera zona – generalmente vengono rispettate scrupolosamente.",
+        "mainFact": "A Budapest si ferma per la prima volta in 44 anni l'impianto atomico che produce il 40% dell'elettricità nazionale.",
+        "whyItMatters": "Siccità del Danubio ferma centrale nucleare in Ungheria e riduce idroelettrico. Conseguenze energetiche e climatiche sistemiche.",
         "confirmedFacts": [
-          "L'area archeologica delle Linee di Nazca, patrimonio Unesco, è meta di decine di migliaia di turisti ogni anno, ma dal 2010 si sono verificati almeno 13 incidenti aerei legati a maltempo o guasti meccanici.",
-          "L'area di Nazca è nota per i forti venti e le turbolenze che possono manifestarsi improvvisamente sopra il deserto, per questo le allerte meteo – come quella dichiarata due giorni fa per l’intera zona – generalmente vengono rispettate scrupolosamente.",
-          "Dal 2010 a oggi, sono stati registrati almeno tredici gravissimi incidenti .",
-          "Molti legati al maltempo, ma almeno cinque – hanno accertato le autorità – sono stati causati da guasti meccanici e avarie sui velivoli delle compagnie che sorvolano l’area.",
-          "la scoperta dal drone La civiltà precolombiana A tracciarli con tanta precisione e perizia, spostando le pietre scure del deserto per far emergere il terreno di sotto assai più chiaro, è stata la civiltà precolombiana dei Nazca, vissuta nella zona tra il a il 300 a. C. Ed il 500 d."
+          "A Budapest si ferma per la prima volta in 44 anni l'impianto atomico che produce il 40% dell'elettricità nazionale.",
+          "Siccità del Danubio ferma centrale nucleare in Ungheria e riduce idroelettrico. Conseguenze energetiche e climatiche sistemiche.",
+          "E dal letto del fiume riemergono anche i relitti delle navi naziste affondate nel 1944"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Linee di Nazca",
-          "Unesco",
-          "civiltà precolombiana dei Nazca"
+          "Danubio",
+          "Ungheria",
+          "Serbia",
+          "Budapest"
         ],
         "numbersAndDates": [
-          "Dal 2010 a oggi, sono stati registrati almeno tredici gravissimi incidenti .",
-          "la scoperta dal drone La civiltà precolombiana A tracciarli con tanta precisione e perizia, spostando le pietre scure del deserto per far emergere il terreno di sotto assai più chiaro, è stata la civiltà precolombiana dei Nazca, vissuta nella zona tra il a il 300 a. C. Ed il 500 d.",
-          "2010",
-          "13"
-        ]
-      }
-    },
-    {
-      "id": "story-3c166fb2086e75c1",
-      "title": "Da Trump a Vannacci: l’ascesa della Slopaganda di estrema destra",
-      "summary": "Dal caso \"Robertus Vannaccius\" all'estrema destra globale: cos'è la Slopaganda, come funziona l'IA generativa nei social e perché sta cambiando la propaganda politica.",
-      "spokenText": "L'ascesa della cosiddetta 'Slopaganda' sta cambiando il volto della propaganda politica sui social. La Slopaganda rappresenta un'evoluzione della propaganda digitale.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "trump",
-        "vannacci",
-        "estrema destra",
-        "ia generativa"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/slopaganda-vannacci-ia-propaganda-trump/"
-      },
-      "analysis": {
-        "mainFact": "L'ascesa della Slopaganda di estrema destra, da Trump a Vannacci, mostra come l'IA generativa stia cambiando la propaganda politica sui social.",
-        "whyItMatters": "Analisi propaganda IA dell'estrema destra: tema diritti e tecnologia, rilevante per comprendere manipolazione informativa.",
-        "confirmedFacts": [
-          "L'ascesa della Slopaganda di estrema destra, da Trump a Vannacci, mostra come l'IA generativa stia cambiando la propaganda politica sui social.",
-          "Analisi propaganda IA dell'estrema destra: tema diritti e tecnologia, rilevante per comprendere manipolazione informativa.",
-          "Dal caso \"Robertus Vannaccius\" all'estrema destra globale: cos'è la Slopaganda, come funziona l'IA generativa nei social e perché sta cambiando la propaganda politica."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Trump",
-          "Vannacci",
-          "estrema destra",
-          "IA generativa"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-fc69ea3b5b682ace",
-      "title": "È morto Mattia Maestri, il bimbo in coma che mangiò formaggio a latte crudo",
-      "summary": "Il padre aveva fondato un'associazione per sensibilizzare sul tema",
-      "spokenText": "È morto a tredici anni Mattia Maestri, il bambino di Coredo, in Trentino, che dal 2017 versava in uno stato vegetativo permanente. In questi anni il padre di Mattia aveva fondato un'associazione di consumatori dedicata ai rischi connessi ai prodotti alimentari intrinsecamente pericolosi, trasformando il proprio dramma familiare in un impegno concreto per la sensibilizzazione pubblica.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "mattia maestri",
-        "coredo",
-        "trentino",
-        "escherichia coli"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/e-morto-mattia-maestri-il-bimbo-in-coma-che-mangio-formaggio-a-latte-crudo_0b92c19b-89df-4184-8f94-d3ab5ab152ab.html"
-      },
-      "analysis": {
-        "mainFact": "È morto a 13 anni Mattia Maestri, il bambino di Coredo in Trentino che dal 2017 era in stato vegetativo permanente dopo aver consumato formaggio a latte crudo contaminato da Escherichia coli.",
-        "whyItMatters": "Il padre aveva fondato un'associazione per sensibilizzare sul tema",
-        "confirmedFacts": [
-          "È morto a 13 anni Mattia Maestri, il bambino di Coredo in Trentino che dal 2017 era in stato vegetativo permanente dopo aver consumato formaggio a latte crudo contaminato da Escherichia coli.",
-          "Il padre aveva fondato un'associazione per sensibilizzare sul tema",
-          "È morto Mattia Maestri, il bimbo di Coredo in Trentino, che dal 2017 versava in uno stato vegetativo permanente, dopo avere consumato formaggio lavorato con latte crudo contaminato dal batterio dell'Escherichia coli."
-        ],
-        "uncertainties": [
-          "Il padre aveva anche fondato un'associazione di consumatori dedicata ai \"rischi connessi ai prodotti alimentari intrinsecamente pericolosi\"."
-        ],
-        "peopleAndOrganizations": [
-          "Mattia Maestri",
-          "Coredo",
-          "Trentino",
-          "Escherichia coli"
-        ],
-        "numbersAndDates": [
-          "È morto Mattia Maestri, il bimbo di Coredo in Trentino, che dal 2017 versava in uno stato vegetativo permanente, dopo avere consumato formaggio lavorato con latte crudo contaminato dal batterio dell'Escherichia coli.",
-          "13",
-          "2017"
-        ]
-      }
-    },
-    {
-      "id": "story-bc4458a6447222c7",
-      "title": "Una fettuccia composta da 60% Kevlar® e 40% polibenzimidazolo (PBI) di Sturges Manufacturing, nella versione naturale, ha superato il test di",
-      "summary": "Una fettuccia composta da 60% Kevlar® e 40% polibenzimidazolo (PBI) di Sturges Manufacturing, nella versione naturale, ha superato il test di infiammabilità NASA-STD-6001B Test 1 a 37% di ossigeno e 8,2 psia.",
-      "spokenText": "Una fettuccia composita prodotta da Sturges Manufacturing ha superato il test di infiammabilità NASA-STD-6001B Test 1, condotto presso il White Sands Test Facility. Il materiale, costituito per il 60% da Kevlar® e per il 40% da polibenzimidazolo, nella sua versione naturale, ha dimostrato di resistere in un’atmosfera con una concentrazione di ossigeno pari al 37% e a una pressione di 8,2 psia.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "sturges manufacturing company inc",
-        "white sands test facility"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 25,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/"
-      },
-      "analysis": {
-        "mainFact": "Una fettuccia composta da 60% Kevlar® e 40% polibenzimidazolo (PBI) di Sturges Manufacturing, nella versione naturale, ha superato il test di infiammabilità NASA-STD-6001B Test 1 a 37% di ossigeno e 8,2 psia.",
-        "whyItMatters": "Ricerca NASA su materiali ignifughi per missioni lunari e marziane. Alto valore per appassionati di spazio e tecnologia.",
-        "confirmedFacts": [
-          "Una fettuccia composta da 60% Kevlar® e 40% polibenzimidazolo (PBI) di Sturges Manufacturing, nella versione naturale, ha superato il test di infiammabilità NASA-STD-6001B Test 1 a 37% di ossigeno e 8,2 psia.",
-          "Ricerca NASA su materiali ignifughi per missioni lunari e marziane. Alto valore per appassionati di spazio e tecnologia.",
-          "Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a surface ignition in J-configuration at 37% oxygen and 8.2 psia.",
-          "In this study, materials are being evaluated for use at 37% oxygen and 8.2 psia.",
-          "Test Methods/Data Collection NASA-STD-6001B Test 1 was performed on the webbing candidates at White Sands Test Facility (WSTF) to determine the maximum oxygen concentration (MOC) at a pressure of 8.2 psia.",
-          "One-inch-width natural and black webbings, composed of 60% Kevlar and 40% PBI produced by Sturges Manufacturing (see Figure 1), were tested.",
-          "Analysis and Results Table 1 summarizes the webbing properties and test results.",
-          "The webbings had MOCs of 37% and 35% oxygen for the natural and black webbing, respectively, at 8.2 psia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Sturges Manufacturing Company, Inc.",
-          "White Sands Test Facility"
-        ],
-        "numbersAndDates": [
-          "60",
-          "40",
-          "1",
-          "37",
-          "8,2"
-        ]
-      }
-    },
-    {
-      "id": "story-41e52cee26b13618",
-      "title": "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza",
-      "summary": "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza. Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi.",
-      "spokenText": "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza. Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi. Hamas è stato lanciato nel 1987 con il duplice obiettivo di resistere all'occupazione israeliana e sfidare il dominio del partito Fatah nella politica palestinese. Hamas ha detto che 'respinge ogni tentativo di minare la resistenza e le sue armi'.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "hamas",
-        "gaza"
-      ],
-      "importance": 65,
-      "mustInclude": true,
-      "estimatedSeconds": 31,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/trump-is-hailing-it-as-a-breakthrough-but-will-hamas-actually-disarm-in-gaza-288805"
-      },
-      "analysis": {
-        "mainFact": "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza.",
-        "whyItMatters": "Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi.",
-        "confirmedFacts": [
-          "Trump ha annunciato che Hamas ha acconsentito al disarmo, definendolo un passo critico per la pace e la sicurezza a Gaza.",
-          "Questo includerebbe la sua rete di tunnel, armi pesanti, strutture di produzione e depositi di armi.",
-          "Hamas è stato lanciato nel 1987 con il duplice obiettivo di resistere all'occupazione israeliana e sfidare il dominio del partito Fatah nella politica palestinese.",
-          "Hamas ha detto che 'respinge ogni tentativo di minare la resistenza e le sue armi'."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Hamas",
-          "Gaza"
-        ],
-        "numbersAndDates": [
-          "Hamas è stato lanciato nel 1987 con il duplice obiettivo di resistere all'occupazione israeliana e sfidare il dominio del partito Fatah nella politica palestinese.",
-          "Hamas ha detto che 'respinge ogni tentativo di minare la resistenza e le sue armi'."
-        ]
-      }
-    },
-    {
-      "id": "story-8dbfdfe81d78a020",
-      "title": "Un'alga a strisce rosa, avvistata per la prima volta 40 anni fa da Christine Maggs, entrerà nella collezione del Natural History Museum",
-      "summary": "Un'alga a strisce rosa, avvistata per la prima volta 40 anni fa da Christine Maggs, entrerà nella collezione del Natural History Museum. E 40 anni fa, mentre studiava uno di questi letti per il suo dottorato, la Prof. ssa Christine Maggs trovò un frammento di alga a strisce rosa che viveva su maerl che non aveva mai visto prima.",
-      "spokenText": "Immaginate di immergervi nelle fredde acque britanniche del 1982, in una muta stagna fatta in casa. È esattamente quello che faceva Christine Maggs durante il suo dottorato, con il supervisore Mike Guiry al fianco, mentre setacciava i fondali di maerl. In una di quelle esplorazioni, la professoressa Maggs notò un frammento di alga a strisce rosa che non aveva mai visto prima. Il biologo marino Francis Bunker, che collaborava a quella stessa ricerca, continuò a trovarlo in tutti i campioni raccolti. Oggi, a quarant'anni di distanza da quel primo avvistamento, quell'alga a strisce rosa sta per entrare ufficialmente nella collezione del Natural History Museum.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "christine maggs",
-        "francis bunker"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 42,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Un'alga a strisce rosa, avvistata per la prima volta 40 anni fa da Christine Maggs, entrerà nella collezione del Natural History Museum.",
-        "whyItMatters": "E 40 anni fa, mentre studiava uno di questi letti per il suo dottorato, la Prof. ssa Christine Maggs trovò un frammento di alga a strisce rosa che viveva su maerl che non aveva mai visto prima.",
-        "confirmedFacts": [
-          "Un'alga a strisce rosa, avvistata per la prima volta 40 anni fa da Christine Maggs, entrerà nella collezione del Natural History Museum.",
-          "E 40 anni fa, mentre studiava uno di questi letti per il suo dottorato, la Prof. ssa Christine Maggs trovò un frammento di alga a strisce rosa che viveva su maerl che non aveva mai visto prima.",
-          "Christine Maggs nel 1982 in una muta stagna fatta in casa con il suo supervisore di dottorato Mike Guiry accanto a lei Francis Bunker, un biologo marino freelance e indipendente, continuava a trovare la minuscola alga nei campioni che aveva raccolto in quell'indagine."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Christine Maggs",
-          "Francis Bunker"
-        ],
-        "numbersAndDates": [
-          "Christine Maggs nel 1982 in una muta stagna fatta in casa con il suo supervisore di dottorato Mike Guiry accanto a lei Francis Bunker, un biologo marino freelance e indipendente, continuava a trovare la minuscola alga nei campioni che aveva raccolto in quell'indagine.",
+          "E dal letto del fiume riemergono anche i relitti delle navi naziste affondate nel 1944",
+          "44",
           "40"
-        ]
-      }
-    },
-    {
-      "id": "story-63f3d35735eeb0c2",
-      "title": "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa del 30 luglio, nella più grande crisi migratoria mai registrata nell'enclave spagnola",
-      "summary": "Prosegue il rientro verso il Marocco dei migranti entrati in massa lo scorso 30 luglio a Ceuta nella maggiore crisi migratoria finora registrata nella città autonoma. Secondo fonti delle forze...",
-      "spokenText": "Oltre 73mila migranti hanno già lasciato Ceuta per fare ritorno in Marocco dopo gli arrivi in massa del 30 luglio, nella più grande crisi migratoria mai registrata nell'enclave spagnola. Secondo fonti delle forze di sicurezza citate dall'agenzia Efe, il bilancio delle vittime nel tentativo di raggiungere a nuoto l'exclave è salito a 72. Intanto, almeno 1.149 migranti feriti sono stati sottoposti a cure sanitarie. Secondo le stime delle forze di sicurezza citate da Efe, il numero dei morti sale a 71.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "ceuta",
-        "marocco",
-        "efe"
-      ],
-      "importance": 50,
-      "mustInclude": true,
-      "estimatedSeconds": 33,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/oltre-73mila-migranti-rientrati-ceuta-marocco-AJGZoqc"
-      },
-      "analysis": {
-        "mainFact": "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa del 30 luglio, nella più grande crisi migratoria mai registrata nell'enclave spagnola.",
-        "whyItMatters": "Secondo le stime delle forze di sicurezza citate da Efe, il numero dei morti sale a 71",
-        "confirmedFacts": [
-          "Oltre 73mila migranti sono rientrati da Ceuta in Marocco dopo gli arrivi in massa del 30 luglio, nella più grande crisi migratoria mai registrata nell'enclave spagnola.",
-          "Secondo le stime delle forze di sicurezza citate da Efe, il numero dei morti sale a 71",
-          "Secondo fonti delle forze di sicurezza spagnole citate dall’agenzia Efe, sono circa 73.500 le persone che hanno ormai lasciato Ceuta per fare ritorno oltreconfine, mentre il bilancio delle vittime nel tentativo di raggiungere a nuoto l’exclave è salito a 72.",
-          "Tuttavia, il ministero dell’Interno non conferma queste cifre, lasciando fermo fra le 50.000 e le 60.000 persone il numero di migranti entrati a Ceuta dei quali oltre 48.300 avrebbero già fatto rientro.",
-          "Intanto, almeno 1.149 migranti feriti entrati nell’enclave sono stati sottoposti a cure sanitarie.",
-          "Secondo le stime delle forze di sicurezza, il numero dei morti sale a 72",
-          "Secondo fonti delle forze di sicurezza spagnole citate dall'agenzia Efe, sono circa 73.500 le persone che hanno ormai lasciato Ceuta per fare ritorno oltreconfine, mentre il bilancio delle vittime nel tentativo di raggiungere a nuoto l'exclave salito a 71."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Ceuta",
-          "Marocco",
-          "Efe"
-        ],
-        "numbersAndDates": [
-          "Secondo fonti delle forze di sicurezza spagnole citate dall’agenzia Efe, sono circa 73.500 le persone che hanno ormai lasciato Ceuta per fare ritorno oltreconfine, mentre il bilancio delle vittime nel tentativo di raggiungere a nuoto l’exclave è salito a 72.",
-          "Tuttavia, il ministero dell’Interno non conferma queste cifre, lasciando fermo fra le 50.000 e le 60.000 persone il numero di migranti entrati a Ceuta dei quali oltre 48.300 avrebbero già fatto rientro.",
-          "Intanto, almeno 1.149 migranti feriti entrati nell’enclave sono stati sottoposti a cure sanitarie.",
-          "Secondo le stime delle forze di sicurezza, il numero dei morti sale a 72",
-          "Secondo fonti delle forze di sicurezza spagnole citate dall'agenzia Efe, sono circa 73.500 le persone che hanno ormai lasciato Ceuta per fare ritorno oltreconfine, mentre il bilancio delle vittime nel tentativo di raggiungere a nuoto l'exclave salito a 71.",
-          "30",
-          "71"
-        ]
-      }
-    },
-    {
-      "id": "story-60c9aca73529b029",
-      "title": "L'Australia combina tecnologia moderna e conoscenze indigene per combattere gli incendi, come evidenziato dal Bushfire Research Centre of Excellence",
-      "summary": "L'Australia combina tecnologia moderna e conoscenze indigene per combattere gli incendi, come evidenziato dal Bushfire Research Centre of Excellence istituito dopo gli incendi della Black Summer 2019-20. Dirige il Bushfire Research Centre of Excellence, istituito all'indomani della peggiore stagione di incendi mai registrata in Australia: gli incendi della Black Summer del 2019-20, che hanno raso al suolo un'area complessiva grande quanto il Regno Unito.",
-      "spokenText": "L’Australia sta unendo tecnologia moderna e conoscenze indigene per affrontare la minaccia degli incendi boschivi. A guidare questo sforzo è il Bushfire Research Centre of Excellence, nato all’indomani della peggiore stagione di fuoco mai registrata nel paese: la Black Summer del 2019-20, quando le fiamme hanno raso al suolo un’area complessiva grande quanto l’intero Regno Unito.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "australia",
-        "bushfire research centre of excellence"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "L'Australia combina tecnologia moderna e conoscenze indigene per combattere gli incendi, come evidenziato dal Bushfire Research Centre of Excellence istituito dopo gli incendi della Black Summer 2019-20.",
-        "whyItMatters": "Dirige il Bushfire Research Centre of Excellence, istituito all'indomani della peggiore stagione di incendi mai registrata in Australia: gli incendi della Black Summer del 2019-20, che hanno raso al suolo un'area complessiva grande quanto il Regno Unito.",
-        "confirmedFacts": [
-          "L'Australia combina tecnologia moderna e conoscenze indigene per combattere gli incendi, come evidenziato dal Bushfire Research Centre of Excellence istituito dopo gli incendi della Black Summer 2019-20.",
-          "Dirige il Bushfire Research Centre of Excellence, istituito all'indomani della peggiore stagione di incendi mai registrata in Australia: gli incendi della Black Summer del 2019-20, che hanno raso al suolo un'area complessiva grande quanto il Regno Unito.",
-          "She heads up the Bushfire Research Centre of Excellence, which was set up in the aftermath of Australia's worst fire season on record: the Black Summer fires of 2019-20 , which razed a combined area about the size of the UK."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Australia",
-          "Bushfire Research Centre of Excellence"
-        ],
-        "numbersAndDates": [
-          "2019",
-          "20"
         ]
       }
     }
