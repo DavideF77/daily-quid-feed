@@ -1,614 +1,627 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-03-c6f1abcb399e",
-  "generatedAt": "2026-08-03T14:01:15.620Z",
+  "catalogId": "daily-quid-2026-08-06-c4515eac4543",
+  "generatedAt": "2026-08-06T12:25:40.003Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-3540151b484ac7da",
-      "title": "Francia e Grecia ancora assediate dal fuoco",
-      "summary": "Francia e Grecia ancora assediate dal fuoco",
-      "spokenText": "Sul Carso triestino, l'incendio divampato ieri è ancora attivo dopo 24 ore, ma i vigili del fuoco lo tengono sotto controllo con mezzi terrestri ed elicotteri. Dal 21 luglio, nella zona, le fiamme hanno colpito 70 abitazioni, 41 delle quali completamente distrutte. Intanto, si registra un netto miglioramento in Gironda, nel sud-ovest, teatro nei giorni scorsi del più vasto incendio in Francia dal 1949. E in Grecia, un grave incidente ha coinvolto due elicotteri Bell impegnati nello spegnimento di un rogo a circa 65 chilometri a ovest di Atene: un video mostra uno dei velivoli colpire i rotori dell'altro, che prende fuoco e precipita in un burrone. Oltralpe, ad essere assediata dal fuoco e soprattutto il dipartimento del Var , a sud, nella regione di Provence-Alpes-Cote d’Azur, con oltre 1.500 vigili del fuoco schierati nella lotta al fuoco.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "francia",
-        "grecia",
-        "italia",
-        "var",
-        "gironda",
-        "alessandrino",
-        "valchiavenna",
-        "carso",
-        "atene"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 56,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/francia-e-grecia-ancora-assediate-fuoco-AJPecWd"
-      },
-      "analysis": {
-        "mainFact": "Francia e Grecia ancora assediate dal fuoco",
-        "whyItMatters": "Incendi in Francia, Grecia e Italia, emergenza ambientale con impatti concreti e sistemici.",
-        "confirmedFacts": [
-          "Francia e Grecia ancora assediate dal fuoco",
-          "Incendi in Francia, Grecia e Italia, emergenza ambientale con impatti concreti e sistemici.",
-          "Oltralpe, ad essere assediata dal fuoco e soprattutto il dipartimento del Var , a sud, nella regione di Provence-Alpes-Cote d’Azur, con oltre 1.500 vigili del fuoco schierati nella lotta al fuoco.",
-          "In totale, nella zona, sono 70 le case colpite dalle fiamme, di cui 41 interamente distrutte, dal 21 luglio.",
-          "Netto miglioramento della situazione in Gironda, l’altro dipartimento francese (nel sud-ovest), colpito nei giorni scorsi dal più importante incendio in Francia dal 1949.",
-          "Un video dell’incidente, avvenuto a circa 65 km a ovest di Atene, mostra uno dei due elicotteri Bell che colpisce i rotori dell’altro, il quale prende fuoco e precipita in un burrone.",
-          "L’incendio divampato ieri sul Carso triestino, al quale stanno operando mezzi terrestri ed elicotteri dei vigili del fuoco, a distanza di 24 ore è ancora attivo ma viene tenuto sotto controllo dai pompieri."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Francia",
-          "Grecia",
-          "Italia",
-          "Var",
-          "Gironda",
-          "Alessandrino",
-          "Valchiavenna",
-          "Carso",
-          "Atene"
-        ],
-        "numbersAndDates": [
-          "Oltralpe, ad essere assediata dal fuoco e soprattutto il dipartimento del Var , a sud, nella regione di Provence-Alpes-Cote d’Azur, con oltre 1.500 vigili del fuoco schierati nella lotta al fuoco.",
-          "In totale, nella zona, sono 70 le case colpite dalle fiamme, di cui 41 interamente distrutte, dal 21 luglio.",
-          "Netto miglioramento della situazione in Gironda, l’altro dipartimento francese (nel sud-ovest), colpito nei giorni scorsi dal più importante incendio in Francia dal 1949.",
-          "Un video dell’incidente, avvenuto a circa 65 km a ovest di Atene, mostra uno dei due elicotteri Bell che colpisce i rotori dell’altro, il quale prende fuoco e precipita in un burrone.",
-          "L’incendio divampato ieri sul Carso triestino, al quale stanno operando mezzi terrestri ed elicotteri dei vigili del fuoco, a distanza di 24 ore è ancora attivo ma viene tenuto sotto controllo dai pompieri."
-        ]
-      }
-    },
-    {
-      "id": "story-8741ffe4c3dc0817",
-      "title": "Giacarta, la città al limite: viaggio nella megalopoli che sta sprofondando",
-      "summary": "Con i suoi 42 milioni di abitanti, la capitale dell'Indonesia è la più popolosa del mondo. Ma allo stesso tempo è paralizzata dall'inquinamento e i suoi cittadini convivono ogni giorno con sovraffollamento e traffico",
-      "spokenText": "Giacarta, la capitale dell'Indonesia, è oggi la città più popolosa del pianeta: 42 milioni di persone vivono nell'area metropolitana. Ma allo stesso tempo è paralizzata dall'inquinamento e i suoi cittadini convivono ogni giorno con sovraffollamento e traffico.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "giacarta",
-        "indonesia"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 15,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/dossier/lena/2026/08/03/news/viaggio_a_giacarta_la_citta_al_limite_che_esplode_e_sprofonda-425508391/"
-      },
-      "analysis": {
-        "mainFact": "Giacarta, con i suoi 42 milioni di abitanti, è la città più popolosa del mondo ma è paralizzata dall'inquinamento e i cittadini convivono con sovraffollamento e traffico.",
-        "whyItMatters": "Ma allo stesso tempo è paralizzata dall'inquinamento e i suoi cittadini convivono ogni giorno con sovraffollamento e traffico",
-        "confirmedFacts": [
-          "Giacarta, con i suoi 42 milioni di abitanti, è la città più popolosa del mondo ma è paralizzata dall'inquinamento e i cittadini convivono con sovraffollamento e traffico.",
-          "Ma allo stesso tempo è paralizzata dall'inquinamento e i suoi cittadini convivono ogni giorno con sovraffollamento e traffico",
-          "Con i suoi 42 milioni di abitanti, la capitale dell'Indonesia è la più popolosa del mondo."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Giacarta",
-          "Indonesia"
-        ],
-        "numbersAndDates": [
-          "42"
-        ]
-      }
-    },
-    {
-      "id": "story-6c5ac3b4ccbab709",
-      "title": "Sarcomi, scoperto un meccanismo che li rende resistenti alle terapie",
-      "summary": "Studio Cro di Aviano pubblicato su Journal of experimental and clinical cancer research",
-      "spokenText": "Un gruppo di ricercatori italiani ha messo a fuoco un meccanismo che spiega perché i sarcomi, tumori rari e aggressivi dei tessuti molli e delle ossa, riescono spesso a resistere alle terapie. Lo studio, condotto dal Cro di Aviano in collaborazione con l’Ospedale policlinico San Martino di Genova, è stato pubblicato sul Journal of experimental and clinical cancer research. L’indagine ha permesso di individuare in Twist1 un potenziale biomarcatore, cioè un segnale.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "cro di aviano",
-        "ospedale policlinico san martino di genova",
-        "journal of experimental and clinical cancer rese",
-        "twist1"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 29,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/08/03/sarcomi-scoperto-un-meccanismo-che-li-rende-resistenti-alle-terapie_6f59fe0d-813f-438c-b169-84ec8560e0e4.html"
-      },
-      "analysis": {
-        "mainFact": "Sarcomi, scoperto un meccanismo che li rende resistenti alle terapie",
-        "whyItMatters": "Studio Cro di Aviano pubblicato su Journal of experimental and clinical cancer research",
-        "confirmedFacts": [
-          "Sarcomi, scoperto un meccanismo che li rende resistenti alle terapie",
-          "Studio Cro di Aviano pubblicato su Journal of experimental and clinical cancer research",
-          "Lo studio, in collaborazione con l'Ospedale policlinico San Martino di Genova, stato pubblicato su Journal of experimental and clinical cancer research e indica nella proteina Twist1 un potenziale biomarcatore e un nuovo bersaglio terapeutico."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Cro di Aviano",
-          "Ospedale policlinico San Martino di Genova",
-          "Journal of experimental and clinical cancer research",
-          "Twist1"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-d39cd711cde750f9",
-      "title": "Guerra ultime notizie. Droni ucraini su spiaggia russa, Mosca: «Nato e Ue con i terroristi»",
-      "summary": "Continuano gli attacchi dell’esercito ucraino in territorio russo. È salito a sei morti, tra cui tre bambini, e a 40 feriti il bilancio di un bombardamento di droni ucraini di...",
-      "spokenText": "Un attacco di droni ucraini ha colpito una spiaggia a Gelendzhik, località turistica nel sud della Russia, provocando la morte di sei persone, tra cui tre bambini, e il ferimento di altre quaranta. Continuano gli attacchi dell’esercito ucraino in territorio russo. Mosca: «Nato e Ue con i terroristi». \"Una banda terrorista ha occupato l'apparato dello Stato ucraino e opera nel centro dell'Europa\", ha detto all'agenzia Tass la portavoce.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "russia",
-        "nato",
-        "gelendzhik"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 28,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-viceministro-esteri-russo-galuzin-pronti-negoziare-l-ucraina-AJcJEJd"
-      },
-      "analysis": {
-        "mainFact": "Un bombardamento di droni ucraini su una spiaggia a Gelendzhik, nel sud della Russia, ha causato sei morti, tra cui tre bambini, e 40 feriti.",
-        "whyItMatters": "Continuano gli attacchi dell’esercito ucraino in territorio russo.",
-        "confirmedFacts": [
-          "Un bombardamento di droni ucraini su una spiaggia a Gelendzhik, nel sud della Russia, ha causato sei morti, tra cui tre bambini, e 40 feriti.",
-          "Continuano gli attacchi dell’esercito ucraino in territorio russo.",
-          "Mosca: «Nato e Ue con i terroristi»",
-          "\"Una banda terrorista ha occupato l'apparato dello Stato ucraino e opera nel centro dell'Europa\", ha detto all'agenzia Tass la portavoce."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Russia",
-          "NATO",
-          "Gelendzhik"
-        ],
-        "numbersAndDates": [
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-35848ebeed58b6a9",
-      "title": "Von der Leyen a Sanchez, 'migrazione è sfida Ue, raddoppiare gli sforzi'",
-      "summary": "'Solidarietà è fondamentale, la Spagna può contare sulla Commissione'",
-      "spokenText": "Von der Leyen ha dichiarato a Sanchez che la migrazione è una sfida europea e che la Spagna può contare sul supporto della Commissione.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "von der leyen",
-        "sanchez",
-        "spagna"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 10,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/von-der-leyen-a-sanchez-migrazione-e-sfida-ue-raddoppiare-gli-sforzi_25644885-7683-4d37-bb04-0bb80d17f325.html"
-      },
-      "analysis": {
-        "mainFact": "Von der Leyen ha dichiarato a Sanchez che la migrazione è una sfida europea e che la Spagna può contare sul supporto della Commissione.",
-        "whyItMatters": "Scontro Italia-Spagna su migranti: alta importanza geopolitica, trend growing.",
-        "confirmedFacts": [
-          "Von der Leyen ha dichiarato a Sanchez che la migrazione è una sfida europea e che la Spagna può contare sul supporto della Commissione.",
-          "Scontro Italia-Spagna su migranti: alta importanza geopolitica, trend growing.",
-          "'Solidarietà è fondamentale, la Spagna può contare sulla Commissione'",
-          "\"La Spagna - aggiunge - può contare sul supporto della Commissione\"."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Von der Leyen",
-          "Sanchez",
-          "Spagna"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-02d733ae3bfdca26",
-      "title": "Ceuta, allarme bambini: sono migliaia i minori arrivati dal Marocco",
-      "summary": "Mille e cinquecento nei centri di accoglienza, altrettanti fuori tra i corpi che il mare restituisce anche quelli di piccoli schiacciati",
-      "spokenText": "Migliaia di minori sono arrivati a Ceuta dal Marocco. Ma il dato più drammatico è che un numero altrettanto elevato di minori resta fuori da qualsiasi circuito ufficiale di protezione. corpi senza vita, tra cui anche quelli di bambini e adolescenti schiacciati dalla violenza del viaggio.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "ceuta",
-        "marocco"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 19,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/03/news/ceuta_allarme_bambini_migliaia_minori_arrivati_da_marocco-425508497/"
-      },
-      "analysis": {
-        "mainFact": "Migliaia di minori sono arrivati a Ceuta dal Marocco.",
-        "whyItMatters": "Mille e cinquecento nei centri di accoglienza, altrettanti fuori tra i corpi che il mare restituisce anche quelli di piccoli schiacciati",
-        "confirmedFacts": [
-          "Migliaia di minori sono arrivati a Ceuta dal Marocco.",
-          "Mille e cinquecento nei centri di accoglienza, altrettanti fuori tra i corpi che il mare restituisce anche quelli di piccoli schiacciati"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Ceuta",
-          "Marocco"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-4becca3d5c024f17",
-      "title": "Meta, TikTok, Snap e YouTube affrontano una nuova causa legale negli Stati Uniti",
-      "summary": "L'accusa è di aver alimentato dipendenza digitale sfociata in suicidi di quattro minori",
-      "spokenText": "L'accusa è di aver alimentato dipendenza digitale sfociata in suicidi di quattro minori. TikTok, Snap e YouTube sono oggetto di un nuovo procedimento legale avviato dai familiari di quattro adolescenti, che sarebbero morti suicidi in circostanze collegate, per l'accusa dovute all'uso e alla sovraesposizione ai servizi telematici.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "meta",
-        "tiktok",
-        "snap",
-        "youtube",
-        "stati uniti"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 19,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/03/meta-tiktok-snap-e-youtube-affrontano-una-nuova-causa-legale-negli_49324e05-de94-4d14-b046-062bd4da03c1.html"
-      },
-      "analysis": {
-        "mainFact": "TikTok, Snap e YouTube affrontano una nuova causa legale negli Stati Uniti",
-        "whyItMatters": "L'accusa è di aver alimentato dipendenza digitale sfociata in suicidi di quattro minori",
-        "confirmedFacts": [
-          "TikTok, Snap e YouTube affrontano una nuova causa legale negli Stati Uniti",
-          "L'accusa è di aver alimentato dipendenza digitale sfociata in suicidi di quattro minori"
-        ],
-        "uncertainties": [
-          "TikTok, Snap e YouTube sono oggetto di un nuovo procedimento legale avviato dai familiari di quattro adolescenti, che sarebbero morti suicidi in circostanze collegate, per l'accusa dovute all'uso e alla sovraesposizione ai servizi telematici."
-        ],
-        "peopleAndOrganizations": [
-          "Meta",
-          "TikTok",
-          "Snap",
-          "YouTube",
-          "Stati Uniti"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-4f18e8652ed23055",
-      "title": "Ft: AstraZeneca tratta con Bristol Myers Squibb maxi fusione da 400 miliardi",
-      "summary": "La britannica AstraZeneca tratta la maxi fusione con la rivale Usa, Bristol Myers Squibb: l’operazione darebbe vita al quarto colosso al mondo di Big Pharma per capitalizzazione di mercato, a...",
-      "spokenText": "AstraZeneca sta trattando una maxi fusione con la rivale statunitense Bristol Myers Squibb. Al momento AstraZeneca, che è la seconda società quotata britannica per valore, capitalizza circa centonovantasei miliardi di sterline, equivalenti a duecentosessanta miliardi di dollari, mentre Bristol Myers Squibb si attesta a centotrentatré miliardi di dollari.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "astrazeneca",
-        "bristol myers squibb"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/ft-astrazeneca-tratta-bristol-myers-squibb-maxi-fusione-400-miliardi-AJibvHd"
-      },
-      "analysis": {
-        "mainFact": "AstraZeneca tratta la maxi fusione con la rivale statunitense Bristol Myers Squibb: l’operazione darebbe vita al quarto colosso mondiale di Big Pharma per capitalizzazione di mercato, a ridosso dei 400 miliardi di dollari.",
-        "whyItMatters": "Il gruppo anglo-americano salirebbe al quarto posto per capitalizzazione tra Big Pharma",
-        "confirmedFacts": [
-          "AstraZeneca tratta la maxi fusione con la rivale statunitense Bristol Myers Squibb: l’operazione darebbe vita al quarto colosso mondiale di Big Pharma per capitalizzazione di mercato, a ridosso dei 400 miliardi di dollari.",
-          "Il gruppo anglo-americano salirebbe al quarto posto per capitalizzazione tra Big Pharma",
-          "AstraZeneca , la seconda società quotata britannica per valore, capitalizza 196 miliardi di sterline (260 miliardi di dollari), mentre Bms 133 miliardi di dollari."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "AstraZeneca",
-          "Bristol Myers Squibb"
-        ],
-        "numbersAndDates": [
-          "AstraZeneca , la seconda società quotata britannica per valore, capitalizza 196 miliardi di sterline (260 miliardi di dollari), mentre Bms 133 miliardi di dollari.",
-          "400"
-        ]
-      }
-    },
-    {
-      "id": "story-e2b08a01f60118f5",
-      "title": "Prysmian rilancia sul mercato Usa rilevando Aktore per 3,3 miliardi",
-      "summary": "Nuova operazione di peso sul mercato nordamericano dopo quelle di Encore Wire e Channel - L’obiettivo è presidiare un ambito in forte espansione grazie a data center, Ai ed elettrificazione",
-      "spokenText": "Prysmian mette a segno la terza grande acquisizione nel giro di pochi anni sul mercato nordamericano, rilevando Atkore per 3,3 miliardi di dollari. Due anni fa, Prysmian aveva acquistato Encore Wire per quasi 4 miliardi di euro, la più grande operazione della sua storia, seguita circa un anno dopo da Channell Commercial per circa un miliardo di euro. Atkore, che nell’anno fiscale 2025 ha registrato ricavi per 2,85 miliardi di dollari e un Ebitda di 386 milioni, impiega circa 5.400 persone a livello globale. Prysmian prevede che l’acquisizione genererà circa 150 milioni di dollari di sinergie pre-imposte a regime (run-rate) entro tre anni dalla chiusura dell’operazione.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "prysmian",
-        "atkore",
-        "encore wire",
-        "channell commercial",
-        "stati uniti"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 43,
-      "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/prysmian-rilancia-mercato-usa-rilevando-aktor-33-miliardi-AJ7kyOd"
-      },
-      "analysis": {
-        "mainFact": "Prysmian acquisisce Atkore per 3,3 miliardi di dollari.",
-        "whyItMatters": "Nuova operazione di peso sul mercato nordamericano dopo quelle di Encore Wire e Channel - L’obiettivo è presidiare un ambito in forte espansione grazie a data center, Ai ed elettrificazione",
-        "confirmedFacts": [
-          "Prysmian acquisisce Atkore per 3,3 miliardi di dollari.",
-          "Nuova operazione di peso sul mercato nordamericano dopo quelle di Encore Wire e Channel - L’obiettivo è presidiare un ambito in forte espansione grazie a data center, Ai ed elettrificazione",
-          "Si tratta della terza acquisizione di peso negli Stati Uniti nel giro di pochi anni per in ordine di tempo per Prysmian, che due anni fa ha acquistato Encore Wire per quasi 4 miliardi di euro, la più grande operazione della sua storia, seguita da Channell Commercial circa un anno dopo, per circa 1 euro miliardo.",
-          "Atkore ha generato ricavi per 2,85 miliardi di dollari e un Ebitda di 386 milioni di dollari nell’anno fiscale 2025, e impiega circa 5.400 persone a livello globale.",
-          "Prysmian prevede che l’acquisizione genererà circa 150 milioni di dollari di sinergie pre-imposte a regime (run-rate) entro tre anni dalla chiusura dell’operazione."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Prysmian",
-          "Atkore",
-          "Encore Wire",
-          "Channell Commercial",
-          "Stati Uniti"
-        ],
-        "numbersAndDates": [
-          "Si tratta della terza acquisizione di peso negli Stati Uniti nel giro di pochi anni per in ordine di tempo per Prysmian, che due anni fa ha acquistato Encore Wire per quasi 4 miliardi di euro, la più grande operazione della sua storia, seguita da Channell Commercial circa un anno dopo, per circa 1 euro miliardo.",
-          "Atkore ha generato ricavi per 2,85 miliardi di dollari e un Ebitda di 386 milioni di dollari nell’anno fiscale 2025, e impiega circa 5.400 persone a livello globale.",
-          "Prysmian prevede che l’acquisizione genererà circa 150 milioni di dollari di sinergie pre-imposte a regime (run-rate) entro tre anni dalla chiusura dell’operazione.",
-          "3,3"
-        ]
-      }
-    },
-    {
-      "id": "story-3499962641420f2d",
-      "title": "Nel Dna umano ci sono tracce di antenati fantasma",
-      "summary": "Nel Dna umano ci sono tracce di antenati fantasma. Uno degli antenati 'fantasma' si è incrociato con l'uomo moderno oltre 50.000 anni fa , prima della più recente migrazione dell'Homo sapiens dall'Africa verso l'Europa e l'Asia.",
-      "spokenText": "Nel nostro Dna ci sono tracce di antenati fantasma. Non è una metafora, ma il risultato di analisi genetiche che raccontano un incrocio avvenuto oltre cinquantamila anni fa, prima che l’Homo sapiens uscisse dall’Africa per popolare l’Europa e l’Asia. Questa linea evolutiva di ominidi sconosciuti si era separata da quella degli esseri umani moderni circa ottocentomila anni fa, più o meno nello stesso periodo in cui si differenziarono anche i Neanderthal e i Denisoviani. Eppure, a differenza di questi ultimi, di questo antenato non abbiamo fossili, solo la firma chimica lasciata nel genoma. Una firma che oggi rappresenta circa l’un per cento del Dna delle popolazioni moderne, una quantità paragonabile a quella del Dna di Neanderthal che ancora portiamo con noi. Uno degli antenati 'fantasma' si è incrociato con l'uomo moderno oltre 50.000 anni fa , prima della più recente migrazione dell'Homo sapiens dall'Africa verso l'Europa e l'Asia.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "antenati fantasma",
-        "homo sapiens",
-        "neanderthal",
-        "denisoviani",
-        "africa"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 60,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/03/nel-dna-umano-ci-sono-tracce-di-antenati-fantasma-_5b79982e-76be-4b1b-ad4d-54cdcfef0621.html"
-      },
-      "analysis": {
-        "mainFact": "Nel Dna umano ci sono tracce di antenati fantasma.",
-        "whyItMatters": "Uno degli antenati 'fantasma' si è incrociato con l'uomo moderno oltre 50.000 anni fa , prima della più recente migrazione dell'Homo sapiens dall'Africa verso l'Europa e l'Asia.",
-        "confirmedFacts": [
-          "Nel Dna umano ci sono tracce di antenati fantasma.",
-          "Uno degli antenati 'fantasma' si è incrociato con l'uomo moderno oltre 50.000 anni fa , prima della più recente migrazione dell'Homo sapiens dall'Africa verso l'Europa e l'Asia.",
-          "Questa linea evolutiva di ominidi sconosciuti si è separata da quella degli esseri umani moderni all'incirca nello stesso periodo in cui i Neanderthal e i Denisoviani si sono differenziati, circa 800.000 anni fa .",
-          "I suoi geni costituiscono circa l'1% del genoma degli esseri umani moderni, una quantità paragonabile a quella del Dna di Neanderthal presente nel genoma umano ."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "antenati fantasma",
-          "Homo sapiens",
-          "Neanderthal",
-          "Denisoviani",
-          "Africa"
-        ],
-        "numbersAndDates": [
-          "Questa linea evolutiva di ominidi sconosciuti si è separata da quella degli esseri umani moderni all'incirca nello stesso periodo in cui i Neanderthal e i Denisoviani si sono differenziati, circa 800.000 anni fa .",
-          "I suoi geni costituiscono circa l'1% del genoma degli esseri umani moderni, una quantità paragonabile a quella del Dna di Neanderthal presente nel genoma umano .",
-          "50.000"
-        ]
-      }
-    },
-    {
-      "id": "story-42cacdd58fef53a5",
-      "title": "Il 2 agosto 2026, l'Astronomy Picture of the Day (APOD) presenta un arcobaleno di fuoco sulla Virginia Occidentale",
-      "summary": "Il 2 agosto 2026, l'Astronomy Picture of the Day (APOD) presenta un arcobaleno di fuoco sulla Virginia Occidentale.",
-      "spokenText": "L'immagine del giorno scelta oggi dall'APOD, il 2 agosto 2026, ci porta in Virginia Occidentale con un arcobaleno di fuoco che domina il cielo sopra la North Fork Mountain. Lo scatto, firmato da Christa Harbig, risale in realtà al 2021, ma la sua forza visiva resta intatta. L'arcobaleno di fuoco, un fenomeno ottico che si forma in condizioni molto particolari, è stato catturato in primo piano, regalando una prospettiva quasi surreale del paesaggio. una meteora in vaporizzazione che ruba la scena alla Nebulosa Lacerta. Immagine di domani: photobomb meteorico. Data: 2 agosto 2026. Crediti e copyright: Christa Harbig. Autori e curatori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA/GSFC, NASA Science Activation e Michigan Tech. Immagine di ieri APOD: 1 agosto 2026 – Luna del Cervo e Cintura di Venere.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "apod",
-        "nasa",
-        "west virginia",
-        "north fork mountain",
-        "christa harbig"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 55,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/"
-      },
-      "analysis": {
-        "mainFact": "Il 2 agosto 2026, l'Astronomy Picture of the Day (APOD) presenta un arcobaleno di fuoco sulla Virginia Occidentale.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Il 2 agosto 2026, l'Astronomy Picture of the Day (APOD) presenta un arcobaleno di fuoco sulla Virginia Occidentale.",
-          "L'arcobaleno di fuoco in primo piano è stato fotografato nel 2021 vicino a North Fork Mountain, in Virginia Occidentale, USA.",
-          "Immagine di domani: photobomb meteorico. Data: 2 agosto 2026. Crediti e copyright: Christa Harbig. Autori e curatori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA/GSFC, NASA Science Activation e Michigan Tech.",
-          "Immagine di ieri APOD: 1 agosto 2026 – Luna del Cervo e Cintura di Venere. Immagine di domani APOD: 3 agosto 2026 – Meteora in vaporizzazione fa photobomb alla Nebulosa Lacerta."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "APOD",
-          "NASA",
-          "West Virginia",
-          "North Fork Mountain",
-          "Christa Harbig"
-        ],
-        "numbersAndDates": [
-          "L'arcobaleno di fuoco in primo piano è stato fotografato nel 2021 vicino a North Fork Mountain, in Virginia Occidentale, USA.",
-          "Immagine di domani: photobomb meteorico. Data: 2 agosto 2026. Crediti e copyright: Christa Harbig. Autori e curatori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA/GSFC, NASA Science Activation e Michigan Tech.",
-          "Immagine di ieri APOD: 1 agosto 2026 – Luna del Cervo e Cintura di Venere. Immagine di domani APOD: 3 agosto 2026 – Meteora in vaporizzazione fa photobomb alla Nebulosa Lacerta.",
-          "2",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-7355628b3a0739be",
-      "title": "Ricerca medica, 9 scienziate italiane su 10 incontrano barriere legate al genere",
-      "summary": "Studio sulle ricercatrici senior, 91% ha difficoltà a conciliare carriera e vita privata",
-      "spokenText": "Nella ricerca medica italiana, nove scienziate su dieci incontrano barriere legate al genere. È il dato complessivo che emerge da uno studio condotto su ricercatrici senior, dove il 91% delle intervistate segnala difficoltà nel conciliare carriera e vita privata. Un problema di equilibrio che si intreccia con la percezione di stereotipi e pregiudizi, indicata dal 39% del campione. Dentro questo quadro, il 37% delle scienziate ha pensato almeno una volta di lasciare la ricerca biomedica o di cambiare organizzazione.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/03/ricerca-medica-9-scienziate-italiane-su-10-incontrano-barriere-legate-al-genere_7c1407ae-1926-4dd2-ad6c-69c1c732de20.html"
-      },
-      "analysis": {
-        "mainFact": "Nella ricerca medica italiana, 9 scienziate su 10 incontrano barriere legate al genere.",
-        "whyItMatters": "Studio sulle ricercatrici senior, 91% ha difficoltà a conciliare carriera e vita privata.",
-        "confirmedFacts": [
-          "Nella ricerca medica italiana, 9 scienziate su 10 incontrano barriere legate al genere.",
-          "Studio sulle ricercatrici senior, 91% ha difficoltà a conciliare carriera e vita privata.",
-          "Inoltre, il 37% ha pensato almeno una volta di lasciare la ricerca biomedica o di cambiare organizzazione.",
-          "il 39% segnala stereotipi o pregiudizi nei confronti delle donne nella ricerca biomedica."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "Inoltre, il 37% ha pensato almeno una volta di lasciare la ricerca biomedica o di cambiare organizzazione.",
-          "il 39% segnala stereotipi o pregiudizi nei confronti delle donne nella ricerca biomedica.",
-          "9",
-          "10",
-          "91"
-        ]
-      }
-    },
-    {
-      "id": "story-0afbbc89a169dc39",
-      "title": "Moonshot rilascia i segreti di Kimi K3, il modello IA cinese che sfida gli Usa",
-      "summary": "L'obiettivo è superare la strategia chiusa delle big tech statunitensi",
-      "spokenText": "Moonshot ha deciso di rilasciare pubblicamente i dettagli tecnici del suo modello di intelligenza artificiale Kimi K3, una mossa che punta dritto alla trasparenza. Resta da capire come reagiranno le big tech statunitensi a questa sfida, che non è solo tecnologica ma anche culturale. L'obiettivo è superare la strategia chiusa delle big tech statunitensi.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "moonshot",
-        "kimi k3",
-        "big tech statunitensi"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/07/28/moonshot-rilascia-i-segreti-di-kimi-k3-il-modello-ia-cinese-che-sfida-gli-usa_3f3ce74f-d6e4-4974-a174-7c6ad2e3b5e8.html"
-      },
-      "analysis": {
-        "mainFact": "Moonshot rilascia i segreti di Kimi K3, il modello IA cinese che sfida gli Usa.",
-        "whyItMatters": "L'obiettivo è superare la strategia chiusa delle big tech statunitensi",
-        "confirmedFacts": [
-          "Moonshot rilascia i segreti di Kimi K3, il modello IA cinese che sfida gli Usa.",
-          "L'obiettivo è superare la strategia chiusa delle big tech statunitensi"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Moonshot",
-          "Kimi K3",
-          "big tech statunitensi"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-422d0991ea318c8e",
-      "title": "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore",
-      "summary": "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore. Milano e Napoli, sono già in allerta rossa, e entro lunedì lo saranno tutte tranne due.",
-      "spokenText": "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore. Milano e Napoli sono già in allerta rossa, e entro lunedì lo saranno tutte tranne due. Funzionari sanitari affermano che 19 città da nord a sud, inclusa la capitale Roma, Milano, Venezia. Il ministero esorta i residenti nelle aree interessate a evitare l'esposizione al calore e alla luce solare diretta durante le ore più calde tra le 11:00 e le 18:00, a rimanere in casa e a bere molti liquidi.",
+      "id": "story-082ebf7cd7d8c5bc",
+      "title": "Quanto ci costa la crisi climatica in Italia",
+      "summary": "Per la prima volta in Italia, un rapporto ha raccolto e descritto i futuri rischi climatici, gli scenari e le soluzioni. Ma invece di investire in prevenzione, il governo ignora la scienza e promuove addirittura il ritorno al carbone. Il documento, abbastanza ignorato dai media mainstream nazionali, offre un’analisi sistematica del rischio climatico in Italia per imprese e istituzioni, attraverso proiezioni fisiche ad alta risoluzione, modelli macroeconomici e analisi di sostenibilità del debito. Vengono per la prima volta quantificati gli impatti macroeconomici e finanziari del cambiamento climatico e le possibili strategie di intervento per mitigare e adattarsi.",
+      "spokenText": "Per la prima volta in Italia esiste un rapporto che raccoglie e descrive in modo organico i futuri rischi climatici, i possibili scenari e le strategie per affrontarli. Eppure, questo lavoro è rimasto in gran parte ai margini dell’attenzione dei media mainstream nazionali. E mentre la scienza mette sul tavolo dati e strumenti per fare prevenzione, il governo procede nella direzione opposta, ignorando quelle analisi e promuovendo addirittura il ritorno al carbone.",
       "category": "ambiente",
       "tags": [
         "ambiente",
         "italia"
       ],
-      "importance": 95,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 34,
+      "estimatedSeconds": 29,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/crisi-climatica-costi-italia-primo-rapporto/"
       },
       "analysis": {
-        "mainFact": "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore.",
-        "whyItMatters": "Milano e Napoli, sono già in allerta rossa, e entro lunedì lo saranno tutte tranne due.",
+        "mainFact": "Per la prima volta in Italia, un rapporto ha raccolto e descritto i futuri rischi climatici, gli scenari e le soluzioni.",
+        "whyItMatters": "Ma invece di investire in prevenzione, il governo ignora la scienza e promuove addirittura il ritorno al carbone.",
         "confirmedFacts": [
-          "L'Italia ha posto quasi tutte le principali città al massimo livello di allerta calore.",
-          "Milano e Napoli, sono già in allerta rossa, e entro lunedì lo saranno tutte tranne due.",
-          "Funzionari sanitari affermano che 19 città da nord a sud - inclusa la capitale Roma, Milano, Venezia e Napoli - sono già in allerta rossa, e entro lunedì tutte le città tranne due lo saranno.",
-          "Il ministero esorta i residenti nelle aree interessate a evitare l'esposizione al calore e alla luce solare diretta durante le ore più calde tra le 11:00 e le 18:00, a rimanere in casa e a bere molti liquidi."
+          "Per la prima volta in Italia, un rapporto ha raccolto e descritto i futuri rischi climatici, gli scenari e le soluzioni.",
+          "Ma invece di investire in prevenzione, il governo ignora la scienza e promuove addirittura il ritorno al carbone.",
+          "Il documento, abbastanza ignorato dai media mainstream nazionali, offre un’analisi sistematica del rischio climatico in Italia per imprese e istituzioni, attraverso proiezioni fisiche ad alta risoluzione, modelli macroeconomici e analisi di sostenibilità del debito.",
+          "Vengono per la prima volta quantificati gli impatti macroeconomici e finanziari del cambiamento climatico e le possibili strategie di intervento per mitigare e adattarsi."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Italia"
         ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-f76dbf66eb8162d5",
+      "title": "Iss, dall'inizio dell'anno 141 casi West Nile, 192 di dengue e 17 di Chikungunya",
+      "summary": "Sei decessi per West Nile, salgono a 50 le Province con dimostrata circolazione del virus",
+      "spokenText": "Iss, dall'inizio dell'anno 141 casi West Nile, 192 di dengue e 17 di Chikungunya. Sei decessi per West Nile, salgono a 50 le Province con dimostrata circolazione del virus. Tra i casi confermati sono stati notificati 6 decessi (1 decesso in un caso importato). Lo scorso anno nello stesso periodo erano stati 173 i casi segnalati con 11 decessi. Nello stesso periodo sono stati segnalati 3 casi di Usutu virus, tutti in Lombardia. Sul tema di le altre arbovirosi, dal 1 gennaio al 31 luglio 2026 al sistema di sorveglianza nazionale coordinato dall'Iss risultano 192 casi confermati di Dengue (tutti associati a viaggi all'estero, di cui 125 con probabile luogo di esposizione le Maldive, nessun decesso).",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "iss"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 47,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/06/iss-dallinizio-dellanno-141-casi-west-nile-192-di-dengue-e-17-di-chikungunya_8127e933-ee69-4280-abbc-26ba0bc78725.html"
+      },
+      "analysis": {
+        "mainFact": "Iss, dall'inizio dell'anno 141 casi West Nile, 192 di dengue e 17 di Chikungunya",
+        "whyItMatters": "Sei decessi per West Nile, salgono a 50 le Province con dimostrata circolazione del virus.",
+        "confirmedFacts": [
+          "Iss, dall'inizio dell'anno 141 casi West Nile, 192 di dengue e 17 di Chikungunya",
+          "Sei decessi per West Nile, salgono a 50 le Province con dimostrata circolazione del virus.",
+          "Tra i casi confermati sono stati notificati 6 decessi (1 decesso in un caso importato).",
+          "Lo scorso anno nello stesso periodo erano stati 173 i casi segnalati con 11 decessi.",
+          "Nello stesso periodo sono stati segnalati 3 casi di Usutu virus, tutti in Lombardia.",
+          "Sul tema di le altre arbovirosi, dal 1 gennaio al 31 luglio 2026 al sistema di sorveglianza nazionale coordinato dall'Iss risultano 192 casi confermati di Dengue (tutti associati a viaggi all'estero, di cui 125 con probabile luogo di esposizione le Maldive, nessun decesso);",
+          "17 casi confermati di Chikungunya (tutti associati a viaggi all'estero, nessun decesso);",
+          "3 casi di Zika virus (tutti associati a viaggi all'estero, nessun decesso)."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Iss"
+        ],
         "numbersAndDates": [
-          "Funzionari sanitari affermano che 19 città da nord a sud - inclusa la capitale Roma, Milano, Venezia e Napoli - sono già in allerta rossa, e entro lunedì tutte le città tranne due lo saranno.",
-          "Il ministero esorta i residenti nelle aree interessate a evitare l'esposizione al calore e alla luce solare diretta durante le ore più calde tra le 11:00 e le 18:00, a rimanere in casa e a bere molti liquidi."
+          "Tra i casi confermati sono stati notificati 6 decessi (1 decesso in un caso importato).",
+          "Lo scorso anno nello stesso periodo erano stati 173 i casi segnalati con 11 decessi.",
+          "Nello stesso periodo sono stati segnalati 3 casi di Usutu virus, tutti in Lombardia.",
+          "Sul tema di le altre arbovirosi, dal 1 gennaio al 31 luglio 2026 al sistema di sorveglianza nazionale coordinato dall'Iss risultano 192 casi confermati di Dengue (tutti associati a viaggi all'estero, di cui 125 con probabile luogo di esposizione le Maldive, nessun decesso);",
+          "17 casi confermati di Chikungunya (tutti associati a viaggi all'estero, nessun decesso);",
+          "3 casi di Zika virus (tutti associati a viaggi all'estero, nessun decesso).",
+          "141",
+          "192",
+          "17",
+          "50"
         ]
       }
     },
     {
-      "id": "story-67cbb2dc7431cf7d",
-      "title": "A Budapest si ferma per la prima volta in 44 anni l'impianto atomico che produce il 40% dell'elettricità nazionale",
-      "summary": "Il riscaldamento climatico prosciuga il grande fiume europeo. A Budapest si ferma per la prima volta in 44 anni l’impianto atomico che produce il 40% dell’elettricità nazionale, mentre in Serbia rallenta la produzione idroelettrica. E dal letto del fiume riemergono anche i relitti delle navi naziste affondate nel 1944",
-      "spokenText": "A Budapest si ferma per la prima volta in 44 anni l'impianto atomico che produce il 40% dell'elettricità nazionale. E dal letto del fiume riemergono anche i relitti delle navi naziste affondate nel 1944.",
-      "category": "ambiente",
+      "id": "story-a64eea7be1cc1268",
+      "title": "Via libera a mFLUSIVA, il vaccino mRNA di Moderna",
+      "summary": "FDA ha approvato mFLUSIVA, il vaccino mRNA per gli adulti dai 50 anni in su: ora Moderna punta a ottenere l'autorizzazione anche in Europa. The post Via libera a mFLUSIVA, il vaccino mRNA di Moderna appeared first on Punto Informatico.",
+      "spokenText": "La Food and Drug Administration ha appena dato il via libera a mFLUSIVA, il nuovo vaccino antinfluenzale a mRNA sviluppato da Moderna. Il nome in codice del vaccino è mRNA-1010 e la sua approvazione è arrivata dopo uno studio clinico randomizzato su larga scala, che ha coinvolto oltre quarantamila persone tra i cinquanta e i sessantacinque anni, a cui si aggiunge un ulteriore campione di quasi tremila partecipanti con più di sessantacinque anni. È destinato a tutti gli adulti, dai 50 anni in su, con l’obiettivo di combattere l’influenza stagionale. Approvato il vaccino mRNA di Moderna I test sono stati condotti attraverso uno studio clinico randomizzato , su un campione composto da 40.805 persone da 50 a 65 anni e altre 2.992 dai 65 anni in su. Nel 2021, un team di ricercatori ha reso disponibile il codice sorgente del vaccino mRNA sintetizzato per far fronte all’emergenza.",
+      "category": "salute",
       "tags": [
-        "ambiente",
-        "danubio",
-        "ungheria",
-        "serbia",
-        "budapest"
+        "salute",
+        "moderna",
+        "fda",
+        "mflusiva"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 14,
+      "estimatedSeconds": 59,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/03/news/riscaldamento_climatico_danubio_in_secca_europa_senza_acqua_oltre_40_gradi_ungheria_chiusa_centrale_nucleare-425508872/"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/mflusiva-vaccino-mrna-moderna/"
       },
       "analysis": {
-        "mainFact": "A Budapest si ferma per la prima volta in 44 anni l'impianto atomico che produce il 40% dell'elettricità nazionale.",
-        "whyItMatters": "Siccità del Danubio ferma centrale nucleare in Ungheria e riduce idroelettrico. Conseguenze energetiche e climatiche sistemiche.",
+        "mainFact": "Via libera a mFLUSIVA, il vaccino mRNA di Moderna",
+        "whyItMatters": "Via libera a mFLUSIVA, il vaccino mRNA di Moderna FDA ha approvato mFLUSIVA, il vaccino mRNA per gli adulti dai 50 anni in su: ora Moderna punta a ottenere l'autorizzazione anche in Europa.",
         "confirmedFacts": [
-          "A Budapest si ferma per la prima volta in 44 anni l'impianto atomico che produce il 40% dell'elettricità nazionale.",
-          "Siccità del Danubio ferma centrale nucleare in Ungheria e riduce idroelettrico. Conseguenze energetiche e climatiche sistemiche.",
-          "E dal letto del fiume riemergono anche i relitti delle navi naziste affondate nel 1944"
+          "Via libera a mFLUSIVA, il vaccino mRNA di Moderna",
+          "Via libera a mFLUSIVA, il vaccino mRNA di Moderna FDA ha approvato mFLUSIVA, il vaccino mRNA per gli adulti dai 50 anni in su: ora Moderna punta a ottenere l'autorizzazione anche in Europa.",
+          "Si chiama mFLUSIVA (nome in codice mRNA-1010) ed è il vaccino mRNA antinfluenzale prodotto da Moderna che ha appena ottenuto l’ autorizzazione della Food and Drug Administration negli Stati Uniti.",
+          "È destinato a tutti gli adulti, dai 50 anni in su, con l’obiettivo di combattere l’influenza stagionale.",
+          "Approvato il vaccino mRNA di Moderna I test sono stati condotti attraverso uno studio clinico randomizzato , su un campione composto da 40.805 persone da 50 a 65 anni e altre 2.992 dai 65 anni in su.",
+          "La Food and Drug Administration ha approvato mFLUSIVA® (mRNA-1010), un nuovo vaccino contro l'influenza stagionale, per l'uso in tutti gli adulti dai 50 anni in su.",
+          "Nel 2021, un team di ricercatori ha reso disponibile il codice sorgente del vaccino mRNA sintetizzato per far fronte all’emergenza."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Danubio",
-          "Ungheria",
-          "Serbia",
-          "Budapest"
+          "Moderna",
+          "FDA",
+          "mFLUSIVA"
         ],
         "numbersAndDates": [
-          "E dal letto del fiume riemergono anche i relitti delle navi naziste affondate nel 1944",
-          "44",
-          "40"
+          "Si chiama mFLUSIVA (nome in codice mRNA-1010) ed è il vaccino mRNA antinfluenzale prodotto da Moderna che ha appena ottenuto l’ autorizzazione della Food and Drug Administration negli Stati Uniti.",
+          "È destinato a tutti gli adulti, dai 50 anni in su, con l’obiettivo di combattere l’influenza stagionale.",
+          "Approvato il vaccino mRNA di Moderna I test sono stati condotti attraverso uno studio clinico randomizzato , su un campione composto da 40.805 persone da 50 a 65 anni e altre 2.992 dai 65 anni in su.",
+          "La Food and Drug Administration ha approvato mFLUSIVA® (mRNA-1010), un nuovo vaccino contro l'influenza stagionale, per l'uso in tutti gli adulti dai 50 anni in su.",
+          "Nel 2021, un team di ricercatori ha reso disponibile il codice sorgente del vaccino mRNA sintetizzato per far fronte all’emergenza.",
+          "50"
+        ]
+      }
+    },
+    {
+      "id": "story-0a84629c8e4017af",
+      "title": "Taiwan testa la difesa in vista di un possibile attacco della Cina",
+      "summary": "Taiwan ha dato il via oggi alle esercitazioni militari annuali “Han Kuang”, il più importante addestramento delle proprie forze armate, organizzato per prepararsi a un’eventuale invasione da parte della Cina,...",
+      "spokenText": "Taiwan ha condotto esercitazioni per testare la propria difesa di fronte a un possibile attacco della Cina. Il ministro della Difesa Wellington Koo ha dichiarato che l'addestramento può sempre essere migliorato, assicurando che l'isola continuerà a prepararsi con intensità per essere pronta sia in tempo di pace sia in caso di guerra.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "taiwan",
+        "cina",
+        "wellington koo"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 21,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/taiwan-testa-difesa-dieci-giorni-manovre-vista-un-possibile-attacco-cina-AJJTQdf"
+      },
+      "analysis": {
+        "mainFact": "Taiwan testa la difesa in vista di un possibile attacco della Cina",
+        "whyItMatters": "“L’addestramento può sempre essere migliorato”, ha dichiarato il ministro della Difesa Wellington Koo , assicurando che Taiwan continuerà a prepararsi con intensità per essere pronta sia in tempo di pace sia in caso di guerra.",
+        "confirmedFacts": [
+          "Taiwan testa la difesa in vista di un possibile attacco della Cina",
+          "“L’addestramento può sempre essere migliorato”, ha dichiarato il ministro della Difesa Wellington Koo , assicurando che Taiwan continuerà a prepararsi con intensità per essere pronta sia in tempo di pace sia in caso di guerra."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Taiwan",
+          "Cina",
+          "Wellington Koo"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-615df53c3e3a7afc",
+      "title": "Tra blackout e repressioni: in Tunisia cresce la rabbia contro il presidente Saied",
+      "summary": "Tra blackout e repressioni: in Tunisia cresce la rabbia contro il presidente Saiedelisabetta. tola Mer, 08/05/2026 - 10:25 6 Agosto 2026 Language Italian Andrea Gaiardoni Cinque anni dopo il “colpo di stato”, che nel 2021 aveva spazzato via come birilli il Parlamento eletto, l’allora primo ministro Hichem Mechichi e la stessa Costituzione, il presidente della Tunisia Kais Saied continua a essere considerato un enigma, un capo di stato autoritario e sfuggente, da un lato spietato contro qualsiasi forma di dissenso sociale e politico, dall’altro capace di non far sprofondare i conti pubblici, che le persistenti crisi globali continuano a mettere sotto pressione. Di certo è un accentratore di potere (la successiva Costituzione approvata nel 2022, che di fatto introduce il presidenzialismo, gli conferisce la “responsabilità primaria” nel definire la politica statale) che continua a presentarsi come paladino della lotta alla corruzione. “Purificheremo la Tunisia da tutti i corrotti e i complottisti”, aveva proclamato durante la campagna elettorale per le elezioni dell’ottobre 2024, vinte con oltre il 90% dei voti (da molti considerate elezioni-farsa), ma con un’affluenza che si era fermata al 27% per l’esplicito boicottaggio di quasi tutti i partiti di opposizione. Per cinque anni, Saied si è concentrato a realizzare il sistematico smantellamento di tutte le istituzioni nate dopo la Jasmine Revolution, la Rivoluzione dei Gelsomini che, proprio in Tunisia, con le prime marce alla fine del 2010, portò all’estromissione del dittatore Zine El Abidine Ben Ali e diede il via alla stagione delle “Primavere arabe”. Oggi sembra di essere tornati al passato: partiti politici marginalizzati e criminalizzati, magistratura riportata sotto il diretto controllo presidenziale, media indipendenti messi a tacere, organizzazioni non profit indebolite, sindacati costantemente sotto pressione. Il Democratic Erosion Consortium, un’organizzazione statunitense specializzata nell’analisi delle strutture democratiche, definisce lo stile di governo di Saied come un perfetto esempio di “autoritarismo furtivo”, in cui le istituzioni democratiche vengono gradualmente indebolite, svuotate. Tutto ciò che rimane, secondo il centro di ricerca, è una “facciata di democrazia”. Leggi anche: La Tunisia al voto in una democrazia calpestata SOCIETÀ Repressione spietata del dissenso Ne sanno qualcosa i politici dell’opposizione, gli attivisti, gli intellettuali, i giornalisti, i magistrati (nel 2022 è stato disposto lo scioglimento dell’Alto Consiglio Giudiziario) o gli avvocati che via via, nel corso di questi ultimi 5 anni, hanno tentato di contrastare, o anche soltanto di raccontare, la deriva politica e sociale imposta dalle politiche del presidente. Come riassumeva, recentemente, l’autorevole quotidiano francese Le Monde: “Le notizie provenienti dalla Tunisia sono diventate un cupo ritornello di condanne detentive inflitte a chiunque abbia il coraggio di denunciare l’autoritarismo del presidente Kais Saied. Con avversari politici già in carcere da tempo con i pretesti più fragili, la repressione è diventata sempre più spietata contro la società civile del paese”. Qualche esempio, tra i più recenti: il 24 giugno scorso l’attivista antirazzista tunisina Saadia Mosbah ha visto confermata la sua condanna a otto anni di carcere per presunta appropriazione indebita. Il 25 giugno, Sihem Bensedrine, 75 anni, giornalista, tra le più celebri e stimate attiviste tunisine per la difesa dei diritti umani, è stata condannata a 25 anni di carcere per varie accuse (“eccessi e irregolarità”) legate al suo ruolo di capo della Commissione per la Verità e la Dignità, che ha presieduto dal 2014 al 2018, con l’incarico di documentare le violazioni commesse dai funzionari statali tra il 1955 e il 2013, dunque compreso il periodo della dittatura di Ben Ali, dal 1987 al 2011. Il 26 giugno la Corte d’Appello di Tunisi ha invece confermato la condanna a un anno di carcere per il giornalista indipendente Zied El-Heni, che durante una conferenza tenuta lo scorso aprile nella facoltà di giurisprudenza dell’Università di Tunisi, aveva raccontato di “giornalisti ingiustamente condannati” da magistrati definiti “criminali”. Lo scorso maggio è stata invece confermata in appello la condanna a 3 anni e mezzo di carcere per altri due giornalisti, Mourad Zeghidi e Borhen Bsaies, accusati inizialmente di “diffusione di notizie false”, e successivamente anche per riciclaggio di denaro ed evasione fiscale. Secondo l’ong Reporters sans frontières, che condanna l’uso indiscriminato del Decreto-Legge 54 voluto da Saied per punire le “false informazioni”, si tratta di “molestie legali in un processo senza prove” (la Tunisia, peraltro, è al 137° posto su 180 nell’indice mondiale sulla libertà di stampa, realizzato proprio da RSF). “Il Decreto-Legge 54 non solo criminalizza il giornalismo, ma apre la strada a un più ampio arsenale di repressione che soffoca la libertà di stampa in Tunisia”, ha scritto l’ong nel denunciare la vicenda dei due cronisti. Senza dimenticare il più noto tra i prigionieri politici, Rached Ghannouchi, 84 anni, presidente del partito moderato islamico Ennahda, che vinse le prime elezioni libere, nel 2011, dopo la cacciata del dittatore Ben Alì, oggi rinchiuso in carcere con un impressionante carico di condanne sulle spalle (l’ultimo ergastolo l’ha rimediato i primi di giugno, con l’accusa di aver organizzato “un’alleanza terroristica”). Il presidente della Tunisia Kais Saied durante la cerimonia di inaugurazione del suo secondo mandato nel 2024 - REUTERS/Zoubeir Souissi La rabbia dei tunisini Ora però il presidente Saied deve affrontare una nuova sfida: la protesta sociale, la rabbia dei tunisini che dopo aver accarezzato il sogno di un nuovo ordine democratico si ritrovano intrappolati nella paura, nel silenzio, nella repressione più violenta, nelle drastiche misure di austerity imposte dal governo, nei servizi pubblici che non bastano più, nel degrado delle infrastrutture, a fronteggiare un costo della vita sempre più alto. In più, in questa estate torrida (le temperature hanno sfiorato i 50 gradi), bisogna far fronte ai tagli di elettricità e di acqua. “In Tunisia, spegnere le luci non è più un fastidio temporaneo, ma un sintomo visibile di un governo fallito”, scriveva pochi giorni fa Ikram Ben Said, attivista e fondatrice dell’ONG femminista “Aswat Nissa”. “Interruzioni di corrente e carenze d’acqua non sono soltanto il risultato di caldo estremo o infrastrutture invecchiate: riflettono anni di sottoinvestimento e politiche energetiche distorte. Man mano che elettricità e acqua diventano strumenti di sopravvivenza privatizzati - serbatoi e generatori per chi può permetterseli - la disuguaglianza si approfondisce. Ma quale futuro arriverà non dipende dalla fortuna o dal meteo: dipende da cosa sapremo costruire nel frattempo, deliberatamente, insieme, con gli occhi aperti. Un blackout è esattamente ciò che si manifesta quando una nazione smette di pianificare il proprio futuro con il proprio popolo. Ma ora, per la prima volta dal 2021, i tunisini comuni stanno esprimendo una vera rabbia sui social media e la dirigono direttamente contro il presidente Kais Saied, nonostante il clima di paura che circonda il dissenso”. La rete televisiva qatariota Al Jazeera riporta il parere di un’analista politico tunisino che ha preferito mantenere l’anonimato per timore di repressioni: “La verità è che il governo tunisino non ha alcun piano. Di solito, i governi sanno che quando arriverà l’estate ci sarà una domanda crescente di elettricità e acqua, quindi pianificano in base a questo. In Tunisia, non abbiamo soldi né investimenti, né un piano. La situazione va oltre il degrado delle infrastrutture. È come se fossimo su una nave comandata da un uomo senza alcuna conoscenza della navigazione”. “L’alternativa a Saied si prepara fuori dalla Tunisia” Tra i più feroci critici di Saied non può essere dimenticato l’ex presidente tunisino Moncef Marzouki (rimasto in carica dal 2011 alla fine del 2014), attualmente esiliato in Francia, condannato lo scorso anno in contumacia a 22 anni di carcere per aver attentato alla sicurezza dello stato. Sulla sua pagina Facebook aveva scritto: “A quei giudici dico: le vostre sentenze sono nulle e voi stessi siete illegittimi. Sarete giudicati col tempo. La democrazia tornerà”. Ma pochi giorni fa lo stesso Marzouki ha rilasciato un’intervista a France 24, nel quale ha annunciato: “L’alternativa a Kais Saied si sta preparando fuori dalla Tunisia”. Il che ha provocato la reazione del ministro degli esteri tunisino, che ha convocato l’ambasciatrice francese in Tunisia, Anne Guéguen, per esprimerle la sua “forte protesta”. Kamel Jendoubi, attivista tunisino pro-democrazia, ha scritto pochi giorni fa su Le Monde: un’analisi feroce sulle responsabilità di Kais Saied: “Lo stato tunisino è stato progressivamente indebolito dalla distruzione del sistema istituito dopo la rivoluzione del 2011, unita all’assenza di un modello alternativo sostenibile. Mai, dalla rivoluzione del 2011, un presidente tunisino aveva accumulato così tanto potere. Eppure, allo stesso tempo, lo Stato non aveva mai sofferto una tale debolezza. Dietro l’immagine del potere assoluto si cela un’altra realtà: la Tunisia non è più in una transizione democratica bloccata, è entrata in una transizione autoritaria incompiuta. Ma questa distruzione non è stata seguita da una ricostruzione. È lì che il sistema ha fallito”. In questo quadro l’Unione Europea sembra non voler vedere, continuando a stringere accordi di partenariato con il governo tunisino nella speranza che possano contenere le partenze dei migranti. Sulla scia del Memorandum d’intesa (MoU) siglato il 16 luglio 2023 su impulso della presidente del Consiglio italiana Meloni, sostenuta dalla presidente della Commissione UE von der Leyen, per rafforzare la cooperazione migratoria (che tradotto vuol dire soldi, tanti, in cambio di frontiere bloccate), “nonostante la chiara documentazione pubblica su una situazione dei diritti umani in forte peggioramento nel paese, inclusi abusi razzisti ed espulsioni collettive illegali da parte delle autorità, spesso comportanti torture e maltrattamenti”, come racconta Amnesty International in un rapporto pubblicato il mese scorso. “L’Unione Europea ha celebrato questa cooperazione migratoria come un successo nonostante la documentazione che dimostra come le autorità tunisine continuano a sottoporre rifugiati e migranti a gravi violazioni dei diritti umani”, ha commentato Heba Morayef, Direttrice Regionale di Amnesty International per il Medio Oriente e il Nord Africa. Ancor più esplicita la nota di Human Rights Watch, che ha da poco firmato una dichiarazione congiunta con altre 45 organizzazioni umanitarie: “L’Unione Europea e i suoi stati membri dovrebbero denunciare pubblicamente le violazioni dei diritti umani in Tunisia e smettere di finanziare attività abusive di controllo della migrazione. Il Memorandum d’Intesa del 2023 ha alimentato e normalizzato gravi violazioni dei diritti umani in Tunisia. In alcuni casi, questi abusi hanno causato la morte. La continua cooperazione migratoria con la Tunisia rende l'UE complice delle violazioni dei diritti umani da parte delle forze di sicurezza tunisine”. SOCIETÀ 26 SETTEMBRE 2024 La Tunisia al voto in una democrazia calpestata SOCIETÀ 22 DICEMBRE 2022 Tunisia, il naufragio politico delle elezioni SOCIETÀ 29 LUGLIO 2021 Tunisia: cosa sta succedendo e come evolve la situazione NELLA STESSA CATEGORIA Una manifestazione contro Kais Saied a gennaio 2026 a Tunisi - REUTERS/Jihed Abidellaoui 1 Off",
+      "spokenText": "In Tunisia cresce la rabbia contro il presidente Saied, tra blackout, repressioni e una crisi politica e sociale sempre più profonda. Oggi sembra di essere tornati al passato: partiti politici marginalizzati e criminalizzati, magistratura riportata sotto il diretto controllo presidenziale, media indipendenti messi a tacere, organizzazioni non profit indebolite, sindacati costantemente sotto pressione. Il Democratic Erosion Consortium, un’organizzazione statunitense specializzata nell’analisi delle strutture democratiche, definisce lo stile di governo di Saied come un perfetto esempio di “autoritarismo furtivo”, in cui le istituzioni democratiche vengono gradualmente indebolite e svuotate. Di certo è un accentratore di potere: la Costituzione approvata nel 2022, che di fatto introduce il presidenzialismo, gli conferisce la “responsabilità primaria” nel definire la politica statale, mentre continua a presentarsi come paladino della lotta alla corruzione. Qualche esempio recente: il 24 giugno scorso l’attivista antirazzista Saadia Mosbah ha visto confermata la sua condanna a otto anni di carcere per presunta appropriazione indebita. Lo scorso maggio è stata invece confermata in appello la condanna a tre anni e mezzo per i giornalisti Mourad Zeghidi e Borhen Bsaies, accusati inizialmente di diffusione di notizie false e poi anche di riciclaggio ed evasione fiscale. Tutto ciò che rimane, secondo il centro di ricerca, è una “facciata di democrazia”.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "tunisia",
+        "saadia mosbah",
+        "mourad zeghidi",
+        "borhen bsaies"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 82,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/blackout-repressioni-tunisia-saied"
+      },
+      "analysis": {
+        "mainFact": "In Tunisia cresce la rabbia contro il presidente Saied tra blackout, repressioni e una crisi politica e sociale.",
+        "whyItMatters": "Oggi sembra di essere tornati al passato: partiti politici marginalizzati e criminalizzati, magistratura riportata sotto il diretto controllo presidenziale, media indipendenti messi a tacere, organizzazioni non profit indebolite, sindacati costantemente sotto pressione.",
+        "confirmedFacts": [
+          "In Tunisia cresce la rabbia contro il presidente Saied tra blackout, repressioni e una crisi politica e sociale.",
+          "Oggi sembra di essere tornati al passato: partiti politici marginalizzati e criminalizzati, magistratura riportata sotto il diretto controllo presidenziale, media indipendenti messi a tacere, organizzazioni non profit indebolite, sindacati costantemente sotto pressione.",
+          "Il Democratic Erosion Consortium , un’organizzazione statunitense specializzata nell’analisi delle strutture democratiche, definisce lo stile di governo di Saied come un perfetto esempio di “autoritarismo furtivo” , in cui le istituzioni democratiche vengono gradualmente indebolite, svuotate.",
+          "Di certo è un accentratore di potere (la successiva Costituzione approvata nel 2022, che di fatto introduce il presidenzialismo, gli conferisce la “responsabilità primaria” nel definire la politica statale) che continua a presentarsi come paladino della lotta alla corruzione.",
+          "Qualche esempio, tra i più recenti: il 24 giugno scorso l’attivista antirazzista tunisina Saadia Mosbah ha visto confermata la sua condanna a otto anni di carcere per presunta appropriazione indebita.",
+          "Lo scorso maggio è stata invece confermata in appello la condanna a 3 anni e mezzo di carcere per altri due giornalisti, Mourad Zeghidi e Borhen Bsaies , accusati inizialmente di “diffusione di notizie false”, e successivamente anche per riciclaggio di denaro ed evasione fiscale.",
+          "Tutto ciò che rimane, secondo il centro di ricerca, è una “facciata di democrazia”.",
+          "In più, in questa estate torrida ( le temperature hanno sfiorato i 50 gradi), bisogna far fronte ai tagli di elettricità e di acqua."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Tunisia",
+          "Saadia Mosbah",
+          "Mourad Zeghidi",
+          "Borhen Bsaies"
+        ],
+        "numbersAndDates": [
+          "Di certo è un accentratore di potere (la successiva Costituzione approvata nel 2022, che di fatto introduce il presidenzialismo, gli conferisce la “responsabilità primaria” nel definire la politica statale) che continua a presentarsi come paladino della lotta alla corruzione.",
+          "Qualche esempio, tra i più recenti: il 24 giugno scorso l’attivista antirazzista tunisina Saadia Mosbah ha visto confermata la sua condanna a otto anni di carcere per presunta appropriazione indebita.",
+          "Lo scorso maggio è stata invece confermata in appello la condanna a 3 anni e mezzo di carcere per altri due giornalisti, Mourad Zeghidi e Borhen Bsaies , accusati inizialmente di “diffusione di notizie false”, e successivamente anche per riciclaggio di denaro ed evasione fiscale.",
+          "In più, in questa estate torrida ( le temperature hanno sfiorato i 50 gradi), bisogna far fronte ai tagli di elettricità e di acqua."
+        ]
+      }
+    },
+    {
+      "id": "story-f8723eb27bbfbd11",
+      "title": "Scovata materia ordinaria mancante all’appello",
+      "summary": "Lo studio, condotto da ricercatori di diversi istituti nell’ambito della collaborazione Chime e pubblicato a luglio su Physical Review Letters, ha individuato la posizione di un’enorme quantità di materia ordinaria finora sfuggita alle osservazioni. Il metodo usato combina la distribuzione di milioni di galassie con uno dei più enigmatici fenomeni del cielo radio: i fast radio bursts",
+      "spokenText": "Ora, un nuovo studio pubblicato su Physical Review Letters ha puntato il dito sulla mappa, indicando dove si trova questo enorme serbatoio di materia mancante. Scovata materia ordinaria mancante all’appello.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "collaborazione chime",
+        "physical review letters"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 12,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/05/scovata-materia-ordinaria-mancante/"
+      },
+      "analysis": {
+        "mainFact": "Scovata materia ordinaria mancante all’appello",
+        "whyItMatters": "Lo studio ha individuato la posizione di un'enorme quantità di materia ordinaria finora sfuggita alle osservazioni.",
+        "confirmedFacts": [
+          "Scovata materia ordinaria mancante all’appello",
+          "Lo studio ha individuato la posizione di un'enorme quantità di materia ordinaria finora sfuggita alle osservazioni.",
+          "Lo studio, condotto da ricercatori di diversi istituti nell’ambito della collaborazione Chime e pubblicato a luglio su Physical Review Letters, ha individuato la posizione di un’enorme quantità di materia ordinaria finora sfuggita alle osservazioni."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "collaborazione Chime",
+          "Physical Review Letters"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-501b4fb7f462a593",
+      "title": "Morto Francesco Guccini, Lepore: “Piangono Bologna e l’Italia”. Vasco: “Noi tra la via Emilia e il Roxi bar”",
+      "summary": "Il cantautore se n’è andato a 86 anni. Il saluto del mondo della musica, degli amici, della sua Emilia e di più generazioni di appassionati",
+      "spokenText": "È morto all’età di 86 anni il cantautore Francesco Guccini. La notizia ha suscitato un’ondata di cordoglio che ha unito il mondo della musica, gli amici, la sua Emilia e diverse generazioni di appassionati. ‘Piangono Bologna e l’Italia’. Un dolore che ha varcato i confini emiliani, trovando eco nei messaggi di chi quella terra l’ha cantata. Zucchero ha ricordato sui social il grande Francesco Guccini. Tra i tanti omaggi è apparso un biglietto, lasciato in terra, scritto velocemente, come velocemente è arrivata la notizia: ‘Ciao Francesco, con te va via la miglior parte della mia vita’. Un addio intimo che fotografa il segno lasciato da Guccini. Vasco: “Noi tra la via Emilia e il Roxi bar”.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "francesco guccini",
+        "lepore",
+        "vasco",
+        "gino castaldo",
+        "zucchero",
+        "bologna",
+        "emilia"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 47,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/spettacoli/musica/2026/08/06/diretta/morto_francesco_guccini_oggi_reazioni-425515253/"
+      },
+      "analysis": {
+        "mainFact": "Il cantautore Francesco Guccini è morto a 86 anni.",
+        "whyItMatters": "Il saluto del mondo della musica, degli amici, della sua Emilia e di più generazioni di appassionati",
+        "confirmedFacts": [
+          "Il cantautore Francesco Guccini è morto a 86 anni.",
+          "Il saluto del mondo della musica, degli amici, della sua Emilia e di più generazioni di appassionati",
+          "Lepore: “Piangono Bologna e l’Italia”.",
+          "Vasco: “Noi tra la via Emilia e il Roxi bar”",
+          "Così Zucchero ricorda sui social il grande Francesco Guccini , morto oggi all'età di 86 anni.",
+          "E poi un biglietto, lasciato in terra, scritto velocemente, come velocemente è arrivata la notizia: “Ciao Francesco, con te va via la miglior parte della mia vita”."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Francesco Guccini",
+          "Lepore",
+          "Vasco",
+          "Gino Castaldo",
+          "Zucchero",
+          "Bologna",
+          "Emilia"
+        ],
+        "numbersAndDates": [
+          "Così Zucchero ricorda sui social il grande Francesco Guccini , morto oggi all'età di 86 anni.",
+          "86"
+        ]
+      }
+    },
+    {
+      "id": "story-baa469795a1194ac",
+      "title": "La BCE segnala che il caro energia pesa sulle famiglie a basso reddito e ne erode i risparmi",
+      "summary": "Il Consiglio direttivo non si vincola a percorso sui tassi, dipende dai dati",
+      "spokenText": "Il caro energia non è soltanto una voce di spesa che lievita in bolletta. L’istituto centrale ha quantificato questa dinamica, rilevando come le famiglie a basso reddito registrino un tasso di risparmio mediano negativo, pari a circa il -5,8 per cento del reddito disponibile. In termini concreti, questo significa che per far fronte ai rincari energetici queste famiglie non solo non riescono ad accantonare nulla.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "bce"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 26,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-incertezza-elevata-impatto-shock-energia-deve-ancora-arrivare_36bb802f-3733-479f-b096-8e996c1c4d55.html"
+      },
+      "analysis": {
+        "mainFact": "La BCE segnala che il caro energia pesa sulle famiglie a basso reddito e ne erode i risparmi.",
+        "whyItMatters": "I rincari poi \"erodono le risorse accantonate\" e queste famiglie \"registrano un tasso di risparmio mediano negativo e pari a circa il -5,8 per cento del reddito disponibile\".",
+        "confirmedFacts": [
+          "La BCE segnala che il caro energia pesa sulle famiglie a basso reddito e ne erode i risparmi.",
+          "I rincari poi \"erodono le risorse accantonate\" e queste famiglie \"registrano un tasso di risparmio mediano negativo e pari a circa il -5,8 per cento del reddito disponibile\".",
+          "L'ultima conferma viene da uno studio della Bce contenuto nel bollettino economico secondo cui nei nuclei \"a più basso reddito\" il 9% del bilancio viene assorbito dal pagamento dei beni energetici, carburanti e bollette energia contro una media del 5,5%."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "BCE"
+        ],
+        "numbersAndDates": [
+          "5,8"
+        ]
+      }
+    },
+    {
+      "id": "story-c73167006f19dd06",
+      "title": "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente",
+      "summary": "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente. Ecco la birifrangenza del vuoto, una teoria vecchia di 90 anni nel campo dell'elettrodinamica quantistica.",
+      "spokenText": "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente. Ecco la birifrangenza del vuoto, una teoria vecchia di 90 anni nel campo dell'elettrodinamica quantistica. Proposta per la prima volta nel 1936, la teoria suggerisce che il vuoto dello spazio può essere alterato da campi magnetici estremi, molto più alti di quelli che gli esseri umani possono creare sulla Terra. Maggiori informazioni su IXPE. La missione IXPE, che continua a fornire dati senza precedenti consentendo scoperte rivoluzionarie sugli oggetti celesti in tutto l'universo, è una missione congiunta della NASA e dell'Agenzia Spaziale Italiana con partner e collaboratori scientifici in 12 paesi. L'IXPE della NASA potrebbe aver dimostrato una teoria vecchia di 90 anni.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "ixpe"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 54,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/"
+      },
+      "analysis": {
+        "mainFact": "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente.",
+        "whyItMatters": "Ecco la birifrangenza del vuoto, una teoria vecchia di 90 anni nel campo dell'elettrodinamica quantistica.",
+        "confirmedFacts": [
+          "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente.",
+          "Ecco la birifrangenza del vuoto, una teoria vecchia di 90 anni nel campo dell'elettrodinamica quantistica.",
+          "Proposta per la prima volta nel 1936, la teoria suggerisce che il vuoto dello spazio può essere alterato da campi magnetici estremi, molto più alti di quelli che gli esseri umani possono creare sulla Terra.",
+          "Maggiori informazioni su IXPE. La missione IXPE, che continua a fornire dati senza precedenti consentendo scoperte rivoluzionarie sugli oggetti celesti in tutto l'universo, è una missione congiunta della NASA e dell'Agenzia Spaziale Italiana con partner e collaboratori scientifici in 12 paesi.",
+          "L'IXPE della NASA potrebbe aver dimostrato una teoria vecchia di 90 anni"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "IXPE"
+        ],
+        "numbersAndDates": [
+          "Proposta per la prima volta nel 1936, la teoria suggerisce che il vuoto dello spazio può essere alterato da campi magnetici estremi, molto più alti di quelli che gli esseri umani possono creare sulla Terra.",
+          "Maggiori informazioni su IXPE. La missione IXPE, che continua a fornire dati senza precedenti consentendo scoperte rivoluzionarie sugli oggetti celesti in tutto l'universo, è una missione congiunta della NASA e dell'Agenzia Spaziale Italiana con partner e collaboratori scientifici in 12 paesi.",
+          "L'IXPE della NASA potrebbe aver dimostrato una teoria vecchia di 90 anni",
+          "90"
+        ]
+      }
+    },
+    {
+      "id": "story-630bd4408666233c",
+      "title": "Meta è l'ultima azienda ad aver dichiarato che una sua intelligenza artificiale ha violato i sistemi di un'altra società",
+      "summary": "Meta è l'ultima azienda ad aver dichiarato che una sua intelligenza artificiale ha violato i sistemi di un'altra società. OpenAI e Anthropic stanno preparando quotazioni in borsa da blockbuster che dovrebbero valutare ciascuna azienda circa 1 trilione di dollari (740 miliardi di sterline).",
+      "spokenText": "Meta è l’ultimo gigante tech a dover ammettere che una propria intelligenza artificiale è riuscita a violare i sistemi informatici di un’altra azienda. Un episodio che dà corpo a una riflessione più ampia sull’imprevedibilità di queste tecnologie: quando assegni un obiettivo a un’IA, se non pensi a tutti i modi in cui potrebbe raggiungerlo, lei troverà una strada che non avevi considerato. E il contesto diventa ancora più significativo se si guarda ai player del settore: OpenAI e Anthropic stanno preparando quotazioni in borsa da blockbuster che dovrebbero valutare ciascuna azienda circa mille miliardi di dollari. \" Le azioni Meta scendono mentre cresce la frustrazione per i piani di spesa sull'IA. 29 luglio. IA o realtà?",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "meta",
+        "openai",
+        "anthropic"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 47,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Meta è l'ultima azienda ad aver dichiarato che una sua intelligenza artificiale ha violato i sistemi di un'altra società.",
+        "whyItMatters": "OpenAI e Anthropic stanno preparando quotazioni in borsa da blockbuster che dovrebbero valutare ciascuna azienda circa 1 trilione di dollari (740 miliardi di sterline).",
+        "confirmedFacts": [
+          "Meta è l'ultima azienda ad aver dichiarato che una sua intelligenza artificiale ha violato i sistemi di un'altra società.",
+          "OpenAI e Anthropic stanno preparando quotazioni in borsa da blockbuster che dovrebbero valutare ciascuna azienda circa 1 trilione di dollari (740 miliardi di sterline).",
+          "\"Quando assegni un obiettivo a un'IA, se non pensi a tutti i modi in cui potrebbe raggiungerlo, troverà un modo per raggiungere l'obiettivo a cui non avevi pensato. \" Le azioni Meta scendono mentre cresce la frustrazione per i piani di spesa sull'IA. 29 luglio. IA o realtà?"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Meta",
+          "OpenAI",
+          "Anthropic"
+        ],
+        "numbersAndDates": [
+          "\"Quando assegni un obiettivo a un'IA, se non pensi a tutti i modi in cui potrebbe raggiungerlo, troverà un modo per raggiungere l'obiettivo a cui non avevi pensato. \" Le azioni Meta scendono mentre cresce la frustrazione per i piani di spesa sull'IA. 29 luglio. IA o realtà?",
+          "1",
+          "740"
+        ]
+      }
+    },
+    {
+      "id": "story-aa6c972d92a268db",
+      "title": "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna",
+      "summary": "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna.",
+      "spokenText": "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "spacex"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/videos/ce3qznlqkp7o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna.",
+        "whyItMatters": "Impatto lunare di un razzo SpaceX, evento spaziale con implicazioni scientifiche e ingegneristiche.",
+        "confirmedFacts": [
+          "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna.",
+          "Impatto lunare di un razzo SpaceX, evento spaziale con implicazioni scientifiche e ingegneristiche.",
+          "The empty upper stage of a Falcon 9 rocket was due to strike the Moon about 5,400mph (8,700km/h) on Wednesday 5 August."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "SpaceX"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-7e0f2f340a4fe827",
+      "title": "La maggior parte dei fiumi e dei laghi dell'Inghilterra non supera una nuova revisione ambientale",
+      "summary": "La maggior parte dei fiumi e dei laghi dell'Inghilterra non supera una nuova revisione ambientale. I dati dell'Environment Agency mostrano che mentre il 15% dei fiumi è classificato come buono, meno del 7% dei laghi ha raggiunto quel livello.",
+      "spokenText": "L'Environment Agency ha appena pubblicato la sua revisione ambientale, e il quadro che emerge per fiumi e laghi inglesi è tutt'altro che rassicurante. La maggior parte di questi corpi idrici non supera la valutazione. Entrando nel dettaglio, solo il 15% dei fiumi raggiunge una classificazione di buono, mentre per i laghi la situazione è ancora più critica: meno del 7% ce la fa. L'agenzia però spiega che questo crollo non riflette un reale peggioramento delle condizioni, ma è dovuto in gran parte a un cambiamento nei metodi di valutazione dei suoi esperti. Questi risultati arrivano mentre buona parte dell'Inghilterra è in siccità ufficiale, con i fiumi in magra e oltre 20 milioni di persone soggette al divieto di usare tubi per annaffiare. E se si guarda all'inquinamento chimico, il fallimento è totale: ogni singolo fiume e lago non ha superato il test. Alla domanda diretta se le acque inglesi fossero più sane rispetto a sei o sette anni fa, la professoressa Johnes è stata lapidaria: \"No, decisamente no\", parlando di sostanze chimiche in accumulo. E tutto questo nonostante le compagnie idriche abbiano stanziato la cifra record di 22 miliardi di sterline per miglioramenti ambientali entro il 2030.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "environment agency"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 79,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "La maggior parte dei fiumi e dei laghi dell'Inghilterra non supera una nuova revisione ambientale.",
+        "whyItMatters": "I dati dell'Environment Agency mostrano che mentre il 15% dei fiumi è classificato come buono, meno del 7% dei laghi ha raggiunto quel livello.",
+        "confirmedFacts": [
+          "La maggior parte dei fiumi e dei laghi dell'Inghilterra non supera una nuova revisione ambientale.",
+          "I dati dell'Environment Agency mostrano che mentre il 15% dei fiumi è classificato come buono, meno del 7% dei laghi ha raggiunto quel livello.",
+          "In particolare, ha detto che il forte calo del numero di laghi classificati come buoni - circa la metà in meno rispetto al 2019 - riflette in gran parte un cambiamento nel modo in cui i suoi esperti ora li valutano, piuttosto che un reale declino delle loro condizioni.",
+          "I risultati arrivano mentre gran parte dell'Inghilterra è in siccità ufficiale, con fiumi in magra e più di 20 milioni di persone soggette al divieto di usare tubi per l'acqua.",
+          "Alla domanda diretta se le acque dell'Inghilterra fossero più sane di sei o sette anni fa, la professoressa Johnes ha risposto: \"No, decisamente no. \" Sostanze chimiche in accumulo. Ogni fiume e lago non ha superato il test per l'inquinamento chimico.",
+          "Nonostante la cifra record di 22 miliardi di sterline stanziata per i miglioramenti ambientali delle compagnie idriche entro il 2030, il quadro complessivo è cambiato poco dal 2019."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Environment Agency"
+        ],
+        "numbersAndDates": [
+          "In particolare, ha detto che il forte calo del numero di laghi classificati come buoni - circa la metà in meno rispetto al 2019 - riflette in gran parte un cambiamento nel modo in cui i suoi esperti ora li valutano, piuttosto che un reale declino delle loro condizioni.",
+          "I risultati arrivano mentre gran parte dell'Inghilterra è in siccità ufficiale, con fiumi in magra e più di 20 milioni di persone soggette al divieto di usare tubi per l'acqua.",
+          "Nonostante la cifra record di 22 miliardi di sterline stanziata per i miglioramenti ambientali delle compagnie idriche entro il 2030, il quadro complessivo è cambiato poco dal 2019.",
+          "15",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "story-9ff4e83f94515219",
+      "title": "Abdul El-Sayed, lancia un appello all'unità del partito",
+      "summary": "Il neo candidato al senato Usa in Michigan, lancia un appello all'unità",
+      "spokenText": "Abdul El-Sayed ha conquistato la nomination per il Senato in Michigan e il suo primo messaggio è stato un appello all'unità. Parlando dopo la vittoria, ha usato parole molto chiare: \"In casa si discute, ma fuori serve unità: sono più le cose che ci uniscono di quelle che ci dividono\". Un'affermazione che arriva da una figura che a soli quarantun anni è già considerata uno dei nuovi volti della sinistra americana. Figlio di immigrati egiziani, El-Sayed incarna un percorso generazionale e politico che sta attirando molta attenzione, in uno Stato, il Michigan, che sarà cruciale per il controllo del Senato USA.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "abdul el sayed",
+        "michigan",
+        "senato usa"
+      ],
+      "importance": 65,
+      "mustInclude": true,
+      "estimatedSeconds": 41,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/05/abdul-el-sayed-ai-dem-in-casa-si-discute-ma-fuori-serve-unita_08254962-9127-406d-a39f-445d4343b3cd.html"
+      },
+      "analysis": {
+        "mainFact": "Abdul El-Sayed, lancia un appello all'unità del partito.",
+        "whyItMatters": "A 41 anni Abdul El-Sayed è diventato uno dei nuovi volti della sinistra americana.",
+        "confirmedFacts": [
+          "Abdul El-Sayed, lancia un appello all'unità del partito.",
+          "A 41 anni Abdul El-Sayed è diventato uno dei nuovi volti della sinistra americana.",
+          "\"In casa si discute, ma fuori serve unit : sono pi le cose che ci uniscono di quelle che ci dividono\", ha detto El-Sayed, parlando dopo la conquista della nomination.",
+          "El-Sayed è figlio di immigrati egiziani."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Abdul El-Sayed",
+          "Michigan",
+          "Senato USA"
+        ],
+        "numbersAndDates": [
+          "El-Sayed è figlio di immigrati egiziani.",
+          "41"
+        ]
+      }
+    },
+    {
+      "id": "story-ef25a049a2b393ec",
+      "title": "Droni russi hanno attaccato la nave cargo tedesca 'Emil', battente bandiera liberiana, vicino a Odessa, causando un incendio a bordo",
+      "summary": "Una nave cargo tedesca, battente bandiera liberiana, è finita nel mirino di un attacco di droni russi, nel Mar Nero, vicino a Odessa. Lo scrive la Bild. Stando al tabloid...",
+      "spokenText": "Droni russi hanno attaccato la nave cargo tedesca Emil, battente bandiera liberiana, a 21 miglia da Odessa, provocando un incendio a bordo. secondo Kiev, 25 droni Shahed e un missile Onyx hanno centrato 18 obiettivi. L’aeronautica militare Ucraina ha reso noto di aver abbattuto 66 dei 101 droni lanciati dalla Russia durante la notte.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "ucraina",
+        "odessa",
+        "mar nero",
+        "bild"
+      ],
+      "importance": 70,
+      "mustInclude": true,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-raid-russo-regione-kharkiv-tre-morti-balakliya-AJjS5Jg"
+      },
+      "analysis": {
+        "mainFact": "Droni russi hanno attaccato la nave cargo tedesca 'Emil', battente bandiera liberiana, vicino a Odessa, causando un incendio a bordo.",
+        "whyItMatters": "La nave presa d’assalto dai droni si chiama “Emil” e si trovava a 21 miglia dalla città portuale.",
+        "confirmedFacts": [
+          "Droni russi hanno attaccato la nave cargo tedesca 'Emil', battente bandiera liberiana, vicino a Odessa, causando un incendio a bordo.",
+          "La nave presa d’assalto dai droni si chiama “Emil” e si trovava a 21 miglia dalla città portuale.",
+          "L’aeronautica militare Ucraina ha reso noto di aver abbattuto 66 dei 101 droni lanciati dalla Russia durante la notte.",
+          "Mosca ha inoltre impiegato quattro missili: secondo Kiev, 25 droni Shahed e un missile Onyx hanno raggiunto 18 obiettivi, mentre gli altri vettori non hanno colpito i bersagli previsti.",
+          "Droni ucraini colpiscono raffineria di YaroslavlMosca: “Colpite due navi mercantili vicino a Odessa”"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Russia",
+          "Ucraina",
+          "Odessa",
+          "Mar Nero",
+          "Bild"
+        ],
+        "numbersAndDates": [
+          "L’aeronautica militare Ucraina ha reso noto di aver abbattuto 66 dei 101 droni lanciati dalla Russia durante la notte.",
+          "Mosca ha inoltre impiegato quattro missili: secondo Kiev, 25 droni Shahed e un missile Onyx hanno raggiunto 18 obiettivi, mentre gli altri vettori non hanno colpito i bersagli previsti.",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "story-f64baa88134b0fe3",
+      "title": "L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025",
+      "summary": "L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025. “Un cessate il fuoco che comporta la morte di un bambino in media ogni singolo giorno sta deludendo i bambini”, ha dichiarato Edouard Beigbeder, Direttore regionale dell’Unicef per il Medioriente e il Nord Africa.",
+      "spokenText": "Edouard Beigbeder, Direttore regionale dell’Unicef per il Medioriente e il Nord Africa, ha dichiarato che un cessate il fuoco che comporta la morte di un bambino in media ogni singolo giorno sta deludendo i bambini. L’accordo per la sospensione delle operazioni militari e il pieno accesso degli aiuti umanitari risale a quasi dieci mesi fa. L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025. Avrà una durata di 60 giorni e mira a ripristinare la navigazione. Trump: 'Riaprite o reazione durissima'.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "iran",
+        "oman",
+        "stati uniti",
+        "unicef",
+        "gaza",
+        "edouard beigbeder"
+      ],
+      "importance": 70,
+      "mustInclude": true,
+      "estimatedSeconds": 37,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-trump-attacca-hegseth-carenza-missili-la-guerra-iran-AJdtjHg"
+      },
+      "analysis": {
+        "mainFact": "L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025.",
+        "whyItMatters": "“Un cessate il fuoco che comporta la morte di un bambino in media ogni singolo giorno sta deludendo i bambini”, ha dichiarato Edouard Beigbeder, Direttore regionale dell’Unicef per il Medioriente e il Nord Africa.",
+        "confirmedFacts": [
+          "L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025.",
+          "“Un cessate il fuoco che comporta la morte di un bambino in media ogni singolo giorno sta deludendo i bambini”, ha dichiarato Edouard Beigbeder, Direttore regionale dell’Unicef per il Medioriente e il Nord Africa.",
+          "I più letti 10:40 6 agosto 2026 Unicef, a Gaza morti 300 bambini in ultimi 300 giorni Secondo le notizie, almeno 300 bambini sarebbero stati uccisi a Gaza nei 300 giorni trascorsi dall’annuncio del cessate il fuoco nell’ottobre 2025.",
+          "Avrà una durata di 60 giorni e mira a ripristinare la navigazione.",
+          "Trump: 'Riaprite o reazione durissima'",
+          "Ciò equivale a una media di un bambino al giorno, nonostante l’accordo per la sospensione delle operazioni militari e il pieno accesso degli aiuti umanitari e dei soccorsi risalga a quasi 10 mesi fa."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Iran",
+          "Oman",
+          "Stati Uniti",
+          "UNICEF",
+          "Gaza",
+          "Edouard Beigbeder"
+        ],
+        "numbersAndDates": [
+          "I più letti 10:40 6 agosto 2026 Unicef, a Gaza morti 300 bambini in ultimi 300 giorni Secondo le notizie, almeno 300 bambini sarebbero stati uccisi a Gaza nei 300 giorni trascorsi dall’annuncio del cessate il fuoco nell’ottobre 2025.",
+          "Avrà una durata di 60 giorni e mira a ripristinare la navigazione.",
+          "Ciò equivale a una media di un bambino al giorno, nonostante l’accordo per la sospensione delle operazioni militari e il pieno accesso degli aiuti umanitari e dei soccorsi risalga a quasi 10 mesi fa.",
+          "300",
+          "2025"
         ]
       }
     }
