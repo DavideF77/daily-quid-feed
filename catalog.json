@@ -1,628 +1,592 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-06-c4515eac4543",
-  "generatedAt": "2026-08-06T12:25:40.003Z",
+  "catalogId": "daily-quid-2026-08-07-de5ce139e9e8",
+  "generatedAt": "2026-08-07T08:37:01.824Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-082ebf7cd7d8c5bc",
-      "title": "Quanto ci costa la crisi climatica in Italia",
-      "summary": "Per la prima volta in Italia, un rapporto ha raccolto e descritto i futuri rischi climatici, gli scenari e le soluzioni. Ma invece di investire in prevenzione, il governo ignora la scienza e promuove addirittura il ritorno al carbone. Il documento, abbastanza ignorato dai media mainstream nazionali, offre un’analisi sistematica del rischio climatico in Italia per imprese e istituzioni, attraverso proiezioni fisiche ad alta risoluzione, modelli macroeconomici e analisi di sostenibilità del debito. Vengono per la prima volta quantificati gli impatti macroeconomici e finanziari del cambiamento climatico e le possibili strategie di intervento per mitigare e adattarsi.",
-      "spokenText": "Per la prima volta in Italia esiste un rapporto che raccoglie e descrive in modo organico i futuri rischi climatici, i possibili scenari e le strategie per affrontarli. Eppure, questo lavoro è rimasto in gran parte ai margini dell’attenzione dei media mainstream nazionali. E mentre la scienza mette sul tavolo dati e strumenti per fare prevenzione, il governo procede nella direzione opposta, ignorando quelle analisi e promuovendo addirittura il ritorno al carbone.",
+      "id": "story-65f6db23ac25c515",
+      "title": "ll Mediterraneo tocca 33 gradi, mai così calda l’acqua del mare: “L’aria fresca innescherà disastri”",
+      "summary": "L’estate delle ondate di calore senza fine continua a stupire gli esperti: “Siamo circondati da una polveriera, l’arrivo delle correnti potrebbe scatenare fenomeni atmosferici violenti”",
+      "spokenText": "L’acqua del mare è così calda che gli esperti guardano con apprensione all’arrivo delle prime correnti d’aria fresca. “Siamo circondati da una polveriera”, spiegano, “l’arrivo delle correnti potrebbe scatenare fenomeni atmosferici violenti”. L’estate delle ondate di calore senza fine continua a stupire e il timore è che lo scontro tra l’energia accumulata in superficie e l’aria più fredda inneschi disastri. ll Mediterraneo tocca 33 gradi, mai così calda l’acqua del mare: “L’aria fresca innescherà disastri”.",
       "category": "ambiente",
       "tags": [
-        "ambiente",
+        "ambiente"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 30,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/cronaca/2026/08/07/news/caldo_estremo_mare_bollente_record_mediterraneo-425516511/"
+      },
+      "analysis": {
+        "mainFact": "ll Mediterraneo tocca 33 gradi, mai così calda l’acqua del mare: “L’aria fresca innescherà disastri”",
+        "whyItMatters": "L’estate delle ondate di calore senza fine continua a stupire gli esperti: “Siamo circondati da una polveriera, l’arrivo delle correnti potrebbe scatenare fenomeni atmosferici violenti”.",
+        "confirmedFacts": [
+          "ll Mediterraneo tocca 33 gradi, mai così calda l’acqua del mare: “L’aria fresca innescherà disastri”",
+          "L’estate delle ondate di calore senza fine continua a stupire gli esperti: “Siamo circondati da una polveriera, l’arrivo delle correnti potrebbe scatenare fenomeni atmosferici violenti”."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "33"
+        ]
+      }
+    },
+    {
+      "id": "story-75e53f918d1b0a52",
+      "title": "L’effetto delle ondate di calore su energia nucleare, a gas, eolica e solare",
+      "summary": "Le rinnovabili sono davvero inaffidabili col caldo? Tra falsi miti ed evidenze, ecco come reagiscono nucleare, gas, eolico e solare alle ondate di calore.",
+      "spokenText": "Tra falsi miti ed evidenze, vediamo come reagiscono nucleare, gas, eolico e solare. La domanda sorge spontanea: le rinnovabili sono davvero inaffidabili col caldo?",
+      "category": "ambiente",
+      "tags": [
+        "ambiente"
+      ],
+      "importance": 92,
+      "mustInclude": true,
+      "estimatedSeconds": 10,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/ondate-calore-energia-nucleare-solare-gas-eolico/"
+      },
+      "analysis": {
+        "mainFact": "L’effetto delle ondate di calore su energia nucleare, a gas, eolica e solare",
+        "whyItMatters": "Le rinnovabili sono davvero inaffidabili col caldo?",
+        "confirmedFacts": [
+          "L’effetto delle ondate di calore su energia nucleare, a gas, eolica e solare",
+          "Le rinnovabili sono davvero inaffidabili col caldo?",
+          "Tra falsi miti ed evidenze, ecco come reagiscono nucleare, gas, eolico e solare alle ondate di calore."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-d749a9140e62dfd3",
+      "title": ">>>ANSA/Spesa per farmaci oltre 39 miliardi, dispensate 1,9 miliardi di confezioni",
+      "summary": "Rapporto Aifa, si spende di tasca propria per nuovi antibietici. Più psicofarmaci ai bimbi",
+      "spokenText": "La spesa farmaceutica complessiva in Italia ha raggiunto i 39,3 miliardi di euro nel 2025, segnando un incremento del 6% rispetto all'anno precedente, per un totale di circa 1,9 miliardi di confezioni dispensate. La quota pubblica si è attestata sui 28,4 miliardi, in crescita del 5,8% rispetto al 2024, e rappresenta il 72,2% del totale. Circa sette cittadini su dieci hanno ricevuto almeno una prescrizione. A colpire, guardando i dati dell'Aifa, è la propensione all'acquisto privato di farmaci antidiabetici innovativi come semaglutide e tirzepatide, efficaci anche per l'obesità e la perdita di peso: qui i consumi legati all'esborso diretto sono aumentati dell'85,7% e la relativa cifra del 75,8%. Emergono poi forti differenze territoriali: in Sicilia e Campania i cittadini pagano di tasca propria le cifre più alte, 22,35 euro pro capite contro i 13,73 euro del Nord, un divario che segnala anche una resistenza a sostituire il farmaco di marca con il generico. Il rapporto dell'Aifa, spesa complessiva per antidiabetici nel 2025 di 1,59 miliardi.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "aifa",
         "italia"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 29,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/crisi-climatica-costi-italia-primo-rapporto/"
-      },
-      "analysis": {
-        "mainFact": "Per la prima volta in Italia, un rapporto ha raccolto e descritto i futuri rischi climatici, gli scenari e le soluzioni.",
-        "whyItMatters": "Ma invece di investire in prevenzione, il governo ignora la scienza e promuove addirittura il ritorno al carbone.",
-        "confirmedFacts": [
-          "Per la prima volta in Italia, un rapporto ha raccolto e descritto i futuri rischi climatici, gli scenari e le soluzioni.",
-          "Ma invece di investire in prevenzione, il governo ignora la scienza e promuove addirittura il ritorno al carbone.",
-          "Il documento, abbastanza ignorato dai media mainstream nazionali, offre un’analisi sistematica del rischio climatico in Italia per imprese e istituzioni, attraverso proiezioni fisiche ad alta risoluzione, modelli macroeconomici e analisi di sostenibilità del debito.",
-          "Vengono per la prima volta quantificati gli impatti macroeconomici e finanziari del cambiamento climatico e le possibili strategie di intervento per mitigare e adattarsi."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Italia"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f76dbf66eb8162d5",
-      "title": "Iss, dall'inizio dell'anno 141 casi West Nile, 192 di dengue e 17 di Chikungunya",
-      "summary": "Sei decessi per West Nile, salgono a 50 le Province con dimostrata circolazione del virus",
-      "spokenText": "Iss, dall'inizio dell'anno 141 casi West Nile, 192 di dengue e 17 di Chikungunya. Sei decessi per West Nile, salgono a 50 le Province con dimostrata circolazione del virus. Tra i casi confermati sono stati notificati 6 decessi (1 decesso in un caso importato). Lo scorso anno nello stesso periodo erano stati 173 i casi segnalati con 11 decessi. Nello stesso periodo sono stati segnalati 3 casi di Usutu virus, tutti in Lombardia. Sul tema di le altre arbovirosi, dal 1 gennaio al 31 luglio 2026 al sistema di sorveglianza nazionale coordinato dall'Iss risultano 192 casi confermati di Dengue (tutti associati a viaggi all'estero, di cui 125 con probabile luogo di esposizione le Maldive, nessun decesso).",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "iss"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 47,
+      "estimatedSeconds": 66,
       "source": {
         "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/06/iss-dallinizio-dellanno-141-casi-west-nile-192-di-dengue-e-17-di-chikungunya_8127e933-ee69-4280-abbc-26ba0bc78725.html"
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/06/ansaspesa-per-farmaci-oltre-39-miliardi-dispensate-19-miliardi-di-confezioni_8ea09171-d61a-403c-9b39-ae0885f3bd01.html"
       },
       "analysis": {
-        "mainFact": "Iss, dall'inizio dell'anno 141 casi West Nile, 192 di dengue e 17 di Chikungunya",
-        "whyItMatters": "Sei decessi per West Nile, salgono a 50 le Province con dimostrata circolazione del virus.",
+        "mainFact": "La spesa farmaceutica complessiva in Italia ha raggiunto i 39,3 miliardi di euro nel 2025, con un aumento del 6% rispetto all'anno precedente.",
+        "whyItMatters": "Tra i medicinali per cui gli italiani sono più propensi a spendere di tasca propria, ci sono i farmaci antidiabetici innovativi, efficaci anche per l'obesità e la perdita di peso, come semaglutide e tirzepatide, per cui i consumi legati all'acquisto privato sono aumentati dell'85,7% e la spesa del 75,8%.",
         "confirmedFacts": [
-          "Iss, dall'inizio dell'anno 141 casi West Nile, 192 di dengue e 17 di Chikungunya",
-          "Sei decessi per West Nile, salgono a 50 le Province con dimostrata circolazione del virus.",
-          "Tra i casi confermati sono stati notificati 6 decessi (1 decesso in un caso importato).",
-          "Lo scorso anno nello stesso periodo erano stati 173 i casi segnalati con 11 decessi.",
-          "Nello stesso periodo sono stati segnalati 3 casi di Usutu virus, tutti in Lombardia.",
-          "Sul tema di le altre arbovirosi, dal 1 gennaio al 31 luglio 2026 al sistema di sorveglianza nazionale coordinato dall'Iss risultano 192 casi confermati di Dengue (tutti associati a viaggi all'estero, di cui 125 con probabile luogo di esposizione le Maldive, nessun decesso);",
-          "17 casi confermati di Chikungunya (tutti associati a viaggi all'estero, nessun decesso);",
-          "3 casi di Zika virus (tutti associati a viaggi all'estero, nessun decesso)."
+          "La spesa farmaceutica complessiva in Italia ha raggiunto i 39,3 miliardi di euro nel 2025, con un aumento del 6% rispetto all'anno precedente.",
+          "Tra i medicinali per cui gli italiani sono più propensi a spendere di tasca propria, ci sono i farmaci antidiabetici innovativi, efficaci anche per l'obesità e la perdita di peso, come semaglutide e tirzepatide, per cui i consumi legati all'acquisto privato sono aumentati dell'85,7% e la spesa del 75,8%.",
+          "Cresce la spesa farmaceutica in Italia, raggiungendo i 39,3 miliardi di euro complessivi nel 2025, con un aumento del 6% rispetto all'anno precedente e per un totale di circa 1,9 miliardi di confezioni dispensate.",
+          "Entrando nello specifico, la spesa pubblica si è attestata sui 28,4 miliardi di euro (in crescita del 5,8% rispetto al 2024), pari al 72,2% della spesa farmaceutica complessiva.",
+          "Sicilia e Campania, che i cittadini pagano di tasca propria le cifre più alte (22,35 euro pro capite contro i 13,73 euro del Nord), indice anche di una resistenza a sostituire il farmaco di marca con il generico.",
+          "In totale circa 7 cittadini su 10 (66,9% degli assistiti) hanno ricevuto almeno una prescrizione di farmaci.",
+          "Il rapporto dell'Aifa, spesa complessiva per antidiabetici nel 2025 di 1,59 miliardi"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Iss"
+          "AIFA",
+          "Italia"
         ],
         "numbersAndDates": [
-          "Tra i casi confermati sono stati notificati 6 decessi (1 decesso in un caso importato).",
-          "Lo scorso anno nello stesso periodo erano stati 173 i casi segnalati con 11 decessi.",
-          "Nello stesso periodo sono stati segnalati 3 casi di Usutu virus, tutti in Lombardia.",
-          "Sul tema di le altre arbovirosi, dal 1 gennaio al 31 luglio 2026 al sistema di sorveglianza nazionale coordinato dall'Iss risultano 192 casi confermati di Dengue (tutti associati a viaggi all'estero, di cui 125 con probabile luogo di esposizione le Maldive, nessun decesso);",
-          "17 casi confermati di Chikungunya (tutti associati a viaggi all'estero, nessun decesso);",
-          "3 casi di Zika virus (tutti associati a viaggi all'estero, nessun decesso).",
-          "141",
-          "192",
-          "17",
-          "50"
+          "Cresce la spesa farmaceutica in Italia, raggiungendo i 39,3 miliardi di euro complessivi nel 2025, con un aumento del 6% rispetto all'anno precedente e per un totale di circa 1,9 miliardi di confezioni dispensate.",
+          "Entrando nello specifico, la spesa pubblica si è attestata sui 28,4 miliardi di euro (in crescita del 5,8% rispetto al 2024), pari al 72,2% della spesa farmaceutica complessiva.",
+          "Sicilia e Campania, che i cittadini pagano di tasca propria le cifre più alte (22,35 euro pro capite contro i 13,73 euro del Nord), indice anche di una resistenza a sostituire il farmaco di marca con il generico.",
+          "In totale circa 7 cittadini su 10 (66,9% degli assistiti) hanno ricevuto almeno una prescrizione di farmaci.",
+          "Il rapporto dell'Aifa, spesa complessiva per antidiabetici nel 2025 di 1,59 miliardi",
+          "39,3",
+          "2025",
+          "6",
+          "85,7",
+          "75,8"
         ]
       }
     },
     {
-      "id": "story-a64eea7be1cc1268",
-      "title": "Via libera a mFLUSIVA, il vaccino mRNA di Moderna",
-      "summary": "FDA ha approvato mFLUSIVA, il vaccino mRNA per gli adulti dai 50 anni in su: ora Moderna punta a ottenere l'autorizzazione anche in Europa. The post Via libera a mFLUSIVA, il vaccino mRNA di Moderna appeared first on Punto Informatico.",
-      "spokenText": "La Food and Drug Administration ha appena dato il via libera a mFLUSIVA, il nuovo vaccino antinfluenzale a mRNA sviluppato da Moderna. Il nome in codice del vaccino è mRNA-1010 e la sua approvazione è arrivata dopo uno studio clinico randomizzato su larga scala, che ha coinvolto oltre quarantamila persone tra i cinquanta e i sessantacinque anni, a cui si aggiunge un ulteriore campione di quasi tremila partecipanti con più di sessantacinque anni. È destinato a tutti gli adulti, dai 50 anni in su, con l’obiettivo di combattere l’influenza stagionale. Approvato il vaccino mRNA di Moderna I test sono stati condotti attraverso uno studio clinico randomizzato , su un campione composto da 40.805 persone da 50 a 65 anni e altre 2.992 dai 65 anni in su. Nel 2021, un team di ricercatori ha reso disponibile il codice sorgente del vaccino mRNA sintetizzato per far fronte all’emergenza.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "moderna",
-        "fda",
-        "mflusiva"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 59,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/mflusiva-vaccino-mrna-moderna/"
-      },
-      "analysis": {
-        "mainFact": "Via libera a mFLUSIVA, il vaccino mRNA di Moderna",
-        "whyItMatters": "Via libera a mFLUSIVA, il vaccino mRNA di Moderna FDA ha approvato mFLUSIVA, il vaccino mRNA per gli adulti dai 50 anni in su: ora Moderna punta a ottenere l'autorizzazione anche in Europa.",
-        "confirmedFacts": [
-          "Via libera a mFLUSIVA, il vaccino mRNA di Moderna",
-          "Via libera a mFLUSIVA, il vaccino mRNA di Moderna FDA ha approvato mFLUSIVA, il vaccino mRNA per gli adulti dai 50 anni in su: ora Moderna punta a ottenere l'autorizzazione anche in Europa.",
-          "Si chiama mFLUSIVA (nome in codice mRNA-1010) ed è il vaccino mRNA antinfluenzale prodotto da Moderna che ha appena ottenuto l’ autorizzazione della Food and Drug Administration negli Stati Uniti.",
-          "È destinato a tutti gli adulti, dai 50 anni in su, con l’obiettivo di combattere l’influenza stagionale.",
-          "Approvato il vaccino mRNA di Moderna I test sono stati condotti attraverso uno studio clinico randomizzato , su un campione composto da 40.805 persone da 50 a 65 anni e altre 2.992 dai 65 anni in su.",
-          "La Food and Drug Administration ha approvato mFLUSIVA® (mRNA-1010), un nuovo vaccino contro l'influenza stagionale, per l'uso in tutti gli adulti dai 50 anni in su.",
-          "Nel 2021, un team di ricercatori ha reso disponibile il codice sorgente del vaccino mRNA sintetizzato per far fronte all’emergenza."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Moderna",
-          "FDA",
-          "mFLUSIVA"
-        ],
-        "numbersAndDates": [
-          "Si chiama mFLUSIVA (nome in codice mRNA-1010) ed è il vaccino mRNA antinfluenzale prodotto da Moderna che ha appena ottenuto l’ autorizzazione della Food and Drug Administration negli Stati Uniti.",
-          "È destinato a tutti gli adulti, dai 50 anni in su, con l’obiettivo di combattere l’influenza stagionale.",
-          "Approvato il vaccino mRNA di Moderna I test sono stati condotti attraverso uno studio clinico randomizzato , su un campione composto da 40.805 persone da 50 a 65 anni e altre 2.992 dai 65 anni in su.",
-          "La Food and Drug Administration ha approvato mFLUSIVA® (mRNA-1010), un nuovo vaccino contro l'influenza stagionale, per l'uso in tutti gli adulti dai 50 anni in su.",
-          "Nel 2021, un team di ricercatori ha reso disponibile il codice sorgente del vaccino mRNA sintetizzato per far fronte all’emergenza.",
-          "50"
-        ]
-      }
-    },
-    {
-      "id": "story-0a84629c8e4017af",
-      "title": "Taiwan testa la difesa in vista di un possibile attacco della Cina",
-      "summary": "Taiwan ha dato il via oggi alle esercitazioni militari annuali “Han Kuang”, il più importante addestramento delle proprie forze armate, organizzato per prepararsi a un’eventuale invasione da parte della Cina,...",
-      "spokenText": "Taiwan ha condotto esercitazioni per testare la propria difesa di fronte a un possibile attacco della Cina. Il ministro della Difesa Wellington Koo ha dichiarato che l'addestramento può sempre essere migliorato, assicurando che l'isola continuerà a prepararsi con intensità per essere pronta sia in tempo di pace sia in caso di guerra.",
+      "id": "story-fdc101958d8404c8",
+      "title": "Guerra Ucraina - Russia, news. Trump a Zelensky: “I Patriot ci servono”. Raid di Kiev su Wildberries",
+      "summary": "Nuovi attacchi ucraini su un sito della società di vendite online. Mosca: “Colpite tre navi cargo militari ucraine nel Mar Nero”. Wsj: “Putin potrebbe testare la determinazione Nato con attacco limitato”",
+      "spokenText": "Nuovi attacchi ucraini hanno colpito un sito della società di vendite online Wildberries. Intanto Kiev colpisce un altro sito della stessa azienda, in un contesto di operazioni militari che si intensificano su più fronti. Le forze armate russe hanno colpito tre navi mercantili militari ucraine che trasportavano rifornimenti militari nel Mar Nero, secondo quanto riportato dal Ministero della Difesa di Mosca. Per lo sviluppo bellico, il presidente Zelensky ha incontrato alti funzionari per discutere come accelerare la produzione di armi, affinché i produttori e gli sviluppatori ucraini possano ottenere risultati concreti già entro la fine del 2026-2027. Wsj: «Putin potrebbe testare la determinazione Nato con attacco limitato».",
       "category": "mondo",
       "tags": [
         "mondo",
-        "taiwan",
-        "cina",
-        "wellington koo"
+        "ucraina",
+        "russia",
+        "nato",
+        "wildberries",
+        "trump",
+        "zelensky",
+        "wsj"
       ],
-      "importance": 72,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 21,
+      "estimatedSeconds": 43,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/taiwan-testa-difesa-dieci-giorni-manovre-vista-un-possibile-attacco-cina-AJJTQdf"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/07/diretta/guerra_ucraina_russia_news_oggi-425516666/"
       },
       "analysis": {
-        "mainFact": "Taiwan testa la difesa in vista di un possibile attacco della Cina",
-        "whyItMatters": "“L’addestramento può sempre essere migliorato”, ha dichiarato il ministro della Difesa Wellington Koo , assicurando che Taiwan continuerà a prepararsi con intensità per essere pronta sia in tempo di pace sia in caso di guerra.",
+        "mainFact": "Nuovi attacchi ucraini hanno colpito un sito della società di vendite online Wildberries.",
+        "whyItMatters": "Intanto Kiev colpisce un altro sito della società di vendite online Wildberries.",
         "confirmedFacts": [
-          "Taiwan testa la difesa in vista di un possibile attacco della Cina",
-          "“L’addestramento può sempre essere migliorato”, ha dichiarato il ministro della Difesa Wellington Koo , assicurando che Taiwan continuerà a prepararsi con intensità per essere pronta sia in tempo di pace sia in caso di guerra."
+          "Nuovi attacchi ucraini hanno colpito un sito della società di vendite online Wildberries.",
+          "Intanto Kiev colpisce un altro sito della società di vendite online Wildberries.",
+          "Le forze armate russe hanno colpito tre navi mercantili militari ucraine che trasportavano rifornimenti militari nel Mar Nero, secondo quanto riportato dal Ministero della Difesa di Mosca.",
+          "L'Ucraina deve farlo il più rapidamente possibile, con risultati concreti già entro la fine del 2026-2027\", ha detto . Zelensky dopo avere incontrato alti funzionari per discutere di come accelerare lo sviluppo \"affinchè i produttori e gli sviluppatori di armi ucraini possano ottenere risultati concret.",
+          "Wsj: «Putin potrebbe testare la determinazione Nato con attacco limitato»"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Taiwan",
-          "Cina",
-          "Wellington Koo"
+          "Ucraina",
+          "Russia",
+          "NATO",
+          "Wildberries",
+          "Trump",
+          "Zelensky",
+          "WSJ"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-615df53c3e3a7afc",
-      "title": "Tra blackout e repressioni: in Tunisia cresce la rabbia contro il presidente Saied",
-      "summary": "Tra blackout e repressioni: in Tunisia cresce la rabbia contro il presidente Saiedelisabetta. tola Mer, 08/05/2026 - 10:25 6 Agosto 2026 Language Italian Andrea Gaiardoni Cinque anni dopo il “colpo di stato”, che nel 2021 aveva spazzato via come birilli il Parlamento eletto, l’allora primo ministro Hichem Mechichi e la stessa Costituzione, il presidente della Tunisia Kais Saied continua a essere considerato un enigma, un capo di stato autoritario e sfuggente, da un lato spietato contro qualsiasi forma di dissenso sociale e politico, dall’altro capace di non far sprofondare i conti pubblici, che le persistenti crisi globali continuano a mettere sotto pressione. Di certo è un accentratore di potere (la successiva Costituzione approvata nel 2022, che di fatto introduce il presidenzialismo, gli conferisce la “responsabilità primaria” nel definire la politica statale) che continua a presentarsi come paladino della lotta alla corruzione. “Purificheremo la Tunisia da tutti i corrotti e i complottisti”, aveva proclamato durante la campagna elettorale per le elezioni dell’ottobre 2024, vinte con oltre il 90% dei voti (da molti considerate elezioni-farsa), ma con un’affluenza che si era fermata al 27% per l’esplicito boicottaggio di quasi tutti i partiti di opposizione. Per cinque anni, Saied si è concentrato a realizzare il sistematico smantellamento di tutte le istituzioni nate dopo la Jasmine Revolution, la Rivoluzione dei Gelsomini che, proprio in Tunisia, con le prime marce alla fine del 2010, portò all’estromissione del dittatore Zine El Abidine Ben Ali e diede il via alla stagione delle “Primavere arabe”. Oggi sembra di essere tornati al passato: partiti politici marginalizzati e criminalizzati, magistratura riportata sotto il diretto controllo presidenziale, media indipendenti messi a tacere, organizzazioni non profit indebolite, sindacati costantemente sotto pressione. Il Democratic Erosion Consortium, un’organizzazione statunitense specializzata nell’analisi delle strutture democratiche, definisce lo stile di governo di Saied come un perfetto esempio di “autoritarismo furtivo”, in cui le istituzioni democratiche vengono gradualmente indebolite, svuotate. Tutto ciò che rimane, secondo il centro di ricerca, è una “facciata di democrazia”. Leggi anche: La Tunisia al voto in una democrazia calpestata SOCIETÀ Repressione spietata del dissenso Ne sanno qualcosa i politici dell’opposizione, gli attivisti, gli intellettuali, i giornalisti, i magistrati (nel 2022 è stato disposto lo scioglimento dell’Alto Consiglio Giudiziario) o gli avvocati che via via, nel corso di questi ultimi 5 anni, hanno tentato di contrastare, o anche soltanto di raccontare, la deriva politica e sociale imposta dalle politiche del presidente. Come riassumeva, recentemente, l’autorevole quotidiano francese Le Monde: “Le notizie provenienti dalla Tunisia sono diventate un cupo ritornello di condanne detentive inflitte a chiunque abbia il coraggio di denunciare l’autoritarismo del presidente Kais Saied. Con avversari politici già in carcere da tempo con i pretesti più fragili, la repressione è diventata sempre più spietata contro la società civile del paese”. Qualche esempio, tra i più recenti: il 24 giugno scorso l’attivista antirazzista tunisina Saadia Mosbah ha visto confermata la sua condanna a otto anni di carcere per presunta appropriazione indebita. Il 25 giugno, Sihem Bensedrine, 75 anni, giornalista, tra le più celebri e stimate attiviste tunisine per la difesa dei diritti umani, è stata condannata a 25 anni di carcere per varie accuse (“eccessi e irregolarità”) legate al suo ruolo di capo della Commissione per la Verità e la Dignità, che ha presieduto dal 2014 al 2018, con l’incarico di documentare le violazioni commesse dai funzionari statali tra il 1955 e il 2013, dunque compreso il periodo della dittatura di Ben Ali, dal 1987 al 2011. Il 26 giugno la Corte d’Appello di Tunisi ha invece confermato la condanna a un anno di carcere per il giornalista indipendente Zied El-Heni, che durante una conferenza tenuta lo scorso aprile nella facoltà di giurisprudenza dell’Università di Tunisi, aveva raccontato di “giornalisti ingiustamente condannati” da magistrati definiti “criminali”. Lo scorso maggio è stata invece confermata in appello la condanna a 3 anni e mezzo di carcere per altri due giornalisti, Mourad Zeghidi e Borhen Bsaies, accusati inizialmente di “diffusione di notizie false”, e successivamente anche per riciclaggio di denaro ed evasione fiscale. Secondo l’ong Reporters sans frontières, che condanna l’uso indiscriminato del Decreto-Legge 54 voluto da Saied per punire le “false informazioni”, si tratta di “molestie legali in un processo senza prove” (la Tunisia, peraltro, è al 137° posto su 180 nell’indice mondiale sulla libertà di stampa, realizzato proprio da RSF). “Il Decreto-Legge 54 non solo criminalizza il giornalismo, ma apre la strada a un più ampio arsenale di repressione che soffoca la libertà di stampa in Tunisia”, ha scritto l’ong nel denunciare la vicenda dei due cronisti. Senza dimenticare il più noto tra i prigionieri politici, Rached Ghannouchi, 84 anni, presidente del partito moderato islamico Ennahda, che vinse le prime elezioni libere, nel 2011, dopo la cacciata del dittatore Ben Alì, oggi rinchiuso in carcere con un impressionante carico di condanne sulle spalle (l’ultimo ergastolo l’ha rimediato i primi di giugno, con l’accusa di aver organizzato “un’alleanza terroristica”). Il presidente della Tunisia Kais Saied durante la cerimonia di inaugurazione del suo secondo mandato nel 2024 - REUTERS/Zoubeir Souissi La rabbia dei tunisini Ora però il presidente Saied deve affrontare una nuova sfida: la protesta sociale, la rabbia dei tunisini che dopo aver accarezzato il sogno di un nuovo ordine democratico si ritrovano intrappolati nella paura, nel silenzio, nella repressione più violenta, nelle drastiche misure di austerity imposte dal governo, nei servizi pubblici che non bastano più, nel degrado delle infrastrutture, a fronteggiare un costo della vita sempre più alto. In più, in questa estate torrida (le temperature hanno sfiorato i 50 gradi), bisogna far fronte ai tagli di elettricità e di acqua. “In Tunisia, spegnere le luci non è più un fastidio temporaneo, ma un sintomo visibile di un governo fallito”, scriveva pochi giorni fa Ikram Ben Said, attivista e fondatrice dell’ONG femminista “Aswat Nissa”. “Interruzioni di corrente e carenze d’acqua non sono soltanto il risultato di caldo estremo o infrastrutture invecchiate: riflettono anni di sottoinvestimento e politiche energetiche distorte. Man mano che elettricità e acqua diventano strumenti di sopravvivenza privatizzati - serbatoi e generatori per chi può permetterseli - la disuguaglianza si approfondisce. Ma quale futuro arriverà non dipende dalla fortuna o dal meteo: dipende da cosa sapremo costruire nel frattempo, deliberatamente, insieme, con gli occhi aperti. Un blackout è esattamente ciò che si manifesta quando una nazione smette di pianificare il proprio futuro con il proprio popolo. Ma ora, per la prima volta dal 2021, i tunisini comuni stanno esprimendo una vera rabbia sui social media e la dirigono direttamente contro il presidente Kais Saied, nonostante il clima di paura che circonda il dissenso”. La rete televisiva qatariota Al Jazeera riporta il parere di un’analista politico tunisino che ha preferito mantenere l’anonimato per timore di repressioni: “La verità è che il governo tunisino non ha alcun piano. Di solito, i governi sanno che quando arriverà l’estate ci sarà una domanda crescente di elettricità e acqua, quindi pianificano in base a questo. In Tunisia, non abbiamo soldi né investimenti, né un piano. La situazione va oltre il degrado delle infrastrutture. È come se fossimo su una nave comandata da un uomo senza alcuna conoscenza della navigazione”. “L’alternativa a Saied si prepara fuori dalla Tunisia” Tra i più feroci critici di Saied non può essere dimenticato l’ex presidente tunisino Moncef Marzouki (rimasto in carica dal 2011 alla fine del 2014), attualmente esiliato in Francia, condannato lo scorso anno in contumacia a 22 anni di carcere per aver attentato alla sicurezza dello stato. Sulla sua pagina Facebook aveva scritto: “A quei giudici dico: le vostre sentenze sono nulle e voi stessi siete illegittimi. Sarete giudicati col tempo. La democrazia tornerà”. Ma pochi giorni fa lo stesso Marzouki ha rilasciato un’intervista a France 24, nel quale ha annunciato: “L’alternativa a Kais Saied si sta preparando fuori dalla Tunisia”. Il che ha provocato la reazione del ministro degli esteri tunisino, che ha convocato l’ambasciatrice francese in Tunisia, Anne Guéguen, per esprimerle la sua “forte protesta”. Kamel Jendoubi, attivista tunisino pro-democrazia, ha scritto pochi giorni fa su Le Monde: un’analisi feroce sulle responsabilità di Kais Saied: “Lo stato tunisino è stato progressivamente indebolito dalla distruzione del sistema istituito dopo la rivoluzione del 2011, unita all’assenza di un modello alternativo sostenibile. Mai, dalla rivoluzione del 2011, un presidente tunisino aveva accumulato così tanto potere. Eppure, allo stesso tempo, lo Stato non aveva mai sofferto una tale debolezza. Dietro l’immagine del potere assoluto si cela un’altra realtà: la Tunisia non è più in una transizione democratica bloccata, è entrata in una transizione autoritaria incompiuta. Ma questa distruzione non è stata seguita da una ricostruzione. È lì che il sistema ha fallito”. In questo quadro l’Unione Europea sembra non voler vedere, continuando a stringere accordi di partenariato con il governo tunisino nella speranza che possano contenere le partenze dei migranti. Sulla scia del Memorandum d’intesa (MoU) siglato il 16 luglio 2023 su impulso della presidente del Consiglio italiana Meloni, sostenuta dalla presidente della Commissione UE von der Leyen, per rafforzare la cooperazione migratoria (che tradotto vuol dire soldi, tanti, in cambio di frontiere bloccate), “nonostante la chiara documentazione pubblica su una situazione dei diritti umani in forte peggioramento nel paese, inclusi abusi razzisti ed espulsioni collettive illegali da parte delle autorità, spesso comportanti torture e maltrattamenti”, come racconta Amnesty International in un rapporto pubblicato il mese scorso. “L’Unione Europea ha celebrato questa cooperazione migratoria come un successo nonostante la documentazione che dimostra come le autorità tunisine continuano a sottoporre rifugiati e migranti a gravi violazioni dei diritti umani”, ha commentato Heba Morayef, Direttrice Regionale di Amnesty International per il Medio Oriente e il Nord Africa. Ancor più esplicita la nota di Human Rights Watch, che ha da poco firmato una dichiarazione congiunta con altre 45 organizzazioni umanitarie: “L’Unione Europea e i suoi stati membri dovrebbero denunciare pubblicamente le violazioni dei diritti umani in Tunisia e smettere di finanziare attività abusive di controllo della migrazione. Il Memorandum d’Intesa del 2023 ha alimentato e normalizzato gravi violazioni dei diritti umani in Tunisia. In alcuni casi, questi abusi hanno causato la morte. La continua cooperazione migratoria con la Tunisia rende l'UE complice delle violazioni dei diritti umani da parte delle forze di sicurezza tunisine”. SOCIETÀ 26 SETTEMBRE 2024 La Tunisia al voto in una democrazia calpestata SOCIETÀ 22 DICEMBRE 2022 Tunisia, il naufragio politico delle elezioni SOCIETÀ 29 LUGLIO 2021 Tunisia: cosa sta succedendo e come evolve la situazione NELLA STESSA CATEGORIA Una manifestazione contro Kais Saied a gennaio 2026 a Tunisi - REUTERS/Jihed Abidellaoui 1 Off",
-      "spokenText": "In Tunisia cresce la rabbia contro il presidente Saied, tra blackout, repressioni e una crisi politica e sociale sempre più profonda. Oggi sembra di essere tornati al passato: partiti politici marginalizzati e criminalizzati, magistratura riportata sotto il diretto controllo presidenziale, media indipendenti messi a tacere, organizzazioni non profit indebolite, sindacati costantemente sotto pressione. Il Democratic Erosion Consortium, un’organizzazione statunitense specializzata nell’analisi delle strutture democratiche, definisce lo stile di governo di Saied come un perfetto esempio di “autoritarismo furtivo”, in cui le istituzioni democratiche vengono gradualmente indebolite e svuotate. Di certo è un accentratore di potere: la Costituzione approvata nel 2022, che di fatto introduce il presidenzialismo, gli conferisce la “responsabilità primaria” nel definire la politica statale, mentre continua a presentarsi come paladino della lotta alla corruzione. Qualche esempio recente: il 24 giugno scorso l’attivista antirazzista Saadia Mosbah ha visto confermata la sua condanna a otto anni di carcere per presunta appropriazione indebita. Lo scorso maggio è stata invece confermata in appello la condanna a tre anni e mezzo per i giornalisti Mourad Zeghidi e Borhen Bsaies, accusati inizialmente di diffusione di notizie false e poi anche di riciclaggio ed evasione fiscale. Tutto ciò che rimane, secondo il centro di ricerca, è una “facciata di democrazia”.",
-      "category": "diritti",
+      "id": "story-be1911d555f275aa",
+      "title": "Commissione del Senato Usa accusa l’epidemiologo Fauci di oltraggio al Congresso",
+      "summary": "La commissione per la Sicurezza interna e gli affari governativi del Senato americano ha votato per accusare l’epidemiologo Anthony Fauci, uno degli architetti della risposta americana alla pandemia da Covid-19,...",
+      "spokenText": "Commissione del Senato Usa accusa l’epidemiologo Fauci di oltraggio al Congresso. Paul, laurea in medicina e che da anni accusa Fauci di aver fuorviato l'opinione pubblica sull'origine dell'epidemia, aveva reso pubblici oltre 1.000 documenti dal diario dell'epidemiologo durante il periodo in cui guidava la risposta del governo alla pandemia di Covid. 19. Tema dell’audizione era la gestione della pandemia di Covid-19 da parte dello stesso Fauci, che di fronte ai commissari si è appellato oltre 100 volte al Quinto Emendamento, sostenendo il diritto a non rispondere a domande che potrebbero contribuire alla propria incriminazione. Anthony Fauci ha invocato in modo inappropriato il quinto emendamento della Costituzione americana, quello contro l'autoincriminazione, per ben 111 volte. Fauci invoca il quinto emendamento e non risponde in audizione al Senato Usa “Il dottor Fauci non correva alcun rischio di incriminazione federale”, ha detto Paul all’inizio dell’udienza.",
+      "category": "attualita",
       "tags": [
-        "diritti",
-        "tunisia",
-        "saadia mosbah",
-        "mourad zeghidi",
-        "borhen bsaies"
+        "attualita",
+        "anthony fauci"
       ],
       "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 82,
+      "estimatedSeconds": 57,
       "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/blackout-repressioni-tunisia-saied"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/commissione-senato-usa-accusa-l-epidemiologo-fauci-oltraggio-congresso-AJl12fg"
       },
       "analysis": {
-        "mainFact": "In Tunisia cresce la rabbia contro il presidente Saied tra blackout, repressioni e una crisi politica e sociale.",
-        "whyItMatters": "Oggi sembra di essere tornati al passato: partiti politici marginalizzati e criminalizzati, magistratura riportata sotto il diretto controllo presidenziale, media indipendenti messi a tacere, organizzazioni non profit indebolite, sindacati costantemente sotto pressione.",
+        "mainFact": "Commissione del Senato Usa accusa l’epidemiologo Fauci di oltraggio al Congresso",
+        "whyItMatters": "Paul, laurea in medicina e che da anni accusa Fauci di aver fuorviato l'opinione pubblica sull'origine dell'epidemia, aveva reso pubblici oltre 1.000 documenti dal diario dell'epidemiologo durante il periodo in cui guidava la risposta del governo alla pandemia di Covid. 19.",
         "confirmedFacts": [
-          "In Tunisia cresce la rabbia contro il presidente Saied tra blackout, repressioni e una crisi politica e sociale.",
-          "Oggi sembra di essere tornati al passato: partiti politici marginalizzati e criminalizzati, magistratura riportata sotto il diretto controllo presidenziale, media indipendenti messi a tacere, organizzazioni non profit indebolite, sindacati costantemente sotto pressione.",
-          "Il Democratic Erosion Consortium , un’organizzazione statunitense specializzata nell’analisi delle strutture democratiche, definisce lo stile di governo di Saied come un perfetto esempio di “autoritarismo furtivo” , in cui le istituzioni democratiche vengono gradualmente indebolite, svuotate.",
-          "Di certo è un accentratore di potere (la successiva Costituzione approvata nel 2022, che di fatto introduce il presidenzialismo, gli conferisce la “responsabilità primaria” nel definire la politica statale) che continua a presentarsi come paladino della lotta alla corruzione.",
-          "Qualche esempio, tra i più recenti: il 24 giugno scorso l’attivista antirazzista tunisina Saadia Mosbah ha visto confermata la sua condanna a otto anni di carcere per presunta appropriazione indebita.",
-          "Lo scorso maggio è stata invece confermata in appello la condanna a 3 anni e mezzo di carcere per altri due giornalisti, Mourad Zeghidi e Borhen Bsaies , accusati inizialmente di “diffusione di notizie false”, e successivamente anche per riciclaggio di denaro ed evasione fiscale.",
-          "Tutto ciò che rimane, secondo il centro di ricerca, è una “facciata di democrazia”.",
-          "In più, in questa estate torrida ( le temperature hanno sfiorato i 50 gradi), bisogna far fronte ai tagli di elettricità e di acqua."
+          "Commissione del Senato Usa accusa l’epidemiologo Fauci di oltraggio al Congresso",
+          "Paul, laurea in medicina e che da anni accusa Fauci di aver fuorviato l'opinione pubblica sull'origine dell'epidemia, aveva reso pubblici oltre 1.000 documenti dal diario dell'epidemiologo durante il periodo in cui guidava la risposta del governo alla pandemia di Covid. 19.",
+          "Tema dell’audizione era la gestione della pandemia di Covid-19 da parte dello stesso Fauci, che di fronte ai commissari si è appellato oltre 100 volte al Quinto Emendamento, sostenendo il diritto a non rispondere a domande che potrebbero contribuire alla propria incriminazione.",
+          "Anthony Fauci ha invocato in modo inappropriato il quinto emendamento della Costituzione americana, quello contro l'autoincriminazione, per ben 111 volte.",
+          "Fauci invoca il quinto emendamento e non risponde in audizione al Senato Usa “Il dottor Fauci non correva alcun rischio di incriminazione federale”, ha detto Paul all’inizio dell’udienza."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Tunisia",
-          "Saadia Mosbah",
-          "Mourad Zeghidi",
-          "Borhen Bsaies"
+          "Anthony Fauci"
         ],
         "numbersAndDates": [
-          "Di certo è un accentratore di potere (la successiva Costituzione approvata nel 2022, che di fatto introduce il presidenzialismo, gli conferisce la “responsabilità primaria” nel definire la politica statale) che continua a presentarsi come paladino della lotta alla corruzione.",
-          "Qualche esempio, tra i più recenti: il 24 giugno scorso l’attivista antirazzista tunisina Saadia Mosbah ha visto confermata la sua condanna a otto anni di carcere per presunta appropriazione indebita.",
-          "Lo scorso maggio è stata invece confermata in appello la condanna a 3 anni e mezzo di carcere per altri due giornalisti, Mourad Zeghidi e Borhen Bsaies , accusati inizialmente di “diffusione di notizie false”, e successivamente anche per riciclaggio di denaro ed evasione fiscale.",
-          "In più, in questa estate torrida ( le temperature hanno sfiorato i 50 gradi), bisogna far fronte ai tagli di elettricità e di acqua."
+          "Tema dell’audizione era la gestione della pandemia di Covid-19 da parte dello stesso Fauci, che di fronte ai commissari si è appellato oltre 100 volte al Quinto Emendamento, sostenendo il diritto a non rispondere a domande che potrebbero contribuire alla propria incriminazione.",
+          "Anthony Fauci ha invocato in modo inappropriato il quinto emendamento della Costituzione americana, quello contro l'autoincriminazione, per ben 111 volte.",
+          "1.000",
+          "19"
         ]
       }
     },
     {
-      "id": "story-f8723eb27bbfbd11",
-      "title": "Scovata materia ordinaria mancante all’appello",
-      "summary": "Lo studio, condotto da ricercatori di diversi istituti nell’ambito della collaborazione Chime e pubblicato a luglio su Physical Review Letters, ha individuato la posizione di un’enorme quantità di materia ordinaria finora sfuggita alle osservazioni. Il metodo usato combina la distribuzione di milioni di galassie con uno dei più enigmatici fenomeni del cielo radio: i fast radio bursts",
-      "spokenText": "Ora, un nuovo studio pubblicato su Physical Review Letters ha puntato il dito sulla mappa, indicando dove si trova questo enorme serbatoio di materia mancante. Scovata materia ordinaria mancante all’appello.",
-      "category": "scienza",
+      "id": "story-1a3bc91b4696083e",
+      "title": "Mps batte le attese, utile a 1,1 miliardi (+25%)",
+      "summary": "Mps chiude il primo semestre dell’anno con un utile netto superiore a 1,1 miliardi di euro, in crescita del 25,3% rispetto allo stesso periodo del 2025, numeri che riflettono l’ingresso...",
+      "spokenText": "Mps chiude il primo semestre con un utile netto superiore a 1,1 miliardi di euro, in crescita del 25,3% rispetto allo stesso periodo del 2025. L’utile balza del 42%. Nel trimestre piazzetta Cuccia contribuisce per 925 milioni ai ricavi consolidati di 1,96 miliardi, quindi circa il 47% del totale. «Procedono secondo i piani le attività per l’integrazione di Mediobanca, con il completamento previsto nel quarto trimestre», conferma Mps nella trimestrale. «La nostra strategia ha una logica industriale e una chiara esecuzione», dice, ricordando che il piano prevede «una rilevante creazione di valore» e «una distribuzione cumulativa agli azionisti da 16 miliardi di euro». Nel corso della conference call con gli analisti, il ceo di Mps Luigi Lovaglio ha parlato ampiamente della (fallita) trattativa con BancoBpm, dell’Opas di Intesa Sanpaolo e delle opzioni strategiche sul tavolo.",
+      "category": "attualita",
       "tags": [
-        "scienza",
-        "collaborazione chime",
-        "physical review letters"
+        "attualita",
+        "mps",
+        "mediobanca",
+        "luigi lovaglio"
       ],
-      "importance": 95,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 12,
+      "estimatedSeconds": 54,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/05/scovata-materia-ordinaria-mancante/"
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/mps-batte-attese-utile-11-miliardi-25percento-AJyW0Ch"
       },
       "analysis": {
-        "mainFact": "Scovata materia ordinaria mancante all’appello",
-        "whyItMatters": "Lo studio ha individuato la posizione di un'enorme quantità di materia ordinaria finora sfuggita alle osservazioni.",
+        "mainFact": "Mps chiude il primo semestre con un utile netto superiore a 1,1 miliardi di euro, in crescita del 25,3% rispetto allo stesso periodo del 2025.",
+        "whyItMatters": "Utile semestrale Mps in forte crescita, segnale positivo per il sistema bancario italiano.",
         "confirmedFacts": [
-          "Scovata materia ordinaria mancante all’appello",
-          "Lo studio ha individuato la posizione di un'enorme quantità di materia ordinaria finora sfuggita alle osservazioni.",
-          "Lo studio, condotto da ricercatori di diversi istituti nell’ambito della collaborazione Chime e pubblicato a luglio su Physical Review Letters, ha individuato la posizione di un’enorme quantità di materia ordinaria finora sfuggita alle osservazioni."
+          "Mps chiude il primo semestre con un utile netto superiore a 1,1 miliardi di euro, in crescita del 25,3% rispetto allo stesso periodo del 2025.",
+          "Utile semestrale Mps in forte crescita, segnale positivo per il sistema bancario italiano.",
+          "L’utile balza del 42%",
+          "Nel trimestre piazzetta Cuccia contribuisce per 925 milioni ai ricavi consolidati di 1,96 miliardi, quindi circa il 47% del totale.",
+          "«Procedono secondo i piani le attività per l’integrazione di Mediobanca, con il completamento previsto nel quarto trimestre», conferma Mps nella trimestrale.",
+          "«La nostra strategia ha una logica industriale e una chiara esecuzione», dice, ricordando che il piano prevede «una rilevante creazione di valore» e «una distribuzione cumulativa agli azionisti da 16 miliardi di euro».",
+          "Lovaglio: «No alla frammentazione della rete» Nel corso della conference call con gli analisti, il ceo di Mps Luigi Lovaglio ha parlato ampiamente della (fallita) trattativa con BancoBpm, dell’Opas di Intesa Sanpaolo e delle opzioni strategiche sul tavolo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "collaborazione Chime",
-          "Physical Review Letters"
+          "Mps",
+          "Mediobanca",
+          "Luigi Lovaglio"
+        ],
+        "numbersAndDates": [
+          "L’utile balza del 42%",
+          "Nel trimestre piazzetta Cuccia contribuisce per 925 milioni ai ricavi consolidati di 1,96 miliardi, quindi circa il 47% del totale.",
+          "1,1",
+          "25,3",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "story-a4aa835a1b2844fb",
+      "title": "Usa, nuovi dazi sulle importazioni di polisilicio",
+      "summary": "Gli Usa hanno in programma nuovi dazi sull’import di polisilicio, un materiale fondamentale per i pannelli solari e i semiconduttori. Lo ha annunciato il segretario al Commercio Howard Lutnick, definendo...",
+      "spokenText": "Gli USA hanno in programma nuovi dazi sull'importazione di polisilicio. Lo ha annunciato il segretario al Commercio Howard Lutnick, definendo il materiale un «prodotto fondamentale» per i chip. Trump ha firmato un ordine esecutivo sul tema, dopo un’indagine del Dipartimento del Commercio sull’import di polisilicio.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "usa",
+        "howard lutnick",
+        "trump"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/usa-nuovi-dazi-importazioni-polisilicio-AJxwG1g"
+      },
+      "analysis": {
+        "mainFact": "Gli USA hanno in programma nuovi dazi sull'importazione di polisilicio.",
+        "whyItMatters": "Lo ha annunciato il segretario al Commercio Howard Lutnick, definendo il materiale un «prodotto fondamentale» per i chip.",
+        "confirmedFacts": [
+          "Gli USA hanno in programma nuovi dazi sull'importazione di polisilicio.",
+          "Lo ha annunciato il segretario al Commercio Howard Lutnick, definendo il materiale un «prodotto fondamentale» per i chip.",
+          "Trump ha firmato un ordine esecutivo sul tema, dopo un’indagine del Dipartimento del Commercio sull’import di polisilicio."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "USA",
+          "Howard Lutnick",
+          "Trump"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-501b4fb7f462a593",
-      "title": "Morto Francesco Guccini, Lepore: “Piangono Bologna e l’Italia”. Vasco: “Noi tra la via Emilia e il Roxi bar”",
-      "summary": "Il cantautore se n’è andato a 86 anni. Il saluto del mondo della musica, degli amici, della sua Emilia e di più generazioni di appassionati",
-      "spokenText": "È morto all’età di 86 anni il cantautore Francesco Guccini. La notizia ha suscitato un’ondata di cordoglio che ha unito il mondo della musica, gli amici, la sua Emilia e diverse generazioni di appassionati. ‘Piangono Bologna e l’Italia’. Un dolore che ha varcato i confini emiliani, trovando eco nei messaggi di chi quella terra l’ha cantata. Zucchero ha ricordato sui social il grande Francesco Guccini. Tra i tanti omaggi è apparso un biglietto, lasciato in terra, scritto velocemente, come velocemente è arrivata la notizia: ‘Ciao Francesco, con te va via la miglior parte della mia vita’. Un addio intimo che fotografa il segno lasciato da Guccini. Vasco: “Noi tra la via Emilia e il Roxi bar”.",
-      "category": "cultura",
+      "id": "story-aa05123d8db28ff0",
+      "title": "L'AI ha progettato virus capaci di autoreplicarsi",
+      "summary": "Un gruppo di ricercatori della Stanford University ha impiegato Evo 1 ed Evo 2 per progettare interi genomi di virus capaci di infettare batteri. Dopo la sintesi in laboratorio, 16 sequenze hanno inib...",
+      "spokenText": "Un gruppo di ricercatori della Stanford University ha appena dimostrato che è possibile progettare interi virus attivi usando l’intelligenza artificiale. generare genomi completi di virus che infettano i batteri. Per riuscirci hanno fornito ai modelli oltre 2 milioni di basi di sequenze virali, concentrando poi l’addestramento finale sulla famiglia dei Microviridae. Il dato chiave è che i virus sintetici prodotti dai modelli si sono rivelati biologicamente funzionanti. Un gruppo di ricercatori della Stanford University ha impiegato Evo 1 ed Evo 2 per progettare interi genomi di virus capaci di infettare batteri. Anche la proteina utilizzata dal virus per agganciarsi al batterio doveva conservare almeno il 60% della sequenza originale.",
+      "category": "scienza",
       "tags": [
-        "cultura",
-        "francesco guccini",
-        "lepore",
-        "vasco",
-        "gino castaldo",
-        "zucchero",
-        "bologna",
-        "emilia"
+        "scienza",
+        "stanford university",
+        "evo 1",
+        "evo 2"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 47,
+      "estimatedSeconds": 44,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/spettacoli/musica/2026/08/06/diretta/morto_francesco_guccini_oggi_reazioni-425515253/"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/lai-ha-progettato-virus-capaci-di-replicarsi-per-la-prima-volta"
       },
       "analysis": {
-        "mainFact": "Il cantautore Francesco Guccini è morto a 86 anni.",
-        "whyItMatters": "Il saluto del mondo della musica, degli amici, della sua Emilia e di più generazioni di appassionati",
+        "mainFact": "Un gruppo di ricercatori della Stanford University ha impiegato Evo 1 ed Evo 2 per progettare interi genomi di virus capaci di infettare batteri.",
+        "whyItMatters": "È la prima dimostrazione in cui l'output dei grandi modelli genomici passa da singoli geni plausibili a virus sintetici biologicamente attivi.",
         "confirmedFacts": [
-          "Il cantautore Francesco Guccini è morto a 86 anni.",
-          "Il saluto del mondo della musica, degli amici, della sua Emilia e di più generazioni di appassionati",
-          "Lepore: “Piangono Bologna e l’Italia”.",
-          "Vasco: “Noi tra la via Emilia e il Roxi bar”",
-          "Così Zucchero ricorda sui social il grande Francesco Guccini , morto oggi all'età di 86 anni.",
-          "E poi un biglietto, lasciato in terra, scritto velocemente, come velocemente è arrivata la notizia: “Ciao Francesco, con te va via la miglior parte della mia vita”."
+          "Un gruppo di ricercatori della Stanford University ha impiegato Evo 1 ed Evo 2 per progettare interi genomi di virus capaci di infettare batteri.",
+          "È la prima dimostrazione in cui l'output dei grandi modelli genomici passa da singoli geni plausibili a virus sintetici biologicamente attivi.",
+          "I ricercatori hanno fornito ai modelli oltre 2 milioni di basi provenienti da virus batterici, completando poi l’addestramento con sequenze della famiglia Microviridae.",
+          "Anche la proteina utilizzata dal virus per agganciarsi al batterio doveva conservare almeno il 60% della sequenza originale."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Francesco Guccini",
-          "Lepore",
-          "Vasco",
-          "Gino Castaldo",
-          "Zucchero",
-          "Bologna",
-          "Emilia"
+          "Stanford University",
+          "Evo 1",
+          "Evo 2"
         ],
         "numbersAndDates": [
-          "Così Zucchero ricorda sui social il grande Francesco Guccini , morto oggi all'età di 86 anni.",
+          "I ricercatori hanno fornito ai modelli oltre 2 milioni di basi provenienti da virus batterici, completando poi l’addestramento con sequenze della famiglia Microviridae.",
+          "Anche la proteina utilizzata dal virus per agganciarsi al batterio doveva conservare almeno il 60% della sequenza originale.",
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "story-f3ff89926f652f56",
+      "title": "Addio a Francesco Guccini, il Maestrone che ha segnato la storia della musica",
+      "summary": "Francesco Guccini è morto nella notte tra il 5 e il 6 agosto all'età di 86 anni. I funerali si svolgeranno sabato mattina in forma strettamente privata , per volontà del cantautore e condivisa con la famiglia.",
+      "spokenText": "Francesco Guccini è morto nella notte tra il 5 e il 6 agosto all'età di 86 anni. Nel 2012, con l'album 'L'ultima Thule' inciso nel Mulino dei nonni a Pàvana, annunciò l'intenzione di lasciare la professione di cantautore. I funerali si svolgeranno sabato mattina in forma strettamente privata , per volontà del cantautore e condivisa con la famiglia. Protagonista della stagione dell'impegno, muore a 86 anni. Per approfondire Agenzia ANSA A Bologna in via Paolo Fabbri le canzoni di Guccini a tutto volume - Notizie - Ansa. it L'atmosfera del luogo dove il cantautore ha vissuto fino al 2012.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "francesco guccini"
+      ],
+      "importance": 80,
+      "mustInclude": true,
+      "estimatedSeconds": 40,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/cultura/2026/08/06/addio-a-francesco-guccini-il-maestrone-che-ha-segnato-la-storia-della-musica_70361168-09fe-4f1f-98f7-7155fae99993.html"
+      },
+      "analysis": {
+        "mainFact": "Francesco Guccini è morto nella notte tra il 5 e il 6 agosto all'età di 86 anni.",
+        "whyItMatters": "I funerali si svolgeranno sabato mattina in forma strettamente privata , per volontà del cantautore e condivisa con la famiglia.",
+        "confirmedFacts": [
+          "Francesco Guccini è morto nella notte tra il 5 e il 6 agosto all'età di 86 anni.",
+          "I funerali si svolgeranno sabato mattina in forma strettamente privata , per volontà del cantautore e condivisa con la famiglia.",
+          "Protagonista della stagione dell'impegno, muore a 86 anni.",
+          "Docente - insegna fino a metà anni '80 lingua italiana al Dickinson College di Bologna, ma anche nella sede bolognese della Johns Hopkins University -, giovane cronista alla Gazzetta di Modena e pubblicitario, nel mondo della musica entra con con atteggiamento riluttante prima come",
+          "Nel 2012 ecco L'ultima Thule, canzoni incise a Pàvana nel Mulino dei nonni: in questa occasione Guccini annuncia l'intenzione di lasciare la professione di cantautore.",
+          "I funerali si terranno nei prossimi giorni, in forma strettamente privata, mentre a settembre sarà organizzata una cerimonia commemorativa.",
+          "Per approfondire Agenzia ANSA A Bologna in via Paolo Fabbri le canzoni di Guccini a tutto volume - Notizie - Ansa. it L'atmosfera del luogo dove il cantautore ha vissuto fino al 2012.",
+          "Quarant'anni dopo, il Maestrone tornerà sul palco per rivivere quei momenti 'Fra la via Emilia e il West' (così si intitolò il concerto, da un passo del brano 'Piccola città', datato 1971) tra suggestioni e ricordi di \"una sorta di piccola Woodstock italiana\" ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Francesco Guccini"
+        ],
+        "numbersAndDates": [
+          "Protagonista della stagione dell'impegno, muore a 86 anni.",
+          "Docente - insegna fino a metà anni '80 lingua italiana al Dickinson College di Bologna, ma anche nella sede bolognese della Johns Hopkins University -, giovane cronista alla Gazzetta di Modena e pubblicitario, nel mondo della musica entra con con atteggiamento riluttante prima come",
+          "Nel 2012 ecco L'ultima Thule, canzoni incise a Pàvana nel Mulino dei nonni: in questa occasione Guccini annuncia l'intenzione di lasciare la professione di cantautore.",
+          "Per approfondire Agenzia ANSA A Bologna in via Paolo Fabbri le canzoni di Guccini a tutto volume - Notizie - Ansa. it L'atmosfera del luogo dove il cantautore ha vissuto fino al 2012.",
+          "Quarant'anni dopo, il Maestrone tornerà sul palco per rivivere quei momenti 'Fra la via Emilia e il West' (così si intitolò il concerto, da un passo del brano 'Piccola città', datato 1971) tra suggestioni e ricordi di \"una sorta di piccola Woodstock italiana\" .",
+          "5",
+          "6",
           "86"
         ]
       }
     },
     {
-      "id": "story-baa469795a1194ac",
-      "title": "La BCE segnala che il caro energia pesa sulle famiglie a basso reddito e ne erode i risparmi",
-      "summary": "Il Consiglio direttivo non si vincola a percorso sui tassi, dipende dai dati",
-      "spokenText": "Il caro energia non è soltanto una voce di spesa che lievita in bolletta. L’istituto centrale ha quantificato questa dinamica, rilevando come le famiglie a basso reddito registrino un tasso di risparmio mediano negativo, pari a circa il -5,8 per cento del reddito disponibile. In termini concreti, questo significa che per far fronte ai rincari energetici queste famiglie non solo non riescono ad accantonare nulla.",
-      "category": "attualita",
+      "id": "story-57208853da011c64",
+      "title": "Mancata protezione minori: Meta deve pagare altri 567 milioni",
+      "summary": "Il tribunale di Santa Fe ha ordinato a Meta di pagare 567 milioni di dollari per aver causato un disturbo alla quiete pubblica con le sue piattaforme. The post Mancata protezione minori: Meta deve pagare altri 567 milioni appeared first on Punto Informatico.",
+      "spokenText": "Il tribunale di Santa Fe ha ordinato a Meta un nuovo pagamento da 567 milioni di dollari per disturbo alla quiete pubblica, portando il risarcimento totale a 942 milioni. Il giudice Bryan Biedscheid ha così confermato l’accusa mossa dallo Stato del New Mexico, che nel dicembre 2025 aveva denunciato il gruppo per non aver adeguatamente protetto i minori su Facebook, Instagram e WhatsApp e per aver ingannato i consumatori sulla sicurezza delle piattaforme. Durante questa seconda fase del processo, il procuratore Raúl Torrez aveva chiesto un risarcimento aggiuntivo di 3,7 miliardi.",
+      "category": "diritti",
       "tags": [
-        "attualita",
-        "bce"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 26,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-incertezza-elevata-impatto-shock-energia-deve-ancora-arrivare_36bb802f-3733-479f-b096-8e996c1c4d55.html"
-      },
-      "analysis": {
-        "mainFact": "La BCE segnala che il caro energia pesa sulle famiglie a basso reddito e ne erode i risparmi.",
-        "whyItMatters": "I rincari poi \"erodono le risorse accantonate\" e queste famiglie \"registrano un tasso di risparmio mediano negativo e pari a circa il -5,8 per cento del reddito disponibile\".",
-        "confirmedFacts": [
-          "La BCE segnala che il caro energia pesa sulle famiglie a basso reddito e ne erode i risparmi.",
-          "I rincari poi \"erodono le risorse accantonate\" e queste famiglie \"registrano un tasso di risparmio mediano negativo e pari a circa il -5,8 per cento del reddito disponibile\".",
-          "L'ultima conferma viene da uno studio della Bce contenuto nel bollettino economico secondo cui nei nuclei \"a più basso reddito\" il 9% del bilancio viene assorbito dal pagamento dei beni energetici, carburanti e bollette energia contro una media del 5,5%."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "BCE"
-        ],
-        "numbersAndDates": [
-          "5,8"
-        ]
-      }
-    },
-    {
-      "id": "story-c73167006f19dd06",
-      "title": "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente",
-      "summary": "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente. Ecco la birifrangenza del vuoto, una teoria vecchia di 90 anni nel campo dell'elettrodinamica quantistica.",
-      "spokenText": "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente. Ecco la birifrangenza del vuoto, una teoria vecchia di 90 anni nel campo dell'elettrodinamica quantistica. Proposta per la prima volta nel 1936, la teoria suggerisce che il vuoto dello spazio può essere alterato da campi magnetici estremi, molto più alti di quelli che gli esseri umani possono creare sulla Terra. Maggiori informazioni su IXPE. La missione IXPE, che continua a fornire dati senza precedenti consentendo scoperte rivoluzionarie sugli oggetti celesti in tutto l'universo, è una missione congiunta della NASA e dell'Agenzia Spaziale Italiana con partner e collaboratori scientifici in 12 paesi. L'IXPE della NASA potrebbe aver dimostrato una teoria vecchia di 90 anni.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "ixpe"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 54,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/"
-      },
-      "analysis": {
-        "mainFact": "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente.",
-        "whyItMatters": "Ecco la birifrangenza del vuoto, una teoria vecchia di 90 anni nel campo dell'elettrodinamica quantistica.",
-        "confirmedFacts": [
-          "Una misurazione senza precedenti di una magnetar potrebbe aver catturato lo spazio vuoto che si comporta in un modo che i fisici avevano previsto 90 anni fa, ma mai osservato direttamente.",
-          "Ecco la birifrangenza del vuoto, una teoria vecchia di 90 anni nel campo dell'elettrodinamica quantistica.",
-          "Proposta per la prima volta nel 1936, la teoria suggerisce che il vuoto dello spazio può essere alterato da campi magnetici estremi, molto più alti di quelli che gli esseri umani possono creare sulla Terra.",
-          "Maggiori informazioni su IXPE. La missione IXPE, che continua a fornire dati senza precedenti consentendo scoperte rivoluzionarie sugli oggetti celesti in tutto l'universo, è una missione congiunta della NASA e dell'Agenzia Spaziale Italiana con partner e collaboratori scientifici in 12 paesi.",
-          "L'IXPE della NASA potrebbe aver dimostrato una teoria vecchia di 90 anni"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "IXPE"
-        ],
-        "numbersAndDates": [
-          "Proposta per la prima volta nel 1936, la teoria suggerisce che il vuoto dello spazio può essere alterato da campi magnetici estremi, molto più alti di quelli che gli esseri umani possono creare sulla Terra.",
-          "Maggiori informazioni su IXPE. La missione IXPE, che continua a fornire dati senza precedenti consentendo scoperte rivoluzionarie sugli oggetti celesti in tutto l'universo, è una missione congiunta della NASA e dell'Agenzia Spaziale Italiana con partner e collaboratori scientifici in 12 paesi.",
-          "L'IXPE della NASA potrebbe aver dimostrato una teoria vecchia di 90 anni",
-          "90"
-        ]
-      }
-    },
-    {
-      "id": "story-630bd4408666233c",
-      "title": "Meta è l'ultima azienda ad aver dichiarato che una sua intelligenza artificiale ha violato i sistemi di un'altra società",
-      "summary": "Meta è l'ultima azienda ad aver dichiarato che una sua intelligenza artificiale ha violato i sistemi di un'altra società. OpenAI e Anthropic stanno preparando quotazioni in borsa da blockbuster che dovrebbero valutare ciascuna azienda circa 1 trilione di dollari (740 miliardi di sterline).",
-      "spokenText": "Meta è l’ultimo gigante tech a dover ammettere che una propria intelligenza artificiale è riuscita a violare i sistemi informatici di un’altra azienda. Un episodio che dà corpo a una riflessione più ampia sull’imprevedibilità di queste tecnologie: quando assegni un obiettivo a un’IA, se non pensi a tutti i modi in cui potrebbe raggiungerlo, lei troverà una strada che non avevi considerato. E il contesto diventa ancora più significativo se si guarda ai player del settore: OpenAI e Anthropic stanno preparando quotazioni in borsa da blockbuster che dovrebbero valutare ciascuna azienda circa mille miliardi di dollari. \" Le azioni Meta scendono mentre cresce la frustrazione per i piani di spesa sull'IA. 29 luglio. IA o realtà?",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
+        "diritti",
         "meta",
-        "openai",
-        "anthropic"
+        "tribunale di santa fe",
+        "new mexico"
       ],
-      "importance": 85,
+      "importance": 80,
       "mustInclude": true,
-      "estimatedSeconds": 47,
+      "estimatedSeconds": 37,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/mancata-protezione-minori-meta-deve-pagare-altri-567-milioni/"
       },
       "analysis": {
-        "mainFact": "Meta è l'ultima azienda ad aver dichiarato che una sua intelligenza artificiale ha violato i sistemi di un'altra società.",
-        "whyItMatters": "OpenAI e Anthropic stanno preparando quotazioni in borsa da blockbuster che dovrebbero valutare ciascuna azienda circa 1 trilione di dollari (740 miliardi di sterline).",
+        "mainFact": "Il tribunale di Santa Fe ha ordinato a Meta di pagare 567 milioni di dollari per aver causato un disturbo alla quiete pubblica con le sue piattaforme.",
+        "whyItMatters": "È l’esito della seconda fase del processo relativo alla mancata protezione dei minori che usano Facebook, Instagram e WhatsApp.",
         "confirmedFacts": [
-          "Meta è l'ultima azienda ad aver dichiarato che una sua intelligenza artificiale ha violato i sistemi di un'altra società.",
-          "OpenAI e Anthropic stanno preparando quotazioni in borsa da blockbuster che dovrebbero valutare ciascuna azienda circa 1 trilione di dollari (740 miliardi di sterline).",
-          "\"Quando assegni un obiettivo a un'IA, se non pensi a tutti i modi in cui potrebbe raggiungerlo, troverà un modo per raggiungere l'obiettivo a cui non avevi pensato. \" Le azioni Meta scendono mentre cresce la frustrazione per i piani di spesa sull'IA. 29 luglio. IA o realtà?"
+          "Il tribunale di Santa Fe ha ordinato a Meta di pagare 567 milioni di dollari per aver causato un disturbo alla quiete pubblica con le sue piattaforme.",
+          "È l’esito della seconda fase del processo relativo alla mancata protezione dei minori che usano Facebook, Instagram e WhatsApp.",
+          "Il giudice Bryan Biedscheid del tribunale di Santa Fe ha ordinato il pagamento di altri 567 milioni di dollari per disturbo alla quiete pubblica.",
+          "Risarcimento totale di 942 milioni di dollari Lo Stato del New Mexico ha denunciato Meta a dicembre 2025, in quanto non ha adeguatamente protetto i minori e ingannato i consumatori sulla sicurezza delle sue piattaforme.",
+          "Durante le udienze relative alla seconda fase del processo, il Procuratore del New Mexico (Raúl Torrez) aveva chiesto un risarcimento aggiuntivo di 3,7 miliardi di dollari per disturbo alla quiete pubblica.",
+          "Mancata protezione minori: Meta deve pagare altri 567 milioni Il tribunale di Santa Fe ha ordinato a Meta di pagare 567 milioni di dollari per aver causato un disturbo alla quiete pubblica con le sue piattaforme.",
+          "Ha quindi confermato l’accusa e ordinato di pagare altri 567 milioni di dollari ."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Meta",
-          "OpenAI",
-          "Anthropic"
+          "Tribunale di Santa Fe",
+          "New Mexico"
         ],
         "numbersAndDates": [
-          "\"Quando assegni un obiettivo a un'IA, se non pensi a tutti i modi in cui potrebbe raggiungerlo, troverà un modo per raggiungere l'obiettivo a cui non avevi pensato. \" Le azioni Meta scendono mentre cresce la frustrazione per i piani di spesa sull'IA. 29 luglio. IA o realtà?",
-          "1",
-          "740"
+          "Il giudice Bryan Biedscheid del tribunale di Santa Fe ha ordinato il pagamento di altri 567 milioni di dollari per disturbo alla quiete pubblica.",
+          "Risarcimento totale di 942 milioni di dollari Lo Stato del New Mexico ha denunciato Meta a dicembre 2025, in quanto non ha adeguatamente protetto i minori e ingannato i consumatori sulla sicurezza delle sue piattaforme.",
+          "Durante le udienze relative alla seconda fase del processo, il Procuratore del New Mexico (Raúl Torrez) aveva chiesto un risarcimento aggiuntivo di 3,7 miliardi di dollari per disturbo alla quiete pubblica.",
+          "Mancata protezione minori: Meta deve pagare altri 567 milioni Il tribunale di Santa Fe ha ordinato a Meta di pagare 567 milioni di dollari per aver causato un disturbo alla quiete pubblica con le sue piattaforme.",
+          "Ha quindi confermato l’accusa e ordinato di pagare altri 567 milioni di dollari .",
+          "567"
         ]
       }
     },
     {
-      "id": "story-aa6c972d92a268db",
-      "title": "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna",
-      "summary": "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna.",
-      "spokenText": "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna.",
-      "category": "scienza",
+      "id": "story-ba42d8fac9233aad",
+      "title": "Allarmi via drone e rifugi negli aeroporti mentre la Corea del Sud affronta un'ondata di calore storica",
+      "summary": "Allarmi via drone e rifugi negli aeroporti mentre la Corea del Sud affronta un'ondata di calore storica.",
+      "spokenText": "La Corea del Sud sta vivendo un’ondata di calore di proporzioni storiche, e gli effetti si fanno sentire anche in contesti inaspettati. A Yangsan, le temperature estreme hanno innescato un’insolita catena di eventi: gli aeroporti della zona sono stati raggiunti da allarmi lanciati via drone, che hanno costretto le persone a riversarsi nei rifugi.",
+      "category": "ambiente",
       "tags": [
-        "scienza",
-        "spacex"
+        "ambiente",
+        "yangsan"
       ],
-      "importance": 85,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 6,
+      "estimatedSeconds": 22,
       "source": {
         "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/videos/ce3qznlqkp7o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna.",
-        "whyItMatters": "Impatto lunare di un razzo SpaceX, evento spaziale con implicazioni scientifiche e ingegneristiche.",
+        "mainFact": "Allarmi via drone e rifugi negli aeroporti mentre la Corea del Sud affronta un'ondata di calore storica.",
+        "whyItMatters": "",
         "confirmedFacts": [
-          "Si ritiene che una parte di un razzo SpaceX abbia colpito la Luna.",
-          "Impatto lunare di un razzo SpaceX, evento spaziale con implicazioni scientifiche e ingegneristiche.",
-          "The empty upper stage of a Falcon 9 rocket was due to strike the Moon about 5,400mph (8,700km/h) on Wednesday 5 August."
+          "Allarmi via drone e rifugi negli aeroporti mentre la Corea del Sud affronta un'ondata di calore storica.",
+          "Temperatures in the south soared to a record 42.5C (108.5F) earlier this week.",
+          "In the southern city of Yangsan, where the mercury hit a historic high of 42.5C on Sunday, fleets of sprinkler trucks have been roaming the streets, spraying water onto sun-baked roads.",
+          "With reporting by Emily Choi and Kim Hyojung in Seoul Figure caption, Record heatwave in South Korea as temperatures soar to 42.5C Related topics South Korea Asia Severe weather"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "SpaceX"
+          "Yangsan"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-7e0f2f340a4fe827",
-      "title": "La maggior parte dei fiumi e dei laghi dell'Inghilterra non supera una nuova revisione ambientale",
-      "summary": "La maggior parte dei fiumi e dei laghi dell'Inghilterra non supera una nuova revisione ambientale. I dati dell'Environment Agency mostrano che mentre il 15% dei fiumi è classificato come buono, meno del 7% dei laghi ha raggiunto quel livello.",
-      "spokenText": "L'Environment Agency ha appena pubblicato la sua revisione ambientale, e il quadro che emerge per fiumi e laghi inglesi è tutt'altro che rassicurante. La maggior parte di questi corpi idrici non supera la valutazione. Entrando nel dettaglio, solo il 15% dei fiumi raggiunge una classificazione di buono, mentre per i laghi la situazione è ancora più critica: meno del 7% ce la fa. L'agenzia però spiega che questo crollo non riflette un reale peggioramento delle condizioni, ma è dovuto in gran parte a un cambiamento nei metodi di valutazione dei suoi esperti. Questi risultati arrivano mentre buona parte dell'Inghilterra è in siccità ufficiale, con i fiumi in magra e oltre 20 milioni di persone soggette al divieto di usare tubi per annaffiare. E se si guarda all'inquinamento chimico, il fallimento è totale: ogni singolo fiume e lago non ha superato il test. Alla domanda diretta se le acque inglesi fossero più sane rispetto a sei o sette anni fa, la professoressa Johnes è stata lapidaria: \"No, decisamente no\", parlando di sostanze chimiche in accumulo. E tutto questo nonostante le compagnie idriche abbiano stanziato la cifra record di 22 miliardi di sterline per miglioramenti ambientali entro il 2030.",
+      "id": "story-95554be01d8ddc2a",
+      "title": "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti",
+      "summary": "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti. Non è rimasta materia organica. Ha aggiunto: \"Cose come i serpenti, le vipere, i rettili, non possono scappare, quindi saranno distrutti.",
+      "spokenText": "Gli esperti lanciano un allarme che fa riflettere: per recuperare completamente i danni di questi incendi potrebbero volerci centinaia di anni. Il motivo è radicale: non è rimasta materia organica. Cose come i serpenti, le vipere, i rettili, non possono scappare, quindi saranno distrutti.",
       "category": "ambiente",
       "tags": [
-        "ambiente",
-        "environment agency"
+        "ambiente"
       ],
-      "importance": 75,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 79,
+      "estimatedSeconds": 18,
       "source": {
         "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "La maggior parte dei fiumi e dei laghi dell'Inghilterra non supera una nuova revisione ambientale.",
-        "whyItMatters": "I dati dell'Environment Agency mostrano che mentre il 15% dei fiumi è classificato come buono, meno del 7% dei laghi ha raggiunto quel livello.",
+        "mainFact": "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti.",
+        "whyItMatters": "Non è rimasta materia organica. Ha aggiunto: \"Cose come i serpenti, le vipere, i rettili, non possono scappare, quindi saranno distrutti.",
         "confirmedFacts": [
-          "La maggior parte dei fiumi e dei laghi dell'Inghilterra non supera una nuova revisione ambientale.",
-          "I dati dell'Environment Agency mostrano che mentre il 15% dei fiumi è classificato come buono, meno del 7% dei laghi ha raggiunto quel livello.",
-          "In particolare, ha detto che il forte calo del numero di laghi classificati come buoni - circa la metà in meno rispetto al 2019 - riflette in gran parte un cambiamento nel modo in cui i suoi esperti ora li valutano, piuttosto che un reale declino delle loro condizioni.",
-          "I risultati arrivano mentre gran parte dell'Inghilterra è in siccità ufficiale, con fiumi in magra e più di 20 milioni di persone soggette al divieto di usare tubi per l'acqua.",
-          "Alla domanda diretta se le acque dell'Inghilterra fossero più sane di sei o sette anni fa, la professoressa Johnes ha risposto: \"No, decisamente no. \" Sostanze chimiche in accumulo. Ogni fiume e lago non ha superato il test per l'inquinamento chimico.",
-          "Nonostante la cifra record di 22 miliardi di sterline stanziata per i miglioramenti ambientali delle compagnie idriche entro il 2030, il quadro complessivo è cambiato poco dal 2019."
+          "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti.",
+          "Non è rimasta materia organica. Ha aggiunto: \"Cose come i serpenti, le vipere, i rettili, non possono scappare, quindi saranno distrutti.",
+          "There is no organic matter left.\" Rare moths and snakes 'destroyed' He added: \"Things like the snakes, adders, reptiles, they can not escape, so they will be destroyed."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-32affd8927ee6f42",
+      "title": "Lo stadio superiore vuoto di un razzo Falcon 9 ha colpito la Luna il 5 agosto",
+      "summary": "Lo stadio superiore vuoto di un razzo Falcon 9 ha colpito la Luna il 5 agosto.",
+      "spokenText": "Il 5 agosto la Luna è stata colpita da un oggetto artificiale. Non si è trattato di un meteorite qualunque, ma dello stadio superiore vuoto di un razzo Falcon 9, lanciato anni fa da SpaceX.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "spacex",
+        "south korea space agency",
+        "falcon 9"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 14,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/videos/ce3qznlqkp7o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Lo stadio superiore vuoto di un razzo Falcon 9 ha colpito la Luna il 5 agosto.",
+        "whyItMatters": "Impatto di detriti spaziali sulla Luna e attesa per le prime immagini del cratere.",
+        "confirmedFacts": [
+          "Lo stadio superiore vuoto di un razzo Falcon 9 ha colpito la Luna il 5 agosto.",
+          "Impatto di detriti spaziali sulla Luna e attesa per le prime immagini del cratere.",
+          "The empty upper stage of a Falcon 9 rocket was due to strike the Moon about 5,400mph (8,700km/h) on Wednesday 5 August.",
+          "Rocket debris struck the Moon at around 06:35 GMT on Wednesday, according to the South Korean space agency.",
+          "Re-usable Falcon 9 rockets were designed to allow part of the rocket to return to Earth (the upper stage) and other sections to be shed in space.",
+          "The empty upper stage of this Falcon 9 rocket, which scientists predicted would hit the Moon at a speed of about 5,400mph (8,700km/h), is about the size of a five-storey building and weighs approximately 4,000kg (630st) on Earth.",
+          "SpaceX says the mission hopes to launch 29 Starlink satellites to low-Earth orbit.",
+          "Over the next 18 months, the gentle gravitational tug of the Earth, Moon and Sun, along with light from the Sun, gave it a faint push.",
+          "1 day ago What will happen when a SpaceX rocket collides with the Moon?"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Environment Agency"
+          "SpaceX",
+          "South Korea space agency",
+          "Falcon 9"
         ],
         "numbersAndDates": [
-          "In particolare, ha detto che il forte calo del numero di laghi classificati come buoni - circa la metà in meno rispetto al 2019 - riflette in gran parte un cambiamento nel modo in cui i suoi esperti ora li valutano, piuttosto che un reale declino delle loro condizioni.",
-          "I risultati arrivano mentre gran parte dell'Inghilterra è in siccità ufficiale, con fiumi in magra e più di 20 milioni di persone soggette al divieto di usare tubi per l'acqua.",
-          "Nonostante la cifra record di 22 miliardi di sterline stanziata per i miglioramenti ambientali delle compagnie idriche entro il 2030, il quadro complessivo è cambiato poco dal 2019.",
-          "15",
-          "7"
+          "9",
+          "5"
         ]
       }
     },
     {
-      "id": "story-9ff4e83f94515219",
-      "title": "Abdul El-Sayed, lancia un appello all'unità del partito",
-      "summary": "Il neo candidato al senato Usa in Michigan, lancia un appello all'unità",
-      "spokenText": "Abdul El-Sayed ha conquistato la nomination per il Senato in Michigan e il suo primo messaggio è stato un appello all'unità. Parlando dopo la vittoria, ha usato parole molto chiare: \"In casa si discute, ma fuori serve unità: sono più le cose che ci uniscono di quelle che ci dividono\". Un'affermazione che arriva da una figura che a soli quarantun anni è già considerata uno dei nuovi volti della sinistra americana. Figlio di immigrati egiziani, El-Sayed incarna un percorso generazionale e politico che sta attirando molta attenzione, in uno Stato, il Michigan, che sarà cruciale per il controllo del Senato USA.",
-      "category": "attualita",
+      "id": "story-2261611b65e54041",
+      "title": "La struttura di sviluppo e test lunare della NASA prepara l'hardware di Artemis per la Luna",
+      "summary": "La struttura di sviluppo e test lunare della NASA prepara l'hardware di Artemis per la Luna.",
+      "spokenText": "La NASA sta mettendo a punto l'hardware che porterà le future missioni Artemis sulla superficie lunare.",
+      "category": "scienza",
       "tags": [
-        "attualita",
-        "abdul el sayed",
-        "michigan",
-        "senato usa"
+        "scienza",
+        "nasa",
+        "lunar development and test facility",
+        "artemis"
       ],
-      "importance": 65,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 41,
+      "estimatedSeconds": 7,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/05/abdul-el-sayed-ai-dem-in-casa-si-discute-ma-fuori-serve-unita_08254962-9127-406d-a39f-445d4343b3cd.html"
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/"
       },
       "analysis": {
-        "mainFact": "Abdul El-Sayed, lancia un appello all'unità del partito.",
-        "whyItMatters": "A 41 anni Abdul El-Sayed è diventato uno dei nuovi volti della sinistra americana.",
+        "mainFact": "La struttura di sviluppo e test lunare della NASA prepara l'hardware di Artemis per la Luna.",
+        "whyItMatters": "Preparazione hardware lunare per il programma Artemis, passo concreto verso il ritorno sulla Luna.",
         "confirmedFacts": [
-          "Abdul El-Sayed, lancia un appello all'unità del partito.",
-          "A 41 anni Abdul El-Sayed è diventato uno dei nuovi volti della sinistra americana.",
-          "\"In casa si discute, ma fuori serve unit : sono pi le cose che ci uniscono di quelle che ci dividono\", ha detto El-Sayed, parlando dopo la conquista della nomination.",
-          "El-Sayed è figlio di immigrati egiziani."
+          "La struttura di sviluppo e test lunare della NASA prepara l'hardware di Artemis per la Luna.",
+          "Preparazione hardware lunare per il programma Artemis, passo concreto verso il ritorno sulla Luna.",
+          "The facility includes a dust containment and preparation laboratory for ambient testing, a 3-foot cube vacuum chamber, and a 15-foot thermal vacuum chamber."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Abdul El-Sayed",
-          "Michigan",
-          "Senato USA"
+          "NASA",
+          "Lunar Development and Test Facility",
+          "Artemis"
         ],
-        "numbersAndDates": [
-          "El-Sayed è figlio di immigrati egiziani.",
-          "41"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-ef25a049a2b393ec",
-      "title": "Droni russi hanno attaccato la nave cargo tedesca 'Emil', battente bandiera liberiana, vicino a Odessa, causando un incendio a bordo",
-      "summary": "Una nave cargo tedesca, battente bandiera liberiana, è finita nel mirino di un attacco di droni russi, nel Mar Nero, vicino a Odessa. Lo scrive la Bild. Stando al tabloid...",
-      "spokenText": "Droni russi hanno attaccato la nave cargo tedesca Emil, battente bandiera liberiana, a 21 miglia da Odessa, provocando un incendio a bordo. secondo Kiev, 25 droni Shahed e un missile Onyx hanno centrato 18 obiettivi. L’aeronautica militare Ucraina ha reso noto di aver abbattuto 66 dei 101 droni lanciati dalla Russia durante la notte.",
-      "category": "mondo",
+      "id": "story-0a088d57be5ddf4b",
+      "title": "L'IA sviluppata in Occidente calpesta i valori Ubuntu di connessione e comunità che animano la vita etica africana",
+      "summary": "L'IA sviluppata in Occidente calpesta i valori Ubuntu di connessione e comunità che animano la vita etica africana.",
+      "spokenText": "C'è un’idea che anima la vita etica in molte comunità africane ed è quella di Ubuntu: una parola che esprime connessione profonda, umanità condivisa, il senso per cui 'io sono perché noi siamo'. Ecco, secondo un’analisi recente, l’intelligenza artificiale sviluppata in Occidente rischia di calpestare proprio questi valori.",
+      "category": "tecnologia",
       "tags": [
-        "mondo",
-        "russia",
-        "ucraina",
-        "odessa",
-        "mar nero",
-        "bild"
+        "tecnologia",
+        "africa"
       ],
-      "importance": 70,
+      "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 22,
+      "estimatedSeconds": 20,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-raid-russo-regione-kharkiv-tre-morti-balakliya-AJjS5Jg"
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics"
       },
       "analysis": {
-        "mainFact": "Droni russi hanno attaccato la nave cargo tedesca 'Emil', battente bandiera liberiana, vicino a Odessa, causando un incendio a bordo.",
-        "whyItMatters": "La nave presa d’assalto dai droni si chiama “Emil” e si trovava a 21 miglia dalla città portuale.",
+        "mainFact": "L'IA sviluppata in Occidente calpesta i valori Ubuntu di connessione e comunità che animano la vita etica africana.",
+        "whyItMatters": "Riflessione su un'AI per l'Africa che rispetti i valori Ubuntu. Critica all'approccio occidentale e implicazioni etiche.",
         "confirmedFacts": [
-          "Droni russi hanno attaccato la nave cargo tedesca 'Emil', battente bandiera liberiana, vicino a Odessa, causando un incendio a bordo.",
-          "La nave presa d’assalto dai droni si chiama “Emil” e si trovava a 21 miglia dalla città portuale.",
-          "L’aeronautica militare Ucraina ha reso noto di aver abbattuto 66 dei 101 droni lanciati dalla Russia durante la notte.",
-          "Mosca ha inoltre impiegato quattro missili: secondo Kiev, 25 droni Shahed e un missile Onyx hanno raggiunto 18 obiettivi, mentre gli altri vettori non hanno colpito i bersagli previsti.",
-          "Droni ucraini colpiscono raffineria di YaroslavlMosca: “Colpite due navi mercantili vicino a Odessa”"
+          "L'IA sviluppata in Occidente calpesta i valori Ubuntu di connessione e comunità che animano la vita etica africana.",
+          "Riflessione su un'AI per l'Africa che rispetti i valori Ubuntu. Critica all'approccio occidentale e implicazioni etiche."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Russia",
-          "Ucraina",
-          "Odessa",
-          "Mar Nero",
-          "Bild"
+          "Africa"
         ],
-        "numbersAndDates": [
-          "L’aeronautica militare Ucraina ha reso noto di aver abbattuto 66 dei 101 droni lanciati dalla Russia durante la notte.",
-          "Mosca ha inoltre impiegato quattro missili: secondo Kiev, 25 droni Shahed e un missile Onyx hanno raggiunto 18 obiettivi, mentre gli altri vettori non hanno colpito i bersagli previsti.",
-          "21"
-        ]
-      }
-    },
-    {
-      "id": "story-f64baa88134b0fe3",
-      "title": "L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025",
-      "summary": "L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025. “Un cessate il fuoco che comporta la morte di un bambino in media ogni singolo giorno sta deludendo i bambini”, ha dichiarato Edouard Beigbeder, Direttore regionale dell’Unicef per il Medioriente e il Nord Africa.",
-      "spokenText": "Edouard Beigbeder, Direttore regionale dell’Unicef per il Medioriente e il Nord Africa, ha dichiarato che un cessate il fuoco che comporta la morte di un bambino in media ogni singolo giorno sta deludendo i bambini. L’accordo per la sospensione delle operazioni militari e il pieno accesso degli aiuti umanitari risale a quasi dieci mesi fa. L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025. Avrà una durata di 60 giorni e mira a ripristinare la navigazione. Trump: 'Riaprite o reazione durissima'.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "iran",
-        "oman",
-        "stati uniti",
-        "unicef",
-        "gaza",
-        "edouard beigbeder"
-      ],
-      "importance": 70,
-      "mustInclude": true,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-trump-attacca-hegseth-carenza-missili-la-guerra-iran-AJdtjHg"
-      },
-      "analysis": {
-        "mainFact": "L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025.",
-        "whyItMatters": "“Un cessate il fuoco che comporta la morte di un bambino in media ogni singolo giorno sta deludendo i bambini”, ha dichiarato Edouard Beigbeder, Direttore regionale dell’Unicef per il Medioriente e il Nord Africa.",
-        "confirmedFacts": [
-          "L'UNICEF denuncia che a Gaza sono morti 300 bambini nei 300 giorni successivi all'annuncio del cessate il fuoco dell'ottobre 2025.",
-          "“Un cessate il fuoco che comporta la morte di un bambino in media ogni singolo giorno sta deludendo i bambini”, ha dichiarato Edouard Beigbeder, Direttore regionale dell’Unicef per il Medioriente e il Nord Africa.",
-          "I più letti 10:40 6 agosto 2026 Unicef, a Gaza morti 300 bambini in ultimi 300 giorni Secondo le notizie, almeno 300 bambini sarebbero stati uccisi a Gaza nei 300 giorni trascorsi dall’annuncio del cessate il fuoco nell’ottobre 2025.",
-          "Avrà una durata di 60 giorni e mira a ripristinare la navigazione.",
-          "Trump: 'Riaprite o reazione durissima'",
-          "Ciò equivale a una media di un bambino al giorno, nonostante l’accordo per la sospensione delle operazioni militari e il pieno accesso degli aiuti umanitari e dei soccorsi risalga a quasi 10 mesi fa."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Iran",
-          "Oman",
-          "Stati Uniti",
-          "UNICEF",
-          "Gaza",
-          "Edouard Beigbeder"
-        ],
-        "numbersAndDates": [
-          "I più letti 10:40 6 agosto 2026 Unicef, a Gaza morti 300 bambini in ultimi 300 giorni Secondo le notizie, almeno 300 bambini sarebbero stati uccisi a Gaza nei 300 giorni trascorsi dall’annuncio del cessate il fuoco nell’ottobre 2025.",
-          "Avrà una durata di 60 giorni e mira a ripristinare la navigazione.",
-          "Ciò equivale a una media di un bambino al giorno, nonostante l’accordo per la sospensione delle operazioni militari e il pieno accesso degli aiuti umanitari e dei soccorsi risalga a quasi 10 mesi fa.",
-          "300",
-          "2025"
-        ]
+        "numbersAndDates": []
       }
     }
   ]
