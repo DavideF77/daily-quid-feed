@@ -1,588 +1,630 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-08-ed4b5dcfb2ad",
-  "generatedAt": "2026-08-08T07:37:18.798Z",
+  "catalogId": "daily-quid-2026-08-09-1f464218657c",
+  "generatedAt": "2026-08-09T07:58:12.114Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-b0b290413bd3adb4",
-      "title": "Brasile, la deforestazione in Amazzonia ai minimi da un decennio",
-      "summary": "Dati Inpe, calo del 37% in un anno. Lula punta allo stop alla deforestazione illegale",
-      "spokenText": "La deforestazione in Amazzonia ha registrato un calo del 37% nell'ultimo anno, toccando i livelli più bassi da un decennio. Durante il governo dell'ex presidente Jair Bolsonaro, la distruzione della foresta era aumentata in modo significativo, raggiungendo il picco di 10.278 chilometri quadrati nel 2022. Il presidente Lula ha rivendicato questi risultati come frutto della sua politica ambientale e ha ribadito l'obiettivo di azzerare la deforestazione illegale entro il 2030.",
+      "id": "story-dcc23af4bdc1f0c0",
+      "title": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+      "summary": "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico. L’Osservatorio, istituto presso il Ministero dell’Ambiente e della Sicurezza energetica, ha fra i suoi compiti l’indirizzo e il coordinamento multilivello per l’attuazione del Piano nazionale di adattamento ai cambiamenti climatici (Pnacc) nonché la definizione di priorità di intervento, l’aggiornamento delle azioni e l’individuazione delle fonti di finanziamento. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
+      "spokenText": "Il Sistema nazionale per la protezione dell’ambiente contribuisce all’attuazione del Piano di adattamento al cambiamento climatico. Con l’insediamento dell’Osservatorio dedicato, il 24 febbraio 2026, il Piano passa dalla fase strategica all’attuazione operativa. SNPA ha individuato i propri esperti che entrano a far parte di questo organismo: tra i partecipanti ai lavori figurano tecnici e ricercatori provenienti dalle diverse componenti del Sistema, da ISPRA alle Arpa. Il Piano, approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati forniti da SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "brasile",
-        "amazzonia",
-        "inpe",
-        "lula",
-        "jair bolsonaro"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 28,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/07/brasile-la-deforestazione-in-amazzonia-ai-minimi-da-un-decennio_53ed3eb7-5ad2-4be5-9632-e1cdea05beb7.html"
-      },
-      "analysis": {
-        "mainFact": "La deforestazione in Amazzonia è ai minimi da un decennio, con un calo del 37% in un anno.",
-        "whyItMatters": "Il presidente Lula ha rivendicato i risultati della sua politica ambientale e ha ribadito l'obiettivo di azzerare la deforestazione illegale entro il 2030, dopo che questa era aumentata fortemente durante il governo Bolsonaro.",
-        "confirmedFacts": [
-          "La deforestazione in Amazzonia è ai minimi da un decennio, con un calo del 37% in un anno.",
-          "Il presidente Lula ha rivendicato i risultati della sua politica ambientale e ha ribadito l'obiettivo di azzerare la deforestazione illegale entro il 2030, dopo che questa era aumentata fortemente durante il governo Bolsonaro.",
-          "La deforestazione era aumentata fortemente durante il governo dell'ex presidente Jair Bolsonaro, raggiungendo il picco di 10.278 chilometri quadrati nel 2022."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Brasile",
-          "Amazzonia",
-          "Inpe",
-          "Lula",
-          "Jair Bolsonaro"
-        ],
-        "numbersAndDates": [
-          "La deforestazione era aumentata fortemente durante il governo dell'ex presidente Jair Bolsonaro, raggiungendo il picco di 10.278 chilometri quadrati nel 2022.",
-          "37",
-          "2030"
-        ]
-      }
-    },
-    {
-      "id": "story-2f79d55340954798",
-      "title": "Cosa rischia l’Italia con la crisi climatica",
-      "summary": "di Luca Carra Pubblicato il 07/08/2026 Il caldo assillante di questi giorni e la siccità che ne consegue stanno fermando centrali elettriche in mezza Europa. È l'anticipo, in scala ridotta, di un rischio climatico che un gruppo di economisti ambientali ha per la prima volta quantificato per i conti pubblici italiani. Tempo di lettura: 12 mins Lunedì scorso, sul Danubio, vicino alla centrale nucleare romena di Cernavoda, è stata fatta esplodere una carica sul letto del fiume per far arrivare più acqua ai sistemi di raffreddamento, messi in crisi dalla siccità. In Francia EDF ha fermato nelle ultime settimane reattori a Chooz sulla Mosa, a Cattenom sulla Mosella, a Golfech sulla Garonna e a Bugey sul Rodano: nessun guasto, nessun problema di sicurezza, semplicemente l'acqua dei fiumi è troppo calda o troppo poca per raffreddare gli impianti restando dentro i limiti ambientali. In Germania sul Reno, a causa dell'abbassamento del livello dell'acqua, le navi mercantili devono fermarsi o viaggiare scariche, spostando parte delle spedizioni sui TIR. In Italia il Po a Pontelagoscuro è sceso intorno ai 220 metri cubi al secondo, contro i 400 che servono a contrastare la risalita del cuneo salino, e i gestori hanno segnalato possibili riduzioni di produzione per le centrali termoelettriche di Chivasso e Sermide, che dal fiume prendono l'acqua di raffreddamento. Sono episodi diversi che raccontano la stessa cosa. Servizi vitali come l'elettricità dipendono da una risorsa che il cambiamento climatico rende meno abbondante e più calda proprio nei giorni in cui la domanda di energia va al massimo, perché tutti accendono i condizionatori. Lo stesso vale per le rotaie che si deformano, per l'asfalto che si ammorbidisce, per gli acquedotti che perdono pressione. Il rischio climatico ha smesso di essere una previsione ed è diventato un vincolo operativo quotidiano. Di quanto stia diventando un problema centrale per un Paese fisicamente vulnerabile come l'Italia parla il rapporto Rischio climatico in Italia. Scenari, costi e opzioni di risposta, firmato da Matteo Calcaterra, Carlo Carraro, Massimo Tavoni con altri ricercatori del Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC), Politecnico di Milano, Ca' Foscari, Istituto Universitario Europeo e Università di Siena. Il punto di partenza degli autori è che gli impatti sono già in corso e che, a prescindere da quanto sapremo fare nella transizione energetica dei prossimi anni, peseranno in modo crescente per i decenni a venire. Ci scaldiamo il doppio della media L'Europa si scalda a una velocità circa doppia rispetto alla media globale, e l'Italia, per la sua posizione nel Mediterraneo, sta nella fascia più esposta del continente. Intorno al 2035 il riscaldamento medio italiano supera i 2 gradi rispetto all'era preindustriale, in tutti gli scenari considerati, compreso il più virtuoso: fino a metà degli anni Trenta il clima è già scritto dalle emissioni passate, e le scelte di oggi decidono cosa accade dopo. La Pianura Padana, cuore produttivo del Paese, è già a 2-2,5 gradi in più. Su questo sfondo si combinano tre fenomeni. Le ondate di calore, la cui severità annua è già quattro o cinque volte quella storica al 2030 e che al 2050 portano in Italia da 30 a 58 giornate aggiuntive all'anno, con gli aumenti percentuali più forti nelle aree alpine e prealpine, cioè dove il caldo estremo prima non c'era. La siccità cronica, che non è semplicemente pioggia che non cade: gli indici che misurano solo le precipitazioni danno per l'Italia un segnale incerto, quelli che tengono conto anche dell'acqua sottratta dall'atmosfera più calda peggiorano nettamente. Al 2050 Sardegna e Basilicata risultano fra le aree più aride d'Europa, ma anche Piemonte ed Emilia-Romagna vedono triplicare la severità della siccità. E gli incendi, che su un territorio più secco e più caldo diventano progressivamente meno gestibili, come si è visto quest'anno in molte parti del mondo, e che la Commissione europea classifica fra i rischi critici per l'Europa meridionale. Nello stesso tempo la pioggia ordinaria cala, al Sud fino a un terzo, mentre quella estrema aumenta: in Marche e Lombardia la quantità massima d'acqua che cade in cinque giorni arriva a raddoppiare. Non è un paradosso ma fisica elementare, perché l'aria più calda trattiene più vapore e quando piove, piove tutto insieme, su terreni induriti che assorbono peggio. Vivere così significa alternare, nello stesso anno e spesso nello stesso territorio, le autobotti e le esondazioni. La robustezza di queste proiezioni è alta: sulla siccità 18 regioni su 20 mostrano un accordo fra i modelli pari o superiore al 90 per cento. Gli impatti, il catalogo è questo I danni diretti annui alle infrastrutture italiane passano da circa 0,4 miliardi di euro del periodo storico a 2 miliardi entro il 2030 e a 5 entro il 2050; contando i servizi interrotti e le catene di fornitura spezzate, il costo totale al 2050 sta fra 11,5 e 18 miliardi l'anno. Gli autori insistono su un punto: l'adattamento delle infrastrutture non è un tema marginale di politica ambientale, è una priorità di investimento pubblico, di pianificazione territoriale e di politica industriale. Senza un salto di scala nella qualità dei dati, nella capacità progettuale e nella continuità amministrativa, avvertono, il Paese rischia di imboccare una traiettoria di regressione infrastrutturale difficile da invertire. L'agricoltura è colpita soprattutto attraverso l'acqua, meno disponibile e soprattutto meno prevedibile: il caldo aumenta l'evaporazione, riduce le riserve di neve che alimentano i fiumi in primavera e mette in competizione usi agricoli, civili, industriali ed energetici. A rischio sono le colture che fanno il valore dell'agroalimentare italiano, mais, riso, olivo, vite, ortofrutta, con una perdita stimata al 2050 fra 12,5 e 30 miliardi di euro a seconda dello scenario. E non è solo questione di raccolti: nelle aree più esposte la terra si deprezza fino al 16 per cento entro fine secolo, ed è il patrimonio che gli agricoltori portano in banca come garanzia. Il turismo, scrivono i ricercatori, non entra in una fase di declino lineare ma di riallocazione selettiva dei flussi e della redditività, in cui erosione costiera, calore, acqua ed ecosistemi diventano fattori economici centrali e non più sfondo ambientale. Negli scenari più caldi la domanda si contrae dell'8,9 per cento, con perdite dirette fino a 52 miliardi, la maggior parte delle spiagge è destinata a erodersi e il turismo montano invernale, che regge l'economia di intere vallate, entra in crisi strutturale per mancanza di neve. Sul lavoro l'effetto è già misurabile: in Italia, dopo il terzo giorno consecutivo di ondata di calore, ogni giornata in più sopra i 30 gradi si associa a una riduzione di 0,56 punti percentuali nei tassi di occupazione provinciali. Non è una proiezione ma una relazione osservata nei dati, e riguarda chi lavora all'aperto o in ambienti non climatizzati: edilizia, agricoltura, logistica, turismo, parte della manifattura. Sul fronte sanitario l'Italia ha una delle esposizioni più alte al mondo alla mortalità legata alle temperature, con circa il 10 per cento dei decessi correlato a caldo o freddo, la quota più alta d'Europa. Si obietta spesso che un clima più mite dovrebbe salvare vite riducendo i morti da freddo: la ricerca più recente, su 854 città europee, dice il contrario, perché l'aumento dei decessi per calore supera sistematicamente quella riduzione, in tutti gli scenari. La crisi climatica, inoltre, aumenta le disparità. La riduzione media del prodotto pro capite al 2050 è del 3,7 per cento, ma le regioni meridionali e le isole perdono fra il 5 e il 15 per cento mentre alcune aree alpine registrano perfino guadagni relativi: il divario Nord-Sud viene riaperto e allargato dal clima. Il clima abbatte il PIL e gonfia il debito sovrano Tutto questo ha chiari risvolti sul Prodotto interno lordo e sul debito. La Banca centrale europea ha già incorporato questi meccanismi nei propri scenari di stress: in quello chiamato \"Disastri e stagnazione politica\" una sequenza ravvicinata di ondate di calore, siccità e alluvioni in Europa porterebbe il PIL a contrarsi fino al 4,7 per cento entro il 2030, una magnitudo paragonabile alla crisi finanziaria del 2008. Ci sono poi le ripercussioni sul credito. Oltre il 34 per cento dei prestiti bancari dell'area euro alle imprese non finanziarie, più di 1.300 miliardi di euro, è destinato a settori ad alto rischio di scarsità idrica, e il 75 per cento delle esposizioni creditizie verso le imprese dipende in modo rilevante da almeno un servizio ecosistemico. Il rischio climatico, osservano i ricercatori, non è confinato a pochi comparti ma attraversa l'economia come fattore di rischio finanziario sistemico. E in un Paese di piccole e medie imprese va aggiunto che proprio le PMI dei settori energivori o esposti al clima, manifattura, agricoltura, edilizia, hanno meno margini delle grandi per assorbire l'aumento dei costi del carbonio o per investire in tecnologie pulite. Sommati, questi danni si scaricano sul PIL. Al 2050 il prodotto interno lordo italiano risulta più basso, rispetto a un'Italia senza cambiamento climatico, dell'1,6 per cento nell'ipotesi più contenuta dello scenario favorevole e fino al 6 per cento nell'ipotesi più severa di quello tendenziale. Il numero sembra piccolo, e non lo è, perché l'Italia cresce poco: nello scenario tendenziale la crescita media prevista fra il 2025 e il 2050 è dello 0,61 per cento l'anno, con i danni climatici scende allo 0,52. Il clima si mangia il 15 per cento della nostra crescita, e nelle ipotesi peggiori il 41 per cento. La crescita che il clima si mangia In un Paese che cresce poco, anche una perdita piccola in valore assoluto pesa moltissimo. Crescita media annua del PIL, 2025-2050 Senza danni climatici Con danni climatici (stima centrale) Con danni climatici (ipotesi sfavorevole) 1,11% 1,04% 0,93% 0,61% 0,52% 0,36% Scenario favorevole (SSP2-RCP4. 5) la crescita si riduce del 6% (fino al 16%) Scenario tendenziale (SSP3-RCP7. 0) la crescita si riduce del 15% (fino al 41%) Lo stesso danno pesa in modo diversissimo a seconda di quanto un Paese cresce. Perdere un decimo di punto, per l'Italia, significa perderne una fetta enorme in proporzione. Fonte: Calcaterra, Cammeo, Borghesi, Carraro, Tavoni, Rischio climatico in Italia, 2026 Meno crescita significa meno gettito a parità di aliquote e un debito che pesa di più su un'economia più piccola: secondo gli scenari controfattuali e realistici presi in considerazione, senza danni climatici il rapporto debito/PIL scenderebbe entro il 2050 dall'attuale 140 per cento circa al 90-103 per cento. Includendo invece i danni climatici la discesa si ferma e la mediana resta fra il 115 e il 138 per cento, quasi dove siamo oggi. Trent'anni di risanamento cancellati dal clima. E attenzione: negli scenari più estremi il rapporto debito/PIL potrebbe sfondare addirittura quota 200 per cento, mettendo a repentaglio l'intero sistema, e con esso la stabilità economica e fiscale della popolazione. Lo spread climatico Quanto in più lo Stato paga sul proprio debito per effetto del solo rischio climatico, al 2050. Punti base di interesse aggiuntivo Danni moderati Danni elevati +14,7 pb +41,5 pb +16,2 pb +45,7 pb Scenario favorevole (SSP2-RCP4. 0) Passando da danni moderati a danni elevati il costo aggiuntivo non raddoppia: triplica. Il punto base è un centesimo di punto percentuale. Per intenderci, lo spread fra titoli italiani e tedeschi oscilla in questi mesi intorno agli 80-85 punti base, e su un debito di oltre 3.000 miliardi ogni frazione di punto è denaro sottratto ogni anno a scuole, ospedali e strade. Fonte: Calcaterra, Cammeo, Borghesi, Carraro, Tavoni, Rischio climatico in Italia, 2026 Carlo Carraro, rettore emerito di Ca' Foscari e fra gli autori del rapporto, indica la conseguenza che riguarda tutti: quando cresce il costo del denaro per il debito pubblico, cresce a cascata quello di ogni finanziamento a famiglie e imprese. Un mutuo più caro, un prestito aziendale più caro. Il clima arriva anche in banca. Quello che abbiamo già fatto non basta Lo studio è un invito a cambiare marcia, anche se è anche giusto riconoscere che finora non siamo stati con le mani in mano. Fra il 1990 e il 2024 le emissioni italiane di gas serra sono scese di circa il 30 per cento, da 521 a 363 milioni di tonnellate di CO2 equivalente, in linea con la dinamica europea, e nello stesso periodo il PIL dell'Unione è cresciuto di oltre il 60 per cento. È un disaccoppiamento reale fra crescita ed emissioni, che in Italia si è tradotto in una riduzione dell'intensità emissiva dell'economia. Il progresso però non è uniforme e negli ultimi anni è diventato volatile: nel 2024 le emissioni italiane sono calate del 3,6 per cento, nel 2025 sono tornate a crescere dello 0,3. Le rinnovabili hanno superato nel 2024 i 130 terawattora, il 49 per cento circa dell'elettricità prodotta, ma fra il 2013 e il 2023 i consumi finali da fonti rinnovabili sono cresciuti del 9 per cento in Italia contro una media europea sopra il 38, e siamo al 19,6 per cento a fronte di un obiettivo 2030 quasi doppio. I trasporti restano il buco nero: unico settore in cui le emissioni sono aumentate rispetto al 1990, oggi valgono un quarto del totale nazionale e per oltre il 90 per cento arrivano dalla strada. C'è infine un nodo sociale che deciderà la praticabilità politica di tutto il resto. Dal 2028 il prezzo del carbonio del sistema ETS si estenderà ai carburanti delle nostre auto e al riscaldamento degli edifici, in un Paese dove 2,4 milioni di famiglie vivono in povertà energetica. Il Piano sociale per il clima destinerà all'Italia 7,02 miliardi di euro: il modo in cui verranno spesi deciderà se la transizione sarà percepita come un progetto collettivo o come una tassa sui poveri. Costa più far finta di niente che difendersi Il rapporto, che si rivolge esplicitamente a chi decide, mette in fila le due principali voci di spesa: la mitigazione e l'adattamento, entrambe necessarie. Per la mitigazione, ovvero la progressiva ma decisa riduzione delle emissioni climalteranti, il riferimento è il Piano nazionale integrato energia e clima (noto come PNIEC): 824,7 miliardi di euro di investimenti cumulati fra il 2024 e il 2030 nello scenario coerente con gli obiettivi, contro 650,3 nello scenario a politiche correnti, quindi un fabbisogno aggiuntivo di 174,4 miliardi in sei anni. Per l'adattamento alle nuove condizioni idrogeologiche e meteo determinate dal clima che cambia, il riferimento è la stima pubblicata dalla Commissione europea nel gennaio 2026: 10,1 miliardi di euro l'anno per l'Italia, lo 0,4 per cento del PIL, seconda in valore assoluto solo alla Francia. Elaborazione dalla Tabella 5. 1 del rapporto. Le due voci non sono sommabili: la mitigazione è un totale su sei anni, l'adattamento un fabbisogno annuo. Ambito Voce Miliardi di € Orizzonte Mitigazione Trasporti 528,8 2024-2030 Mitigazione Residenziale 93,6 2024-2030 Mitigazione Settore elettrico 81,8 2024-2030 Mitigazione Terziario 62,3 2024-2030 Mitigazione Reti elettriche e accumuli 42,0 2024-2030 Mitigazione Totale scenario PNIEC 824,7 2024-2030 Mitigazione di cui fabbisogno aggiuntivo 174,4 2024-2030 Adattamento Infrastrutture (alluvioni, trasporti, edifici) 4,53 annuo Adattamento Ecosistemi (suolo, incendi, coste) 2,13 annuo Adattamento Cibo (agricoltura, zootecnia, pesca) 1,85 annuo Adattamento Salute (stress termico, acque reflue) 1,43 annuo Adattamento Totale 10,11 annuo Il divario da colmare è noto da anni: il 94 per cento dei comuni italiani è esposto a frane, alluvioni o erosione costiera, la messa in sicurezza del territorio richiederebbe fra 26 e 30 miliardi, le infrastrutture idriche oltre 60 miliardi per ridurre perdite di rete superiori al 40 per cento, cioè quasi metà dell'acqua immessa negli acquedotti. Il problema è che la spesa pubblica italiana per gli eventi climatici è concentrata quasi tutta sulle emergenze, cioè sul dopo. Paghiamo i danni invece di evitarli, mentre secondo la Banca Mondiale ogni euro investito in prevenzione ne genera fra 4 e 7 di danni evitati, con stime che in certi casi arrivano a 10, e le soluzioni basate sulla natura, riforestazione, ripristino di zone umide, infrastrutture verdi, possono risultare fino a cinque volte più convenienti delle alternative puramente ingegneristiche. Si aggiunga il buco assicurativo: circa il 95 per cento dei danni da eventi estremi in Italia non è coperto, contro un quarto della media europea. Di nuovo, il conto ricade su famiglie, imprese e finanza pubblica. E, come osserva il rapporto, «se il rischio non è adeguatamente “prezzato”, cioè incorporato nei costi sostenuti da famiglie e imprese, diventa più difficile orientare comportamenti e investimenti verso soluzioni più resilienti. Il risultato è un sistema che tende a reagire agli eventi, piuttosto che anticiparli». Ricapitolando, da una parte servono 10 miliardi l'anno di adattamento e 174 in sei anni di mitigazione/transizione, in larga misura investimenti destinati a produrre ritorni. Si potrebbe dire che la vera e più importante spesa in difesa deve essere questa. «Ritardare l'azione significa aumentare il costo economico del riscaldamento globale», spiega Matteo Calcaterra del CMCC e primo autore del rapporto. Mitigazione e adattamento non sono soltanto strumenti di tutela ambientale ma leve di stabilità macroeconomica e finanziaria. Il che rovescia il modo in cui di solito si discute di queste spese. Non sono un costo da sostenere quando i conti lo permettono: sono la condizione per la sicurezza fisica ed economica del Paese. Le soffocanti ondate di calore, gli incendi che si autoalimentano, le centrali ferme sui fiumi d'Europa e il Po sotto la soglia di sicurezza sono fra i tanti segnali di allarme che ci manda il clima. Non chiediamoci per chi suona la campana. La campana suona per noi.",
-      "spokenText": "Per la prima volta un gruppo di economisti ambientali ha quantificato il rischio climatico per i conti pubblici italiani. Il rapporto 'Rischio climatico in Italia' parte da episodi già visibili. Pensiamo al Po, sceso a Pontelagoscuro a circa 220 metri cubi al secondo, ben sotto la soglia per fermare il cuneo salino, con possibili riduzioni di produzione per le centrali di Chivasso e Sermide perché l'acqua per raffreddare gli impianti è troppa poca o troppo calda. Nessun guasto, nessuna emergenza sicurezza, solo il limite fisico di una risorsa che scarseggia. Sono episodi diversi che raccontano la stessa cosa.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "italia",
-        "po",
-        "edf"
-      ],
-      "importance": 90,
-      "mustInclude": true,
-      "estimatedSeconds": 40,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articolo/cosa-rischia-litalia-con-crisi-climatica/luca-carra/2026-08-07"
-      },
-      "analysis": {
-        "mainFact": "Un gruppo di economisti ambientali ha per la prima volta quantificato il rischio climatico per i conti pubblici italiani.",
-        "whyItMatters": "Quanto ci costa la crisi climatica in Italia",
-        "confirmedFacts": [
-          "Un gruppo di economisti ambientali ha per la prima volta quantificato il rischio climatico per i conti pubblici italiani.",
-          "Quanto ci costa la crisi climatica in Italia",
-          "In Italia il Po a Pontelagoscuro è sceso intorno ai 220 metri cubi al secondo, contro i 400 che servono a contrastare la risalita del cuneo salino, e i gestori hanno segnalato possibili riduzioni di produzione per le centrali termoelettriche di Chivasso e Sermide, che dal fiume prendono l'acqua di raffreddamento.",
-          "nessun guasto, nessun problema di sicurezza, semplicemente l'acqua dei fiumi è troppo calda o troppo poca per raffreddare gli impianti restando dentro i limiti ambientali.",
-          "In Germania sul Reno, a causa dell'abbassamento del livello dell'acqua, le navi mercantili devono fermarsi o viaggiare scariche, spostando parte delle spedizioni sui TIR.",
-          "Servizi vitali come l'elettricità dipendono da una risorsa che il cambiamento climatico rende meno abbondante e più calda proprio nei giorni in cui la domanda di energia va al massimo, perché tutti accendono i condizionatori.",
-          "Sono episodi diversi che raccontano la stessa cosa."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Italia",
-          "Po",
-          "EDF"
-        ],
-        "numbersAndDates": [
-          "In Italia il Po a Pontelagoscuro è sceso intorno ai 220 metri cubi al secondo, contro i 400 che servono a contrastare la risalita del cuneo salino, e i gestori hanno segnalato possibili riduzioni di produzione per le centrali termoelettriche di Chivasso e Sermide, che dal fiume prendono l'acqua di raffreddamento."
-        ]
-      }
-    },
-    {
-      "id": "story-85ea918661d2ad31",
-      "title": "Sla, scoperto il meccanismo che compromette l'equilibrio dei neuroni motori",
-      "summary": "Lo studio italiano aiuta a comprendere le fasi iniziali della malattia",
-      "spokenText": "Un gruppo di ricerca italiano ha fatto luce su uno dei meccanismi che, nelle fasi iniziali della SLA, compromette l'equilibrio dei neuroni motori. Lo studio aiuta a comprendere cosa accade quando la malattia è ancora agli albori, un momento cruciale e finora poco chiaro.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "sla",
-        "neuroni motori"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 18,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/07/sla-scoperto-il-meccanismo-che-compromette-lequilibrio-dei-neuroni-motori_275fe6b9-62b6-40f5-897b-74c6807c6bec.html"
-      },
-      "analysis": {
-        "mainFact": "Scoperto il meccanismo che compromette l'equilibrio dei neuroni motori nella SLA.",
-        "whyItMatters": "Lo studio italiano aiuta a comprendere le fasi iniziali della malattia.",
-        "confirmedFacts": [
-          "Scoperto il meccanismo che compromette l'equilibrio dei neuroni motori nella SLA.",
-          "Lo studio italiano aiuta a comprendere le fasi iniziali della malattia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "SLA",
-          "neuroni motori"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-db8f0a5776a33fe2",
-      "title": "Guerra in Iran, le news di oggi. Funzionario Usa: “Ci aspettiamo accordo a breve su Hormuz”",
-      "summary": "Il generale Dan Caine, capo di stato maggiore degli Stati Uniti, sta cercando una via d'uscita alla guerra in Iran",
-      "spokenText": "Cnn, 'il capo degli Stati maggiori Usa cerca una via d'uscita da guerra in Iran'. \"Si stanno compiendo progressi tra Oman e Iran sullo Stretto e ci aspettiamo un accordo a breve\", ha affermato il funzionario.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "iran",
-        "oman"
-      ],
-      "importance": 80,
-      "mustInclude": true,
-      "estimatedSeconds": 15,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/08/diretta/guerra_iran_usa_israele_news_oggi-425518407/"
-      },
-      "analysis": {
-        "mainFact": "Cnn, 'il capo degli Stati maggiori Usa cerca una via d'uscita da guerra in Iran'",
-        "whyItMatters": "Cnn: capo Forze armate Usa cerca via d’uscita da guerra con l’Iran.",
-        "confirmedFacts": [
-          "Cnn, 'il capo degli Stati maggiori Usa cerca una via d'uscita da guerra in Iran'",
-          "Cnn: capo Forze armate Usa cerca via d’uscita da guerra con l’Iran.",
-          "\"Si stanno compiendo progressi tra Oman e Iran sullo Stretto e ci aspettiamo un accordo a breve\", ha affermato il funzionario."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Iran",
-          "Oman"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f13481c16008e371",
-      "title": "Firmato un patto sulla difesa tra Turchia, Arabia Saudita e Pakistan. Iran: 'Accordo di carta'",
-      "summary": "Siglato a Gedda da Erdogan, Bin Salman e Sharif. 'Un attacco a uno Stato come un attacco a tutti': un modello che richiama alla mente l'art. 5 della Nato",
-      "spokenText": "Arabia Saudita e Pakistan hanno siglato un patto di difesa, con i leader Erdogan, Bin Salman e Sharif protagonisti dell'intesa.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "turchia",
-        "arabia saudita",
-        "pakistan",
-        "iran",
-        "erdogan",
-        "bin salman",
-        "sharif"
-      ],
-      "importance": 70,
-      "mustInclude": true,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/07/firmato-un-patto-sulla-difesa-tra-turchia-arabia-saudita-e-pakistan.-iran_4e57738a-01f0-4048-b3b8-809dc0271729.html"
-      },
-      "analysis": {
-        "mainFact": "Bin Salman e Sharif un patto di difesa tra Turchia, Arabia Saudita e Pakistan.",
-        "whyItMatters": "Patto di difesa tra Turchia, Arabia Saudita e Pakistan. Modello simile all'art.5 NATO. Implicazioni sistemiche globali.",
-        "confirmedFacts": [
-          "Bin Salman e Sharif un patto di difesa tra Turchia, Arabia Saudita e Pakistan.",
-          "Patto di difesa tra Turchia, Arabia Saudita e Pakistan. Modello simile all'art.5 NATO. Implicazioni sistemiche globali.",
-          "Siglato a Gedda da Erdogan, Bin Salman e Sharif. 'Un attacco a uno Stato come un attacco a tutti': un modello che richiama alla mente l'art.",
-          "Il colloquio precede la firma di un'intesa sulla Difesa tra Turchia, Arabia Saudita e Pakistan , che secondo la televisione di Stato turca si chiamerà ufficialmente \"il patto della Mecca\", è sarà siglata oggi da Erdogan, Bin Salman e il premier pachistano Shabbaz Sharif."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Turchia",
-          "Arabia Saudita",
-          "Pakistan",
-          "Iran",
-          "Erdogan",
-          "Bin Salman",
-          "Sharif"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-a531c0b6ccfb90fc",
-      "title": "Danni ai minori dai social media: Meta deve pagare 942 milioni. E rischia migliaia di cause",
-      "summary": "La società madre di Instagram e Facebook è stata condannata nel New Mexico per i problemi creati ai giovani dalle sue piattaforme. Il colosso tech del ceo Zuckerberg annuncia ricorso. Migliaia di altre cause già avviate in tutti gli Stati Uniti",
-      "spokenText": "La sentenza emessa giovedì in New Mexico ha aggiunto 567 milioni di dollari ai 375 milioni già comminati in precedenza nell'ambito dello stesso procedimento, portando il totale a una cifra che rappresenta la più grande sanzione mai inflitta a un gigante dei social media per questioni legate alla sicurezza dei più giovani. La causa, avviata dal procuratore generale Raul Torrez, ha accusato l'azienda di aver esposto i minori su Instagram e Facebook a contenuti sessualmente espliciti, adescamento e tratta di esseri umani. Il colosso tech del ceo Zuckerberg annuncia ricorso. La sentenza di giovedì si aggiunge ai 375 milioni di dollari di multe che Meta era già stata condannata a pagare nel caso, per un totale di 942 milioni di dollari. E rischia migliaia di cause.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "meta",
-        "instagram",
-        "facebook",
-        "new mexico",
-        "zuckerberg"
+        "snpa",
+        "ispra",
+        "arpa",
+        "osservatorio nazionale sull adattamento climatic"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 51,
+      "estimatedSeconds": 39,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/danni-minori-social-media-meta-deve-pagare-942-milioni-AJmVxZh"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/snpa-contribuisce-all2019attuazione-del-piano-nazionale-di-adattamento-al-cambiamento-climatico"
       },
       "analysis": {
-        "mainFact": "Meta è stata condannata a pagare un totale di 942 milioni di dollari per danni ai minori.",
-        "whyItMatters": "Il colosso tech del ceo Zuckerberg annuncia ricorso.",
+        "mainFact": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+        "whyItMatters": "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano passa dalla fase strategica all'attuazione operativa.",
         "confirmedFacts": [
-          "Meta è stata condannata a pagare un totale di 942 milioni di dollari per danni ai minori.",
-          "Il colosso tech del ceo Zuckerberg annuncia ricorso.",
-          "Danni ai minori dai social media: Meta deve pagare 942 milioni.",
-          "La sentenza di giovedì si aggiunge ai 375 milioni di dollari di multe che Meta era già stata condannata a pagare nel caso, per un totale di 942 milioni di dollari.",
-          "Usa: Meta condannata a pagare 567 mln dollari per danni a minori La causa avviata dal procuratore generale Raul Torrez ha accusato Meta di avere esposto i minori a contenuti sessualmente espliciti , di adescamento e di tratta di esseri umani .",
-          "E rischia migliaia di cause",
-          "Meta multata per 567 milioni di dollari nella più grande sentenza per la sicurezza dei minori contro un gigante dei social media"
+          "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+          "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano passa dalla fase strategica all'attuazione operativa.",
+          "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico.",
+          "Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
+          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Meta",
-          "Instagram",
-          "Facebook",
-          "New Mexico",
-          "Zuckerberg"
+          "SNPA",
+          "ISPRA",
+          "ARPA",
+          "Osservatorio nazionale sull'adattamento climatico"
         ],
         "numbersAndDates": [
-          "Danni ai minori dai social media: Meta deve pagare 942 milioni.",
-          "La sentenza di giovedì si aggiunge ai 375 milioni di dollari di multe che Meta era già stata condannata a pagare nel caso, per un totale di 942 milioni di dollari.",
-          "Usa: Meta condannata a pagare 567 mln dollari per danni a minori La causa avviata dal procuratore generale Raul Torrez ha accusato Meta di avere esposto i minori a contenuti sessualmente espliciti , di adescamento e di tratta di esseri umani .",
-          "Meta multata per 567 milioni di dollari nella più grande sentenza per la sicurezza dei minori contro un gigante dei social media",
-          "942"
-        ]
-      }
-    },
-    {
-      "id": "story-f1aa213936c4349c",
-      "title": "Trump, corte d’appello blocca il salone delle feste della Casa Bianca",
-      "summary": "Una corte federale di Washington ha deciso che Donald Trump deve sospendere la costruzione del mega salone delle feste alla Casa Bianca. Lo riporta il Washington Post. Il tribunale ha...",
-      "spokenText": "Una corte d’appello federale di Washington ha bloccato la costruzione del grande salone delle feste voluto da Donald Trump alla Casa Bianca, confermando la sentenza di primo grado emessa ad aprile. La motivazione è netta: l’Amministrazione non ha “un’autorità illimitata” per “ridisegnare, modificare e ricostruire la Casa Bianca per soddisfare il desiderio personale di un presidente”. A ottobre il presidente repubblicano aveva fatto demolire con le ruspe un’intera ala dell’edificio per realizzare una sala da ballo capace di ospitare fino a mille persone, pensata per ricevimenti e cene in onore di dignitari stranieri. Trump ha reagito con un lungo post su Truth, definendo la decisione “orribile, illegittima e dettata da motivazioni politiche”, oltre che contraria agli interessi della sicurezza nazionale, e ha annunciato: “Presenteremo immediatamente ricorso alla Corte Suprema degli Stati Uniti”. La sentenza resterà sospesa per quattordici giorni proprio per consentire alla Casa Bianca di rivolgersi alla Corte Suprema.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "donald trump",
-        "corte d appello",
-        "casa bianca",
-        "corte suprema",
-        "congresso"
-      ],
-      "importance": 65,
-      "mustInclude": true,
-      "estimatedSeconds": 60,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/trump-corte-d-appello-blocca-salone-feste-casa-bianca-AJj4pgh"
-      },
-      "analysis": {
-        "mainFact": "Batosta per Trump, corte d'appello blocca il salone delle feste della Casa Bianca",
-        "whyItMatters": "L’Amministrazione non ha “un’autorità illimitata” per “ridisegnare, modificare e ricostruire la Casa Bianca per soddisfare il desiderio personale di un presidente”, ha affermato la Corte.",
-        "confirmedFacts": [
-          "Batosta per Trump, corte d'appello blocca il salone delle feste della Casa Bianca",
-          "L’Amministrazione non ha “un’autorità illimitata” per “ridisegnare, modificare e ricostruire la Casa Bianca per soddisfare il desiderio personale di un presidente”, ha affermato la Corte.",
-          "Una corte federale di Washington ha deciso che Donald Trump deve sospendere la costruzione del mega salone delle feste alla Casa Bianca.",
-          "Il tribunale ha confermato la sentenza emessa ad aprile da un giudice federale, secondo cui la maggior parte dei lavori di costruzione della sala da ballo deve essere interrotta finché il Congresso non avrà espressamente autorizzato il progetto.",
-          "A ottobre, il presidente repubblicano ha fatto demolire con le ruspe un’intera ala della Casa Bianca per costruire questa sala da ballo, destinata a ospitare fino a 1.000 persone per diversi ricevimenti e cene in onore di dignitari stranieri.",
-          "\"Presenteremo immediatamente ricorso alla Corte Suprema degli Stati Uniti\", ha dichiarato Trump in un lungo post su Truth definendo la decisione \"orribile, illegittima e dettata da motivazioni politiche\", nonch contraria agli interessi della sicurezza nazionale.",
-          "La sentenza sarà sospesa per 14 giorni per consentire alla Casa Bianca di fare ricorso alla Corte Suprema.",
-          "Trump, 'la decisione sul salone delle feste è orrenda, farò appello'"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Donald Trump",
-          "Corte d'Appello",
-          "Casa Bianca",
-          "Corte Suprema",
-          "Congresso"
-        ],
-        "numbersAndDates": [
-          "A ottobre, il presidente repubblicano ha fatto demolire con le ruspe un’intera ala della Casa Bianca per costruire questa sala da ballo, destinata a ospitare fino a 1.000 persone per diversi ricevimenti e cene in onore di dignitari stranieri.",
-          "La sentenza sarà sospesa per 14 giorni per consentire alla Casa Bianca di fare ricorso alla Corte Suprema."
-        ]
-      }
-    },
-    {
-      "id": "story-641b6e738a6c5a0c",
-      "title": "AI progetta virus funzionanti: lo studio che preoccupa gli esperti",
-      "summary": "Ricercatori di Stanford hanno creato con l'AI 16 virus, alcuni più efficaci di quelli naturali. Crescono però i timori sui rischi futuri. The post AI progetta virus funzionanti: lo studio che preoccupa gli esperti appeared first on Punto Informatico.",
-      "spokenText": "Ricercatori di Stanford hanno utilizzato l'intelligenza artificiale per progettare 16 virus, alcuni dei quali più efficaci di quelli naturali. Lo studio ha subito acceso un dibattito nella comunità scientifica, facendo crescere i timori sui possibili rischi futuri. Il fatto che virus progettati al computer possano risultare più potenti di quelli esistenti in natura rappresenta un campanello d'allarme difficile da ignorare.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "stanford",
-        "ai"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 24,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/ai-progetta-virus-funzionanti-studio-preoccupa-esperti/"
-      },
-      "analysis": {
-        "mainFact": "Ricercatori di Stanford hanno creato con l'AI 16 virus, alcuni più efficaci di quelli naturali.",
-        "whyItMatters": "Crescono però i timori sui rischi futuri.",
-        "confirmedFacts": [
-          "Ricercatori di Stanford hanno creato con l'AI 16 virus, alcuni più efficaci di quelli naturali.",
-          "Crescono però i timori sui rischi futuri.",
-          "AI progetta virus funzionanti: lo studio che preoccupa gli esperti Ricercatori di Stanford hanno creato con l'AI 16 virus, alcuni più efficaci di quelli naturali."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Stanford",
-          "AI"
-        ],
-        "numbersAndDates": [
-          "AI progetta virus funzionanti: lo studio che preoccupa gli esperti Ricercatori di Stanford hanno creato con l'AI 16 virus, alcuni più efficaci di quelli naturali.",
-          "16"
-        ]
-      }
-    },
-    {
-      "id": "story-c1fe70959f416a3b",
-      "title": "NASA’s IXPE Studies Magnetar",
-      "summary": "Gli scienziati della NASA hanno condotto oltre 140 ore di osservazioni della magnetar 1E 1547-5408 con IXPE tra marzo e aprile 2025. 5, 2026, artist’s concept, between March and April 2025.",
-      "spokenText": "Tra marzo e aprile del 2025, gli scienziati della NASA hanno puntato per oltre centoquaranta ore lo sguardo del telescopio spaziale IXPE su un oggetto tanto estremo quanto affascinante: la magnetar catalogata come 1E 1547-5408. 5, 2026, artist’s concept, between March and April 2025.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "ixpe",
-        "1e 1547 5408"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 18,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/"
-      },
-      "analysis": {
-        "mainFact": "Gli scienziati della NASA hanno condotto oltre 140 ore di osservazioni della magnetar 1E 1547-5408 con IXPE tra marzo e aprile 2025.",
-        "whyItMatters": "5, 2026, artist’s concept, between March and April 2025.",
-        "confirmedFacts": [
-          "Gli scienziati della NASA hanno condotto oltre 140 ore di osservazioni della magnetar 1E 1547-5408 con IXPE tra marzo e aprile 2025.",
-          "5, 2026, artist’s concept, between March and April 2025.",
-          "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug.",
-          "In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years , but never directly observed."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "IXPE",
-          "1E 1547-5408"
-        ],
-        "numbersAndDates": [
-          "140",
-          "1547",
-          "5408",
-          "2025",
-          "5",
+          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
+          "24",
           "2026"
         ]
       }
     },
     {
-      "id": "story-54f9a45c31de27d0",
-      "title": "Prevedere un ciclone senza sapere come, questa IA open source è disponibile per tutti",
-      "summary": "Google DeepMind ha pubblicato su Nature i risultati di WeatherNext, il modello che prevede traiettoria, intensità e struttura dei venti di un ciclone tropicale con un giorno di anticipo in più rispett...",
-      "spokenText": "Un nuovo modello di intelligenza artificiale open source è in grado di prevedere la formazione di un ciclone con un giorno di anticipo, senza che si conosca esattamente il meccanismo con cui lo fa.",
-      "category": "tecnologia",
+      "id": "story-81a6d8f5eff442bd",
+      "title": "ISPRA a RemTech Expo 2026",
+      "summary": "RemTech Expo è l’unico Hub Tecnologico Ambientale, internazionale e permanente, specializzato sui temi del risanamento, rigenerazione e sviluppo sostenibile dei territori. Si compone di dodici segmenti – REMTECH e REMTECH EUROPE bonifiche dei siti contaminati, COAST tutela delle coste, porti, sostenibilità, HYDROGEO rischi naturali (idrogeologico e sismico), dissesto, frane, CLIMETECH cambiamenti climatici, mitigazione, adattamento, INFRATECH monitoraggio e sicurezza di infrastrutture strategiche come ferrovie, ponti strade e dighe con particolare attenzione alla prevenzione del dissesto idrogeologico, inondazioni, frane, CIRCULARTECH economia circolare, tecnologie sostenibili e gestione dei rifiuti, RIGENERACITY rigenerazione urbana, CHEMTECH industria chimica innovativa e sostenibile e FIRE prevention-innovation-research, prevenzione e sicurezza antincendio del Patrimonio Culturale italiano, ENERGIA nuovi topics energetici come il solare, l’eolico, le rinnovabili offshore, il geotermico, l’idroelettrico, l’idrogeno, il nucleare – ed uno speciale segmento HUTTE dedicato ai temi della sostenibilità e del benessere integrale.",
+      "spokenText": "ISPRA sarà presente a RemTech Expo 2026, l’unico Hub Tecnologico Ambientale internazionale permanente dedicato al risanamento, alla rigenerazione e allo sviluppo sostenibile dei territori. L’appuntamento, in programma dal 16 al 18 settembre, si configura come la più grande infrastruttura del Paese per la salubrità e la rigenerazione territoriale. All’interno del palinsesto si sviluppa lo scenario generale verso il 2030 e il 2050, con la terza edizione degli Stati generali della rigenerazione che affronta la gestione sostenibile delle infrastrutture di trasporto e la mitigazione dei rischi. Completano il quadro la quinta edizione degli Stati generali delle discariche, gli Stati Generali del Monitoraggio della Terra dallo spazio e il focus sui rifiuti da costruzione e demolizione in ottica di economia circolare. Abitare la salute: edilizia sostenibile, infrastrutture verdi e blu e rigenerazione urbana secondo l’approccio one health Finanza sostenibile come leva della transizione energetica I grandi cantieri delle bonifiche.",
+      "category": "ambiente",
       "tags": [
-        "tecnologia"
+        "ambiente",
+        "ispra",
+        "remtech expo"
       ],
-      "importance": 85,
+      "importance": 42,
       "mustInclude": true,
-      "estimatedSeconds": 14,
+      "estimatedSeconds": 59,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/prevedere-un-ciclone-senza-sapere-come-questa-ia-open-source-e-disponibile-per-tutti"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/ispra-a-remtech-expo-2026"
       },
       "analysis": {
-        "mainFact": "Prevedere un ciclone senza sapere come, questa IA open source è disponibile per tutti",
-        "whyItMatters": "IA open source di DeepMind per previsioni meteo estreme. Impatto su scienza, ambiente e gestione disastri.",
+        "mainFact": "ISPRA a RemTech Expo 2026",
+        "whyItMatters": "RemTech Expo è l'unico Hub Tecnologico Ambientale internazionale permanente specializzato in risanamento, rigenerazione e sviluppo sostenibile dei territori.",
         "confirmedFacts": [
-          "Prevedere un ciclone senza sapere come, questa IA open source è disponibile per tutti",
-          "IA open source di DeepMind per previsioni meteo estreme. Impatto su scienza, ambiente e gestione disastri."
+          "ISPRA a RemTech Expo 2026",
+          "RemTech Expo è l'unico Hub Tecnologico Ambientale internazionale permanente specializzato in risanamento, rigenerazione e sviluppo sostenibile dei territori.",
+          "ISPRA a RemTech Expo 2026 2026-09-16T00:00:00+02:00 2026-09-18T23:59:59+02:00 RemTech Expo è l’unico Hub Tecnologico Ambientale, internazionale e permanente, specializzato sui temi del risanamento, rigenerazione e sviluppo sostenibile dei territori.",
+          "Scenario generale verso il 2030 e il 2050 Gestione sostenibile delle infrastrutture di trasporto e mitigazione dei rischi Stati generali della rigenerazione - terza edizione (prima parte).",
+          "La più grande infrastruttura del paese per la rigenerazione, la salubrità e lo sviluppo dei territori Stati generali delle discariche V edizione 18 settembre Stati Generali del Monitoraggio della Terra dallo spazio Rifiuti c&d ed economia circolare:"
         ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
+        "uncertainties": [
+          "Abitare la salute: edilizia sostenibile, infrastrutture verdi e blu e rigenerazione urbana secondo l’approccio one health Finanza sostenibile come leva della transizione energetica I grandi cantieri delle bonifiche."
+        ],
+        "peopleAndOrganizations": [
+          "ISPRA",
+          "RemTech Expo"
+        ],
+        "numbersAndDates": [
+          "ISPRA a RemTech Expo 2026 2026-09-16T00:00:00+02:00 2026-09-18T23:59:59+02:00 RemTech Expo è l’unico Hub Tecnologico Ambientale, internazionale e permanente, specializzato sui temi del risanamento, rigenerazione e sviluppo sostenibile dei territori.",
+          "Scenario generale verso il 2030 e il 2050 Gestione sostenibile delle infrastrutture di trasporto e mitigazione dei rischi Stati generali della rigenerazione - terza edizione (prima parte).",
+          "La più grande infrastruttura del paese per la rigenerazione, la salubrità e lo sviluppo dei territori Stati generali delle discariche V edizione 18 settembre Stati Generali del Monitoraggio della Terra dallo spazio Rifiuti c&d ed economia circolare:",
+          "2026"
+        ]
       }
     },
     {
-      "id": "story-05ffec73443d39f8",
-      "title": "SAP blocca viaggi e assunzioni, sta spendendo troppo per l'AI",
-      "summary": "SAP ha bloccato quasi tutti i viaggi di lavoro e le nuove assunzioni dal mese scorso, con un'unica eccezione: se la spesa riguarda l'intelligenza artificiale, si può fare. La misura era già circolata...",
-      "spokenText": "L'azienda ha infatti bloccato quasi completamente i viaggi di lavoro e ha congelato le nuove assunzioni. Una stretta radicale, che però prevede un'unica, grande eccezione: l'intelligenza artificiale.",
-      "category": "tecnologia",
+      "id": "story-f06424f4edce35c4",
+      "title": "Più muscoli e meno grasso, il segreto è in una rara mutazione genetica",
+      "summary": "Più muscoli e meno grasso, il segreto è in una rara mutazione genetica. Tra i circa 150 individui partecipanti allo studio portatori della variante del gene FNIP1, i ricercatori hanno documentato livelli di grassi nel sangue più bassi, una ridotta quantità di grasso epatico, livelli di glicemia più bassi e una massa muscolare maggiore.",
+      "spokenText": "Più muscoli e meno grasso. Il segreto risiede in una rara mutazione del gene FNIP1. Uno studio ha analizzato circa centocinquanta portatori di questa variante genetica, documentando un quadro metabolico decisamente favorevole. Nei loro esami del sangue, i ricercatori hanno osservato livelli di grassi più bassi, una ridotta quantità di grasso accumulato nel fegato e valori di glicemia inferiori alla media. A completare questo profilo, una massa muscolare naturalmente maggiore. si stima che questa specifica mutazione sia presente in una persona ogni settemila. Tra i circa 150 individui partecipanti allo studio portatori della variante del gene FNIP1, i ricercatori hanno documentato livelli di grassi nel sangue più bassi, una ridotta quantità di grasso epatico, livelli di glicemia più bassi e una massa muscolare maggiore. Ne è portatrice 1 persona su 7.000.",
+      "category": "salute",
       "tags": [
-        "tecnologia",
-        "sap"
+        "salute",
+        "gene fnip1"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 11,
+      "estimatedSeconds": 53,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/sap-blocca-viaggi-e-assunzioni-sta-spendendo-troppo-per-lai"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/08/07/piu-muscoli-e-meno-grasso-il-segreto-e-in-una-rara-mutazione-genetica_cf824887-45a4-4554-b36a-85144d1e3212.html"
       },
       "analysis": {
-        "mainFact": "SAP ha bloccato quasi tutti i viaggi di lavoro e le nuove assunzioni, con l'unica eccezione delle spese per l'intelligenza artificiale.",
-        "whyItMatters": "Ristrutturazione aziendale guidata dall'AI: impatto su lavoro e strategia tech.",
+        "mainFact": "Più muscoli e meno grasso, il segreto è in una rara mutazione genetica.",
+        "whyItMatters": "Tra i circa 150 individui partecipanti allo studio portatori della variante del gene FNIP1, i ricercatori hanno documentato livelli di grassi nel sangue più bassi, una ridotta quantità di grasso epatico, livelli di glicemia più bassi e una massa muscolare maggiore.",
         "confirmedFacts": [
-          "SAP ha bloccato quasi tutti i viaggi di lavoro e le nuove assunzioni, con l'unica eccezione delle spese per l'intelligenza artificiale.",
-          "Ristrutturazione aziendale guidata dall'AI: impatto su lavoro e strategia tech.",
-          "SAP ha bloccato quasi tutti i viaggi di lavoro e le nuove assunzioni dal mese scorso, con un'unica eccezione: se la spesa riguarda l'intelligenza artificiale, si può fare."
+          "Più muscoli e meno grasso, il segreto è in una rara mutazione genetica.",
+          "Tra i circa 150 individui partecipanti allo studio portatori della variante del gene FNIP1, i ricercatori hanno documentato livelli di grassi nel sangue più bassi, una ridotta quantità di grasso epatico, livelli di glicemia più bassi e una massa muscolare maggiore.",
+          "Ne è portatrice 1 persona su 7.000"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "SAP"
+          "gene FNIP1"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "Ne è portatrice 1 persona su 7.000",
+          "150"
+        ]
       }
     },
     {
-      "id": "story-47eb5a3f2ed7e1d8",
-      "title": "Neil Postman, le storie del mondo e la difficoltà di capire il presente",
-      "summary": "Dalla TV ai social e alle AI: perché il nostro cervello cerca storie di persone e fatica a comprendere i sistemi complessi? Un'analisi oltre la semplice critica alla tecnologia, partendo dagli studi di Neil Postman.",
-      "spokenText": "Neil Postman, le storie del mondo e la difficoltà di capire il presente. Dalla TV ai social e alle AI: perché il nostro cervello cerca storie di persone e fatica a comprendere i sistemi complessi?",
-      "category": "cultura",
+      "id": "story-40cea75b33762a2f",
+      "title": "San Raffaele, su scambio di provette avviate verifiche già 2 settimane fa",
+      "summary": "'L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte'",
+      "spokenText": "San Raffaele, su scambio di provette avviate verifiche già 2 settimane fa. L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte nell'errore medico.",
+      "category": "salute",
       "tags": [
-        "cultura",
-        "neil postman"
+        "salute",
+        "san raffaele"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 10,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/08/san-raffaele-su-scambio-di-provette-avviate-verifiche-gia-2-settimane-fa_fb9728ba-43bf-4197-907f-daca549a63a9.html"
+      },
+      "analysis": {
+        "mainFact": "San Raffaele, su scambio di provette avviate verifiche già 2 settimane fa",
+        "whyItMatters": "L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte nell'errore medico.",
+        "confirmedFacts": [
+          "San Raffaele, su scambio di provette avviate verifiche già 2 settimane fa",
+          "L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte nell'errore medico.",
+          "'L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte'"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "San Raffaele"
+        ],
+        "numbersAndDates": [
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "story-49620b15a3587cca",
+      "title": "Drone ucraino esploso in Bulgaria, Sofia convoca l'ambasciatore di Kiev",
+      "summary": "Il governo bulgaro ha già escluso l'ipotesi di un atto deliberato da parte dell'Ucraina",
+      "spokenText": "Un drone di fabbricazione Ucraina è esploso in territorio bulgaro, a poca distanza da un’infrastruttura energetica strategica. Le precisazioni sono arrivate dopo le dichiarazioni del premier Rumen Radev, il quale ha spiegato che il velivolo senza pilota era entrato nello spazio aereo bulgaro transitando dalla Romania, per poi schiantarsi in un campo di girasoli. Il punto dell’impatto si trova a circa cento metri dal confine e a un chilometro da una stazione di compressione che serve il gasdotto Trans-Balkan. Lo stesso premier ha confermato che non si registrano vittime né danni agli edifici circostanti, sottolineando come la deflagrazione sia avvenuta appena cento metri all’interno del territorio nazionale. Si tratta di un atto che mira a ottenere un chiarimento, anche se il governo bulgaro ha già escluso l’ipotesi di un atto deliberato da parte dell’Ucraina, cosa che Kiev ha pure negato a stretto giro.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "ucraina",
+        "bulgaria",
+        "romania"
+      ],
+      "importance": 65,
+      "mustInclude": true,
+      "estimatedSeconds": 58,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/drone-ucraino-esploso-in-bulgaria-sofia-convoca-lambasciatore-di-kiev_1dd84cf9-66e1-429a-97c0-3d5aee8da1ab.html"
+      },
+      "analysis": {
+        "mainFact": "Un drone ucraino è esploso in Bulgaria, vicino a un gasdotto.",
+        "whyItMatters": "Il governo bulgaro ha già escluso l'ipotesi di un atto deliberato da parte dell'Ucraina",
+        "confirmedFacts": [
+          "Un drone ucraino è esploso in Bulgaria, vicino a un gasdotto.",
+          "Il governo bulgaro ha già escluso l'ipotesi di un atto deliberato da parte dell'Ucraina",
+          "Si tratta di un atto che mira a ottenere un chiarimento, anche se il governo bulgaro ha già escluso l’ipotesi di un atto deliberato da parte dell’Ucraina, cosa che Kiev ha pure negato a stretto giro.",
+          "Le precisazioni arrivano dopo che il premier bulgaro Rumen Radev aveva affermato che il drone era entrato in Bulgaria dalla Romania prima di esplodere in un campo di girasoli, a circa 100 metri dal confine e a un chilometro da una stazione di compressione lungo il gasdotto Trans-Balkan.",
+          "“Non ci sono state vittime, né danni agli edifici circostanti”, ha confermato Radev, sottolineando che la deflagrazione è avvenuta vicinissimo al confine: appena 100 metri entro il territorio della Bulgaria."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Ucraina",
+          "Bulgaria",
+          "Romania"
+        ],
+        "numbersAndDates": [
+          "Le precisazioni arrivano dopo che il premier bulgaro Rumen Radev aveva affermato che il drone era entrato in Bulgaria dalla Romania prima di esplodere in un campo di girasoli, a circa 100 metri dal confine e a un chilometro da una stazione di compressione lungo il gasdotto Trans-Balkan.",
+          "“Non ci sono state vittime, né danni agli edifici circostanti”, ha confermato Radev, sottolineando che la deflagrazione è avvenuta vicinissimo al confine: appena 100 metri entro il territorio della Bulgaria."
+        ]
+      }
+    },
+    {
+      "id": "story-290da1d993fa5773",
+      "title": "Guerra, ultime notizie. Houthi rivendicano attacco alla raffineria saudita nel Mar Rosso. Carri armati israeliani a Rafah",
+      "summary": "Houthi rivendicano attacco alla raffineria saudita nel Mar Rosso. In precedenza, le forze israeliane avevano attaccato con bombardamenti di artiglieria il campo di Bureij, nella Striscia di Gaza centrale.",
+      "spokenText": "I ribelli Houthi hanno rivendicato l'attacco a una raffineria saudita nel Mar Rosso, con forti esplosioni e incendi avvertiti nella zona industriale del gas di Al-Jubail. In precedenza, le forze israeliane avevano colpito con bombardamenti di artiglieria il campo di Bureij, nella Striscia di Gaza centrale, mentre i media riferiscono di un'intensa offensiva con carri armati nell'area di al-Shakush, a nord di Rafah.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "houthi",
+        "arabia saudita",
+        "rafah",
+        "striscia di gaza",
+        "al jubail"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 26,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-esplosioni-e-incendi-raffineria-arabia-saudita-attacco-israeliano-rafah-AJrduei"
+      },
+      "analysis": {
+        "mainFact": "Houthi rivendicano attacco alla raffineria saudita nel Mar Rosso.",
+        "whyItMatters": "In precedenza, le forze israeliane avevano attaccato con bombardamenti di artiglieria il campo di Bureij, nella Striscia di Gaza centrale.",
+        "confirmedFacts": [
+          "Houthi rivendicano attacco alla raffineria saudita nel Mar Rosso.",
+          "In precedenza, le forze israeliane avevano attaccato con bombardamenti di artiglieria il campo di Bureij, nella Striscia di Gaza centrale.",
+          "Esplosioni e incendi in raffineria in Arabia Saudita (ANSA) - ROMA, 09 AGO - Forti esplosioni sono state avvertite nella zona di Al-Jubail, in Arabia Saudita, dove sarebbe stata colpita un’area industriale del gas.",
+          "Media: “Idf attacca nord di Rafah con i carri armati” Le forze israeliane hanno colpito l’area di al-Shakush, a nord di Rafah, nella Striscia di Gaza meridionale, con intensi bombardamenti di carri armati."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Houthi",
+          "Arabia Saudita",
+          "Rafah",
+          "Striscia di Gaza",
+          "Al-Jubail"
+        ],
+        "numbersAndDates": [
+          "Esplosioni e incendi in raffineria in Arabia Saudita (ANSA) - ROMA, 09 AGO - Forti esplosioni sono state avvertite nella zona di Al-Jubail, in Arabia Saudita, dove sarebbe stata colpita un’area industriale del gas."
+        ]
+      }
+    },
+    {
+      "id": "story-e8b46734707ea4ce",
+      "title": "Ue a Roma e Madrid, 'fiducia tra Stati è la risorsa più preziosa'",
+      "summary": "Contatti tra il commissario Brunner i ministri dell'Interno spagnolo e italiano",
+      "spokenText": "Il commissario Ue agli Affari Interni Magnus Brunner ha ricordato in una telefonata ai ministri dell'Interno spagnolo e italiano che la fiducia tra gli Stati membri è la risorsa più preziosa. Italiano, Fernando Grande-Marlaska. I documenti sono stati verificati con fluidità a un campione tra il 5 e il 15% dei passeggeri direttamente allo sbarco dai voli.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "roma",
+        "madrid",
+        "magnus brunner",
+        "fernando grande marlaska",
+        "matteo piantedosi",
+        "ceuta",
+        "marocco"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 23,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/ue-a-roma-e-madrid-fiducia-tra-stati-e-la-risorsa-piu-preziosa_7cf379c3-4068-4074-a420-74ad71019c07.html"
+      },
+      "analysis": {
+        "mainFact": "Il commissario Ue agli Affari Interni Magnus Brunner ha ricordato in una telefonata ai ministri dell'Interno spagnolo e italiano che la fiducia tra gli Stati membri è la risorsa più preziosa.",
+        "whyItMatters": "\"La fiducia tra gli Stati membri è la nostra risorsa più preziosa\", ha ricordato il commissario Ue agli Affari Interni, Magnus Brunner, in una telefonata ai ministri dell'Interno spagnolo e italiano, Fernando Grande-Marlaska e Matteo Piantedosi.",
+        "confirmedFacts": [
+          "Il commissario Ue agli Affari Interni Magnus Brunner ha ricordato in una telefonata ai ministri dell'Interno spagnolo e italiano che la fiducia tra gli Stati membri è la risorsa più preziosa.",
+          "\"La fiducia tra gli Stati membri è la nostra risorsa più preziosa\", ha ricordato il commissario Ue agli Affari Interni, Magnus Brunner, in una telefonata ai ministri dell'Interno spagnolo e italiano, Fernando Grande-Marlaska e Matteo Piantedosi.",
+          "i documenti sono stati verificati con fluidità a un campione tra il 5 e il 15% dei passeggeri direttamente allo sbarco dai voli."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Roma",
+          "Madrid",
+          "Magnus Brunner",
+          "Fernando Grande-Marlaska",
+          "Matteo Piantedosi",
+          "Ceuta",
+          "Marocco"
+        ],
+        "numbersAndDates": [
+          "i documenti sono stati verificati con fluidità a un campione tra il 5 e il 15% dei passeggeri direttamente allo sbarco dai voli."
+        ]
+      }
+    },
+    {
+      "id": "story-6b5c478dd2c4eaba",
+      "title": "Berkshire Hathaway al mercato di Wall Street compra azioni proprie",
+      "summary": "Agli investimenti sulle quotate di Wall Street, che pure ci sono e sono importanti, Berkshire Hathaway sembra preferire le azioni proprie. Il nuovo ceo, Greg Abel, inizia a usare la...",
+      "spokenText": "Berkshire Hathaway ha speso circa 4,5 miliardi di dollari per riacquistare azioni proprie nel secondo trimestre, offrendo agli azionisti il maggiore dividendo trimestrale dal 2021 grazie a un’impennata degli utili operativi. Greg Abel ha così iniziato a utilizzare la montagna di liquidità del gruppo fondato da Warren Buffett, guardando però in larga parte al proprio capitale. Abel aveva dichiarato che il programma di riacquisto era stato riavviato perché i dirigenti avevano riscontrato che il valore intrinseco delle azioni superava il prezzo di mercato. Wall Street era rimasta delusa quando, nel primo trimestre, la società aveva riacquistato titoli per soli 234 milioni di dollari, segnando la prima operazione di questo tipo in oltre due anni. Greg Abel, ha speso una parte significativa dell’enorme liquidità della società, investendo 10 miliardi di dollari nella società madre di Google e riacquistando azioni per circa 4,5 miliardi di dollari.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "berkshire hathaway",
+        "greg abel",
+        "wall street",
+        "warren buffett"
       ],
       "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 14,
+      "estimatedSeconds": 58,
       "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/media-tv-ai-social-postman-capire-mondo-presente/"
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/berkshire-hathaway-mercato-wall-street-compra-azioni-proprie-AJRq9Fi"
       },
       "analysis": {
-        "mainFact": "Neil Postman, le storie del mondo e la difficoltà di capire il presente",
-        "whyItMatters": "Dalla TV ai social e alle AI: perché il nostro cervello cerca storie di persone e fatica a comprendere i sistemi complessi?",
+        "mainFact": "Berkshire Hathaway ha speso circa 4,5 miliardi di dollari per il riacquisto di azioni proprie nel secondo trimestre.",
+        "whyItMatters": "Abel aveva dichiarato che Berkshire aveva riavviato il programma di riacquisto perché i dirigenti avevano riscontrato che il “valore intrinseco” di tali azioni superava il loro prezzo di mercato.",
         "confirmedFacts": [
-          "Neil Postman, le storie del mondo e la difficoltà di capire il presente",
-          "Dalla TV ai social e alle AI: perché il nostro cervello cerca storie di persone e fatica a comprendere i sistemi complessi?"
+          "Berkshire Hathaway ha speso circa 4,5 miliardi di dollari per il riacquisto di azioni proprie nel secondo trimestre.",
+          "Abel aveva dichiarato che Berkshire aveva riavviato il programma di riacquisto perché i dirigenti avevano riscontrato che il “valore intrinseco” di tali azioni superava il loro prezzo di mercato.",
+          "Greg Abel, inizia a usare la montagna di liquidità del gruppo fondato da Warren Buffett, guardando però in larga parte al proprio capitale.",
+          "Greg Abel, ha speso una parte significativa dell’enorme liquidità della società, investendo 10 miliardi di dollari nella società madre di Google e riacquistando azioni per circa 4,5 miliardi di dollari.",
+          "Tuttavia, le azioni di classe B di Berkshire sono aumentate del 3,8% quest’anno fino alla chiusura del mercato di venerdì, rispetto a un guadagno di circa il 13% per l’S&P 500.",
+          "Abel aveva annunciato che Berkshire aveva ripreso il riacquisto di azioni proprie per la prima volta in oltre due anni, ma gli investitori sono rimasti delusi quando la società ha riacquistato azioni Berkshire per un valore di soli 234 milioni di dollari nel primo trimestre.",
+          "Berkshire Hathaway ha infatti speso circa 4,5 miliardi di dollari per il riacquisto di azioni proprie nel secondo trimestre, offrendo agli azionisti il maggiore dividendo trimestrale dal 2021, grazie all’impennata degli utili operativi.",
+          "Il rapporto di Berkshire suggerisce che la società ha aggiunto al proprio portafoglio azioni commerciali, industriali e di altro tipo per un valore superiore a 24 miliardi di dollari, ma non specifica quali titoli siano stati acquistati."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Neil Postman"
+          "Berkshire Hathaway",
+          "Greg Abel",
+          "Wall Street",
+          "Warren Buffett"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "Greg Abel, ha speso una parte significativa dell’enorme liquidità della società, investendo 10 miliardi di dollari nella società madre di Google e riacquistando azioni per circa 4,5 miliardi di dollari.",
+          "Tuttavia, le azioni di classe B di Berkshire sono aumentate del 3,8% quest’anno fino alla chiusura del mercato di venerdì, rispetto a un guadagno di circa il 13% per l’S&P 500.",
+          "Abel aveva annunciato che Berkshire aveva ripreso il riacquisto di azioni proprie per la prima volta in oltre due anni, ma gli investitori sono rimasti delusi quando la società ha riacquistato azioni Berkshire per un valore di soli 234 milioni di dollari nel primo trimestre.",
+          "Berkshire Hathaway ha infatti speso circa 4,5 miliardi di dollari per il riacquisto di azioni proprie nel secondo trimestre, offrendo agli azionisti il maggiore dividendo trimestrale dal 2021, grazie all’impennata degli utili operativi.",
+          "Il rapporto di Berkshire suggerisce che la società ha aggiunto al proprio portafoglio azioni commerciali, industriali e di altro tipo per un valore superiore a 24 miliardi di dollari, ma non specifica quali titoli siano stati acquistati.",
+          "4,5"
+        ]
+      }
+    },
+    {
+      "id": "story-cea2c10d0479b36f",
+      "title": "Evo: l’AI progetta 16 batteriofagi vitali capaci di uccidere E. coli",
+      "summary": "Sedici genomi virali progettati con l’intelligenza artificiale hanno prodotto batteriofagi vitali, capaci di replicarsi in ceppi di Escherichia coli e provocarne la lisi. Il risultato arriva dal lavor...",
+      "spokenText": "Sedici genomi virali progettati interamente dall'intelligenza artificiale si sono trasformati in batteriofagi perfettamente funzionanti, capaci di infettare ceppi di Escherichia coli e di distruggerli attraverso la lisi cellulare. Il risultato porta la firma del ricercatore Samuel H. E si basa su Evo, un modello fondamentale che opera direttamente sulle sequenze genomiche. Il risultato arriva dal lavoro di Samuel H.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "evo",
+        "evo 1",
+        "evo 2",
+        "escherichia coli",
+        "samuel h"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 24,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/evo-l-ai-progetta-16-batteriofagi-vitali-capaci-di-uccidere-e-coli"
+      },
+      "analysis": {
+        "mainFact": "Sedici genomi virali progettati con l'intelligenza artificiale hanno prodotto batteriofagi vitali, capaci di replicarsi in ceppi di Escherichia coli e provocarne la lisi.",
+        "whyItMatters": "Sedici progetti dell'AI hanno prodotto batteriofagi capaci di replicarsi.",
+        "confirmedFacts": [
+          "Sedici genomi virali progettati con l'intelligenza artificiale hanno prodotto batteriofagi vitali, capaci di replicarsi in ceppi di Escherichia coli e provocarne la lisi.",
+          "Sedici progetti dell'AI hanno prodotto batteriofagi capaci di replicarsi.",
+          "Il risultato arriva dal lavoro di Samuel H.",
+          "Evo 1 ed Evo 2 appartengono a una famiglia di modelli fondamentali che lavora direttamente sulle sequenze genomiche.",
+          "Evo: l’AI progetta 16 batteriofagi vitali capaci di uccidere E."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Evo",
+          "Evo 1",
+          "Evo 2",
+          "Escherichia coli",
+          "Samuel H."
+        ],
+        "numbersAndDates": [
+          "Evo 1 ed Evo 2 appartengono a una famiglia di modelli fondamentali che lavora direttamente sulle sequenze genomiche.",
+          "Evo: l’AI progetta 16 batteriofagi vitali capaci di uccidere E."
+        ]
+      }
+    },
+    {
+      "id": "story-8e6549cefdc064de",
+      "title": "Google ha reso noto che a partire dal 4 settembre 2026 l'Assistente Google lascerà il posto su tutti i dispositivi supportati a Gemini, l'assistente basato sull'intelligenza artificiale",
+      "summary": "Il cambio coinvolgerà smartphone, tablet, orologi e Android Auto",
+      "spokenText": "Google ha reso noto che a partire dal 4 settembre 2026 l'Assistente Google lascerà il posto su tutti i dispositivi supportati a Gemini, l'assistente basato sull'intelligenza artificiale. La misura interesserà una vasta gamma di hardware, tra cui smartphone, tablet, smartwatch dotati di sistema operativo Wear Os, auricolari connessi e la piattaforma Android Auto gestita tramite smartphone. Il cambio coinvolgerà smartphone, tablet, orologi e Android Auto.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google",
+        "gemini",
+        "assistente google",
+        "sundar pichai",
+        "google allo",
+        "wear os",
+        "android auto"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 26,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/06/lia-manda-in-pensione-lassistente-google-sara-sostituito-ovunque-da-gemini_fb286f85-473a-4494-a448-f05a08911674.html"
+      },
+      "analysis": {
+        "mainFact": "Google ha reso noto che a partire dal 4 settembre 2026 l'Assistente Google lascerà il posto su tutti i dispositivi supportati a Gemini, l'assistente basato sull'intelligenza artificiale.",
+        "whyItMatters": "La misura interesserà una vasta gamma di hardware, tra cui smartphone, tablet, smartwatch dotati di sistema operativo Wear Os, auricolari connessi e la piattaforma Android Auto gestita tramite smartphone.",
+        "confirmedFacts": [
+          "Google ha reso noto che a partire dal 4 settembre 2026 l'Assistente Google lascerà il posto su tutti i dispositivi supportati a Gemini, l'assistente basato sull'intelligenza artificiale.",
+          "La misura interesserà una vasta gamma di hardware, tra cui smartphone, tablet, smartwatch dotati di sistema operativo Wear Os, auricolari connessi e la piattaforma Android Auto gestita tramite smartphone.",
+          "Il cambio coinvolgerà smartphone, tablet, orologi e Android Auto"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Google",
+          "Gemini",
+          "Assistente Google",
+          "Sundar Pichai",
+          "Google Allo",
+          "Wear Os",
+          "Android Auto"
+        ],
+        "numbersAndDates": [
+          "4",
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-480ccb882279f3a2",
+      "title": "Più di 20 milioni di famiglie sono state sottoposte a divieto di utilizzo di tubi per irrigazione a causa della forte domanda e delle scarse precipitazioni",
+      "summary": "Più di 20 milioni di famiglie sono state sottoposte a divieto di utilizzo di tubi per irrigazione a causa della forte domanda e delle scarse precipitazioni. Più di 25 milioni di persone in Inghilterra.",
+      "spokenText": "Più di venti milioni di famiglie si trovano ora a fare i conti con il divieto di usare i tubi per irrigazione. Il dato, da solo, racconta già la portata della misura: oltre venticinque milioni di persone, tra Inghilterra e Galles, vivono in aree dove questo stop è già realtà.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Più di 20 milioni di famiglie sono state sottoposte a divieto di utilizzo di tubi per irrigazione a causa della forte domanda e delle scarse precipitazioni.",
+        "whyItMatters": "Più di 25 milioni di persone in Inghilterra e Galles sono ora sottoposte a un divieto di utilizzo di tubi per irrigazione.",
+        "confirmedFacts": [
+          "Più di 20 milioni di famiglie sono state sottoposte a divieto di utilizzo di tubi per irrigazione a causa della forte domanda e delle scarse precipitazioni.",
+          "Più di 25 milioni di persone in Inghilterra e Galles sono ora sottoposte a un divieto di utilizzo di tubi per irrigazione.",
+          "More than 25 million people in England and Wales have now been placed under a hosepipe ban, as some water companies struggle to cope with the dry weather and high demand for water."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "20",
+          "25"
+        ]
+      }
+    },
+    {
+      "id": "story-014837d0bf72f8ae",
+      "title": "Anthropic ha ridotto i falsi positivi di Fable 5 in biologia",
+      "summary": "Anhropic ha migliorato la protezione contro prompt relativi alla biologia, quindi Fable 5 risponde ad un numero maggiore di query (meno falsi positivi). The post Fable 5: Anthropic riduce i falsi positivi in biologia appeared first on Punto Informatico.",
+      "spokenText": "Anthropic ha messo a punto una modifica importante per Fable 5, intervenendo su un problema che molti ricercatori avevano notato: il modello si rifiutava di rispondere a domande di biologia del tutto innocue. Si trattava di falsi positivi, innescati dai classificatori di sicurezza che l’azienda californiana ha implementato per cybersicurezza, biologia, chimica e distillazione. Ora questi miglioramenti riducono la probabilità di uno switch automatico al modello inferiore, Opus 5, e il classificatore blocca l’85% delle query innocue in meno. In concreto, Fable 5 può fornire un numero maggiore di risposte in campo biologico, offrendo maggiore supporto agli operatori sanitari nelle attività cliniche e aiutando i ricercatori che sviluppano una nuova terapia medica. Resta il fatto che, nelle mani sbagliate, lo stesso strumento potrebbe essere utilizzato per sviluppare un’arma biologica.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "anthropic",
+        "fable 5"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 52,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/fable-5-anthropic-riduce-falsi-positivi-biologia/"
+      },
+      "analysis": {
+        "mainFact": "Anthropic ha ridotto i falsi positivi di Fable 5 in biologia.",
+        "whyItMatters": "Il classificatore ora blocca l'85% delle query innocue in meno, quindi Fable 5 può fornire un numero maggiore di risposte nel campo della biologia.",
+        "confirmedFacts": [
+          "Anthropic ha ridotto i falsi positivi di Fable 5 in biologia.",
+          "Il classificatore ora blocca l'85% delle query innocue in meno, quindi Fable 5 può fornire un numero maggiore di risposte nel campo della biologia.",
+          "Molti ricercatori hanno notato che Fable 5 non risponde a innocue domande di biologia .",
+          "Meno falsi positivi con prompt di biologia Anthropic ha implementato le protezioni tramite specifici classificatori per cybersicurezza, biologia, chimica e distillazione.",
+          "L’azienda californiana ha ora introdotto miglioramenti che riducono i falsi positivi e quindi la probabilità di switch automatico al modello inferiore (Opus 5).",
+          "Gli operatori sanitari potranno ricevere maggiore supporto da Fable 5 nelle attività cliniche.",
+          "Fable 5 può fornire un aiuto ai ricercatori che sviluppano una nuova terapia medica, ma nelle mani sbagliate potrebbe essere utilizzato per sviluppare un’ arma biologica ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Anthropic",
+          "Fable 5"
+        ],
+        "numbersAndDates": [
+          "Molti ricercatori hanno notato che Fable 5 non risponde a innocue domande di biologia .",
+          "L’azienda californiana ha ora introdotto miglioramenti che riducono i falsi positivi e quindi la probabilità di switch automatico al modello inferiore (Opus 5).",
+          "Gli operatori sanitari potranno ricevere maggiore supporto da Fable 5 nelle attività cliniche.",
+          "Fable 5 può fornire un aiuto ai ricercatori che sviluppano una nuova terapia medica, ma nelle mani sbagliate potrebbe essere utilizzato per sviluppare un’ arma biologica .",
+          "5",
+          "85"
+        ]
+      }
+    },
+    {
+      "id": "story-0fd0d60999a90309",
+      "title": "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania",
+      "summary": "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania. Di recente anche qui Israele ha iniziato a espropriare terreni – questa volta circa 80 acri – per quella che definisce la 'conservazione e lo sviluppo' del sito.",
+      "spokenText": "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania. In questo quadro si inserisce un’operazione recente che ha portato all’esproprio di circa 80 acri di terreno, motivata ufficialmente con esigenze di conservazione e sviluppo del sito. Peace Now, l’organizzazione israeliana che monitora gli insediamenti, ha ricordato che secondo il diritto internazionale e le sentenze della Corte Suprema israeliana è proibito espropriare terreni per scopi di insediamento o esclusivamente a beneficio dei cittadini israeliani.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "peace now"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania.",
+        "whyItMatters": "Di recente anche qui Israele ha iniziato a espropriare terreni – questa volta circa 80 acri – per quella che definisce la 'conservazione e lo sviluppo' del sito.",
+        "confirmedFacts": [
+          "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania.",
+          "Di recente anche qui Israele ha iniziato a espropriare terreni – questa volta circa 80 acri – per quella che definisce la 'conservazione e lo sviluppo' del sito.",
+          "Peace Now – un'organizzazione israeliana che monitora gli insediamenti – afferma: 'Secondo il diritto internazionale, così come secondo le sentenze della Corte Suprema israeliana, a Israele è proibito espropriare terreni per scopi di insediamento o esclusivamente a beneficio dei cittadini israeliani'."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Peace Now"
+        ],
+        "numbersAndDates": [
+          "113",
+          "80"
+        ]
+      }
+    },
+    {
+      "id": "story-b578c9ecaa836181",
+      "title": "Tra le 20 occupazioni più a rischio di automazione, 15 sono a prevalenza femminile",
+      "summary": "Tra le 20 occupazioni più a rischio di automazione, 15 sono a prevalenza femminile. Eppure questo settore, che è altamente esposto all'automazione, è anche composto per oltre il 70% da donne e fornisce quasi un posto di lavoro su cinque per tutte le donne nella forza lavoro australiana.",
+      "spokenText": "Tra le venti occupazioni più esposte al rischio di automazione, quindici sono a prevalenza femminile. Parliamo di profili come segretarie, receptionist, contabili e addetti alla contabilità, alle risorse umane e alle paghe. Di queste venti professioni, cinque sono classificate come altamente femminilizzate, con una presenza di donne superiore all'ottanta per cento. L'unica occupazione moderatamente a prevalenza maschile in questa lista è quella degli operatori finanziari. Questo modello di genere emerge con chiarezza quando si analizzano i settori più vulnerabili. Eppure questo settore, che è altamente esposto all'automazione, è anche composto per oltre il 70% da donne e fornisce quasi un posto di lavoro su cinque per tutte le donne nella forza lavoro australiana.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "australia"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 46,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/these-3-charts-show-female-dominated-jobs-are-actually-the-most-exposed-to-ai-288103"
+      },
+      "analysis": {
+        "mainFact": "Tra le 20 occupazioni più a rischio di automazione, 15 sono a prevalenza femminile.",
+        "whyItMatters": "Eppure questo settore, che è altamente esposto all'automazione, è anche composto per oltre il 70% da donne e fornisce quasi un posto di lavoro su cinque per tutte le donne nella forza lavoro australiana.",
+        "confirmedFacts": [
+          "Tra le 20 occupazioni più a rischio di automazione, 15 sono a prevalenza femminile.",
+          "Eppure questo settore, che è altamente esposto all'automazione, è anche composto per oltre il 70% da donne e fornisce quasi un posto di lavoro su cinque per tutte le donne nella forza lavoro australiana.",
+          "Segretarie, receptionist, contabili e addetti alla contabilità, alle risorse umane e alle paghe sono tutte tra queste prime 20 occupazioni più a rischio di essere sostituite dall'automazione.",
+          "Di questi, cinque sarebbero classificati come altamente a prevalenza femminile, composti da almeno l'80% di donne.",
+          "Solo un'occupazione in questa lista delle prime 20 è moderatamente a prevalenza maschile: gli operatori finanziari.",
+          "Questo modello di genere emerge quando si osservano le 20 occupazioni principali più a rischio di automazione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Australia"
+        ],
+        "numbersAndDates": [
+          "Segretarie, receptionist, contabili e addetti alla contabilità, alle risorse umane e alle paghe sono tutte tra queste prime 20 occupazioni più a rischio di essere sostituite dall'automazione.",
+          "Di questi, cinque sarebbero classificati come altamente a prevalenza femminile, composti da almeno l'80% di donne.",
+          "Solo un'occupazione in questa lista delle prime 20 è moderatamente a prevalenza maschile: gli operatori finanziari.",
+          "Questo modello di genere emerge quando si osservano le 20 occupazioni principali più a rischio di automazione.",
+          "20",
+          "15",
+          "70"
+        ]
       }
     },
     {
       "id": "story-cd60263a882400b6",
-      "title": "La FDA ha approvato un vaccino antinfluenzale a mRNA per adulti di età pari o superiore a 50 anni che offre una protezione maggiore contro",
-      "summary": "La FDA ha approvato un vaccino antinfluenzale a mRNA per adulti di età pari o superiore a 50 anni che offre una protezione maggiore contro l'influenza rispetto ai vaccini standard. Questi progressi dimostrano lo slancio della tecnologia mRNA e hanno implicazioni di vasta portata per il modo in cui i ricercatori producono farmaci per trattare molte altre malattie.",
-      "spokenText": "La FDA ha appena approvato un vaccino antinfluenzale a mRNA per adulti sopra i cinquant'anni, capace di offrire una protezione superiore rispetto ai vaccini tradizionali. È un passaggio che consolida lo slancio di questa tecnologia, nata sotto i riflettori con i vaccini contro il COVID-19 di Pfizer-BioNTech e Moderna. Il principio è lo stesso anche per questo nuovo vaccino antinfluenzale, e il suo arrivo dimostra quanto la piattaforma mRNA si stia ramificando. Il meccanismo di consegna, ad esempio, si basa su nanoparticelle lipido-mRNA, minuscole sfere di circa cento nanometri che proteggono il materiale genetico dalla degradazione e ne facilitano l'ingresso nelle cellule bersaglio. Un sistema ingegnoso, ma che per ora non ha ancora permesso di tradurre la stessa efficacia in farmaci destinati a curare altre malattie.",
-      "category": "salute",
+      "title": "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50",
+      "summary": "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50 anni.",
+      "spokenText": "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50 anni. Ad esempio, l'mRNA nei vaccini COVID-19 di Pfizer-BioNTech e Moderna ordina alle cellule di produrre una versione innocua della proteina spike del virus che addestra il sistema immunitario a riconoscere e prepararsi meglio a una potenziale infezione. Queste nanoparticelle lipidiche di mRNA, o LNP, sono minuscole sfere di circa 100 nanometri di diametro che proteggono l'mRNA dalla degradazione e ne facilitano la consegna nelle cellule bersaglio. Questi progressi dimostrano lo slancio della tecnologia a mRNA e hanno implicazioni di vasta portata per il modo in cui i ricercatori producono farmaci per trattare molte altre malattie.",
+      "category": "scienza",
       "tags": [
-        "salute",
-        "fda",
-        "mrna"
+        "scienza",
+        "pfizer biontech",
+        "moderna"
       ],
-      "importance": 85,
+      "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 51,
+      "estimatedSeconds": 48,
       "source": {
         "name": "The Conversation",
         "url": "https://theconversation.com/first-mrna-flu-shot-approved-by-fda-bodes-well-for-improving-drugs-of-the-future-though-a-few-hurdles-remain-before-mrna-can-move-beyond-vaccines-289277"
       },
       "analysis": {
-        "mainFact": "La FDA ha approvato un vaccino antinfluenzale a mRNA per adulti di età pari o superiore a 50 anni che offre una protezione maggiore contro l'influenza rispetto ai vaccini standard.",
-        "whyItMatters": "Questi progressi dimostrano lo slancio della tecnologia mRNA e hanno implicazioni di vasta portata per il modo in cui i ricercatori producono farmaci per trattare molte altre malattie.",
+        "mainFact": "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50 anni.",
+        "whyItMatters": "Primo vaccino antinfluenzale a mRNA approvato dalla FDA. Apre la strada a futuri farmaci a mRNA oltre i vaccini.",
         "confirmedFacts": [
-          "La FDA ha approvato un vaccino antinfluenzale a mRNA per adulti di età pari o superiore a 50 anni che offre una protezione maggiore contro l'influenza rispetto ai vaccini standard.",
-          "Questi progressi dimostrano lo slancio della tecnologia mRNA e hanno implicazioni di vasta portata per il modo in cui i ricercatori producono farmaci per trattare molte altre malattie.",
-          "Ad esempio, l'mRNA nei vaccini COVID-19 di Pfizer-BioNTech e Moderna ordina alle cellule di produrre una versione innocua della proteina spike del virus che allena il sistema immunitario a riconoscere e prepararsi meglio a una potenziale infezione.",
-          "Queste nanoparticelle lipido-mRNA, o LNP, sono minuscole sfere di circa 100 nanometri di diametro che proteggono l'mRNA dalla degradazione e ne facilitano la consegna alle cellule bersaglio."
+          "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50 anni.",
+          "Primo vaccino antinfluenzale a mRNA approvato dalla FDA. Apre la strada a futuri farmaci a mRNA oltre i vaccini.",
+          "Ad esempio, l'mRNA nei vaccini COVID-19 di Pfizer-BioNTech e Moderna ordina alle cellule di produrre una versione innocua della proteina spike del virus che addestra il sistema immunitario a riconoscere e prepararsi meglio a una potenziale infezione.",
+          "Queste nanoparticelle lipidiche di mRNA, o LNP, sono minuscole sfere di circa 100 nanometri di diametro che proteggono l'mRNA dalla degradazione e ne facilitano la consegna nelle cellule bersaglio.",
+          "Questi progressi dimostrano lo slancio della tecnologia a mRNA e hanno implicazioni di vasta portata per il modo in cui i ricercatori producono farmaci per trattare molte altre malattie."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "FDA",
-          "mRNA"
+          "Pfizer-BioNTech",
+          "Moderna"
         ],
         "numbersAndDates": [
-          "Ad esempio, l'mRNA nei vaccini COVID-19 di Pfizer-BioNTech e Moderna ordina alle cellule di produrre una versione innocua della proteina spike del virus che allena il sistema immunitario a riconoscere e prepararsi meglio a una potenziale infezione.",
-          "Queste nanoparticelle lipido-mRNA, o LNP, sono minuscole sfere di circa 100 nanometri di diametro che proteggono l'mRNA dalla degradazione e ne facilitano la consegna alle cellule bersaglio.",
+          "Ad esempio, l'mRNA nei vaccini COVID-19 di Pfizer-BioNTech e Moderna ordina alle cellule di produrre una versione innocua della proteina spike del virus che addestra il sistema immunitario a riconoscere e prepararsi meglio a una potenziale infezione.",
+          "Queste nanoparticelle lipidiche di mRNA, o LNP, sono minuscole sfere di circa 100 nanometri di diametro che proteggono l'mRNA dalla degradazione e ne facilitano la consegna nelle cellule bersaglio.",
           "50"
-        ]
-      }
-    },
-    {
-      "id": "story-95554be01d8ddc2a",
-      "title": "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti",
-      "summary": "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti. Non è rimasta materia organica. \" Falene rare e serpenti 'distrutti' Ha aggiunto: \"Cose come i serpenti, le vipere, i rettili, non possono scappare, quindi saranno distrutti.",
-      "spokenText": "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti. Non è rimasta materia organica. \" Falene rare e serpenti 'distrutti' Ha aggiunto: \"Cose come i serpenti, le vipere, i rettili, non possono scappare, quindi saranno distrutti.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 17,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti.",
-        "whyItMatters": "Non è rimasta materia organica. \" Falene rare e serpenti 'distrutti' Ha aggiunto: \"Cose come i serpenti, le vipere, i rettili, non possono scappare, quindi saranno distrutti.",
-        "confirmedFacts": [
-          "I danni degli incendi potrebbero richiedere centinaia di anni per essere recuperati, secondo gli esperti.",
-          "Non è rimasta materia organica. \" Falene rare e serpenti 'distrutti' Ha aggiunto: \"Cose come i serpenti, le vipere, i rettili, non possono scappare, quindi saranno distrutti.",
-          "There is no organic matter left.\" Rare moths and snakes 'destroyed' He added: \"Things like the snakes, adders, reptiles, they can not escape, so they will be destroyed."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-60465dcb27d6e687",
-      "title": "I BTS hanno annunciato che non presenteranno la loro musica per i Grammy Awards del 2027",
-      "summary": "I BTS hanno annunciato che non presenteranno la loro musica per i Grammy Awards del 2027.",
-      "spokenText": "I BTS hanno comunicato che non sottoporranno la loro musica per essere presa in considerazione ai Grammy Awards del 2027.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "bts",
-        "grammy awards",
-        "recording academy"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/what-bts-grammy-boycott-tells-us-about-the-problem-with-asian-pop-as-a-label-288966"
-      },
-      "analysis": {
-        "mainFact": "I BTS hanno annunciato che non presenteranno la loro musica per i Grammy Awards del 2027.",
-        "whyItMatters": "Boicottaggio BTS ai Grammy per la categoria 'Asian pop'. Tema diritti, rappresentazione culturale e industria musicale.",
-        "confirmedFacts": [
-          "I BTS hanno annunciato che non presenteranno la loro musica per i Grammy Awards del 2027.",
-          "Boicottaggio BTS ai Grammy per la categoria 'Asian pop'. Tema diritti, rappresentazione culturale e industria musicale.",
-          "K-pop supergroup BTS has announced that they will not be entering their music for the 2027 Grammy awards.",
-          "The decision seems to be a response to the addition for 2027 of the category “best Asian pop music performance”.",
-          "Filipino girl group Bini, who debuted (first performed publicly) at Coachella in 2026, are described as being an “idol group” .",
-          "The Japanese artists being tipped as strong contenders for the best Asian pop music performance category at the Grammy’s include singer-songwriters such as Kenshi Yonezu, who have little to do with idol production.",
-          "BTS have previously expressed solidarity with Asian Americans in the wake of a series of high-profile hate crimes against these communities in the US in 2021.",
-          "Not only does this ignore the fact that Japan and China are respectively the second and third largest music markets in the world as of 2026 , but it also disregards the long-standing popular musical and popular cultural exchange happening across Asia.",
-          "BTS performing at the 2022 Grammy Awards.",
-          "In 2025, she lead on a song and promotional video featuring other well-known rappers from Korea, China, India, and Cambodia titled ASIAN STATE OF MIND ."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "BTS",
-          "Grammy Awards",
-          "Recording Academy"
-        ],
-        "numbersAndDates": [
-          "2027"
         ]
       }
     }
