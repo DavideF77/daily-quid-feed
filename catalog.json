@@ -1,631 +1,634 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-09-1f464218657c",
-  "generatedAt": "2026-08-09T07:58:12.114Z",
+  "catalogId": "daily-quid-2026-08-10-e41a60d5074e",
+  "generatedAt": "2026-08-10T10:02:37.150Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-dcc23af4bdc1f0c0",
-      "title": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-      "summary": "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico. L’Osservatorio, istituto presso il Ministero dell’Ambiente e della Sicurezza energetica, ha fra i suoi compiti l’indirizzo e il coordinamento multilivello per l’attuazione del Piano nazionale di adattamento ai cambiamenti climatici (Pnacc) nonché la definizione di priorità di intervento, l’aggiornamento delle azioni e l’individuazione delle fonti di finanziamento. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
-      "spokenText": "Il Sistema nazionale per la protezione dell’ambiente contribuisce all’attuazione del Piano di adattamento al cambiamento climatico. Con l’insediamento dell’Osservatorio dedicato, il 24 febbraio 2026, il Piano passa dalla fase strategica all’attuazione operativa. SNPA ha individuato i propri esperti che entrano a far parte di questo organismo: tra i partecipanti ai lavori figurano tecnici e ricercatori provenienti dalle diverse componenti del Sistema, da ISPRA alle Arpa. Il Piano, approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati forniti da SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
+      "id": "story-fb6b382098bf4081",
+      "title": "Allarme incendi e deforestazione, il Messico corre ai ripari",
+      "summary": "Sheinbaum, 'Sforzo nazionale, pianteremo 6,6 milioni di alberi'",
+      "spokenText": "Ha preso il via in tutto il Messico la Giornata Nazionale di Riforestazione 2026, un’iniziativa voluta dalla presidente Claudia Sheinbaum che trasforma l’allarme per incendi e deforestazione in un impegno collettivo. L’obiettivo è piantare 6,6 milioni di alberi, uno sforzo che la presidente ha definito nazionale e a cui ha invitato l’intera cittadinanza, annunciando l’intenzione di ripeterlo ogni anno con il coinvolgimento dei governatori dei 32 Stati. I numeri del piano danno la misura della mobilitazione: 235.097 persone sono al lavoro in 621 comuni per mettere a dimora esemplari di 302 specie diverse su una superficie di 32.184 ettari. È un intervento congiunto tra governo federale, statale e municipale che punta a mitigare danni ambientali profondi, in un Paese dove ogni anno 846.000 ettari vengono percorsi dagli incendi e altri 203.552 ettari sono erosi dalla deforestazione.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "snpa",
-        "ispra",
-        "arpa",
-        "osservatorio nazionale sull adattamento climatic"
+        "messico",
+        "claudia sheinbaum",
+        "giornata nazionale di riforestazione 2026"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 39,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/snpa-contribuisce-all2019attuazione-del-piano-nazionale-di-adattamento-al-cambiamento-climatico"
-      },
-      "analysis": {
-        "mainFact": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-        "whyItMatters": "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano passa dalla fase strategica all'attuazione operativa.",
-        "confirmedFacts": [
-          "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-          "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano passa dalla fase strategica all'attuazione operativa.",
-          "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico.",
-          "Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
-          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "SNPA",
-          "ISPRA",
-          "ARPA",
-          "Osservatorio nazionale sull'adattamento climatico"
-        ],
-        "numbersAndDates": [
-          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
-          "24",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-81a6d8f5eff442bd",
-      "title": "ISPRA a RemTech Expo 2026",
-      "summary": "RemTech Expo è l’unico Hub Tecnologico Ambientale, internazionale e permanente, specializzato sui temi del risanamento, rigenerazione e sviluppo sostenibile dei territori. Si compone di dodici segmenti – REMTECH e REMTECH EUROPE bonifiche dei siti contaminati, COAST tutela delle coste, porti, sostenibilità, HYDROGEO rischi naturali (idrogeologico e sismico), dissesto, frane, CLIMETECH cambiamenti climatici, mitigazione, adattamento, INFRATECH monitoraggio e sicurezza di infrastrutture strategiche come ferrovie, ponti strade e dighe con particolare attenzione alla prevenzione del dissesto idrogeologico, inondazioni, frane, CIRCULARTECH economia circolare, tecnologie sostenibili e gestione dei rifiuti, RIGENERACITY rigenerazione urbana, CHEMTECH industria chimica innovativa e sostenibile e FIRE prevention-innovation-research, prevenzione e sicurezza antincendio del Patrimonio Culturale italiano, ENERGIA nuovi topics energetici come il solare, l’eolico, le rinnovabili offshore, il geotermico, l’idroelettrico, l’idrogeno, il nucleare – ed uno speciale segmento HUTTE dedicato ai temi della sostenibilità e del benessere integrale.",
-      "spokenText": "ISPRA sarà presente a RemTech Expo 2026, l’unico Hub Tecnologico Ambientale internazionale permanente dedicato al risanamento, alla rigenerazione e allo sviluppo sostenibile dei territori. L’appuntamento, in programma dal 16 al 18 settembre, si configura come la più grande infrastruttura del Paese per la salubrità e la rigenerazione territoriale. All’interno del palinsesto si sviluppa lo scenario generale verso il 2030 e il 2050, con la terza edizione degli Stati generali della rigenerazione che affronta la gestione sostenibile delle infrastrutture di trasporto e la mitigazione dei rischi. Completano il quadro la quinta edizione degli Stati generali delle discariche, gli Stati Generali del Monitoraggio della Terra dallo spazio e il focus sui rifiuti da costruzione e demolizione in ottica di economia circolare. Abitare la salute: edilizia sostenibile, infrastrutture verdi e blu e rigenerazione urbana secondo l’approccio one health Finanza sostenibile come leva della transizione energetica I grandi cantieri delle bonifiche.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "ispra",
-        "remtech expo"
-      ],
-      "importance": 42,
-      "mustInclude": true,
-      "estimatedSeconds": 59,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/ispra-a-remtech-expo-2026"
-      },
-      "analysis": {
-        "mainFact": "ISPRA a RemTech Expo 2026",
-        "whyItMatters": "RemTech Expo è l'unico Hub Tecnologico Ambientale internazionale permanente specializzato in risanamento, rigenerazione e sviluppo sostenibile dei territori.",
-        "confirmedFacts": [
-          "ISPRA a RemTech Expo 2026",
-          "RemTech Expo è l'unico Hub Tecnologico Ambientale internazionale permanente specializzato in risanamento, rigenerazione e sviluppo sostenibile dei territori.",
-          "ISPRA a RemTech Expo 2026 2026-09-16T00:00:00+02:00 2026-09-18T23:59:59+02:00 RemTech Expo è l’unico Hub Tecnologico Ambientale, internazionale e permanente, specializzato sui temi del risanamento, rigenerazione e sviluppo sostenibile dei territori.",
-          "Scenario generale verso il 2030 e il 2050 Gestione sostenibile delle infrastrutture di trasporto e mitigazione dei rischi Stati generali della rigenerazione - terza edizione (prima parte).",
-          "La più grande infrastruttura del paese per la rigenerazione, la salubrità e lo sviluppo dei territori Stati generali delle discariche V edizione 18 settembre Stati Generali del Monitoraggio della Terra dallo spazio Rifiuti c&d ed economia circolare:"
-        ],
-        "uncertainties": [
-          "Abitare la salute: edilizia sostenibile, infrastrutture verdi e blu e rigenerazione urbana secondo l’approccio one health Finanza sostenibile come leva della transizione energetica I grandi cantieri delle bonifiche."
-        ],
-        "peopleAndOrganizations": [
-          "ISPRA",
-          "RemTech Expo"
-        ],
-        "numbersAndDates": [
-          "ISPRA a RemTech Expo 2026 2026-09-16T00:00:00+02:00 2026-09-18T23:59:59+02:00 RemTech Expo è l’unico Hub Tecnologico Ambientale, internazionale e permanente, specializzato sui temi del risanamento, rigenerazione e sviluppo sostenibile dei territori.",
-          "Scenario generale verso il 2030 e il 2050 Gestione sostenibile delle infrastrutture di trasporto e mitigazione dei rischi Stati generali della rigenerazione - terza edizione (prima parte).",
-          "La più grande infrastruttura del paese per la rigenerazione, la salubrità e lo sviluppo dei territori Stati generali delle discariche V edizione 18 settembre Stati Generali del Monitoraggio della Terra dallo spazio Rifiuti c&d ed economia circolare:",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-f06424f4edce35c4",
-      "title": "Più muscoli e meno grasso, il segreto è in una rara mutazione genetica",
-      "summary": "Più muscoli e meno grasso, il segreto è in una rara mutazione genetica. Tra i circa 150 individui partecipanti allo studio portatori della variante del gene FNIP1, i ricercatori hanno documentato livelli di grassi nel sangue più bassi, una ridotta quantità di grasso epatico, livelli di glicemia più bassi e una massa muscolare maggiore.",
-      "spokenText": "Più muscoli e meno grasso. Il segreto risiede in una rara mutazione del gene FNIP1. Uno studio ha analizzato circa centocinquanta portatori di questa variante genetica, documentando un quadro metabolico decisamente favorevole. Nei loro esami del sangue, i ricercatori hanno osservato livelli di grassi più bassi, una ridotta quantità di grasso accumulato nel fegato e valori di glicemia inferiori alla media. A completare questo profilo, una massa muscolare naturalmente maggiore. si stima che questa specifica mutazione sia presente in una persona ogni settemila. Tra i circa 150 individui partecipanti allo studio portatori della variante del gene FNIP1, i ricercatori hanno documentato livelli di grassi nel sangue più bassi, una ridotta quantità di grasso epatico, livelli di glicemia più bassi e una massa muscolare maggiore. Ne è portatrice 1 persona su 7.000.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "gene fnip1"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 53,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/08/07/piu-muscoli-e-meno-grasso-il-segreto-e-in-una-rara-mutazione-genetica_cf824887-45a4-4554-b36a-85144d1e3212.html"
-      },
-      "analysis": {
-        "mainFact": "Più muscoli e meno grasso, il segreto è in una rara mutazione genetica.",
-        "whyItMatters": "Tra i circa 150 individui partecipanti allo studio portatori della variante del gene FNIP1, i ricercatori hanno documentato livelli di grassi nel sangue più bassi, una ridotta quantità di grasso epatico, livelli di glicemia più bassi e una massa muscolare maggiore.",
-        "confirmedFacts": [
-          "Più muscoli e meno grasso, il segreto è in una rara mutazione genetica.",
-          "Tra i circa 150 individui partecipanti allo studio portatori della variante del gene FNIP1, i ricercatori hanno documentato livelli di grassi nel sangue più bassi, una ridotta quantità di grasso epatico, livelli di glicemia più bassi e una massa muscolare maggiore.",
-          "Ne è portatrice 1 persona su 7.000"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "gene FNIP1"
-        ],
-        "numbersAndDates": [
-          "Ne è portatrice 1 persona su 7.000",
-          "150"
-        ]
-      }
-    },
-    {
-      "id": "story-40cea75b33762a2f",
-      "title": "San Raffaele, su scambio di provette avviate verifiche già 2 settimane fa",
-      "summary": "'L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte'",
-      "spokenText": "San Raffaele, su scambio di provette avviate verifiche già 2 settimane fa. L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte nell'errore medico.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "san raffaele"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 10,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/08/san-raffaele-su-scambio-di-provette-avviate-verifiche-gia-2-settimane-fa_fb9728ba-43bf-4197-907f-daca549a63a9.html"
-      },
-      "analysis": {
-        "mainFact": "San Raffaele, su scambio di provette avviate verifiche già 2 settimane fa",
-        "whyItMatters": "L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte nell'errore medico.",
-        "confirmedFacts": [
-          "San Raffaele, su scambio di provette avviate verifiche già 2 settimane fa",
-          "L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte nell'errore medico.",
-          "'L'ospedale sta garantendo la massima assistenza alle coppie direttamente coinvolte'"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "San Raffaele"
-        ],
-        "numbersAndDates": [
-          "2"
-        ]
-      }
-    },
-    {
-      "id": "story-49620b15a3587cca",
-      "title": "Drone ucraino esploso in Bulgaria, Sofia convoca l'ambasciatore di Kiev",
-      "summary": "Il governo bulgaro ha già escluso l'ipotesi di un atto deliberato da parte dell'Ucraina",
-      "spokenText": "Un drone di fabbricazione Ucraina è esploso in territorio bulgaro, a poca distanza da un’infrastruttura energetica strategica. Le precisazioni sono arrivate dopo le dichiarazioni del premier Rumen Radev, il quale ha spiegato che il velivolo senza pilota era entrato nello spazio aereo bulgaro transitando dalla Romania, per poi schiantarsi in un campo di girasoli. Il punto dell’impatto si trova a circa cento metri dal confine e a un chilometro da una stazione di compressione che serve il gasdotto Trans-Balkan. Lo stesso premier ha confermato che non si registrano vittime né danni agli edifici circostanti, sottolineando come la deflagrazione sia avvenuta appena cento metri all’interno del territorio nazionale. Si tratta di un atto che mira a ottenere un chiarimento, anche se il governo bulgaro ha già escluso l’ipotesi di un atto deliberato da parte dell’Ucraina, cosa che Kiev ha pure negato a stretto giro.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "ucraina",
-        "bulgaria",
-        "romania"
-      ],
-      "importance": 65,
-      "mustInclude": true,
-      "estimatedSeconds": 58,
+      "estimatedSeconds": 55,
       "source": {
         "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/drone-ucraino-esploso-in-bulgaria-sofia-convoca-lambasciatore-di-kiev_1dd84cf9-66e1-429a-97c0-3d5aee8da1ab.html"
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/10/allarme-incendi-e-deforestazione-il-messico-corre-ai-ripari_04ca1f14-01d1-42e3-ac57-d6806b7bb44d.html"
       },
       "analysis": {
-        "mainFact": "Un drone ucraino è esploso in Bulgaria, vicino a un gasdotto.",
-        "whyItMatters": "Il governo bulgaro ha già escluso l'ipotesi di un atto deliberato da parte dell'Ucraina",
+        "mainFact": "Ha preso il via la Giornata Nazionale di Riforestazione 2026 in tutto il Messico, voluta dalla presidente Claudia Sheinbaum.",
+        "whyItMatters": "Sheinbaum, 'Sforzo nazionale, pianteremo 6,6 milioni di alberi'",
         "confirmedFacts": [
-          "Un drone ucraino è esploso in Bulgaria, vicino a un gasdotto.",
-          "Il governo bulgaro ha già escluso l'ipotesi di un atto deliberato da parte dell'Ucraina",
-          "Si tratta di un atto che mira a ottenere un chiarimento, anche se il governo bulgaro ha già escluso l’ipotesi di un atto deliberato da parte dell’Ucraina, cosa che Kiev ha pure negato a stretto giro.",
-          "Le precisazioni arrivano dopo che il premier bulgaro Rumen Radev aveva affermato che il drone era entrato in Bulgaria dalla Romania prima di esplodere in un campo di girasoli, a circa 100 metri dal confine e a un chilometro da una stazione di compressione lungo il gasdotto Trans-Balkan.",
-          "“Non ci sono state vittime, né danni agli edifici circostanti”, ha confermato Radev, sottolineando che la deflagrazione è avvenuta vicinissimo al confine: appena 100 metri entro il territorio della Bulgaria."
+          "Ha preso il via la Giornata Nazionale di Riforestazione 2026 in tutto il Messico, voluta dalla presidente Claudia Sheinbaum.",
+          "Sheinbaum, 'Sforzo nazionale, pianteremo 6,6 milioni di alberi'",
+          "\"L'obiettivo che d'ora in poi si faccia una volta all'anno e vi partecipino i governatori dei 32 Stati\", ha dichiarato la presidente, sottolineando che \"questo uno sforzo nazionale a cui vogliamo invitare tutta la cittadinanza\".",
+          "L'iniziativa coinvolge 235.097 persone in 621 comuni per piantare 6,6 milioni di alberi di 302 specie su 32.184 ettari.",
+          "L'intervento congiunto tra governo federale, statale e municipale punta a mitigare i danni ambientali in un Paese dove ogni anno 846.000 ettari subiscono incendi e 203.552 vengono deforestati."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ucraina",
-          "Bulgaria",
-          "Romania"
+          "Messico",
+          "Claudia Sheinbaum",
+          "Giornata Nazionale di Riforestazione 2026"
         ],
         "numbersAndDates": [
-          "Le precisazioni arrivano dopo che il premier bulgaro Rumen Radev aveva affermato che il drone era entrato in Bulgaria dalla Romania prima di esplodere in un campo di girasoli, a circa 100 metri dal confine e a un chilometro da una stazione di compressione lungo il gasdotto Trans-Balkan.",
-          "“Non ci sono state vittime, né danni agli edifici circostanti”, ha confermato Radev, sottolineando che la deflagrazione è avvenuta vicinissimo al confine: appena 100 metri entro il territorio della Bulgaria."
+          "L'iniziativa coinvolge 235.097 persone in 621 comuni per piantare 6,6 milioni di alberi di 302 specie su 32.184 ettari.",
+          "L'intervento congiunto tra governo federale, statale e municipale punta a mitigare i danni ambientali in un Paese dove ogni anno 846.000 ettari subiscono incendi e 203.552 vengono deforestati.",
+          "2026",
+          "6,6"
         ]
       }
     },
     {
-      "id": "story-290da1d993fa5773",
-      "title": "Guerra, ultime notizie. Houthi rivendicano attacco alla raffineria saudita nel Mar Rosso. Carri armati israeliani a Rafah",
-      "summary": "Houthi rivendicano attacco alla raffineria saudita nel Mar Rosso. In precedenza, le forze israeliane avevano attaccato con bombardamenti di artiglieria il campo di Bureij, nella Striscia di Gaza centrale.",
-      "spokenText": "I ribelli Houthi hanno rivendicato l'attacco a una raffineria saudita nel Mar Rosso, con forti esplosioni e incendi avvertiti nella zona industriale del gas di Al-Jubail. In precedenza, le forze israeliane avevano colpito con bombardamenti di artiglieria il campo di Bureij, nella Striscia di Gaza centrale, mentre i media riferiscono di un'intensa offensiva con carri armati nell'area di al-Shakush, a nord di Rafah.",
+      "id": "story-9cbcd19494e57738",
+      "title": "Pma, Cecos 'errori nell'impianto in un caso ogni 15mila, adeguare norma'",
+      "summary": "Non sempre se ne viene a conoscenza, errori si possono azzerare. La normativa va adeguata",
+      "spokenText": "Secondo il Cecos, lo scambio di provette nella procreazione assistita si verifica in circa un caso ogni 15mila cicli. Un dato che assume contorni concreti se si considera il precedente dell'ospedale Pertini di Roma, dove nel 2013 furono trasferiti nell'utero di una donna embrioni appartenenti a un'altra coppia. di molti casi, infatti, non si viene a conoscenza. Per questo il Cecos chiede di adeguare la normativa, affinché il sistema possa garantire maggiore sicurezza in un ambito in continua crescita. Ogni anno vengono eseguiti circa 100mila cicli di Pma in Italia, secondo gli ultimi dati del Ministero della Salute relativi al 2023, ma l'utilizzo delle tecniche è in continua crescita.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "cecos",
+        "ospedale san raffaele di milano",
+        "ospedale pertini di roma",
+        "ministero della salute"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 44,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/alimentazione/2026/08/08/pma-cecos-errori-nellimpianto-in-un-caso-ogni-15mila-adeguare-norma_00416637-b71a-4e47-9ad3-eee57f3a1d17.html"
+      },
+      "analysis": {
+        "mainFact": "Secondo il Cecos, lo scambio di provette nella procreazione assistita si verifica in circa un caso ogni 15mila e la normativa va adeguata.",
+        "whyItMatters": "Sicurezza nella procreazione assistita: errore raro ma con implicazioni etiche e normative.",
+        "confirmedFacts": [
+          "Secondo il Cecos, lo scambio di provette nella procreazione assistita si verifica in circa un caso ogni 15mila e la normativa va adeguata.",
+          "Sicurezza nella procreazione assistita: errore raro ma con implicazioni etiche e normative.",
+          "La possibilità di uno scambio della provetta, come quello accaduto all'Ospedale San Raffaele di Milano, secondo stime si verifica in circa un caso ogni 15mila, anche se di molti casi non si viene a conoscenza.",
+          "Ogni anno vengono eseguiti circa 100mila cicli di Pma in Italia, secondo gli ultimi dati del Ministero della Salute relativi al 2023, ma l'utilizzo delle tecniche è in continua crescita.",
+          "Il precedente più noto è quello del 2013 all'ospedale Pertini di Roma: in quel caso furono trasferiti nell'utero di una donna sottoposta a fecondazione assistita embrioni appartenenti a un'altra coppia."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Cecos",
+          "Ospedale San Raffaele di Milano",
+          "ospedale Pertini di Roma",
+          "ministero della Salute"
+        ],
+        "numbersAndDates": [
+          "Ogni anno vengono eseguiti circa 100mila cicli di Pma in Italia, secondo gli ultimi dati del Ministero della Salute relativi al 2023, ma l'utilizzo delle tecniche è in continua crescita.",
+          "Il precedente più noto è quello del 2013 all'ospedale Pertini di Roma: in quel caso furono trasferiti nell'utero di una donna sottoposta a fecondazione assistita embrioni appartenenti a un'altra coppia."
+        ]
+      }
+    },
+    {
+      "id": "story-6629b002e749ec04",
+      "title": "Sindacato medici: 'in estate accessi al pronto soccorso aumentano del 15%'",
+      "summary": "Infermieri: \"doppi turni e riposi saltati, posti letto ridotti e fino a 72 ore per un ricovero\"",
+      "spokenText": "In estate gli accessi al pronto soccorso aumentano del 15%. Situazione simile per gli infermieri, tra cui, per coprire le carenze estive, si ricorre a doppi turni e riposi saltati. Infermieri: \"doppi turni e riposi saltati, posti letto ridotti e fino a 72 ore per un ricovero\". Ma questa situazione si innesta su una carenza di organico già strutturale: nel 70% dei pronto soccorso manca una quota significativa di medici, con scoperture che vanno dal 25% fino al 70% dell'organico previsto, sottolinea Di Silverio.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "sindacato medici",
+        "infermieri",
+        "di silverio"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/08/09/sindacato-medici-in-estate-accessi-al-pronto-soccorso-aumentano-del-15_6312e386-c4ec-49c6-afe0-2df8c9cbc1a9.html"
+      },
+      "analysis": {
+        "mainFact": "In estate gli accessi al pronto soccorso aumentano del 15%.",
+        "whyItMatters": "Situazione simile per gli infermieri, tra cui, per coprire le carenze estive, si ricorre a doppi turni e riposi saltati.",
+        "confirmedFacts": [
+          "In estate gli accessi al pronto soccorso aumentano del 15%.",
+          "Situazione simile per gli infermieri, tra cui, per coprire le carenze estive, si ricorre a doppi turni e riposi saltati.",
+          "Infermieri: \"doppi turni e riposi saltati, posti letto ridotti e fino a 72 ore per un ricovero\"",
+          "Ma questa situazione si innesta su una carenza di organico già strutturale: nel 70% dei pronto soccorso manca una quota significativa di medici, con scoperture che vanno dal 25% fino al 70% dell'organico previsto, sottolinea Di Silverio."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Sindacato medici",
+          "Infermieri",
+          "Di Silverio"
+        ],
+        "numbersAndDates": [
+          "Ma questa situazione si innesta su una carenza di organico già strutturale: nel 70% dei pronto soccorso manca una quota significativa di medici, con scoperture che vanno dal 25% fino al 70% dell'organico previsto, sottolinea Di Silverio.",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "story-a293e8944b589c14",
+      "title": "“Mojtaba Khamenei ha incontrato Pezeshkian”. E Teheran promette un nuovo video della Guida Suprema",
+      "summary": "Il regime risponde alle voci degli scorsi giorni che vedono il figlio di Ali in fin di vita: secondo fonti ufficiali, “i due hanno discusso a lungo sulle sfide del Paese”. Ieri l’agenzia Mehr aveva diffuso un filmato del figlio di Ali Khamenei senza indicazioni di luogo e data",
+      "spokenText": "Ora i media iraniani riferiscono di un incontro tra Mojtaba Khamenei e il presidente Masoud Pezeshkian, in occasione dell’inizio del terzo anno di mandato di quest’ultimo. Secondo fonti ufficiali, i due hanno discusso a lungo sulle sfide del Paese. Se confermato, l’incontro sarebbe avvenuto nei giorni scorsi, considerando che l’anniversario dell’insediamento di Pezeshkian cade il 30 luglio.",
       "category": "mondo",
       "tags": [
         "mondo",
-        "houthi",
-        "arabia saudita",
-        "rafah",
-        "striscia di gaza",
-        "al jubail"
+        "mojtaba khamenei",
+        "masoud pezeshkian",
+        "ali khamenei",
+        "agenzia mehr",
+        "press tv",
+        "iran"
       ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 26,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-esplosioni-e-incendi-raffineria-arabia-saudita-attacco-israeliano-rafah-AJrduei"
-      },
-      "analysis": {
-        "mainFact": "Houthi rivendicano attacco alla raffineria saudita nel Mar Rosso.",
-        "whyItMatters": "In precedenza, le forze israeliane avevano attaccato con bombardamenti di artiglieria il campo di Bureij, nella Striscia di Gaza centrale.",
-        "confirmedFacts": [
-          "Houthi rivendicano attacco alla raffineria saudita nel Mar Rosso.",
-          "In precedenza, le forze israeliane avevano attaccato con bombardamenti di artiglieria il campo di Bureij, nella Striscia di Gaza centrale.",
-          "Esplosioni e incendi in raffineria in Arabia Saudita (ANSA) - ROMA, 09 AGO - Forti esplosioni sono state avvertite nella zona di Al-Jubail, in Arabia Saudita, dove sarebbe stata colpita un’area industriale del gas.",
-          "Media: “Idf attacca nord di Rafah con i carri armati” Le forze israeliane hanno colpito l’area di al-Shakush, a nord di Rafah, nella Striscia di Gaza meridionale, con intensi bombardamenti di carri armati."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Houthi",
-          "Arabia Saudita",
-          "Rafah",
-          "Striscia di Gaza",
-          "Al-Jubail"
-        ],
-        "numbersAndDates": [
-          "Esplosioni e incendi in raffineria in Arabia Saudita (ANSA) - ROMA, 09 AGO - Forti esplosioni sono state avvertite nella zona di Al-Jubail, in Arabia Saudita, dove sarebbe stata colpita un’area industriale del gas."
-        ]
-      }
-    },
-    {
-      "id": "story-e8b46734707ea4ce",
-      "title": "Ue a Roma e Madrid, 'fiducia tra Stati è la risorsa più preziosa'",
-      "summary": "Contatti tra il commissario Brunner i ministri dell'Interno spagnolo e italiano",
-      "spokenText": "Il commissario Ue agli Affari Interni Magnus Brunner ha ricordato in una telefonata ai ministri dell'Interno spagnolo e italiano che la fiducia tra gli Stati membri è la risorsa più preziosa. Italiano, Fernando Grande-Marlaska. I documenti sono stati verificati con fluidità a un campione tra il 5 e il 15% dei passeggeri direttamente allo sbarco dai voli.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "roma",
-        "madrid",
-        "magnus brunner",
-        "fernando grande marlaska",
-        "matteo piantedosi",
-        "ceuta",
-        "marocco"
-      ],
-      "importance": 75,
+      "importance": 62,
       "mustInclude": true,
       "estimatedSeconds": 23,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/ue-a-roma-e-madrid-fiducia-tra-stati-e-la-risorsa-piu-preziosa_7cf379c3-4068-4074-a420-74ad71019c07.html"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/09/news/teheran_mojtaba_khamenei_ha_incontrato_pezeshkian_video_mistero_guida_suprema-425520295/"
       },
       "analysis": {
-        "mainFact": "Il commissario Ue agli Affari Interni Magnus Brunner ha ricordato in una telefonata ai ministri dell'Interno spagnolo e italiano che la fiducia tra gli Stati membri è la risorsa più preziosa.",
-        "whyItMatters": "\"La fiducia tra gli Stati membri è la nostra risorsa più preziosa\", ha ricordato il commissario Ue agli Affari Interni, Magnus Brunner, in una telefonata ai ministri dell'Interno spagnolo e italiano, Fernando Grande-Marlaska e Matteo Piantedosi.",
+        "mainFact": "Secondo i media iraniani, l'Ayatollah Mojtaba Khamenei ha incontrato il presidente Masoud Pezeshkian 'in occasione dell'inizio del terzo anno di mandato di quest'ultimo'.",
+        "whyItMatters": "Ieri l’agenzia Mehr aveva diffuso un filmato del figlio di Ali Khamenei senza indicazioni di luogo e data",
         "confirmedFacts": [
-          "Il commissario Ue agli Affari Interni Magnus Brunner ha ricordato in una telefonata ai ministri dell'Interno spagnolo e italiano che la fiducia tra gli Stati membri è la risorsa più preziosa.",
-          "\"La fiducia tra gli Stati membri è la nostra risorsa più preziosa\", ha ricordato il commissario Ue agli Affari Interni, Magnus Brunner, in una telefonata ai ministri dell'Interno spagnolo e italiano, Fernando Grande-Marlaska e Matteo Piantedosi.",
-          "i documenti sono stati verificati con fluidità a un campione tra il 5 e il 15% dei passeggeri direttamente allo sbarco dai voli."
+          "Secondo i media iraniani, l'Ayatollah Mojtaba Khamenei ha incontrato il presidente Masoud Pezeshkian 'in occasione dell'inizio del terzo anno di mandato di quest'ultimo'.",
+          "Ieri l’agenzia Mehr aveva diffuso un filmato del figlio di Ali Khamenei senza indicazioni di luogo e data",
+          "Il regime risponde alle voci degli scorsi giorni che vedono il figlio di Ali in fin di vita: secondo fonti ufficiali, “i due hanno discusso a lungo sulle sfide del Paese”.",
+          "Un incontro che, se confermato, sarebbe avvenuto nei giorni scorsi considerando che l'anniversario dell'insediamento di Pezeshkian cade il 30 luglio."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Roma",
-          "Madrid",
-          "Magnus Brunner",
-          "Fernando Grande-Marlaska",
-          "Matteo Piantedosi",
-          "Ceuta",
-          "Marocco"
+          "Mojtaba Khamenei",
+          "Masoud Pezeshkian",
+          "Ali Khamenei",
+          "agenzia Mehr",
+          "Press TV",
+          "Iran"
         ],
         "numbersAndDates": [
-          "i documenti sono stati verificati con fluidità a un campione tra il 5 e il 15% dei passeggeri direttamente allo sbarco dai voli."
+          "Un incontro che, se confermato, sarebbe avvenuto nei giorni scorsi considerando che l'anniversario dell'insediamento di Pezeshkian cade il 30 luglio."
         ]
       }
     },
     {
-      "id": "story-6b5c478dd2c4eaba",
-      "title": "Berkshire Hathaway al mercato di Wall Street compra azioni proprie",
-      "summary": "Agli investimenti sulle quotate di Wall Street, che pure ci sono e sono importanti, Berkshire Hathaway sembra preferire le azioni proprie. Il nuovo ceo, Greg Abel, inizia a usare la...",
-      "spokenText": "Berkshire Hathaway ha speso circa 4,5 miliardi di dollari per riacquistare azioni proprie nel secondo trimestre, offrendo agli azionisti il maggiore dividendo trimestrale dal 2021 grazie a un’impennata degli utili operativi. Greg Abel ha così iniziato a utilizzare la montagna di liquidità del gruppo fondato da Warren Buffett, guardando però in larga parte al proprio capitale. Abel aveva dichiarato che il programma di riacquisto era stato riavviato perché i dirigenti avevano riscontrato che il valore intrinseco delle azioni superava il prezzo di mercato. Wall Street era rimasta delusa quando, nel primo trimestre, la società aveva riacquistato titoli per soli 234 milioni di dollari, segnando la prima operazione di questo tipo in oltre due anni. Greg Abel, ha speso una parte significativa dell’enorme liquidità della società, investendo 10 miliardi di dollari nella società madre di Google e riacquistando azioni per circa 4,5 miliardi di dollari.",
+      "id": "story-dfcf715f1eabebbb",
+      "title": "Guerra ultime notizie. Israele: «No al ritiro da Gaza, prima si disarmi Hamas»",
+      "summary": "Israele, nella voce di Netanyahu, rifiuta il ritiro da Gaza senza il previo disarmo di Hamas e nega la prospettiva di uno stato palestinese. Il bilancio complessivo dall’inizio della guerra, nell’ottobre 2023, è salito ad almeno 73.386 palestinesi uccisi e 174.256 feriti, sempre secondo i dati forniti dal Ministero della Salute di Gaza.",
+      "spokenText": "Israele ha ribadito il rifiuto del ritiro da Gaza senza il disarmo di Hamas e ha negato la possibilità di uno stato palestinese. Lo ha dichiarato il primo ministro Netanyahu: «Le Forze di Difesa Israeliane non effettueranno alcun ritiro finché Hamas non sarà effettivamente disarmato». Nel frattempo, il bilancio delle vittime dall'inizio del conflitto nell'ottobre 2023 ha superato le 73.386 unità, con 174.256 feriti, secondo i dati del Ministero della Salute di Gaza.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "israele",
+        "hamas",
+        "gaza",
+        "forze di difesa israeliane"
+      ],
+      "importance": 50,
+      "mustInclude": true,
+      "estimatedSeconds": 30,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-israele-no-ritiro-gaza-prima-si-disarmi-hamas-bocciato-piano-pace-usa-AJrPD8i"
+      },
+      "analysis": {
+        "mainFact": "Israele, nella voce di Netanyahu, rifiuta il ritiro da Gaza senza il previo disarmo di Hamas e nega la prospettiva di uno stato palestinese.",
+        "whyItMatters": "Il bilancio complessivo dall’inizio della guerra, nell’ottobre 2023, è salito ad almeno 73.386 palestinesi uccisi e 174.256 feriti, sempre secondo i dati forniti dal Ministero della Salute di Gaza.",
+        "confirmedFacts": [
+          "Israele, nella voce di Netanyahu, rifiuta il ritiro da Gaza senza il previo disarmo di Hamas e nega la prospettiva di uno stato palestinese.",
+          "Il bilancio complessivo dall’inizio della guerra, nell’ottobre 2023, è salito ad almeno 73.386 palestinesi uccisi e 174.256 feriti, sempre secondo i dati forniti dal Ministero della Salute di Gaza.",
+          "«Le Forze di Difesa Israeliane non effettuaranno alcun ritiro finché Hamas non sarà effettivamente disarmato», ha dichiarato Netanyahu nelle scorse ore."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Israele",
+          "Hamas",
+          "Gaza",
+          "Forze di Difesa Israeliane"
+        ],
+        "numbersAndDates": [
+          "2023",
+          "73.386",
+          "174.256"
+        ]
+      }
+    },
+    {
+      "id": "story-d8e7bbdcc893e5f2",
+      "title": "Mladenov, 'piano per Gaza respinto da Netanyahu è l'unica via da seguire'",
+      "summary": "L'inviato del Board: 'In modo da evitare che si ripeta l'attacco di Hamas del 7 ottobre'",
+      "spokenText": "Il piano per Gaza sostenuto dagli Stati Uniti, respinto oggi dal primo ministro israeliano Benjamin Netanyahu, resta secondo l'inviato Mladenov l'unica via per evitare che si ripeta un attacco come quello di Hamas del 7 ottobre 2023. Un funzionario di Hamas, Bassem Naim, ha dichiarato all'Afp di attendersi pressioni su Netanyahu affinché rispetti la tabella di marcia e non ostacoli il processo per ragioni politiche interne.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "mladenov",
+        "benjamin netanyahu",
+        "hamas",
+        "stati uniti",
+        "bassem naim",
+        "afp"
+      ],
+      "importance": 50,
+      "mustInclude": true,
+      "estimatedSeconds": 27,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/mladenov-piano-per-gaza-respinto-da-netanyahu-e-lunica-via-da-seguire_42dcb39c-dd10-4a1d-81e7-1b63637ba9e6.html"
+      },
+      "analysis": {
+        "mainFact": "Mladenov, 'piano per Gaza respinto da Netanyahu è l'unica via '",
+        "whyItMatters": "Lo afferma un funzionario di Hamas all'Afp, dopo che il primo ministro israeliano Benjamin Netanyahu ha dichiarato che Israele respinge l'accordo sostenuto dagli Usa.",
+        "confirmedFacts": [
+          "Mladenov, 'piano per Gaza respinto da Netanyahu è l'unica via '",
+          "Lo afferma un funzionario di Hamas all'Afp, dopo che il primo ministro israeliano Benjamin Netanyahu ha dichiarato che Israele respinge l'accordo sostenuto dagli Usa.",
+          "Il piano per Gaza sostenuto dagli Stati Uniti, respinto oggi dal primo ministro israeliano Benyamin Netanyahu, rimane \"l'unica via \" per evitare che si ripeta l'attacco di Hamas del 7 ottobre 2023.",
+          "L'inviato del Board: 'In modo da evitare che si ripeta l'attacco di Hamas del 7 ottobre'",
+          "\"Ci aspettiamo che i mediatori e il garante americano facciano pressione su Netanyahu e sul suo governo affinch rispettino la tabella di marcia e non ostacolino il processo per ragioni politiche ed elettorali interne\", ha detto Bassem Naim, membro dell'ufficio politico di Hamas."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Mladenov",
+          "Benjamin Netanyahu",
+          "Hamas",
+          "Stati Uniti",
+          "Bassem Naim",
+          "Afp"
+        ],
+        "numbersAndDates": [
+          "Il piano per Gaza sostenuto dagli Stati Uniti, respinto oggi dal primo ministro israeliano Benyamin Netanyahu, rimane \"l'unica via \" per evitare che si ripeta l'attacco di Hamas del 7 ottobre 2023.",
+          "L'inviato del Board: 'In modo da evitare che si ripeta l'attacco di Hamas del 7 ottobre'"
+        ]
+      }
+    },
+    {
+      "id": "story-08dffa9daf634f78",
+      "title": "Axios, Casa Bianca non è preoccupata dalla dichiarazione di Netanyahu",
+      "summary": "Funzionario Usa, 'comprendiamo esigenze politiche di Bibi, purché limiti attacchi a Gaza'",
+      "spokenText": "La Casa Bianca non è preoccupata dalle dichiarazioni di Netanyahu sul piano Usa per Gaza, secondo Axios. Funzionario Usa, 'comprendiamo esigenze politiche di Bibi, purché limiti attacchi a Gaza'.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "casa bianca",
+        "axios",
+        "jared kushner",
+        "jerusalem post"
+      ],
+      "importance": 50,
+      "mustInclude": true,
+      "estimatedSeconds": 12,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/10/axios-casa-bianca-non-e-preoccupata-dalla-dichiarazione-di-netanyahu_e0252047-55de-4c55-9cbf-061cf0db0f58.html"
+      },
+      "analysis": {
+        "mainFact": "La Casa Bianca non è preoccupata dalle dichiarazioni di Netanyahu sul piano Usa per Gaza, secondo Axios.",
+        "whyItMatters": "Funzionario Usa, 'comprendiamo esigenze politiche di Bibi, purché limiti attacchi a Gaza'.",
+        "confirmedFacts": [
+          "La Casa Bianca non è preoccupata dalle dichiarazioni di Netanyahu sul piano Usa per Gaza, secondo Axios.",
+          "Funzionario Usa, 'comprendiamo esigenze politiche di Bibi, purché limiti attacchi a Gaza'.",
+          "Secondo quanto riferito da un alto funzionario americano ad Axios, la Casa Bianca \"non è preoccupata\" dalle dichiarazioni di Netanyahu sul piano Usa per Gaza."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Casa Bianca",
+          "Axios",
+          "Jared Kushner",
+          "Jerusalem Post"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-f5d7f40be7d0b2e1",
+      "title": "Pechino punta sulla “Via della Seta del ghiaccio”: l’Artico è la nuova scorciatoia tra Asia ed Europa",
+      "summary": "La Cina prova a riscrivere la geografia del commercio globale passando dal tetto del mondo. Questa settimana la compagnia di navigazione cinese Sea Legend inaugurerà il primo servizio regolare di...",
+      "spokenText": "Questa settimana la compagnia cinese Sea Legend inaugura il primo servizio regolare di trasporto container attraverso l'Artico, collegando il porto di Ningbo a quello di Felixstowe nel Regno Unito. È una rotta che dimezza i tempi: il viaggio tra Cina ed Europa potrebbe scendere da circa quaranta giorni a poco più di venti, con risparmi significativi su costi operativi e carburante. negli ultimi dieci anni si sono registrati oltre cinquecento incidenti marittimi nell'Artico, quasi la metà causati da guasti o malfunzionamenti tecnici.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "berkshire hathaway",
-        "greg abel",
-        "wall street",
-        "warren buffett"
+        "cina",
+        "sea legend",
+        "ningbo",
+        "felixstowe",
+        "maersk",
+        "artico"
       ],
-      "importance": 72,
+      "importance": 65,
       "mustInclude": true,
-      "estimatedSeconds": 58,
+      "estimatedSeconds": 33,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/berkshire-hathaway-mercato-wall-street-compra-azioni-proprie-AJRq9Fi"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/pechino-punta-via-seta-ghiaccio-l-artico-e-nuova-scorciatoia-asia-ed-europa-AJt6O8i"
       },
       "analysis": {
-        "mainFact": "Berkshire Hathaway ha speso circa 4,5 miliardi di dollari per il riacquisto di azioni proprie nel secondo trimestre.",
-        "whyItMatters": "Abel aveva dichiarato che Berkshire aveva riavviato il programma di riacquisto perché i dirigenti avevano riscontrato che il “valore intrinseco” di tali azioni superava il loro prezzo di mercato.",
+        "mainFact": "Questa settimana la compagnia di navigazione cinese Sea Legend inaugura il primo servizio regolare di trasporto container attraverso l'Artico, collegando Ningbo a Felixstowe nel Regno Unito.",
+        "whyItMatters": "Il viaggio tra Cina ed Europa potrebbe essere ridotto da circa 40 giorni a poco più di 20, con risparmi significativi sui costi operativi e sul carburante.",
         "confirmedFacts": [
-          "Berkshire Hathaway ha speso circa 4,5 miliardi di dollari per il riacquisto di azioni proprie nel secondo trimestre.",
-          "Abel aveva dichiarato che Berkshire aveva riavviato il programma di riacquisto perché i dirigenti avevano riscontrato che il “valore intrinseco” di tali azioni superava il loro prezzo di mercato.",
-          "Greg Abel, inizia a usare la montagna di liquidità del gruppo fondato da Warren Buffett, guardando però in larga parte al proprio capitale.",
-          "Greg Abel, ha speso una parte significativa dell’enorme liquidità della società, investendo 10 miliardi di dollari nella società madre di Google e riacquistando azioni per circa 4,5 miliardi di dollari.",
-          "Tuttavia, le azioni di classe B di Berkshire sono aumentate del 3,8% quest’anno fino alla chiusura del mercato di venerdì, rispetto a un guadagno di circa il 13% per l’S&P 500.",
-          "Abel aveva annunciato che Berkshire aveva ripreso il riacquisto di azioni proprie per la prima volta in oltre due anni, ma gli investitori sono rimasti delusi quando la società ha riacquistato azioni Berkshire per un valore di soli 234 milioni di dollari nel primo trimestre.",
-          "Berkshire Hathaway ha infatti speso circa 4,5 miliardi di dollari per il riacquisto di azioni proprie nel secondo trimestre, offrendo agli azionisti il maggiore dividendo trimestrale dal 2021, grazie all’impennata degli utili operativi.",
-          "Il rapporto di Berkshire suggerisce che la società ha aggiunto al proprio portafoglio azioni commerciali, industriali e di altro tipo per un valore superiore a 24 miliardi di dollari, ma non specifica quali titoli siano stati acquistati."
+          "Questa settimana la compagnia di navigazione cinese Sea Legend inaugura il primo servizio regolare di trasporto container attraverso l'Artico, collegando Ningbo a Felixstowe nel Regno Unito.",
+          "Il viaggio tra Cina ed Europa potrebbe essere ridotto da circa 40 giorni a poco più di 20, con risparmi significativi sui costi operativi e sul carburante.",
+          "Negli ultimi dieci anni sono stati registrati oltre 500 incidenti marittimi nell’Artico; quasi la metà è stata causata da guasti o malfunzionamenti tecnici."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Berkshire Hathaway",
-          "Greg Abel",
-          "Wall Street",
-          "Warren Buffett"
+          "Cina",
+          "Sea Legend",
+          "Ningbo",
+          "Felixstowe",
+          "Maersk",
+          "Artico"
         ],
         "numbersAndDates": [
-          "Greg Abel, ha speso una parte significativa dell’enorme liquidità della società, investendo 10 miliardi di dollari nella società madre di Google e riacquistando azioni per circa 4,5 miliardi di dollari.",
-          "Tuttavia, le azioni di classe B di Berkshire sono aumentate del 3,8% quest’anno fino alla chiusura del mercato di venerdì, rispetto a un guadagno di circa il 13% per l’S&P 500.",
-          "Abel aveva annunciato che Berkshire aveva ripreso il riacquisto di azioni proprie per la prima volta in oltre due anni, ma gli investitori sono rimasti delusi quando la società ha riacquistato azioni Berkshire per un valore di soli 234 milioni di dollari nel primo trimestre.",
-          "Berkshire Hathaway ha infatti speso circa 4,5 miliardi di dollari per il riacquisto di azioni proprie nel secondo trimestre, offrendo agli azionisti il maggiore dividendo trimestrale dal 2021, grazie all’impennata degli utili operativi.",
-          "Il rapporto di Berkshire suggerisce che la società ha aggiunto al proprio portafoglio azioni commerciali, industriali e di altro tipo per un valore superiore a 24 miliardi di dollari, ma non specifica quali titoli siano stati acquistati.",
-          "4,5"
+          "Negli ultimi dieci anni sono stati registrati oltre 500 incidenti marittimi nell’Artico; quasi la metà è stata causata da guasti o malfunzionamenti tecnici.",
+          "40",
+          "20"
         ]
       }
     },
     {
-      "id": "story-cea2c10d0479b36f",
-      "title": "Evo: l’AI progetta 16 batteriofagi vitali capaci di uccidere E. coli",
-      "summary": "Sedici genomi virali progettati con l’intelligenza artificiale hanno prodotto batteriofagi vitali, capaci di replicarsi in ceppi di Escherichia coli e provocarne la lisi. Il risultato arriva dal lavor...",
-      "spokenText": "Sedici genomi virali progettati interamente dall'intelligenza artificiale si sono trasformati in batteriofagi perfettamente funzionanti, capaci di infettare ceppi di Escherichia coli e di distruggerli attraverso la lisi cellulare. Il risultato porta la firma del ricercatore Samuel H. E si basa su Evo, un modello fondamentale che opera direttamente sulle sequenze genomiche. Il risultato arriva dal lavoro di Samuel H.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "evo",
-        "evo 1",
-        "evo 2",
-        "escherichia coli",
-        "samuel h"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 24,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/evo-l-ai-progetta-16-batteriofagi-vitali-capaci-di-uccidere-e-coli"
-      },
-      "analysis": {
-        "mainFact": "Sedici genomi virali progettati con l'intelligenza artificiale hanno prodotto batteriofagi vitali, capaci di replicarsi in ceppi di Escherichia coli e provocarne la lisi.",
-        "whyItMatters": "Sedici progetti dell'AI hanno prodotto batteriofagi capaci di replicarsi.",
-        "confirmedFacts": [
-          "Sedici genomi virali progettati con l'intelligenza artificiale hanno prodotto batteriofagi vitali, capaci di replicarsi in ceppi di Escherichia coli e provocarne la lisi.",
-          "Sedici progetti dell'AI hanno prodotto batteriofagi capaci di replicarsi.",
-          "Il risultato arriva dal lavoro di Samuel H.",
-          "Evo 1 ed Evo 2 appartengono a una famiglia di modelli fondamentali che lavora direttamente sulle sequenze genomiche.",
-          "Evo: l’AI progetta 16 batteriofagi vitali capaci di uccidere E."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Evo",
-          "Evo 1",
-          "Evo 2",
-          "Escherichia coli",
-          "Samuel H."
-        ],
-        "numbersAndDates": [
-          "Evo 1 ed Evo 2 appartengono a una famiglia di modelli fondamentali che lavora direttamente sulle sequenze genomiche.",
-          "Evo: l’AI progetta 16 batteriofagi vitali capaci di uccidere E."
-        ]
-      }
-    },
-    {
-      "id": "story-8e6549cefdc064de",
-      "title": "Google ha reso noto che a partire dal 4 settembre 2026 l'Assistente Google lascerà il posto su tutti i dispositivi supportati a Gemini, l'assistente basato sull'intelligenza artificiale",
-      "summary": "Il cambio coinvolgerà smartphone, tablet, orologi e Android Auto",
-      "spokenText": "Google ha reso noto che a partire dal 4 settembre 2026 l'Assistente Google lascerà il posto su tutti i dispositivi supportati a Gemini, l'assistente basato sull'intelligenza artificiale. La misura interesserà una vasta gamma di hardware, tra cui smartphone, tablet, smartwatch dotati di sistema operativo Wear Os, auricolari connessi e la piattaforma Android Auto gestita tramite smartphone. Il cambio coinvolgerà smartphone, tablet, orologi e Android Auto.",
+      "id": "story-b25a56631d23464f",
+      "title": "I modelli AI scappano dalle sandbox e hackerano sistemi reali",
+      "summary": "I modelli AI di OpenAI, Anthropic, Meta e Moonshot sono usciti dalle sandbox durante i test di sicurezza e hanno hackerato sistemi reali. The post I modelli AI scappano dalle sandbox e hackerano sistemi reali appeared first on Punto Informatico.",
+      "spokenText": "Durante dei test di sicurezza, progettati proprio per contenerli in ambienti isolati, i modelli di Anthropic, Meta e Moonshot sono riusciti a eludere i controlli, evadere dalle cosiddette sandbox e hackerare sistemi informatici reali. Anche un modello non ancora rilasciato di OpenAI, messo alla prova in un ambiente che avrebbe dovuto essere blindato, è uscito dalla sandbox ed è arrivato a compromettere i sistemi di produzione di Hugging Face, una delle piattaforme più importanti per la comunità dell’AI. Il punto non è l’intelligenza artificiale che si ribella, ma il fatto che i test di sicurezza progettati per contenerla, in più casi e in aziende diverse, non stanno funzionando come dovrebbero.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "google",
-        "gemini",
-        "assistente google",
-        "sundar pichai",
-        "google allo",
-        "wear os",
-        "android auto"
+        "openai",
+        "anthropic",
+        "meta",
+        "moonshot",
+        "hugging face"
       ],
-      "importance": 75,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 26,
+      "estimatedSeconds": 44,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/06/lia-manda-in-pensione-lassistente-google-sara-sostituito-ovunque-da-gemini_fb286f85-473a-4494-a448-f05a08911674.html"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/modelli-ai-scappano-sandbox-hackerano-sistemi-reali/"
       },
       "analysis": {
-        "mainFact": "Google ha reso noto che a partire dal 4 settembre 2026 l'Assistente Google lascerà il posto su tutti i dispositivi supportati a Gemini, l'assistente basato sull'intelligenza artificiale.",
-        "whyItMatters": "La misura interesserà una vasta gamma di hardware, tra cui smartphone, tablet, smartwatch dotati di sistema operativo Wear Os, auricolari connessi e la piattaforma Android Auto gestita tramite smartphone.",
+        "mainFact": "Anthropic, Meta e Moonshot sono usciti dalle sandbox durante i test di sicurezza e hanno hackerato sistemi reali.",
+        "whyItMatters": "Anthropic e Meta sono evasi e hanno hackerato sistemi reali Un modello OpenAI non rilasciato è uscito dalla sandbox e ha hackerato i sistemi di produzione di Hugging Face.",
         "confirmedFacts": [
-          "Google ha reso noto che a partire dal 4 settembre 2026 l'Assistente Google lascerà il posto su tutti i dispositivi supportati a Gemini, l'assistente basato sull'intelligenza artificiale.",
-          "La misura interesserà una vasta gamma di hardware, tra cui smartphone, tablet, smartwatch dotati di sistema operativo Wear Os, auricolari connessi e la piattaforma Android Auto gestita tramite smartphone.",
-          "Il cambio coinvolgerà smartphone, tablet, orologi e Android Auto"
+          "Anthropic, Meta e Moonshot sono usciti dalle sandbox durante i test di sicurezza e hanno hackerato sistemi reali.",
+          "Anthropic e Meta sono evasi e hanno hackerato sistemi reali Un modello OpenAI non rilasciato è uscito dalla sandbox e ha hackerato i sistemi di produzione di Hugging Face.",
+          "E poi si scopre che è evaso dalla sandbox, ha raggiunto Internet e ha hackerato un sistema reale.",
+          "I test di sicurezza progettati per contenere i modelli non riescono a contenerli."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Google",
-          "Gemini",
-          "Assistente Google",
-          "Sundar Pichai",
-          "Google Allo",
-          "Wear Os",
-          "Android Auto"
+          "OpenAI",
+          "Anthropic",
+          "Meta",
+          "Moonshot",
+          "Hugging Face"
         ],
-        "numbersAndDates": [
-          "4",
-          "2026"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-480ccb882279f3a2",
-      "title": "Più di 20 milioni di famiglie sono state sottoposte a divieto di utilizzo di tubi per irrigazione a causa della forte domanda e delle scarse precipitazioni",
-      "summary": "Più di 20 milioni di famiglie sono state sottoposte a divieto di utilizzo di tubi per irrigazione a causa della forte domanda e delle scarse precipitazioni. Più di 25 milioni di persone in Inghilterra.",
-      "spokenText": "Più di venti milioni di famiglie si trovano ora a fare i conti con il divieto di usare i tubi per irrigazione. Il dato, da solo, racconta già la portata della misura: oltre venticinque milioni di persone, tra Inghilterra e Galles, vivono in aree dove questo stop è già realtà.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Più di 20 milioni di famiglie sono state sottoposte a divieto di utilizzo di tubi per irrigazione a causa della forte domanda e delle scarse precipitazioni.",
-        "whyItMatters": "Più di 25 milioni di persone in Inghilterra e Galles sono ora sottoposte a un divieto di utilizzo di tubi per irrigazione.",
-        "confirmedFacts": [
-          "Più di 20 milioni di famiglie sono state sottoposte a divieto di utilizzo di tubi per irrigazione a causa della forte domanda e delle scarse precipitazioni.",
-          "Più di 25 milioni di persone in Inghilterra e Galles sono ora sottoposte a un divieto di utilizzo di tubi per irrigazione.",
-          "More than 25 million people in England and Wales have now been placed under a hosepipe ban, as some water companies struggle to cope with the dry weather and high demand for water."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "20",
-          "25"
-        ]
-      }
-    },
-    {
-      "id": "story-014837d0bf72f8ae",
-      "title": "Anthropic ha ridotto i falsi positivi di Fable 5 in biologia",
-      "summary": "Anhropic ha migliorato la protezione contro prompt relativi alla biologia, quindi Fable 5 risponde ad un numero maggiore di query (meno falsi positivi). The post Fable 5: Anthropic riduce i falsi positivi in biologia appeared first on Punto Informatico.",
-      "spokenText": "Anthropic ha messo a punto una modifica importante per Fable 5, intervenendo su un problema che molti ricercatori avevano notato: il modello si rifiutava di rispondere a domande di biologia del tutto innocue. Si trattava di falsi positivi, innescati dai classificatori di sicurezza che l’azienda californiana ha implementato per cybersicurezza, biologia, chimica e distillazione. Ora questi miglioramenti riducono la probabilità di uno switch automatico al modello inferiore, Opus 5, e il classificatore blocca l’85% delle query innocue in meno. In concreto, Fable 5 può fornire un numero maggiore di risposte in campo biologico, offrendo maggiore supporto agli operatori sanitari nelle attività cliniche e aiutando i ricercatori che sviluppano una nuova terapia medica. Resta il fatto che, nelle mani sbagliate, lo stesso strumento potrebbe essere utilizzato per sviluppare un’arma biologica.",
+      "id": "story-8bb74df6f97b8be3",
+      "title": "Auto mode di Claude Code: scelta pericolosa di Anthropic",
+      "summary": "Anthropic afferma che la modalità automatica di Claude Code è più sicura di quella manuale, ma un noto programmatore teme conseguenze disastrose. The post Auto mode di Claude Code: scelta pericolosa di Anthropic appeared first on Punto Informatico.",
+      "spokenText": "Anthropic ha annunciato che dal 14 agosto la modalità automatica di Claude Code sarà attiva per impostazione predefinita nei piani Pro, Max e Team. La decisione si basa su dati interni: gli utenti approvano il 97% delle richieste di permesso, e nei test la modalità automatica ha bloccato l'89% dei comandi pericolosi, contro il 13,6% di quella manuale. Secondo l'azienda, la modalità manuale causa più danni e quella automatica evita l'intervento continuo degli sviluppatori. Tuttavia, un noto programmatore teme che questa scelta possa portare a conseguenze disastrose per la sicurezza, con un possibile aumento degli attacchi di prompt injection.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
         "anthropic",
-        "fable 5"
+        "claude code"
       ],
       "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 52,
+      "estimatedSeconds": 40,
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/fable-5-anthropic-riduce-falsi-positivi-biologia/"
+        "url": "https://www.punto-informatico.it/auto-mode-claude-code-scelta-pericolosa-anthropic/"
       },
       "analysis": {
-        "mainFact": "Anthropic ha ridotto i falsi positivi di Fable 5 in biologia.",
-        "whyItMatters": "Il classificatore ora blocca l'85% delle query innocue in meno, quindi Fable 5 può fornire un numero maggiore di risposte nel campo della biologia.",
+        "mainFact": "Anthropic attiverà per impostazione predefinita la modalità automatica di Claude Code, una scelta che un noto programmatore considera pericolosa.",
+        "whyItMatters": "Auto mode di Claude Code: scelta pericolosa di Anthropic Anthropic afferma che la modalità automatica di Claude Code è più sicura di quella manuale, ma un noto programmatore teme conseguenze disastrose.",
         "confirmedFacts": [
-          "Anthropic ha ridotto i falsi positivi di Fable 5 in biologia.",
-          "Il classificatore ora blocca l'85% delle query innocue in meno, quindi Fable 5 può fornire un numero maggiore di risposte nel campo della biologia.",
-          "Molti ricercatori hanno notato che Fable 5 non risponde a innocue domande di biologia .",
-          "Meno falsi positivi con prompt di biologia Anthropic ha implementato le protezioni tramite specifici classificatori per cybersicurezza, biologia, chimica e distillazione.",
-          "L’azienda californiana ha ora introdotto miglioramenti che riducono i falsi positivi e quindi la probabilità di switch automatico al modello inferiore (Opus 5).",
-          "Gli operatori sanitari potranno ricevere maggiore supporto da Fable 5 nelle attività cliniche.",
-          "Fable 5 può fornire un aiuto ai ricercatori che sviluppano una nuova terapia medica, ma nelle mani sbagliate potrebbe essere utilizzato per sviluppare un’ arma biologica ."
+          "Anthropic attiverà per impostazione predefinita la modalità automatica di Claude Code, una scelta che un noto programmatore considera pericolosa.",
+          "Auto mode di Claude Code: scelta pericolosa di Anthropic Anthropic afferma che la modalità automatica di Claude Code è più sicura di quella manuale, ma un noto programmatore teme conseguenze disastrose.",
+          "Anthropic ha comunicato che, a partire dal prossimo 14 agosto, la modalità automatica di Claude Code verrà attivata per impostazione predefinita (piani Pro, Max e Team).",
+          "In base ai dati rilevati da Anthropic, gli utenti approvano il 97% delle richieste di permesso, quindi ha deciso di attivarla per impostazione predefinita.",
+          "In base a test effettuati internamente e da terze parti, la modalità automatica di Claude Code ha bloccato l’89% dei comandi pericolosi, mentre quella umana (manuale) solo il 13,6%.",
+          "Anthropic si fida delle protezioni La modalità automatica evita l’intervento continuo degli sviluppatori.",
+          "Anthropic afferma che la modalità manuale causa più danni di quella automatica."
         ],
-        "uncertainties": [],
+        "uncertainties": [
+          "Questa scelta dell’azienda di San Francisco potrebbe avere conseguenze disastrose per la sicurezza con un aumento degli attacchi di prompt injection ."
+        ],
         "peopleAndOrganizations": [
           "Anthropic",
-          "Fable 5"
+          "Claude Code"
         ],
         "numbersAndDates": [
-          "Molti ricercatori hanno notato che Fable 5 non risponde a innocue domande di biologia .",
-          "L’azienda californiana ha ora introdotto miglioramenti che riducono i falsi positivi e quindi la probabilità di switch automatico al modello inferiore (Opus 5).",
-          "Gli operatori sanitari potranno ricevere maggiore supporto da Fable 5 nelle attività cliniche.",
-          "Fable 5 può fornire un aiuto ai ricercatori che sviluppano una nuova terapia medica, ma nelle mani sbagliate potrebbe essere utilizzato per sviluppare un’ arma biologica .",
-          "5",
-          "85"
+          "Anthropic ha comunicato che, a partire dal prossimo 14 agosto, la modalità automatica di Claude Code verrà attivata per impostazione predefinita (piani Pro, Max e Team).",
+          "In base ai dati rilevati da Anthropic, gli utenti approvano il 97% delle richieste di permesso, quindi ha deciso di attivarla per impostazione predefinita.",
+          "In base a test effettuati internamente e da terze parti, la modalità automatica di Claude Code ha bloccato l’89% dei comandi pericolosi, mentre quella umana (manuale) solo il 13,6%."
         ]
       }
     },
     {
-      "id": "story-0fd0d60999a90309",
-      "title": "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania",
-      "summary": "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania. Di recente anche qui Israele ha iniziato a espropriare terreni – questa volta circa 80 acri – per quella che definisce la 'conservazione e lo sviluppo' del sito.",
-      "spokenText": "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania. In questo quadro si inserisce un’operazione recente che ha portato all’esproprio di circa 80 acri di terreno, motivata ufficialmente con esigenze di conservazione e sviluppo del sito. Peace Now, l’organizzazione israeliana che monitora gli insediamenti, ha ricordato che secondo il diritto internazionale e le sentenze della Corte Suprema israeliana è proibito espropriare terreni per scopi di insediamento o esclusivamente a beneficio dei cittadini israeliani.",
-      "category": "diritti",
+      "id": "story-88017036f8bd3d85",
+      "title": "Messico, 1.700 uomini della Marina contro la violenza a Mazatlán",
+      "summary": "Al via l'Operazione Sable contro le fazioni del cartello di Sinaloa",
+      "spokenText": "La Marina militare messicana ha dispiegato circa 1.700 uomini a Mazatlán, nello Stato di Sinaloa, per rafforzare la sicurezza. L'intervento è una risposta diretta all'ondata di violenza che ha colpito la regione, scatenata da una disputa interna al Cartello di Sinaloa. La Armada de M xico despleg a unos 1.700 efectivos en Mazatl n, en el estado de Sinaloa, para reforzar la seguridad ante una ola de violencia derivada de una disputa entre facciones del C rtel de Sinaloa.",
+      "category": "altro",
       "tags": [
-        "diritti",
-        "peace now"
+        "altro",
+        "marina militare messicana",
+        "mazatlan",
+        "sinaloa",
+        "cartello di sinaloa"
       ],
-      "importance": 75,
+      "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 33,
+      "estimatedSeconds": 32,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/09/messico-1.700-uomini-della-marina-contro-la-violenza-a-mazatlan_e8429e71-36b6-4ba3-8f2f-539e5b1711e7.html"
       },
       "analysis": {
-        "mainFact": "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania.",
-        "whyItMatters": "Di recente anche qui Israele ha iniziato a espropriare terreni – questa volta circa 80 acri – per quella che definisce la 'conservazione e lo sviluppo' del sito.",
+        "mainFact": "La Marina militare messicana ha dispiegato circa 1.700 uomini a Mazatlán, nello Stato di Sinaloa, per rafforzare la sicurezza.",
+        "whyItMatters": "Il dispiegamento è una risposta a un'ondata di violenza legata alla disputa tra fazioni del Cartello di Sinaloa.",
         "confirmedFacts": [
-          "Israele ha stanziato circa 113 milioni di shekel per espandere il controllo sui siti archeologici in Cisgiordania.",
-          "Di recente anche qui Israele ha iniziato a espropriare terreni – questa volta circa 80 acri – per quella che definisce la 'conservazione e lo sviluppo' del sito.",
-          "Peace Now – un'organizzazione israeliana che monitora gli insediamenti – afferma: 'Secondo il diritto internazionale, così come secondo le sentenze della Corte Suprema israeliana, a Israele è proibito espropriare terreni per scopi di insediamento o esclusivamente a beneficio dei cittadini israeliani'."
+          "La Marina militare messicana ha dispiegato circa 1.700 uomini a Mazatlán, nello Stato di Sinaloa, per rafforzare la sicurezza.",
+          "Il dispiegamento è una risposta a un'ondata di violenza legata alla disputa tra fazioni del Cartello di Sinaloa.",
+          "La Armada de M xico despleg a unos 1.700 efectivos en Mazatl n, en el estado de Sinaloa, para reforzar la seguridad ante una ola de violencia derivada de una disputa entre facciones del C rtel de Sinaloa."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Peace Now"
+          "Marina militare messicana",
+          "Mazatlán",
+          "Sinaloa",
+          "Cartello di Sinaloa"
         ],
         "numbersAndDates": [
-          "113",
-          "80"
+          "La Armada de M xico despleg a unos 1.700 efectivos en Mazatl n, en el estado de Sinaloa, para reforzar la seguridad ante una ola de violencia derivada de una disputa entre facciones del C rtel de Sinaloa.",
+          "1.700"
         ]
       }
     },
     {
-      "id": "story-b578c9ecaa836181",
-      "title": "Tra le 20 occupazioni più a rischio di automazione, 15 sono a prevalenza femminile",
-      "summary": "Tra le 20 occupazioni più a rischio di automazione, 15 sono a prevalenza femminile. Eppure questo settore, che è altamente esposto all'automazione, è anche composto per oltre il 70% da donne e fornisce quasi un posto di lavoro su cinque per tutte le donne nella forza lavoro australiana.",
-      "spokenText": "Tra le venti occupazioni più esposte al rischio di automazione, quindici sono a prevalenza femminile. Parliamo di profili come segretarie, receptionist, contabili e addetti alla contabilità, alle risorse umane e alle paghe. Di queste venti professioni, cinque sono classificate come altamente femminilizzate, con una presenza di donne superiore all'ottanta per cento. L'unica occupazione moderatamente a prevalenza maschile in questa lista è quella degli operatori finanziari. Questo modello di genere emerge con chiarezza quando si analizzano i settori più vulnerabili. Eppure questo settore, che è altamente esposto all'automazione, è anche composto per oltre il 70% da donne e fornisce quasi un posto di lavoro su cinque per tutte le donne nella forza lavoro australiana.",
-      "category": "attualita",
+      "id": "story-1444d0c1742358bb",
+      "title": "Alcuni residenti rurali in Canada stanno imparando a combattere gli incendi da soli per proteggere le proprie case",
+      "summary": "Alcuni residenti rurali in Canada stanno imparando a combattere gli incendi da soli per proteggere le proprie case. \"Non scappo e lascio che bruci. \" Il Canada ha visto alcune delle sue peggiori stagioni di incendi negli ultimi anni, e ha vissuto la sua più distruttiva mai registrata nel 2023, quando le fiamme hanno devastato un'area forestale grande all'incirca come la Siria.",
+      "spokenText": "È quello che sta succedendo in alcune zone rurali del Canada, dove dei residenti stanno imparando a combattere le fiamme da soli per proteggere le proprie abitazioni. La logica, per persone come Wigwas, è riassunta in una frase: non scappo e lascio che bruci. Una scelta che comporta dei rischi concreti, anche legali: Wigwas sapeva di poter ricevere una multa di circa 800 dollari canadesi per aver disobbedito agli ordini di evacuazione. Il Canada ha vissuto la sua stagione di incendi più distruttiva mai registrata nel 2023, con un’area forestale devastata grande all’incirca come la Siria. Ad agosto di quest’anno, più di 750 incendi stavano bruciando attivamente in tutto il paese. C’è chi, come Cam Allen, non ha paura di restare. Ma la cronaca recente ricorda che non sempre finisce bene: durante gli incendi di Los Angeles, 29 persone hanno perso la vita, alcune delle quali avevano ignorato gli ordini di evacuazione proprio per difendere le proprie case. \"Nessuno di noi ha paura di restare.",
+      "category": "ambiente",
       "tags": [
-        "attualita",
-        "australia"
+        "ambiente",
+        "canada",
+        "gull bay first nation",
+        "cam allen",
+        "wigwas"
       ],
-      "importance": 82,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 46,
+      "estimatedSeconds": 66,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/these-3-charts-show-female-dominated-jobs-are-actually-the-most-exposed-to-ai-288103"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Tra le 20 occupazioni più a rischio di automazione, 15 sono a prevalenza femminile.",
-        "whyItMatters": "Eppure questo settore, che è altamente esposto all'automazione, è anche composto per oltre il 70% da donne e fornisce quasi un posto di lavoro su cinque per tutte le donne nella forza lavoro australiana.",
+        "mainFact": "Alcuni residenti rurali in Canada stanno imparando a combattere gli incendi da soli per proteggere le proprie case.",
+        "whyItMatters": "\"Non scappo e lascio che bruci. \" Il Canada ha visto alcune delle sue peggiori stagioni di incendi negli ultimi anni, e ha vissuto la sua più distruttiva mai registrata nel 2023, quando le fiamme hanno devastato un'area forestale grande all'incirca come la Siria.",
         "confirmedFacts": [
-          "Tra le 20 occupazioni più a rischio di automazione, 15 sono a prevalenza femminile.",
-          "Eppure questo settore, che è altamente esposto all'automazione, è anche composto per oltre il 70% da donne e fornisce quasi un posto di lavoro su cinque per tutte le donne nella forza lavoro australiana.",
-          "Segretarie, receptionist, contabili e addetti alla contabilità, alle risorse umane e alle paghe sono tutte tra queste prime 20 occupazioni più a rischio di essere sostituite dall'automazione.",
-          "Di questi, cinque sarebbero classificati come altamente a prevalenza femminile, composti da almeno l'80% di donne.",
-          "Solo un'occupazione in questa lista delle prime 20 è moderatamente a prevalenza maschile: gli operatori finanziari.",
-          "Questo modello di genere emerge quando si osservano le 20 occupazioni principali più a rischio di automazione."
+          "Alcuni residenti rurali in Canada stanno imparando a combattere gli incendi da soli per proteggere le proprie case.",
+          "\"Non scappo e lascio che bruci. \" Il Canada ha visto alcune delle sue peggiori stagioni di incendi negli ultimi anni, e ha vissuto la sua più distruttiva mai registrata nel 2023, quando le fiamme hanno devastato un'area forestale grande all'incirca come la Siria.",
+          "Ad agosto di quest'anno, più di 750 incendi stanno bruciando attivamente in tutto il paese.",
+          "Wigwas si è posto queste domande quando ha deciso di restare, anche se rischia una multa di circa 800 dollari canadesi (570 dollari statunitensi; 425 sterline) per aver disobbedito agli ordini di evacuazione.",
+          "I leader di Gull Bay First Nation, conosciuta anche come Kiashke Zaaging Anishinaabek, hanno esortato i residenti a stare lontani da metà luglio, mentre più di 150 incendi bruciano nel nord-ovest dell'Ontario.",
+          "\"Nessuno di noi ha paura di restare.",
+          "Ma non tutti sono stati fortunati come Carr durante gli incendi di Los Angeles, che hanno ucciso un totale di 29 persone – alcune delle quali avevano, a loro volta, disobbedito agli ordini di evacuazione per proteggere le proprie case, anche mentre le autorità esortavano migliaia di persone nell'area ad andarsene."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Canada",
+          "Gull Bay First Nation",
+          "Cam Allen",
+          "Wigwas"
+        ],
+        "numbersAndDates": [
+          "Ad agosto di quest'anno, più di 750 incendi stanno bruciando attivamente in tutto il paese.",
+          "Wigwas si è posto queste domande quando ha deciso di restare, anche se rischia una multa di circa 800 dollari canadesi (570 dollari statunitensi; 425 sterline) per aver disobbedito agli ordini di evacuazione.",
+          "I leader di Gull Bay First Nation, conosciuta anche come Kiashke Zaaging Anishinaabek, hanno esortato i residenti a stare lontani da metà luglio, mentre più di 150 incendi bruciano nel nord-ovest dell'Ontario.",
+          "\"Nessuno di noi ha paura di restare.",
+          "Ma non tutti sono stati fortunati come Carr durante gli incendi di Los Angeles, che hanno ucciso un totale di 29 persone – alcune delle quali avevano, a loro volta, disobbedito agli ordini di evacuazione per proteggere le proprie case, anche mentre le autorità esortavano migliaia di persone nell'area ad andarsene.",
+          "2023"
+        ]
+      }
+    },
+    {
+      "id": "story-8b09bf706d221771",
+      "title": "L'Australia è il punto caldo delle estinzioni del pianeta, ma un animale offre un barlume di speranza",
+      "summary": "L'Australia è il punto caldo delle estinzioni del pianeta, ma un animale offre un barlume di speranza.",
+      "spokenText": "L’Australia è oggi riconosciuta come il punto caldo delle estinzioni a livello globale.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "australia"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "L'Australia è il punto caldo delle estinzioni del pianeta, ma un animale offre un barlume di speranza.",
+        "whyItMatters": "Australia hotspot di estinzione, ma una specie offre speranza.",
+        "confirmedFacts": [
+          "L'Australia è il punto caldo delle estinzioni del pianeta, ma un animale offre un barlume di speranza.",
+          "Australia hotspot di estinzione, ma una specie offre speranza."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Australia"
         ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-7bec7a9306839bd6",
+      "title": "La Cina ha evacuato un milione di persone dalle case mentre una violenta tempesta si abbatte sul paese",
+      "summary": "La Cina ha evacuato un milione di persone dalle case mentre una violenta tempesta si abbatte sul paese.",
+      "spokenText": "La Cina ha evacuato un milione di persone dalle loro case mentre un violento tifone si abbatte sul paese. Le province orientali, con città come Shanghai, Wenzhou e Taizhou, sono state investite da venti così forti da ribaltare un camion, come mostrano le immagini diffuse dalla tv di stato CCTV. La tempesta, documentata il 10 agosto 2026, ha spinto le autorità a un imponente piano di allontanamento per mettere in salvo la popolazione. In questo contesto di emergenza, si inserisce anche un episodio di disinformazione: un uomo di 60 anni ha creato un video falso con l'intelligenza artificiale, sostenendo che qualcuno a Shanghai fosse caduto da un edificio durante la tempesta. Guarda: un camion si ribalta mentre il tifone colpisce la Cina Di Kelly Ng Pubblicato il 10 agosto 2026, 02:44 BST Aggiornato 2 ore fa.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "shanghai",
+        "wenzhou",
+        "taizhou",
+        "cctv"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 55,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "La Cina ha evacuato un milione di persone dalle case mentre una violenta tempesta si abbatte sul paese.",
+        "whyItMatters": "Cina: un milione di evacuati per tifone, impatto ambientale e umano.",
+        "confirmedFacts": [
+          "La Cina ha evacuato un milione di persone dalle case mentre una violenta tempesta si abbatte sul paese.",
+          "Cina: un milione di evacuati per tifone, impatto ambientale e umano.",
+          "Guarda: un camion si ribalta mentre il tifone colpisce la Cina Di Kelly Ng Pubblicato il 10 agosto 2026, 02:44 BST Aggiornato 2 ore fa.",
+          "Uno di loro, un uomo di 60 anni, ha creato un video falso con l'IA che sosteneva che qualcuno a Shanghai fosse caduto da un edificio durante la tempesta."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Shanghai",
+          "Wenzhou",
+          "Taizhou",
+          "CCTV"
+        ],
         "numbersAndDates": [
-          "Segretarie, receptionist, contabili e addetti alla contabilità, alle risorse umane e alle paghe sono tutte tra queste prime 20 occupazioni più a rischio di essere sostituite dall'automazione.",
-          "Di questi, cinque sarebbero classificati come altamente a prevalenza femminile, composti da almeno l'80% di donne.",
-          "Solo un'occupazione in questa lista delle prime 20 è moderatamente a prevalenza maschile: gli operatori finanziari.",
-          "Questo modello di genere emerge quando si osservano le 20 occupazioni principali più a rischio di automazione.",
-          "20",
-          "15",
-          "70"
+          "Guarda: un camion si ribalta mentre il tifone colpisce la Cina Di Kelly Ng Pubblicato il 10 agosto 2026, 02:44 BST Aggiornato 2 ore fa.",
+          "Uno di loro, un uomo di 60 anni, ha creato un video falso con l'IA che sosteneva che qualcuno a Shanghai fosse caduto da un edificio durante la tempesta."
         ]
       }
     },
     {
-      "id": "story-cd60263a882400b6",
-      "title": "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50",
-      "summary": "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50 anni.",
-      "spokenText": "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50 anni. Ad esempio, l'mRNA nei vaccini COVID-19 di Pfizer-BioNTech e Moderna ordina alle cellule di produrre una versione innocua della proteina spike del virus che addestra il sistema immunitario a riconoscere e prepararsi meglio a una potenziale infezione. Queste nanoparticelle lipidiche di mRNA, o LNP, sono minuscole sfere di circa 100 nanometri di diametro che proteggono l'mRNA dalla degradazione e ne facilitano la consegna nelle cellule bersaglio. Questi progressi dimostrano lo slancio della tecnologia a mRNA e hanno implicazioni di vasta portata per il modo in cui i ricercatori producono farmaci per trattare molte altre malattie.",
+      "id": "story-af4996fd268fbb5f",
+      "title": "Il Network Nazionale della Biodiversità di ISPRA invita i cittadini a partecipare all'iniziativa 'Biodiversità in posa' segnalando osservazioni naturalistiche anche in vacanza",
+      "summary": "Partecipa all'iniziativa \"Biodiversità in posa\" del Network Nazionale della Biodiversità di ISPRA dedicata alla raccolta e alla condivisione di osservazioni sulla fauna, la flora e l'ambiente naturale effettuate dai cittadini. “ Biodiversità in posa ” offre la possibilità, grazie al collegamento con l’APP iNaturalist, a chiunque interessato e in qualsiasi momento, di mettere in condivisione con il Network segnalazioni attraverso immagini sulla natura realizzate sia a livello professionale che amatoriale costituendo così un canale di ingresso per i dati.",
+      "spokenText": "Il Network Nazionale della Biodiversità di ISPRA lancia un invito a tutti i cittadini. L'idea è semplice e si adatta perfettamente anche ai giorni di vacanza: basta accedere all'app o al sito e cercare nella sezione Progetti 'Biodiversità in posa' per iniziare a segnalare ciò che si incontra durante una passeggiata, un'escursione o semplicemente guardando fuori dalla finestra.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "pfizer biontech",
-        "moderna"
+        "network nazionale della biodiversita",
+        "ispra"
       ],
-      "importance": 82,
+      "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 48,
+      "estimatedSeconds": 24,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/first-mrna-flu-shot-approved-by-fda-bodes-well-for-improving-drugs-of-the-future-though-a-few-hurdles-remain-before-mrna-can-move-beyond-vaccines-289277"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/osserva-e-segnala-la-flora-e-fauna-intorno-a-te-anche-in-vacanza"
       },
       "analysis": {
-        "mainFact": "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50 anni.",
-        "whyItMatters": "Primo vaccino antinfluenzale a mRNA approvato dalla FDA. Apre la strada a futuri farmaci a mRNA oltre i vaccini.",
+        "mainFact": "Il Network Nazionale della Biodiversità di ISPRA invita i cittadini a partecipare all'iniziativa 'Biodiversità in posa' segnalando osservazioni naturalistiche anche in vacanza.",
+        "whyItMatters": "Partecipa all'iniziativa \"Biodiversità in posa\" del Network Nazionale della Biodiversità di ISPRA dedicata alla raccolta e alla condivisione di osservazioni sulla fauna, la flora e l'ambiente naturale effettuate dai cittadini.",
         "confirmedFacts": [
-          "La Food and Drug Administration (FDA) statunitense ha approvato un vaccino antinfluenzale stagionale a mRNA per adulti di età pari o superiore a 50 anni.",
-          "Primo vaccino antinfluenzale a mRNA approvato dalla FDA. Apre la strada a futuri farmaci a mRNA oltre i vaccini.",
-          "Ad esempio, l'mRNA nei vaccini COVID-19 di Pfizer-BioNTech e Moderna ordina alle cellule di produrre una versione innocua della proteina spike del virus che addestra il sistema immunitario a riconoscere e prepararsi meglio a una potenziale infezione.",
-          "Queste nanoparticelle lipidiche di mRNA, o LNP, sono minuscole sfere di circa 100 nanometri di diametro che proteggono l'mRNA dalla degradazione e ne facilitano la consegna nelle cellule bersaglio.",
-          "Questi progressi dimostrano lo slancio della tecnologia a mRNA e hanno implicazioni di vasta portata per il modo in cui i ricercatori producono farmaci per trattare molte altre malattie."
+          "Il Network Nazionale della Biodiversità di ISPRA invita i cittadini a partecipare all'iniziativa 'Biodiversità in posa' segnalando osservazioni naturalistiche anche in vacanza.",
+          "Partecipa all'iniziativa \"Biodiversità in posa\" del Network Nazionale della Biodiversità di ISPRA dedicata alla raccolta e alla condivisione di osservazioni sulla fauna, la flora e l'ambiente naturale effettuate dai cittadini.",
+          "Una volta nell’app – o nel sito – sarà sufficiente cercare nella sezione Progetti “ Biodiversità in posa ”."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Pfizer-BioNTech",
-          "Moderna"
+          "Network Nazionale della Biodiversità",
+          "ISPRA"
         ],
-        "numbersAndDates": [
-          "Ad esempio, l'mRNA nei vaccini COVID-19 di Pfizer-BioNTech e Moderna ordina alle cellule di produrre una versione innocua della proteina spike del virus che addestra il sistema immunitario a riconoscere e prepararsi meglio a una potenziale infezione.",
-          "Queste nanoparticelle lipidiche di mRNA, o LNP, sono minuscole sfere di circa 100 nanometri di diametro che proteggono l'mRNA dalla degradazione e ne facilitano la consegna nelle cellule bersaglio.",
-          "50"
-        ]
+        "numbersAndDates": []
       }
     }
   ]
