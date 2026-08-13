@@ -1,352 +1,147 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-12-4dd46ac5068e",
-  "generatedAt": "2026-08-12T08:54:37.078Z",
+  "catalogId": "daily-quid-2026-08-13-afe0d9370e02",
+  "generatedAt": "2026-08-13T08:58:09.320Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-116d9f2f3211a7fd",
-      "title": "Copernicus: luglio 2026 il secondo più caldo registrato in Europa occidentale",
-      "summary": "Luglio 2026 è stato il secondo luglio più caldo mai registrato nell’Europa occidentale. La temperatura media dell’aria superficiale nella regione è stata di 22,48 °C, 2,53 °C al di sopra...",
-      "spokenText": "Luglio 2026 è stato il secondo luglio più caldo mai registrato nell'Europa occidentale, con una temperatura media di 22,48 °C. La temperatura media dell’aria superficiale nella regione è stata di 22,48 °C, 2,53 °C al di sopra della media del periodo 1991-2020, solo leggermente inferiore al record stabilito nel luglio 2006. La Francia ha registrato il suo luglio più caldo di sempre, con un’anomalia di +3,8 °C, aggiunge il centro satellitare Ue. Soltanto nella media delle temperature massime il 2026 si colloca al secondo posto: 34,5 °C, due decimi in meno rispetto ai 34,7 °C del 2022. Francia e siccità Secondo l’Osservatorio europeo sulla siccità (EDO), a metà luglio 2026 oltre l’85% del territorio nazionale era soggetto a condizioni di allerta o avviso di siccità, rispetto a circa il 65% nello stesso periodo del 2025 e a meno del 2% nel 2024, un’estate in cui la siccità non era stata diffusa. Queste immagini a colori naturali di Copernicus Sentinel-3 illustrano tale contrasto. Nell’immagine a destra, acquisita l’8 agosto 2026, i toni del beige e dell’ocra dominano il paesaggio dalla costa atlantica alle pianure settentrionali, mentre le aree più verdi sono per lo più limitate alle foreste e alle zone montuose.",
+      "id": "story-241359f2f03de793",
+      "title": "Guerra ultime notizie. «Chiazze di petrolio dalle navi colpite»: a Hormuz è allarme ambientale",
+      "summary": "Navi colpite hanno causato chiazze di petrolio nello Stretto di Hormuz, generando un allarme ambientale per una scia inquinante in espansione che coprirebbe oltre 2.000 chilometri quadrati. Lo riporta l’Agenzia nazionale di stampa libanese, aggiungendo che aerei da guerra israeliani hanno colpito la città di Al-Mansouri in due ondate successive durante la notte, e che il suono delle esplosioni è stato udito a Tiro.",
+      "spokenText": "Nello Stretto di Hormuz, navi colpite hanno generato chiazze di petrolio che si stanno espandendo in una scia inquinante di oltre duemila chilometri quadrati, sollevando un allarme ambientale. L’area ospita una ricca fauna marina, con tartarughe, delfini e balene. L’agenzia nazionale di stampa libanese riferisce che aerei da guerra israeliani hanno colpito Al-Mansouri in due ondate notturne, con esplosioni udite fino a Tiro. Intanto, Hojjatoleslam Hossein Taeb, comandante dell’organizzazione paramilitare Basij affiliata ai Pasdaran, ha dichiarato che lo Stretto di Hormuz è sotto il controllo e la gestione dell’Iran, aggiungendo che il Paese procede in totale sicurezza.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "copernicus",
-        "europa occidentale",
-        "francia",
-        "osservatorio europeo sulla siccita edo"
+        "stretto di hormuz",
+        "iran",
+        "hojjatoleslam hossein taeb",
+        "pasdaran"
       ],
-      "importance": 85,
+      "importance": 70,
       "mustInclude": true,
-      "estimatedSeconds": 80,
+      "estimatedSeconds": 39,
       "source": {
         "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/copernicus-luglio-2026-secondo-piu-caldo-registrato-europa-occidentale-AJh2O0j"
+        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-cia-scettica-minacce-trump-informazioni-israeliane-poco-attendibili-AJaIZSl"
       },
       "analysis": {
-        "mainFact": "Luglio 2026 è stato il secondo luglio più caldo mai registrato nell'Europa occidentale, con una temperatura media di 22,48 °C.",
-        "whyItMatters": "La temperatura media dell’aria superficiale nella regione è stata di 22,48 °C, 2,53 °C al di sopra della media del periodo 1991-2020, solo leggermente inferiore al record stabilito nel luglio 2006.",
+        "mainFact": "Navi colpite hanno causato chiazze di petrolio nello Stretto di Hormuz, generando un allarme ambientale per una scia inquinante in espansione che coprirebbe oltre 2.000 chilometri quadrati.",
+        "whyItMatters": "Lo riporta l’Agenzia nazionale di stampa libanese, aggiungendo che aerei da guerra israeliani hanno colpito la città di Al-Mansouri in due ondate successive durante la notte, e che il suono delle esplosioni è stato udito a Tiro.",
         "confirmedFacts": [
-          "Luglio 2026 è stato il secondo luglio più caldo mai registrato nell'Europa occidentale, con una temperatura media di 22,48 °C.",
-          "La temperatura media dell’aria superficiale nella regione è stata di 22,48 °C, 2,53 °C al di sopra della media del periodo 1991-2020, solo leggermente inferiore al record stabilito nel luglio 2006.",
-          "La Francia ha registrato il suo luglio più caldo di sempre, con un’anomalia di +3,8 °C, aggiunge il centro satellitare Ue.",
-          "Con una temperatura media di 28,7 °C , il 2026 occupa il primo posto tra le 25 estati considerate.",
-          "Soltanto nella media delle temperature massime il 2026 si colloca al secondo posto: 34,5 °C, due decimi in meno rispetto ai 34,7 °C del 2022.",
-          "Francia e siccità Secondo l’Osservatorio europeo sulla siccità (EDO), a metà luglio 2026 oltre l’85% del territorio nazionale era soggetto a condizioni di allerta o avviso di siccità, rispetto a circa il 65% nello stesso periodo del 2025 e a meno del 2% nel 2024, un’estate in cui la siccità non era stata diffusa.",
-          "Queste immagini a colori naturali di Copernicus Sentinel-3 illustrano tale contrasto.",
-          "Nell’immagine a destra, acquisita l’8 agosto 2026, i toni del beige e dell’ocra dominano il paesaggio dalla costa atlantica alle pianure settentrionali, mentre le aree più verdi sono per lo più limitate alle foreste e alle zone montuose."
+          "Navi colpite hanno causato chiazze di petrolio nello Stretto di Hormuz, generando un allarme ambientale per una scia inquinante in espansione che coprirebbe oltre 2.000 chilometri quadrati.",
+          "Lo riporta l’Agenzia nazionale di stampa libanese, aggiungendo che aerei da guerra israeliani hanno colpito la città di Al-Mansouri in due ondate successive durante la notte, e che il suono delle esplosioni è stato udito a Tiro.",
+          "Anche l’area colpita ospita una ricca fauna marina, tra cui tartarughe, delfini e balene.",
+          "«Hormuz è sotto controllo iraniano» Hojjatoleslam Hossein Taeb, c omandante dell’organizzazione paramilitare Basij affiliata ai Pasdaran , ha dichiarato che lo Stretto di Hormuz è «sotto il controllo e la gestione dell’Iran».",
+          "«Oggi si può constatare ch e lo Stretto di Hormuz è sotto la gestione e il controllo della Repubblica Islamica , e il nostro Paese prosegue il proprio cammino in totale sicurezza», ha dichiarato Taeb in un intervento riportato dall’agenzia di stampa semi-ufficiale iraniana Fars.",
+          "La petroliera Caroline Bezengi, che trasportava circa 800.000 barili di petrolio russo ed era soggetta a sanzioni internazionali, si è arenata il 30 giugno."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Copernicus",
-          "Europa occidentale",
-          "Francia",
-          "Osservatorio europeo sulla siccità (EDO)"
+          "Stretto di Hormuz",
+          "Iran",
+          "Hojjatoleslam Hossein Taeb",
+          "Pasdaran"
         ],
         "numbersAndDates": [
-          "La Francia ha registrato il suo luglio più caldo di sempre, con un’anomalia di +3,8 °C, aggiunge il centro satellitare Ue.",
-          "Con una temperatura media di 28,7 °C , il 2026 occupa il primo posto tra le 25 estati considerate.",
-          "Soltanto nella media delle temperature massime il 2026 si colloca al secondo posto: 34,5 °C, due decimi in meno rispetto ai 34,7 °C del 2022.",
-          "Francia e siccità Secondo l’Osservatorio europeo sulla siccità (EDO), a metà luglio 2026 oltre l’85% del territorio nazionale era soggetto a condizioni di allerta o avviso di siccità, rispetto a circa il 65% nello stesso periodo del 2025 e a meno del 2% nel 2024, un’estate in cui la siccità non era stata diffusa.",
-          "Queste immagini a colori naturali di Copernicus Sentinel-3 illustrano tale contrasto.",
-          "Nell’immagine a destra, acquisita l’8 agosto 2026, i toni del beige e dell’ocra dominano il paesaggio dalla costa atlantica alle pianure settentrionali, mentre le aree più verdi sono per lo più limitate alle foreste e alle zone montuose.",
-          "2026",
-          "22,48",
-          "2,53",
-          "1991"
+          "La petroliera Caroline Bezengi, che trasportava circa 800.000 barili di petrolio russo ed era soggetta a sanzioni internazionali, si è arenata il 30 giugno.",
+          "2.000"
         ]
       }
     },
     {
-      "id": "story-a6d5a0232c30a9bd",
-      "title": "Summer School \"Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza”",
-      "summary": "Nell’ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA, L’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA), organizza la Summer School sugli “Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza” che si svolgerà nella città di Trieste dal 14 al 18 Settembre 2026.",
-      "spokenText": "L’iniziativa si terrà a Trieste dal 14 al 18 settembre 2026 e vuole approfondire, attraverso il titolo ‘catene di connessioni e resilienza’, le dinamiche che legano il clima alle aree di transizione tra terra e mare. L’evento formativo si rivolge a tutti coloro che nutrono un interesse verso l’ambiente e la scienza, offrendo uno spazio di confronto istituzionale su temi di stretta attualità.",
+      "id": "story-0f44897489f1c3e6",
+      "title": "Caldo estremo in Gb, Burnham riunisce il comitato Cobra e vieta i barbecue",
+      "summary": "Meeting d'emergenza su incendi e su effetti cambiamento climatico su salute e sicurezza",
+      "spokenText": "Burnham ha riunito nel pomeriggio il comitato per le emergenze Cobra, presiedendo una seduta ad hoc per discutere dei contraccolpi sulla salute, sulla sicurezza e sull'economia legati all'allerta meteo in atto. A margine dell'incontro, ha formalizzato l'iniziativa di vietare i barbecue, una misura concreta per ridurre il rischio di incendi in questa fase critica.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "ispra",
-        "scuola di specializzazione in discipline ambient"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 26,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/summer-school-ecosistemi-marino-costieri-e-cambiamenti-climatici-catene-di-connessioni-e-resilienza"
-      },
-      "analysis": {
-        "mainFact": "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 settembre 2026.",
-        "whyItMatters": "L'evento formativo è rivolto a interessati ad ambiente e scienza.",
-        "confirmedFacts": [
-          "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 settembre 2026.",
-          "L'evento formativo è rivolto a interessati ad ambiente e scienza."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ISPRA",
-          "Scuola di Specializzazione in Discipline Ambientali"
-        ],
-        "numbersAndDates": [
-          "14",
-          "18",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-d54d4277ffa13a7c",
-      "title": "Social e salute, solo l'11% dei professionisti ha una formazione specifica",
-      "summary": "Indagine di Adoi, il 50% li usa quotidianamente e il 75% chiede linee guida",
-      "spokenText": "Solo l'11,4% dei professionisti sanitari ha ricevuto una formazione specifica sulla comunicazione sanitaria tramite social media. Eppure, il 50% degli intervistati utilizza quotidianamente questi canali per informare e dialogare con il pubblico, mentre la disinformazione sanitaria viaggia proprio sugli stessi strumenti digitali. Non sorprende, quindi, che il 75% dei professionisti chieda linee guida chiare per orientarsi in questo ambito. La fotografia restituita dall'indagine mostra un divario tra l'uso intensivo dei social media e la preparazione formale per gestirli in modo efficace, in un contesto in cui la corretta informazione sanitaria è sempre più cruciale.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "adoi",
-        "professionisti sanitari"
+        "burnham",
+        "comitato cobra"
       ],
       "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 38,
+      "estimatedSeconds": 22,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/08/10/social-e-salute-solo-l11-dei-professionisti-ha-una-formazione-specifica_ef0de1a2-c05a-4a09-ad3f-6272d3682e4e.html"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/caldo-estremo-in-gb-burnham-riunisce-il-comitato-cobra-e-vieta-i-barbecue_8cdd6c90-602d-42cb-8339-fc203cb3625d.html"
       },
       "analysis": {
-        "mainFact": "Solo l'11,4% dei professionisti sanitari ha ricevuto una formazione specifica sulla comunicazione sanitaria tramite social media.",
-        "whyItMatters": "mentre la disinformazione sanitaria viaggia sui canali digitali.",
+        "mainFact": "Burnham riunisce il comitato Cobra e vieta i barbecue",
+        "whyItMatters": "Meeting d'emergenza su incendi e su effetti cambiamento climatico su salute e sicurezza",
         "confirmedFacts": [
-          "Solo l'11,4% dei professionisti sanitari ha ricevuto una formazione specifica sulla comunicazione sanitaria tramite social media.",
-          "mentre la disinformazione sanitaria viaggia sui canali digitali.",
-          "Indagine di Adoi, il 50% li usa quotidianamente e il 75% chiede linee guida"
+          "Burnham riunisce il comitato Cobra e vieta i barbecue",
+          "Meeting d'emergenza su incendi e su effetti cambiamento climatico su salute e sicurezza",
+          "Burnham ha formalizzato l'iniziativa a margine di una riunione ad hoc del comitato per le emergenze Cobra, presieduta nel pomeriggio per discutere dei contraccolpi sulla salute, sulla sicurezza e sull'economia legati all'allerta meteo in atto."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Adoi",
-          "professionisti sanitari"
-        ],
-        "numbersAndDates": [
-          "Indagine di Adoi, il 50% li usa quotidianamente e il 75% chiede linee guida",
-          "11,4"
-        ]
-      }
-    },
-    {
-      "id": "story-46249e08cd65de87",
-      "title": "Esercitazioni Han Kuang, Taiwan si prepara al peggio: guerra totale e blackout digitale",
-      "summary": "Dal blackout digitale alla difesa totale: le esercitazioni Han Kuang mostrano come Taiwan prepara la società alla minaccia della Cina e all'incognita USA.",
-      "spokenText": "Taiwan ha avviato le esercitazioni militari Han Kuang, un ciclo di manovre pensate per preparare l'intera società a uno scenario di guerra totale.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "taiwan",
-        "cina",
-        "usa"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 10,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/taiwan-esercitazioni-han-kuang-difesa-cina-trump/"
-      },
-      "analysis": {
-        "mainFact": "Taiwan conduce le esercitazioni Han Kuang per preparare la società alla minaccia della Cina e all'incognita USA.",
-        "whyItMatters": "Esercitazioni Taiwan su guerra e blackout digitale, alta rilevanza geopolitica.",
-        "confirmedFacts": [
-          "Taiwan conduce le esercitazioni Han Kuang per preparare la società alla minaccia della Cina e all'incognita USA.",
-          "Esercitazioni Taiwan su guerra e blackout digitale, alta rilevanza geopolitica.",
-          "Dal blackout digitale alla difesa totale: le esercitazioni Han Kuang mostrano come Taiwan prepara la società alla minaccia della Cina e all'incognita USA."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Taiwan",
-          "Cina",
-          "USA"
+          "Burnham",
+          "comitato Cobra"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-5eaf6dc68af51788",
-      "title": "Il Libano abolisce la pena di morte",
-      "summary": "Il parlamento libanese ha abolito la pena di morte, primo paese del mondo arabo a sostituirla con l’ergastolo con lavori forzati. Il Libano rispetta una moratoria non ufficiale sulle esecuzioni...",
-      "spokenText": "Il Libano ha ufficialmente abolito la pena di morte. La decisione rappresenta un passo significativo per il paese, che già da oltre vent'anni manteneva una moratoria non ufficiale sulle esecuzioni, in vigore dal gennaio 2004.",
-      "category": "diritti",
+      "id": "story-5080bd19f80180a4",
+      "title": "Cibi ultraprocessati: la nuova sfida della salute pubblica",
+      "summary": "Dalla Commissione Lancet 2025 sui cibi ultraprocessati allo studio Nature 2026: ecco perché la prevenzione dei tumori e delle malattie croniche passa per una riforma strutturale del sistema alimentare globale.",
+      "spokenText": "La prevenzione dei tumori e delle malattie croniche richiede una riforma strutturale del sistema alimentare globale, secondo la Commissione Lancet 2025 e uno studio Nature 2026.",
+      "category": "salute",
       "tags": [
-        "diritti",
-        "libano"
+        "salute",
+        "commissione lancet",
+        "nature"
       ],
-      "importance": 75,
+      "importance": 92,
       "mustInclude": true,
-      "estimatedSeconds": 14,
+      "estimatedSeconds": 11,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/il-libano-abolisce-pena-morte-AJwWE4j"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/cibi-ultraprocessati-dieta-sfida-salute-pubblica/"
       },
       "analysis": {
-        "mainFact": "Il Libano ha abolito la pena di morte.",
-        "whyItMatters": "Il Libano rispetta una moratoria non ufficiale sulle esecuzioni dal gennaio 2004.",
+        "mainFact": "La prevenzione dei tumori e delle malattie croniche richiede una riforma strutturale del sistema alimentare globale, secondo la Commissione Lancet 2025 e uno studio Nature 2026.",
+        "whyItMatters": "Analisi sistemica su cibi ultraprocessati, prevenzione tumori e riforma alimentare. Altamente rilevante per scienza e salute.",
         "confirmedFacts": [
-          "Il Libano ha abolito la pena di morte.",
-          "Il Libano rispetta una moratoria non ufficiale sulle esecuzioni dal gennaio 2004.",
-          "Il parlamento libanese ha abolito la pena di morte, primo paese del mondo arabo a sostituirla con l’ergastolo con lavori forzati."
+          "La prevenzione dei tumori e delle malattie croniche richiede una riforma strutturale del sistema alimentare globale, secondo la Commissione Lancet 2025 e uno studio Nature 2026.",
+          "Analisi sistemica su cibi ultraprocessati, prevenzione tumori e riforma alimentare. Altamente rilevante per scienza e salute.",
+          "Dalla Commissione Lancet 2025 sui cibi ultraprocessati allo studio Nature 2026: ecco perché la prevenzione dei tumori e delle malattie croniche passa per una riforma strutturale del sistema alimentare globale."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Libano"
+          "Commissione Lancet",
+          "Nature"
         ],
         "numbersAndDates": [
-          "2004"
+          "2025",
+          "2026"
         ]
       }
     },
     {
-      "id": "story-6771efca3c12d74e",
-      "title": "Il terremoto in Colombia ha paralizzato le esportazioni di caffè",
-      "summary": "Tir bloccati dalle frane lungo le strade per il porto di Buenaventura",
-      "spokenText": "La Colombia sta affrontando una grave interruzione delle sue esportazioni di caffè, paralizzate a causa del terremoto di magnitudo 7. 4 che ha colpito il Paese due giorni fa. La scossa, registrata alle 7:34 ora locale di lunedì, è stata avvertita su un'area enorme, estendendosi per centinaia di miglia attraverso la Colombia occidentale, con nuove scosse di assestamento ancora avvertite nella giornata di martedì. Lo stop logistico è dovuto a frane e blocchi lungo le strade che conducono al porto di Buenaventura, lo snodo cruciale da cui transita oltre il 60% dell'export internazionale di caffè colombiano. Al momento, numerosi tir risultano bloccati lungo queste arterie, interrompendo di fatto il flusso di una delle voci più importanti del commercio estero del Paese. La scossa di magnitudo 7.",
-      "category": "attualita",
+      "id": "story-79165ba8a73b6be7",
+      "title": "Gb è primo Paese in Europa ad approvare la pillola dimagrante",
+      "summary": "L'orforglipron già autorizzato negli Usa",
+      "spokenText": "Gb è primo Paese in Europa ad approvare la pillola dimagrante. L'orforglipron già autorizzato negli Usa.",
+      "category": "salute",
       "tags": [
-        "attualita",
-        "colombia",
-        "buenaventura"
-      ],
-      "importance": 65,
-      "mustInclude": true,
-      "estimatedSeconds": 51,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/il-terremoto-in-colombia-ha-paralizzato-le-esportazioni-di-caffe_ddfc2e3b-6982-4525-a6a1-5cd4b780a48c.html"
-      },
-      "analysis": {
-        "mainFact": "Il terremoto in Colombia ha paralizzato le esportazioni di caffè.",
-        "whyItMatters": "Lo stop è dovuto a frane e blocchi sulle strade per Buenaventura, da dove transita oltre il 60% dell'export internazionale di caffè colombiano.",
-        "confirmedFacts": [
-          "Il terremoto in Colombia ha paralizzato le esportazioni di caffè.",
-          "Lo stop è dovuto a frane e blocchi sulle strade per Buenaventura, da dove transita oltre il 60% dell'export internazionale di caffè colombiano.",
-          "Tir bloccati dalle frane lungo le strade per il porto di Buenaventura",
-          "Le esportazioni di caff colombiano stanno subendo una grave interruzione logistica a causa del terremoto di magnitudo 7. 4 che due giorni fa ha colpito il Paese.",
-          "La scossa di magnitudo 7. 4 ha colpito alle 07:34 (12:34 GMT) di lunedì ed è stata avvertita su un'area enorme, estendendosi per centinaia di miglia attraverso la Colombia occidentale - con nuove scosse di assestamento ancora avvertite martedì."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Colombia",
-          "Buenaventura"
-        ],
-        "numbersAndDates": [
-          "Le esportazioni di caff colombiano stanno subendo una grave interruzione logistica a causa del terremoto di magnitudo 7. 4 che due giorni fa ha colpito il Paese.",
-          "La scossa di magnitudo 7. 4 ha colpito alle 07:34 (12:34 GMT) di lunedì ed è stata avvertita su un'area enorme, estendendosi per centinaia di miglia attraverso la Colombia occidentale - con nuove scosse di assestamento ancora avvertite martedì.",
-          "60"
-        ]
-      }
-    },
-    {
-      "id": "story-ec8f36eba0a626a9",
-      "title": "Pubblicato il nuovo Science Book di Skao",
-      "summary": "In 221 capitoli, il corposo volume “Advancing Astrophysics with the Ska - II” aggiorna gli obiettivi scientifici del progetto dell'Osservatorio Ska in vista della futura fase operativa. Con oltre 230 coautori e la firma del 20 per cento dei capitoli, l'Italia è il paese con il maggior numero di contributi al volume. Isabella Prandoni (Inaf): «I nostri ricercatori rappresentano quasi il 15 per cento del totale dei coautori»",
-      "spokenText": "C'è un nuovo, imponente tassello nella biblioteca dell'astrofisica mondiale. È stato appena pubblicato 'Advancing Astrophysics with the Ska - II', il nuovo Science Book di Skao, l'osservatorio che sta costruendo il più grande radiotelescopio del pianeta. Un volume monumentale, fatto di 221 capitoli, che non è solo un aggiornamento scientifico, ma la fotografia di un'intera comunità di ricerca proiettata verso il futuro. E in questa fotografia, il contributo italiano è semplicemente il più nitido. Un primato che si riflette anche nelle persone coinvolte: come ha sottolineato Isabella Prandoni dell'Inaf, gli scienziati italiani rappresentano quasi il 15 per cento del totale dei coautori. L'Italia è il paese con il maggior numero di contributi al volume, con la firma del 20 per cento dei capitoli e ricercatori che rappresentano quasi il 15 per cento del totale dei coautori.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "skao",
-        "inaf",
-        "isabella prandoni",
-        "italia"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 55,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/10/science-book-skao/"
-      },
-      "analysis": {
-        "mainFact": "È stato pubblicato il nuovo Science Book di Skao, 'Advancing Astrophysics with the Ska - II', composto da 221 capitoli.",
-        "whyItMatters": "L'Italia è il paese con il maggior numero di contributi al volume, con la firma del 20 per cento dei capitoli e ricercatori che rappresentano quasi il 15 per cento del totale dei coautori.",
-        "confirmedFacts": [
-          "È stato pubblicato il nuovo Science Book di Skao, 'Advancing Astrophysics with the Ska - II', composto da 221 capitoli.",
-          "L'Italia è il paese con il maggior numero di contributi al volume, con la firma del 20 per cento dei capitoli e ricercatori che rappresentano quasi il 15 per cento del totale dei coautori.",
-          "Isabella Prandoni (Inaf): «I nostri ricercatori rappresentano quasi il 15 per cento del totale dei coautori»"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Skao",
-          "INAF",
-          "Isabella Prandoni",
-          "Italia"
-        ],
-        "numbersAndDates": [
-          "221",
-          "20",
-          "15"
-        ]
-      }
-    },
-    {
-      "id": "story-f8ea2c15c73bc808",
-      "title": "L’esplosione del buco nero a 300mila anni luce",
-      "summary": "Grazie ai dati del satellite Xrism, un team guidato dall'Università di Tohoku ha scoperto che i venti emessi dai buchi neri supermassicci sono cento volte più potenti del previsto. L’analisi del quasar H1821+643 ha mostrato che la turbolenza generata da questi gas ad alta temperatura non resta confinata nella galassia ospite, ma si estende nello spazio intergalattico fino a 300mila anni luce",
-      "spokenText": "I venti emessi dai buchi neri supermassicci sono cento volte più potenti del previsto. L’analisi del quasar H1821+643 ha mostrato che la turbolenza generata da questi gas ad alta temperatura non resta confinata nella galassia ospite, ma si estende nello spazio intergalattico fino a 300mila anni luce.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "universita di tohoku",
-        "xrism",
-        "h1821 643"
+        "salute"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 19,
+      "estimatedSeconds": 7,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/11/estensione-emissione-buco-nero-xrism/"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/alimentazione/2026/08/11/gb-e-primo-paese-in-europa-ad-approvare-la-pillola-dimagrante_be0579b3-5812-4c88-8686-8bf7f7a73fe2.html"
       },
       "analysis": {
-        "mainFact": "I venti emessi dai buchi neri supermassicci sono cento volte più potenti del previsto.",
-        "whyItMatters": "L’analisi del quasar H1821+643 ha mostrato che la turbolenza generata da questi gas ad alta temperatura non resta confinata nella galassia ospite, ma si estende nello spazio intergalattico fino a 300mila anni luce",
+        "mainFact": "Gb è primo Paese in Europa ad approvare la pillola dimagrante",
+        "whyItMatters": "L'orforglipron già autorizzato negli Usa",
         "confirmedFacts": [
-          "I venti emessi dai buchi neri supermassicci sono cento volte più potenti del previsto.",
-          "L’analisi del quasar H1821+643 ha mostrato che la turbolenza generata da questi gas ad alta temperatura non resta confinata nella galassia ospite, ma si estende nello spazio intergalattico fino a 300mila anni luce"
-        ],
-        "uncertainties": [
-          "Grazie ai dati del satellite Xrism, un team guidato dall'Università di Tohoku ha scoperto che i venti emessi dai buchi neri supermassicci sono cento volte più potenti del previsto."
-        ],
-        "peopleAndOrganizations": [
-          "Università di Tohoku",
-          "Xrism",
-          "H1821+643"
-        ],
-        "numbersAndDates": [
-          "643"
-        ]
-      }
-    },
-    {
-      "id": "story-6cc60412ac5fc4a1",
-      "title": "La maglia che inganna il riconoscimento facciale: “Così diventiamo invisibili alle telecamere”",
-      "summary": "Negli Stati Uniti prende forma un nuovo progetto “avversario”. Obiettivo: contrastare il controllo massivo realizzato con l’IA. Un disegno stampato manderebbe in tilt le telecamere che cercano di individuare una persona o di leggere la targa di un’auto",
-      "spokenText": "Un semplice disegno stampato su una maglia può mandare in tilt i sistemi di riconoscimento facciale, rendendo una persona invisibile alle telecamere. L’obiettivo è contrastare il controllo massivo reso possibile dall’IA, offrendo uno strumento concreto per proteggere la privacy negli spazi pubblici sempre più sorvegliati.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 18,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/08/12/news/riconoscimento_facciale_maglia_invisibile_telecamere-425524774/"
-      },
-      "analysis": {
-        "mainFact": "La maglia che inganna il riconoscimento facciale: “Così diventiamo invisibili alle telecamere”",
-        "whyItMatters": "Obiettivo: contrastare il controllo massivo realizzato con l’IA.",
-        "confirmedFacts": [
-          "La maglia che inganna il riconoscimento facciale: “Così diventiamo invisibili alle telecamere”",
-          "Obiettivo: contrastare il controllo massivo realizzato con l’IA.",
-          "Un disegno stampato manderebbe in tilt le telecamere che cercano di individuare una persona o di leggere la targa di un’auto"
+          "Gb è primo Paese in Europa ad approvare la pillola dimagrante",
+          "L'orforglipron già autorizzato negli Usa"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -354,230 +149,428 @@
       }
     },
     {
-      "id": "story-199293fcb97009c2",
-      "title": "Svelata la natura del superammasso della Vela",
-      "summary": "La nuova ricostruzione realizzata con i dati del radiotelescopio sudafricano MeerKat mostra che il Superammasso della Vela (a oggi uno dei più imponenti agglomerati di materia del cosmo a noi vicino) possiede una struttura a doppio nucleo e una massa complessiva stimata in circa 340 milioni di miliardi di masse solari e si estende per oltre 220 milioni di anni luce",
-      "spokenText": "Hanno finalmente svelato la natura del superammasso della Vela, una di quelle strutture cosmiche che sfidano la nostra immaginazione.",
-      "category": "scienza",
+      "id": "story-5490cb2ca9f851a0",
+      "title": "Kiev colpisce raffineria russa. Putin visita isole Curili e riaccende disputa col Giappone",
+      "summary": "«Vendete all’Ucraina il 10% dei Patriot statunitensi e distruggeremo tutti i missili balistici russi»: lo dice il presidente ucraino Volodymyr Zelensky che, intervistato dalla Cnn, ribadisce il fatto che il...",
+      "spokenText": "Le forze ucraine hanno colpito la raffineria russa Gazprom Neftekhim Salavat, che ha preso fuoco in seguito all'attacco. La struttura era già stata bersaglio di droni a settembre 2025, il 18 e il 24, e aveva sospeso le attività dopo un altro attacco lo scorso 14 luglio. Sul piano diplomatico, il presidente Zelensky ha espresso dubbi su come si concretizzerà l'impegno del presidente Trump per consentire a Kiev di produrre missili Patriot, ricordando che l'Ucraina dispone solo di un decimo degli intercettori necessari. Zelensky ha inoltre ribadito che Putin non vuole fermare il conflitto e ha escluso cessioni territoriali.",
+      "category": "mondo",
       "tags": [
-        "scienza",
-        "superammasso della vela"
+        "mondo",
+        "ucraina",
+        "vladimir putin",
+        "stati uniti",
+        "donald trump",
+        "gazprom neftekhim salavat"
       ],
-      "importance": 75,
+      "importance": 60,
       "mustInclude": true,
-      "estimatedSeconds": 8,
+      "estimatedSeconds": 40,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/10/superammasso-della-vela/"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/zelensky-con-10percento-patriot-usa-distruggeremo-tutti-missili-russi-AJG8oTl"
       },
       "analysis": {
-        "mainFact": "È stata svelata la natura del superammasso della Vela.",
-        "whyItMatters": "",
+        "mainFact": "Kiev ha colpito una raffineria di petrolio russa, la Gazprom Neftekhim Salavat, che ha preso fuoco in seguito all'attacco.",
+        "whyItMatters": "Zelensky ha detto che persistono dubbi su come si concretizzerà l’apparente impegno del presidente Donald Trump a consentire all’Ucraina di produrre in proprio i missili Patriot.",
         "confirmedFacts": [
-          "È stata svelata la natura del superammasso della Vela."
+          "Kiev ha colpito una raffineria di petrolio russa, la Gazprom Neftekhim Salavat, che ha preso fuoco in seguito all'attacco.",
+          "Zelensky ha detto che persistono dubbi su come si concretizzerà l’apparente impegno del presidente Donald Trump a consentire all’Ucraina di produrre in proprio i missili Patriot.",
+          "Nel settembre 2025, la raffineria è stata attaccata due volte da droni ucraini, il 18 e il 24 settembre.",
+          "In seguito ad un attacco il 14 luglio di quest’anno, la raffineria aveva sospeso le attività.",
+          "Pressing di Zelensky sugli Usa: 'Con il 10% di Patriot distruggeremo tutti i missili russi'",
+          "Ucraina, 1.622° giorno di guerra Photogallery 25 foto Visualizza Il presidente russo Vladimir Putin «non vuole fermare questa guerra adesso e non c’è sufficiente pressione su di lui», ha aggiunto Zelensky, escludendo l’ipotesi che l’Ucraina possa cedere territori.",
+          "Stando a quanto riportato da Rbc-Ukraine la struttura, uno dei principali centri logistici della società di commercio online russa, ha preso fuoco dopo l’attacco delle forze ucraine.",
+          "L’Ucraina dispone solo di un decimo di intercettori di cui ha bisogno dagli Stati Uniti per fermare l’ondata di attacchi russi con missili balistici."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Superammasso della Vela"
+          "Ucraina",
+          "Vladimir Putin",
+          "Stati Uniti",
+          "Donald Trump",
+          "Gazprom Neftekhim Salavat"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "Nel settembre 2025, la raffineria è stata attaccata due volte da droni ucraini, il 18 e il 24 settembre.",
+          "In seguito ad un attacco il 14 luglio di quest’anno, la raffineria aveva sospeso le attività.",
+          "Pressing di Zelensky sugli Usa: 'Con il 10% di Patriot distruggeremo tutti i missili russi'",
+          "Ucraina, 1.622° giorno di guerra Photogallery 25 foto Visualizza Il presidente russo Vladimir Putin «non vuole fermare questa guerra adesso e non c’è sufficiente pressione su di lui», ha aggiunto Zelensky, escludendo l’ipotesi che l’Ucraina possa cedere territori."
+        ]
       }
     },
     {
-      "id": "story-6740162d9189d1ab",
-      "title": "Spotify, da metà settembre un'etichetta per gli artisti generati con l'IA",
-      "summary": "Spotify introdurrà da metà settembre un'etichetta per gli artisti generati con l'IA.",
-      "spokenText": "Spotify introdurrà un'etichetta chiamata AI Persona per gli artisti generati con l'intelligenza artificiale. La conseguenza principale è che la musica realizzata da questi artisti sarà esclusa di default dalle raccomandazioni personalizzate e da quelle editoriali.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "spotify"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/11/spotify-da-meta-settembre-unetichetta-per-gli-artisti-generati-con-lia_f14a389b-8284-42ca-bf8f-a885e2bd5c0c.html"
-      },
-      "analysis": {
-        "mainFact": "Spotify introdurrà da metà settembre un'etichetta per gli artisti generati con l'IA.",
-        "whyItMatters": "Etichettatura musica IA su Spotify, impatto su trasparenza e diritti d'autore.",
-        "confirmedFacts": [
-          "Spotify introdurrà da metà settembre un'etichetta per gli artisti generati con l'IA.",
-          "Etichettatura musica IA su Spotify, impatto su trasparenza e diritti d'autore.",
-          "La musica realizzata da artisti etichettati come AI Persona sarà esclusa di default dalle raccomandazioni personalizzate e da quelle editoriali."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Spotify"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-4cfa2836a5d1c282",
-      "title": "La sicurezza stradale è l’emergenza di cui la politica italiana non vuole occuparsi",
-      "summary": "Otto morti al giorno e riforme bloccate: i dati ISTAT rivelano un’ecatombe evitabile. Il fallimento del nuovo Codice della Strada e il modello Bologna ignorato: perché e come l'Italia è in ritardo sulla sicurezza stradale e sulle Città 30.",
-      "spokenText": "La sicurezza stradale è l’emergenza di cui la politica italiana non vuole occuparsi. Il nuovo Codice della Strada, da più parti considerato un fallimento, non ha prodotto i risultati sperati, mentre resta ignorato il modello di Bologna, dove le politiche di moderazione della velocità e le Città 30 hanno mostrato effetti concreti.",
+      "id": "story-20dd7b388a025dd7",
+      "title": "Gli agenti dell'Ice saranno dotati di guanti a scarica elettrica entro il 2027",
+      "summary": "Provocano dolore acuto ed immediato. Protestano le associazioni per i diritti umani",
+      "spokenText": "Entro il 2027 gli agenti dell'ICE saranno dotati di guanti a scarica elettrica. Il nome tecnico del nuovo dispositivo è G. L. O. V. E. acronimo di Generated Low Output Voltage Emitter, che in inglese significa guanto. Per rilasciare lo stimolo, il guanto deve essere a contatto con la pelle della persona e il dolore viene descritto come acuto e immediato. La consegna alle forze per l'immigrazione è prevista entro il 2027. Le associazioni per i diritti umani e per i diritti civili hanno protestato, perché il rischio è che il guanto possa facilitare un uso eccessivo della forza da parte degli agenti, a differenza del taser che deve comunque essere tirato fuori e acceso.",
       "category": "diritti",
       "tags": [
         "diritti",
-        "istat",
-        "italia",
-        "bologna"
+        "ice",
+        "g l o v e"
       ],
-      "importance": 82,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 21,
+      "estimatedSeconds": 46,
       "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/sicurezza-stradale-codice-salvini-fallimento/"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/gli-agenti-dellice-saranno-dotati-di-guanti-a-scarica-elettrica-entro-il-2027_f51a9e46-9e9d-400b-8b83-f8a5d0b9f204.html"
       },
       "analysis": {
-        "mainFact": "La sicurezza stradale è l’emergenza di cui la politica italiana non vuole occuparsi",
-        "whyItMatters": "I dati ISTAT rivelano un'ecatombe evitabile. Il fallimento del nuovo Codice della Strada e il modello Bologna ignorato: perché e come l'Italia è in ritardo sulla sicurezza stradale e sulle Città 30.",
+        "mainFact": "Gli agenti dell'Ice saranno dotati di guanti a scarica elettrica entro il 2027.",
+        "whyItMatters": "Provocano dolore acuto ed immediato.",
         "confirmedFacts": [
-          "La sicurezza stradale è l’emergenza di cui la politica italiana non vuole occuparsi",
-          "I dati ISTAT rivelano un'ecatombe evitabile. Il fallimento del nuovo Codice della Strada e il modello Bologna ignorato: perché e come l'Italia è in ritardo sulla sicurezza stradale e sulle Città 30.",
-          "Otto morti al giorno e riforme bloccate: i dati ISTAT rivelano un’ecatombe evitabile.",
-          "Il fallimento del nuovo Codice della Strada e il modello Bologna ignorato: perché e come l'Italia è in ritardo sulla sicurezza stradale e sulle Città 30."
+          "Gli agenti dell'Ice saranno dotati di guanti a scarica elettrica entro il 2027.",
+          "Provocano dolore acuto ed immediato.",
+          "Per rilasciare lo stimolo il guanto deve essere a contatto con la pelle della persona e il dolore viene descritto come acuto e immediato.",
+          "Il nome tecnico del nuovo dispositivo è G. L. O. V. E. (in inglese guanto), acronimo di Generated Low Output Voltage Emitter e dovrebbe essere cosegnato alle forze per l'immigrazione entro il 2027.",
+          "Protestano le associazioni per i diritti umani",
+          "Le associazioni per i diritti civili hanno protestato poiché il rischio è che il guanto possa facilitare un uso eccessivo della forza da parte degli agenti rispetto al taser che deve comunque essere tirato fuori e acceso."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "ISTAT",
-          "Italia",
-          "Bologna"
+          "ICE",
+          "G.L.O.V.E."
         ],
         "numbersAndDates": [
-          "30"
+          "Il nome tecnico del nuovo dispositivo è G. L. O. V. E. (in inglese guanto), acronimo di Generated Low Output Voltage Emitter e dovrebbe essere cosegnato alle forze per l'immigrazione entro il 2027.",
+          "2027"
         ]
       }
     },
     {
-      "id": "story-96245deeb3c496bb",
-      "title": "Le attività di volo agli aeroporti di Catania e Comiso sono sospese a causa dell'emissione di cenere dall'Etna",
-      "summary": "Attività ferme all’aeroporto ragusano per contaminazione da cenere vulcanica",
-      "spokenText": "L'emissione di cenere dall'Etna sta causando la sospensione delle attività di volo negli aeroporti di Catania e Comiso. Allo scalo internazionale Vincenzo Bellini le operazioni sono ferme fino alle 18, mentre al Pio La Torre di Comiso lo stop è previsto fino alle 10 ora locale. La Sac, società di gestione, ha confermato che la contaminazione da cenere vulcanica ha reso necessaria l'interruzione dei voli in entrambi gli scali.",
-      "category": "ambiente",
+      "id": "story-6d3e29fe96c43155",
+      "title": "Trump denunciato per i post in vendita su Truth: «Sistema corrotto e incostituzionale»",
+      "summary": "Azione intentata da due organizzazioni: sotto accusa il nuovo servizio che consente l’accesso a pagamento alle dichiarazioni del presidente, molte delle quali in grado di influenzare i mercati",
+      "spokenText": "Trump denunciato per i post in vendita su Truth: «Sistema corrotto e incostituzionale». Azione intentata da due organizzazioni: sotto accusa il nuovo servizio che consente l’accesso a pagamento alle dichiarazioni del presidente, molte delle quali in grado di influenzare i mercati. Trump Media ha annunciato a luglio che avrebbe offerto agli abbonati disposti a pagare fino a 100.000 dollari al mese l'accesso anticipato ai post \"in grado di influenzare i mercati\" pubblicati dal presidente e da altri utenti della piattaforma. «Il presidente - afferma la denuncia - intende avere guadagni economici dando informazioni governative in grado di muovere i mercati a quelli che sono disposti e possono pagare la sua società privata». Un portavoce di Trump Media ha dichiarato che «innumerevoli» piattaforme e testate giornalistiche — incluse molte che offrono feed in abbonamento — diffondono già le informazioni provenienti da Trump. Durante una teleconferenza sui risultati trimestrali tenutasi luned , l'amministratore delegato di Trump Media, Kevin McGurn, ha dichiarato di aver gi siglato oltre dieci contratti per le notifiche su Truth \"per un importo compreso tra i 60.000 e i 100.000 dollari al mese\". Trump è il maggiore azionista di Trump Media, con una quota del 41,3% — del valore di circa 950 milioni di dollari — detenuta tramite il suo Donald J.",
+      "category": "attualita",
       "tags": [
-        "ambiente",
-        "etna",
-        "aeroporto di comiso",
-        "sac"
+        "attualita",
+        "trump media"
       ],
-      "importance": 65,
+      "importance": 55,
       "mustInclude": true,
-      "estimatedSeconds": 28,
+      "estimatedSeconds": 86,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/trump-denunciato-i-post-vendita-truth-sistema-corrotto-e-incostituzionale-AJKUwOl"
+      },
+      "analysis": {
+        "mainFact": "Trump denunciato per i post in vendita su Truth: «Sistema corrotto e incostituzionale»",
+        "whyItMatters": "Azione intentata da due organizzazioni: sotto accusa il nuovo servizio che consente l’accesso a pagamento alle dichiarazioni del presidente, molte delle quali in grado di influenzare i mercati",
+        "confirmedFacts": [
+          "Trump denunciato per i post in vendita su Truth: «Sistema corrotto e incostituzionale»",
+          "Azione intentata da due organizzazioni: sotto accusa il nuovo servizio che consente l’accesso a pagamento alle dichiarazioni del presidente, molte delle quali in grado di influenzare i mercati",
+          "Trump Media ha annunciato a luglio che avrebbe offerto agli abbonati disposti a pagare fino a 100.000 dollari al mese l'accesso anticipato ai post \"in grado di influenzare i mercati\" pubblicati dal presidente e da altri utenti della piattaforma.",
+          "«Il presidente - afferma la denuncia - intende avere guadagni economici dando informazioni governative in grado di muovere i mercati a quelli che sono disposti e possono pagare la sua società privata».",
+          "Un portavoce di Trump Media ha dichiarato che «innumerevoli» piattaforme e testate giornalistiche — incluse molte che offrono feed in abbonamento — diffondono già le informazioni provenienti da Trump:",
+          "Durante una teleconferenza sui risultati trimestrali tenutasi luned , l'amministratore delegato di Trump Media, Kevin McGurn, ha dichiarato di aver gi siglato oltre dieci contratti per le notifiche su Truth \"per un importo compreso tra i 60.000 e i 100.000 dollari al mese\".",
+          "Trump è il maggiore azionista di Trump Media, con una quota del 41,3% — del valore di circa 950 milioni di dollari — detenuta tramite il suo Donald J.",
+          "Forbes ha stimato che il patrimonio personale di Trump è salito da 2,3 a 6,5 miliardi di dollari dopo il suo ritorno alla casa Bianca."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Trump Media"
+        ],
+        "numbersAndDates": [
+          "Trump Media ha annunciato a luglio che avrebbe offerto agli abbonati disposti a pagare fino a 100.000 dollari al mese l'accesso anticipato ai post \"in grado di influenzare i mercati\" pubblicati dal presidente e da altri utenti della piattaforma.",
+          "Trump è il maggiore azionista di Trump Media, con una quota del 41,3% — del valore di circa 950 milioni di dollari — detenuta tramite il suo Donald J.",
+          "Forbes ha stimato che il patrimonio personale di Trump è salito da 2,3 a 6,5 miliardi di dollari dopo il suo ritorno alla casa Bianca."
+        ]
+      }
+    },
+    {
+      "id": "story-1e26dda067621afe",
+      "title": "“Autolesionismo e tentativi di suicidio”: in un rapporto militare l’incubo dei marinai sulla Lincoln",
+      "summary": "Parlano le mogli dei soldati statunitensi bloccati da 210 giorni sulla portaerei nel Golfo: “Ci hanno riferito che cercavano di buttarsi giù in mare. Hanno paura, temono di essere congedati con disonore”",
+      "spokenText": "“Autolesionismo e tentativi di suicidio”: in un rapporto militare l’incubo dei marinai sulla Lincoln.",
+      "category": "diritti",
+      "tags": [
+        "diritti"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 6,
       "source": {
         "name": "La Repubblica",
-        "url": "https://palermo.repubblica.it/cronaca/2026/08/12/news/etna_voli_sospesi_fino_alle_18_a_catania_e_fino_alle_10_a_comiso-425524712/"
+        "url": "https://www.repubblica.it/esteri/2026/08/13/news/autolesionismo_tentativi_di_suicidio_rapporto_militare_incubo_marinai_usa_lincoln-425526805/"
       },
       "analysis": {
-        "mainFact": "Le attività di volo agli aeroporti di Catania e Comiso sono sospese a causa dell'emissione di cenere dall'Etna.",
-        "whyItMatters": "Emissione di cenere dall'Etna, sospese le attività di volo a Catania fino alle 18",
+        "mainFact": "“Autolesionismo e tentativi di suicidio”: in un rapporto militare l’incubo dei marinai sulla Lincoln",
+        "whyItMatters": "Crisi salute mentale in contesto militare prolungato, tocca diritti umani e benessere psicologico.",
         "confirmedFacts": [
-          "Le attività di volo agli aeroporti di Catania e Comiso sono sospese a causa dell'emissione di cenere dall'Etna.",
-          "Emissione di cenere dall'Etna, sospese le attività di volo a Catania fino alle 18",
-          "\"Contestualmente - aggiunge la Sac - le operazioni di volo all'aeroporto di Comiso sono sospese fino alle 10 ora locale per contaminazione da cenere vulcanica\".",
-          "Continuano a restare sospese le attività di volo a Catania e Comiso per l'emergenza cenere lavica dell'Etna : all'aeroporto internazionale Vincenzo Bellini fino alle 18 e al Pio La Torre fino alle 10."
+          "“Autolesionismo e tentativi di suicidio”: in un rapporto militare l’incubo dei marinai sulla Lincoln",
+          "Crisi salute mentale in contesto militare prolungato, tocca diritti umani e benessere psicologico."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Etna",
-          "Aeroporto di Comiso",
-          "Sac"
-        ],
-        "numbersAndDates": [
-          "\"Contestualmente - aggiunge la Sac - le operazioni di volo all'aeroporto di Comiso sono sospese fino alle 10 ora locale per contaminazione da cenere vulcanica\".",
-          "Continuano a restare sospese le attività di volo a Catania e Comiso per l'emergenza cenere lavica dell'Etna : all'aeroporto internazionale Vincenzo Bellini fino alle 18 e al Pio La Torre fino alle 10.",
-          "18"
-        ]
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-f0639c72a33e2fb9",
-      "title": "La NASA ha completato lo sviluppo e i test del Lunar Environment Monitoring Station (LEMS), il primo payload per la superficie lunare del programma",
-      "summary": "La NASA ha completato lo sviluppo e i test del Lunar Environment Monitoring Station (LEMS), il primo payload per la superficie lunare del programma Artemis. L'ingegnere meccanico Brie Ludwig ispeziona la Lunar Environment Monitoring Station (LEMS) in preparazione ai test in una camera a vuoto termico al Goddard Space Flight Center di Greenbelt, Maryland, il 31 marzo 2026.",
-      "spokenText": "La NASA ha completato lo sviluppo e i test del Lunar Environment Monitoring Station, o LEMS, il primo strumento scientifico destinato alla superficie lunare nell'ambito del programma Artemis. tra il 1969 e il 1972, gli astronauti delle missioni Apollo dispiegarono una rete di sismometri nella regione equatoriale del lato visibile della Luna. Ora, con LEMS, si torna a progettare un monitoraggio ambientale diretto sul suolo selenico. L'ingegnere meccanico Brie Ludwig è stata immortalata mentre ispezionava l'unità in preparazione ai test in una camera a vuoto termico, condotti al Goddard Space Flight Center di Greenbelt, nel Maryland, lo scorso 31 marzo 2026.",
+      "id": "story-cc35261f1b04a4d4",
+      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+      "summary": "NASA Data Helps Commercial Space Plan Living Off Our Moon \"Con 60 anni di dati lunari a nostra disposizione, aiutiamo i nostri clienti a comprendere i fattori ambientali per qualsiasi luogo sulla Luna\", ha detto Blair DeWitt, CEO di Lunar Station.",
+      "spokenText": "NASA Data Helps Commercial Space Plan Living Off Our Moon. \"Con 60 anni di dati lunari a nostra disposizione, aiutiamo i nostri clienti a comprendere i fattori ambientali per qualsiasi luogo sulla Luna\", ha detto Blair DeWitt, CEO di Lunar Station. Questa immagine a falsi colori è un composito di 15 immagini della Luna scattate attraverso tre filtri colorati sul sistema di imaging a stato solido Galileo della NASA. Per iniziare a colmare questa lacuna, il Lunar Crater Observation and Sensing Satellite è stato progettato per schiantare il suo stadio superiore nel Polo Sud della Luna nel 2009. Per 50 anni, la NASA ha documentato i benefici quotidiani della tecnologia spaziale attraverso la pubblicazione Spinoff dell'agenzia.",
       "category": "scienza",
       "tags": [
         "scienza",
         "nasa",
-        "lunar environment monitoring station lems",
-        "goddard space flight center"
+        "blair dewitt"
       ],
-      "importance": 85,
+      "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 41,
+      "estimatedSeconds": 47,
       "source": {
         "name": "NASA Releases",
-        "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/"
+        "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
       },
       "analysis": {
-        "mainFact": "La NASA ha completato lo sviluppo e i test del Lunar Environment Monitoring Station (LEMS), il primo payload per la superficie lunare del programma Artemis.",
-        "whyItMatters": "L'ingegnere meccanico Brie Ludwig ispeziona la Lunar Environment Monitoring Station (LEMS) in preparazione ai test in una camera a vuoto termico al Goddard Space Flight Center di Greenbelt, Maryland, il 31 marzo 2026.",
+        "mainFact": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+        "whyItMatters": "\"Con 60 anni di dati lunari a nostra disposizione, aiutiamo i nostri clienti a comprendere i fattori ambientali per qualsiasi luogo sulla Luna\", ha detto Blair DeWitt, CEO di Lunar Station.",
         "confirmedFacts": [
-          "La NASA ha completato lo sviluppo e i test del Lunar Environment Monitoring Station (LEMS), il primo payload per la superficie lunare del programma Artemis.",
-          "L'ingegnere meccanico Brie Ludwig ispeziona la Lunar Environment Monitoring Station (LEMS) in preparazione ai test in una camera a vuoto termico al Goddard Space Flight Center di Greenbelt, Maryland, il 31 marzo 2026.",
-          "Gli astronauti dell'Apollo dispiegarono una rete di sismometri nella regione equatoriale del lato vicino della Luna tra il 1969 e il 1972."
+          "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+          "\"Con 60 anni di dati lunari a nostra disposizione, aiutiamo i nostri clienti a comprendere i fattori ambientali per qualsiasi luogo sulla Luna\", ha detto Blair DeWitt, CEO di Lunar Station.",
+          "Questa immagine a falsi colori è un composito di 15 immagini della Luna scattate attraverso tre filtri colorati sul sistema di imaging a stato solido Galileo della NASA.",
+          "Per iniziare a colmare questa lacuna, il Lunar Crater Observation and Sensing Satellite è stato progettato per schiantare il suo stadio superiore nel Polo Sud della Luna nel 2009.",
+          "Per 50 anni, la NASA ha documentato i benefici quotidiani della tecnologia spaziale attraverso la pubblicazione Spinoff dell'agenzia."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "NASA",
-          "Lunar Environment Monitoring Station (LEMS)",
-          "Goddard Space Flight Center"
+          "Blair DeWitt"
         ],
         "numbersAndDates": [
-          "Gli astronauti dell'Apollo dispiegarono una rete di sismometri nella regione equatoriale del lato vicino della Luna tra il 1969 e il 1972.",
-          "31",
-          "2026"
+          "Questa immagine a falsi colori è un composito di 15 immagini della Luna scattate attraverso tre filtri colorati sul sistema di imaging a stato solido Galileo della NASA.",
+          "Per iniziare a colmare questa lacuna, il Lunar Crater Observation and Sensing Satellite è stato progettato per schiantare il suo stadio superiore nel Polo Sud della Luna nel 2009.",
+          "Per 50 anni, la NASA ha documentato i benefici quotidiani della tecnologia spaziale attraverso la pubblicazione Spinoff dell'agenzia.",
+          "60"
         ]
       }
     },
     {
-      "id": "story-9693d3b041244702",
-      "title": "Il Regno Unito vedrà la migliore eclissi solare dal 1999, con la Luna che oscurerà fino al 96% del Sole",
-      "summary": "Il Regno Unito vedrà la migliore eclissi solare dal 1999, con la Luna che oscurerà fino al 96% del Sole. la prossima eclissi di simile portata per le isole britanniche sarà nel 2081 e la prossima totale nel 2090.",
-      "spokenText": "La Luna oscurerà fino al 96% del Sole. un evento che raggiungerà la massima copertura in Cornovaglia e nelle zone occidentali del Pembrokeshire, in Galles. Ma la totalità sarà un'esperienza riservata a una ristretta porzione dell'emisfero settentrionale: la fascia d'ombra toccherà infatti Spagna, Portogallo, Groenlandia, Islanda e parte della Russia. In Spagna, città come Bilbao, Valencia e Palma di Maiorca potranno contare su cieli sereni per osservare l'eclissi totale. Il picco di questo spettacolo celeste, a seconda del punto di osservazione, è previsto tra le 20:26 e le 20:33 ora locale, ovvero le 19:26-19:33 BST. Per le isole britanniche si tratta di un appuntamento raro. la prossima eclissi di simile portata per le isole britanniche sarà nel 2081 e la prossima totale nel 2090. Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi nella sua pienezza, con il 94%-96% del Sole oscurato dalla Luna. L'Islanda occidentale e la Spagna settentrionale sono tra le poche località dell'emisfero settentrionale che sperimenteranno un'eclissi solare totale il 12 agosto 2026.",
+      "id": "story-4ba65a8ea4b93064",
+      "title": "Il Wall Street Journal riporta che droni ucraini hanno travolto un'unità americana durante un'esercitazione",
+      "summary": "In Germania mezzi di Kiev “eliminano” una brigata corazzata Usa",
+      "spokenText": "Il Wall Street Journal ha riportato che durante un'esercitazione in Germania droni ucraini hanno travolto un'unità americana. In Germania mezzi di Kiev “eliminano” una brigata corazzata Usa.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "germania"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 11,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/wsj-droni-ucraini-travolgono-unita-americana-esercitazione-AJKQGGl"
+      },
+      "analysis": {
+        "mainFact": "Il Wall Street Journal riporta che droni ucraini hanno travolto un'unità americana durante un'esercitazione.",
+        "whyItMatters": "Secondo funzionari statunitensi, i droni ucraini sono riusciti a \"eliminare\" una brigata corazzata americana in un'esercitazione in Germania.",
+        "confirmedFacts": [
+          "Il Wall Street Journal riporta che droni ucraini hanno travolto un'unità americana durante un'esercitazione.",
+          "Secondo funzionari statunitensi, i droni ucraini sono riusciti a \"eliminare\" una brigata corazzata americana in un'esercitazione in Germania.",
+          "In Germania mezzi di Kiev “eliminano” una brigata corazzata Usa"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Germania"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-f8c8d72423b2330d",
+      "title": "Il Regno Unito avrà la migliore eclissi dal 1999 mentre la Luna blocca il Sole sull'Europa",
+      "summary": "Il Regno Unito avrà la migliore eclissi dal 1999 mentre la Luna blocca il Sole sull'Europa Nel Regno Unito fino al 96% del Sole sarà coperto dalla Luna, mentre in zone di Spagna, Groenlandia, Islanda, Portogallo e Russia l'eclissi sarà totale.",
+      "spokenText": "Il Regno Unito si prepara alla migliore eclissi solare dal 1999, con la Luna che bloccherà il Sole sull'Europa. Nel Regno Unito, fino al 96% del disco solare sarà coperto dalla Luna, a seconda della località. L'eclissi sarà totale anche in zone di Groenlandia, Islanda, Portogallo e Russia. Per le Isole Britanniche, la prossima volta che la Luna oscurerà una simile porzione di Sole sarà nel 2081, e la prossima eclissi solare totale nel Regno Unito avverrà nel 2090. Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi al suo massimo, con il 94%-96% del Sole oscurato dalla Luna. Per i fortunati che si trovano in Spagna, ci saranno cieli sereni per vedere un'eclissi totale a Bilbao, Valencia e Palma di Maiorca, mentre sia Barcellona che Madrid vedranno una copertura superiore al 99%. APOD: 2026 August 13 – Total Solar Eclipse Over Spain.",
       "category": "scienza",
       "tags": [
         "scienza",
         "russia"
       ],
-      "importance": 75,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 68,
+      "estimatedSeconds": 58,
       "source": {
         "name": "BBC News - Science & Environment",
         "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Il Regno Unito vedrà la migliore eclissi solare dal 1999, con la Luna che oscurerà fino al 96% del Sole.",
-        "whyItMatters": "la prossima eclissi di simile portata per le isole britanniche sarà nel 2081 e la prossima totale nel 2090.",
+        "mainFact": "Il Regno Unito avrà la migliore eclissi dal 1999 mentre la Luna blocca il Sole sull'Europa",
+        "whyItMatters": "Nel Regno Unito fino al 96% del Sole sarà coperto dalla Luna, mentre in zone di Spagna, Groenlandia, Islanda, Portogallo e Russia l'eclissi sarà totale.",
         "confirmedFacts": [
-          "Il Regno Unito vedrà la migliore eclissi solare dal 1999, con la Luna che oscurerà fino al 96% del Sole.",
-          "la prossima eclissi di simile portata per le isole britanniche sarà nel 2081 e la prossima totale nel 2090.",
-          "Fino al 96% del Sole sarà coperto dalla Luna nel Regno Unito, mentre parti di Spagna, Groenlandia, Islanda, Portogallo e Russia vedranno un'eclissi totale.",
-          "Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi nella sua pienezza, con il 94%-96% del Sole oscurato dalla Luna.",
-          "Per chi è abbastanza fortunato da trovarsi in Spagna, ci saranno cieli sereni per vedere un'eclissi totale a Bilbao, Valencia e Palma di Maiorca, mentre Barcellona e Madrid vedranno una copertura superiore al 99%.",
-          "A seconda della località, l'eclissi totale raggiungerà il picco tra le 20:26 e le 20:33 ora locale (19:26-19:33 BST).",
-          "L'Islanda occidentale e la Spagna settentrionale sono tra le poche località dell'emisfero settentrionale che sperimenteranno un'eclissi solare totale il 12 agosto 2026."
+          "Il Regno Unito avrà la migliore eclissi dal 1999 mentre la Luna blocca il Sole sull'Europa",
+          "Nel Regno Unito fino al 96% del Sole sarà coperto dalla Luna, mentre in zone di Spagna, Groenlandia, Islanda, Portogallo e Russia l'eclissi sarà totale.",
+          "Sarà visibile in tutto il Regno Unito, con fino al 96% del disco solare coperto dalla Luna, a seconda della località.",
+          "Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi al suo massimo, con il 94%-96% del Sole oscurato dalla Luna.",
+          "Per i fortunati che si trovano in Spagna, ci saranno cieli sereni per vedere un'eclissi totale a Bilbao, Valencia e Palma di Maiorca, mentre sia Barcellona che Madrid vedranno una copertura superiore al 99%.",
+          "La prossima volta che la Luna oscurerà una simile porzione di Sole sulle Isole Britanniche sarà nel 2081, e la prossima eclissi solare totale nel Regno Unito sarà nel 2090.",
+          "APOD: 2026 August 13 – Total Solar Eclipse Over Spain"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Russia"
         ],
         "numbersAndDates": [
-          "Fino al 96% del Sole sarà coperto dalla Luna nel Regno Unito, mentre parti di Spagna, Groenlandia, Islanda, Portogallo e Russia vedranno un'eclissi totale.",
-          "Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi nella sua pienezza, con il 94%-96% del Sole oscurato dalla Luna.",
-          "Per chi è abbastanza fortunato da trovarsi in Spagna, ci saranno cieli sereni per vedere un'eclissi totale a Bilbao, Valencia e Palma di Maiorca, mentre Barcellona e Madrid vedranno una copertura superiore al 99%.",
-          "A seconda della località, l'eclissi totale raggiungerà il picco tra le 20:26 e le 20:33 ora locale (19:26-19:33 BST).",
-          "L'Islanda occidentale e la Spagna settentrionale sono tra le poche località dell'emisfero settentrionale che sperimenteranno un'eclissi solare totale il 12 agosto 2026.",
+          "Sarà visibile in tutto il Regno Unito, con fino al 96% del disco solare coperto dalla Luna, a seconda della località.",
+          "Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi al suo massimo, con il 94%-96% del Sole oscurato dalla Luna.",
+          "Per i fortunati che si trovano in Spagna, ci saranno cieli sereni per vedere un'eclissi totale a Bilbao, Valencia e Palma di Maiorca, mentre sia Barcellona che Madrid vedranno una copertura superiore al 99%.",
+          "La prossima volta che la Luna oscurerà una simile porzione di Sole sulle Isole Britanniche sarà nel 2081, e la prossima eclissi solare totale nel Regno Unito sarà nel 2090.",
+          "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
           "1999",
-          "96",
-          "2081",
-          "2090"
+          "96"
+        ]
+      }
+    },
+    {
+      "id": "story-ac4f555941fc8a1b",
+      "title": "Coloni israeliani assediano famiglie palestinesi in un villaggio della Cisgiordania",
+      "summary": "Coloni israeliani assediano famiglie palestinesi in un villaggio della Cisgiordania. Ha scritto: \"Viviamo nella nostra casa, sulla nostra terra, e non chiediamo altro che il diritto di vivere in sicurezza e con dignità. \" Aysha Hassan ha riferito a Reuters che i coloni hanno \"cercato di sfondare il cancello\" di casa e \"hanno iniziato a lanciarci pietre, imprecando e insultandoci\".",
+      "spokenText": "Coloni israeliani hanno assediato famiglie palestinesi in un villaggio della Cisgiordania. Aysha Hassan ha riferito a Reuters che i coloni hanno cercato di sfondare il cancello di casa e hanno iniziato a lanciare pietre, imprecando e insultando. Hassan ha scritto: \"Viviamo nella nostra casa, sulla nostra terra, e non chiediamo altro che il diritto di vivere in sicurezza e con dignità\". In risposta a quanto accaduto, saranno inviate più truppe nel villaggio.",
+      "category": "diritti",
+      "tags": [
+        "diritti"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 29,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Coloni israeliani assediano famiglie palestinesi in un villaggio della Cisgiordania.",
+        "whyItMatters": "Saranno inviate più truppe nel villaggio della Cisgiordania assediato dai coloni israeliani. Ha scritto: \"Viviamo nella nostra casa, sulla nostra terra, e non chiediamo altro che il diritto di vivere in sicurezza e con dignità. \" Aysha Hassan ha riferito a Reuters che i coloni hanno \"cercato di sfondare il cancello\" di casa e \"hanno iniziato a lanciarci pietre, imprecando e insultandoci\".",
+        "confirmedFacts": [
+          "Coloni israeliani assediano famiglie palestinesi in un villaggio della Cisgiordania.",
+          "Saranno inviate più truppe nel villaggio della Cisgiordania assediato dai coloni israeliani. Ha scritto: \"Viviamo nella nostra casa, sulla nostra terra, e non chiediamo altro che il diritto di vivere in sicurezza e con dignità. \" Aysha Hassan ha riferito a Reuters che i coloni hanno \"cercato di sfondare il cancello\" di casa e \"hanno iniziato a lanciarci pietre, imprecando e insultandoci\".",
+          "More troops to be sent to West Bank village besieged by Israeli settlers",
+          "He wrote: \"We are living in our own home, on our own land, and we are asking for nothing more than the right to live safely and with dignity.\" Aysha Hassan told Reuters the settlers had \"tried to break the gate\" to the house and \"started throwing stones at us, cursing and insulting us\"."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-7f2916bde37b8de9",
+      "title": "Sei investitori di Anthropic, citati in forma anonima, prevedono una quotazione in borsa già a ottobre 2026 con una valutazione di almeno 2",
+      "summary": "Una valutazione di almeno 2.000 miliardi di dollari e una quotazione già a ottobre 2026: è lo scenario previsto da sei investitori di Anthropic, citati in forma anonima. La stima si fonda sulla rapida...",
+      "spokenText": "A tratteggiare questa prospettiva sono sei investitori della società, che hanno parlato in forma anonima e che immaginano una valutazione di almeno duemila miliardi di dollari. Sei investitori di Anthropic, citati in forma anonima, prevedono una quotazione in borsa già a ottobre 2026 con una valutazione di almeno 2.000 miliardi di dollari.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "anthropic"
+      ],
+      "importance": 65,
+      "mustInclude": true,
+      "estimatedSeconds": 21,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/anthropic-in-borsa-a-ottobre-investitori-puntano-a-2-000-miliardi"
+      },
+      "analysis": {
+        "mainFact": "Sei investitori di Anthropic, citati in forma anonima, prevedono una quotazione in borsa già a ottobre 2026 con una valutazione di almeno 2.000 miliardi di dollari.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Sei investitori di Anthropic, citati in forma anonima, prevedono una quotazione in borsa già a ottobre 2026 con una valutazione di almeno 2.000 miliardi di dollari.",
+          "Una valutazione di almeno 2.000 miliardi di dollari e una quotazione già a ottobre 2026: è lo scenario previsto da sei investitori di Anthropic, citati in forma anonima."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Anthropic"
+        ],
+        "numbersAndDates": [
+          "2026",
+          "2.000"
+        ]
+      }
+    },
+    {
+      "id": "story-01dca6592639a5a1",
+      "title": "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 mph (654 km/h) sulle Bonneville",
+      "summary": "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 mph (654 km/h) sulle Bonneville Salt Flats nello Utah.",
+      "spokenText": "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 miglia orarie, circa 654 chilometri orari, sulle Bonneville Salt Flats nello Utah. Green, ex pilota della Royal Air Force di 64 anni, era già stato il primo a infrangere la barriera del suono su terra e deteneva anche il record per veicoli diesel con la JCB Dieselmax, superando le 350 miglia orarie. Ora, al volante della Hydromax, ha portato un'auto a idrogeno alla velocità più alta mai registrata per questa tecnologia. Guarda: Veicolo a idrogeno tenta un record mondiale presso le Bonneville Salt Flats dello Utah Di Yang Tian Pubblicato il 12 agosto 2026 Un pilota britannico che fu la prima persona a infrangere la barriera del suono in un'auto su terra ha stabilito un nuovo record di velocità, questa volta in un veicolo a.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "andy green",
+        "jcb",
+        "bonneville salt flats",
+        "hydromax"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 58,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 mph (654 km/h) sulle Bonneville Salt Flats nello Utah.",
+        "whyItMatters": "Andy Green, un ex pilota della Royal Air Force di 64 anni, ha raggiunto una velocità di 406 mph (654 km/h) presso le Bonneville Salt Flats nello Utah, la più alta mai raggiunta da un'auto a idrogeno.",
+        "confirmedFacts": [
+          "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 mph (654 km/h) sulle Bonneville Salt Flats nello Utah.",
+          "Andy Green, un ex pilota della Royal Air Force di 64 anni, ha raggiunto una velocità di 406 mph (654 km/h) presso le Bonneville Salt Flats nello Utah, la più alta mai raggiunta da un'auto a idrogeno.",
+          "Guarda: Veicolo a idrogeno tenta un record mondiale presso le Bonneville Salt Flats dello Utah Di Yang Tian Pubblicato il 12 agosto 2026 Un pilota britannico che fu la prima persona a infrangere la barriera del suono in un'auto su terra ha stabilito un nuovo record di velocità, questa volta in un veicolo a",
+          "Green stabilì anche un record mondiale di velocità su terra per un veicolo diesel con la JCB Dieselmax, raggiungendo una velocità di oltre 350 mph (563 km/h)."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Andy Green",
+          "JCB",
+          "Bonneville Salt Flats",
+          "Hydromax"
+        ],
+        "numbersAndDates": [
+          "Guarda: Veicolo a idrogeno tenta un record mondiale presso le Bonneville Salt Flats dello Utah Di Yang Tian Pubblicato il 12 agosto 2026 Un pilota britannico che fu la prima persona a infrangere la barriera del suono in un'auto su terra ha stabilito un nuovo record di velocità, questa volta in un veicolo a",
+          "Green stabilì anche un record mondiale di velocità su terra per un veicolo diesel con la JCB Dieselmax, raggiungendo una velocità di oltre 350 mph (563 km/h).",
+          "406",
+          "654",
+          "64"
+        ]
+      }
+    },
+    {
+      "id": "story-a87d4d6e7819a9ad",
+      "title": "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata, secondo il capo dell'OMS",
+      "summary": "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata, secondo il capo dell'OMS.",
+      "spokenText": "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata. L'Ebola è una malattia virale rara ma estremamente mortale, i cui sintomi possono manifestarsi in un arco di tempo che va da due a ventuno giorni dopo l'infezione.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "who",
+        "tedros adhanom ghebreyesus",
+        "uganda",
+        "dr congo"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata, secondo il capo dell'OMS.",
+        "whyItMatters": "Epidemia Ebola potenzialmente la più letale di sempre. Implicazioni sanitarie globali sistemiche.",
+        "confirmedFacts": [
+          "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata, secondo il capo dell'OMS.",
+          "Epidemia Ebola potenzialmente la più letale di sempre. Implicazioni sanitarie globali sistemiche.",
+          "L'Ebola è una malattia virale rara ma mortale, con sintomi che compaiono entro due-21 giorni dall'infezione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "WHO",
+          "Tedros Adhanom Ghebreyesus",
+          "Uganda",
+          "DR Congo"
+        ],
+        "numbersAndDates": [
+          "L'Ebola è una malattia virale rara ma mortale, con sintomi che compaiono entro due-21 giorni dall'infezione.",
+          "2026"
         ]
       }
     }
