@@ -1,576 +1,652 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-13-afe0d9370e02",
-  "generatedAt": "2026-08-13T08:58:09.320Z",
+  "catalogId": "daily-quid-2026-08-15-f582c2b47a30",
+  "generatedAt": "2026-08-15T05:55:45.706Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-241359f2f03de793",
-      "title": "Guerra ultime notizie. «Chiazze di petrolio dalle navi colpite»: a Hormuz è allarme ambientale",
-      "summary": "Navi colpite hanno causato chiazze di petrolio nello Stretto di Hormuz, generando un allarme ambientale per una scia inquinante in espansione che coprirebbe oltre 2.000 chilometri quadrati. Lo riporta l’Agenzia nazionale di stampa libanese, aggiungendo che aerei da guerra israeliani hanno colpito la città di Al-Mansouri in due ondate successive durante la notte, e che il suono delle esplosioni è stato udito a Tiro.",
-      "spokenText": "Nello Stretto di Hormuz, navi colpite hanno generato chiazze di petrolio che si stanno espandendo in una scia inquinante di oltre duemila chilometri quadrati, sollevando un allarme ambientale. L’area ospita una ricca fauna marina, con tartarughe, delfini e balene. L’agenzia nazionale di stampa libanese riferisce che aerei da guerra israeliani hanno colpito Al-Mansouri in due ondate notturne, con esplosioni udite fino a Tiro. Intanto, Hojjatoleslam Hossein Taeb, comandante dell’organizzazione paramilitare Basij affiliata ai Pasdaran, ha dichiarato che lo Stretto di Hormuz è sotto il controllo e la gestione dell’Iran, aggiungendo che il Paese procede in totale sicurezza.",
+      "id": "story-ad89d739a0b8212a",
+      "title": "Giappone, piogge torrenziali su Tokyo, la metropoli finisce sott'acqua",
+      "summary": "Piogge torrenziali su Tokyo, la metropoli finisce sott'acqua. I meteorologi: 'Clima impazzito'",
+      "spokenText": "Tokyo e la prefettura di Chiba sono state colpite da piogge torrenziali di intensità mai registrata prima, un evento che le autorità locali non esitano a definire senza precedenti. A Chiba, situata a est della capitale, in sole 12 ore sono caduti 348 millimetri di pioggia, una quantità pari a tre volte quella normalmente attesa per l’intero mese di agosto. La situazione ha assunto contorni critici quando, per la prima volta dall’entrata in vigore dei nuovi sistemi di allerta a maggio, è scattato il Livello 5, il massimo della scala, per il rischio di piogge torrenziali e frane in oltre un terzo dei centri urbani della prefettura. Il governatore di Chiba, Toshihito Kumagai, ha dichiarato di trovarsi di fronte a una situazione senza precedenti anche per gli standard meteorologici storici del Giappone, ammettendo di non aver mai affrontato un disastro di questa portata in tutta la sua esperienza. L’impatto infrastrutturale è stato immediato e paralizzante: l’aeroporto di Narita è andato in tilt, bloccando circa 7mila persone, mentre le interruzioni di corrente hanno colpito oltre 20.000 abitazioni. Diversi servizi ferroviari rimangono sospesi, importanti autostrade sono state chiuse e più di 100.000 famiglie hanno ricevuto l’invito a evacuare a causa delle frane e dei blackout. I meteorologi parlano di un clima ormai impazzito.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "stretto di hormuz",
-        "iran",
-        "hojjatoleslam hossein taeb",
-        "pasdaran"
+        "giappone",
+        "tokyo",
+        "chiba",
+        "narita",
+        "toshihito kumagai"
       ],
-      "importance": 70,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 39,
+      "estimatedSeconds": 85,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-cia-scettica-minacce-trump-informazioni-israeliane-poco-attendibili-AJaIZSl"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/14/piogge-torrenziali-in-giappone-6-morti-e-aeroporto-di-narita-in-tilt_d3c0eb87-6b39-487a-bcc1-c9632fcc4fc0.html"
       },
       "analysis": {
-        "mainFact": "Navi colpite hanno causato chiazze di petrolio nello Stretto di Hormuz, generando un allarme ambientale per una scia inquinante in espansione che coprirebbe oltre 2.000 chilometri quadrati.",
-        "whyItMatters": "Lo riporta l’Agenzia nazionale di stampa libanese, aggiungendo che aerei da guerra israeliani hanno colpito la città di Al-Mansouri in due ondate successive durante la notte, e che il suono delle esplosioni è stato udito a Tiro.",
+        "mainFact": "Piogge torrenziali su Tokyo, la metropoli finisce sott'acqua.",
+        "whyItMatters": "I meteorologi: 'Clima impazzito'",
         "confirmedFacts": [
-          "Navi colpite hanno causato chiazze di petrolio nello Stretto di Hormuz, generando un allarme ambientale per una scia inquinante in espansione che coprirebbe oltre 2.000 chilometri quadrati.",
-          "Lo riporta l’Agenzia nazionale di stampa libanese, aggiungendo che aerei da guerra israeliani hanno colpito la città di Al-Mansouri in due ondate successive durante la notte, e che il suono delle esplosioni è stato udito a Tiro.",
-          "Anche l’area colpita ospita una ricca fauna marina, tra cui tartarughe, delfini e balene.",
-          "«Hormuz è sotto controllo iraniano» Hojjatoleslam Hossein Taeb, c omandante dell’organizzazione paramilitare Basij affiliata ai Pasdaran , ha dichiarato che lo Stretto di Hormuz è «sotto il controllo e la gestione dell’Iran».",
-          "«Oggi si può constatare ch e lo Stretto di Hormuz è sotto la gestione e il controllo della Repubblica Islamica , e il nostro Paese prosegue il proprio cammino in totale sicurezza», ha dichiarato Taeb in un intervento riportato dall’agenzia di stampa semi-ufficiale iraniana Fars.",
-          "La petroliera Caroline Bezengi, che trasportava circa 800.000 barili di petrolio russo ed era soggetta a sanzioni internazionali, si è arenata il 30 giugno."
+          "Piogge torrenziali su Tokyo, la metropoli finisce sott'acqua.",
+          "I meteorologi: 'Clima impazzito'",
+          "Per la prima volta, da quando a maggio, sono entrati in vigore i nuovi sistemi di allerta, è scattato il Livello 5, il massimo della scala, per rischio di piogge torrenziali e frane in oltre un terzo dei centri urbani della prefettura.",
+          "\"Una situazione senza precedenti anche per gli standard meteorologici storici del Giappone\", ha dichiarato il governatore di Chiba, Toshihito Kumagai, ammettendo di non aver mai affrontato prima d'ora, in tutta la sua esperienza, un disastro di questa portata.",
+          "Aeroporto Narita in tilt: bloccate 7mila persone A Chiba, situata a est di Tokyo, in 12 ore sono caduti 348 millimetri di pioggia, una quantità pari a tre volte quella normalmente registrata nell’intero mese di agosto.",
+          "Le piogge, definite dalle autorità “senza precedenti”, hanno causato interruzioni di corrente in oltre 20.000 abitazioni .",
+          "Diversi servizi ferroviari rimangono sospesi, mentre alcune importanti autostrade sono chiuse e oltre 100.000 famiglie sono state invitate a evacuare a seguito delle frane e delle interruzioni di corrente provocate dalle piogge."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Stretto di Hormuz",
-          "Iran",
-          "Hojjatoleslam Hossein Taeb",
-          "Pasdaran"
+          "Giappone",
+          "Tokyo",
+          "Chiba",
+          "Narita",
+          "Toshihito Kumagai"
         ],
         "numbersAndDates": [
-          "La petroliera Caroline Bezengi, che trasportava circa 800.000 barili di petrolio russo ed era soggetta a sanzioni internazionali, si è arenata il 30 giugno.",
-          "2.000"
+          "Per la prima volta, da quando a maggio, sono entrati in vigore i nuovi sistemi di allerta, è scattato il Livello 5, il massimo della scala, per rischio di piogge torrenziali e frane in oltre un terzo dei centri urbani della prefettura.",
+          "Aeroporto Narita in tilt: bloccate 7mila persone A Chiba, situata a est di Tokyo, in 12 ore sono caduti 348 millimetri di pioggia, una quantità pari a tre volte quella normalmente registrata nell’intero mese di agosto.",
+          "Le piogge, definite dalle autorità “senza precedenti”, hanno causato interruzioni di corrente in oltre 20.000 abitazioni .",
+          "Diversi servizi ferroviari rimangono sospesi, mentre alcune importanti autostrade sono chiuse e oltre 100.000 famiglie sono state invitate a evacuare a seguito delle frane e delle interruzioni di corrente provocate dalle piogge."
         ]
       }
     },
     {
-      "id": "story-0f44897489f1c3e6",
-      "title": "Caldo estremo in Gb, Burnham riunisce il comitato Cobra e vieta i barbecue",
-      "summary": "Meeting d'emergenza su incendi e su effetti cambiamento climatico su salute e sicurezza",
-      "spokenText": "Burnham ha riunito nel pomeriggio il comitato per le emergenze Cobra, presiedendo una seduta ad hoc per discutere dei contraccolpi sulla salute, sulla sicurezza e sull'economia legati all'allerta meteo in atto. A margine dell'incontro, ha formalizzato l'iniziativa di vietare i barbecue, una misura concreta per ridurre il rischio di incendi in questa fase critica.",
+      "id": "story-4b877d4d427993eb",
+      "title": "Indonesia, terremoto di magnitudo 7,7 al largo dell’isola di Flores. Crolli e almeno 20 vittine",
+      "summary": "Il vasto arcipelago indonesiano è soggetto a frequente attività sismica e vulcanica a causa della sua posizione lungo la \"Cintura di fuoco del Pacifico\". Revocato l’allarme tsunami",
+      "spokenText": "Una scossa di magnitudo 7. 7 ha colpito il mare al largo dell’isola di Flores, in Indonesia, provocando crolli e almeno venti vittime. L’evento ha fatto scattare un allarme tsunami, poi revocato nelle ore successive. 1. L’arcipelago indonesiano si trova lungo la Cintura di fuoco del Pacifico, una delle zone a più elevata attività sismica e vulcanica del pianeta, e la sua storia conferma la vulnerabilità del territorio: nel 1992 la stessa isola di Flores fu teatro di un terremoto di magnitudo 7. 7, che generò uno tsunami causando circa 2.500 morti. Sono seguite decine di scosse di assestamento, la più potente di magnitudo 6,1.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "burnham",
-        "comitato cobra"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/caldo-estremo-in-gb-burnham-riunisce-il-comitato-cobra-e-vieta-i-barbecue_8cdd6c90-602d-42cb-8339-fc203cb3625d.html"
-      },
-      "analysis": {
-        "mainFact": "Burnham riunisce il comitato Cobra e vieta i barbecue",
-        "whyItMatters": "Meeting d'emergenza su incendi e su effetti cambiamento climatico su salute e sicurezza",
-        "confirmedFacts": [
-          "Burnham riunisce il comitato Cobra e vieta i barbecue",
-          "Meeting d'emergenza su incendi e su effetti cambiamento climatico su salute e sicurezza",
-          "Burnham ha formalizzato l'iniziativa a margine di una riunione ad hoc del comitato per le emergenze Cobra, presieduta nel pomeriggio per discutere dei contraccolpi sulla salute, sulla sicurezza e sull'economia legati all'allerta meteo in atto."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Burnham",
-          "comitato Cobra"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-5080bd19f80180a4",
-      "title": "Cibi ultraprocessati: la nuova sfida della salute pubblica",
-      "summary": "Dalla Commissione Lancet 2025 sui cibi ultraprocessati allo studio Nature 2026: ecco perché la prevenzione dei tumori e delle malattie croniche passa per una riforma strutturale del sistema alimentare globale.",
-      "spokenText": "La prevenzione dei tumori e delle malattie croniche richiede una riforma strutturale del sistema alimentare globale, secondo la Commissione Lancet 2025 e uno studio Nature 2026.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "commissione lancet",
-        "nature"
-      ],
-      "importance": 92,
-      "mustInclude": true,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/cibi-ultraprocessati-dieta-sfida-salute-pubblica/"
-      },
-      "analysis": {
-        "mainFact": "La prevenzione dei tumori e delle malattie croniche richiede una riforma strutturale del sistema alimentare globale, secondo la Commissione Lancet 2025 e uno studio Nature 2026.",
-        "whyItMatters": "Analisi sistemica su cibi ultraprocessati, prevenzione tumori e riforma alimentare. Altamente rilevante per scienza e salute.",
-        "confirmedFacts": [
-          "La prevenzione dei tumori e delle malattie croniche richiede una riforma strutturale del sistema alimentare globale, secondo la Commissione Lancet 2025 e uno studio Nature 2026.",
-          "Analisi sistemica su cibi ultraprocessati, prevenzione tumori e riforma alimentare. Altamente rilevante per scienza e salute.",
-          "Dalla Commissione Lancet 2025 sui cibi ultraprocessati allo studio Nature 2026: ecco perché la prevenzione dei tumori e delle malattie croniche passa per una riforma strutturale del sistema alimentare globale."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Commissione Lancet",
-          "Nature"
-        ],
-        "numbersAndDates": [
-          "2025",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-79165ba8a73b6be7",
-      "title": "Gb è primo Paese in Europa ad approvare la pillola dimagrante",
-      "summary": "L'orforglipron già autorizzato negli Usa",
-      "spokenText": "Gb è primo Paese in Europa ad approvare la pillola dimagrante. L'orforglipron già autorizzato negli Usa.",
-      "category": "salute",
-      "tags": [
-        "salute"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 7,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/alimentazione/2026/08/11/gb-e-primo-paese-in-europa-ad-approvare-la-pillola-dimagrante_be0579b3-5812-4c88-8686-8bf7f7a73fe2.html"
-      },
-      "analysis": {
-        "mainFact": "Gb è primo Paese in Europa ad approvare la pillola dimagrante",
-        "whyItMatters": "L'orforglipron già autorizzato negli Usa",
-        "confirmedFacts": [
-          "Gb è primo Paese in Europa ad approvare la pillola dimagrante",
-          "L'orforglipron già autorizzato negli Usa"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-5490cb2ca9f851a0",
-      "title": "Kiev colpisce raffineria russa. Putin visita isole Curili e riaccende disputa col Giappone",
-      "summary": "«Vendete all’Ucraina il 10% dei Patriot statunitensi e distruggeremo tutti i missili balistici russi»: lo dice il presidente ucraino Volodymyr Zelensky che, intervistato dalla Cnn, ribadisce il fatto che il...",
-      "spokenText": "Le forze ucraine hanno colpito la raffineria russa Gazprom Neftekhim Salavat, che ha preso fuoco in seguito all'attacco. La struttura era già stata bersaglio di droni a settembre 2025, il 18 e il 24, e aveva sospeso le attività dopo un altro attacco lo scorso 14 luglio. Sul piano diplomatico, il presidente Zelensky ha espresso dubbi su come si concretizzerà l'impegno del presidente Trump per consentire a Kiev di produrre missili Patriot, ricordando che l'Ucraina dispone solo di un decimo degli intercettori necessari. Zelensky ha inoltre ribadito che Putin non vuole fermare il conflitto e ha escluso cessioni territoriali.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "ucraina",
-        "vladimir putin",
-        "stati uniti",
-        "donald trump",
-        "gazprom neftekhim salavat"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 40,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/zelensky-con-10percento-patriot-usa-distruggeremo-tutti-missili-russi-AJG8oTl"
-      },
-      "analysis": {
-        "mainFact": "Kiev ha colpito una raffineria di petrolio russa, la Gazprom Neftekhim Salavat, che ha preso fuoco in seguito all'attacco.",
-        "whyItMatters": "Zelensky ha detto che persistono dubbi su come si concretizzerà l’apparente impegno del presidente Donald Trump a consentire all’Ucraina di produrre in proprio i missili Patriot.",
-        "confirmedFacts": [
-          "Kiev ha colpito una raffineria di petrolio russa, la Gazprom Neftekhim Salavat, che ha preso fuoco in seguito all'attacco.",
-          "Zelensky ha detto che persistono dubbi su come si concretizzerà l’apparente impegno del presidente Donald Trump a consentire all’Ucraina di produrre in proprio i missili Patriot.",
-          "Nel settembre 2025, la raffineria è stata attaccata due volte da droni ucraini, il 18 e il 24 settembre.",
-          "In seguito ad un attacco il 14 luglio di quest’anno, la raffineria aveva sospeso le attività.",
-          "Pressing di Zelensky sugli Usa: 'Con il 10% di Patriot distruggeremo tutti i missili russi'",
-          "Ucraina, 1.622° giorno di guerra Photogallery 25 foto Visualizza Il presidente russo Vladimir Putin «non vuole fermare questa guerra adesso e non c’è sufficiente pressione su di lui», ha aggiunto Zelensky, escludendo l’ipotesi che l’Ucraina possa cedere territori.",
-          "Stando a quanto riportato da Rbc-Ukraine la struttura, uno dei principali centri logistici della società di commercio online russa, ha preso fuoco dopo l’attacco delle forze ucraine.",
-          "L’Ucraina dispone solo di un decimo di intercettori di cui ha bisogno dagli Stati Uniti per fermare l’ondata di attacchi russi con missili balistici."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Ucraina",
-          "Vladimir Putin",
-          "Stati Uniti",
-          "Donald Trump",
-          "Gazprom Neftekhim Salavat"
-        ],
-        "numbersAndDates": [
-          "Nel settembre 2025, la raffineria è stata attaccata due volte da droni ucraini, il 18 e il 24 settembre.",
-          "In seguito ad un attacco il 14 luglio di quest’anno, la raffineria aveva sospeso le attività.",
-          "Pressing di Zelensky sugli Usa: 'Con il 10% di Patriot distruggeremo tutti i missili russi'",
-          "Ucraina, 1.622° giorno di guerra Photogallery 25 foto Visualizza Il presidente russo Vladimir Putin «non vuole fermare questa guerra adesso e non c’è sufficiente pressione su di lui», ha aggiunto Zelensky, escludendo l’ipotesi che l’Ucraina possa cedere territori."
-        ]
-      }
-    },
-    {
-      "id": "story-20dd7b388a025dd7",
-      "title": "Gli agenti dell'Ice saranno dotati di guanti a scarica elettrica entro il 2027",
-      "summary": "Provocano dolore acuto ed immediato. Protestano le associazioni per i diritti umani",
-      "spokenText": "Entro il 2027 gli agenti dell'ICE saranno dotati di guanti a scarica elettrica. Il nome tecnico del nuovo dispositivo è G. L. O. V. E. acronimo di Generated Low Output Voltage Emitter, che in inglese significa guanto. Per rilasciare lo stimolo, il guanto deve essere a contatto con la pelle della persona e il dolore viene descritto come acuto e immediato. La consegna alle forze per l'immigrazione è prevista entro il 2027. Le associazioni per i diritti umani e per i diritti civili hanno protestato, perché il rischio è che il guanto possa facilitare un uso eccessivo della forza da parte degli agenti, a differenza del taser che deve comunque essere tirato fuori e acceso.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "ice",
-        "g l o v e"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 46,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/gli-agenti-dellice-saranno-dotati-di-guanti-a-scarica-elettrica-entro-il-2027_f51a9e46-9e9d-400b-8b83-f8a5d0b9f204.html"
-      },
-      "analysis": {
-        "mainFact": "Gli agenti dell'Ice saranno dotati di guanti a scarica elettrica entro il 2027.",
-        "whyItMatters": "Provocano dolore acuto ed immediato.",
-        "confirmedFacts": [
-          "Gli agenti dell'Ice saranno dotati di guanti a scarica elettrica entro il 2027.",
-          "Provocano dolore acuto ed immediato.",
-          "Per rilasciare lo stimolo il guanto deve essere a contatto con la pelle della persona e il dolore viene descritto come acuto e immediato.",
-          "Il nome tecnico del nuovo dispositivo è G. L. O. V. E. (in inglese guanto), acronimo di Generated Low Output Voltage Emitter e dovrebbe essere cosegnato alle forze per l'immigrazione entro il 2027.",
-          "Protestano le associazioni per i diritti umani",
-          "Le associazioni per i diritti civili hanno protestato poiché il rischio è che il guanto possa facilitare un uso eccessivo della forza da parte degli agenti rispetto al taser che deve comunque essere tirato fuori e acceso."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ICE",
-          "G.L.O.V.E."
-        ],
-        "numbersAndDates": [
-          "Il nome tecnico del nuovo dispositivo è G. L. O. V. E. (in inglese guanto), acronimo di Generated Low Output Voltage Emitter e dovrebbe essere cosegnato alle forze per l'immigrazione entro il 2027.",
-          "2027"
-        ]
-      }
-    },
-    {
-      "id": "story-6d3e29fe96c43155",
-      "title": "Trump denunciato per i post in vendita su Truth: «Sistema corrotto e incostituzionale»",
-      "summary": "Azione intentata da due organizzazioni: sotto accusa il nuovo servizio che consente l’accesso a pagamento alle dichiarazioni del presidente, molte delle quali in grado di influenzare i mercati",
-      "spokenText": "Trump denunciato per i post in vendita su Truth: «Sistema corrotto e incostituzionale». Azione intentata da due organizzazioni: sotto accusa il nuovo servizio che consente l’accesso a pagamento alle dichiarazioni del presidente, molte delle quali in grado di influenzare i mercati. Trump Media ha annunciato a luglio che avrebbe offerto agli abbonati disposti a pagare fino a 100.000 dollari al mese l'accesso anticipato ai post \"in grado di influenzare i mercati\" pubblicati dal presidente e da altri utenti della piattaforma. «Il presidente - afferma la denuncia - intende avere guadagni economici dando informazioni governative in grado di muovere i mercati a quelli che sono disposti e possono pagare la sua società privata». Un portavoce di Trump Media ha dichiarato che «innumerevoli» piattaforme e testate giornalistiche — incluse molte che offrono feed in abbonamento — diffondono già le informazioni provenienti da Trump. Durante una teleconferenza sui risultati trimestrali tenutasi luned , l'amministratore delegato di Trump Media, Kevin McGurn, ha dichiarato di aver gi siglato oltre dieci contratti per le notifiche su Truth \"per un importo compreso tra i 60.000 e i 100.000 dollari al mese\". Trump è il maggiore azionista di Trump Media, con una quota del 41,3% — del valore di circa 950 milioni di dollari — detenuta tramite il suo Donald J.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "trump media"
-      ],
-      "importance": 55,
-      "mustInclude": true,
-      "estimatedSeconds": 86,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/trump-denunciato-i-post-vendita-truth-sistema-corrotto-e-incostituzionale-AJKUwOl"
-      },
-      "analysis": {
-        "mainFact": "Trump denunciato per i post in vendita su Truth: «Sistema corrotto e incostituzionale»",
-        "whyItMatters": "Azione intentata da due organizzazioni: sotto accusa il nuovo servizio che consente l’accesso a pagamento alle dichiarazioni del presidente, molte delle quali in grado di influenzare i mercati",
-        "confirmedFacts": [
-          "Trump denunciato per i post in vendita su Truth: «Sistema corrotto e incostituzionale»",
-          "Azione intentata da due organizzazioni: sotto accusa il nuovo servizio che consente l’accesso a pagamento alle dichiarazioni del presidente, molte delle quali in grado di influenzare i mercati",
-          "Trump Media ha annunciato a luglio che avrebbe offerto agli abbonati disposti a pagare fino a 100.000 dollari al mese l'accesso anticipato ai post \"in grado di influenzare i mercati\" pubblicati dal presidente e da altri utenti della piattaforma.",
-          "«Il presidente - afferma la denuncia - intende avere guadagni economici dando informazioni governative in grado di muovere i mercati a quelli che sono disposti e possono pagare la sua società privata».",
-          "Un portavoce di Trump Media ha dichiarato che «innumerevoli» piattaforme e testate giornalistiche — incluse molte che offrono feed in abbonamento — diffondono già le informazioni provenienti da Trump:",
-          "Durante una teleconferenza sui risultati trimestrali tenutasi luned , l'amministratore delegato di Trump Media, Kevin McGurn, ha dichiarato di aver gi siglato oltre dieci contratti per le notifiche su Truth \"per un importo compreso tra i 60.000 e i 100.000 dollari al mese\".",
-          "Trump è il maggiore azionista di Trump Media, con una quota del 41,3% — del valore di circa 950 milioni di dollari — detenuta tramite il suo Donald J.",
-          "Forbes ha stimato che il patrimonio personale di Trump è salito da 2,3 a 6,5 miliardi di dollari dopo il suo ritorno alla casa Bianca."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Trump Media"
-        ],
-        "numbersAndDates": [
-          "Trump Media ha annunciato a luglio che avrebbe offerto agli abbonati disposti a pagare fino a 100.000 dollari al mese l'accesso anticipato ai post \"in grado di influenzare i mercati\" pubblicati dal presidente e da altri utenti della piattaforma.",
-          "Trump è il maggiore azionista di Trump Media, con una quota del 41,3% — del valore di circa 950 milioni di dollari — detenuta tramite il suo Donald J.",
-          "Forbes ha stimato che il patrimonio personale di Trump è salito da 2,3 a 6,5 miliardi di dollari dopo il suo ritorno alla casa Bianca."
-        ]
-      }
-    },
-    {
-      "id": "story-1e26dda067621afe",
-      "title": "“Autolesionismo e tentativi di suicidio”: in un rapporto militare l’incubo dei marinai sulla Lincoln",
-      "summary": "Parlano le mogli dei soldati statunitensi bloccati da 210 giorni sulla portaerei nel Golfo: “Ci hanno riferito che cercavano di buttarsi giù in mare. Hanno paura, temono di essere congedati con disonore”",
-      "spokenText": "“Autolesionismo e tentativi di suicidio”: in un rapporto militare l’incubo dei marinai sulla Lincoln.",
-      "category": "diritti",
-      "tags": [
-        "diritti"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/13/news/autolesionismo_tentativi_di_suicidio_rapporto_militare_incubo_marinai_usa_lincoln-425526805/"
-      },
-      "analysis": {
-        "mainFact": "“Autolesionismo e tentativi di suicidio”: in un rapporto militare l’incubo dei marinai sulla Lincoln",
-        "whyItMatters": "Crisi salute mentale in contesto militare prolungato, tocca diritti umani e benessere psicologico.",
-        "confirmedFacts": [
-          "“Autolesionismo e tentativi di suicidio”: in un rapporto militare l’incubo dei marinai sulla Lincoln",
-          "Crisi salute mentale in contesto militare prolungato, tocca diritti umani e benessere psicologico."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-cc35261f1b04a4d4",
-      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-      "summary": "NASA Data Helps Commercial Space Plan Living Off Our Moon \"Con 60 anni di dati lunari a nostra disposizione, aiutiamo i nostri clienti a comprendere i fattori ambientali per qualsiasi luogo sulla Luna\", ha detto Blair DeWitt, CEO di Lunar Station.",
-      "spokenText": "NASA Data Helps Commercial Space Plan Living Off Our Moon. \"Con 60 anni di dati lunari a nostra disposizione, aiutiamo i nostri clienti a comprendere i fattori ambientali per qualsiasi luogo sulla Luna\", ha detto Blair DeWitt, CEO di Lunar Station. Questa immagine a falsi colori è un composito di 15 immagini della Luna scattate attraverso tre filtri colorati sul sistema di imaging a stato solido Galileo della NASA. Per iniziare a colmare questa lacuna, il Lunar Crater Observation and Sensing Satellite è stato progettato per schiantare il suo stadio superiore nel Polo Sud della Luna nel 2009. Per 50 anni, la NASA ha documentato i benefici quotidiani della tecnologia spaziale attraverso la pubblicazione Spinoff dell'agenzia.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "blair dewitt"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 47,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
-      },
-      "analysis": {
-        "mainFact": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-        "whyItMatters": "\"Con 60 anni di dati lunari a nostra disposizione, aiutiamo i nostri clienti a comprendere i fattori ambientali per qualsiasi luogo sulla Luna\", ha detto Blair DeWitt, CEO di Lunar Station.",
-        "confirmedFacts": [
-          "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-          "\"Con 60 anni di dati lunari a nostra disposizione, aiutiamo i nostri clienti a comprendere i fattori ambientali per qualsiasi luogo sulla Luna\", ha detto Blair DeWitt, CEO di Lunar Station.",
-          "Questa immagine a falsi colori è un composito di 15 immagini della Luna scattate attraverso tre filtri colorati sul sistema di imaging a stato solido Galileo della NASA.",
-          "Per iniziare a colmare questa lacuna, il Lunar Crater Observation and Sensing Satellite è stato progettato per schiantare il suo stadio superiore nel Polo Sud della Luna nel 2009.",
-          "Per 50 anni, la NASA ha documentato i benefici quotidiani della tecnologia spaziale attraverso la pubblicazione Spinoff dell'agenzia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Blair DeWitt"
-        ],
-        "numbersAndDates": [
-          "Questa immagine a falsi colori è un composito di 15 immagini della Luna scattate attraverso tre filtri colorati sul sistema di imaging a stato solido Galileo della NASA.",
-          "Per iniziare a colmare questa lacuna, il Lunar Crater Observation and Sensing Satellite è stato progettato per schiantare il suo stadio superiore nel Polo Sud della Luna nel 2009.",
-          "Per 50 anni, la NASA ha documentato i benefici quotidiani della tecnologia spaziale attraverso la pubblicazione Spinoff dell'agenzia.",
-          "60"
-        ]
-      }
-    },
-    {
-      "id": "story-4ba65a8ea4b93064",
-      "title": "Il Wall Street Journal riporta che droni ucraini hanno travolto un'unità americana durante un'esercitazione",
-      "summary": "In Germania mezzi di Kiev “eliminano” una brigata corazzata Usa",
-      "spokenText": "Il Wall Street Journal ha riportato che durante un'esercitazione in Germania droni ucraini hanno travolto un'unità americana. In Germania mezzi di Kiev “eliminano” una brigata corazzata Usa.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "germania"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/wsj-droni-ucraini-travolgono-unita-americana-esercitazione-AJKQGGl"
-      },
-      "analysis": {
-        "mainFact": "Il Wall Street Journal riporta che droni ucraini hanno travolto un'unità americana durante un'esercitazione.",
-        "whyItMatters": "Secondo funzionari statunitensi, i droni ucraini sono riusciti a \"eliminare\" una brigata corazzata americana in un'esercitazione in Germania.",
-        "confirmedFacts": [
-          "Il Wall Street Journal riporta che droni ucraini hanno travolto un'unità americana durante un'esercitazione.",
-          "Secondo funzionari statunitensi, i droni ucraini sono riusciti a \"eliminare\" una brigata corazzata americana in un'esercitazione in Germania.",
-          "In Germania mezzi di Kiev “eliminano” una brigata corazzata Usa"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Germania"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f8c8d72423b2330d",
-      "title": "Il Regno Unito avrà la migliore eclissi dal 1999 mentre la Luna blocca il Sole sull'Europa",
-      "summary": "Il Regno Unito avrà la migliore eclissi dal 1999 mentre la Luna blocca il Sole sull'Europa Nel Regno Unito fino al 96% del Sole sarà coperto dalla Luna, mentre in zone di Spagna, Groenlandia, Islanda, Portogallo e Russia l'eclissi sarà totale.",
-      "spokenText": "Il Regno Unito si prepara alla migliore eclissi solare dal 1999, con la Luna che bloccherà il Sole sull'Europa. Nel Regno Unito, fino al 96% del disco solare sarà coperto dalla Luna, a seconda della località. L'eclissi sarà totale anche in zone di Groenlandia, Islanda, Portogallo e Russia. Per le Isole Britanniche, la prossima volta che la Luna oscurerà una simile porzione di Sole sarà nel 2081, e la prossima eclissi solare totale nel Regno Unito avverrà nel 2090. Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi al suo massimo, con il 94%-96% del Sole oscurato dalla Luna. Per i fortunati che si trovano in Spagna, ci saranno cieli sereni per vedere un'eclissi totale a Bilbao, Valencia e Palma di Maiorca, mentre sia Barcellona che Madrid vedranno una copertura superiore al 99%. APOD: 2026 August 13 – Total Solar Eclipse Over Spain.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "russia"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 58,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Il Regno Unito avrà la migliore eclissi dal 1999 mentre la Luna blocca il Sole sull'Europa",
-        "whyItMatters": "Nel Regno Unito fino al 96% del Sole sarà coperto dalla Luna, mentre in zone di Spagna, Groenlandia, Islanda, Portogallo e Russia l'eclissi sarà totale.",
-        "confirmedFacts": [
-          "Il Regno Unito avrà la migliore eclissi dal 1999 mentre la Luna blocca il Sole sull'Europa",
-          "Nel Regno Unito fino al 96% del Sole sarà coperto dalla Luna, mentre in zone di Spagna, Groenlandia, Islanda, Portogallo e Russia l'eclissi sarà totale.",
-          "Sarà visibile in tutto il Regno Unito, con fino al 96% del disco solare coperto dalla Luna, a seconda della località.",
-          "Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi al suo massimo, con il 94%-96% del Sole oscurato dalla Luna.",
-          "Per i fortunati che si trovano in Spagna, ci saranno cieli sereni per vedere un'eclissi totale a Bilbao, Valencia e Palma di Maiorca, mentre sia Barcellona che Madrid vedranno una copertura superiore al 99%.",
-          "La prossima volta che la Luna oscurerà una simile porzione di Sole sulle Isole Britanniche sarà nel 2081, e la prossima eclissi solare totale nel Regno Unito sarà nel 2090.",
-          "APOD: 2026 August 13 – Total Solar Eclipse Over Spain"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Russia"
-        ],
-        "numbersAndDates": [
-          "Sarà visibile in tutto il Regno Unito, con fino al 96% del disco solare coperto dalla Luna, a seconda della località.",
-          "Cornovaglia e le parti occidentali del Pembrokeshire in Galles vedranno l'eclissi al suo massimo, con il 94%-96% del Sole oscurato dalla Luna.",
-          "Per i fortunati che si trovano in Spagna, ci saranno cieli sereni per vedere un'eclissi totale a Bilbao, Valencia e Palma di Maiorca, mentre sia Barcellona che Madrid vedranno una copertura superiore al 99%.",
-          "La prossima volta che la Luna oscurerà una simile porzione di Sole sulle Isole Britanniche sarà nel 2081, e la prossima eclissi solare totale nel Regno Unito sarà nel 2090.",
-          "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
-          "1999",
-          "96"
-        ]
-      }
-    },
-    {
-      "id": "story-ac4f555941fc8a1b",
-      "title": "Coloni israeliani assediano famiglie palestinesi in un villaggio della Cisgiordania",
-      "summary": "Coloni israeliani assediano famiglie palestinesi in un villaggio della Cisgiordania. Ha scritto: \"Viviamo nella nostra casa, sulla nostra terra, e non chiediamo altro che il diritto di vivere in sicurezza e con dignità. \" Aysha Hassan ha riferito a Reuters che i coloni hanno \"cercato di sfondare il cancello\" di casa e \"hanno iniziato a lanciarci pietre, imprecando e insultandoci\".",
-      "spokenText": "Coloni israeliani hanno assediato famiglie palestinesi in un villaggio della Cisgiordania. Aysha Hassan ha riferito a Reuters che i coloni hanno cercato di sfondare il cancello di casa e hanno iniziato a lanciare pietre, imprecando e insultando. Hassan ha scritto: \"Viviamo nella nostra casa, sulla nostra terra, e non chiediamo altro che il diritto di vivere in sicurezza e con dignità\". In risposta a quanto accaduto, saranno inviate più truppe nel villaggio.",
-      "category": "diritti",
-      "tags": [
-        "diritti"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 29,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Coloni israeliani assediano famiglie palestinesi in un villaggio della Cisgiordania.",
-        "whyItMatters": "Saranno inviate più truppe nel villaggio della Cisgiordania assediato dai coloni israeliani. Ha scritto: \"Viviamo nella nostra casa, sulla nostra terra, e non chiediamo altro che il diritto di vivere in sicurezza e con dignità. \" Aysha Hassan ha riferito a Reuters che i coloni hanno \"cercato di sfondare il cancello\" di casa e \"hanno iniziato a lanciarci pietre, imprecando e insultandoci\".",
-        "confirmedFacts": [
-          "Coloni israeliani assediano famiglie palestinesi in un villaggio della Cisgiordania.",
-          "Saranno inviate più truppe nel villaggio della Cisgiordania assediato dai coloni israeliani. Ha scritto: \"Viviamo nella nostra casa, sulla nostra terra, e non chiediamo altro che il diritto di vivere in sicurezza e con dignità. \" Aysha Hassan ha riferito a Reuters che i coloni hanno \"cercato di sfondare il cancello\" di casa e \"hanno iniziato a lanciarci pietre, imprecando e insultandoci\".",
-          "More troops to be sent to West Bank village besieged by Israeli settlers",
-          "He wrote: \"We are living in our own home, on our own land, and we are asking for nothing more than the right to live safely and with dignity.\" Aysha Hassan told Reuters the settlers had \"tried to break the gate\" to the house and \"started throwing stones at us, cursing and insulting us\"."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-7f2916bde37b8de9",
-      "title": "Sei investitori di Anthropic, citati in forma anonima, prevedono una quotazione in borsa già a ottobre 2026 con una valutazione di almeno 2",
-      "summary": "Una valutazione di almeno 2.000 miliardi di dollari e una quotazione già a ottobre 2026: è lo scenario previsto da sei investitori di Anthropic, citati in forma anonima. La stima si fonda sulla rapida...",
-      "spokenText": "A tratteggiare questa prospettiva sono sei investitori della società, che hanno parlato in forma anonima e che immaginano una valutazione di almeno duemila miliardi di dollari. Sei investitori di Anthropic, citati in forma anonima, prevedono una quotazione in borsa già a ottobre 2026 con una valutazione di almeno 2.000 miliardi di dollari.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "anthropic"
+        "indonesia",
+        "flores",
+        "cintura di fuoco del pacifico"
       ],
       "importance": 65,
       "mustInclude": true,
-      "estimatedSeconds": 21,
+      "estimatedSeconds": 42,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/anthropic-in-borsa-a-ottobre-investitori-puntano-a-2-000-miliardi"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/15/news/indonesia_terremoto_forte_scossa_isola_di_flores_allerta_tsunami-425529993/"
       },
       "analysis": {
-        "mainFact": "Sei investitori di Anthropic, citati in forma anonima, prevedono una quotazione in borsa già a ottobre 2026 con una valutazione di almeno 2.000 miliardi di dollari.",
-        "whyItMatters": "",
+        "mainFact": "Terremoto di magnitudo 7,7 al largo dell'isola di Flores in Indonesia.",
+        "whyItMatters": "Il vasto arcipelago indonesiano è soggetto a frequente attività sismica e vulcanica a causa della sua posizione lungo la \"Cintura di fuoco del Pacifico\".",
         "confirmedFacts": [
-          "Sei investitori di Anthropic, citati in forma anonima, prevedono una quotazione in borsa già a ottobre 2026 con una valutazione di almeno 2.000 miliardi di dollari.",
-          "Una valutazione di almeno 2.000 miliardi di dollari e una quotazione già a ottobre 2026: è lo scenario previsto da sei investitori di Anthropic, citati in forma anonima."
+          "Terremoto di magnitudo 7,7 al largo dell'isola di Flores in Indonesia.",
+          "Il vasto arcipelago indonesiano è soggetto a frequente attività sismica e vulcanica a causa della sua posizione lungo la \"Cintura di fuoco del Pacifico\".",
+          "Crolli e almeno 20 vittine",
+          "Revocato l’allarme tsunami",
+          "Sono seguite decine di scosse di assestamento, la più potente di magnitudo 6,1.",
+          "Nel 1992 Flores fu colpita da un terremoto di magnitudo 7. 7, che provocò uno tsunami causando circa 2.500 morti.",
+          "Terremoto di magnitudo 7."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Anthropic"
+          "Indonesia",
+          "Flores",
+          "Cintura di fuoco del Pacifico"
         ],
         "numbersAndDates": [
-          "2026",
-          "2.000"
+          "Crolli e almeno 20 vittine",
+          "Sono seguite decine di scosse di assestamento, la più potente di magnitudo 6,1.",
+          "Nel 1992 Flores fu colpita da un terremoto di magnitudo 7. 7, che provocò uno tsunami causando circa 2.500 morti.",
+          "Terremoto di magnitudo 7.",
+          "7,7"
         ]
       }
     },
     {
-      "id": "story-01dca6592639a5a1",
-      "title": "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 mph (654 km/h) sulle Bonneville",
-      "summary": "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 mph (654 km/h) sulle Bonneville Salt Flats nello Utah.",
-      "spokenText": "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 miglia orarie, circa 654 chilometri orari, sulle Bonneville Salt Flats nello Utah. Green, ex pilota della Royal Air Force di 64 anni, era già stato il primo a infrangere la barriera del suono su terra e deteneva anche il record per veicoli diesel con la JCB Dieselmax, superando le 350 miglia orarie. Ora, al volante della Hydromax, ha portato un'auto a idrogeno alla velocità più alta mai registrata per questa tecnologia. Guarda: Veicolo a idrogeno tenta un record mondiale presso le Bonneville Salt Flats dello Utah Di Yang Tian Pubblicato il 12 agosto 2026 Un pilota britannico che fu la prima persona a infrangere la barriera del suono in un'auto su terra ha stabilito un nuovo record di velocità, questa volta in un veicolo a.",
+      "id": "story-622a4c9c5c26dfcf",
+      "title": "Il caldo che brucia il PIL: l'estate 2026 costa all'Europa 180 miliardi",
+      "summary": "Il caldo che brucia il PIL: l'estate 2026 costa all'Europa 180 miliardielisabetta. tola Gio, 08/13/2026 - 11:12 13 Agosto 2026 Language Italian Andrea Gaiardoni L’estate rovente del 2026 ha un costo enorme non soltanto sotto il profilo sociale e ambientale, ma sta mandando in fumo, letteralmente, anche la crescita economica annuale dell’intera Unione Europea. A sostenerlo è uno studio appena pubblicato dalla Triodos Bank, una banca etica con sede nei Paesi Bassi, che ha analizzato l’impatto economico delle temperature così elevate (si tratta della peggiore ondata di caldo mai registrata nel continente) sul prodotto interno lordo complessivo dei paesi membri dell’UE. Tra le principali conseguenze dell’anomalia climatica appena vissuta: calo della produzione agricola ed energetica, prezzi alimentari più alti, come quelli dell’elettricità (con un incremento dei consumi), aumento dei costi di trasporto, riduzione della produttività nel lavoro, incendi, siccità prolungate. In sostanza si stima (perché di previsioni si tratta, dal momento che le ondate di calore sono tuttora in corso e che gli effetti possono, al momento, essere misurati solo applicando modelli matematici) che il costo complessivo per fronteggiare il caldo estivo possa costare all’UE circa 180 miliardi di euro, pari all’1,1% del PIL del blocco, ma che è anche pari alla crescita attesa per il 2026. A pagare il prezzo più alto potrebbe essere la Francia (si prevede un calo dell’1,4% del PIL), seguita da Italia e Spagna, ma anche i Paesi Bassi potrebbero vedere cancellata gran parte della loro crescita annuale. Un altro paper, firmato da ricercatori della Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) e del Politecnico di Milano, sostiene che la situazione è probabilmente destinata a peggiorare. Già l’evento siccitoso del 2015-2018 era costato all’Italia circa 24,3 miliardi di euro e 330.000 posti di lavoro. “Ma in un mondo con 2° C di riscaldamento in più le perdite salirebbero a 3,99 punti percentuali del PIL italiano (circa 74 miliardi di euro) e a circa 960.000 posti di lavoro in meno”. “Il fatto che il cambiamento climatico influenzi la crescita economica a lungo termine è ormai un dato di fatto consolidato nella comunità scientifica”, scrivono gli analisti di Triodos Bank nel loro rapporto. “L’innalzamento del livello del mare, raccolti più bassi, la riduzione della produzione lattiero-casearia, la disponibilità sempre più ridotta di acqua dolce, la salute umana, la diminuzione della produttività e l’aumento della domanda di energia sono i principali modi in cui il cambiamento climatico danneggia l’economia. Col tempo, questi diversi canali possono sommarsi fino a produrre una crescita negativa, o addirittura a un collasso incontrollato: una stima recente indica che la perdita a lungo termine del PIL mondiale supera il 20% per ogni grado di riscaldamento globale, una volta che l’intera gamma di variabilità climatica è stata presa in considerazione”. SOCIETÀ La siccità blocca le centrali nucleari Il caldo estremo può incidere sull’economia in diversi modi: può produrre effetti diretti sull’uomo (secondo i dati raccolti da Bloomberg, in continuo aggiornamento, i decessi in Europa legati alle ondate di calore hanno superato quota 25.000), danni agli ecosistemi, costi diretti per far fronte ai danni causati dal calore e per le riparazioni e, trasversalmente a tutti questi aspetti, riduzione della produzione e del Prodotto Interno Lordo delle singole nazioni. Quattro le aree prese in considerazione dagli analisti: alimentazione e agricoltura, produzione di energia, trasporti e logistica, e produttività del lavoro. “La principale causa del calo economico dovuta al caldo è la perdita di produttività del lavoro” - ha spiegato Hans Stegeman, capo economista della Triodos Bank, intervistato dal quotidiano olandese NL Times. “L’effetto è più marcato nei settori con una forte esposizione al calore, tra cui l’edilizia, l’agricoltura (le previsioni sulle rese agricole in tutta Europa sono già state riviste al ribasso, e di conseguenza c’è il rischio di un’impennata dei prezzi allo scaffale) e altri lavori fisicamente impegnativi. La produttività può diminuire anche nel lavoro d’ufficio, specialmente negli edifici senza aria condizionata. L’uso dell’aria condizionata è in aumento nei Paesi Bassi, ma rimane molto indietro rispetto ai livelli in Italia e in Spagna”. Anche le forniture di energia sono inevitabilmente sotto pressione: perché i pannelli solari diventano meno efficienti quando si surriscaldano; e perché la maggiore domanda di elettricità proveniente dall’utilizzo imponente dell’aria condizionata fa salire i prezzi dell’energia, danneggiando le industrie, le imprese e le famiglie. E la siccità non aiuta: all’inizio di agosto la centrale nucleare di Paks, in Ungheria, 120 km a sud di Budapest, che utilizza l’acqua del Danubio per raffreddare le turbine, è stata costretta a interrompere la sua produzione proprio per la riduzione della portata d’acqua del fiume (arrivata al record negativo di 23 centimetri). Anche la centrale nucleare rumena di Cernavodă (160 km a est di Bucarest) ha avviato le procedure tecniche per lo spegnimento controllato del suo secondo reattore nucleare, a causa del flusso molto basso del Danubio (l’Unità 1 era stata già chiusa, per lo stesso motivo, a fine luglio). La centrale garantisce circa il 20% dei consumi totali della Romania. Un altro settore dove il caldo estremo produce criticità è quello dei trasporti. Secondo l’associazione tedesca di navigazione interna BDB (la Bundesverband der Deutschen Binnenschifffahrt) il trasporto merci sta subendo ritardi a causa dei livelli d’acqua mai così bassi sul fiume Reno, uno dei principali corridoi commerciali e industriali europei. Soprattutto a Kaub, nel distretto del Reno-Lahn, uno dei punti più critici per la navigazione, dove il livello dell’acqua è sceso ad appena 19 centimetri, il che potrebbe impedire il transito al trasporto merci e alle navi passeggeri (con riflessi negativi anche sul turismo). Come misura eccezionale, in Germania e nei Paesi Bassi è stato autorizzato il transito dei camion anche la domenica. Nuovi treni per resistere al caldo estremo Già alla fine di giugno un rapporto della Commissione Economica delle Nazioni Unite per l’Europa (UNECE) metteva in guardia sulle conseguenze a lunga scadenza, nel periodo 2050-2080, della crisi climatica, anche sui trasporti: “Si prevede che i maggiori rischi di interruzione per le ferrovie, inclusa la deformazione dei binari, influenzeranno l’Europa, dove il 90% della rete europea E-rail sarebbe soggetto a un numero crescente di giornate con temperature superiori ai 32° C. E poiché gli eventi meteorologici estremi non sono più un rischio futuro ma una realtà, l’adattamento delle infrastrutture di trasporto è imperativo”, aveva commentato Tatiana Molcean, Segretaria Esecutiva dell’UNECE. Un allarme preso assai sul serio da aziende come Eurostar, che collega con l’alta velocità Belgio, Francia, Germania, Paesi Bassi e anche Regno Unito, attraverso il Tunnel della Manica, che ha annunciato di aver cominciato a costruire una nuova flotta di 50 treni “Celestia”, tutti dotati di aria condizionata, in grado di operare anche con temperature fino a 55 gradi Celsius (centigradi). “È essenziale essere preparati per il futuro”, ha dichiarato un funzionario di Eurostar, che ha garantito l’entrata in servizio della nuova flotta di treni per il 2031. Le conclusioni del rapporto della Triodos Bank sono severe: “I danni climatici rallentano l’economia, ma la risposta politica è quella di allentare proprio la politica pensata per prevenire tali danni, in nome della protezione della crescita. E la prossima ondata di caldo sarà peggiore, dunque costerà di più. Chiamiamolo così: un circolo vizioso. Non perché qualcuno neghi la portata di quel che è accaduto questa estate, i dati che abbiamo analizzato non sono seriamente contestati: ma perché la logica economica che ha prodotto il cambiamento climatico odierno è trattata come sacra anche se i danni che provocano diventano innegabili. Ma c’è ancora margine per spezzare questo ciclo. La scelta che gli europei e i loro governi devono affrontare non è se pagare per un’estate come questa: il danno è già qui. La scelta che abbiamo è tra continuare ad accettare estati sempre più costose, continuando a ritardare i nostri sforzi per mitigare il cambiamento climatico, o iniziare a trattare il cambiamento climatico come l’emergenza decisiva che condizionerà il nostro benessere e le nostre economie”. E il nostro futuro. NELLA STESSA CATEGORIA Il clima che vogliamo On",
+      "spokenText": "Centottanta miliardi di euro. A mettere nero su bianco questa stima è uno studio della Triodos Bank, banca etica olandese, che ha analizzato come le temperature estreme abbiano eroso il prodotto interno lordo dei paesi membri. A pagare il prezzo più alto potrebbe essere la Francia, con un calo previsto dell’1,4% del PIL, seguita da Italia e Spagna, mentre perfino i Paesi Bassi rischiano di veder cancellata gran parte della loro crescita annuale. Tra le conseguenze di questa anomalia climatica ci sono il crollo della produzione agricola ed energetica, l’aumento dei prezzi di cibo ed elettricità, la riduzione della produttività sul lavoro, incendi e siccità prolungate. L'estate 2026 costa all'Europa 180 miliardi di euro, pari all'1,1% del PIL dell'UE. “Ma in un mondo con 2° C di riscaldamento in più le perdite salirebbero a 3,alcuni aspetti percentuali del PIL italiano (circa 74 miliardi di euro) e a circa 960.000 posti di lavoro in meno”.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "triodos bank",
+        "francia",
+        "italia",
+        "spagna",
+        "paesi bassi"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 62,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/caldo-che-brucia-pil-lestate-2026-costa-alleuropa"
+      },
+      "analysis": {
+        "mainFact": "L'estate 2026 costa all'Europa 180 miliardi di euro, pari all'1,1% del PIL dell'UE.",
+        "whyItMatters": "A sostenerlo è uno studio appena pubblicato dalla Triodos Bank , una banca etica con sede nei Paesi Bassi, che ha analizzato l’impatto economico delle temperature così elevate (si tratta della peggiore ondata di caldo mai registrata nel continente) sul prodotto interno lordo complessivo dei paesi membri dell’UE.",
+        "confirmedFacts": [
+          "L'estate 2026 costa all'Europa 180 miliardi di euro, pari all'1,1% del PIL dell'UE.",
+          "A sostenerlo è uno studio appena pubblicato dalla Triodos Bank , una banca etica con sede nei Paesi Bassi, che ha analizzato l’impatto economico delle temperature così elevate (si tratta della peggiore ondata di caldo mai registrata nel continente) sul prodotto interno lordo complessivo dei paesi membri dell’UE.",
+          "A pagare il prezzo più alto potrebbe essere la Francia (si prevede un calo dell’1,4% del PIL), seguita da Italia e Spagna, ma anche i Paesi Bassi potrebbero vedere cancellata gran parte della loro crescita annuale.",
+          "Tra le principali conseguenze dell’anomalia climatica appena vissuta: calo della produzione agricola ed energetica, prezzi alimentari più alti, come quelli dell’elettricità (con un incremento dei consumi), aumento dei costi di trasporto, riduzione della produttività nel lavoro, incendi, siccità prolungate .",
+          "“Ma in un mondo con 2° C di riscaldamento in più le perdite salirebbero a 3,alcuni aspetti percentuali del PIL italiano (circa 74 miliardi di euro) e a circa 960.000 posti di lavoro in meno”.",
+          "“Il fatto che il cambiamento climatico influenzi la crescita economica a lungo termine è ormai un dato di fatto consolidato nella comunità scientifica” , scrivono gli analisti di Triodos Bank nel loro rapporto.",
+          "Col tempo, questi diversi canali possono sommarsi fino a produrre una crescita negativa, o addirittura a un collasso incontrollato:"
+        ],
+        "uncertainties": [
+          "Un altro paper , firmato da ricercatori della Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) e del Politecnico di Milano, sostiene che la situazione è probabilmente destinata a peggiorare ."
+        ],
+        "peopleAndOrganizations": [
+          "Triodos Bank",
+          "Francia",
+          "Italia",
+          "Spagna",
+          "Paesi Bassi"
+        ],
+        "numbersAndDates": [
+          "A pagare il prezzo più alto potrebbe essere la Francia (si prevede un calo dell’1,4% del PIL), seguita da Italia e Spagna, ma anche i Paesi Bassi potrebbero vedere cancellata gran parte della loro crescita annuale.",
+          "“Ma in un mondo con 2° C di riscaldamento in più le perdite salirebbero a 3,alcuni aspetti percentuali del PIL italiano (circa 74 miliardi di euro) e a circa 960.000 posti di lavoro in meno”.",
+          "2026",
+          "180",
+          "1,1"
+        ]
+      }
+    },
+    {
+      "id": "story-8637c677567dce37",
+      "title": "L'epidemia mortale di ebola si estende ad una sesta provincia del Congo",
+      "summary": "Africa Cdc, Primo deceduto nel Bas-Uele, quasi 2.100 morti nel Paese",
+      "spokenText": "L'epidemia mortale di ebola si estende ad una sesta provincia del Congo. L'Organizzazione mondiale della sanità ha avvertito che l'attuale epidemia nell'est della RDC, che ha già causato quasi 2.100 morti, è quella con la crescita più rapida mai registrata nel Paese e potrebbe superare per dimensioni quella del 2014-2016, la più grave della storia, che provocò oltre 11.000 morti. Primo deceduto nel Bas-Uele, quasi 2.100 morti nel Paese.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "congo",
+        "africa cdc",
+        "bas uele"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 28,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/14/lepidemia-mortale-di-ebola-si-estende-ad-una-sesta-provincia-del-congo_41519667-fff9-4d8e-9f18-9657150e1f8a.html"
+      },
+      "analysis": {
+        "mainFact": "L'epidemia mortale di ebola si estende ad una sesta provincia del Congo",
+        "whyItMatters": "L'Organizzazione mondiale della sanità ha avvertito che l'attuale epidemia nell'est della RDC, che ha già causato quasi 2.100 morti, è quella con la crescita più rapida mai registrata nel Paese e potrebbe superare per dimensioni quella del 2014-2016, la più grave della storia, che provocò oltre 11.000 morti.",
+        "confirmedFacts": [
+          "L'epidemia mortale di ebola si estende ad una sesta provincia del Congo",
+          "L'Organizzazione mondiale della sanità ha avvertito che l'attuale epidemia nell'est della RDC, che ha già causato quasi 2.100 morti, è quella con la crescita più rapida mai registrata nel Paese e potrebbe superare per dimensioni quella del 2014-2016, la più grave della storia, che provocò oltre 11.000 morti.",
+          "Primo deceduto nel Bas-Uele, quasi 2.100 morti nel Paese"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Congo",
+          "Africa CDC",
+          "Bas-Uele"
+        ],
+        "numbersAndDates": [
+          "Primo deceduto nel Bas-Uele, quasi 2.100 morti nel Paese",
+          "2.100",
+          "2014",
+          "2016",
+          "11.000"
+        ]
+      }
+    },
+    {
+      "id": "story-7c3196a9e3b19e1e",
+      "title": "Drone di Kiev sconfina in Lettonia, i caccia italiani lo abbattono",
+      "summary": "Allerta nei cieli Nato. Riga ringrazia Roma: “Risultato tangibile delle decisioni di Ankara”. L’ipotesi è che si sia trattato di un quadricottero ucraino deviato dalla traiettoria originale",
+      "spokenText": "Un drone di Kiev ha sconfinato in Lettonia ed è stato abbattuto dai caccia italiani. Riga ringrazia Roma definendo l'evento un 'risultato tangibile delle decisioni di Ankara'. L'ipotesi è che si sia trattato di un quadricottero ucraino deviato dalla traiettoria originale. In aggiunta, due caccia F-16 turchi di stanza presso la base aerea di Ämari, in Estonia, hanno preso il volo per assistere i colleghi. Il ministro degli Esteri russo Serghei Lavrov ha dichiarato: 'Renderemo i nostri metodi molto più duri per distruggere tutto ciò che l'Occidente sta facendo per alimentare la macchina militare di Kiev: lo stiamo già facendo, stanno già iniziando a lamentarsi'.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "lettonia",
+        "italia"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 42,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/15/news/drone_ucraina_lettonia_abbattuto_da_caccia_italiani-425529631/"
+      },
+      "analysis": {
+        "mainFact": "Un drone di Kiev ha sconfinato in Lettonia ed è stato abbattuto dai caccia italiani.",
+        "whyItMatters": "Riga ringrazia Roma definendo l'evento un 'risultato tangibile delle decisioni di Ankara'.",
+        "confirmedFacts": [
+          "Un drone di Kiev ha sconfinato in Lettonia ed è stato abbattuto dai caccia italiani.",
+          "Riga ringrazia Roma definendo l'evento un 'risultato tangibile delle decisioni di Ankara'.",
+          "L’ipotesi è che si sia trattato di un quadricottero ucraino deviato dalla traiettoria originale",
+          "In aggiunta, due caccia F-16 turchi di stanza presso la base aerea di Ämari, in Estonia, hanno preso il volo per assistere i colleghi.",
+          "\"Renderemo i nostri metodi molto più duri per distruggere tutto ciò che l'Occidente sta facendo per alimentare la macchina militare di Kiev: lo stiamo già facendo, stanno già iniziando a lamentarsi\", ha dichiarato il ministro degli Esteri russi Serghei Lavrov in un'intervista all'emittente televisiva Vesti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Lettonia",
+          "Italia"
+        ],
+        "numbersAndDates": [
+          "In aggiunta, due caccia F-16 turchi di stanza presso la base aerea di Ämari, in Estonia, hanno preso il volo per assistere i colleghi."
+        ]
+      }
+    },
+    {
+      "id": "story-55fa3822e3378d5e",
+      "title": "Francia, stop al ban dei social per gli under 15: legge bocciata",
+      "summary": "Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista. The post Francia, stop al ban dei social per gli under 15: legge bocciata appeared first on Punto Informatico.",
+      "spokenText": "Il Consiglio costituzionale francese ha bocciato il divieto di accesso ai social network per i minori di quindici anni, una misura fortemente voluta dal presidente Emmanuel Macron. Nel motivare la decisione, i membri del Consiglio hanno ritenuto che il provvedimento rappresentasse una violazione sproporzionata della libertà di espressione dei minori, un principio ritenuto non bilanciabile con un blocco generalizzato. La Francia, quindi, non sarà il primo paese europeo a introdurre uno stop così netto fino ai quindici anni, contrariamente a quanto era stato previsto nel dibattito pubblico. Di fronte a questo stop, il presidente Macron avrebbe già dato mandato al premier Sébastien Lecornu di redigere una nuova versione della legge in tempi relativamente brevi, con l'obiettivo di arrivare a una soluzione definitiva entro la primavera del 2027. La misura, così come era stata concepita, è stata giudicata sproporzionata e dovrà ora essere completamente rivista per trovare un punto di equilibrio tra la protezione dei più giovani e i diritti costituzionali.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "consiglio costituzionale francese",
+        "emmanuel macron",
+        "francia"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 64,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/francia-stop-ban-social-under-15-legge-bocciata/"
+      },
+      "analysis": {
+        "mainFact": "Il Consiglio costituzionale francese ha bocciato il divieto dei social network per gli under 15, ritenendo la misura sproporzionata.",
+        "whyItMatters": "I membri del Consiglio costituzionale hanno ritenuto che la misura rappresenti una violazione sproporzionata della libertà di espressione dei minori.",
+        "confirmedFacts": [
+          "Il Consiglio costituzionale francese ha bocciato il divieto dei social network per gli under 15, ritenendo la misura sproporzionata.",
+          "I membri del Consiglio costituzionale hanno ritenuto che la misura rappresenti una violazione sproporzionata della libertà di espressione dei minori.",
+          "Il divieto dei social network ai minori di 15 anni, misura voluta fortemente dal presidente francese Emmanuel Macron, è stata bocciata dal Consiglio costituzionale.",
+          "La Francia non sarà il primo paese europeo a impedire l’accesso ai social fino ai 15 anni , a differenza di quanto previsto .",
+          "Anzi, stando a quanto rivelato da ANSA, il presidente francese avrebbe già dato mandato al premier Sébastien Lecornu di redigere una nuova versione della legge in tempi relativamente brevi, con l’obiettivo di arrivare a una soluzione definitiva entro la primavera 2027 .",
+          "Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista.",
+          "Francia, stop al ban dei social per gli under 15: legge bocciata Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista.",
+          "Schiaffo a Macron, bocciato il divieto dei social agli under 15"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Consiglio costituzionale francese",
+          "Emmanuel Macron",
+          "Francia"
+        ],
+        "numbersAndDates": [
+          "Il divieto dei social network ai minori di 15 anni, misura voluta fortemente dal presidente francese Emmanuel Macron, è stata bocciata dal Consiglio costituzionale.",
+          "La Francia non sarà il primo paese europeo a impedire l’accesso ai social fino ai 15 anni , a differenza di quanto previsto .",
+          "Anzi, stando a quanto rivelato da ANSA, il presidente francese avrebbe già dato mandato al premier Sébastien Lecornu di redigere una nuova versione della legge in tempi relativamente brevi, con l’obiettivo di arrivare a una soluzione definitiva entro la primavera 2027 .",
+          "Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista.",
+          "Francia, stop al ban dei social per gli under 15: legge bocciata Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista.",
+          "Schiaffo a Macron, bocciato il divieto dei social agli under 15",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "story-ed40499d0fbe8033",
+      "title": "La Casa Bianca accusa oltre 40 Paesi di aiutare la Cina a eludere i dazi Usa",
+      "summary": "La Casa Bianca, a un mese dalla visita a Washington del presidente Xi Jinping, accusa la Cina di far transitare miliardi di dollari di merci attraverso altri Paesi per eludere...",
+      "spokenText": "La Casa Bianca ha formalizzato un’accusa che delinea un meccanismo di elusione commerciale su scala globale: oltre quaranta Paesi starebbero aiutando la Cina a bypassare i dazi statunitensi. Un’analisi del Dipartimento del Commercio ha provato a quantificare il fenomeno, ipotizzando che nello scorso anno circa sessantasette miliardi di dollari di merci siano transitate dalla Cina attraverso Messico, India e Vietnam. Lo schema denunciato consiste nel far transitare le merci attraverso un Paese terzo per beneficiare di un’aliquota tariffaria inferiore.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "casa bianca",
+        "cina",
+        "dipartimento del commercio",
+        "messico",
+        "india",
+        "vietnam"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 32,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/la-casa-bianca-accusa-oltre-40-paesi-aiutare-cina-eludere-dazi-usa-AJAqOdm"
+      },
+      "analysis": {
+        "mainFact": "La Casa Bianca accusa oltre 40 Paesi di aiutare la Cina a eludere i dazi Usa.",
+        "whyItMatters": "Lo schema denunciato consiste nel far transitare le merci attraverso un Paese terzo per beneficiare di un’aliquota tariffaria inferiore.",
+        "confirmedFacts": [
+          "La Casa Bianca accusa oltre 40 Paesi di aiutare la Cina a eludere i dazi Usa.",
+          "Lo schema denunciato consiste nel far transitare le merci attraverso un Paese terzo per beneficiare di un’aliquota tariffaria inferiore.",
+          "Ad esempio, un’analisi del Dipartimento del Commercio ha ipotizzato che circa 67 miliardi di merci siano transitate dalla Cina attraverso Messico, India e Vietnam lo scorso anno, con conseguente perdita di circa 28 miliardi di dollari di entrate."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Casa Bianca",
+          "Cina",
+          "Dipartimento del Commercio",
+          "Messico",
+          "India",
+          "Vietnam"
+        ],
+        "numbersAndDates": [
+          "Ad esempio, un’analisi del Dipartimento del Commercio ha ipotizzato che circa 67 miliardi di merci siano transitate dalla Cina attraverso Messico, India e Vietnam lo scorso anno, con conseguente perdita di circa 28 miliardi di dollari di entrate.",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "story-6a47af92c7bf32c0",
+      "title": "Giovani e lavoro: il report ILO lancia l'allarme IA",
+      "summary": "L’ingresso nel mercato del lavoro si è fatto leggermente più difficile per i giovani: nel 2025 il tasso mondiale di disoccupazione tra i 15 e i 24 anni ha raggiunto il 12,4%, contro il 12,3% dell’anno...",
+      "spokenText": "L'International Labour Organization, nel rapporto Employment and Social Trends 2026, stima che nel mondo ci siano 67,3 milioni di giovani disoccupati. Ma il dato più ampio riguarda i circa 257 milioni di giovani, pari al 20% del totale, che risultano esclusi contemporaneamente dal lavoro, dall'istruzione e dalla formazione. La stabilità del tasso principale di disoccupazione convive quindi con una quota molto più estesa di lavoro potenziale inutilizzato. Il report ILO lancia l'allarme IA su giovani e lavoro.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "ilo",
+        "international labour organization",
+        "giovani",
+        "employment and social trends 2026"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 31,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/altro/ilo-67-3-milioni-di-giovani-senza-lavoro-l-ia-puo-frenare"
+      },
+      "analysis": {
+        "mainFact": "Il report ILO lancia l'allarme IA su giovani e lavoro.",
+        "whyItMatters": "La stabilità del tasso principale convive quindi con una quota molto più estesa di lavoro potenziale inutilizzato.",
+        "confirmedFacts": [
+          "Il report ILO lancia l'allarme IA su giovani e lavoro.",
+          "La stabilità del tasso principale convive quindi con una quota molto più estesa di lavoro potenziale inutilizzato.",
+          "L’ International Labour Organization stima 67,3 milioni di giovani disoccupati nel rapporto Employment and Social Trends 2026 ,",
+          "Circa 257 milioni di giovani , pari al 20% del totale, risultavano esclusi contemporaneamente dal lavoro, dall’istruzione e dalla formazione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "ILO",
+          "International Labour Organization",
+          "giovani",
+          "Employment and Social Trends 2026"
+        ],
+        "numbersAndDates": [
+          "L’ International Labour Organization stima 67,3 milioni di giovani disoccupati nel rapporto Employment and Social Trends 2026 ,",
+          "Circa 257 milioni di giovani , pari al 20% del totale, risultavano esclusi contemporaneamente dal lavoro, dall’istruzione e dalla formazione."
+        ]
+      }
+    },
+    {
+      "id": "story-d29cd86e3cf266e9",
+      "title": "BBC Inside Science",
+      "summary": "Ricercatori della Stanford University negli Stati Uniti hanno annunciato di aver creato nuovi tipi di virus progettati dall'intelligenza artificiale. Nel frattempo, 50 anni fa le straordinarie sonde spaziali Viking della NASA atterravano su Marte, aprendo nuove frontiere nella scienza spaziale.",
+      "spokenText": "Ricercatori della Stanford University negli Stati Uniti hanno annunciato di aver creato nuovi tipi di virus progettati dall'intelligenza artificiale. Nel frattempo, 50 anni fa le straordinarie sonde spaziali Viking della NASA atterravano su Marte, aprendo nuove frontiere nella scienza spaziale.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "stanford university",
+        "nasa",
+        "bbc inside science"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 16,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct9780?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Ricercatori della Stanford University negli Stati Uniti hanno annunciato di aver creato nuovi tipi di virus progettati dall'intelligenza artificiale.",
+        "whyItMatters": "Nel frattempo, 50 anni fa le straordinarie sonde spaziali Viking della NASA atterravano su Marte, aprendo nuove frontiere nella scienza spaziale.",
+        "confirmedFacts": [
+          "Ricercatori della Stanford University negli Stati Uniti hanno annunciato di aver creato nuovi tipi di virus progettati dall'intelligenza artificiale.",
+          "Nel frattempo, 50 anni fa le straordinarie sonde spaziali Viking della NASA atterravano su Marte, aprendo nuove frontiere nella scienza spaziale.",
+          "BBC Inside Science Play Bookmark Bookmark Subscribe Subscribe Available for 33 days The extreme possibilities of synthetic biology hit the headlines last week, when researchers at Stanford University in the US announced they had created new kinds of viruses designed by Artificial Intelligence.",
+          "Meanwhile, 50 years ago NASA's remarkable Viking space probes touched down on Mars, breaking new frontiers in space science."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stanford University",
+          "NASA",
+          "BBC Inside Science"
+        ],
+        "numbersAndDates": [
+          "50"
+        ]
+      }
+    },
+    {
+      "id": "story-7ee7809beb491316",
+      "title": "Entanglement verde",
+      "summary": "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare. La ricerca, guidata dall’Università di Ottawa (Canada) e dal Max Planck Institute for the Science of Light (Germania) è stata pubblicata su Optica la scorsa settimana e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche",
+      "spokenText": "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare. La ricerca, guidata dall'Università di Ottawa e dal Max Planck Institute for the Science of Light, è stata pubblicata su Optica e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "universita di ottawa",
+        "max planck institute for the science of light",
+        "optica"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/13/entanglement-con-luce-solare/"
+      },
+      "analysis": {
+        "mainFact": "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare.",
+        "whyItMatters": "La ricerca, guidata dall'Università di Ottawa e dal Max Planck Institute for the Science of Light, è stata pubblicata su Optica e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche.",
+        "confirmedFacts": [
+          "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare.",
+          "La ricerca, guidata dall'Università di Ottawa e dal Max Planck Institute for the Science of Light, è stata pubblicata su Optica e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche.",
+          "La ricerca, guidata dall’Università di Ottawa (Canada) e dal Max Planck Institute for the Science of Light (Germania) è stata pubblicata su Optica la scorsa settimana e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Università di Ottawa",
+          "Max Planck Institute for the Science of Light",
+          "Optica"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-b1682ba5c3e2de74",
+      "title": "Il governo del Regno Unito sta valutando di ridurre l'obiettivo di vendita di nuove auto elettriche dall'80% al 50% entro il 2030",
+      "summary": "Il governo del Regno Unito sta valutando di ridurre l'obiettivo di vendita di nuove auto elettriche dall'80% al 50% entro il 2030. Secondo la politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
+      "spokenText": "Il governo britannico sta valutando una revisione degli obiettivi per la vendita di auto elettriche nuove, con la possibilità di ridurre la quota prevista per il 2030 dall'80% al 50%. L'esecutivo ha ora dichiarato di voler consultare le parti interessate fino a fine ottobre su questa ipotesi di ridimensionamento. Se l'obiettivo per le auto puramente elettriche venisse portato al 50%, la restante metà delle vendite dovrebbe essere costituita da veicoli ibridi. Un'altra opzione sul tavolo prevede di mantenere la soglia dell'80%, ma estendendo fino al 2034 la flessibilità concessa ai costruttori. Resta comunque in vigore la scadenza più lontana del 2035, che segna l'eliminazione graduale delle nuove auto ibride. Secondo la politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
       "category": "ambiente",
       "tags": [
-        "ambiente",
-        "andy green",
-        "jcb",
-        "bonneville salt flats",
-        "hydromax"
+        "ambiente"
       ],
-      "importance": 72,
+      "importance": 95,
       "mustInclude": true,
       "estimatedSeconds": 58,
       "source": {
         "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 mph (654 km/h) sulle Bonneville Salt Flats nello Utah.",
-        "whyItMatters": "Andy Green, un ex pilota della Royal Air Force di 64 anni, ha raggiunto una velocità di 406 mph (654 km/h) presso le Bonneville Salt Flats nello Utah, la più alta mai raggiunta da un'auto a idrogeno.",
+        "mainFact": "Il governo del Regno Unito sta valutando di ridurre l'obiettivo di vendita di nuove auto elettriche dall'80% al 50% entro il 2030.",
+        "whyItMatters": "Secondo la politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
         "confirmedFacts": [
-          "Il pilota britannico Andy Green ha stabilito un nuovo record di velocità per un'auto a idrogeno, raggiungendo 406 mph (654 km/h) sulle Bonneville Salt Flats nello Utah.",
-          "Andy Green, un ex pilota della Royal Air Force di 64 anni, ha raggiunto una velocità di 406 mph (654 km/h) presso le Bonneville Salt Flats nello Utah, la più alta mai raggiunta da un'auto a idrogeno.",
-          "Guarda: Veicolo a idrogeno tenta un record mondiale presso le Bonneville Salt Flats dello Utah Di Yang Tian Pubblicato il 12 agosto 2026 Un pilota britannico che fu la prima persona a infrangere la barriera del suono in un'auto su terra ha stabilito un nuovo record di velocità, questa volta in un veicolo a",
-          "Green stabilì anche un record mondiale di velocità su terra per un veicolo diesel con la JCB Dieselmax, raggiungendo una velocità di oltre 350 mph (563 km/h)."
+          "Il governo del Regno Unito sta valutando di ridurre l'obiettivo di vendita di nuove auto elettriche dall'80% al 50% entro il 2030.",
+          "Secondo la politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
+          "Il governo ha ora dichiarato di stare valutando di ridurre tale cifra fino al 50% di tutte le vendite entro la fine del decennio, su cui si consulterà fino a fine ottobre.",
+          "Ciò significa che se il governo riducesse gli obiettivi di vendita di auto puramente elettriche al 50%, l'altro 50% dovrebbe essere ibrido.",
+          "Un'altra opzione sarebbe mantenere l'obiettivo all'80% ma con flessibilità per i produttori di automobili estesa fino al 2034.",
+          "Attualmente, i produttori devono garantire che una percentuale delle auto vendute ogni anno sia a zero emissioni, con l'obiettivo in aumento ogni anno fino a raggiungere l'80% entro il 2030.",
+          "Resterebbe inoltre in vigore una scadenza a più lungo termine per l'eliminazione graduale delle vendite di nuove auto ibride, fissata al 2035."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Andy Green",
-          "JCB",
-          "Bonneville Salt Flats",
-          "Hydromax"
-        ],
+        "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "Guarda: Veicolo a idrogeno tenta un record mondiale presso le Bonneville Salt Flats dello Utah Di Yang Tian Pubblicato il 12 agosto 2026 Un pilota britannico che fu la prima persona a infrangere la barriera del suono in un'auto su terra ha stabilito un nuovo record di velocità, questa volta in un veicolo a",
-          "Green stabilì anche un record mondiale di velocità su terra per un veicolo diesel con la JCB Dieselmax, raggiungendo una velocità di oltre 350 mph (563 km/h).",
-          "406",
-          "654",
-          "64"
+          "Il governo ha ora dichiarato di stare valutando di ridurre tale cifra fino al 50% di tutte le vendite entro la fine del decennio, su cui si consulterà fino a fine ottobre.",
+          "Ciò significa che se il governo riducesse gli obiettivi di vendita di auto puramente elettriche al 50%, l'altro 50% dovrebbe essere ibrido.",
+          "Un'altra opzione sarebbe mantenere l'obiettivo all'80% ma con flessibilità per i produttori di automobili estesa fino al 2034.",
+          "Attualmente, i produttori devono garantire che una percentuale delle auto vendute ogni anno sia a zero emissioni, con l'obiettivo in aumento ogni anno fino a raggiungere l'80% entro il 2030.",
+          "Resterebbe inoltre in vigore una scadenza a più lungo termine per l'eliminazione graduale delle vendite di nuove auto ibride, fissata al 2035.",
+          "80",
+          "50",
+          "2030",
+          "33",
+          "2026"
         ]
       }
     },
     {
-      "id": "story-a87d4d6e7819a9ad",
-      "title": "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata, secondo il capo dell'OMS",
-      "summary": "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata, secondo il capo dell'OMS.",
-      "spokenText": "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata. L'Ebola è una malattia virale rara ma estremamente mortale, i cui sintomi possono manifestarsi in un arco di tempo che va da due a ventuno giorni dopo l'infezione.",
-      "category": "salute",
+      "id": "story-c6c5d1d568409213",
+      "title": "La centrale nucleare di Cernavodă, che produce il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni",
+      "summary": "La centrale nucleare di Cernavodă, che produce il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
+      "spokenText": "La centrale nucleare di Cernavodă, in Romania, non tornerà in funzione entro i prossimi dieci giorni. Lo ha dichiarato direttamente il direttore dell’impianto, Romeo Urjan, all’agenzia di stampa AFP, spiegando che al momento non è previsto un riavvio in questo arco temporale. Si tratta di un evento raro per l’infrastruttura, che era stata chiusa soltanto una volta in precedenza, nel 2003. I due reattori della centrale producono circa il venti per cento dell’elettricità nazionale. Le acque del secondo fiume più lungo d'Europa sono scese ai livelli più bassi da 30 anni in diversi Paesi.",
+      "category": "ambiente",
       "tags": [
-        "salute",
-        "who",
-        "tedros adhanom ghebreyesus",
-        "uganda",
-        "dr congo"
+        "ambiente",
+        "romania"
       ],
-      "importance": 75,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 18,
+      "estimatedSeconds": 38,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata, secondo il capo dell'OMS.",
-        "whyItMatters": "Epidemia Ebola potenzialmente la più letale di sempre. Implicazioni sanitarie globali sistemiche.",
+        "mainFact": "La centrale nucleare di Cernavodă, che produce il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
+        "whyItMatters": "La centrale di Cernavodă, dove due reattori producono circa il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
         "confirmedFacts": [
-          "L'epidemia di Ebola del 2026 è sulla buona strada per diventare la più letale mai registrata, secondo il capo dell'OMS.",
-          "Epidemia Ebola potenzialmente la più letale di sempre. Implicazioni sanitarie globali sistemiche.",
-          "L'Ebola è una malattia virale rara ma mortale, con sintomi che compaiono entro due-21 giorni dall'infezione."
+          "La centrale nucleare di Cernavodă, che produce il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
+          "La centrale di Cernavodă, dove due reattori producono circa il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
+          "\"Non prevediamo un riavvio entro i prossimi 10 giorni\", ha dichiarato il direttore dell'impianto Romeo Urjan all'agenzia di stampa AFP.",
+          "Le acque del secondo fiume più lungo d'Europa sono scese ai livelli più bassi da 30 anni in diversi Paesi.",
+          "Cernavodă era stata chiusa solo una volta in precedenza, nel 2003."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "WHO",
-          "Tedros Adhanom Ghebreyesus",
-          "Uganda",
-          "DR Congo"
+          "Romania"
         ],
         "numbersAndDates": [
-          "L'Ebola è una malattia virale rara ma mortale, con sintomi che compaiono entro due-21 giorni dall'infezione.",
-          "2026"
+          "\"Non prevediamo un riavvio entro i prossimi 10 giorni\", ha dichiarato il direttore dell'impianto Romeo Urjan all'agenzia di stampa AFP.",
+          "Le acque del secondo fiume più lungo d'Europa sono scese ai livelli più bassi da 30 anni in diversi Paesi.",
+          "Cernavodă era stata chiusa solo una volta in precedenza, nel 2003.",
+          "20",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "story-04e62a5a74f00877",
+      "title": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica",
+      "summary": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
+      "spokenText": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica. Experts project yearly infections will triple by 2030 .",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "fiji",
+        "hiv",
+        "australia"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 8,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/fijis-hiv-outbreak-is-a-public-health-emergency-pacific-neighbours-must-step-up-286066"
+      },
+      "analysis": {
+        "mainFact": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
+        "whyItMatters": "Emergenza sanitaria pubblica con la crescita più rapida di HIV al mondo. Impatto diretto su salute globale e diritti.",
+        "confirmedFacts": [
+          "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
+          "Emergenza sanitaria pubblica con la crescita più rapida di HIV al mondo. Impatto diretto su salute globale e diritti.",
+          "Experts project yearly infections will triple by 2030 ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Fiji",
+          "HIV",
+          "Australia"
+        ],
+        "numbersAndDates": [
+          "Experts project yearly infections will triple by 2030 ."
+        ]
+      }
+    },
+    {
+      "id": "story-985a3d9aa9c9f1ce",
+      "title": "Opere di Matisse rubate sono state recuperate dalla polizia in Brasile",
+      "summary": "Opere di Matisse rubate sono state recuperate dalla polizia in Brasile. Un uomo di 44 anni è stato arrestato sul posto.",
+      "spokenText": "Un uomo di 44 anni è stato arrestato sul posto mentre la polizia brasiliana recuperava delle opere di Matisse rubate. Il furto originale era avvenuto il 7 dicembre dello scorso anno alla Biblioteca Mário de Andrade, dove due ladri avevano sopraffatto una guardia di sicurezza e una coppia di anziani in visita, fuggendo poi a piedi dall’ingresso principale con i quadri. Sembra la trama di un film, e invece è quanto accaduto realmente, un colpo che ricorda da vicino un altro episodio clamoroso: tra il 22 e il 23 marzo, alla Fondazione Magnani Rocca di Mamiano di Traversetolo, nel Parmense, una banda ha portato via tre opere di Cézanne, Renoir e Matisse per un valore complessivo di oltre 9 milioni di euro.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "matisse",
+        "biblioteca mario de andrade"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 49,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Opere di Matisse rubate sono state recuperate dalla polizia in Brasile.",
+        "whyItMatters": "Un uomo di 44 anni è stato arrestato sul posto.",
+        "confirmedFacts": [
+          "Opere di Matisse rubate sono state recuperate dalla polizia in Brasile.",
+          "Un uomo di 44 anni è stato arrestato sul posto.",
+          "Durante il furto alla Biblioteca Mário de Andrade del 7 dicembre dello scorso anno, due ladri hanno sopraffatto una guardia di sicurezza e una coppia di anziani in visita alla biblioteca, prima di fuggire con le opere d'arte attraverso l'ingresso principale a piedi.",
+          "Sembra la trama di un film, invece è quanto accaduto tra il 22 e il 23 marzo alla Fondazione Magnani Rocca di Mamiano di Traversetolo, nel Parmense, dove una banda ha portato via tre opere di Cézanne, Renoir e Matisse per un valore complessivo di oltre 9 milioni di euro."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Matisse",
+          "Biblioteca Mário de Andrade"
+        ],
+        "numbersAndDates": [
+          "Durante il furto alla Biblioteca Mário de Andrade del 7 dicembre dello scorso anno, due ladri hanno sopraffatto una guardia di sicurezza e una coppia di anziani in visita alla biblioteca, prima di fuggire con le opere d'arte attraverso l'ingresso principale a piedi.",
+          "Sembra la trama di un film, invece è quanto accaduto tra il 22 e il 23 marzo alla Fondazione Magnani Rocca di Mamiano di Traversetolo, nel Parmense, dove una banda ha portato via tre opere di Cézanne, Renoir e Matisse per un valore complessivo di oltre 9 milioni di euro.",
+          "44"
+        ]
+      }
+    },
+    {
+      "id": "story-8be0ae04f7cb310c",
+      "title": "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale",
+      "summary": "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale. L'Ucraina è il più grande esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
+      "spokenText": "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale. Più del 90% dei prodotti agricoli ucraini passa dai porti del Mar Nero, e un recente attacco a una nave al largo di Odessa ha ucciso dieci persone. L'Ucraina è il primo esportatore mondiale di olio di girasole, il terzo di orzo, il quarto di mais e il quinto di grano. Il ministro dell'Agricoltura Taras Vysotsky stima un raccolto di circa 60 milioni di tonnellate, ma prevede esportazioni per soli 38-40 milioni, in calo del 12%.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "taras vysotsky"
+      ],
+      "importance": 70,
+      "mustInclude": true,
+      "estimatedSeconds": 38,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718"
+      },
+      "analysis": {
+        "mainFact": "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale.",
+        "whyItMatters": "L'Ucraina è il più grande esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
+        "confirmedFacts": [
+          "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale.",
+          "L'Ucraina è il più grande esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
+          "Questo includeva un attacco a una nave al largo di Odessa il 19 luglio, che ha ucciso dieci persone a bordo.",
+          "Più del 90% dei prodotti agricoli dell'Ucraina viene esportato attraverso i porti del Mar Nero.",
+          "L'Ucraina prevede un raccolto di grano di circa 60 milioni di tonnellate quest'anno.",
+          "Ma il Ministro dell'Agricoltura Taras Vysotsky ha dichiarato che la previsione di esportazione di grano sarà solo di circa 38-40 milioni di tonnellate per l'anno fiscale 2026-27, un calo del 12% rispetto alle stime precedenti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Russia",
+          "Taras Vysotsky"
+        ],
+        "numbersAndDates": [
+          "Questo includeva un attacco a una nave al largo di Odessa il 19 luglio, che ha ucciso dieci persone a bordo.",
+          "Più del 90% dei prodotti agricoli dell'Ucraina viene esportato attraverso i porti del Mar Nero.",
+          "L'Ucraina prevede un raccolto di grano di circa 60 milioni di tonnellate quest'anno.",
+          "Ma il Ministro dell'Agricoltura Taras Vysotsky ha dichiarato che la previsione di esportazione di grano sarà solo di circa 38-40 milioni di tonnellate per l'anno fiscale 2026-27, un calo del 12% rispetto alle stime precedenti.",
+          "50",
+          "18",
+          "16",
+          "12"
         ]
       }
     }
