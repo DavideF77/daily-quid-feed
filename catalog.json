@@ -1,529 +1,487 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-15-f582c2b47a30",
-  "generatedAt": "2026-08-15T05:55:45.706Z",
+  "catalogId": "daily-quid-2026-08-16-cef117e9d30c",
+  "generatedAt": "2026-08-16T05:58:25.523Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-ad89d739a0b8212a",
-      "title": "Giappone, piogge torrenziali su Tokyo, la metropoli finisce sott'acqua",
-      "summary": "Piogge torrenziali su Tokyo, la metropoli finisce sott'acqua. I meteorologi: 'Clima impazzito'",
-      "spokenText": "Tokyo e la prefettura di Chiba sono state colpite da piogge torrenziali di intensità mai registrata prima, un evento che le autorità locali non esitano a definire senza precedenti. A Chiba, situata a est della capitale, in sole 12 ore sono caduti 348 millimetri di pioggia, una quantità pari a tre volte quella normalmente attesa per l’intero mese di agosto. La situazione ha assunto contorni critici quando, per la prima volta dall’entrata in vigore dei nuovi sistemi di allerta a maggio, è scattato il Livello 5, il massimo della scala, per il rischio di piogge torrenziali e frane in oltre un terzo dei centri urbani della prefettura. Il governatore di Chiba, Toshihito Kumagai, ha dichiarato di trovarsi di fronte a una situazione senza precedenti anche per gli standard meteorologici storici del Giappone, ammettendo di non aver mai affrontato un disastro di questa portata in tutta la sua esperienza. L’impatto infrastrutturale è stato immediato e paralizzante: l’aeroporto di Narita è andato in tilt, bloccando circa 7mila persone, mentre le interruzioni di corrente hanno colpito oltre 20.000 abitazioni. Diversi servizi ferroviari rimangono sospesi, importanti autostrade sono state chiuse e più di 100.000 famiglie hanno ricevuto l’invito a evacuare a causa delle frane e dei blackout. I meteorologi parlano di un clima ormai impazzito.",
+      "id": "story-374fc80dedd5a2e8",
+      "title": "Il caldo estremo costa all’Italia una manovra di bilancio. L’Europa brucia 180 miliardi, l’1% di Pil",
+      "summary": "Lo studio della Triodos Bank. L’impatto negativo somma gli effetti dell’aggravio di spesa dovuto all’uso degli impianti di refrigerazione, la siccità che secca i fiumi, ostacolando anche i trasporti, incendi e maggiore pressione sul sistema sanitario",
+      "spokenText": "Il caldo estremo costa all'Europa 180 miliardi di euro, pari all'1% del Pil. Un impatto negativo che somma gli effetti dell'aggravio di spesa dovuto all'uso degli impianti di refrigerazione, la siccità che secca i fiumi ostacolando anche i trasporti, gli incendi e una maggiore pressione sul sistema sanitario.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "giappone",
-        "tokyo",
-        "chiba",
-        "narita",
-        "toshihito kumagai"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 85,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/14/piogge-torrenziali-in-giappone-6-morti-e-aeroporto-di-narita-in-tilt_d3c0eb87-6b39-487a-bcc1-c9632fcc4fc0.html"
-      },
-      "analysis": {
-        "mainFact": "Piogge torrenziali su Tokyo, la metropoli finisce sott'acqua.",
-        "whyItMatters": "I meteorologi: 'Clima impazzito'",
-        "confirmedFacts": [
-          "Piogge torrenziali su Tokyo, la metropoli finisce sott'acqua.",
-          "I meteorologi: 'Clima impazzito'",
-          "Per la prima volta, da quando a maggio, sono entrati in vigore i nuovi sistemi di allerta, è scattato il Livello 5, il massimo della scala, per rischio di piogge torrenziali e frane in oltre un terzo dei centri urbani della prefettura.",
-          "\"Una situazione senza precedenti anche per gli standard meteorologici storici del Giappone\", ha dichiarato il governatore di Chiba, Toshihito Kumagai, ammettendo di non aver mai affrontato prima d'ora, in tutta la sua esperienza, un disastro di questa portata.",
-          "Aeroporto Narita in tilt: bloccate 7mila persone A Chiba, situata a est di Tokyo, in 12 ore sono caduti 348 millimetri di pioggia, una quantità pari a tre volte quella normalmente registrata nell’intero mese di agosto.",
-          "Le piogge, definite dalle autorità “senza precedenti”, hanno causato interruzioni di corrente in oltre 20.000 abitazioni .",
-          "Diversi servizi ferroviari rimangono sospesi, mentre alcune importanti autostrade sono chiuse e oltre 100.000 famiglie sono state invitate a evacuare a seguito delle frane e delle interruzioni di corrente provocate dalle piogge."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Giappone",
-          "Tokyo",
-          "Chiba",
-          "Narita",
-          "Toshihito Kumagai"
-        ],
-        "numbersAndDates": [
-          "Per la prima volta, da quando a maggio, sono entrati in vigore i nuovi sistemi di allerta, è scattato il Livello 5, il massimo della scala, per rischio di piogge torrenziali e frane in oltre un terzo dei centri urbani della prefettura.",
-          "Aeroporto Narita in tilt: bloccate 7mila persone A Chiba, situata a est di Tokyo, in 12 ore sono caduti 348 millimetri di pioggia, una quantità pari a tre volte quella normalmente registrata nell’intero mese di agosto.",
-          "Le piogge, definite dalle autorità “senza precedenti”, hanno causato interruzioni di corrente in oltre 20.000 abitazioni .",
-          "Diversi servizi ferroviari rimangono sospesi, mentre alcune importanti autostrade sono chiuse e oltre 100.000 famiglie sono state invitate a evacuare a seguito delle frane e delle interruzioni di corrente provocate dalle piogge."
-        ]
-      }
-    },
-    {
-      "id": "story-4b877d4d427993eb",
-      "title": "Indonesia, terremoto di magnitudo 7,7 al largo dell’isola di Flores. Crolli e almeno 20 vittine",
-      "summary": "Il vasto arcipelago indonesiano è soggetto a frequente attività sismica e vulcanica a causa della sua posizione lungo la \"Cintura di fuoco del Pacifico\". Revocato l’allarme tsunami",
-      "spokenText": "Una scossa di magnitudo 7. 7 ha colpito il mare al largo dell’isola di Flores, in Indonesia, provocando crolli e almeno venti vittime. L’evento ha fatto scattare un allarme tsunami, poi revocato nelle ore successive. 1. L’arcipelago indonesiano si trova lungo la Cintura di fuoco del Pacifico, una delle zone a più elevata attività sismica e vulcanica del pianeta, e la sua storia conferma la vulnerabilità del territorio: nel 1992 la stessa isola di Flores fu teatro di un terremoto di magnitudo 7. 7, che generò uno tsunami causando circa 2.500 morti. Sono seguite decine di scosse di assestamento, la più potente di magnitudo 6,1.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "indonesia",
-        "flores",
-        "cintura di fuoco del pacifico"
-      ],
-      "importance": 65,
-      "mustInclude": true,
-      "estimatedSeconds": 42,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/15/news/indonesia_terremoto_forte_scossa_isola_di_flores_allerta_tsunami-425529993/"
-      },
-      "analysis": {
-        "mainFact": "Terremoto di magnitudo 7,7 al largo dell'isola di Flores in Indonesia.",
-        "whyItMatters": "Il vasto arcipelago indonesiano è soggetto a frequente attività sismica e vulcanica a causa della sua posizione lungo la \"Cintura di fuoco del Pacifico\".",
-        "confirmedFacts": [
-          "Terremoto di magnitudo 7,7 al largo dell'isola di Flores in Indonesia.",
-          "Il vasto arcipelago indonesiano è soggetto a frequente attività sismica e vulcanica a causa della sua posizione lungo la \"Cintura di fuoco del Pacifico\".",
-          "Crolli e almeno 20 vittine",
-          "Revocato l’allarme tsunami",
-          "Sono seguite decine di scosse di assestamento, la più potente di magnitudo 6,1.",
-          "Nel 1992 Flores fu colpita da un terremoto di magnitudo 7. 7, che provocò uno tsunami causando circa 2.500 morti.",
-          "Terremoto di magnitudo 7."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Indonesia",
-          "Flores",
-          "Cintura di fuoco del Pacifico"
-        ],
-        "numbersAndDates": [
-          "Crolli e almeno 20 vittine",
-          "Sono seguite decine di scosse di assestamento, la più potente di magnitudo 6,1.",
-          "Nel 1992 Flores fu colpita da un terremoto di magnitudo 7. 7, che provocò uno tsunami causando circa 2.500 morti.",
-          "Terremoto di magnitudo 7.",
-          "7,7"
-        ]
-      }
-    },
-    {
-      "id": "story-622a4c9c5c26dfcf",
-      "title": "Il caldo che brucia il PIL: l'estate 2026 costa all'Europa 180 miliardi",
-      "summary": "Il caldo che brucia il PIL: l'estate 2026 costa all'Europa 180 miliardielisabetta. tola Gio, 08/13/2026 - 11:12 13 Agosto 2026 Language Italian Andrea Gaiardoni L’estate rovente del 2026 ha un costo enorme non soltanto sotto il profilo sociale e ambientale, ma sta mandando in fumo, letteralmente, anche la crescita economica annuale dell’intera Unione Europea. A sostenerlo è uno studio appena pubblicato dalla Triodos Bank, una banca etica con sede nei Paesi Bassi, che ha analizzato l’impatto economico delle temperature così elevate (si tratta della peggiore ondata di caldo mai registrata nel continente) sul prodotto interno lordo complessivo dei paesi membri dell’UE. Tra le principali conseguenze dell’anomalia climatica appena vissuta: calo della produzione agricola ed energetica, prezzi alimentari più alti, come quelli dell’elettricità (con un incremento dei consumi), aumento dei costi di trasporto, riduzione della produttività nel lavoro, incendi, siccità prolungate. In sostanza si stima (perché di previsioni si tratta, dal momento che le ondate di calore sono tuttora in corso e che gli effetti possono, al momento, essere misurati solo applicando modelli matematici) che il costo complessivo per fronteggiare il caldo estivo possa costare all’UE circa 180 miliardi di euro, pari all’1,1% del PIL del blocco, ma che è anche pari alla crescita attesa per il 2026. A pagare il prezzo più alto potrebbe essere la Francia (si prevede un calo dell’1,4% del PIL), seguita da Italia e Spagna, ma anche i Paesi Bassi potrebbero vedere cancellata gran parte della loro crescita annuale. Un altro paper, firmato da ricercatori della Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) e del Politecnico di Milano, sostiene che la situazione è probabilmente destinata a peggiorare. Già l’evento siccitoso del 2015-2018 era costato all’Italia circa 24,3 miliardi di euro e 330.000 posti di lavoro. “Ma in un mondo con 2° C di riscaldamento in più le perdite salirebbero a 3,99 punti percentuali del PIL italiano (circa 74 miliardi di euro) e a circa 960.000 posti di lavoro in meno”. “Il fatto che il cambiamento climatico influenzi la crescita economica a lungo termine è ormai un dato di fatto consolidato nella comunità scientifica”, scrivono gli analisti di Triodos Bank nel loro rapporto. “L’innalzamento del livello del mare, raccolti più bassi, la riduzione della produzione lattiero-casearia, la disponibilità sempre più ridotta di acqua dolce, la salute umana, la diminuzione della produttività e l’aumento della domanda di energia sono i principali modi in cui il cambiamento climatico danneggia l’economia. Col tempo, questi diversi canali possono sommarsi fino a produrre una crescita negativa, o addirittura a un collasso incontrollato: una stima recente indica che la perdita a lungo termine del PIL mondiale supera il 20% per ogni grado di riscaldamento globale, una volta che l’intera gamma di variabilità climatica è stata presa in considerazione”. SOCIETÀ La siccità blocca le centrali nucleari Il caldo estremo può incidere sull’economia in diversi modi: può produrre effetti diretti sull’uomo (secondo i dati raccolti da Bloomberg, in continuo aggiornamento, i decessi in Europa legati alle ondate di calore hanno superato quota 25.000), danni agli ecosistemi, costi diretti per far fronte ai danni causati dal calore e per le riparazioni e, trasversalmente a tutti questi aspetti, riduzione della produzione e del Prodotto Interno Lordo delle singole nazioni. Quattro le aree prese in considerazione dagli analisti: alimentazione e agricoltura, produzione di energia, trasporti e logistica, e produttività del lavoro. “La principale causa del calo economico dovuta al caldo è la perdita di produttività del lavoro” - ha spiegato Hans Stegeman, capo economista della Triodos Bank, intervistato dal quotidiano olandese NL Times. “L’effetto è più marcato nei settori con una forte esposizione al calore, tra cui l’edilizia, l’agricoltura (le previsioni sulle rese agricole in tutta Europa sono già state riviste al ribasso, e di conseguenza c’è il rischio di un’impennata dei prezzi allo scaffale) e altri lavori fisicamente impegnativi. La produttività può diminuire anche nel lavoro d’ufficio, specialmente negli edifici senza aria condizionata. L’uso dell’aria condizionata è in aumento nei Paesi Bassi, ma rimane molto indietro rispetto ai livelli in Italia e in Spagna”. Anche le forniture di energia sono inevitabilmente sotto pressione: perché i pannelli solari diventano meno efficienti quando si surriscaldano; e perché la maggiore domanda di elettricità proveniente dall’utilizzo imponente dell’aria condizionata fa salire i prezzi dell’energia, danneggiando le industrie, le imprese e le famiglie. E la siccità non aiuta: all’inizio di agosto la centrale nucleare di Paks, in Ungheria, 120 km a sud di Budapest, che utilizza l’acqua del Danubio per raffreddare le turbine, è stata costretta a interrompere la sua produzione proprio per la riduzione della portata d’acqua del fiume (arrivata al record negativo di 23 centimetri). Anche la centrale nucleare rumena di Cernavodă (160 km a est di Bucarest) ha avviato le procedure tecniche per lo spegnimento controllato del suo secondo reattore nucleare, a causa del flusso molto basso del Danubio (l’Unità 1 era stata già chiusa, per lo stesso motivo, a fine luglio). La centrale garantisce circa il 20% dei consumi totali della Romania. Un altro settore dove il caldo estremo produce criticità è quello dei trasporti. Secondo l’associazione tedesca di navigazione interna BDB (la Bundesverband der Deutschen Binnenschifffahrt) il trasporto merci sta subendo ritardi a causa dei livelli d’acqua mai così bassi sul fiume Reno, uno dei principali corridoi commerciali e industriali europei. Soprattutto a Kaub, nel distretto del Reno-Lahn, uno dei punti più critici per la navigazione, dove il livello dell’acqua è sceso ad appena 19 centimetri, il che potrebbe impedire il transito al trasporto merci e alle navi passeggeri (con riflessi negativi anche sul turismo). Come misura eccezionale, in Germania e nei Paesi Bassi è stato autorizzato il transito dei camion anche la domenica. Nuovi treni per resistere al caldo estremo Già alla fine di giugno un rapporto della Commissione Economica delle Nazioni Unite per l’Europa (UNECE) metteva in guardia sulle conseguenze a lunga scadenza, nel periodo 2050-2080, della crisi climatica, anche sui trasporti: “Si prevede che i maggiori rischi di interruzione per le ferrovie, inclusa la deformazione dei binari, influenzeranno l’Europa, dove il 90% della rete europea E-rail sarebbe soggetto a un numero crescente di giornate con temperature superiori ai 32° C. E poiché gli eventi meteorologici estremi non sono più un rischio futuro ma una realtà, l’adattamento delle infrastrutture di trasporto è imperativo”, aveva commentato Tatiana Molcean, Segretaria Esecutiva dell’UNECE. Un allarme preso assai sul serio da aziende come Eurostar, che collega con l’alta velocità Belgio, Francia, Germania, Paesi Bassi e anche Regno Unito, attraverso il Tunnel della Manica, che ha annunciato di aver cominciato a costruire una nuova flotta di 50 treni “Celestia”, tutti dotati di aria condizionata, in grado di operare anche con temperature fino a 55 gradi Celsius (centigradi). “È essenziale essere preparati per il futuro”, ha dichiarato un funzionario di Eurostar, che ha garantito l’entrata in servizio della nuova flotta di treni per il 2031. Le conclusioni del rapporto della Triodos Bank sono severe: “I danni climatici rallentano l’economia, ma la risposta politica è quella di allentare proprio la politica pensata per prevenire tali danni, in nome della protezione della crescita. E la prossima ondata di caldo sarà peggiore, dunque costerà di più. Chiamiamolo così: un circolo vizioso. Non perché qualcuno neghi la portata di quel che è accaduto questa estate, i dati che abbiamo analizzato non sono seriamente contestati: ma perché la logica economica che ha prodotto il cambiamento climatico odierno è trattata come sacra anche se i danni che provocano diventano innegabili. Ma c’è ancora margine per spezzare questo ciclo. La scelta che gli europei e i loro governi devono affrontare non è se pagare per un’estate come questa: il danno è già qui. La scelta che abbiamo è tra continuare ad accettare estati sempre più costose, continuando a ritardare i nostri sforzi per mitigare il cambiamento climatico, o iniziare a trattare il cambiamento climatico come l’emergenza decisiva che condizionerà il nostro benessere e le nostre economie”. E il nostro futuro. NELLA STESSA CATEGORIA Il clima che vogliamo On",
-      "spokenText": "Centottanta miliardi di euro. A mettere nero su bianco questa stima è uno studio della Triodos Bank, banca etica olandese, che ha analizzato come le temperature estreme abbiano eroso il prodotto interno lordo dei paesi membri. A pagare il prezzo più alto potrebbe essere la Francia, con un calo previsto dell’1,4% del PIL, seguita da Italia e Spagna, mentre perfino i Paesi Bassi rischiano di veder cancellata gran parte della loro crescita annuale. Tra le conseguenze di questa anomalia climatica ci sono il crollo della produzione agricola ed energetica, l’aumento dei prezzi di cibo ed elettricità, la riduzione della produttività sul lavoro, incendi e siccità prolungate. L'estate 2026 costa all'Europa 180 miliardi di euro, pari all'1,1% del PIL dell'UE. “Ma in un mondo con 2° C di riscaldamento in più le perdite salirebbero a 3,alcuni aspetti percentuali del PIL italiano (circa 74 miliardi di euro) e a circa 960.000 posti di lavoro in meno”.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "triodos bank",
-        "francia",
         "italia",
-        "spagna",
-        "paesi bassi"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 62,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/caldo-che-brucia-pil-lestate-2026-costa-alleuropa"
-      },
-      "analysis": {
-        "mainFact": "L'estate 2026 costa all'Europa 180 miliardi di euro, pari all'1,1% del PIL dell'UE.",
-        "whyItMatters": "A sostenerlo è uno studio appena pubblicato dalla Triodos Bank , una banca etica con sede nei Paesi Bassi, che ha analizzato l’impatto economico delle temperature così elevate (si tratta della peggiore ondata di caldo mai registrata nel continente) sul prodotto interno lordo complessivo dei paesi membri dell’UE.",
-        "confirmedFacts": [
-          "L'estate 2026 costa all'Europa 180 miliardi di euro, pari all'1,1% del PIL dell'UE.",
-          "A sostenerlo è uno studio appena pubblicato dalla Triodos Bank , una banca etica con sede nei Paesi Bassi, che ha analizzato l’impatto economico delle temperature così elevate (si tratta della peggiore ondata di caldo mai registrata nel continente) sul prodotto interno lordo complessivo dei paesi membri dell’UE.",
-          "A pagare il prezzo più alto potrebbe essere la Francia (si prevede un calo dell’1,4% del PIL), seguita da Italia e Spagna, ma anche i Paesi Bassi potrebbero vedere cancellata gran parte della loro crescita annuale.",
-          "Tra le principali conseguenze dell’anomalia climatica appena vissuta: calo della produzione agricola ed energetica, prezzi alimentari più alti, come quelli dell’elettricità (con un incremento dei consumi), aumento dei costi di trasporto, riduzione della produttività nel lavoro, incendi, siccità prolungate .",
-          "“Ma in un mondo con 2° C di riscaldamento in più le perdite salirebbero a 3,alcuni aspetti percentuali del PIL italiano (circa 74 miliardi di euro) e a circa 960.000 posti di lavoro in meno”.",
-          "“Il fatto che il cambiamento climatico influenzi la crescita economica a lungo termine è ormai un dato di fatto consolidato nella comunità scientifica” , scrivono gli analisti di Triodos Bank nel loro rapporto.",
-          "Col tempo, questi diversi canali possono sommarsi fino a produrre una crescita negativa, o addirittura a un collasso incontrollato:"
-        ],
-        "uncertainties": [
-          "Un altro paper , firmato da ricercatori della Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) e del Politecnico di Milano, sostiene che la situazione è probabilmente destinata a peggiorare ."
-        ],
-        "peopleAndOrganizations": [
-          "Triodos Bank",
-          "Francia",
-          "Italia",
-          "Spagna",
-          "Paesi Bassi"
-        ],
-        "numbersAndDates": [
-          "A pagare il prezzo più alto potrebbe essere la Francia (si prevede un calo dell’1,4% del PIL), seguita da Italia e Spagna, ma anche i Paesi Bassi potrebbero vedere cancellata gran parte della loro crescita annuale.",
-          "“Ma in un mondo con 2° C di riscaldamento in più le perdite salirebbero a 3,alcuni aspetti percentuali del PIL italiano (circa 74 miliardi di euro) e a circa 960.000 posti di lavoro in meno”.",
-          "2026",
-          "180",
-          "1,1"
-        ]
-      }
-    },
-    {
-      "id": "story-8637c677567dce37",
-      "title": "L'epidemia mortale di ebola si estende ad una sesta provincia del Congo",
-      "summary": "Africa Cdc, Primo deceduto nel Bas-Uele, quasi 2.100 morti nel Paese",
-      "spokenText": "L'epidemia mortale di ebola si estende ad una sesta provincia del Congo. L'Organizzazione mondiale della sanità ha avvertito che l'attuale epidemia nell'est della RDC, che ha già causato quasi 2.100 morti, è quella con la crescita più rapida mai registrata nel Paese e potrebbe superare per dimensioni quella del 2014-2016, la più grave della storia, che provocò oltre 11.000 morti. Primo deceduto nel Bas-Uele, quasi 2.100 morti nel Paese.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "congo",
-        "africa cdc",
-        "bas uele"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 28,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/14/lepidemia-mortale-di-ebola-si-estende-ad-una-sesta-provincia-del-congo_41519667-fff9-4d8e-9f18-9657150e1f8a.html"
-      },
-      "analysis": {
-        "mainFact": "L'epidemia mortale di ebola si estende ad una sesta provincia del Congo",
-        "whyItMatters": "L'Organizzazione mondiale della sanità ha avvertito che l'attuale epidemia nell'est della RDC, che ha già causato quasi 2.100 morti, è quella con la crescita più rapida mai registrata nel Paese e potrebbe superare per dimensioni quella del 2014-2016, la più grave della storia, che provocò oltre 11.000 morti.",
-        "confirmedFacts": [
-          "L'epidemia mortale di ebola si estende ad una sesta provincia del Congo",
-          "L'Organizzazione mondiale della sanità ha avvertito che l'attuale epidemia nell'est della RDC, che ha già causato quasi 2.100 morti, è quella con la crescita più rapida mai registrata nel Paese e potrebbe superare per dimensioni quella del 2014-2016, la più grave della storia, che provocò oltre 11.000 morti.",
-          "Primo deceduto nel Bas-Uele, quasi 2.100 morti nel Paese"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Congo",
-          "Africa CDC",
-          "Bas-Uele"
-        ],
-        "numbersAndDates": [
-          "Primo deceduto nel Bas-Uele, quasi 2.100 morti nel Paese",
-          "2.100",
-          "2014",
-          "2016",
-          "11.000"
-        ]
-      }
-    },
-    {
-      "id": "story-7c3196a9e3b19e1e",
-      "title": "Drone di Kiev sconfina in Lettonia, i caccia italiani lo abbattono",
-      "summary": "Allerta nei cieli Nato. Riga ringrazia Roma: “Risultato tangibile delle decisioni di Ankara”. L’ipotesi è che si sia trattato di un quadricottero ucraino deviato dalla traiettoria originale",
-      "spokenText": "Un drone di Kiev ha sconfinato in Lettonia ed è stato abbattuto dai caccia italiani. Riga ringrazia Roma definendo l'evento un 'risultato tangibile delle decisioni di Ankara'. L'ipotesi è che si sia trattato di un quadricottero ucraino deviato dalla traiettoria originale. In aggiunta, due caccia F-16 turchi di stanza presso la base aerea di Ämari, in Estonia, hanno preso il volo per assistere i colleghi. Il ministro degli Esteri russo Serghei Lavrov ha dichiarato: 'Renderemo i nostri metodi molto più duri per distruggere tutto ciò che l'Occidente sta facendo per alimentare la macchina militare di Kiev: lo stiamo già facendo, stanno già iniziando a lamentarsi'.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "lettonia",
-        "italia"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 42,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/15/news/drone_ucraina_lettonia_abbattuto_da_caccia_italiani-425529631/"
-      },
-      "analysis": {
-        "mainFact": "Un drone di Kiev ha sconfinato in Lettonia ed è stato abbattuto dai caccia italiani.",
-        "whyItMatters": "Riga ringrazia Roma definendo l'evento un 'risultato tangibile delle decisioni di Ankara'.",
-        "confirmedFacts": [
-          "Un drone di Kiev ha sconfinato in Lettonia ed è stato abbattuto dai caccia italiani.",
-          "Riga ringrazia Roma definendo l'evento un 'risultato tangibile delle decisioni di Ankara'.",
-          "L’ipotesi è che si sia trattato di un quadricottero ucraino deviato dalla traiettoria originale",
-          "In aggiunta, due caccia F-16 turchi di stanza presso la base aerea di Ämari, in Estonia, hanno preso il volo per assistere i colleghi.",
-          "\"Renderemo i nostri metodi molto più duri per distruggere tutto ciò che l'Occidente sta facendo per alimentare la macchina militare di Kiev: lo stiamo già facendo, stanno già iniziando a lamentarsi\", ha dichiarato il ministro degli Esteri russi Serghei Lavrov in un'intervista all'emittente televisiva Vesti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Lettonia",
-          "Italia"
-        ],
-        "numbersAndDates": [
-          "In aggiunta, due caccia F-16 turchi di stanza presso la base aerea di Ämari, in Estonia, hanno preso il volo per assistere i colleghi."
-        ]
-      }
-    },
-    {
-      "id": "story-55fa3822e3378d5e",
-      "title": "Francia, stop al ban dei social per gli under 15: legge bocciata",
-      "summary": "Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista. The post Francia, stop al ban dei social per gli under 15: legge bocciata appeared first on Punto Informatico.",
-      "spokenText": "Il Consiglio costituzionale francese ha bocciato il divieto di accesso ai social network per i minori di quindici anni, una misura fortemente voluta dal presidente Emmanuel Macron. Nel motivare la decisione, i membri del Consiglio hanno ritenuto che il provvedimento rappresentasse una violazione sproporzionata della libertà di espressione dei minori, un principio ritenuto non bilanciabile con un blocco generalizzato. La Francia, quindi, non sarà il primo paese europeo a introdurre uno stop così netto fino ai quindici anni, contrariamente a quanto era stato previsto nel dibattito pubblico. Di fronte a questo stop, il presidente Macron avrebbe già dato mandato al premier Sébastien Lecornu di redigere una nuova versione della legge in tempi relativamente brevi, con l'obiettivo di arrivare a una soluzione definitiva entro la primavera del 2027. La misura, così come era stata concepita, è stata giudicata sproporzionata e dovrà ora essere completamente rivista per trovare un punto di equilibrio tra la protezione dei più giovani e i diritti costituzionali.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "consiglio costituzionale francese",
-        "emmanuel macron",
-        "francia"
+        "europa"
       ],
       "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 64,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/francia-stop-ban-social-under-15-legge-bocciata/"
-      },
-      "analysis": {
-        "mainFact": "Il Consiglio costituzionale francese ha bocciato il divieto dei social network per gli under 15, ritenendo la misura sproporzionata.",
-        "whyItMatters": "I membri del Consiglio costituzionale hanno ritenuto che la misura rappresenti una violazione sproporzionata della libertà di espressione dei minori.",
-        "confirmedFacts": [
-          "Il Consiglio costituzionale francese ha bocciato il divieto dei social network per gli under 15, ritenendo la misura sproporzionata.",
-          "I membri del Consiglio costituzionale hanno ritenuto che la misura rappresenti una violazione sproporzionata della libertà di espressione dei minori.",
-          "Il divieto dei social network ai minori di 15 anni, misura voluta fortemente dal presidente francese Emmanuel Macron, è stata bocciata dal Consiglio costituzionale.",
-          "La Francia non sarà il primo paese europeo a impedire l’accesso ai social fino ai 15 anni , a differenza di quanto previsto .",
-          "Anzi, stando a quanto rivelato da ANSA, il presidente francese avrebbe già dato mandato al premier Sébastien Lecornu di redigere una nuova versione della legge in tempi relativamente brevi, con l’obiettivo di arrivare a una soluzione definitiva entro la primavera 2027 .",
-          "Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista.",
-          "Francia, stop al ban dei social per gli under 15: legge bocciata Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista.",
-          "Schiaffo a Macron, bocciato il divieto dei social agli under 15"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Consiglio costituzionale francese",
-          "Emmanuel Macron",
-          "Francia"
-        ],
-        "numbersAndDates": [
-          "Il divieto dei social network ai minori di 15 anni, misura voluta fortemente dal presidente francese Emmanuel Macron, è stata bocciata dal Consiglio costituzionale.",
-          "La Francia non sarà il primo paese europeo a impedire l’accesso ai social fino ai 15 anni , a differenza di quanto previsto .",
-          "Anzi, stando a quanto rivelato da ANSA, il presidente francese avrebbe già dato mandato al premier Sébastien Lecornu di redigere una nuova versione della legge in tempi relativamente brevi, con l’obiettivo di arrivare a una soluzione definitiva entro la primavera 2027 .",
-          "Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista.",
-          "Francia, stop al ban dei social per gli under 15: legge bocciata Il Consiglio costituzionale francese boccia il divieto dei social per gli under 15: la misura è ritenuta sproporzionata, andrà rivista.",
-          "Schiaffo a Macron, bocciato il divieto dei social agli under 15",
-          "15"
-        ]
-      }
-    },
-    {
-      "id": "story-ed40499d0fbe8033",
-      "title": "La Casa Bianca accusa oltre 40 Paesi di aiutare la Cina a eludere i dazi Usa",
-      "summary": "La Casa Bianca, a un mese dalla visita a Washington del presidente Xi Jinping, accusa la Cina di far transitare miliardi di dollari di merci attraverso altri Paesi per eludere...",
-      "spokenText": "La Casa Bianca ha formalizzato un’accusa che delinea un meccanismo di elusione commerciale su scala globale: oltre quaranta Paesi starebbero aiutando la Cina a bypassare i dazi statunitensi. Un’analisi del Dipartimento del Commercio ha provato a quantificare il fenomeno, ipotizzando che nello scorso anno circa sessantasette miliardi di dollari di merci siano transitate dalla Cina attraverso Messico, India e Vietnam. Lo schema denunciato consiste nel far transitare le merci attraverso un Paese terzo per beneficiare di un’aliquota tariffaria inferiore.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "casa bianca",
-        "cina",
-        "dipartimento del commercio",
-        "messico",
-        "india",
-        "vietnam"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/la-casa-bianca-accusa-oltre-40-paesi-aiutare-cina-eludere-dazi-usa-AJAqOdm"
-      },
-      "analysis": {
-        "mainFact": "La Casa Bianca accusa oltre 40 Paesi di aiutare la Cina a eludere i dazi Usa.",
-        "whyItMatters": "Lo schema denunciato consiste nel far transitare le merci attraverso un Paese terzo per beneficiare di un’aliquota tariffaria inferiore.",
-        "confirmedFacts": [
-          "La Casa Bianca accusa oltre 40 Paesi di aiutare la Cina a eludere i dazi Usa.",
-          "Lo schema denunciato consiste nel far transitare le merci attraverso un Paese terzo per beneficiare di un’aliquota tariffaria inferiore.",
-          "Ad esempio, un’analisi del Dipartimento del Commercio ha ipotizzato che circa 67 miliardi di merci siano transitate dalla Cina attraverso Messico, India e Vietnam lo scorso anno, con conseguente perdita di circa 28 miliardi di dollari di entrate."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Casa Bianca",
-          "Cina",
-          "Dipartimento del Commercio",
-          "Messico",
-          "India",
-          "Vietnam"
-        ],
-        "numbersAndDates": [
-          "Ad esempio, un’analisi del Dipartimento del Commercio ha ipotizzato che circa 67 miliardi di merci siano transitate dalla Cina attraverso Messico, India e Vietnam lo scorso anno, con conseguente perdita di circa 28 miliardi di dollari di entrate.",
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-6a47af92c7bf32c0",
-      "title": "Giovani e lavoro: il report ILO lancia l'allarme IA",
-      "summary": "L’ingresso nel mercato del lavoro si è fatto leggermente più difficile per i giovani: nel 2025 il tasso mondiale di disoccupazione tra i 15 e i 24 anni ha raggiunto il 12,4%, contro il 12,3% dell’anno...",
-      "spokenText": "L'International Labour Organization, nel rapporto Employment and Social Trends 2026, stima che nel mondo ci siano 67,3 milioni di giovani disoccupati. Ma il dato più ampio riguarda i circa 257 milioni di giovani, pari al 20% del totale, che risultano esclusi contemporaneamente dal lavoro, dall'istruzione e dalla formazione. La stabilità del tasso principale di disoccupazione convive quindi con una quota molto più estesa di lavoro potenziale inutilizzato. Il report ILO lancia l'allarme IA su giovani e lavoro.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "ilo",
-        "international labour organization",
-        "giovani",
-        "employment and social trends 2026"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 31,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/altro/ilo-67-3-milioni-di-giovani-senza-lavoro-l-ia-puo-frenare"
-      },
-      "analysis": {
-        "mainFact": "Il report ILO lancia l'allarme IA su giovani e lavoro.",
-        "whyItMatters": "La stabilità del tasso principale convive quindi con una quota molto più estesa di lavoro potenziale inutilizzato.",
-        "confirmedFacts": [
-          "Il report ILO lancia l'allarme IA su giovani e lavoro.",
-          "La stabilità del tasso principale convive quindi con una quota molto più estesa di lavoro potenziale inutilizzato.",
-          "L’ International Labour Organization stima 67,3 milioni di giovani disoccupati nel rapporto Employment and Social Trends 2026 ,",
-          "Circa 257 milioni di giovani , pari al 20% del totale, risultavano esclusi contemporaneamente dal lavoro, dall’istruzione e dalla formazione."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ILO",
-          "International Labour Organization",
-          "giovani",
-          "Employment and Social Trends 2026"
-        ],
-        "numbersAndDates": [
-          "L’ International Labour Organization stima 67,3 milioni di giovani disoccupati nel rapporto Employment and Social Trends 2026 ,",
-          "Circa 257 milioni di giovani , pari al 20% del totale, risultavano esclusi contemporaneamente dal lavoro, dall’istruzione e dalla formazione."
-        ]
-      }
-    },
-    {
-      "id": "story-d29cd86e3cf266e9",
-      "title": "BBC Inside Science",
-      "summary": "Ricercatori della Stanford University negli Stati Uniti hanno annunciato di aver creato nuovi tipi di virus progettati dall'intelligenza artificiale. Nel frattempo, 50 anni fa le straordinarie sonde spaziali Viking della NASA atterravano su Marte, aprendo nuove frontiere nella scienza spaziale.",
-      "spokenText": "Ricercatori della Stanford University negli Stati Uniti hanno annunciato di aver creato nuovi tipi di virus progettati dall'intelligenza artificiale. Nel frattempo, 50 anni fa le straordinarie sonde spaziali Viking della NASA atterravano su Marte, aprendo nuove frontiere nella scienza spaziale.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "stanford university",
-        "nasa",
-        "bbc inside science"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 16,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct9780?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Ricercatori della Stanford University negli Stati Uniti hanno annunciato di aver creato nuovi tipi di virus progettati dall'intelligenza artificiale.",
-        "whyItMatters": "Nel frattempo, 50 anni fa le straordinarie sonde spaziali Viking della NASA atterravano su Marte, aprendo nuove frontiere nella scienza spaziale.",
-        "confirmedFacts": [
-          "Ricercatori della Stanford University negli Stati Uniti hanno annunciato di aver creato nuovi tipi di virus progettati dall'intelligenza artificiale.",
-          "Nel frattempo, 50 anni fa le straordinarie sonde spaziali Viking della NASA atterravano su Marte, aprendo nuove frontiere nella scienza spaziale.",
-          "BBC Inside Science Play Bookmark Bookmark Subscribe Subscribe Available for 33 days The extreme possibilities of synthetic biology hit the headlines last week, when researchers at Stanford University in the US announced they had created new kinds of viruses designed by Artificial Intelligence.",
-          "Meanwhile, 50 years ago NASA's remarkable Viking space probes touched down on Mars, breaking new frontiers in space science."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Stanford University",
-          "NASA",
-          "BBC Inside Science"
-        ],
-        "numbersAndDates": [
-          "50"
-        ]
-      }
-    },
-    {
-      "id": "story-7ee7809beb491316",
-      "title": "Entanglement verde",
-      "summary": "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare. La ricerca, guidata dall’Università di Ottawa (Canada) e dal Max Planck Institute for the Science of Light (Germania) è stata pubblicata su Optica la scorsa settimana e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche",
-      "spokenText": "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare. La ricerca, guidata dall'Università di Ottawa e dal Max Planck Institute for the Science of Light, è stata pubblicata su Optica e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "universita di ottawa",
-        "max planck institute for the science of light",
-        "optica"
-      ],
-      "importance": 85,
       "mustInclude": true,
       "estimatedSeconds": 20,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/13/entanglement-con-luce-solare/"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/economia/2026/08/16/news/il_caldo_estremo_costa_all_italia_una_manovra_di_bilancio_l_europa_brucia_180_miliardi_l_1_di_pil-425530765/"
       },
       "analysis": {
-        "mainFact": "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare.",
-        "whyItMatters": "La ricerca, guidata dall'Università di Ottawa e dal Max Planck Institute for the Science of Light, è stata pubblicata su Optica e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche.",
+        "mainFact": "Il caldo estremo costa all'Europa 180 miliardi di euro, pari all'1% del Pil.",
+        "whyItMatters": "L’impatto negativo somma gli effetti dell’aggravio di spesa dovuto all’uso degli impianti di refrigerazione, la siccità che secca i fiumi, ostacolando anche i trasporti, incendi e maggiore pressione sul sistema sanitario",
         "confirmedFacts": [
-          "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare.",
-          "La ricerca, guidata dall'Università di Ottawa e dal Max Planck Institute for the Science of Light, è stata pubblicata su Optica e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche.",
-          "La ricerca, guidata dall’Università di Ottawa (Canada) e dal Max Planck Institute for the Science of Light (Germania) è stata pubblicata su Optica la scorsa settimana e apre le porte a un futuro ecologicamente più sostenibile per le tecnologie quantistiche"
+          "Il caldo estremo costa all'Europa 180 miliardi di euro, pari all'1% del Pil.",
+          "L’impatto negativo somma gli effetti dell’aggravio di spesa dovuto all’uso degli impianti di refrigerazione, la siccità che secca i fiumi, ostacolando anche i trasporti, incendi e maggiore pressione sul sistema sanitario",
+          "L’Europa brucia 180 miliardi, l’1% di Pil"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Università di Ottawa",
-          "Max Planck Institute for the Science of Light",
-          "Optica"
+          "Italia",
+          "Europa"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "180",
+          "1"
+        ]
       }
     },
     {
-      "id": "story-b1682ba5c3e2de74",
-      "title": "Il governo del Regno Unito sta valutando di ridurre l'obiettivo di vendita di nuove auto elettriche dall'80% al 50% entro il 2030",
-      "summary": "Il governo del Regno Unito sta valutando di ridurre l'obiettivo di vendita di nuove auto elettriche dall'80% al 50% entro il 2030. Secondo la politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
-      "spokenText": "Il governo britannico sta valutando una revisione degli obiettivi per la vendita di auto elettriche nuove, con la possibilità di ridurre la quota prevista per il 2030 dall'80% al 50%. L'esecutivo ha ora dichiarato di voler consultare le parti interessate fino a fine ottobre su questa ipotesi di ridimensionamento. Se l'obiettivo per le auto puramente elettriche venisse portato al 50%, la restante metà delle vendite dovrebbe essere costituita da veicoli ibridi. Un'altra opzione sul tavolo prevede di mantenere la soglia dell'80%, ma estendendo fino al 2034 la flessibilità concessa ai costruttori. Resta comunque in vigore la scadenza più lontana del 2035, che segna l'eliminazione graduale delle nuove auto ibride. Secondo la politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
+      "id": "story-dcc23af4bdc1f0c0",
+      "title": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+      "summary": "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico. L’Osservatorio, istituto presso il Ministero dell’Ambiente e della Sicurezza energetica, ha fra i suoi compiti l’indirizzo e il coordinamento multilivello per l’attuazione del Piano nazionale di adattamento ai cambiamenti climatici (Pnacc) nonché la definizione di priorità di intervento, l’aggiornamento delle azioni e l’individuazione delle fonti di finanziamento. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
+      "spokenText": "Il Sistema nazionale per la protezione dell’ambiente ha ufficialmente individuato i propri esperti che entreranno a far parte dell’Osservatorio nazionale sull’adattamento climatico, insediatosi il 24 febbraio 2026. Con questo passaggio, il Piano nazionale di adattamento ai cambiamenti climatici, approvato nel 2023, entra nella sua fase operativa. La loro presenza innesta competenze tecniche dentro una governance multilivello che coordina Ministeri, Protezione Civile, Regioni, ANCI e altri enti territoriali, trasformando la strategia in attuazione concreta sul territorio. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa. Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
       "category": "ambiente",
       "tags": [
-        "ambiente"
+        "ambiente",
+        "snpa",
+        "osservatorio nazionale sull adattamento climatic",
+        "ispra",
+        "arpa",
+        "pnacc"
       ],
-      "importance": 95,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 58,
+      "estimatedSeconds": 53,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/snpa-contribuisce-all2019attuazione-del-piano-nazionale-di-adattamento-al-cambiamento-climatico"
       },
       "analysis": {
-        "mainFact": "Il governo del Regno Unito sta valutando di ridurre l'obiettivo di vendita di nuove auto elettriche dall'80% al 50% entro il 2030.",
-        "whyItMatters": "Secondo la politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
+        "mainFact": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+        "whyItMatters": "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano passa dalla fase strategica all'attuazione operativa, grazie a una governance multilivello che coordina Ministeri, Protezione Civile, Regioni, ANCI e altri enti territoriali.",
         "confirmedFacts": [
-          "Il governo del Regno Unito sta valutando di ridurre l'obiettivo di vendita di nuove auto elettriche dall'80% al 50% entro il 2030.",
-          "Secondo la politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
-          "Il governo ha ora dichiarato di stare valutando di ridurre tale cifra fino al 50% di tutte le vendite entro la fine del decennio, su cui si consulterà fino a fine ottobre.",
-          "Ciò significa che se il governo riducesse gli obiettivi di vendita di auto puramente elettriche al 50%, l'altro 50% dovrebbe essere ibrido.",
-          "Un'altra opzione sarebbe mantenere l'obiettivo all'80% ma con flessibilità per i produttori di automobili estesa fino al 2034.",
-          "Attualmente, i produttori devono garantire che una percentuale delle auto vendute ogni anno sia a zero emissioni, con l'obiettivo in aumento ogni anno fino a raggiungere l'80% entro il 2030.",
-          "Resterebbe inoltre in vigore una scadenza a più lungo termine per l'eliminazione graduale delle vendite di nuove auto ibride, fissata al 2035."
+          "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+          "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano passa dalla fase strategica all'attuazione operativa, grazie a una governance multilivello che coordina Ministeri, Protezione Civile, Regioni, ANCI e altri enti territoriali.",
+          "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico.",
+          "Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
+          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [],
+        "peopleAndOrganizations": [
+          "SNPA",
+          "Osservatorio nazionale sull'adattamento climatico",
+          "ISPRA",
+          "Arpa",
+          "Pnacc"
+        ],
         "numbersAndDates": [
-          "Il governo ha ora dichiarato di stare valutando di ridurre tale cifra fino al 50% di tutte le vendite entro la fine del decennio, su cui si consulterà fino a fine ottobre.",
-          "Ciò significa che se il governo riducesse gli obiettivi di vendita di auto puramente elettriche al 50%, l'altro 50% dovrebbe essere ibrido.",
-          "Un'altra opzione sarebbe mantenere l'obiettivo all'80% ma con flessibilità per i produttori di automobili estesa fino al 2034.",
-          "Attualmente, i produttori devono garantire che una percentuale delle auto vendute ogni anno sia a zero emissioni, con l'obiettivo in aumento ogni anno fino a raggiungere l'80% entro il 2030.",
-          "Resterebbe inoltre in vigore una scadenza a più lungo termine per l'eliminazione graduale delle vendite di nuove auto ibride, fissata al 2035.",
-          "80",
-          "50",
-          "2030",
-          "33",
+          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
+          "24",
           "2026"
         ]
       }
     },
     {
-      "id": "story-c6c5d1d568409213",
-      "title": "La centrale nucleare di Cernavodă, che produce il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni",
-      "summary": "La centrale nucleare di Cernavodă, che produce il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
-      "spokenText": "La centrale nucleare di Cernavodă, in Romania, non tornerà in funzione entro i prossimi dieci giorni. Lo ha dichiarato direttamente il direttore dell’impianto, Romeo Urjan, all’agenzia di stampa AFP, spiegando che al momento non è previsto un riavvio in questo arco temporale. Si tratta di un evento raro per l’infrastruttura, che era stata chiusa soltanto una volta in precedenza, nel 2003. I due reattori della centrale producono circa il venti per cento dell’elettricità nazionale. Le acque del secondo fiume più lungo d'Europa sono scese ai livelli più bassi da 30 anni in diversi Paesi.",
+      "id": "story-5a1920724efe8c60",
+      "title": "Terremoto Indonesia, almeno 47 morti. Nell’isola di Flores ci sono 500 italiani: «Le scosse continuano»",
+      "summary": "La Farnesina rende noto che “attraverso l’Unità di Crisi e in stretto raccordo con l’ambasciata d’Italia a Giacarta segue costantemente l’evoluzione della situazione in Indonesia dopo le violente scosse di...",
+      "spokenText": "Un terremoto in Indonesia ha causato almeno 47 morti. L’ambasciata e l’Unità di Crisi sono impegnate nelle verifiche sulla situazione dei connazionali presenti nell’area. A parlare è l’imprenditore Francesco Geminiani, che insieme ad altri 12 turisti bolognesi si trova sull’isola di Flores, in Indonesia, dove alla vigilia di Ferragosto si è verificato un terremoto di 7. 7 gradi della scala Richter. Nell’isola di Flores ci sono 500 italiani: «Le scosse continuano». Nuova forte scossa a Sumatra Ad esser colpita stavolta è stata l’isola di Sumatra, con un sisma di magnitudo 6. 9, come comunicato dall’Usgs, l’istututo di studi geologici degli Stati Uniti. L’epicentro della scossa è stato localizzato a 126 chilometri a sudest di Medan, il capoluogo dell’isola 15 agosto 2026. Tra questi circa 500 si trovano nell’isola di Flores, l’area maggiormente colpita dal sisma.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "romania"
+        "indonesia",
+        "isola di flores",
+        "sumatra",
+        "unita di crisi",
+        "francesco geminiani",
+        "usgs"
       ],
-      "importance": 85,
+      "importance": 65,
       "mustInclude": true,
-      "estimatedSeconds": 38,
+      "estimatedSeconds": 54,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/indonesia-terremoto-magnitudo-77-almeno-20-vittime-AJTP00m"
       },
       "analysis": {
-        "mainFact": "La centrale nucleare di Cernavodă, che produce il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
-        "whyItMatters": "La centrale di Cernavodă, dove due reattori producono circa il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
+        "mainFact": "Un terremoto in Indonesia ha causato almeno 47 morti.",
+        "whyItMatters": "L’ambasciata e l’Unità di Crisi sono impegnate nelle verifiche sulla situazione dei connazionali presenti nell’area.",
         "confirmedFacts": [
-          "La centrale nucleare di Cernavodă, che produce il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
-          "La centrale di Cernavodă, dove due reattori producono circa il 20% dell'elettricità della Romania, non dovrebbe essere riavviata entro i prossimi 10 giorni.",
-          "\"Non prevediamo un riavvio entro i prossimi 10 giorni\", ha dichiarato il direttore dell'impianto Romeo Urjan all'agenzia di stampa AFP.",
-          "Le acque del secondo fiume più lungo d'Europa sono scese ai livelli più bassi da 30 anni in diversi Paesi.",
-          "Cernavodă era stata chiusa solo una volta in precedenza, nel 2003."
+          "Un terremoto in Indonesia ha causato almeno 47 morti.",
+          "L’ambasciata e l’Unità di Crisi sono impegnate nelle verifiche sulla situazione dei connazionali presenti nell’area.",
+          "A parlare è l’imprenditore Francesco Geminiani, che insieme ad altri 12 turisti bolognesi si trova sull’isola di Flores, in Indonesia, dove alla vigilia di Ferragosto si è verificato un terremoto di 7. 7 gradi della scala Richter.",
+          "Nell’isola di Flores ci sono 500 italiani: «Le scosse continuano»",
+          "Nuova forte scossa a Sumatra Ad esser colpita stavolta è stata l’isola di Sumatra, con un sisma di magnitudo 6. 9, come comunicato dall’Usgs, l’istututo di studi geologici degli Stati Uniti.",
+          "Nell’isola di Flores ci sono 500 italiani: «Le scosse continuano» L’epicentro della scossa è stato localizzato a 126 chilometri a sudest di Medan, il capoluogo dell’isola 15 agosto 2026",
+          "Tra questi circa 500 si trovano nell’isola di Flores, l’area maggiormente colpita dal sisma."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Romania"
+          "Indonesia",
+          "isola di Flores",
+          "Sumatra",
+          "Unità di Crisi",
+          "Francesco Geminiani",
+          "Usgs"
         ],
         "numbersAndDates": [
-          "\"Non prevediamo un riavvio entro i prossimi 10 giorni\", ha dichiarato il direttore dell'impianto Romeo Urjan all'agenzia di stampa AFP.",
-          "Le acque del secondo fiume più lungo d'Europa sono scese ai livelli più bassi da 30 anni in diversi Paesi.",
-          "Cernavodă era stata chiusa solo una volta in precedenza, nel 2003.",
-          "20",
-          "10"
+          "A parlare è l’imprenditore Francesco Geminiani, che insieme ad altri 12 turisti bolognesi si trova sull’isola di Flores, in Indonesia, dove alla vigilia di Ferragosto si è verificato un terremoto di 7. 7 gradi della scala Richter.",
+          "Nuova forte scossa a Sumatra Ad esser colpita stavolta è stata l’isola di Sumatra, con un sisma di magnitudo 6. 9, come comunicato dall’Usgs, l’istututo di studi geologici degli Stati Uniti.",
+          "Tra questi circa 500 si trovano nell’isola di Flores, l’area maggiormente colpita dal sisma.",
+          "47"
+        ]
+      }
+    },
+    {
+      "id": "story-c5d4f8ef80d0cebd",
+      "title": "Tar conferma, ok al cannabidiolo solo con ricetta medica non ripetibile",
+      "summary": "Respinti i ricorsi contro le restrizioni del ministero della Salute sul Cbd",
+      "spokenText": "Tar conferma, ok al cannabidiolo solo con ricetta medica non ripetibile.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "tar",
+        "cannabidiolo"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 5,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/08/14/tar-conferma-ok-al-cannabidiolo-solo-con-ricetta-medica-non-ripetibile_97435d1d-1930-460d-80ca-56a5ab4162af.html"
+      },
+      "analysis": {
+        "mainFact": "Tar conferma, ok al cannabidiolo solo con ricetta medica non ripetibile",
+        "whyItMatters": "Sentenza su CBD solo con ricetta: impatto su accesso a terapie e mercato farmaceutico.",
+        "confirmedFacts": [
+          "Tar conferma, ok al cannabidiolo solo con ricetta medica non ripetibile",
+          "Sentenza su CBD solo con ricetta: impatto su accesso a terapie e mercato farmaceutico."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Tar",
+          "cannabidiolo"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-d743a6866ea4bf64",
+      "title": "Esplosioni a Kiev dopo l'allarme missili balistici",
+      "summary": "Il sindaco: 'La città è sotto attacco, restate in casa'",
+      "spokenText": "Esplosioni a Kiev dopo l'allarme missili balistici. Il sindaco: 'La città è sotto attacco, restate in casa'. Anche Kremenchuk, nella regione centrale di Poltava, è finita sotto attacco.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "kiev",
+        "kremenchuk",
+        "missili balistici"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 12,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_4a588ee7-629b-4322-adbe-3dfc4721faaa.html"
+      },
+      "analysis": {
+        "mainFact": "Esplosioni a Kiev dopo l'allarme missili balistici",
+        "whyItMatters": "Il sindaco: 'La città è sotto attacco, restate in casa'. Anche Kremenchuk, nella regione centrale di Poltava, è finita sotto attacco.",
+        "confirmedFacts": [
+          "Esplosioni a Kiev dopo l'allarme missili balistici",
+          "Il sindaco: 'La città è sotto attacco, restate in casa'. Anche Kremenchuk, nella regione centrale di Poltava, è finita sotto attacco.",
+          "Il sindaco: 'La città è sotto attacco, restate in casa'",
+          "Anche Kremenchuk, nella regione centrale di Poltava, è finita sotto attacco, hanno riferito i funzionari locali, senza fornire dettagli su danni o vittime."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Kiev",
+          "Kremenchuk",
+          "missili balistici"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-9ae63684ca206586",
+      "title": "Noleggio sociale dell’auto a 100 euro al mese, il modello sarà unico. L’Aci lavora al bando",
+      "summary": "L’ente acquisterà 3mila vetture, con un plafond di 50 milioni di euro finanziato dal fondo automotive. Ecco i requisiti per accedere alla misura con possibilità di riscatto",
+      "spokenText": "L'Aci acquisterà 3mila vetture con un plafond di 50 milioni di euro finanziato dal fondo automotive per il noleggio sociale a 100 euro al mese. Ecco i requisiti per accedere alla misura con possibilità di riscatto.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "aci",
+        "fondo automotive"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 15,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/economia/2026/08/16/news/noleggio_sociale_dell_auto_un_modello_unico_a_100_euro_al_mese_il_bando_dell_aci_in_primavera-425530869/"
+      },
+      "analysis": {
+        "mainFact": "L'Aci acquisterà 3mila vetture con un plafond di 50 milioni di euro finanziato dal fondo automotive per il noleggio sociale a 100 euro al mese.",
+        "whyItMatters": "Ecco i requisiti per accedere alla misura con possibilità di riscatto",
+        "confirmedFacts": [
+          "L'Aci acquisterà 3mila vetture con un plafond di 50 milioni di euro finanziato dal fondo automotive per il noleggio sociale a 100 euro al mese.",
+          "Ecco i requisiti per accedere alla misura con possibilità di riscatto",
+          "Noleggio sociale dell’auto a 100 euro al mese, il modello sarà unico.",
+          "L’ente acquisterà 3mila vetture, con un plafond di 50 milioni di euro finanziato dal fondo automotive."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Aci",
+          "fondo automotive"
+        ],
+        "numbersAndDates": [
+          "50",
+          "100"
+        ]
+      }
+    },
+    {
+      "id": "story-c65d64f3c91e32dc",
+      "title": "Il ghiaccio lunare si scova con i lunamoti",
+      "summary": "Un nuovo studio pubblicato su Science Advances propone di usare le onde sismiche per individuare e mappare il ghiaccio d'acqua nascosto sotto la superficie della Luna. Sarebbe una risorsa essenziale per acqua, ossigeno e carburante degli astronauti che sbarcheranno sul satellite, e una testimonianza di come l’acqua sia stata trasportata nel Sistema solare primordiale",
+      "spokenText": "Il ghiaccio lunare si scova con i lunamoti. Un nuovo studio pubblicato su Science Advances propone di usare le onde sismiche per individuare e mappare il ghiaccio d'acqua nascosto sotto la superficie della Luna. Sarebbe una risorsa essenziale per acqua, ossigeno e carburante degli astronauti che sbarcheranno sul satellite, e una testimonianza di come l'acqua sia stata trasportata nel Sistema solare primordiale.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "luna",
+        "science advances",
+        "onde sismiche",
+        "ghiaccio d acqua"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 25,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/14/ghiaccio-lunare-moonquakes/"
+      },
+      "analysis": {
+        "mainFact": "Il ghiaccio lunare si scova con i lunamoti.",
+        "whyItMatters": "Un nuovo studio pubblicato su Science Advances propone di usare le onde sismiche per individuare e mappare il ghiaccio d'acqua nascosto sotto la superficie della Luna.",
+        "confirmedFacts": [
+          "Il ghiaccio lunare si scova con i lunamoti.",
+          "Un nuovo studio pubblicato su Science Advances propone di usare le onde sismiche per individuare e mappare il ghiaccio d'acqua nascosto sotto la superficie della Luna.",
+          "Sarebbe una risorsa essenziale per acqua, ossigeno e carburante degli astronauti che sbarcheranno sul satellite, e una testimonianza di come l’acqua sia stata trasportata nel Sistema solare primordiale"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Luna",
+          "Science Advances",
+          "onde sismiche",
+          "ghiaccio d'acqua"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-f8281c84955b9362",
+      "title": "Wsj, Lutnick chiede a Apple di non acquistare chip di memoria cinesi",
+      "summary": "Il Segretario al Commercio americano Howard Lutnick ha chiesto alla Apple di non acquistare chip di memoria dalla Cina, invitando il produttore di iPhone a trovare altre soluzioni alla carenza...",
+      "spokenText": "Lutnick chiede a Apple di non acquistare chip di memoria cinesi. Sebbene Apple personalizzi molti componenti all’interno degli iPhone, Khan ha detto che «non c’è molta possibilità di personalizzazione» per la memoria, alludendo alla possibilità che vengano utilizzati chip di memoria cinesi di bassa qualità. Apple si sta rivolgendo ai produttori cinesi, ma «l’amministrazione Trump non è favorevole a questa soluzione», ha dichiarato Lutnick dopo aver visitato uno stabilimento di produzione Apple a Houston . Ma ha affermato che, vista l’entità della carenza di chip, «dobbiamo valutare tutte le opzioni», compresa la collaborazione con i fornitori esistenti per aumentare la produzione negli Stati Uniti. «Senza sosta, sempre di più», ha detto Lutnick, descrivendo la pressione. «Vedrete, passo dopo passo e pezzo per pezzo, che riporteranno in patria porzioni significative della loro attività», ha affermato Lutnick.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "apple",
+        "stati uniti"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 54,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/wsj-lutnick-chiede-apple-non-acquistare-chip-memoria-cinesi-AJY0A9m"
+      },
+      "analysis": {
+        "mainFact": "Lutnick chiede a Apple di non acquistare chip di memoria cinesi",
+        "whyItMatters": "Sebbene Apple personalizzi molti componenti all’interno degli iPhone, Khan ha detto che «non c’è molta possibilità di personalizzazione» per la memoria, alludendo alla possibilità che vengano utilizzati chip di memoria cinesi di bassa qualità.",
+        "confirmedFacts": [
+          "Lutnick chiede a Apple di non acquistare chip di memoria cinesi",
+          "Sebbene Apple personalizzi molti componenti all’interno degli iPhone, Khan ha detto che «non c’è molta possibilità di personalizzazione» per la memoria, alludendo alla possibilità che vengano utilizzati chip di memoria cinesi di bassa qualità.",
+          "Apple si sta rivolgendo ai produttori cinesi, ma «l’amministrazione Trump non è favorevole a questa soluzione», ha dichiarato Lutnick dopo aver visitato uno stabilimento di produzione Apple a Houston .",
+          "Ma ha affermato che, vista l’entità della carenza di chip, «dobbiamo valutare tutte le opzioni», compresa la collaborazione con i fornitori esistenti per aumentare la produzione negli Stati Uniti.",
+          "«Senza sosta, sempre di più», ha detto Lutnick, descrivendo la pressione.",
+          "«Vedrete, passo dopo passo e pezzo per pezzo, che riporteranno in patria porzioni significative della loro attività», ha affermato Lutnick."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Apple",
+          "Stati Uniti"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-7504dec3e8198fd9",
+      "title": "Francia, Procura apre indagine dopo attacco cyber al Fisco: colpiti 700mila utenti",
+      "summary": "L’attacco informatico, come ha comunicato il ministero delle Finanze in una nota, ha consentito l’accesso ai dati di “cittadini” e “professionisti”",
+      "spokenText": "La procura francese ha aperto un’indagine dopo l’attacco informatico che ha colpito i sistemi della Direzione Generale delle Finanze Pubbliche, la Dgfip. L’accesso non autorizzato, avvenuto alla fine di giugno 2026, è stato rivendicato da un malintenzionato che, secondo quanto comunicato dal ministero delle Finanze, è riuscito a entrare nel sistema attraverso un furto d’identità. Le verifiche preliminari hanno confermato che, nonostante l’intrusione sia stata bloccata nell’ambito di un controllo, c’è stata la consultazione e l’estrazione di dati relativi a circa 700mila utenti, tra privati cittadini e professionisti.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "francia",
+        "direzione generale delle finanze pubbliche dgfip"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 36,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/francia-procura-apre-indagine-attacco-cyber-fisco-erano-stati-colpiti-700-mila-utenti-AJ9VrAn"
+      },
+      "analysis": {
+        "mainFact": "Procura apre indagine dopo attacco cyber al Fisco: colpiti 700mila utenti",
+        "whyItMatters": "Le indagini preliminari “confermano che l’accesso, bloccato alla fine di giugno nell’ambito di una verifica, ha comunque consentito la consultazione e l’estrazione di dati relativi a privati cittadini e utenti professionali”.",
+        "confirmedFacts": [
+          "Procura apre indagine dopo attacco cyber al Fisco: colpiti 700mila utenti",
+          "Le indagini preliminari “confermano che l’accesso, bloccato alla fine di giugno nell’ambito di una verifica, ha comunque consentito la consultazione e l’estrazione di dati relativi a privati cittadini e utenti professionali”.",
+          "L’attacco informatico, come ha comunicato il ministero delle Finanze in una nota, ha consentito l’accesso ai dati di “cittadini” e “professionisti”",
+          "“Un malintenzionato - si legge nella nota - ha rivendicato l’accesso non autorizzato al sistema informatico della Direzione Generale delle Finanze Pubbliche (Dgfip), avvenuto alla fine di giugno 2026 a seguito di un furto d’identità”."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Francia",
+          "Direzione Generale delle Finanze Pubbliche (Dgfip)"
+        ],
+        "numbersAndDates": [
+          "“Un malintenzionato - si legge nella nota - ha rivendicato l’accesso non autorizzato al sistema informatico della Direzione Generale delle Finanze Pubbliche (Dgfip), avvenuto alla fine di giugno 2026 a seguito di un furto d’identità”."
+        ]
+      }
+    },
+    {
+      "id": "story-85071005930b6f64",
+      "title": "Cariche e lacrimogeni, il Marocco blocca centinaia di migranti verso Ceuta",
+      "summary": "Momenti di tensione al confine ma il nuovo assalto all'exclave per ora è sventato",
+      "spokenText": "Le autorità marocchine hanno bloccato centinaia di migranti che tentavano di raggiungere Ceuta, ricorrendo a cariche e lacrimogeni. Circa 294 persone sono state fermate mentre cercavano di avvicinarsi alla frontiera dalla vicina Fnideq, nel nord del Marocco, secondo fonti della sicurezza citate dal quotidiano digitale Hespress. Dei fermati, 248 sono migranti provenienti dall'Africa subsahariana e 46 sono cittadini marocchini. Momenti di tensione al confine, ma il nuovo assalto all'exclave per ora è sventato.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "marocco",
+        "ceuta",
+        "fnideq",
+        "hespress"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 30,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/15/cariche-e-lacrimogeni-rabat-blocca-centinaia-di-migranti-verso-ceuta_576bf0e9-6d55-4d19-83e2-c2b538dffcf8.html"
+      },
+      "analysis": {
+        "mainFact": "Il Marocco ha bloccato centinaia di migranti che tentavano di raggiungere Ceuta con cariche e lacrimogeni.",
+        "whyItMatters": "Momenti di tensione al confine ma il nuovo assalto all'exclave per ora è sventato",
+        "confirmedFacts": [
+          "Il Marocco ha bloccato centinaia di migranti che tentavano di raggiungere Ceuta con cariche e lacrimogeni.",
+          "Momenti di tensione al confine ma il nuovo assalto all'exclave per ora è sventato",
+          "Dei fermati, 248 sono migranti provenienti dall'Africa subsahariana e 46 sono cittadini marocchini.",
+          "Circa 294 persone sono state fermate dalle autorità marocchine mentre tentavano di raggiungere la frontiera con Ceuta dalla vicina Fnideq (in spagnolo Castillejos), nel nord del Marocco, secondo quanto riferito da fonti della sicurezza citate dal quotidiano digitale marocchino Hespress."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Marocco",
+          "Ceuta",
+          "Fnideq",
+          "Hespress"
+        ],
+        "numbersAndDates": [
+          "Dei fermati, 248 sono migranti provenienti dall'Africa subsahariana e 46 sono cittadini marocchini.",
+          "Circa 294 persone sono state fermate dalle autorità marocchine mentre tentavano di raggiungere la frontiera con Ceuta dalla vicina Fnideq (in spagnolo Castillejos), nel nord del Marocco, secondo quanto riferito da fonti della sicurezza citate dal quotidiano digitale marocchino Hespress."
+        ]
+      }
+    },
+    {
+      "id": "story-b1682ba5c3e2de74",
+      "title": "Il governo britannico sta valutando di ridurre il target di vendita di nuove auto elettriche dall'80% al 50% entro il 2030",
+      "summary": "Il governo britannico sta valutando di ridurre il target di vendita di nuove auto elettriche dall'80% al 50% entro il 2030. se l'obiettivo per le auto elettriche pure scendesse al 50%, l'altro 50% dovrebbe essere ibrido.",
+      "spokenText": "Il governo britannico sta valutando una revisione sostanziale del percorso di elettrificazione del parco auto. Se questa modifica venisse adottata, la restante metà delle immatricolazioni dovrebbe essere rappresentata da veicoli ibridi. Attualmente, la politica in vigore, nota come mandato ZEV, prevede un incremento annuale della quota di veicoli a zero emissioni, che dovrebbe passare dal 33% nel 2026 fino a raggiungere l’80% alla fine del decennio. L’esecutivo ha precisato che la consultazione su questa possibile rimodulazione resterà aperta fino alla fine di ottobre. Tra le alternative in discussione figura anche il mantenimento dell’obiettivo dell’80%, ma con l’introduzione di una maggiore flessibilità per i costruttori, estesa fino al 2034. Resta invece confermata la scadenza di più lungo periodo, fissata al 2035, per l’eliminazione graduale delle vendite di nuovi veicoli ibridi.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "zev mandate"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 52,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Il governo britannico sta valutando di ridurre il target di vendita di nuove auto elettriche dall'80% al 50% entro il 2030.",
+        "whyItMatters": "se l'obiettivo per le auto elettriche pure scendesse al 50%, l'altro 50% dovrebbe essere ibrido.",
+        "confirmedFacts": [
+          "Il governo britannico sta valutando di ridurre il target di vendita di nuove auto elettriche dall'80% al 50% entro il 2030.",
+          "se l'obiettivo per le auto elettriche pure scendesse al 50%, l'altro 50% dovrebbe essere ibrido.",
+          "Il governo ha ora dichiarato che sta valutando di ridurre tale cifra fino al 50% di tutte le vendite entro la fine del decennio, su cui si consulterà fino a fine ottobre.",
+          "In base alla politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
+          "Un'altra opzione sarebbe mantenere il target all'80% ma con flessibilità per i produttori di auto estesa fino al 2034.",
+          "Resterebbe inoltre in vigore una scadenza a più lungo termine per l'eliminazione graduale delle vendite di nuovi ibridi, fissata al 2035."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "ZEV mandate"
+        ],
+        "numbersAndDates": [
+          "Il governo ha ora dichiarato che sta valutando di ridurre tale cifra fino al 50% di tutte le vendite entro la fine del decennio, su cui si consulterà fino a fine ottobre.",
+          "In base alla politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
+          "Un'altra opzione sarebbe mantenere il target all'80% ma con flessibilità per i produttori di auto estesa fino al 2034.",
+          "Resterebbe inoltre in vigore una scadenza a più lungo termine per l'eliminazione graduale delle vendite di nuovi ibridi, fissata al 2035.",
+          "80",
+          "50",
+          "2030"
+        ]
+      }
+    },
+    {
+      "id": "story-b920957518ba0990",
+      "title": "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha sviluppato un modello di machine learning in grado di prevedere la",
+      "summary": "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha sviluppato un modello di machine learning in grado di prevedere la comparsa di regioni attive sul Sole fino a 12 ore prima. Il Solar Dynamics Observatory della NASA ha catturato questa immagine di un brillamento solare — visibile come il lampo luminoso in alto a destra — il 30 giugno 2026.",
+      "spokenText": "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha messo a punto un modello di machine learning capace di prevedere la comparsa di regioni attive sul Sole con un anticipo fino a 12 ore. Per dare un’idea concreta, questo stesso intervallo temporale è stato utilizzato per tracciare il campo magnetico sulla superficie solare durante la formazione della regione attiva AR11158, osservata nel febbraio 2011. Il Solar Dynamics Observatory della NASA ha documentato fenomeni simili, come il brillamento solare immortalato il 30 giugno 2026, visibile come un lampo luminoso in alto a destra nelle immagini catturate. L'ufficio di analisi dello space weather Moon to Mars della NASA monitora lo space weather 7 giorni su 7.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "coffies"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 48,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/"
+      },
+      "analysis": {
+        "mainFact": "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha sviluppato un modello di machine learning in grado di prevedere la comparsa di regioni attive sul Sole fino a 12 ore prima.",
+        "whyItMatters": "Il Solar Dynamics Observatory della NASA ha catturato questa immagine di un brillamento solare — visibile come il lampo luminoso in alto a destra — il 30 giugno 2026.",
+        "confirmedFacts": [
+          "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha sviluppato un modello di machine learning in grado di prevedere la comparsa di regioni attive sul Sole fino a 12 ore prima.",
+          "Il Solar Dynamics Observatory della NASA ha catturato questa immagine di un brillamento solare — visibile come il lampo luminoso in alto a destra — il 30 giugno 2026.",
+          "Questo particolare intervallo temporale traccia il campo magnetico sulla superficie del Sole durante la comparsa della regione attiva AR11158 nel febbraio 2011.",
+          "L'ufficio di analisi dello space weather Moon to Mars della NASA monitora lo space weather 7 giorni su 7."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "COFFIES"
+        ],
+        "numbersAndDates": [
+          "Questo particolare intervallo temporale traccia il campo magnetico sulla superficie del Sole durante la comparsa della regione attiva AR11158 nel febbraio 2011.",
+          "L'ufficio di analisi dello space weather Moon to Mars della NASA monitora lo space weather 7 giorni su 7.",
+          "12",
+          "30",
+          "2026"
         ]
       }
     },
@@ -531,7 +489,7 @@
       "id": "story-04e62a5a74f00877",
       "title": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica",
       "summary": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
-      "spokenText": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica. Experts project yearly infections will triple by 2030 .",
+      "spokenText": "L'epidemia di HIV nelle Fiji è stata ufficialmente classificata come un'emergenza di salute pubblica. Experts project yearly infections will triple by 2030 .",
       "category": "salute",
       "tags": [
         "salute",
@@ -541,17 +499,17 @@
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 8,
+      "estimatedSeconds": 10,
       "source": {
         "name": "The Conversation",
         "url": "https://theconversation.com/fijis-hiv-outbreak-is-a-public-health-emergency-pacific-neighbours-must-step-up-286066"
       },
       "analysis": {
         "mainFact": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
-        "whyItMatters": "Emergenza sanitaria pubblica con la crescita più rapida di HIV al mondo. Impatto diretto su salute globale e diritti.",
+        "whyItMatters": "Epidemia HIV nelle Fiji: emergenza sanitaria con crescita rapida, rilevante per salute globale e diritti.",
         "confirmedFacts": [
           "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
-          "Emergenza sanitaria pubblica con la crescita più rapida di HIV al mondo. Impatto diretto su salute globale e diritti.",
+          "Epidemia HIV nelle Fiji: emergenza sanitaria con crescita rapida, rilevante per salute globale e diritti.",
           "Experts project yearly infections will triple by 2030 ."
         ],
         "uncertainties": [],
@@ -566,83 +524,82 @@
       }
     },
     {
-      "id": "story-985a3d9aa9c9f1ce",
-      "title": "Opere di Matisse rubate sono state recuperate dalla polizia in Brasile",
-      "summary": "Opere di Matisse rubate sono state recuperate dalla polizia in Brasile. Un uomo di 44 anni è stato arrestato sul posto.",
-      "spokenText": "Un uomo di 44 anni è stato arrestato sul posto mentre la polizia brasiliana recuperava delle opere di Matisse rubate. Il furto originale era avvenuto il 7 dicembre dello scorso anno alla Biblioteca Mário de Andrade, dove due ladri avevano sopraffatto una guardia di sicurezza e una coppia di anziani in visita, fuggendo poi a piedi dall’ingresso principale con i quadri. Sembra la trama di un film, e invece è quanto accaduto realmente, un colpo che ricorda da vicino un altro episodio clamoroso: tra il 22 e il 23 marzo, alla Fondazione Magnani Rocca di Mamiano di Traversetolo, nel Parmense, una banda ha portato via tre opere di Cézanne, Renoir e Matisse per un valore complessivo di oltre 9 milioni di euro.",
-      "category": "cultura",
+      "id": "story-30073a8803531362",
+      "title": "Un volontario sviluppa uno strumento di machine learning per identificare nuvole rare",
+      "summary": "Un volontario sviluppa uno strumento di machine learning per identificare nuvole rare. Per aiutare a identificare i fattori che influenzano questi cambiamenti (ad esempio, i cambiamenti nei modelli meteorologici a lungo termine della Terra), gli scienziati hanno chiesto a persone in tutto il mondo con macchine fotografiche di inviare nuove immagini di queste nuvole come parte del progetto Space Cloud",
+      "spokenText": "Queste nuvole, che appaiono più spesso e a quote più basse, sono al centro del progetto Space Cloud Watch, che invita persone in tutto il mondo a inviare fotografie. L'obiettivo è aiutare gli scienziati a identificare i fattori che influenzano questi cambiamenti, come le variazioni nei modelli meteorologici a lungo termine della Terra. Lo strumento di machine learning analizza le immagini raccolte, affiancando il lavoro dei volontari e accelerando la ricerca.",
+      "category": "scienza",
       "tags": [
-        "cultura",
-        "matisse",
-        "biblioteca mario de andrade"
+        "scienza",
+        "nasa",
+        "space cloud watch",
+        "machine learning"
       ],
-      "importance": 72,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 49,
+      "estimatedSeconds": 29,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss"
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/"
       },
       "analysis": {
-        "mainFact": "Opere di Matisse rubate sono state recuperate dalla polizia in Brasile.",
-        "whyItMatters": "Un uomo di 44 anni è stato arrestato sul posto.",
+        "mainFact": "Un volontario sviluppa uno strumento di machine learning per identificare nuvole rare.",
+        "whyItMatters": "Per aiutare a identificare i fattori che influenzano questi cambiamenti (ad esempio, i cambiamenti nei modelli meteorologici a lungo termine della Terra), gli scienziati hanno chiesto a persone in tutto il mondo con macchine fotografiche di inviare nuove immagini di queste nuvole come parte del progetto Space Cloud",
         "confirmedFacts": [
-          "Opere di Matisse rubate sono state recuperate dalla polizia in Brasile.",
-          "Un uomo di 44 anni è stato arrestato sul posto.",
-          "Durante il furto alla Biblioteca Mário de Andrade del 7 dicembre dello scorso anno, due ladri hanno sopraffatto una guardia di sicurezza e una coppia di anziani in visita alla biblioteca, prima di fuggire con le opere d'arte attraverso l'ingresso principale a piedi.",
-          "Sembra la trama di un film, invece è quanto accaduto tra il 22 e il 23 marzo alla Fondazione Magnani Rocca di Mamiano di Traversetolo, nel Parmense, dove una banda ha portato via tre opere di Cézanne, Renoir e Matisse per un valore complessivo di oltre 9 milioni di euro."
+          "Un volontario sviluppa uno strumento di machine learning per identificare nuvole rare.",
+          "Per aiutare a identificare i fattori che influenzano questi cambiamenti (ad esempio, i cambiamenti nei modelli meteorologici a lungo termine della Terra), gli scienziati hanno chiesto a persone in tutto il mondo con macchine fotografiche di inviare nuove immagini di queste nuvole come parte del progetto Space Cloud",
+          "To help identify the factors influencing these changes (e.g. shifts in Earth’s long-term weather patterns), scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Matisse",
-          "Biblioteca Mário de Andrade"
+          "NASA",
+          "Space Cloud Watch",
+          "machine learning"
         ],
-        "numbersAndDates": [
-          "Durante il furto alla Biblioteca Mário de Andrade del 7 dicembre dello scorso anno, due ladri hanno sopraffatto una guardia di sicurezza e una coppia di anziani in visita alla biblioteca, prima di fuggire con le opere d'arte attraverso l'ingresso principale a piedi.",
-          "Sembra la trama di un film, invece è quanto accaduto tra il 22 e il 23 marzo alla Fondazione Magnani Rocca di Mamiano di Traversetolo, nel Parmense, dove una banda ha portato via tre opere di Cézanne, Renoir e Matisse per un valore complessivo di oltre 9 milioni di euro.",
-          "44"
-        ]
+        "numbersAndDates": []
       }
     },
     {
       "id": "story-8be0ae04f7cb310c",
-      "title": "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale",
-      "summary": "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale. L'Ucraina è il più grande esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
-      "spokenText": "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale. Più del 90% dei prodotti agricoli ucraini passa dai porti del Mar Nero, e un recente attacco a una nave al largo di Odessa ha ucciso dieci persone. L'Ucraina è il primo esportatore mondiale di olio di girasole, il terzo di orzo, il quarto di mais e il quinto di grano. Il ministro dell'Agricoltura Taras Vysotsky stima un raccolto di circa 60 milioni di tonnellate, ma prevede esportazioni per soli 38-40 milioni, in calo del 12%.",
+      "title": "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale",
+      "summary": "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale. L'Ucraina è il primo esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
+      "spokenText": "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale. L'Ucraina è il primo esportatore mondiale di semi e olio di girasole, con il 50% dell'offerta globale, il terzo per l'orzo con il 18%, il quarto per il mais con il 16% e il quinto per il grano con il 12%. Più del 90% dei prodotti agricoli ucraini passa dai porti del Mar Nero, ma gli attacchi russi, come quello del 19 luglio a una nave al largo di Odesa che ha ucciso dieci persone, ostacolano le spedizioni.",
       "category": "mondo",
       "tags": [
         "mondo",
         "russia",
-        "taras vysotsky"
+        "taras vysotsky",
+        "holodomor"
       ],
       "importance": 70,
       "mustInclude": true,
-      "estimatedSeconds": 38,
+      "estimatedSeconds": 39,
       "source": {
         "name": "The Conversation",
         "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718"
       },
       "analysis": {
-        "mainFact": "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale.",
-        "whyItMatters": "L'Ucraina è il più grande esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
+        "mainFact": "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale.",
+        "whyItMatters": "L'Ucraina è il primo esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
         "confirmedFacts": [
-          "La Russia sta bloccando nuovamente le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale.",
-          "L'Ucraina è il più grande esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
-          "Questo includeva un attacco a una nave al largo di Odessa il 19 luglio, che ha ucciso dieci persone a bordo.",
-          "Più del 90% dei prodotti agricoli dell'Ucraina viene esportato attraverso i porti del Mar Nero.",
+          "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale.",
+          "L'Ucraina è il primo esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
+          "Michael Shtekel/AP Colpo agli agricoltori ucraini Più del 90% dei prodotti agricoli dell'Ucraina viene esportato attraverso i porti del Mar Nero.",
           "L'Ucraina prevede un raccolto di grano di circa 60 milioni di tonnellate quest'anno.",
-          "Ma il Ministro dell'Agricoltura Taras Vysotsky ha dichiarato che la previsione di esportazione di grano sarà solo di circa 38-40 milioni di tonnellate per l'anno fiscale 2026-27, un calo del 12% rispetto alle stime precedenti."
+          "Ma il ministro dell'Agricoltura Taras Vysotsky ha dichiarato che la previsione di esportazione di grano sarà solo di circa 38-40 milioni di tonnellate per l'anno fiscale 2026-27, un calo del 12% rispetto alle stime precedenti.",
+          "Questo includeva un attacco a una nave al largo di Odesa il 19 luglio, che ha ucciso dieci persone a bordo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Russia",
-          "Taras Vysotsky"
+          "Taras Vysotsky",
+          "Holodomor"
         ],
         "numbersAndDates": [
-          "Questo includeva un attacco a una nave al largo di Odessa il 19 luglio, che ha ucciso dieci persone a bordo.",
-          "Più del 90% dei prodotti agricoli dell'Ucraina viene esportato attraverso i porti del Mar Nero.",
+          "Michael Shtekel/AP Colpo agli agricoltori ucraini Più del 90% dei prodotti agricoli dell'Ucraina viene esportato attraverso i porti del Mar Nero.",
           "L'Ucraina prevede un raccolto di grano di circa 60 milioni di tonnellate quest'anno.",
-          "Ma il Ministro dell'Agricoltura Taras Vysotsky ha dichiarato che la previsione di esportazione di grano sarà solo di circa 38-40 milioni di tonnellate per l'anno fiscale 2026-27, un calo del 12% rispetto alle stime precedenti.",
+          "Ma il ministro dell'Agricoltura Taras Vysotsky ha dichiarato che la previsione di esportazione di grano sarà solo di circa 38-40 milioni di tonnellate per l'anno fiscale 2026-27, un calo del 12% rispetto alle stime precedenti.",
+          "Questo includeva un attacco a una nave al largo di Odesa il 19 luglio, che ha ucciso dieci persone a bordo.",
           "50",
           "18",
           "16",
