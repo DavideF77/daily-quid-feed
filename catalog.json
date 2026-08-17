@@ -1,610 +1,569 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-16-cef117e9d30c",
-  "generatedAt": "2026-08-16T05:58:25.523Z",
+  "catalogId": "daily-quid-2026-08-17-ba88cffed56f",
+  "generatedAt": "2026-08-17T06:05:23.042Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-374fc80dedd5a2e8",
-      "title": "Il caldo estremo costa all’Italia una manovra di bilancio. L’Europa brucia 180 miliardi, l’1% di Pil",
-      "summary": "Lo studio della Triodos Bank. L’impatto negativo somma gli effetti dell’aggravio di spesa dovuto all’uso degli impianti di refrigerazione, la siccità che secca i fiumi, ostacolando anche i trasporti, incendi e maggiore pressione sul sistema sanitario",
-      "spokenText": "Il caldo estremo costa all'Europa 180 miliardi di euro, pari all'1% del Pil. Un impatto negativo che somma gli effetti dell'aggravio di spesa dovuto all'uso degli impianti di refrigerazione, la siccità che secca i fiumi ostacolando anche i trasporti, gli incendi e una maggiore pressione sul sistema sanitario.",
+      "id": "story-8c0ee971913ad220",
+      "title": "È l’anno più torrido di sempre. L’allarme clima non finisce più",
+      "summary": "L’ondata di caldo sta per finire. Le temperature rientrano nella media, ma tutti i record sono già stati superati. E nel 2027, avvertono gli esperti, andrà ancora peggio. Colpa delle emissioni di gas serra",
+      "spokenText": "L’anno in corso è già il più torrido mai registrato, con tutti i record di temperatura che sono stati superati uno dopo l’altro. E le prospettive non sono rassicuranti, perché gli esperti avvertono che nel 2027 andrà ancora peggio. se le destre negano la portata del problema, le sinistre non brillano per capacità di proposta. Colpa delle emissioni di gas serra.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "italia",
-        "europa"
+        "centro sui sistemi complessi alla iulm"
       ],
       "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 20,
+      "estimatedSeconds": 25,
       "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/08/16/news/il_caldo_estremo_costa_all_italia_una_manovra_di_bilancio_l_europa_brucia_180_miliardi_l_1_di_pil-425530765/"
+        "url": "https://www.repubblica.it/cronaca/2026/08/17/news/caldo_record_temperature_2026-425532133/"
       },
       "analysis": {
-        "mainFact": "Il caldo estremo costa all'Europa 180 miliardi di euro, pari all'1% del Pil.",
-        "whyItMatters": "L’impatto negativo somma gli effetti dell’aggravio di spesa dovuto all’uso degli impianti di refrigerazione, la siccità che secca i fiumi, ostacolando anche i trasporti, incendi e maggiore pressione sul sistema sanitario",
+        "mainFact": "L'anno in corso è il più torrido di sempre e tutti i record di temperatura sono già stati superati.",
+        "whyItMatters": "Colpa delle emissioni di gas serra",
         "confirmedFacts": [
-          "Il caldo estremo costa all'Europa 180 miliardi di euro, pari all'1% del Pil.",
-          "L’impatto negativo somma gli effetti dell’aggravio di spesa dovuto all’uso degli impianti di refrigerazione, la siccità che secca i fiumi, ostacolando anche i trasporti, incendi e maggiore pressione sul sistema sanitario",
-          "L’Europa brucia 180 miliardi, l’1% di Pil"
+          "L'anno in corso è il più torrido di sempre e tutti i record di temperatura sono già stati superati.",
+          "Colpa delle emissioni di gas serra",
+          "E nel 2027, avvertono gli esperti, andrà ancora peggio.",
+          "L’allarme sul clima del direttore del Centro sui Sistemi Complessi alla Iulm: “Se le destre negano, le sinistre non brillano”"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Italia",
-          "Europa"
+          "Centro sui Sistemi Complessi alla Iulm"
         ],
         "numbersAndDates": [
-          "180",
-          "1"
+          "E nel 2027, avvertono gli esperti, andrà ancora peggio."
         ]
       }
     },
     {
-      "id": "story-dcc23af4bdc1f0c0",
-      "title": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-      "summary": "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico. L’Osservatorio, istituto presso il Ministero dell’Ambiente e della Sicurezza energetica, ha fra i suoi compiti l’indirizzo e il coordinamento multilivello per l’attuazione del Piano nazionale di adattamento ai cambiamenti climatici (Pnacc) nonché la definizione di priorità di intervento, l’aggiornamento delle azioni e l’individuazione delle fonti di finanziamento. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
-      "spokenText": "Il Sistema nazionale per la protezione dell’ambiente ha ufficialmente individuato i propri esperti che entreranno a far parte dell’Osservatorio nazionale sull’adattamento climatico, insediatosi il 24 febbraio 2026. Con questo passaggio, il Piano nazionale di adattamento ai cambiamenti climatici, approvato nel 2023, entra nella sua fase operativa. La loro presenza innesta competenze tecniche dentro una governance multilivello che coordina Ministeri, Protezione Civile, Regioni, ANCI e altri enti territoriali, trasformando la strategia in attuazione concreta sul territorio. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa. Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
+      "id": "story-d3b85e5e579fd63f",
+      "title": "Chiude per il caldo anche lo Stelvio, in Europa niente sci estivo",
+      "summary": "Temperature troppo alte sul ghiacciaio, restano aperte solo le piste indoor",
+      "spokenText": "Il ghiacciaio dello Stelvio chiude per le temperature troppo alte, impedendo lo sci estivo. In Europa le uniche possibilità di sciare sono al momento solo nelle piste indoor.",
       "category": "ambiente",
       "tags": [
-        "ambiente",
-        "snpa",
-        "osservatorio nazionale sull adattamento climatic",
-        "ispra",
-        "arpa",
-        "pnacc"
+        "ambiente"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 53,
+      "estimatedSeconds": 12,
       "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/snpa-contribuisce-all2019attuazione-del-piano-nazionale-di-adattamento-al-cambiamento-climatico"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/troppo-caldo-stop-allo-sci-estivo-sul-ghiacciaio-dello-stelvio_eb89ed9d-c824-4218-9bf7-eeee52c9df07.html"
       },
       "analysis": {
-        "mainFact": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-        "whyItMatters": "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano passa dalla fase strategica all'attuazione operativa, grazie a una governance multilivello che coordina Ministeri, Protezione Civile, Regioni, ANCI e altri enti territoriali.",
+        "mainFact": "Il ghiacciaio dello Stelvio chiude per le temperature troppo alte, impedendo lo sci estivo.",
+        "whyItMatters": "In Europa le uniche possibilità di sciare sono al momento solo nelle piste indoor.",
         "confirmedFacts": [
-          "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-          "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano passa dalla fase strategica all'attuazione operativa, grazie a una governance multilivello che coordina Ministeri, Protezione Civile, Regioni, ANCI e altri enti territoriali.",
-          "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico.",
-          "Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
-          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera."
+          "Il ghiacciaio dello Stelvio chiude per le temperature troppo alte, impedendo lo sci estivo.",
+          "In Europa le uniche possibilità di sciare sono al momento solo nelle piste indoor."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-70944a6af4b38a3b",
+      "title": "Ucraina, Mosca abbatte 205 droni di Kiev. Sei morti in attacco missilistico nella regione di Belgorod",
+      "summary": "Non si fermano gli attacchi ucraini in territorio russo. La difesa aerea di Mosca ha intercettato e distrutto 205 droni ucraini in volo sul Mar d’Azov e sul Mar Nero...",
+      "spokenText": "La notte scorsa la difesa aerea di Mosca ha intercettato e distrutto 205 droni ucraini in volo sul Mar d'Azov e sul Mar Nero. Il governatore ad interim della regione di Belgorod, Alexander Shuvayev, ha dichiarato su Telegram che un attacco missilistico ucraino ha ucciso sei persone e ne ha ferite altre quattro, tra cui un ragazzo di quattordici anni. Andrej Vorobiev ha definito l’offensiva degli ultimi giorni «uno dei più massicci a memoria d’uomo». Mosca abbatte 205 droni di Kiev.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "ucraina",
+        "mosca",
+        "belgorod",
+        "kryvyi rih"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/ucraina-mosca-abbatte-205-droni-kiev-sei-morti-attacco-missilistico-regione-belgorod-AJ620vn"
+      },
+      "analysis": {
+        "mainFact": "La difesa aerea di Mosca ha intercettato e distrutto 205 droni ucraini in volo sul Mar d'Azov e sul Mar Nero durante la notte.",
+        "whyItMatters": "Sei morti in attacco missilistico nella regione di Belgorod",
+        "confirmedFacts": [
+          "La difesa aerea di Mosca ha intercettato e distrutto 205 droni ucraini in volo sul Mar d'Azov e sul Mar Nero durante la notte.",
+          "Sei morti in attacco missilistico nella regione di Belgorod",
+          "Un attacco missilistico ucraino ha ucciso sei persone e ne ha ferite altre quattro, tra cui un bambino di quattordici anni, nella regione russa di Belgorod, ha dichiarato lunedì il governatore ad interim Alexander Shuvayev sull'app di messaggistica Telegram.",
+          "Andrej Vorobiev, ha definito l’attacco ucraino degli ultimi giorni «uno dei più massicci a memoria d’uomo».",
+          "Nella gionata di ieri, in Ucraina, droni e missili russi hanno ucciso due persone e ferito altre 14 in un’acciaieria a Kryvyi Rih.",
+          "Mosca abbatte 205 droni di Kiev."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "SNPA",
-          "Osservatorio nazionale sull'adattamento climatico",
-          "ISPRA",
-          "Arpa",
-          "Pnacc"
+          "Ucraina",
+          "Mosca",
+          "Belgorod",
+          "Kryvyi Rih"
         ],
         "numbersAndDates": [
-          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
-          "24",
+          "Nella gionata di ieri, in Ucraina, droni e missili russi hanno ucciso due persone e ferito altre 14 in un’acciaieria a Kryvyi Rih.",
+          "Mosca abbatte 205 droni di Kiev.",
+          "205"
+        ]
+      }
+    },
+    {
+      "id": "story-3a7121e7b0eb2a6e",
+      "title": "Per l’esplosione a Colleferro la pista del sabotaggio russo",
+      "summary": "Rogo alla fabbrica di armi, la procura indaga sui possibili collegamenti con un altro sito di munizioni saltato in aria in Bulgaria",
+      "spokenText": "Per l'esplosione a Colleferro la procura indaga sulla pista del sabotaggio russo.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "colleferro"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 5,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/17/news/colleferro_esplosione_fabbrica_armi_pista_russa_ucraina-425532055/"
+      },
+      "analysis": {
+        "mainFact": "Per l'esplosione a Colleferro la procura indaga sulla pista del sabotaggio russo.",
+        "whyItMatters": "Esplosione in fabbrica armi con pista sabotaggio russo. Implicazioni sicurezza nazionale e industriale.",
+        "confirmedFacts": [
+          "Per l'esplosione a Colleferro la procura indaga sulla pista del sabotaggio russo.",
+          "Esplosione in fabbrica armi con pista sabotaggio russo. Implicazioni sicurezza nazionale e industriale."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Colleferro"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-9035c0d7290af702",
+      "title": "Al via la campagna elettorale per le presidenziali in Brasile",
+      "summary": "Lula punta al quarto mandato e a contrastare l'avanzata della destra nel continente",
+      "spokenText": "In Brasile è ufficialmente iniziata la campagna elettorale per le presidenziali. Al centro della scena c'è l'attuale presidente Lula, che punta a un inedito quarto mandato e a contrastare l'avanzata della destra nel continente. La sua principale sfida arriva da Flavio Bolsonaro, figlio dell'ex presidente Jair, condannato per il tentativo di colpo di Stato del gennaio 2023. La candidatura di Flavio rappresenta il tentativo della destra di tornare al potere, nonostante le vicende giudiziarie che hanno colpito la famiglia Bolsonaro.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "brasile",
+        "flavio bolsonaro"
+      ],
+      "importance": 65,
+      "mustInclude": true,
+      "estimatedSeconds": 32,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/al-via-la-campagna-elettorale-per-le-presidenziali-in-brasile_773d557d-c45c-4d22-8227-b8c0964aa2ca.html"
+      },
+      "analysis": {
+        "mainFact": "Al via la campagna elettorale per le presidenziali in Brasile.",
+        "whyItMatters": "L'attuale presidente Lula punta a un inedito quarto mandato e a contrastare il ritorno della destra di Flavio Bolsonaro, figlio dell'ex presidente Jair condannato per il tentativo di colpo di Stato del gennaio 2023.",
+        "confirmedFacts": [
+          "Al via la campagna elettorale per le presidenziali in Brasile.",
+          "L'attuale presidente Lula punta a un inedito quarto mandato e a contrastare il ritorno della destra di Flavio Bolsonaro, figlio dell'ex presidente Jair condannato per il tentativo di colpo di Stato del gennaio 2023.",
+          "Lula punta al quarto mandato e a contrastare l'avanzata della destra nel continente"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Brasile",
+          "Flavio Bolsonaro"
+        ],
+        "numbersAndDates": [
+          "2023"
+        ]
+      }
+    },
+    {
+      "id": "story-6e7c6b022aab50ec",
+      "title": "Svizzera alza l’Iva di 0,5 punti per aumentare gli acquisti di armi",
+      "summary": "Per difendersi dalle minacce ibride e a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento",
+      "spokenText": "Svizzera alza l’Iva di 0,alcuni aspetti per aumentare gli acquisti di armi. Per difendersi dalle minacce ibride e a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento. L’orientamento dell’esercito alla capacità di difesa deciso dal Consiglio federale il 19 giugno 2026 e gli acquisti di armamenti prioritari previsti a questo scopo, conclude il comunicato, potranno essere realizzati soltanto se l’esercito disporrà dei mezzi supplementari proposti.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "svizzera",
+        "consiglio federale"
+      ],
+      "importance": 65,
+      "mustInclude": true,
+      "estimatedSeconds": 30,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/svizzera-alza-l-iva-05-punti-aumentare-acquisti-armi-AJBzpin"
+      },
+      "analysis": {
+        "mainFact": "Svizzera alza l’Iva di 0,alcuni aspetti per aumentare gli acquisti di armi",
+        "whyItMatters": "Per difendersi dalle minacce ibride e a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento",
+        "confirmedFacts": [
+          "Svizzera alza l’Iva di 0,alcuni aspetti per aumentare gli acquisti di armi",
+          "Per difendersi dalle minacce ibride e a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento",
+          "L’orientamento dell’esercito alla capacità di difesa deciso dal Consiglio federale il 19 giugno 2026 e gli acquisti di armamenti prioritari previsti a questo scopo, conclude il comunicato, potranno essere realizzati soltanto se l’esercito disporrà dei mezzi supplementari proposti.",
+          "Per difendersi dalle minacce più probabili, ossia attività ibride e minacce a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Svizzera",
+          "Consiglio federale"
+        ],
+        "numbersAndDates": [
+          "L’orientamento dell’esercito alla capacità di difesa deciso dal Consiglio federale il 19 giugno 2026 e gli acquisti di armamenti prioritari previsti a questo scopo, conclude il comunicato, potranno essere realizzati soltanto se l’esercito disporrà dei mezzi supplementari proposti.",
+          "Per difendersi dalle minacce più probabili, ossia attività ibride e minacce a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento.",
+          "0,",
+          "24"
+        ]
+      }
+    },
+    {
+      "id": "story-a6d5a0232c30a9bd",
+      "title": "Summer School \"Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza”",
+      "summary": "Nell’ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA, L’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA), organizza la Summer School sugli “Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza” che si svolgerà nella città di Trieste dal 14 al 18 Settembre 2026.",
+      "spokenText": "Catene di connessioni e resilienza’. L’iniziativa, promossa attraverso la Scuola di Specializzazione in Discipline Ambientali, si terrà a Trieste dal 14 al 18 settembre 2026. L'evento formativo affronta il tema dell'impatto dei cambiamenti climatici sugli ecosistemi marino-costieri.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "ispra",
+        "scuola di specializzazione in discipline ambient"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 15,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/summer-school-ecosistemi-marino-costieri-e-cambiamenti-climatici-catene-di-connessioni-e-resilienza"
+      },
+      "analysis": {
+        "mainFact": "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 Settembre 2026.",
+        "whyItMatters": "L'evento formativo affronta il tema dell'impatto dei cambiamenti climatici sugli ecosistemi marino-costieri.",
+        "confirmedFacts": [
+          "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 Settembre 2026.",
+          "L'evento formativo affronta il tema dell'impatto dei cambiamenti climatici sugli ecosistemi marino-costieri."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "ISPRA",
+          "Scuola di Specializzazione in Discipline Ambientali"
+        ],
+        "numbersAndDates": [
+          "14",
+          "18",
           "2026"
         ]
       }
     },
     {
-      "id": "story-5a1920724efe8c60",
-      "title": "Terremoto Indonesia, almeno 47 morti. Nell’isola di Flores ci sono 500 italiani: «Le scosse continuano»",
-      "summary": "La Farnesina rende noto che “attraverso l’Unità di Crisi e in stretto raccordo con l’ambasciata d’Italia a Giacarta segue costantemente l’evoluzione della situazione in Indonesia dopo le violente scosse di...",
-      "spokenText": "Un terremoto in Indonesia ha causato almeno 47 morti. L’ambasciata e l’Unità di Crisi sono impegnate nelle verifiche sulla situazione dei connazionali presenti nell’area. A parlare è l’imprenditore Francesco Geminiani, che insieme ad altri 12 turisti bolognesi si trova sull’isola di Flores, in Indonesia, dove alla vigilia di Ferragosto si è verificato un terremoto di 7. 7 gradi della scala Richter. Nell’isola di Flores ci sono 500 italiani: «Le scosse continuano». Nuova forte scossa a Sumatra Ad esser colpita stavolta è stata l’isola di Sumatra, con un sisma di magnitudo 6. 9, come comunicato dall’Usgs, l’istututo di studi geologici degli Stati Uniti. L’epicentro della scossa è stato localizzato a 126 chilometri a sudest di Medan, il capoluogo dell’isola 15 agosto 2026. Tra questi circa 500 si trovano nell’isola di Flores, l’area maggiormente colpita dal sisma.",
-      "category": "ambiente",
+      "id": "story-ebc9a80eaa840fcf",
+      "title": "Agenti AI cinesi attaccano agenzie governative di Taiwan",
+      "summary": "Agenti AI basati su OpenClaw e Hermes, controllati da cybercriminali cinesi, hanno effettuato diversi attacchi contro agenzie governative di Taiwan. The post Agenti AI cinesi attaccano agenzie governative di Taiwan appeared first on Punto Informatico.",
+      "spokenText": "Il Ministro degli Affari Digitali di Taiwan ha confermato una serie di attacchi informatici contro agenzie governative, condotti da cybercriminali cinesi tramite agenti AI open source OpenClaw e Hermes. Secondo Dream Security, gli attacchi, iniziati il 20 luglio e durati quattro giorni, hanno visto otto sub-agenti coordinati per compiti distinti. Gli agenti hanno ottenuto l'accesso a oltre 2.500 dati personali, per lo più di dipendenti delle agenzie. Gli attacchi sono stati rilevati e contenuti senza gravi danni.",
+      "category": "tecnologia",
       "tags": [
-        "ambiente",
-        "indonesia",
-        "isola di flores",
-        "sumatra",
-        "unita di crisi",
-        "francesco geminiani",
-        "usgs"
+        "tecnologia",
+        "taiwan",
+        "openclaw",
+        "hermes",
+        "dream security",
+        "ministro degli affari digitali di taiwan"
       ],
-      "importance": 65,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 54,
+      "estimatedSeconds": 31,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/indonesia-terremoto-magnitudo-77-almeno-20-vittime-AJTP00m"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/agenti-ai-cinesi-attaccano-agenzie-governative-taiwan/"
       },
       "analysis": {
-        "mainFact": "Un terremoto in Indonesia ha causato almeno 47 morti.",
-        "whyItMatters": "L’ambasciata e l’Unità di Crisi sono impegnate nelle verifiche sulla situazione dei connazionali presenti nell’area.",
+        "mainFact": "Agenti AI cinesi basati su OpenClaw e Hermes, controllati da cybercriminali cinesi, hanno effettuato diversi attacchi contro agenzie governative di Taiwan.",
+        "whyItMatters": "Il Ministro degli Affari Digitali di Taiwan ha confermato una serie di attacchi effettuati da agenti AI contro varie agenzie governative.",
         "confirmedFacts": [
-          "Un terremoto in Indonesia ha causato almeno 47 morti.",
-          "L’ambasciata e l’Unità di Crisi sono impegnate nelle verifiche sulla situazione dei connazionali presenti nell’area.",
-          "A parlare è l’imprenditore Francesco Geminiani, che insieme ad altri 12 turisti bolognesi si trova sull’isola di Flores, in Indonesia, dove alla vigilia di Ferragosto si è verificato un terremoto di 7. 7 gradi della scala Richter.",
-          "Nell’isola di Flores ci sono 500 italiani: «Le scosse continuano»",
-          "Nuova forte scossa a Sumatra Ad esser colpita stavolta è stata l’isola di Sumatra, con un sisma di magnitudo 6. 9, come comunicato dall’Usgs, l’istututo di studi geologici degli Stati Uniti.",
-          "Nell’isola di Flores ci sono 500 italiani: «Le scosse continuano» L’epicentro della scossa è stato localizzato a 126 chilometri a sudest di Medan, il capoluogo dell’isola 15 agosto 2026",
-          "Tra questi circa 500 si trovano nell’isola di Flores, l’area maggiormente colpita dal sisma."
+          "Agenti AI cinesi basati su OpenClaw e Hermes, controllati da cybercriminali cinesi, hanno effettuato diversi attacchi contro agenzie governative di Taiwan.",
+          "Il Ministro degli Affari Digitali di Taiwan ha confermato una serie di attacchi effettuati da agenti AI contro varie agenzie governative.",
+          "Secondo Dream Security, cybercriminali cinesi hanno utilizzato agenti open source OpenClaw e Hermes per coordinare gli attacchi di 8 sub-agenti effettuati in quattro giorni.",
+          "Gli agenti AI basati su OpenClaw e Hermes hanno assegnato compiti distinti ad ognuno degli 8 sub-agenti.",
+          "Attacco in autonomia con OpenClaw e Hermes Il Ministro degli Affari Digitali ha spiegato che gli attacchi sono iniziati il 20 luglio, ma non hanno causato gravi danni (in pratica sono stati rilevati e contenuti).",
+          "Utilizzando questi account, gli agenti AI hanno ottenuto l’accesso ad oltre 2.500 dati personali, la maggioranza dei quali appartengono a dipendenti delle agenzie.",
+          "Uno degli attacchi è stato descritto da Dream Security ."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Indonesia",
-          "isola di Flores",
-          "Sumatra",
-          "Unità di Crisi",
-          "Francesco Geminiani",
-          "Usgs"
+          "Taiwan",
+          "OpenClaw",
+          "Hermes",
+          "Dream Security",
+          "Ministro degli Affari Digitali di Taiwan"
         ],
         "numbersAndDates": [
-          "A parlare è l’imprenditore Francesco Geminiani, che insieme ad altri 12 turisti bolognesi si trova sull’isola di Flores, in Indonesia, dove alla vigilia di Ferragosto si è verificato un terremoto di 7. 7 gradi della scala Richter.",
-          "Nuova forte scossa a Sumatra Ad esser colpita stavolta è stata l’isola di Sumatra, con un sisma di magnitudo 6. 9, come comunicato dall’Usgs, l’istututo di studi geologici degli Stati Uniti.",
-          "Tra questi circa 500 si trovano nell’isola di Flores, l’area maggiormente colpita dal sisma.",
-          "47"
+          "Secondo Dream Security, cybercriminali cinesi hanno utilizzato agenti open source OpenClaw e Hermes per coordinare gli attacchi di 8 sub-agenti effettuati in quattro giorni.",
+          "Gli agenti AI basati su OpenClaw e Hermes hanno assegnato compiti distinti ad ognuno degli 8 sub-agenti.",
+          "Attacco in autonomia con OpenClaw e Hermes Il Ministro degli Affari Digitali ha spiegato che gli attacchi sono iniziati il 20 luglio, ma non hanno causato gravi danni (in pratica sono stati rilevati e contenuti).",
+          "Utilizzando questi account, gli agenti AI hanno ottenuto l’accesso ad oltre 2.500 dati personali, la maggioranza dei quali appartengono a dipendenti delle agenzie."
         ]
       }
     },
     {
-      "id": "story-c5d4f8ef80d0cebd",
-      "title": "Tar conferma, ok al cannabidiolo solo con ricetta medica non ripetibile",
-      "summary": "Respinti i ricorsi contro le restrizioni del ministero della Salute sul Cbd",
-      "spokenText": "Tar conferma, ok al cannabidiolo solo con ricetta medica non ripetibile.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "tar",
-        "cannabidiolo"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 5,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/08/14/tar-conferma-ok-al-cannabidiolo-solo-con-ricetta-medica-non-ripetibile_97435d1d-1930-460d-80ca-56a5ab4162af.html"
-      },
-      "analysis": {
-        "mainFact": "Tar conferma, ok al cannabidiolo solo con ricetta medica non ripetibile",
-        "whyItMatters": "Sentenza su CBD solo con ricetta: impatto su accesso a terapie e mercato farmaceutico.",
-        "confirmedFacts": [
-          "Tar conferma, ok al cannabidiolo solo con ricetta medica non ripetibile",
-          "Sentenza su CBD solo con ricetta: impatto su accesso a terapie e mercato farmaceutico."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Tar",
-          "cannabidiolo"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-d743a6866ea4bf64",
-      "title": "Esplosioni a Kiev dopo l'allarme missili balistici",
-      "summary": "Il sindaco: 'La città è sotto attacco, restate in casa'",
-      "spokenText": "Esplosioni a Kiev dopo l'allarme missili balistici. Il sindaco: 'La città è sotto attacco, restate in casa'. Anche Kremenchuk, nella regione centrale di Poltava, è finita sotto attacco.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "kiev",
-        "kremenchuk",
-        "missili balistici"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/16/esplosioni-a-kiev-dopo-lallarme-missili-balistici_4a588ee7-629b-4322-adbe-3dfc4721faaa.html"
-      },
-      "analysis": {
-        "mainFact": "Esplosioni a Kiev dopo l'allarme missili balistici",
-        "whyItMatters": "Il sindaco: 'La città è sotto attacco, restate in casa'. Anche Kremenchuk, nella regione centrale di Poltava, è finita sotto attacco.",
-        "confirmedFacts": [
-          "Esplosioni a Kiev dopo l'allarme missili balistici",
-          "Il sindaco: 'La città è sotto attacco, restate in casa'. Anche Kremenchuk, nella regione centrale di Poltava, è finita sotto attacco.",
-          "Il sindaco: 'La città è sotto attacco, restate in casa'",
-          "Anche Kremenchuk, nella regione centrale di Poltava, è finita sotto attacco, hanno riferito i funzionari locali, senza fornire dettagli su danni o vittime."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Kiev",
-          "Kremenchuk",
-          "missili balistici"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-9ae63684ca206586",
-      "title": "Noleggio sociale dell’auto a 100 euro al mese, il modello sarà unico. L’Aci lavora al bando",
-      "summary": "L’ente acquisterà 3mila vetture, con un plafond di 50 milioni di euro finanziato dal fondo automotive. Ecco i requisiti per accedere alla misura con possibilità di riscatto",
-      "spokenText": "L'Aci acquisterà 3mila vetture con un plafond di 50 milioni di euro finanziato dal fondo automotive per il noleggio sociale a 100 euro al mese. Ecco i requisiti per accedere alla misura con possibilità di riscatto.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "aci",
-        "fondo automotive"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 15,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/08/16/news/noleggio_sociale_dell_auto_un_modello_unico_a_100_euro_al_mese_il_bando_dell_aci_in_primavera-425530869/"
-      },
-      "analysis": {
-        "mainFact": "L'Aci acquisterà 3mila vetture con un plafond di 50 milioni di euro finanziato dal fondo automotive per il noleggio sociale a 100 euro al mese.",
-        "whyItMatters": "Ecco i requisiti per accedere alla misura con possibilità di riscatto",
-        "confirmedFacts": [
-          "L'Aci acquisterà 3mila vetture con un plafond di 50 milioni di euro finanziato dal fondo automotive per il noleggio sociale a 100 euro al mese.",
-          "Ecco i requisiti per accedere alla misura con possibilità di riscatto",
-          "Noleggio sociale dell’auto a 100 euro al mese, il modello sarà unico.",
-          "L’ente acquisterà 3mila vetture, con un plafond di 50 milioni di euro finanziato dal fondo automotive."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Aci",
-          "fondo automotive"
-        ],
-        "numbersAndDates": [
-          "50",
-          "100"
-        ]
-      }
-    },
-    {
-      "id": "story-c65d64f3c91e32dc",
-      "title": "Il ghiaccio lunare si scova con i lunamoti",
-      "summary": "Un nuovo studio pubblicato su Science Advances propone di usare le onde sismiche per individuare e mappare il ghiaccio d'acqua nascosto sotto la superficie della Luna. Sarebbe una risorsa essenziale per acqua, ossigeno e carburante degli astronauti che sbarcheranno sul satellite, e una testimonianza di come l’acqua sia stata trasportata nel Sistema solare primordiale",
-      "spokenText": "Il ghiaccio lunare si scova con i lunamoti. Un nuovo studio pubblicato su Science Advances propone di usare le onde sismiche per individuare e mappare il ghiaccio d'acqua nascosto sotto la superficie della Luna. Sarebbe una risorsa essenziale per acqua, ossigeno e carburante degli astronauti che sbarcheranno sul satellite, e una testimonianza di come l'acqua sia stata trasportata nel Sistema solare primordiale.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "luna",
-        "science advances",
-        "onde sismiche",
-        "ghiaccio d acqua"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 25,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/14/ghiaccio-lunare-moonquakes/"
-      },
-      "analysis": {
-        "mainFact": "Il ghiaccio lunare si scova con i lunamoti.",
-        "whyItMatters": "Un nuovo studio pubblicato su Science Advances propone di usare le onde sismiche per individuare e mappare il ghiaccio d'acqua nascosto sotto la superficie della Luna.",
-        "confirmedFacts": [
-          "Il ghiaccio lunare si scova con i lunamoti.",
-          "Un nuovo studio pubblicato su Science Advances propone di usare le onde sismiche per individuare e mappare il ghiaccio d'acqua nascosto sotto la superficie della Luna.",
-          "Sarebbe una risorsa essenziale per acqua, ossigeno e carburante degli astronauti che sbarcheranno sul satellite, e una testimonianza di come l’acqua sia stata trasportata nel Sistema solare primordiale"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Luna",
-          "Science Advances",
-          "onde sismiche",
-          "ghiaccio d'acqua"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f8281c84955b9362",
-      "title": "Wsj, Lutnick chiede a Apple di non acquistare chip di memoria cinesi",
-      "summary": "Il Segretario al Commercio americano Howard Lutnick ha chiesto alla Apple di non acquistare chip di memoria dalla Cina, invitando il produttore di iPhone a trovare altre soluzioni alla carenza...",
-      "spokenText": "Lutnick chiede a Apple di non acquistare chip di memoria cinesi. Sebbene Apple personalizzi molti componenti all’interno degli iPhone, Khan ha detto che «non c’è molta possibilità di personalizzazione» per la memoria, alludendo alla possibilità che vengano utilizzati chip di memoria cinesi di bassa qualità. Apple si sta rivolgendo ai produttori cinesi, ma «l’amministrazione Trump non è favorevole a questa soluzione», ha dichiarato Lutnick dopo aver visitato uno stabilimento di produzione Apple a Houston . Ma ha affermato che, vista l’entità della carenza di chip, «dobbiamo valutare tutte le opzioni», compresa la collaborazione con i fornitori esistenti per aumentare la produzione negli Stati Uniti. «Senza sosta, sempre di più», ha detto Lutnick, descrivendo la pressione. «Vedrete, passo dopo passo e pezzo per pezzo, che riporteranno in patria porzioni significative della loro attività», ha affermato Lutnick.",
+      "id": "story-b98b358881fc34e0",
+      "title": "Apple addestra un modello AI per la Cina con l’aiuto di Alibaba",
+      "summary": "Apple ha avviato l'addestramento di un modello AI con l'aiuto di Alibaba e sarà disponibile per le funzionalità AI che verranno attivate con iOS 27. The post Apple addestra un modello AI per la Cina con l’aiuto di Alibaba appeared first on Punto Informatico.",
+      "spokenText": "Apple ha avviato l'addestramento di un modello di intelligenza artificiale pensato specificamente per il mercato cinese, e lo sta facendo con l'aiuto di Alibaba. La versione cinese di queste funzionalità arriverà nei prossimi mesi attraverso un aggiornamento del sistema operativo, con ogni probabilità legato al rilascio di iOS 27.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
         "apple",
-        "stati uniti"
+        "alibaba",
+        "cina"
       ],
-      "importance": 75,
+      "importance": 65,
       "mustInclude": true,
-      "estimatedSeconds": 54,
+      "estimatedSeconds": 20,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/wsj-lutnick-chiede-apple-non-acquistare-chip-memoria-cinesi-AJY0A9m"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/apple-addestra-modelli-ai-cina-aiuto-alibaba/"
       },
       "analysis": {
-        "mainFact": "Lutnick chiede a Apple di non acquistare chip di memoria cinesi",
-        "whyItMatters": "Sebbene Apple personalizzi molti componenti all’interno degli iPhone, Khan ha detto che «non c’è molta possibilità di personalizzazione» per la memoria, alludendo alla possibilità che vengano utilizzati chip di memoria cinesi di bassa qualità.",
+        "mainFact": "Apple ha avviato l'addestramento di un modello AI per la Cina con l'aiuto di Alibaba.",
+        "whyItMatters": "Apple ha avviato l’addestramento di un modello destinato al mercato cinese con l’aiuto di Alibaba .",
         "confirmedFacts": [
-          "Lutnick chiede a Apple di non acquistare chip di memoria cinesi",
-          "Sebbene Apple personalizzi molti componenti all’interno degli iPhone, Khan ha detto che «non c’è molta possibilità di personalizzazione» per la memoria, alludendo alla possibilità che vengano utilizzati chip di memoria cinesi di bassa qualità.",
-          "Apple si sta rivolgendo ai produttori cinesi, ma «l’amministrazione Trump non è favorevole a questa soluzione», ha dichiarato Lutnick dopo aver visitato uno stabilimento di produzione Apple a Houston .",
-          "Ma ha affermato che, vista l’entità della carenza di chip, «dobbiamo valutare tutte le opzioni», compresa la collaborazione con i fornitori esistenti per aumentare la produzione negli Stati Uniti.",
-          "«Senza sosta, sempre di più», ha detto Lutnick, descrivendo la pressione.",
-          "«Vedrete, passo dopo passo e pezzo per pezzo, che riporteranno in patria porzioni significative della loro attività», ha affermato Lutnick."
+          "Apple ha avviato l'addestramento di un modello AI per la Cina con l'aiuto di Alibaba.",
+          "Apple ha avviato l’addestramento di un modello destinato al mercato cinese con l’aiuto di Alibaba .",
+          "La versione cinese delle funzionalità AI di Apple Intelligence verrà attivata nei prossimi mesi con un aggiornamento del sistema operativo (probabilmente con iOS 27)."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Apple",
-          "Stati Uniti"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-7504dec3e8198fd9",
-      "title": "Francia, Procura apre indagine dopo attacco cyber al Fisco: colpiti 700mila utenti",
-      "summary": "L’attacco informatico, come ha comunicato il ministero delle Finanze in una nota, ha consentito l’accesso ai dati di “cittadini” e “professionisti”",
-      "spokenText": "La procura francese ha aperto un’indagine dopo l’attacco informatico che ha colpito i sistemi della Direzione Generale delle Finanze Pubbliche, la Dgfip. L’accesso non autorizzato, avvenuto alla fine di giugno 2026, è stato rivendicato da un malintenzionato che, secondo quanto comunicato dal ministero delle Finanze, è riuscito a entrare nel sistema attraverso un furto d’identità. Le verifiche preliminari hanno confermato che, nonostante l’intrusione sia stata bloccata nell’ambito di un controllo, c’è stata la consultazione e l’estrazione di dati relativi a circa 700mila utenti, tra privati cittadini e professionisti.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "francia",
-        "direzione generale delle finanze pubbliche dgfip"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 36,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/francia-procura-apre-indagine-attacco-cyber-fisco-erano-stati-colpiti-700-mila-utenti-AJ9VrAn"
-      },
-      "analysis": {
-        "mainFact": "Procura apre indagine dopo attacco cyber al Fisco: colpiti 700mila utenti",
-        "whyItMatters": "Le indagini preliminari “confermano che l’accesso, bloccato alla fine di giugno nell’ambito di una verifica, ha comunque consentito la consultazione e l’estrazione di dati relativi a privati cittadini e utenti professionali”.",
-        "confirmedFacts": [
-          "Procura apre indagine dopo attacco cyber al Fisco: colpiti 700mila utenti",
-          "Le indagini preliminari “confermano che l’accesso, bloccato alla fine di giugno nell’ambito di una verifica, ha comunque consentito la consultazione e l’estrazione di dati relativi a privati cittadini e utenti professionali”.",
-          "L’attacco informatico, come ha comunicato il ministero delle Finanze in una nota, ha consentito l’accesso ai dati di “cittadini” e “professionisti”",
-          "“Un malintenzionato - si legge nella nota - ha rivendicato l’accesso non autorizzato al sistema informatico della Direzione Generale delle Finanze Pubbliche (Dgfip), avvenuto alla fine di giugno 2026 a seguito di un furto d’identità”."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Francia",
-          "Direzione Generale delle Finanze Pubbliche (Dgfip)"
+          "Alibaba",
+          "Cina"
         ],
         "numbersAndDates": [
-          "“Un malintenzionato - si legge nella nota - ha rivendicato l’accesso non autorizzato al sistema informatico della Direzione Generale delle Finanze Pubbliche (Dgfip), avvenuto alla fine di giugno 2026 a seguito di un furto d’identità”."
+          "La versione cinese delle funzionalità AI di Apple Intelligence verrà attivata nei prossimi mesi con un aggiornamento del sistema operativo (probabilmente con iOS 27)."
         ]
       }
     },
     {
-      "id": "story-85071005930b6f64",
-      "title": "Cariche e lacrimogeni, il Marocco blocca centinaia di migranti verso Ceuta",
-      "summary": "Momenti di tensione al confine ma il nuovo assalto all'exclave per ora è sventato",
-      "spokenText": "Le autorità marocchine hanno bloccato centinaia di migranti che tentavano di raggiungere Ceuta, ricorrendo a cariche e lacrimogeni. Circa 294 persone sono state fermate mentre cercavano di avvicinarsi alla frontiera dalla vicina Fnideq, nel nord del Marocco, secondo fonti della sicurezza citate dal quotidiano digitale Hespress. Dei fermati, 248 sono migranti provenienti dall'Africa subsahariana e 46 sono cittadini marocchini. Momenti di tensione al confine, ma il nuovo assalto all'exclave per ora è sventato.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "marocco",
-        "ceuta",
-        "fnideq",
-        "hespress"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 30,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/15/cariche-e-lacrimogeni-rabat-blocca-centinaia-di-migranti-verso-ceuta_576bf0e9-6d55-4d19-83e2-c2b538dffcf8.html"
-      },
-      "analysis": {
-        "mainFact": "Il Marocco ha bloccato centinaia di migranti che tentavano di raggiungere Ceuta con cariche e lacrimogeni.",
-        "whyItMatters": "Momenti di tensione al confine ma il nuovo assalto all'exclave per ora è sventato",
-        "confirmedFacts": [
-          "Il Marocco ha bloccato centinaia di migranti che tentavano di raggiungere Ceuta con cariche e lacrimogeni.",
-          "Momenti di tensione al confine ma il nuovo assalto all'exclave per ora è sventato",
-          "Dei fermati, 248 sono migranti provenienti dall'Africa subsahariana e 46 sono cittadini marocchini.",
-          "Circa 294 persone sono state fermate dalle autorità marocchine mentre tentavano di raggiungere la frontiera con Ceuta dalla vicina Fnideq (in spagnolo Castillejos), nel nord del Marocco, secondo quanto riferito da fonti della sicurezza citate dal quotidiano digitale marocchino Hespress."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Marocco",
-          "Ceuta",
-          "Fnideq",
-          "Hespress"
-        ],
-        "numbersAndDates": [
-          "Dei fermati, 248 sono migranti provenienti dall'Africa subsahariana e 46 sono cittadini marocchini.",
-          "Circa 294 persone sono state fermate dalle autorità marocchine mentre tentavano di raggiungere la frontiera con Ceuta dalla vicina Fnideq (in spagnolo Castillejos), nel nord del Marocco, secondo quanto riferito da fonti della sicurezza citate dal quotidiano digitale marocchino Hespress."
-        ]
-      }
-    },
-    {
-      "id": "story-b1682ba5c3e2de74",
-      "title": "Il governo britannico sta valutando di ridurre il target di vendita di nuove auto elettriche dall'80% al 50% entro il 2030",
-      "summary": "Il governo britannico sta valutando di ridurre il target di vendita di nuove auto elettriche dall'80% al 50% entro il 2030. se l'obiettivo per le auto elettriche pure scendesse al 50%, l'altro 50% dovrebbe essere ibrido.",
-      "spokenText": "Il governo britannico sta valutando una revisione sostanziale del percorso di elettrificazione del parco auto. Se questa modifica venisse adottata, la restante metà delle immatricolazioni dovrebbe essere rappresentata da veicoli ibridi. Attualmente, la politica in vigore, nota come mandato ZEV, prevede un incremento annuale della quota di veicoli a zero emissioni, che dovrebbe passare dal 33% nel 2026 fino a raggiungere l’80% alla fine del decennio. L’esecutivo ha precisato che la consultazione su questa possibile rimodulazione resterà aperta fino alla fine di ottobre. Tra le alternative in discussione figura anche il mantenimento dell’obiettivo dell’80%, ma con l’introduzione di una maggiore flessibilità per i costruttori, estesa fino al 2034. Resta invece confermata la scadenza di più lungo periodo, fissata al 2035, per l’eliminazione graduale delle vendite di nuovi veicoli ibridi.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "zev mandate"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 52,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Il governo britannico sta valutando di ridurre il target di vendita di nuove auto elettriche dall'80% al 50% entro il 2030.",
-        "whyItMatters": "se l'obiettivo per le auto elettriche pure scendesse al 50%, l'altro 50% dovrebbe essere ibrido.",
-        "confirmedFacts": [
-          "Il governo britannico sta valutando di ridurre il target di vendita di nuove auto elettriche dall'80% al 50% entro il 2030.",
-          "se l'obiettivo per le auto elettriche pure scendesse al 50%, l'altro 50% dovrebbe essere ibrido.",
-          "Il governo ha ora dichiarato che sta valutando di ridurre tale cifra fino al 50% di tutte le vendite entro la fine del decennio, su cui si consulterà fino a fine ottobre.",
-          "In base alla politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
-          "Un'altra opzione sarebbe mantenere il target all'80% ma con flessibilità per i produttori di auto estesa fino al 2034.",
-          "Resterebbe inoltre in vigore una scadenza a più lungo termine per l'eliminazione graduale delle vendite di nuovi ibridi, fissata al 2035."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ZEV mandate"
-        ],
-        "numbersAndDates": [
-          "Il governo ha ora dichiarato che sta valutando di ridurre tale cifra fino al 50% di tutte le vendite entro la fine del decennio, su cui si consulterà fino a fine ottobre.",
-          "In base alla politica attuale, nota come mandato ZEV, la percentuale di vendite di auto nuove che devono essere veicoli elettrici aumenta ogni anno, dal 33% per il 2026 fino a raggiungere l'80% entro il 2030.",
-          "Un'altra opzione sarebbe mantenere il target all'80% ma con flessibilità per i produttori di auto estesa fino al 2034.",
-          "Resterebbe inoltre in vigore una scadenza a più lungo termine per l'eliminazione graduale delle vendite di nuovi ibridi, fissata al 2035.",
-          "80",
-          "50",
-          "2030"
-        ]
-      }
-    },
-    {
-      "id": "story-b920957518ba0990",
-      "title": "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha sviluppato un modello di machine learning in grado di prevedere la",
-      "summary": "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha sviluppato un modello di machine learning in grado di prevedere la comparsa di regioni attive sul Sole fino a 12 ore prima. Il Solar Dynamics Observatory della NASA ha catturato questa immagine di un brillamento solare — visibile come il lampo luminoso in alto a destra — il 30 giugno 2026.",
-      "spokenText": "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha messo a punto un modello di machine learning capace di prevedere la comparsa di regioni attive sul Sole con un anticipo fino a 12 ore. Per dare un’idea concreta, questo stesso intervallo temporale è stato utilizzato per tracciare il campo magnetico sulla superficie solare durante la formazione della regione attiva AR11158, osservata nel febbraio 2011. Il Solar Dynamics Observatory della NASA ha documentato fenomeni simili, come il brillamento solare immortalato il 30 giugno 2026, visibile come un lampo luminoso in alto a destra nelle immagini catturate. L'ufficio di analisi dello space weather Moon to Mars della NASA monitora lo space weather 7 giorni su 7.",
+      "id": "story-42cacdd58fef53a5",
+      "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+      "summary": "APOD: 2026 August 16 – Milky Way over Yellowstone La pozza d'acqua colorata, di circa 10 metri di diametro, è conosciuta come Silex Spring e si trova nel Parco Nazionale di Yellowstone nel Wyoming, USA.",
+      "spokenText": "APOD: 2026 August 16 – Milky Way over Yellowstone. La pozza d'acqua colorata, di circa 10 metri di diametro, è conosciuta come Silex Spring e si trova nel Parco Nazionale di Yellowstone nel Wyoming, USA. L'immagine presenta un panorama di 16 scatti realizzato nel 2014. Galleria in crescita: Eclissi solare del 12 agosto 2026. Immagine di domani: una corona dorata. Data: 16 agosto 2026. Crediti e copyright: Dave Lane. Autori ed editori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA / GSFC, NASA Science Activation e Michigan Tech.",
       "category": "scienza",
       "tags": [
         "scienza",
         "nasa",
-        "coffies"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 48,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/"
-      },
-      "analysis": {
-        "mainFact": "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha sviluppato un modello di machine learning in grado di prevedere la comparsa di regioni attive sul Sole fino a 12 ore prima.",
-        "whyItMatters": "Il Solar Dynamics Observatory della NASA ha catturato questa immagine di un brillamento solare — visibile come il lampo luminoso in alto a destra — il 30 giugno 2026.",
-        "confirmedFacts": [
-          "Un team di astrofisici e data scientist del progetto COFFIES della NASA ha sviluppato un modello di machine learning in grado di prevedere la comparsa di regioni attive sul Sole fino a 12 ore prima.",
-          "Il Solar Dynamics Observatory della NASA ha catturato questa immagine di un brillamento solare — visibile come il lampo luminoso in alto a destra — il 30 giugno 2026.",
-          "Questo particolare intervallo temporale traccia il campo magnetico sulla superficie del Sole durante la comparsa della regione attiva AR11158 nel febbraio 2011.",
-          "L'ufficio di analisi dello space weather Moon to Mars della NASA monitora lo space weather 7 giorni su 7."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "COFFIES"
-        ],
-        "numbersAndDates": [
-          "Questo particolare intervallo temporale traccia il campo magnetico sulla superficie del Sole durante la comparsa della regione attiva AR11158 nel febbraio 2011.",
-          "L'ufficio di analisi dello space weather Moon to Mars della NASA monitora lo space weather 7 giorni su 7.",
-          "12",
-          "30",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-04e62a5a74f00877",
-      "title": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica",
-      "summary": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
-      "spokenText": "L'epidemia di HIV nelle Fiji è stata ufficialmente classificata come un'emergenza di salute pubblica. Experts project yearly infections will triple by 2030 .",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "fiji",
-        "hiv",
-        "australia"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 10,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/fijis-hiv-outbreak-is-a-public-health-emergency-pacific-neighbours-must-step-up-286066"
-      },
-      "analysis": {
-        "mainFact": "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
-        "whyItMatters": "Epidemia HIV nelle Fiji: emergenza sanitaria con crescita rapida, rilevante per salute globale e diritti.",
-        "confirmedFacts": [
-          "L'epidemia di HIV nelle Fiji è un'emergenza di salute pubblica.",
-          "Epidemia HIV nelle Fiji: emergenza sanitaria con crescita rapida, rilevante per salute globale e diritti.",
-          "Experts project yearly infections will triple by 2030 ."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Fiji",
-          "HIV",
-          "Australia"
-        ],
-        "numbersAndDates": [
-          "Experts project yearly infections will triple by 2030 ."
-        ]
-      }
-    },
-    {
-      "id": "story-30073a8803531362",
-      "title": "Un volontario sviluppa uno strumento di machine learning per identificare nuvole rare",
-      "summary": "Un volontario sviluppa uno strumento di machine learning per identificare nuvole rare. Per aiutare a identificare i fattori che influenzano questi cambiamenti (ad esempio, i cambiamenti nei modelli meteorologici a lungo termine della Terra), gli scienziati hanno chiesto a persone in tutto il mondo con macchine fotografiche di inviare nuove immagini di queste nuvole come parte del progetto Space Cloud",
-      "spokenText": "Queste nuvole, che appaiono più spesso e a quote più basse, sono al centro del progetto Space Cloud Watch, che invita persone in tutto il mondo a inviare fotografie. L'obiettivo è aiutare gli scienziati a identificare i fattori che influenzano questi cambiamenti, come le variazioni nei modelli meteorologici a lungo termine della Terra. Lo strumento di machine learning analizza le immagini raccolte, affiancando il lavoro dei volontari e accelerando la ricerca.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "space cloud watch",
-        "machine learning"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 29,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/"
-      },
-      "analysis": {
-        "mainFact": "Un volontario sviluppa uno strumento di machine learning per identificare nuvole rare.",
-        "whyItMatters": "Per aiutare a identificare i fattori che influenzano questi cambiamenti (ad esempio, i cambiamenti nei modelli meteorologici a lungo termine della Terra), gli scienziati hanno chiesto a persone in tutto il mondo con macchine fotografiche di inviare nuove immagini di queste nuvole come parte del progetto Space Cloud",
-        "confirmedFacts": [
-          "Un volontario sviluppa uno strumento di machine learning per identificare nuvole rare.",
-          "Per aiutare a identificare i fattori che influenzano questi cambiamenti (ad esempio, i cambiamenti nei modelli meteorologici a lungo termine della Terra), gli scienziati hanno chiesto a persone in tutto il mondo con macchine fotografiche di inviare nuove immagini di queste nuvole come parte del progetto Space Cloud",
-          "To help identify the factors influencing these changes (e.g. shifts in Earth’s long-term weather patterns), scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Space Cloud Watch",
-          "machine learning"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-8be0ae04f7cb310c",
-      "title": "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale",
-      "summary": "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale. L'Ucraina è il primo esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
-      "spokenText": "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale. L'Ucraina è il primo esportatore mondiale di semi e olio di girasole, con il 50% dell'offerta globale, il terzo per l'orzo con il 18%, il quarto per il mais con il 16% e il quinto per il grano con il 12%. Più del 90% dei prodotti agricoli ucraini passa dai porti del Mar Nero, ma gli attacchi russi, come quello del 19 luglio a una nave al largo di Odesa che ha ucciso dieci persone, ostacolano le spedizioni.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "russia",
-        "taras vysotsky",
-        "holodomor"
+        "yellowstone national park",
+        "apod"
       ],
       "importance": 70,
       "mustInclude": true,
-      "estimatedSeconds": 39,
+      "estimatedSeconds": 38,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718"
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/"
       },
       "analysis": {
-        "mainFact": "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale.",
-        "whyItMatters": "L'Ucraina è il primo esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
+        "mainFact": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+        "whyItMatters": "La pozza d'acqua colorata, di circa 10 metri di diametro, è conosciuta come Silex Spring e si trova nel Parco Nazionale di Yellowstone nel Wyoming, USA.",
         "confirmedFacts": [
-          "La Russia sta nuovamente bloccando le esportazioni di grano dell'Ucraina, minacciando un raccolto critico e la sicurezza alimentare globale.",
-          "L'Ucraina è il primo esportatore mondiale di semi di girasole e olio di girasole (50% dell'offerta globale), il terzo esportatore di orzo (18%), il quarto per il mais (16%) e il quinto per il grano (12%).",
-          "Michael Shtekel/AP Colpo agli agricoltori ucraini Più del 90% dei prodotti agricoli dell'Ucraina viene esportato attraverso i porti del Mar Nero.",
-          "L'Ucraina prevede un raccolto di grano di circa 60 milioni di tonnellate quest'anno.",
-          "Ma il ministro dell'Agricoltura Taras Vysotsky ha dichiarato che la previsione di esportazione di grano sarà solo di circa 38-40 milioni di tonnellate per l'anno fiscale 2026-27, un calo del 12% rispetto alle stime precedenti.",
-          "Questo includeva un attacco a una nave al largo di Odesa il 19 luglio, che ha ucciso dieci persone a bordo."
+          "APOD: 2026 August 16 – Milky Way over Yellowstone",
+          "La pozza d'acqua colorata, di circa 10 metri di diametro, è conosciuta come Silex Spring e si trova nel Parco Nazionale di Yellowstone nel Wyoming, USA.",
+          "L'immagine presenta un panorama di 16 scatti realizzato nel 2014.",
+          "Galleria in crescita: Eclissi solare del 12 agosto 2026. Immagine di domani: una corona dorata. Data: 16 agosto 2026. Crediti e copyright: Dave Lane. Autori ed editori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA / GSFC, NASA Science Activation e Michigan Tech."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Russia",
-          "Taras Vysotsky",
-          "Holodomor"
+          "NASA",
+          "Yellowstone National Park",
+          "APOD"
         ],
         "numbersAndDates": [
-          "Michael Shtekel/AP Colpo agli agricoltori ucraini Più del 90% dei prodotti agricoli dell'Ucraina viene esportato attraverso i porti del Mar Nero.",
-          "L'Ucraina prevede un raccolto di grano di circa 60 milioni di tonnellate quest'anno.",
-          "Ma il ministro dell'Agricoltura Taras Vysotsky ha dichiarato che la previsione di esportazione di grano sarà solo di circa 38-40 milioni di tonnellate per l'anno fiscale 2026-27, un calo del 12% rispetto alle stime precedenti.",
-          "Questo includeva un attacco a una nave al largo di Odesa il 19 luglio, che ha ucciso dieci persone a bordo.",
-          "50",
-          "18",
+          "L'immagine presenta un panorama di 16 scatti realizzato nel 2014.",
+          "Galleria in crescita: Eclissi solare del 12 agosto 2026. Immagine di domani: una corona dorata. Data: 16 agosto 2026. Crediti e copyright: Dave Lane. Autori ed editori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA / GSFC, NASA Science Activation e Michigan Tech.",
+          "2026",
           "16",
-          "12"
+          "10"
         ]
+      }
+    },
+    {
+      "id": "story-e60542e87fa41440",
+      "title": "Il testimone: “Così ho visto le opere di Antonello abbandonate per strada”",
+      "summary": "Parla l’uomo che ha fotografato le parti del Polittico all’esterno del museo di Messina: “Con un’applicazione ho capito di cosa si trattava”",
+      "spokenText": "Un testimone ha fotografato parti del Polittico di Antonello abbandonate all'esterno del museo di Messina.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "polittico",
+        "museo di messina"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://palermo.repubblica.it/cronaca/2026/08/17/news/furto_antonello_da_messina_testimone_opere_abbandonate-425531789/"
+      },
+      "analysis": {
+        "mainFact": "Un testimone ha fotografato parti del Polittico di Antonello abbandonate all'esterno del museo di Messina.",
+        "whyItMatters": "Denuncia di incuria per un'opera d'arte di valore inestimabile. Impatto culturale e civico diretto.",
+        "confirmedFacts": [
+          "Un testimone ha fotografato parti del Polittico di Antonello abbandonate all'esterno del museo di Messina.",
+          "Denuncia di incuria per un'opera d'arte di valore inestimabile. Impatto culturale e civico diretto.",
+          "Parla l’uomo che ha fotografato le parti del Polittico all’esterno del museo di Messina: “Con un’applicazione ho capito di cosa si trattava”"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Polittico",
+          "Museo di Messina"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-ecc381912fc47386",
+      "title": "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina",
+      "summary": "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina. Uno degli incendi è stato portato sotto controllo e le evacuazioni sono state completate entro domenica sera, secondo i media greci, con 500 persone che hanno lasciato l'isola via mare.",
+      "spokenText": "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina. Il primo rogo è stato segnalato alle 14:40 ora locale, vicino alla costa meridionale, e si è diffuso rapidamente a causa dei forti venti. Circa venti minuti dopo, un secondo incendio è divampato più a est. Circa 200 vigili del fuoco hanno lavorato per impedire che le fiamme convergessero, e uno dei due incendi è ora sotto controllo. Le evacuazioni sono state completate entro domenica sera, secondo i media greci, con 500 persone che hanno lasciato l'isola via mare. Almeno altre 10 persone hanno riportato ustioni o sintomi da inalazione di fumo.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "salamina"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 44,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina.",
+        "whyItMatters": "Uno degli incendi è stato portato sotto controllo e le evacuazioni sono state completate entro domenica sera, secondo i media greci, con 500 persone che hanno lasciato l'isola via mare.",
+        "confirmedFacts": [
+          "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina.",
+          "Uno degli incendi è stato portato sotto controllo e le evacuazioni sono state completate entro domenica sera, secondo i media greci, con 500 persone che hanno lasciato l'isola via mare.",
+          "Il primo incendio è stato segnalato alle 14:40 ora locale (11:40 GMT) vicino alla costa meridionale dell'isola e si è diffuso rapidamente a causa dei forti venti, seguito da un incendio separato circa 20 minuti dopo a est.",
+          "Circa 200 vigili del fuoco hanno lavorato per impedire che gli incendi convergessero su Salamina, e uno è ora sotto controllo.",
+          "Almeno altre 10 persone hanno riportato ustioni o hanno mostrato \"sintomi da inalazione di fumo\", cinque delle quali sono state portate per cure locali, ha detto su X il ministro della Salute greco Adonis Georgiades."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Salamina"
+        ],
+        "numbersAndDates": [
+          "Il primo incendio è stato segnalato alle 14:40 ora locale (11:40 GMT) vicino alla costa meridionale dell'isola e si è diffuso rapidamente a causa dei forti venti, seguito da un incendio separato circa 20 minuti dopo a est.",
+          "Circa 200 vigili del fuoco hanno lavorato per impedire che gli incendi convergessero su Salamina, e uno è ora sotto controllo.",
+          "Almeno altre 10 persone hanno riportato ustioni o hanno mostrato \"sintomi da inalazione di fumo\", cinque delle quali sono state portate per cure locali, ha detto su X il ministro della Salute greco Adonis Georgiades.",
+          "500"
+        ]
+      }
+    },
+    {
+      "id": "story-b1c658e34601bbc3",
+      "title": "Per la prima volta, un team internazionale di ricercatori è riuscito a ricostruire in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici",
+      "summary": "Per la prima volta, un team internazionale di ricercatori è riuscito a ricostruire in tre dimensioni la funzione d’onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici. Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole",
+      "spokenText": "Per decenni, osservare direttamente la funzione d'onda di una molecola, cioè la regione dove è più probabile trovare i suoi elettroni, è stato un po' così. Ora un team internazionale di ricercatori ha superato questo limite. Combinando impulsi ultrabrevi di raggi X con sofisticati algoritmi matematici, sono riusciti per la prima volta a ricostruire in tre dimensioni la funzione d'onda di una molecola organica nanometrica. Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "team internazionale di ricercatori",
+        "nature communications"
+      ],
+      "importance": 90,
+      "mustInclude": true,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/17/orbitali-elettronici-in-3d/"
+      },
+      "analysis": {
+        "mainFact": "Per la prima volta, un team internazionale di ricercatori è riuscito a ricostruire in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici.",
+        "whyItMatters": "Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole.",
+        "confirmedFacts": [
+          "Per la prima volta, un team internazionale di ricercatori è riuscito a ricostruire in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici.",
+          "Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "team internazionale di ricercatori",
+          "Nature Communications"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-ad40db9ca0a5fb57",
+      "title": "Hamas ha chiesto al Board of Peace di costringere Israele ad accettare il piano per Gaza",
+      "summary": "Dopo l'incontro del suo leader con Kushner",
+      "spokenText": "Hamas ha formalmente chiesto al Board of Peace di intervenire per costringere Israele ad accettare il piano per Gaza.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "hamas",
+        "board of peace",
+        "israele",
+        "kushner"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 8,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/hamas-a-board-of-peace-costringa-israele-ad-accettare-piano-per-gaza_3c0cf0a4-6451-441c-b31b-f56904b540fb.html"
+      },
+      "analysis": {
+        "mainFact": "Hamas ha chiesto al Board of Peace di costringere Israele ad accettare il piano per Gaza.",
+        "whyItMatters": "Negoziati Gaza con coinvolgimento Kushner. Sviluppo diplomatico maggiore.",
+        "confirmedFacts": [
+          "Hamas ha chiesto al Board of Peace di costringere Israele ad accettare il piano per Gaza.",
+          "Negoziati Gaza con coinvolgimento Kushner. Sviluppo diplomatico maggiore.",
+          "Gaza, Kushner vede Hamas: “Avanti con il disarmo ma Israele cessi i raid”"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Hamas",
+          "Board of Peace",
+          "Israele",
+          "Kushner"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-1bf26e8e968e3003",
+      "title": "Le case autocostruite di Santiago sono precarie e in continua trasformazione: sono, sempre e allo stesso tempo, essere e divenire",
+      "summary": "Le case autocostruite di Santiago sono precarie e in continua trasformazione: sono, sempre e allo stesso tempo, essere e divenire. Il reportage è firmato da Consuelo Araos e pubblicato su Aeon.",
+      "spokenText": "Non sono solo precarie, ma in continua trasformazione: un equilibrio instabile tra ciò che sono e ciò che stanno diventando. È questo il cuore del lavoro firmato da Consuelo Araos per Aeon, un racconto che si concentra proprio su questa doppia natura, sospesa tra l’essere e il divenire.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "santiago",
+        "consuelo araos",
+        "aeon"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes"
+      },
+      "analysis": {
+        "mainFact": "Le case autocostruite di Santiago sono precarie e in continua trasformazione: sono, sempre e allo stesso tempo, essere e divenire.",
+        "whyItMatters": "Il reportage è firmato da Consuelo Araos e pubblicato su Aeon.",
+        "confirmedFacts": [
+          "Le case autocostruite di Santiago sono precarie e in continua trasformazione: sono, sempre e allo stesso tempo, essere e divenire.",
+          "Il reportage è firmato da Consuelo Araos e pubblicato su Aeon."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Santiago",
+          "Consuelo Araos",
+          "Aeon"
+        ],
+        "numbersAndDates": []
       }
     }
   ]
