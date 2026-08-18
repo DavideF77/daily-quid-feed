@@ -1,567 +1,654 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-17-ba88cffed56f",
-  "generatedAt": "2026-08-17T06:05:23.042Z",
+  "catalogId": "daily-quid-2026-08-18-880ad5dd8d1e",
+  "generatedAt": "2026-08-18T06:00:56.465Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-8c0ee971913ad220",
-      "title": "È l’anno più torrido di sempre. L’allarme clima non finisce più",
-      "summary": "L’ondata di caldo sta per finire. Le temperature rientrano nella media, ma tutti i record sono già stati superati. E nel 2027, avvertono gli esperti, andrà ancora peggio. Colpa delle emissioni di gas serra",
-      "spokenText": "L’anno in corso è già il più torrido mai registrato, con tutti i record di temperatura che sono stati superati uno dopo l’altro. E le prospettive non sono rassicuranti, perché gli esperti avvertono che nel 2027 andrà ancora peggio. se le destre negano la portata del problema, le sinistre non brillano per capacità di proposta. Colpa delle emissioni di gas serra.",
+      "id": "story-57d576c8d85bc827",
+      "title": "NASA Mission Studies Air Pollution Over Ethiopia",
+      "summary": "NASA Mission Studies Air Pollution Over Ethiopia Ninaras (CC BY-SA 4. 0) Una rete di monitoraggio dell'inquinamento atmosferico finanziata dalla NASA ha fornito una delle visioni a lungo termine più dettagliate finora del ruolo del carbonio nero, o fuliggine prodotta da incendi, veicoli diesel e altre fonti di combustione, nella capitale etiope, Addis Abeba.",
+      "spokenText": "La NASA sta puntando i suoi occhi, e i suoi sensori, sul cielo dell'Etiopia. Un progetto finanziato dall'agenzia spaziale americana ha appena offerto una delle analisi a lungo termine più dettagliate mai realizzate sul ruolo del carbonio nero, la fuliggine prodotta da incendi, veicoli diesel e altre combustioni, nella capitale Addis Abeba. In un nuovo studio pubblicato sulla rivista ES&T: Air, gli scienziati hanno analizzato i dati raccolti tra il 2022 e il 2025 da dieci siti di monitoraggio della qualità dell'aria, distribuiti in tutta la città. Questa rete di sensori, montati sui tetti, fa parte della missione MAIA, acronimo di Multi-Angle Imager for Aerosols, e sta fornendo misurazioni continue di PM2. 5, una delle forme più letali di inquinamento atmosferico. Sina Hasheminassab, coautrice della ricerca e vice investigatrice principale di MAIA al Jet Propulsion Laboratory della NASA in California, ha sottolineato che, a loro conoscenza, questo è il primo studio a lungo termine e multisito di questo tipo in Etiopia. Ninaras (CC BY-SA 4. 0) Una rete di monitoraggio dell'inquinamento atmosferico finanziata dalla NASA ha fornito una delle visioni a lungo termine più dettagliate finora del ruolo del carbonio nero, o fuliggine prodotta da incendi, veicoli diesel.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "centro sui sistemi complessi alla iulm"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 25,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/cronaca/2026/08/17/news/caldo_record_temperature_2026-425532133/"
-      },
-      "analysis": {
-        "mainFact": "L'anno in corso è il più torrido di sempre e tutti i record di temperatura sono già stati superati.",
-        "whyItMatters": "Colpa delle emissioni di gas serra",
-        "confirmedFacts": [
-          "L'anno in corso è il più torrido di sempre e tutti i record di temperatura sono già stati superati.",
-          "Colpa delle emissioni di gas serra",
-          "E nel 2027, avvertono gli esperti, andrà ancora peggio.",
-          "L’allarme sul clima del direttore del Centro sui Sistemi Complessi alla Iulm: “Se le destre negano, le sinistre non brillano”"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Centro sui Sistemi Complessi alla Iulm"
-        ],
-        "numbersAndDates": [
-          "E nel 2027, avvertono gli esperti, andrà ancora peggio."
-        ]
-      }
-    },
-    {
-      "id": "story-d3b85e5e579fd63f",
-      "title": "Chiude per il caldo anche lo Stelvio, in Europa niente sci estivo",
-      "summary": "Temperature troppo alte sul ghiacciaio, restano aperte solo le piste indoor",
-      "spokenText": "Il ghiacciaio dello Stelvio chiude per le temperature troppo alte, impedendo lo sci estivo. In Europa le uniche possibilità di sciare sono al momento solo nelle piste indoor.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente"
+        "nasa",
+        "maia",
+        "addis ababa",
+        "jet propulsion laboratory"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 12,
+      "estimatedSeconds": 80,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/troppo-caldo-stop-allo-sci-estivo-sul-ghiacciaio-dello-stelvio_eb89ed9d-c824-4218-9bf7-eeee52c9df07.html"
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/"
       },
       "analysis": {
-        "mainFact": "Il ghiacciaio dello Stelvio chiude per le temperature troppo alte, impedendo lo sci estivo.",
-        "whyItMatters": "In Europa le uniche possibilità di sciare sono al momento solo nelle piste indoor.",
+        "mainFact": "NASA Mission Studies Air Pollution Over Ethiopia",
+        "whyItMatters": "Ninaras (CC BY-SA 4. 0) Una rete di monitoraggio dell'inquinamento atmosferico finanziata dalla NASA ha fornito una delle visioni a lungo termine più dettagliate finora del ruolo del carbonio nero, o fuliggine prodotta da incendi, veicoli diesel e altre fonti di combustione, nella capitale etiope, Addis Abeba.",
         "confirmedFacts": [
-          "Il ghiacciaio dello Stelvio chiude per le temperature troppo alte, impedendo lo sci estivo.",
-          "In Europa le uniche possibilità di sciare sono al momento solo nelle piste indoor."
+          "NASA Mission Studies Air Pollution Over Ethiopia",
+          "Ninaras (CC BY-SA 4. 0) Una rete di monitoraggio dell'inquinamento atmosferico finanziata dalla NASA ha fornito una delle visioni a lungo termine più dettagliate finora del ruolo del carbonio nero, o fuliggine prodotta da incendi, veicoli diesel e altre fonti di combustione, nella capitale etiope, Addis Abeba.",
+          "NASA/JPL-Caltech \"A nostra conoscenza, questo è il primo studio a lungo termine e multisito di misurazioni continue di PM2. 5 e carbonio nero in Etiopia\", ha detto Sina Hasheminassab, coautrice dell'articolo e vice investigatrice principale di MAIA presso il Jet Propulsion Laboratory della NASA nel sud della California.",
+          "Questa mappa di Addis Abeba, la capitale dell'Etiopia, mostra le posizioni di 10 sensori dell'aria che la missione MAIA della NASA sta usando per fornire uno degli sguardi più dettagliati di sempre sull'inquinamento atmosferico della città.",
+          "In un nuovo articolo pubblicato su ES&T: Air, gli scienziati hanno analizzato i dati raccolti in tutta Addis Abeba tra il 2022 e il 2025 da 10 siti di monitoraggio della qualità dell'aria dispiegati dal progetto Multi-Angle Imager for Aerosols (MAIA) della NASA.",
+          "La missione consiste in una rete di sensori a terra già in funzione e in un osservatorio spaziale, che utilizza una telecamera costruita dal JPL che sarà lanciata dall'Agenzia Spaziale Italiana (ASI) su un satellite ASI non prima della fine del 2027.",
+          "Questo sensore dell'aria montato sul tetto ad Addis Abeba, la capitale dell'Etiopia, è uno dei 10 usati dalla missione MAIA della NASA per studiare la qualità dell'aria della città.",
+          "I sensori dell'aria di MAIA forniscono uno sguardo dettagliato al PM2. 5, una delle forme più letali di inquinamento atmosferico al mondo."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
+        "peopleAndOrganizations": [
+          "NASA",
+          "MAIA",
+          "Addis Ababa",
+          "Jet Propulsion Laboratory"
+        ],
+        "numbersAndDates": [
+          "NASA/JPL-Caltech \"A nostra conoscenza, questo è il primo studio a lungo termine e multisito di misurazioni continue di PM2. 5 e carbonio nero in Etiopia\", ha detto Sina Hasheminassab, coautrice dell'articolo e vice investigatrice principale di MAIA presso il Jet Propulsion Laboratory della NASA nel sud della California.",
+          "Questa mappa di Addis Abeba, la capitale dell'Etiopia, mostra le posizioni di 10 sensori dell'aria che la missione MAIA della NASA sta usando per fornire uno degli sguardi più dettagliati di sempre sull'inquinamento atmosferico della città.",
+          "In un nuovo articolo pubblicato su ES&T: Air, gli scienziati hanno analizzato i dati raccolti in tutta Addis Abeba tra il 2022 e il 2025 da 10 siti di monitoraggio della qualità dell'aria dispiegati dal progetto Multi-Angle Imager for Aerosols (MAIA) della NASA.",
+          "La missione consiste in una rete di sensori a terra già in funzione e in un osservatorio spaziale, che utilizza una telecamera costruita dal JPL che sarà lanciata dall'Agenzia Spaziale Italiana (ASI) su un satellite ASI non prima della fine del 2027.",
+          "Questo sensore dell'aria montato sul tetto ad Addis Abeba, la capitale dell'Etiopia, è uno dei 10 usati dalla missione MAIA della NASA per studiare la qualità dell'aria della città.",
+          "I sensori dell'aria di MAIA forniscono uno sguardo dettagliato al PM2. 5, una delle forme più letali di inquinamento atmosferico al mondo.",
+          "4",
+          "0"
+        ]
       }
     },
     {
-      "id": "story-70944a6af4b38a3b",
-      "title": "Ucraina, Mosca abbatte 205 droni di Kiev. Sei morti in attacco missilistico nella regione di Belgorod",
-      "summary": "Non si fermano gli attacchi ucraini in territorio russo. La difesa aerea di Mosca ha intercettato e distrutto 205 droni ucraini in volo sul Mar d’Azov e sul Mar Nero...",
-      "spokenText": "La notte scorsa la difesa aerea di Mosca ha intercettato e distrutto 205 droni ucraini in volo sul Mar d'Azov e sul Mar Nero. Il governatore ad interim della regione di Belgorod, Alexander Shuvayev, ha dichiarato su Telegram che un attacco missilistico ucraino ha ucciso sei persone e ne ha ferite altre quattro, tra cui un ragazzo di quattordici anni. Andrej Vorobiev ha definito l’offensiva degli ultimi giorni «uno dei più massicci a memoria d’uomo». Mosca abbatte 205 droni di Kiev.",
+      "id": "story-e54de69f69132187",
+      "title": "Cambiamenti climatici: l'adattamento non ostacoli la prevenzione",
+      "summary": "di Fabrizio Bianchi Pubblicato il 17/08/2026 La retorica dell'adattamento rischia di far coincidere il controllo degli effetti del cambiamento climatico con l'intervento sulle sue cause. La sanità pubblica insegna che protezione e mitigazione non sono strategie alternative: senza la prevenzione primaria, ogni altra misura di tutela resta una rincorsa a un rischio destinato a crescere. Sylvain Pedneault, CC BY-SA 3. 0 , via Wikimedia Commons Tempo di lettura: 5 mins Dopo l'intervento su Scienza in rete dedicato ad argomentare che quello che oggi viene spesso definito “adattamento” ai cambiamenti climatici non coincide con l'adattamento biologico della specie umana, ma piuttosto in strategie tecnologiche, urbanistiche e organizzative finalizzate a migliorare la convivenza con un ambiente sempre più ostile, ritengo utile compiere un ulteriore passo sul terreno della sanità pubblica. Prevenzione primaria, secondaria e terziaria: una distinzione utile Da oltre un secolo la medicina preventiva distingue tra prevenzione primaria, che interviene prima che il danno si produca riducendo o eliminando i fattori di rischio, prevenzione secondaria, finalizzata all'individuazione e all'intervento precoce, e prevenzione terziaria, che mira a ridurre le complicanze e le conseguenze delle malattie ormai manifeste. La prevenzione più a monte (primaria) consiste nella riduzione delle emissioni di gas serra attraverso la decarbonizzazione, l'efficienza energetica, la mobilità sostenibile e la progressiva sostituzione dei combustibili fossili, perché interviene direttamente sul processo che alimenta il riscaldamento globale. I climatizzatori, i sistemi di allerta, i piani caldo, le città più verdi, i centri di raffrescamento e la protezione delle persone fragili agiscono invece a valle: sono indispensabili misure di controllo e contenimento degli effetti sanitari del cambiamento climatico. Salvano vite umane, riducono ricoveri e decessi durante le ondate di calore, ma non incidono sulle cause del problema. La differenza, oltre che teorica, ha conseguenze molto concrete. Che cosa dicono i dati Gli esempi non mancano. Dopo la drammatica estate del 2003, che provocò oltre 70.000 morti in eccesso in Europa, molti Paesi hanno sviluppato sistemi di allerta e piani di prevenzione. Queste misure hanno ridotto la vulnerabilità della popolazione: uno studio pubblicato su Nature Medicine ha stimato che, senza le misure di mitigazione intraprese dall'inizio del secolo, la mortalità correlata al caldo nel 2023 sarebbe stata circa l'80 per cento più elevata. Eppure, nello stesso anno si stimano 47.690 morti correlate al caldo in Europa. Per il 2024, un successivo studio ha stimato 62.775 decessi. Dunque, le misure di mitigazione funzionano ma sono costrette a rincorrere un rischio che continua ad aumentare. Esistono, d'altra parte, esempi molto concreti dell'efficacia degli interventi sulle cause. Uno dei più evidenti è la progressiva riduzione dell'uso del carbone. Secondo il Lancet Countdown, tra il 2010 e il 2022 le morti attribuibili all'inquinamento atmosferico da combustibili fossili sono diminuite di circa il 6 per cento, in larga parte grazie alla riduzione dell'inquinamento prodotto dalla combustione del carbone, evitando circa 160.000 morti ogni anno. Il punto essenziale è che i benefici della mitigazione non appartengono soltanto a un futuro nel quale il riscaldamento globale sarà, auspicabilmente, rallentato, una parte importante si manifesta subito attraverso la riduzione dell'inquinamento atmosferico. È il cosiddetto co-beneficio: la stessa azione produce un vantaggio climatico nel medio-lungo periodo e un beneficio sanitario in tempi brevi. Adattamento non è mitigazione Nel linguaggio della sanità pubblica, gran parte di ciò che il dibattito climatico definisce “adattamento” può quindi essere meglio definito come “controllo degli effetti”, un sistema di pratiche che interviene a valle della catena causale che produce quei medesimi effetti. La tecnologia è certamente parte della risposta. Ma proprio la crescente dipendenza da sistemi tecnologici di protezione pone un'altra questione: quanto può essere sostenibile una società che, invece di ridurre progressivamente il rischio alla fonte, deve costruire protezioni sempre più complesse contro un ambiente che continua a diventare più ostile? Più aumenta il riscaldamento, maggiore diventa il bisogno di raffrescamento, infrastrutture resilienti, sistemi di allerta e assistenza alle popolazioni vulnerabili. E aumenta contemporaneamente il rischio che tali protezioni siano distribuite in modo diseguale. Un rischio culturale, prima ancora che politico Siamo quindi di fronte a un rischio culturale prima ancora che politico. Parlare genericamente di “adattamento” può alimentare l'illusione che riusciremo sempre a proteggerci dagli effetti del riscaldamento globale. La sanità pubblica insegna invece che, per quanto indispensabile sia il controllo degli effetti, la strategia più efficace rimane quella di intervenire il più possibile a monte della catena causale. Diversamente dalla retorica corrente sull'adattamento, lo sviluppo della cultura, il progresso della medicina e il controllo ambientale hanno modificato i meccanismi della selezione naturale nella specie Homo sapiens, riducendo la capacità di adattamento biologico autonomo nel lungo periodo e rendendo gli individui sempre più dipendenti dalla tecnologia. Questo scenario “circolare” configura una co-evoluzione uomo-macchina che bypassa i tempi dell'adattamento biologico, creando una specie protetta ma sistemicamente fragile, la cui sopravvivenza è sempre più legata alla stabilità e alla disponibilità del sistema tecnologico. In questo contesto si coglie il netto contrasto tra il cittadino occidentale, sempre più dipendente dalla tecnologia e biologicamente fragile, e le persone costrette a migrazioni estreme, provenienti da aree in cui la selezione naturale e la storia evolutiva hanno mantenuto attivi i naturali meccanismi di adattamento agli shock termici e alimentari. Nella prospettiva One Health, la strategia più efficace consiste nel vedere la prevenzione primaria non come un'opzione tra le altre, bensì come la condizione necessaria affinché ogni altra misura di tutela possa funzionare.",
+      "spokenText": "La retorica dell'adattamento rischia di far coincidere il controllo degli effetti del cambiamento climatico con l'intervento sulle sue cause, mentre la sanità pubblica insegna che senza prevenzione primaria ogni altra misura è una rincorsa a un rischio crescente. Dopo la drammatica estate del 2003, che provocò oltre 70.000 morti in eccesso in Europa, molti Paesi hanno sviluppato sistemi di allerta e piani di prevenzione. I climatizzatori, i sistemi di allerta, i piani caldo, le città più verdi, i centri di raffrescamento e la protezione delle persone fragili agiscono invece a valle: sono indispensabili misure di controllo e contenimento degli effetti sanitari del cambiamento climatico. Salvano vite umane, riducono ricoveri e decessi durante le ondate di calore, ma non incidono sulle cause del problema. Queste misure hanno ridotto la vulnerabilità della popolazione: uno studio pubblicato su Nature Medicine ha stimato che, senza le misure di mitigazione intraprese dall'inizio del secolo, la mortalità correlata al caldo nel 2023 sarebbe stata circa l'80 per cento più elevata.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "nature medicine",
+        "europa"
+      ],
+      "importance": 80,
+      "mustInclude": true,
+      "estimatedSeconds": 66,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articolo/cambiamenti-climatici-ladattamento-non-ostacoli-prevenzione/fabrizio-bianchi/2026-08-17"
+      },
+      "analysis": {
+        "mainFact": "La retorica dell'adattamento rischia di far coincidere il controllo degli effetti del cambiamento climatico con l'intervento sulle sue cause, mentre la sanità pubblica insegna che senza prevenzione primaria ogni altra misura è una rincorsa a un rischio crescente.",
+        "whyItMatters": "La prevenzione più a monte (primaria) consiste nella riduzione delle emissioni di gas serra attraverso la decarbonizzazione, l'efficienza energetica, la mobilità sostenibile e la progressiva sostituzione dei combustibili fossili, perché interviene direttamente sul processo che alimenta il riscaldamento globale.",
+        "confirmedFacts": [
+          "La retorica dell'adattamento rischia di far coincidere il controllo degli effetti del cambiamento climatico con l'intervento sulle sue cause, mentre la sanità pubblica insegna che senza prevenzione primaria ogni altra misura è una rincorsa a un rischio crescente.",
+          "La prevenzione più a monte (primaria) consiste nella riduzione delle emissioni di gas serra attraverso la decarbonizzazione, l'efficienza energetica, la mobilità sostenibile e la progressiva sostituzione dei combustibili fossili, perché interviene direttamente sul processo che alimenta il riscaldamento globale.",
+          "Dopo la drammatica estate del 2003, che provocò oltre 70.000 morti in eccesso in Europa, molti Paesi hanno sviluppato sistemi di allerta e piani di prevenzione.",
+          "I climatizzatori, i sistemi di allerta, i piani caldo, le città più verdi, i centri di raffrescamento e la protezione delle persone fragili agiscono invece a valle: sono indispensabili misure di controllo e contenimento degli effetti sanitari del cambiamento climatico.",
+          "Salvano vite umane, riducono ricoveri e decessi durante le ondate di calore, ma non incidono sulle cause del problema.",
+          "Queste misure hanno ridotto la vulnerabilità della popolazione: uno studio pubblicato su Nature Medicine ha stimato che, senza le misure di mitigazione intraprese dall'inizio del secolo, la mortalità correlata al caldo nel 2023 sarebbe stata circa l'80 per cento più elevata.",
+          "La differenza, oltre che teorica, ha conseguenze molto concrete."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Nature Medicine",
+          "Europa"
+        ],
+        "numbersAndDates": [
+          "Dopo la drammatica estate del 2003, che provocò oltre 70.000 morti in eccesso in Europa, molti Paesi hanno sviluppato sistemi di allerta e piani di prevenzione.",
+          "Queste misure hanno ridotto la vulnerabilità della popolazione: uno studio pubblicato su Nature Medicine ha stimato che, senza le misure di mitigazione intraprese dall'inizio del secolo, la mortalità correlata al caldo nel 2023 sarebbe stata circa l'80 per cento più elevata."
+        ]
+      }
+    },
+    {
+      "id": "story-72e81afa5bd07ef9",
+      "title": "Nel Biellese i defibrillatori in quota comunicano con l'ospedale",
+      "summary": "\"Completata la prima rete alpina d'Europa\"",
+      "spokenText": "Nel Biellese i defibrillatori in quota comunicano con l'ospedale. Completata la prima rete alpina d'Europa. Nelle settimane in cui il caldo eccezionale di questa estate continua a spostare verso l'alta quota il turismo e l'escursionismo, gli oltre 2.000 chilometri di sentieri delle montagne biellesi possono contare su una rete di sicurezza che, fa sapere l'Asl di Biella, costituisce un primato in Europa. Il riconoscimento a livello scientifico più significativo è atteso per settembre: un lavoro dedicato all'esperienza biellese è stato accettato al congresso europeo Erc - Resuscitation 2026, in programma a Milano.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "biellese",
+        "asl di biella",
+        "defibrillatori",
+        "montagne biellesi"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 37,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/17/nel-biellese-i-defibrillatori-in-quota-comunicano-con-lospedale_c2b657bd-14ff-4453-bcb0-ab6c3d9da0b5.html"
+      },
+      "analysis": {
+        "mainFact": "Nel Biellese i defibrillatori in quota comunicano con l'ospedale.",
+        "whyItMatters": "\"Completata la prima rete alpina d'Europa\".",
+        "confirmedFacts": [
+          "Nel Biellese i defibrillatori in quota comunicano con l'ospedale.",
+          "\"Completata la prima rete alpina d'Europa\".",
+          "Nelle settimane in cui il caldo eccezionale di questa estate continua a spostare verso l'alta quota il turismo e l'escursionismo, gli oltre 2.000 chilometri di sentieri delle montagne biellesi possono contare su una rete di sicurezza che - fa sapere l'Asl di Biella - \"costituisce un primato in Europa\".",
+          "Il riconoscimento a livello scientifico pi significativo atteso per settembre: un lavoro dedicato all'esperienza biellese stato accettato al congresso europeo Erc - Resuscitation 2026, in programma a Milano."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Biellese",
+          "Asl di Biella",
+          "defibrillatori",
+          "montagne biellesi"
+        ],
+        "numbersAndDates": [
+          "Nelle settimane in cui il caldo eccezionale di questa estate continua a spostare verso l'alta quota il turismo e l'escursionismo, gli oltre 2.000 chilometri di sentieri delle montagne biellesi possono contare su una rete di sicurezza che - fa sapere l'Asl di Biella - \"costituisce un primato in Europa\".",
+          "Il riconoscimento a livello scientifico pi significativo atteso per settembre: un lavoro dedicato all'esperienza biellese stato accettato al congresso europeo Erc - Resuscitation 2026, in programma a Milano."
+        ]
+      }
+    },
+    {
+      "id": "story-27931c9934944e32",
+      "title": "Un ago metallico trovato nei grissini 'Lingue di Pane', ritirato un lotto",
+      "summary": "Il richiamo sul sito del ministero della Salute: \"Riportare il prodotto al punto vendita\"",
+      "spokenText": "Il ritiro dagli scaffali è stato disposto dopo il ritrovamento di un ago metallico da cucito all’interno di una confezione da 180 grammi. L’avviso, pubblicato sul sito del Ministero della Salute, segue il percorso ufficiale di queste segnalazioni e fornisce un’indicazione chiara: chi ha acquistato il prodotto appartenente al lotto richiamato non deve consumarlo, ma riportarlo direttamente al punto vendita.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "lingue di pane",
+        "pan dei massi forneria piemontese",
+        "ministero della salute"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 24,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/17/un-ago-metallico-trovato-nei-grissini-lingue-di-pane-ritirato-un-lotto_87d2f719-d036-422d-ada8-6dda94d6f037.html"
+      },
+      "analysis": {
+        "mainFact": "Un lotto di grissini 'Lingue di Pane' è stato ritirato dopo la scoperta di un ago metallico da cucito all'interno del prodotto.",
+        "whyItMatters": "I consumatori non devono consumare il prodotto, ma riportarlo al punto vendita. Ma riportarlo al punto vendita.",
+        "confirmedFacts": [
+          "Un lotto di grissini 'Lingue di Pane' è stato ritirato dopo la scoperta di un ago metallico da cucito all'interno del prodotto.",
+          "I consumatori non devono consumare il prodotto, ma riportarlo al punto vendita. Ma riportarlo al punto vendita.",
+          "Il richiamo sul sito del Ministero della Salute: \"Riportare il prodotto al punto vendita\"",
+          "Un lotto di grissini a marchio \"Lingue di Pane\", prodotti da Pan dei Massi - Forneria Piemontese e venduti in confezioni da 180 grammi, è stato ritirato dagli scaffali dopo la scoperta di un ago metallico da cucito all'interno del prodotto."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Lingue di Pane",
+          "Pan dei Massi - Forneria Piemontese",
+          "ministero della Salute"
+        ],
+        "numbersAndDates": [
+          "Un lotto di grissini a marchio \"Lingue di Pane\", prodotti da Pan dei Massi - Forneria Piemontese e venduti in confezioni da 180 grammi, è stato ritirato dagli scaffali dopo la scoperta di un ago metallico da cucito all'interno del prodotto."
+        ]
+      }
+    },
+    {
+      "id": "story-3a1f3d84dfdfeb2a",
+      "title": "Guerra in Iran, le news di oggi. Teheran: pronti ad attacco contro blocco Usa a Hormuz",
+      "summary": "Trump: “L’Oman non si è comportato bene, se si mette in mezzo lo bombarderemo”",
+      "spokenText": "Trump minaccia di bombardare l'Oman, 'non si metta in mezzo su Hormuz'. Erdogan ha inoltre fatto presente al capo della Casa Bianca che \"Israele attacca i palestinesi a Gaza mentre dovrebbe essere in vigore la seconda fase del piano di pace\". Trump minaccia di bombardare anche l’Oman: Teheran prepara l’escalation. Nel regime iraniano più potere ai Pasdaran: verso attacchi in tutta la regione. Trump: “L’Oman non si è comportato bene, se si mette in mezzo lo bombarderemo”. Lo ha dichiarato Abbas Baqerpour , direttore generale per gli Affari legali del ministero degli Esteri iraniano, dopo la scadenza dell’intesa di 60 giorni raggiunta ieri tra Washington e Teheran. Da quando ha lasciato il suo porto base di San Diego lo scorso novembre, la portaerei è stata dispiegata per più di 250 giorni dopo essere stata reindirizzata in Medio Oriente per supportare le operazioni statunitensi nella guerra con l'Iran, che ora sta entrando nel suo sesto mese.",
       "category": "mondo",
       "tags": [
         "mondo",
-        "ucraina",
-        "mosca",
-        "belgorod",
-        "kryvyi rih"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 33,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/ucraina-mosca-abbatte-205-droni-kiev-sei-morti-attacco-missilistico-regione-belgorod-AJ620vn"
-      },
-      "analysis": {
-        "mainFact": "La difesa aerea di Mosca ha intercettato e distrutto 205 droni ucraini in volo sul Mar d'Azov e sul Mar Nero durante la notte.",
-        "whyItMatters": "Sei morti in attacco missilistico nella regione di Belgorod",
-        "confirmedFacts": [
-          "La difesa aerea di Mosca ha intercettato e distrutto 205 droni ucraini in volo sul Mar d'Azov e sul Mar Nero durante la notte.",
-          "Sei morti in attacco missilistico nella regione di Belgorod",
-          "Un attacco missilistico ucraino ha ucciso sei persone e ne ha ferite altre quattro, tra cui un bambino di quattordici anni, nella regione russa di Belgorod, ha dichiarato lunedì il governatore ad interim Alexander Shuvayev sull'app di messaggistica Telegram.",
-          "Andrej Vorobiev, ha definito l’attacco ucraino degli ultimi giorni «uno dei più massicci a memoria d’uomo».",
-          "Nella gionata di ieri, in Ucraina, droni e missili russi hanno ucciso due persone e ferito altre 14 in un’acciaieria a Kryvyi Rih.",
-          "Mosca abbatte 205 droni di Kiev."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Ucraina",
-          "Mosca",
-          "Belgorod",
-          "Kryvyi Rih"
-        ],
-        "numbersAndDates": [
-          "Nella gionata di ieri, in Ucraina, droni e missili russi hanno ucciso due persone e ferito altre 14 in un’acciaieria a Kryvyi Rih.",
-          "Mosca abbatte 205 droni di Kiev.",
-          "205"
-        ]
-      }
-    },
-    {
-      "id": "story-3a7121e7b0eb2a6e",
-      "title": "Per l’esplosione a Colleferro la pista del sabotaggio russo",
-      "summary": "Rogo alla fabbrica di armi, la procura indaga sui possibili collegamenti con un altro sito di munizioni saltato in aria in Bulgaria",
-      "spokenText": "Per l'esplosione a Colleferro la procura indaga sulla pista del sabotaggio russo.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "colleferro"
+        "iran",
+        "oman",
+        "pasdaran",
+        "israele",
+        "gaza"
       ],
       "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 5,
+      "estimatedSeconds": 62,
       "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/17/news/colleferro_esplosione_fabbrica_armi_pista_russa_ucraina-425532055/"
+        "url": "https://www.repubblica.it/esteri/2026/08/18/diretta/guerra_iran_usa_israele_news_oggi-425533739/"
       },
       "analysis": {
-        "mainFact": "Per l'esplosione a Colleferro la procura indaga sulla pista del sabotaggio russo.",
-        "whyItMatters": "Esplosione in fabbrica armi con pista sabotaggio russo. Implicazioni sicurezza nazionale e industriale.",
+        "mainFact": "Trump minaccia di bombardare l'Oman, 'non si metta in mezzo su Hormuz'",
+        "whyItMatters": "Erdogan ha inoltre fatto presente al capo della Casa Bianca che \"Israele attacca i palestinesi a Gaza mentre dovrebbe essere in vigore la seconda fase del piano di pace\".",
         "confirmedFacts": [
-          "Per l'esplosione a Colleferro la procura indaga sulla pista del sabotaggio russo.",
-          "Esplosione in fabbrica armi con pista sabotaggio russo. Implicazioni sicurezza nazionale e industriale."
+          "Trump minaccia di bombardare l'Oman, 'non si metta in mezzo su Hormuz'",
+          "Erdogan ha inoltre fatto presente al capo della Casa Bianca che \"Israele attacca i palestinesi a Gaza mentre dovrebbe essere in vigore la seconda fase del piano di pace\".",
+          "Trump minaccia di bombardare anche l’Oman: Teheran prepara l’escalation",
+          "Nel regime iraniano più potere ai Pasdaran: verso attacchi in tutta la regione",
+          "Trump: “L’Oman non si è comportato bene, se si mette in mezzo lo bombarderemo”",
+          "E su Gaza: “Meglio se Israele non attacca”.",
+          "Lo ha dichiarato Abbas Baqerpour , direttore generale per gli Affari legali del ministero degli Esteri iraniano, dopo la scadenza dell’intesa di 60 giorni raggiunta ieri tra Washington e Teheran.",
+          "Da quando ha lasciato il suo porto base di San Diego lo scorso novembre, la portaerei è stata dispiegata per più di 250 giorni dopo essere stata reindirizzata in Medio Oriente per supportare le operazioni statunitensi nella guerra con l'Iran, che ora sta entrando nel suo sesto mese."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Colleferro"
+          "Iran",
+          "Oman",
+          "Pasdaran",
+          "Israele",
+          "Gaza"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "Lo ha dichiarato Abbas Baqerpour , direttore generale per gli Affari legali del ministero degli Esteri iraniano, dopo la scadenza dell’intesa di 60 giorni raggiunta ieri tra Washington e Teheran.",
+          "Da quando ha lasciato il suo porto base di San Diego lo scorso novembre, la portaerei è stata dispiegata per più di 250 giorni dopo essere stata reindirizzata in Medio Oriente per supportare le operazioni statunitensi nella guerra con l'Iran, che ora sta entrando nel suo sesto mese."
+        ]
       }
     },
     {
-      "id": "story-9035c0d7290af702",
-      "title": "Al via la campagna elettorale per le presidenziali in Brasile",
-      "summary": "Lula punta al quarto mandato e a contrastare l'avanzata della destra nel continente",
-      "spokenText": "In Brasile è ufficialmente iniziata la campagna elettorale per le presidenziali. Al centro della scena c'è l'attuale presidente Lula, che punta a un inedito quarto mandato e a contrastare l'avanzata della destra nel continente. La sua principale sfida arriva da Flavio Bolsonaro, figlio dell'ex presidente Jair, condannato per il tentativo di colpo di Stato del gennaio 2023. La candidatura di Flavio rappresenta il tentativo della destra di tornare al potere, nonostante le vicende giudiziarie che hanno colpito la famiglia Bolsonaro.",
-      "category": "attualita",
+      "id": "story-dbaa5cd397e2072a",
+      "title": "La più grande mappa 2D dell’universo",
+      "summary": "Un team a cui hanno contribuito più di 160 scienziati ha pubblicato la più grande mappa bidimensionale del cielo mai realizzata: un atlante da più di mille miliardi di pixel che cataloga quasi 4 miliardi di oggetti celesti. Il rilascio rende i dati liberamente accessibili a ricercatori e pubblico tramite un browser online dedicato",
+      "spokenText": "Un team di oltre centosessanta scienziati ha pubblicato la più grande mappa bidimensionale del cielo mai realizzata. Si tratta di un atlante che supera i mille miliardi di pixel e cataloga quasi quattro miliardi di oggetti celesti. Un lavoro senza precedenti per dimensioni e dettaglio, che ora è liberamente accessibile a ricercatori e pubblico attraverso un browser online dedicato. Non serve essere astrofisici per perdersi tra i miliardi di punti luminosi che compongono questa mappa: l'interfaccia è pensata per essere intuitiva e accessibile.",
+      "category": "scienza",
       "tags": [
-        "attualita",
-        "brasile",
-        "flavio bolsonaro"
+        "scienza"
       ],
-      "importance": 65,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 32,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/18/la-piu-grande-mappa-2d-delluniverso/"
+      },
+      "analysis": {
+        "mainFact": "Un team di oltre 160 scienziati ha pubblicato la più grande mappa bidimensionale del cielo mai realizzata, un atlante da più di mille miliardi di pixel che cataloga quasi 4 miliardi di oggetti celesti.",
+        "whyItMatters": "Il rilascio rende i dati liberamente accessibili a ricercatori e pubblico tramite un browser online dedicato.",
+        "confirmedFacts": [
+          "Un team di oltre 160 scienziati ha pubblicato la più grande mappa bidimensionale del cielo mai realizzata, un atlante da più di mille miliardi di pixel che cataloga quasi 4 miliardi di oggetti celesti.",
+          "Il rilascio rende i dati liberamente accessibili a ricercatori e pubblico tramite un browser online dedicato.",
+          "Un team a cui hanno contribuito più di 160 scienziati ha pubblicato la più grande mappa bidimensionale del cielo mai realizzata: un atlante da più di mille miliardi di pixel che cataloga quasi 4 miliardi di oggetti celesti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "160",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "story-845531ddff57cd00",
+      "title": "Apple cambierà il consenso al tracciamento per le app",
+      "summary": "Apple ha accettato di modificare le schermate dei consensi relativi alla funzionalità App Tracking Transparency in Europa, evitando una multa in Germania. The post Apple cambierà il consenso al tracciamento per le app appeared first on Punto Informatico.",
+      "spokenText": "Apple ha accettato di modificare in Europa le schermate di consenso per la funzionalità App Tracking Transparency, evitando così una multa in Germania. La funzione, introdotta nel 2021 con iOS 14. A fine dicembre 2025, l’autorità antitrust italiana ha inflitto alla società una sanzione di circa 98 milioni di euro, provvedimento contro cui Apple ha presentato ricorso.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 23,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/apple-cambiera-consenso-tracciamento-app/"
+      },
+      "analysis": {
+        "mainFact": "Apple cambierà il consenso al tracciamento per le app. Apple ha accettato di modificare le schermate dei consensi relativi alla funzionalità App Tracking Transparency in Europa, evitando una multa in Germania.",
+        "whyItMatters": "Apple cambierà il consenso al tracciamento per le app Apple ha accettato di modificare le schermate dei consensi relativi alla funzionalità App Tracking Transparency in Europa, evitando una multa in Germania.",
+        "confirmedFacts": [
+          "Apple cambierà il consenso al tracciamento per le app. Apple ha accettato di modificare le schermate dei consensi relativi alla funzionalità App Tracking Transparency in Europa, evitando una multa in Germania.",
+          "Novità per il consenso al tracciamento La funzionalità App Tracking Transparency (ATT) è stata introdotta nel 2021 con iOS 14. 5.",
+          "L’autorità antitrust italiana ha inflitto una multa di circa 98 milioni di euro a fine dicembre 2025 (Apple ha presentato ricorso)."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "Novità per il consenso al tracciamento La funzionalità App Tracking Transparency (ATT) è stata introdotta nel 2021 con iOS 14. 5.",
+          "L’autorità antitrust italiana ha inflitto una multa di circa 98 milioni di euro a fine dicembre 2025 (Apple ha presentato ricorso)."
+        ]
+      }
+    },
+    {
+      "id": "story-2ffd91d9f0c98dd1",
+      "title": "Condannato a 11 anni uno dei leader del partito pacifista russo",
+      "summary": "Il gruppo Yabloko escluso dal voto. Silurato anche un banchiere, criticò l'economia",
+      "spokenText": "Undici anni e un mese di carcere per Lev Shlosberg, vicepresidente del partito pacifista di opposizione Yabloko, già escluso dalle prossime elezioni parlamentari di settembre. La condanna arriva da un tribunale russo e colpisce una figura di spicco del dissenso. Parallelamente, è stato silurato anche un banchiere che aveva criticato pubblicamente l’andamento dell’economia.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "lev shlosberg",
+        "yabloko",
+        "russia"
+      ],
+      "importance": 80,
+      "mustInclude": true,
+      "estimatedSeconds": 22,
       "source": {
         "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/al-via-la-campagna-elettorale-per-le-presidenziali-in-brasile_773d557d-c45c-4d22-8227-b8c0964aa2ca.html"
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/condannato-a-11-anni-uno-dei-leader-del-partito-pacifista-russo_34cb40ff-4140-4212-9e1b-6f71e28d971e.html"
       },
       "analysis": {
-        "mainFact": "Al via la campagna elettorale per le presidenziali in Brasile.",
-        "whyItMatters": "L'attuale presidente Lula punta a un inedito quarto mandato e a contrastare il ritorno della destra di Flavio Bolsonaro, figlio dell'ex presidente Jair condannato per il tentativo di colpo di Stato del gennaio 2023.",
+        "mainFact": "Lev Shlosberg, è stato condannato a undici anni e un mese di carcere.",
+        "whyItMatters": "La scure della repressione si abbatte a tutto campo sugli oppositori in Russia, dove un tribunale ha condannato a 11 anni di carcere Lev Shlosberg, vicepresidente del partito pacifista di opposizione Yabloko, già escluso dalle prossime elezioni parlamentari di settembre.",
         "confirmedFacts": [
-          "Al via la campagna elettorale per le presidenziali in Brasile.",
-          "L'attuale presidente Lula punta a un inedito quarto mandato e a contrastare il ritorno della destra di Flavio Bolsonaro, figlio dell'ex presidente Jair condannato per il tentativo di colpo di Stato del gennaio 2023.",
-          "Lula punta al quarto mandato e a contrastare l'avanzata della destra nel continente"
+          "Lev Shlosberg, è stato condannato a undici anni e un mese di carcere.",
+          "La scure della repressione si abbatte a tutto campo sugli oppositori in Russia, dove un tribunale ha condannato a 11 anni di carcere Lev Shlosberg, vicepresidente del partito pacifista di opposizione Yabloko, già escluso dalle prossime elezioni parlamentari di settembre.",
+          "Silurato anche un banchiere, criticò l'economia"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Brasile",
-          "Flavio Bolsonaro"
+          "Lev Shlosberg",
+          "Yabloko",
+          "Russia"
         ],
         "numbersAndDates": [
-          "2023"
+          "11"
         ]
       }
     },
     {
-      "id": "story-6e7c6b022aab50ec",
-      "title": "Svizzera alza l’Iva di 0,5 punti per aumentare gli acquisti di armi",
-      "summary": "Per difendersi dalle minacce ibride e a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento",
-      "spokenText": "Svizzera alza l’Iva di 0,alcuni aspetti per aumentare gli acquisti di armi. Per difendersi dalle minacce ibride e a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento. L’orientamento dell’esercito alla capacità di difesa deciso dal Consiglio federale il 19 giugno 2026 e gli acquisti di armamenti prioritari previsti a questo scopo, conclude il comunicato, potranno essere realizzati soltanto se l’esercito disporrà dei mezzi supplementari proposti.",
+      "id": "story-6093a1c940c4afce",
+      "title": "Binance ha dato alle autorità russe i dettagli di un trasferimento di 700 dollari fatto da Yuri Belenkiy a favore del Reggimento Azov dell'esercito ucraino",
+      "summary": "LONDRA - Binance, la più grande piattaforma di scambio di criptovalute al mondo, è di nuovo al centro di una controversia su tutela della privacy e mancanza di trasparenza sui...",
+      "spokenText": "Binance ha fornito alle autorità russe i dettagli di un trasferimento di settecento dollari effettuato da Yuri Belenkiy a favore del Reggimento Azov dell'esercito ucraino. Parallelamente, si prevede che a settembre Binance presenti domanda di accredito presso le autorità britanniche per adeguarsi alla nuova regolamentazione del settore cripto, che entrerà in vigore nell'ottobre del duemilaventisette. Binance, fondata in Cina nel duemiladiciassette, ha trasferito la propria sede in Giappone, poi a Malta e attualmente nelle isole Cayman. In passato, la società ha pagato una penale di quattro virgola tre miliardi di dollari.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "binance",
+        "reuters",
+        "yuri belenkiy",
+        "reggimento azov",
+        "mosca",
+        "kiev"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 37,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/binance-informazioni-mosca-fondi-kiev-bufera-colosso-cripto-AJ9EdUo"
+      },
+      "analysis": {
+        "mainFact": "Binance ha dato alle autorità russe i dettagli di un trasferimento di 700 dollari fatto da Yuri Belenkiy a favore del Reggimento Azov dell'esercito ucraino.",
+        "whyItMatters": "Mosca: fondatore Telegram in lista ricercati per terrorismo Si prevede che in settembre la società farà domanda di accredito presso le autorità britanniche per rientrare nella nuova regolamentazione del settore cripto che entrerà in vigore nell’ottobre 2027.",
+        "confirmedFacts": [
+          "Binance ha dato alle autorità russe i dettagli di un trasferimento di 700 dollari fatto da Yuri Belenkiy a favore del Reggimento Azov dell'esercito ucraino.",
+          "Mosca: fondatore Telegram in lista ricercati per terrorismo Si prevede che in settembre la società farà domanda di accredito presso le autorità britanniche per rientrare nella nuova regolamentazione del settore cripto che entrerà in vigore nell’ottobre 2027.",
+          "Binance era stata fondata in Cina nel 2017 e ha poi trasferito la sede in Giappone, a Malta e ora nelle isole Cayman.",
+          "Binance aveva pagato una penale di 4,3 miliardi di dollari."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Binance",
+          "Reuters",
+          "Yuri Belenkiy",
+          "Reggimento Azov",
+          "Mosca",
+          "Kiev"
+        ],
+        "numbersAndDates": [
+          "Binance era stata fondata in Cina nel 2017 e ha poi trasferito la sede in Giappone, a Malta e ora nelle isole Cayman.",
+          "Binance aveva pagato una penale di 4,3 miliardi di dollari.",
+          "700",
+          "2027"
+        ]
+      }
+    },
+    {
+      "id": "story-706a1d46fa952c6a",
+      "title": "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la costruzione è in fase avanzata",
+      "summary": "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la costruzione è in fase avanzata.",
+      "spokenText": "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, situati a circa 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la loro costruzione è in fase avanzata. Una nuova valutazione di impatto ambientale ha concluso che il petrolio e il gas prodotti genereranno circa 250 milioni di tonnellate di gas serra che riscaldano il pianeta nel corso della loro vita utile.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "rosebank oil field",
+        "jackdaw gas field",
+        "industry regulator",
+        "aberdeen",
+        "shetland"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 28,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la costruzione è in fase avanzata.",
+        "whyItMatters": "Consultazione su controverso giacimento petrolifero Rosebank, snodo clima vs energia.",
+        "confirmedFacts": [
+          "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la costruzione è in fase avanzata.",
+          "Consultazione su controverso giacimento petrolifero Rosebank, snodo clima vs energia.",
+          "Una nuova valutazione di impatto ambientale (VIA) ha concluso che il petrolio e il gas prodotti genereranno circa 250 milioni di tonnellate di gas serra che riscaldano il pianeta nel corso della loro vita utile."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Rosebank oil field",
+          "Jackdaw gas field",
+          "industry regulator",
+          "Aberdeen",
+          "Shetland"
+        ],
+        "numbersAndDates": [
+          "Una nuova valutazione di impatto ambientale (VIA) ha concluso che il petrolio e il gas prodotti genereranno circa 250 milioni di tonnellate di gas serra che riscaldano il pianeta nel corso della loro vita utile.",
+          "150"
+        ]
+      }
+    },
+    {
+      "id": "story-05066c3b672463f5",
+      "title": "Un'alluvione improvvisa ha spazzato via un veicolo alle Hawaii dopo il passaggio dell'uragano Lala",
+      "summary": "Un'alluvione improvvisa ha spazzato via un veicolo alle Hawaii dopo il passaggio dell'uragano Lala. L'uragano Lala ha devastato le Hawaii.",
+      "spokenText": "Un’auto trascinata via da un’ondata di piena improvvisa è l’immagine simbolo del passaggio dell’uragano Lala sulle Hawaii. Durante la notte, il muro dell’occhio del ciclone è arrivato a ululare a meno di cinquanta chilometri da South Point, sulla Big Island, abbastanza vicino da scatenare inondazioni improvvise in tutta la contea. I venti, che sabato pomeriggio soffiavano a oltre centoquaranta chilometri orari, sono poi calati intorno ai centocinque, ma la tempesta ha comunque devastato circa cento abitazioni. La Guardia Nazionale ha schierato circa centottanta uomini per le operazioni di soccorso, mentre diversi feriti lievi sono stati accompagnati in ospedale. L’arcipelago non viveva una minaccia simile dal 1992, quando l’uragano Iniki, di categoria quattro, toccò terra sulla costa meridionale di Kauai causando sei vittime e danni per tre miliardi di dollari. Lala arriva dopo una stagione degli uragani che negli Stati Uniti era stata relativamente tranquilla: l’ultima grande tempesta, l’uragano Milton di categoria tre, aveva colpito la Florida nell’ottobre del 2024. È stato abbastanza vicino da portare inondazioni improvvise, ha detto domenica la contea di Hawaii.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "hurricane lala",
+        "hawaii",
+        "big island",
+        "national hurricane center",
+        "hawaii county",
+        "hawaii national guard"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 70,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Un'alluvione improvvisa ha spazzato via un veicolo alle Hawaii dopo il passaggio dell'uragano Lala.",
+        "whyItMatters": "L'uragano Lala ha devastato le Hawaii. Circa 100 case spazzate via dopo che l'uragano Lala ha colpito le Hawaii.",
+        "confirmedFacts": [
+          "Un'alluvione improvvisa ha spazzato via un veicolo alle Hawaii dopo il passaggio dell'uragano Lala.",
+          "L'uragano Lala ha devastato le Hawaii. Circa 100 case spazzate via dopo che l'uragano Lala ha colpito le Hawaii.",
+          "Il muro dell'occhio del ciclone ha ululato entro 30 miglia (48 km) da South Point della Big Island durante la notte, ma è stato abbastanza vicino da portare inondazioni improvvise, ha detto domenica la contea di Hawaii.",
+          "Dopo aver acquisito forza di uragano sabato pomeriggio, con venti a 91 mph, i venti di Lala sono ora diminuiti a circa 65 mph, ha detto il National Hurricane Center (NHC) nel suo ultimo avviso alle 20:00 EDT (00:00 GMT) di domenica.",
+          "\"Ci sono state molte persone che sono andate in ospedale per incidenti minori. \" Didascalia, Guarda: Forti venti e acquazzoni a Maui e Honolulu mentre la tempesta Lala si avvicina. Circa 180 membri della Guardia Nazionale delle Hawaii sono stati dispiegati per aiutare con la risposta all'emergenza.",
+          "Iniki, una potente tempesta di categoria quattro, è stato l'ultimo uragano a colpire le Hawaii nel 1992.",
+          "Ha causato sei morti e 3 miliardi di dollari di danni dopo aver toccato terra sulla costa meridionale di Kauai.",
+          "La stagione degli uragani negli Stati Uniti è stata relativamente tranquilla negli ultimi anni - l'ultima grande tempesta è stata l'uragano di categoria tre Milton, che ha colpito la Florida nell'ottobre 2024."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Hurricane Lala",
+          "Hawaii",
+          "Big Island",
+          "National Hurricane Center",
+          "Hawaii County",
+          "Hawaii National Guard"
+        ],
+        "numbersAndDates": [
+          "Il muro dell'occhio del ciclone ha ululato entro 30 miglia (48 km) da South Point della Big Island durante la notte, ma è stato abbastanza vicino da portare inondazioni improvvise, ha detto domenica la contea di Hawaii.",
+          "Dopo aver acquisito forza di uragano sabato pomeriggio, con venti a 91 mph, i venti di Lala sono ora diminuiti a circa 65 mph, ha detto il National Hurricane Center (NHC) nel suo ultimo avviso alle 20:00 EDT (00:00 GMT) di domenica.",
+          "\"Ci sono state molte persone che sono andate in ospedale per incidenti minori. \" Didascalia, Guarda: Forti venti e acquazzoni a Maui e Honolulu mentre la tempesta Lala si avvicina. Circa 180 membri della Guardia Nazionale delle Hawaii sono stati dispiegati per aiutare con la risposta all'emergenza.",
+          "Iniki, una potente tempesta di categoria quattro, è stato l'ultimo uragano a colpire le Hawaii nel 1992.",
+          "Ha causato sei morti e 3 miliardi di dollari di danni dopo aver toccato terra sulla costa meridionale di Kauai.",
+          "La stagione degli uragani negli Stati Uniti è stata relativamente tranquilla negli ultimi anni - l'ultima grande tempesta è stata l'uragano di categoria tre Milton, che ha colpito la Florida nell'ottobre 2024.",
+          "100"
+        ]
+      }
+    },
+    {
+      "id": "story-a6ef5fb53199cb9f",
+      "title": "La produzione industriale cinese rallenta al 4,5% a luglio",
+      "summary": "Anche vendite, investimenti fissi, prezzi delle case, disoccupazione tra i nodi da sciogliere in vista del Plenum di ottobre",
+      "spokenText": "La produzione industriale cinese ha rallentato al 4,5% a luglio, segnando una frenata rispetto ai mesi precedenti. Il dato si inserisce in un quadro di debolezza più ampio: le vendite al dettaglio sono aumentate solo dello 0,6% su base annua, ben al di sotto delle attese, mentre gli investimenti in attività fisse sono diminuiti del 6,7% nel periodo gennaio-luglio. Il punto sul lavoro è che , il tasso di disoccupazione urbana è salito al 5,2%, superando le previsioni. Escludendo l'immobiliare, gli investimenti fissi sono scesi del 5,7%, con un'accelerazione del calo su base mensile. Questi indicatori delineano un'economia in rallentamento, con nodi da sciogliere in vista del Plenum di ottobre. Al contrario, la produzione è diminuita nei prodotti chimici (-1,2%), nel carbone (-10,8%) e nei prodotti minerali non metallici (-3,3%). Le vendite al dettaglio Le vendite al dettaglio sono aumentate dello 0,6% su base annua nel luglio 2026, rallentando rispetto alla crescita dell’1% di giugno e scendendo ben al di sotto delle aspettative di un aumento dell’1,5% su base annua. L’immobiliare I prezzi delle nuove case in 70 città sono scesi del 3,2% su base annua nel luglio 2026, dopo un calo del 3,3% nel mese precedente.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "svizzera",
-        "consiglio federale"
+        "cina",
+        "plenum di ottobre",
+        "produzione industriale",
+        "vendite al dettaglio",
+        "investimenti fissi",
+        "prezzi delle case",
+        "disoccupazione urbana"
       ],
-      "importance": 65,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 30,
+      "estimatedSeconds": 79,
       "source": {
         "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/svizzera-alza-l-iva-05-punti-aumentare-acquisti-armi-AJBzpin"
+        "url": "https://www.ilsole24ore.com/art/cina-frenata-produzione-industriale-rallenta-45percento-luglio-AJo65Do"
       },
       "analysis": {
-        "mainFact": "Svizzera alza l’Iva di 0,alcuni aspetti per aumentare gli acquisti di armi",
-        "whyItMatters": "Per difendersi dalle minacce ibride e a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento",
+        "mainFact": "La produzione industriale cinese rallenta al 4,5% a luglio.",
+        "whyItMatters": "Al contrario, la produzione è diminuita nei prodotti chimici (-1,2%), nel carbone (-10,8%) e nei prodotti minerali non metallici (-3,3%).",
         "confirmedFacts": [
-          "Svizzera alza l’Iva di 0,alcuni aspetti per aumentare gli acquisti di armi",
-          "Per difendersi dalle minacce ibride e a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento",
-          "L’orientamento dell’esercito alla capacità di difesa deciso dal Consiglio federale il 19 giugno 2026 e gli acquisti di armamenti prioritari previsti a questo scopo, conclude il comunicato, potranno essere realizzati soltanto se l’esercito disporrà dei mezzi supplementari proposti.",
-          "Per difendersi dalle minacce più probabili, ossia attività ibride e minacce a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento."
+          "La produzione industriale cinese rallenta al 4,5% a luglio.",
+          "Al contrario, la produzione è diminuita nei prodotti chimici (-1,2%), nel carbone (-10,8%) e nei prodotti minerali non metallici (-3,3%).",
+          "Le vendite al dettaglio Le vendite al dettaglio sono aumentate dello 0,6% su base annua nel luglio 2026, rallentando rispetto alla crescita dell’1% di giugno e scendendo ben al di sotto delle aspettative di un aumento dell’1,5% su base annua.",
+          "Quel che è peggio, gli investimenti in attività fisse della Cina sono diminuiti del 6,7% su base annua nel periodo gennaio-luglio 2026, il mercato ipotizzava un dato intermedio tra il calo del 6,2% e il calo del 5,7% registrato nella prima metà dell’anno.",
+          "L’immobiliare I prezzi delle nuove case in 70 città sono scesi del 3,2% su base annua nel luglio 2026, dopo un calo del 3,3% nel mese precedente.",
+          "Il lavoro Il tasso di disoccupazione urbana in Cina è salito al 5,2% dal 5,0% di giugno, leggermente al di sopra delle aspettative del mercato del 5,1%.",
+          "Escludendo il settore immobiliare, gli investimenti in attività fisse sono diminuiti del 5,7% in gennaio-luglio, con un ulteriore calo rispetto al 2,7% registrato nei primi sei mesi dell’anno.",
+          "Su base mensile, gli investimenti in attività fisse sono diminuiti dell’1,42% a luglio, accelerando rispetto al calo dello 0,37% del periodo precedente."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Svizzera",
-          "Consiglio federale"
+          "Cina",
+          "Plenum di ottobre",
+          "produzione industriale",
+          "vendite al dettaglio",
+          "investimenti fissi",
+          "prezzi delle case",
+          "disoccupazione urbana"
         ],
         "numbersAndDates": [
-          "L’orientamento dell’esercito alla capacità di difesa deciso dal Consiglio federale il 19 giugno 2026 e gli acquisti di armamenti prioritari previsti a questo scopo, conclude il comunicato, potranno essere realizzati soltanto se l’esercito disporrà dei mezzi supplementari proposti.",
-          "Per difendersi dalle minacce più probabili, ossia attività ibride e minacce a distanza, nei prossimi anni l’esercito avrà bisogno di 24 miliardi di franchi da destinare a investimenti supplementari nell’armamento.",
-          "0,",
-          "24"
+          "Le vendite al dettaglio Le vendite al dettaglio sono aumentate dello 0,6% su base annua nel luglio 2026, rallentando rispetto alla crescita dell’1% di giugno e scendendo ben al di sotto delle aspettative di un aumento dell’1,5% su base annua.",
+          "Quel che è peggio, gli investimenti in attività fisse della Cina sono diminuiti del 6,7% su base annua nel periodo gennaio-luglio 2026, il mercato ipotizzava un dato intermedio tra il calo del 6,2% e il calo del 5,7% registrato nella prima metà dell’anno.",
+          "L’immobiliare I prezzi delle nuove case in 70 città sono scesi del 3,2% su base annua nel luglio 2026, dopo un calo del 3,3% nel mese precedente.",
+          "Il lavoro Il tasso di disoccupazione urbana in Cina è salito al 5,2% dal 5,0% di giugno, leggermente al di sopra delle aspettative del mercato del 5,1%.",
+          "Escludendo il settore immobiliare, gli investimenti in attività fisse sono diminuiti del 5,7% in gennaio-luglio, con un ulteriore calo rispetto al 2,7% registrato nei primi sei mesi dell’anno.",
+          "Su base mensile, gli investimenti in attività fisse sono diminuiti dell’1,42% a luglio, accelerando rispetto al calo dello 0,37% del periodo precedente.",
+          "4,5",
+          "1,2",
+          "10,8",
+          "3,3"
         ]
       }
     },
     {
-      "id": "story-a6d5a0232c30a9bd",
-      "title": "Summer School \"Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza”",
-      "summary": "Nell’ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA, L’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA), organizza la Summer School sugli “Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza” che si svolgerà nella città di Trieste dal 14 al 18 Settembre 2026.",
-      "spokenText": "Catene di connessioni e resilienza’. L’iniziativa, promossa attraverso la Scuola di Specializzazione in Discipline Ambientali, si terrà a Trieste dal 14 al 18 settembre 2026. L'evento formativo affronta il tema dell'impatto dei cambiamenti climatici sugli ecosistemi marino-costieri.",
+      "id": "story-cb19d0980d6ff7c9",
+      "title": "James Webb e Hubble si combinano per rivelare una visione vibrante della Nebulosa Tarantola in un'immagine dell'11 agosto 2026",
+      "summary": "James Webb e Hubble si combinano per rivelare una visione vibrante della Nebulosa Tarantola in un'immagine dell'11 agosto 2026. 11, 2026, image.",
+      "spokenText": "L'11 agosto 2026, la NASA ha diffuso un'immagine straordinaria della Nebulosa Tarantola, ottenuta combinando le osservazioni del James Webb Space Telescope e del telescopio spaziale Hubble, con il contributo dell'osservatorio a raggi X Chandra. 11, 2026, image.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "ispra",
-        "scuola di specializzazione in discipline ambient"
+        "nasa",
+        "chandra x ray observatory",
+        "james webb space telescope",
+        "hubble space telescope",
+        "tarantula nebula",
+        "large magellanic cloud"
       ],
-      "importance": 72,
+      "importance": 82,
       "mustInclude": true,
       "estimatedSeconds": 15,
       "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/summer-school-ecosistemi-marino-costieri-e-cambiamenti-climatici-catene-di-connessioni-e-resilienza"
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/"
       },
       "analysis": {
-        "mainFact": "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 Settembre 2026.",
-        "whyItMatters": "L'evento formativo affronta il tema dell'impatto dei cambiamenti climatici sugli ecosistemi marino-costieri.",
+        "mainFact": "James Webb e Hubble si combinano per rivelare una visione vibrante della Nebulosa Tarantola in un'immagine dell'11 agosto 2026.",
+        "whyItMatters": "11, 2026, image.",
         "confirmedFacts": [
-          "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 Settembre 2026.",
-          "L'evento formativo affronta il tema dell'impatto dei cambiamenti climatici sugli ecosistemi marino-costieri."
+          "James Webb e Hubble si combinano per rivelare una visione vibrante della Nebulosa Tarantola in un'immagine dell'11 agosto 2026.",
+          "11, 2026, image.",
+          "Edmonds Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug.",
+          "Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the Tarantula has thousands of young stars embedded in a vibrant honeycomb-like structure of gas and dust."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "ISPRA",
-          "Scuola di Specializzazione in Discipline Ambientali"
+          "NASA",
+          "Chandra X-ray Observatory",
+          "James Webb Space Telescope",
+          "Hubble Space Telescope",
+          "Tarantula Nebula",
+          "Large Magellanic Cloud"
         ],
         "numbersAndDates": [
-          "14",
-          "18",
+          "11",
           "2026"
         ]
       }
     },
     {
-      "id": "story-ebc9a80eaa840fcf",
-      "title": "Agenti AI cinesi attaccano agenzie governative di Taiwan",
-      "summary": "Agenti AI basati su OpenClaw e Hermes, controllati da cybercriminali cinesi, hanno effettuato diversi attacchi contro agenzie governative di Taiwan. The post Agenti AI cinesi attaccano agenzie governative di Taiwan appeared first on Punto Informatico.",
-      "spokenText": "Il Ministro degli Affari Digitali di Taiwan ha confermato una serie di attacchi informatici contro agenzie governative, condotti da cybercriminali cinesi tramite agenti AI open source OpenClaw e Hermes. Secondo Dream Security, gli attacchi, iniziati il 20 luglio e durati quattro giorni, hanno visto otto sub-agenti coordinati per compiti distinti. Gli agenti hanno ottenuto l'accesso a oltre 2.500 dati personali, per lo più di dipendenti delle agenzie. Gli attacchi sono stati rilevati e contenuti senza gravi danni.",
-      "category": "tecnologia",
+      "id": "story-b1a2fc95b5fc8558",
+      "title": "Il personale di una clinica IVF è accusato di aver ingannato genitori britannici riguardo ai donatori di sperma e ovuli a Cipro del Nord",
+      "summary": "Il personale di una clinica IVF è accusato di aver ingannato genitori britannici riguardo ai donatori di sperma e ovuli a Cipro del Nord.",
+      "spokenText": "Il personale di una clinica IVF è accusato di aver ingannato genitori britannici riguardo ai donatori di sperma e ovuli a Cipro del Nord.",
+      "category": "diritti",
       "tags": [
-        "tecnologia",
-        "taiwan",
-        "openclaw",
-        "hermes",
-        "dream security",
-        "ministro degli affari digitali di taiwan"
+        "diritti",
+        "dogus ivf centre",
+        "cryos international",
+        "bbc"
       ],
-      "importance": 85,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 31,
+      "estimatedSeconds": 10,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/agenti-ai-cinesi-attaccano-agenzie-governative-taiwan/"
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Agenti AI cinesi basati su OpenClaw e Hermes, controllati da cybercriminali cinesi, hanno effettuato diversi attacchi contro agenzie governative di Taiwan.",
-        "whyItMatters": "Il Ministro degli Affari Digitali di Taiwan ha confermato una serie di attacchi effettuati da agenti AI contro varie agenzie governative.",
+        "mainFact": "Il personale di una clinica IVF è accusato di aver ingannato genitori britannici riguardo ai donatori di sperma e ovuli a Cipro del Nord.",
+        "whyItMatters": "Scandalo donatori IVF a Cipro. Violazione diritti riproduttivi con implicazioni sistemiche.",
         "confirmedFacts": [
-          "Agenti AI cinesi basati su OpenClaw e Hermes, controllati da cybercriminali cinesi, hanno effettuato diversi attacchi contro agenzie governative di Taiwan.",
-          "Il Ministro degli Affari Digitali di Taiwan ha confermato una serie di attacchi effettuati da agenti AI contro varie agenzie governative.",
-          "Secondo Dream Security, cybercriminali cinesi hanno utilizzato agenti open source OpenClaw e Hermes per coordinare gli attacchi di 8 sub-agenti effettuati in quattro giorni.",
-          "Gli agenti AI basati su OpenClaw e Hermes hanno assegnato compiti distinti ad ognuno degli 8 sub-agenti.",
-          "Attacco in autonomia con OpenClaw e Hermes Il Ministro degli Affari Digitali ha spiegato che gli attacchi sono iniziati il 20 luglio, ma non hanno causato gravi danni (in pratica sono stati rilevati e contenuti).",
-          "Utilizzando questi account, gli agenti AI hanno ottenuto l’accesso ad oltre 2.500 dati personali, la maggioranza dei quali appartengono a dipendenti delle agenzie.",
-          "Uno degli attacchi è stato descritto da Dream Security ."
+          "Il personale di una clinica IVF è accusato di aver ingannato genitori britannici riguardo ai donatori di sperma e ovuli a Cipro del Nord.",
+          "Scandalo donatori IVF a Cipro. Violazione diritti riproduttivi con implicazioni sistemiche.",
+          "Half of the 30 children were born from procedures at one clinic, Dogus IVF Centre.",
+          "The BBC has also now learnt that the world's largest sperm bank, Cryos International, has blacklisted Dogus clinic since 2016.",
+          "The majority of the children who have done DNA tests were conceived through IVF between 2012 and 2024 at Dogus clinic.",
+          "Figure caption, Parents caught up in IVF sperm scandal Rachel chose Dogus in 2012 because of a \"helpful and friendly\" patient co-ordinator called Julie Hodson, whose role was to liaise between Rachel and Dr Firdevs Uguz Tip - known professionally as Dr Firdevs - who was carrying out her treatment.",
+          "Rachel, who was 39 at the time, needed a sperm donor so her eggs could be fertilised in a lab to create an embryo which could then be implanted into her uterus.",
+          "The IVF package cost about €4,000 (roughly about £3,200 at the time), significantly cheaper than similar treatment in the UK, and included donor sperm from the world's largest sperm bank, Cryos International, in Denmark."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Taiwan",
-          "OpenClaw",
-          "Hermes",
-          "Dream Security",
-          "Ministro degli Affari Digitali di Taiwan"
-        ],
-        "numbersAndDates": [
-          "Secondo Dream Security, cybercriminali cinesi hanno utilizzato agenti open source OpenClaw e Hermes per coordinare gli attacchi di 8 sub-agenti effettuati in quattro giorni.",
-          "Gli agenti AI basati su OpenClaw e Hermes hanno assegnato compiti distinti ad ognuno degli 8 sub-agenti.",
-          "Attacco in autonomia con OpenClaw e Hermes Il Ministro degli Affari Digitali ha spiegato che gli attacchi sono iniziati il 20 luglio, ma non hanno causato gravi danni (in pratica sono stati rilevati e contenuti).",
-          "Utilizzando questi account, gli agenti AI hanno ottenuto l’accesso ad oltre 2.500 dati personali, la maggioranza dei quali appartengono a dipendenti delle agenzie."
-        ]
-      }
-    },
-    {
-      "id": "story-b98b358881fc34e0",
-      "title": "Apple addestra un modello AI per la Cina con l’aiuto di Alibaba",
-      "summary": "Apple ha avviato l'addestramento di un modello AI con l'aiuto di Alibaba e sarà disponibile per le funzionalità AI che verranno attivate con iOS 27. The post Apple addestra un modello AI per la Cina con l’aiuto di Alibaba appeared first on Punto Informatico.",
-      "spokenText": "Apple ha avviato l'addestramento di un modello di intelligenza artificiale pensato specificamente per il mercato cinese, e lo sta facendo con l'aiuto di Alibaba. La versione cinese di queste funzionalità arriverà nei prossimi mesi attraverso un aggiornamento del sistema operativo, con ogni probabilità legato al rilascio di iOS 27.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "apple",
-        "alibaba",
-        "cina"
-      ],
-      "importance": 65,
-      "mustInclude": true,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/apple-addestra-modelli-ai-cina-aiuto-alibaba/"
-      },
-      "analysis": {
-        "mainFact": "Apple ha avviato l'addestramento di un modello AI per la Cina con l'aiuto di Alibaba.",
-        "whyItMatters": "Apple ha avviato l’addestramento di un modello destinato al mercato cinese con l’aiuto di Alibaba .",
-        "confirmedFacts": [
-          "Apple ha avviato l'addestramento di un modello AI per la Cina con l'aiuto di Alibaba.",
-          "Apple ha avviato l’addestramento di un modello destinato al mercato cinese con l’aiuto di Alibaba .",
-          "La versione cinese delle funzionalità AI di Apple Intelligence verrà attivata nei prossimi mesi con un aggiornamento del sistema operativo (probabilmente con iOS 27)."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Apple",
-          "Alibaba",
-          "Cina"
-        ],
-        "numbersAndDates": [
-          "La versione cinese delle funzionalità AI di Apple Intelligence verrà attivata nei prossimi mesi con un aggiornamento del sistema operativo (probabilmente con iOS 27)."
-        ]
-      }
-    },
-    {
-      "id": "story-42cacdd58fef53a5",
-      "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
-      "summary": "APOD: 2026 August 16 – Milky Way over Yellowstone La pozza d'acqua colorata, di circa 10 metri di diametro, è conosciuta come Silex Spring e si trova nel Parco Nazionale di Yellowstone nel Wyoming, USA.",
-      "spokenText": "APOD: 2026 August 16 – Milky Way over Yellowstone. La pozza d'acqua colorata, di circa 10 metri di diametro, è conosciuta come Silex Spring e si trova nel Parco Nazionale di Yellowstone nel Wyoming, USA. L'immagine presenta un panorama di 16 scatti realizzato nel 2014. Galleria in crescita: Eclissi solare del 12 agosto 2026. Immagine di domani: una corona dorata. Data: 16 agosto 2026. Crediti e copyright: Dave Lane. Autori ed editori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA / GSFC, NASA Science Activation e Michigan Tech.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "yellowstone national park",
-        "apod"
-      ],
-      "importance": 70,
-      "mustInclude": true,
-      "estimatedSeconds": 38,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/"
-      },
-      "analysis": {
-        "mainFact": "APOD: 2026 August 16 – Milky Way over Yellowstone",
-        "whyItMatters": "La pozza d'acqua colorata, di circa 10 metri di diametro, è conosciuta come Silex Spring e si trova nel Parco Nazionale di Yellowstone nel Wyoming, USA.",
-        "confirmedFacts": [
-          "APOD: 2026 August 16 – Milky Way over Yellowstone",
-          "La pozza d'acqua colorata, di circa 10 metri di diametro, è conosciuta come Silex Spring e si trova nel Parco Nazionale di Yellowstone nel Wyoming, USA.",
-          "L'immagine presenta un panorama di 16 scatti realizzato nel 2014.",
-          "Galleria in crescita: Eclissi solare del 12 agosto 2026. Immagine di domani: una corona dorata. Data: 16 agosto 2026. Crediti e copyright: Dave Lane. Autori ed editori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA / GSFC, NASA Science Activation e Michigan Tech."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Yellowstone National Park",
-          "APOD"
-        ],
-        "numbersAndDates": [
-          "L'immagine presenta un panorama di 16 scatti realizzato nel 2014.",
-          "Galleria in crescita: Eclissi solare del 12 agosto 2026. Immagine di domani: una corona dorata. Data: 16 agosto 2026. Crediti e copyright: Dave Lane. Autori ed editori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD presso NASA / GSFC, NASA Science Activation e Michigan Tech.",
-          "2026",
-          "16",
-          "10"
-        ]
-      }
-    },
-    {
-      "id": "story-e60542e87fa41440",
-      "title": "Il testimone: “Così ho visto le opere di Antonello abbandonate per strada”",
-      "summary": "Parla l’uomo che ha fotografato le parti del Polittico all’esterno del museo di Messina: “Con un’applicazione ho capito di cosa si trattava”",
-      "spokenText": "Un testimone ha fotografato parti del Polittico di Antonello abbandonate all'esterno del museo di Messina.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "polittico",
-        "museo di messina"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://palermo.repubblica.it/cronaca/2026/08/17/news/furto_antonello_da_messina_testimone_opere_abbandonate-425531789/"
-      },
-      "analysis": {
-        "mainFact": "Un testimone ha fotografato parti del Polittico di Antonello abbandonate all'esterno del museo di Messina.",
-        "whyItMatters": "Denuncia di incuria per un'opera d'arte di valore inestimabile. Impatto culturale e civico diretto.",
-        "confirmedFacts": [
-          "Un testimone ha fotografato parti del Polittico di Antonello abbandonate all'esterno del museo di Messina.",
-          "Denuncia di incuria per un'opera d'arte di valore inestimabile. Impatto culturale e civico diretto.",
-          "Parla l’uomo che ha fotografato le parti del Polittico all’esterno del museo di Messina: “Con un’applicazione ho capito di cosa si trattava”"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Polittico",
-          "Museo di Messina"
+          "Dogus IVF Centre",
+          "Cryos International",
+          "BBC"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-ecc381912fc47386",
-      "title": "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina",
-      "summary": "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina. Uno degli incendi è stato portato sotto controllo e le evacuazioni sono state completate entro domenica sera, secondo i media greci, con 500 persone che hanno lasciato l'isola via mare.",
-      "spokenText": "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina. Il primo rogo è stato segnalato alle 14:40 ora locale, vicino alla costa meridionale, e si è diffuso rapidamente a causa dei forti venti. Circa venti minuti dopo, un secondo incendio è divampato più a est. Circa 200 vigili del fuoco hanno lavorato per impedire che le fiamme convergessero, e uno dei due incendi è ora sotto controllo. Le evacuazioni sono state completate entro domenica sera, secondo i media greci, con 500 persone che hanno lasciato l'isola via mare. Almeno altre 10 persone hanno riportato ustioni o sintomi da inalazione di fumo.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "salamina"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 44,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina.",
-        "whyItMatters": "Uno degli incendi è stato portato sotto controllo e le evacuazioni sono state completate entro domenica sera, secondo i media greci, con 500 persone che hanno lasciato l'isola via mare.",
-        "confirmedFacts": [
-          "Due persone sono morte e centinaia sono state evacuate dopo due incendi scoppiati sull'isola greca di Salamina.",
-          "Uno degli incendi è stato portato sotto controllo e le evacuazioni sono state completate entro domenica sera, secondo i media greci, con 500 persone che hanno lasciato l'isola via mare.",
-          "Il primo incendio è stato segnalato alle 14:40 ora locale (11:40 GMT) vicino alla costa meridionale dell'isola e si è diffuso rapidamente a causa dei forti venti, seguito da un incendio separato circa 20 minuti dopo a est.",
-          "Circa 200 vigili del fuoco hanno lavorato per impedire che gli incendi convergessero su Salamina, e uno è ora sotto controllo.",
-          "Almeno altre 10 persone hanno riportato ustioni o hanno mostrato \"sintomi da inalazione di fumo\", cinque delle quali sono state portate per cure locali, ha detto su X il ministro della Salute greco Adonis Georgiades."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Salamina"
-        ],
-        "numbersAndDates": [
-          "Il primo incendio è stato segnalato alle 14:40 ora locale (11:40 GMT) vicino alla costa meridionale dell'isola e si è diffuso rapidamente a causa dei forti venti, seguito da un incendio separato circa 20 minuti dopo a est.",
-          "Circa 200 vigili del fuoco hanno lavorato per impedire che gli incendi convergessero su Salamina, e uno è ora sotto controllo.",
-          "Almeno altre 10 persone hanno riportato ustioni o hanno mostrato \"sintomi da inalazione di fumo\", cinque delle quali sono state portate per cure locali, ha detto su X il ministro della Salute greco Adonis Georgiades.",
-          "500"
-        ]
-      }
-    },
-    {
       "id": "story-b1c658e34601bbc3",
-      "title": "Per la prima volta, un team internazionale di ricercatori è riuscito a ricostruire in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici",
-      "summary": "Per la prima volta, un team internazionale di ricercatori è riuscito a ricostruire in tre dimensioni la funzione d’onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici. Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole",
-      "spokenText": "Per decenni, osservare direttamente la funzione d'onda di una molecola, cioè la regione dove è più probabile trovare i suoi elettroni, è stato un po' così. Ora un team internazionale di ricercatori ha superato questo limite. Combinando impulsi ultrabrevi di raggi X con sofisticati algoritmi matematici, sono riusciti per la prima volta a ricostruire in tre dimensioni la funzione d'onda di una molecola organica nanometrica. Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole.",
+      "title": "È stata ricostruita per la prima volta in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici",
+      "summary": "Ricostruita per la prima volta in tre dimensioni la funzione d’onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici. Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole",
+      "spokenText": "Hanno preso una molecola organica, di quelle piccolissime, su scala nanometrica, e ne hanno ricostruito la funzione d'onda in tre dimensioni. È la prima volta che succede. Il risultato, pubblicato su Nature Communications, è stato ottenuto con un sistema da laboratorio che spara impulsi ultrabrevi di raggi X e poi affida i dati ad algoritmi matematici. L'aspetto interessante è che questo metodo apre una strada concreta per osservare direttamente gli orbitali elettronici delle molecole.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "team internazionale di ricercatori",
         "nature communications"
       ],
       "importance": 90,
       "mustInclude": true,
-      "estimatedSeconds": 33,
+      "estimatedSeconds": 30,
       "source": {
         "name": "Media INAF",
         "url": "https://www.media.inaf.it/2026/08/17/orbitali-elettronici-in-3d/"
       },
       "analysis": {
-        "mainFact": "Per la prima volta, un team internazionale di ricercatori è riuscito a ricostruire in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici.",
+        "mainFact": "È stata ricostruita per la prima volta in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici.",
         "whyItMatters": "Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole.",
         "confirmedFacts": [
-          "Per la prima volta, un team internazionale di ricercatori è riuscito a ricostruire in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici.",
+          "È stata ricostruita per la prima volta in tre dimensioni la funzione d'onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici.",
           "Il risultato, pubblicato su Nature Communications, apre una strada nuova per osservare gli orbitali elettronici delle molecole."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "team internazionale di ricercatori",
           "Nature Communications"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-ad40db9ca0a5fb57",
-      "title": "Hamas ha chiesto al Board of Peace di costringere Israele ad accettare il piano per Gaza",
-      "summary": "Dopo l'incontro del suo leader con Kushner",
-      "spokenText": "Hamas ha formalmente chiesto al Board of Peace di intervenire per costringere Israele ad accettare il piano per Gaza.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "hamas",
-        "board of peace",
-        "israele",
-        "kushner"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/16/hamas-a-board-of-peace-costringa-israele-ad-accettare-piano-per-gaza_3c0cf0a4-6451-441c-b31b-f56904b540fb.html"
-      },
-      "analysis": {
-        "mainFact": "Hamas ha chiesto al Board of Peace di costringere Israele ad accettare il piano per Gaza.",
-        "whyItMatters": "Negoziati Gaza con coinvolgimento Kushner. Sviluppo diplomatico maggiore.",
-        "confirmedFacts": [
-          "Hamas ha chiesto al Board of Peace di costringere Israele ad accettare il piano per Gaza.",
-          "Negoziati Gaza con coinvolgimento Kushner. Sviluppo diplomatico maggiore.",
-          "Gaza, Kushner vede Hamas: “Avanti con il disarmo ma Israele cessi i raid”"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Hamas",
-          "Board of Peace",
-          "Israele",
-          "Kushner"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-1bf26e8e968e3003",
-      "title": "Le case autocostruite di Santiago sono precarie e in continua trasformazione: sono, sempre e allo stesso tempo, essere e divenire",
-      "summary": "Le case autocostruite di Santiago sono precarie e in continua trasformazione: sono, sempre e allo stesso tempo, essere e divenire. Il reportage è firmato da Consuelo Araos e pubblicato su Aeon.",
-      "spokenText": "Non sono solo precarie, ma in continua trasformazione: un equilibrio instabile tra ciò che sono e ciò che stanno diventando. È questo il cuore del lavoro firmato da Consuelo Araos per Aeon, un racconto che si concentra proprio su questa doppia natura, sospesa tra l’essere e il divenire.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "santiago",
-        "consuelo araos",
-        "aeon"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes"
-      },
-      "analysis": {
-        "mainFact": "Le case autocostruite di Santiago sono precarie e in continua trasformazione: sono, sempre e allo stesso tempo, essere e divenire.",
-        "whyItMatters": "Il reportage è firmato da Consuelo Araos e pubblicato su Aeon.",
-        "confirmedFacts": [
-          "Le case autocostruite di Santiago sono precarie e in continua trasformazione: sono, sempre e allo stesso tempo, essere e divenire.",
-          "Il reportage è firmato da Consuelo Araos e pubblicato su Aeon."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Santiago",
-          "Consuelo Araos",
-          "Aeon"
         ],
         "numbersAndDates": []
       }
