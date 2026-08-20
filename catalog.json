@@ -1,643 +1,614 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-19-0e293a82eba1",
-  "generatedAt": "2026-08-19T06:01:42.965Z",
+  "catalogId": "daily-quid-2026-08-20-fcd488857489",
+  "generatedAt": "2026-08-20T06:01:51.842Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-081b19e44aba01d2",
-      "title": "Terremoto Giappone, dopo tre settimane ancora 3.000 sfollati",
-      "summary": "Caldo e case distrutte aggravano l'emergenza nella prefettura di Kumamoto",
-      "spokenText": "A tre settimane dal terremoto che ha colpito il Giappone, la prefettura di Kumamoto conta ancora tremila sfollati. Il quadro materiale resta pesante: secondo i dati ufficiali, quasi trentaduemila abitazioni sono state danneggiate e di queste millequattrocentocinquanta sono andate completamente distrutte. Circa settemilatrecentottanta famiglie nelle città più colpite di Uki e Yatsushiro, insieme alla cittadina di Hikawa, sono tuttora senza acqua corrente. Su questo fronte, il cronoprogramma attuale colloca il ripristino completo del servizio entro la fine di agosto, un obiettivo che fissa l’orizzonte temporale per la prima normalizzazione infrastrutturale. Ingenti i danni materiali: quasi 32.000 abitazioni sono state colpite, di cui 1.450 completamente distrutte. Resta critica anche la situazione idrica: circa 7.380 famiglie nelle citt pi colpite di Uki.",
+      "id": "story-6ecd3d4916a480b6",
+      "title": "Canale di Panama, allo studio la riduzione dei transiti",
+      "summary": "Allarme siccità per El Niño, atteso un annuncio in 48 ore",
+      "spokenText": "Il Canale di Panama sta valutando una riduzione dei transiti a causa della siccità legata a El Niño. Forte dell'esperienza maturata durante la crisi idrica del 2023 e del 2024, ha rassicurato il mercato: \"Il Canale non improvvisa, il Canale è preparato\". L'amministratore Ricaurte V squez ha spiegato che attualmente i transiti sono 34 al giorno, ma la capacit potrebbe subire a breve dei tagli. \"Possibilmente dovremo fare un adeguamento in tal senso e fare un annuncio nelle prossime 48 ore\", ha dichiarato V squez.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "prefettura di kumamoto",
-        "uki",
-        "yatsushiro",
-        "hikawa"
+        "canale di panama",
+        "el nino"
       ],
-      "importance": 55,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 48,
+      "estimatedSeconds": 34,
       "source": {
         "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/terremoto-giappone-dopo-tre-settimane-ancora-3.000-sfollati_e5196316-c7f9-45d0-bf70-82c20a2222d1.html"
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/canale-di-panama-allo-studio-la-riduzione-dei-transiti_7611e96c-53b2-42ea-8943-3d24279adb9b.html"
       },
       "analysis": {
-        "mainFact": "A tre settimane dal terremoto in Giappone, ci sono ancora 3.000 sfollati nella prefettura di Kumamoto.",
-        "whyItMatters": "Ingenti i danni materiali: quasi 32.000 abitazioni sono state colpite, di cui 1.450 completamente distrutte.",
+        "mainFact": "Il Canale di Panama sta valutando una riduzione dei transiti a causa della siccità legata a El Niño.",
+        "whyItMatters": "L'amministratore Ricaurte V squez ha spiegato che attualmente i transiti sono 34 al giorno, ma la capacit potrebbe subire a breve dei tagli.",
         "confirmedFacts": [
-          "A tre settimane dal terremoto in Giappone, ci sono ancora 3.000 sfollati nella prefettura di Kumamoto.",
-          "Ingenti i danni materiali: quasi 32.000 abitazioni sono state colpite, di cui 1.450 completamente distrutte.",
-          "Resta critica anche la situazione idrica: circa 7.380 famiglie nelle citt pi colpite di Uki e Yatsushiro e nella cittadina di Hikawa sono ancora senza acqua corrente, e il ripristino del servizio previsto entro la fine di agosto."
+          "Il Canale di Panama sta valutando una riduzione dei transiti a causa della siccità legata a El Niño.",
+          "L'amministratore Ricaurte V squez ha spiegato che attualmente i transiti sono 34 al giorno, ma la capacit potrebbe subire a breve dei tagli.",
+          "\"Possibilmente dovremo fare un adeguamento in tal senso e fare un annuncio nelle prossime 48 ore\", ha dichiarato V squez.",
+          "Forte dell'esperienza maturata durante la crisi idrica del 2023 e del 2024, ha rassicurato il mercato: \"Il Canale non improvvisa, il Canale preparato\"."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Prefettura di Kumamoto",
-          "Uki",
-          "Yatsushiro",
-          "Hikawa"
+          "Canale di Panama",
+          "El Niño"
         ],
         "numbersAndDates": [
-          "Resta critica anche la situazione idrica: circa 7.380 famiglie nelle citt pi colpite di Uki e Yatsushiro e nella cittadina di Hikawa sono ancora senza acqua corrente, e il ripristino del servizio previsto entro la fine di agosto.",
-          "3.000",
-          "32.000",
-          "1.450"
+          "34"
         ]
       }
     },
     {
-      "id": "story-f103bda09eb0ec21",
-      "title": "Al via processo per i danni dei social: Meta rischia una multa da 1.400 miliardi",
-      "summary": "L’accusa: «Facebook e Instagram progettati per creare dipendenza e quindi problemi di salute mentale nei più giovani». I procuratori di 29 Stati uniti nel chiedere anche modifiche alle piattaforme",
-      "spokenText": "È iniziato il processo che vede Meta sotto accusa da parte di ventinove Stati, un fronte unito di procuratori generali che non si limita a chiedere risarcimenti, ma esige modifiche strutturali alle piattaforme. L’impianto accusatorio si completa con la violazione della legge federale sulla raccolta e sull’uso improprio dei dati personali dei minori. La portata finanziaria del procedimento è imponente: la stessa Meta ha quantificato il rischio sanzionatorio fino a mille e quattrocento miliardi di dollari, una cifra che si avvicina all’intero valore di mercato della società. In una stima alternativa, i procuratori generali hanno parlato di penalità che potrebbero attestarsi sui duecento miliardi, equivalenti a circa tre anni di utili al netto delle imposte. A marzo, una giuria di Los Angeles ha condannato Meta e Google a versare sei milioni di dollari a una ventenne per la dipendenza sviluppata fin dall’infanzia su Instagram e YouTube. È iniziato il processo per i danni dei social contro Meta, che rischia una multa da 1.400 miliardi di dollari. L’accusa: «Facebook e Instagram progettati per creare dipendenza e quindi problemi di salute mentale nei più giovani».",
+      "id": "story-94ae1c60a74f8234",
+      "title": "Caldo, la strage degli anziani:a luglio colpiti gli over 85",
+      "summary": "La conferma dai dati del ministero della Salute: nelle città italiane la crescita è dell’8%. Parla l’epidemiologo: “Bevono di meno e vanno incontro a un disequilibrio elettrolitico”",
+      "spokenText": "Si è registrata una vera e propria strage tra gli anziani over 85, con una crescita dell'8% dei decessi nelle città italiane, direttamente collegata alle ondate di calore. Per comprendere la dinamica di questo fenomeno, abbiamo ascoltato un epidemiologo, che ha spiegato come in condizioni di caldo estremo gli anziani bevano di meno, andando incontro a un pericoloso disequilibrio elettrolitico.",
       "category": "salute",
       "tags": [
         "salute",
-        "meta",
-        "facebook",
-        "instagram",
-        "google",
-        "youtube",
-        "stati uniti"
+        "ministero della salute"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 74,
+      "estimatedSeconds": 24,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/al-via-processo-i-danni-social-meta-rischia-multa-1400-miliardi-AJdwp9o"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/cronaca/2026/08/20/news/caldo_strage_anziani_mortalita-425537117/"
       },
       "analysis": {
-        "mainFact": "È iniziato il processo per i danni dei social contro Meta, che rischia una multa da 1.400 miliardi di dollari.",
-        "whyItMatters": "Tutti e 29 gli Stati promotori della causa sostengono inoltre che Meta ha violato la legge federale raccogliendo e utilizzando in modo improprio i dati personali dei minori.",
+        "mainFact": "A luglio si è registrata una strage di anziani over 85 a causa del caldo, con una crescita dell'8% nelle città italiane secondo i dati del Ministero della Salute.",
+        "whyItMatters": "Parla l’epidemiologo: “Bevono di meno e vanno incontro a un disequilibrio elettrolitico”",
         "confirmedFacts": [
-          "È iniziato il processo per i danni dei social contro Meta, che rischia una multa da 1.400 miliardi di dollari.",
-          "Tutti e 29 gli Stati promotori della causa sostengono inoltre che Meta ha violato la legge federale raccogliendo e utilizzando in modo improprio i dati personali dei minori.",
-          "L’accusa: «Facebook e Instagram progettati per creare dipendenza e quindi problemi di salute mentale nei più giovani».",
-          "I procuratori di 29 Stati uniti nel chiedere anche modifiche alle piattaforme",
-          "Meta ha dichiarato che le sanzioni potrebbero raggiungere i 1.400 miliardi di dollari, una cifra vicina al valore di mercato della società.",
-          "I procuratori generali hanno affermato che le sanzioni potrebbero arrivare ai 200 miliardi una somma equivalente a circa tre anni di utili al netto delle imposte per Meta.",
-          "A marzo, una giuria di Los Angeles ha condannato Meta e Google a risarcire con 6 milioni di dollari una donna di 20 anni, per la dipendenza sviluppata su Instagram e YouTube fin dall’infanzia.",
-          "All’inizio di questo mese, un giudice del New Mexico ha ordinato a Meta di versare 567 milioni di dollari in un fondo per la salute mentale degli adolescenti, come compensazione dei danni creati alla collettività."
+          "A luglio si è registrata una strage di anziani over 85 a causa del caldo, con una crescita dell'8% nelle città italiane secondo i dati del Ministero della Salute.",
+          "Parla l’epidemiologo: “Bevono di meno e vanno incontro a un disequilibrio elettrolitico”",
+          "La conferma dai dati del ministero della Salute: nelle città italiane la crescita è dell’8%."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Meta",
-          "Facebook",
-          "Instagram",
-          "Google",
-          "YouTube",
-          "Stati Uniti"
+          "Ministero della Salute"
         ],
         "numbersAndDates": [
-          "I procuratori di 29 Stati uniti nel chiedere anche modifiche alle piattaforme",
-          "Meta ha dichiarato che le sanzioni potrebbero raggiungere i 1.400 miliardi di dollari, una cifra vicina al valore di mercato della società.",
-          "I procuratori generali hanno affermato che le sanzioni potrebbero arrivare ai 200 miliardi una somma equivalente a circa tre anni di utili al netto delle imposte per Meta.",
-          "A marzo, una giuria di Los Angeles ha condannato Meta e Google a risarcire con 6 milioni di dollari una donna di 20 anni, per la dipendenza sviluppata su Instagram e YouTube fin dall’infanzia.",
-          "All’inizio di questo mese, un giudice del New Mexico ha ordinato a Meta di versare 567 milioni di dollari in un fondo per la salute mentale degli adolescenti, come compensazione dei danni creati alla collettività.",
-          "1.400",
+          "85",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "story-1484147a644fd8c4",
+      "title": "Successo del farmaco antimelanoma, Moderna strappa a Wall Street",
+      "summary": "Sviluppato con Merck si basa sulla tecnologia mRNA utilizzata contro il Covid",
+      "spokenText": "Un farmaco contro il melanoma sviluppato da Moderna insieme a Merck, basato sulla tecnologia a mRNA, ha superato con risultati positivi la sperimentazione di Fase 3. È la prima volta che un trattamento oncologico di questo tipo raggiunge un traguardo simile. La piattaforma a mRNA era stata concepita decenni fa, ma è esplosa in tutta la sua potenzialità durante la pandemia di Covid-19, quando nella fase più critica del contagio sia Moderna che Pfizer hanno sviluppato vaccini altamente efficaci contro il virus. L’amministratore delegato di Moderna, Stephane Bancel, ha definito la giornata una pietra miliare straordinaria per l’azienda, per la scienza dell’mRNA e, soprattutto, per i pazienti affetti da cancro.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "moderna",
+        "merck"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 44,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/il-vaccino-contro-il-melanoma-mostra-risultati-promettenti-moderna-vola-in-borsa-a-130_8e586860-450d-4404-af85-c9827c648c24.html"
+      },
+      "analysis": {
+        "mainFact": "Un farmaco antimelanoma sviluppato da Moderna con Merck, basato sulla tecnologia mRNA, ha mostrato risultati positivi in una sperimentazione di Fase 3.",
+        "whyItMatters": "È la prima volta che un trattamento a base di mRNA contro il cancro mostra risultati positivi in una sperimentazione di Fase 3.",
+        "confirmedFacts": [
+          "Un farmaco antimelanoma sviluppato da Moderna con Merck, basato sulla tecnologia mRNA, ha mostrato risultati positivi in una sperimentazione di Fase 3.",
+          "È la prima volta che un trattamento a base di mRNA contro il cancro mostra risultati positivi in una sperimentazione di Fase 3.",
+          "La tecnologia è stata concepita per la prima volta decenni fa, ma ha mostrato tutte le sue potenzialità durante la pandemia di Covid-19, quando nella fase più critica del contagio Moderna e Pfizer hanno sviluppato vaccini altamente efficaci contro il virus.",
+          "\"La giornata di oggi segna una pietra miliare straordinaria per Moderna, per la scienza dell'mRNA e, soprattutto, per i pazienti affetti da cancro\", ha dichiarato l'amministratore delegato del gruppo Stephane Bancel."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Moderna",
+          "Merck"
+        ],
+        "numbersAndDates": [
+          "La tecnologia è stata concepita per la prima volta decenni fa, ma ha mostrato tutte le sue potenzialità durante la pandemia di Covid-19, quando nella fase più critica del contagio Moderna e Pfizer hanno sviluppato vaccini altamente efficaci contro il virus.",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "story-eee25add527e78da",
+      "title": "Guerra in Iran, le news di oggi. Trump: “Da oggi guerra economica devastante contro l’Iran e chi lo aiuta”",
+      "summary": "Teheran avverte i Paesi del Golfo: “Non aiutate gli Stati Uniti”. Araghchi: “L’ostacolo all’accordo con Washington è Israele”",
+      "spokenText": "Donald Trump ha annunciato quella che ha definito una guerra economica devastante contro l’Iran e contro chiunque offra a Teheran un’ancora di salvezza. Araghchi: “L’ostacolo all’accordo con Washington è Israele”. Trump: “Abbiamo dure sanzioni da imporre all’Iran” \"Abbiamo sanzioni davvero draconiane\" che potremmo imporre all'Iran.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "stati uniti",
+        "iran",
+        "israele",
+        "donald trump",
+        "araghchi"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/20/diretta/guerra_iran_usa_israele_news_oggi-425537182/"
+      },
+      "analysis": {
+        "mainFact": "Donald Trump ha annunciato una 'guerra economica devastante' contro l'Iran e chi lo aiuta.",
+        "whyItMatters": "Trump ha avvertito che qualsiasi Paese offra all'Iran un''ancora di salvezza' dovrà affrontare 'conseguenze economiche tremende', mentre Teheran avverte i Paesi del Golfo di non aiutare gli Stati Uniti.",
+        "confirmedFacts": [
+          "Donald Trump ha annunciato una 'guerra economica devastante' contro l'Iran e chi lo aiuta.",
+          "Trump ha avvertito che qualsiasi Paese offra all'Iran un''ancora di salvezza' dovrà affrontare 'conseguenze economiche tremende', mentre Teheran avverte i Paesi del Golfo di non aiutare gli Stati Uniti.",
+          "Araghchi: “L’ostacolo all’accordo con Washington è Israele”",
+          "Trump: “Abbiamo dure sanzioni da imporre all’Iran” \"Abbiamo sanzioni davvero draconiane\" che potremmo imporre all'Iran."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stati Uniti",
+          "Iran",
+          "Israele",
+          "Donald Trump",
+          "Araghchi"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-0a204f1ad55099f6",
+      "title": "Iran, le basi Usa a rischio in Europa: da Bulgaria a Cipro fino all’Italia",
+      "summary": "Secondo il Financial Times, Teheran valuta possibili attacchi contro obiettivi militari statunitensi in Europa in caso di escalation. Le installazioni nel sud-est del continente sono le più esposte, mentre raggiungere quelle in Italia richiederebbe missili a maggiore gittata",
+      "spokenText": "Teheran starebbe valutando possibili attacchi contro obiettivi militari statunitensi in Europa nel caso in cui Donald Trump decidesse di intensificare il conflitto e colpire le infrastrutture della Repubblica islamica. Le installazioni nel sud-est del continente sarebbero le più esposte, mentre per raggiungere quelle in Italia servirebbero missili a maggiore gittata. Le principali basi americane nel nostro Paese si trovano infatti tra 2.400 e 3.000 chilometri dall’Iran nord-occidentale, oltre la portata normalmente attribuita ai principali missili iraniani a medio raggio. Per minacciare direttamente questi obiettivi, l’Iran dovrebbe disporre di sistemi capaci di superare in maniera affidabile la soglia dei 2.000 chilometri.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "iran",
+        "financial times",
+        "bulgaria",
+        "cipro",
+        "italia",
+        "donald trump"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 40,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/iran-basi-usa-rischio-europa-bulgaria-e-cipro-fino-all-italia-AJWqmhp"
+      },
+      "analysis": {
+        "mainFact": "Teheran valuta possibili attacchi contro obiettivi militari statunitensi in Europa in caso di escalation.",
+        "whyItMatters": "Minaccia iraniana a basi USA in Europa, escalation geopolitica.",
+        "confirmedFacts": [
+          "Teheran valuta possibili attacchi contro obiettivi militari statunitensi in Europa in caso di escalation.",
+          "Minaccia iraniana a basi USA in Europa, escalation geopolitica.",
+          "Le installazioni nel sud-est del continente sono le più esposte, mentre raggiungere quelle in Italia richiederebbe missili a maggiore gittata",
+          "Se Donald Trump decidesse di intensificare la guerra e colpire le infrastrutture della Repubblica islamica, Teheran starebbe valutando possibili attacchi contro obiettivi militari statunitensi anche in Europa .",
+          "L’Iran dispone inoltre di droni a lungo raggio: secondo il Council on Foreign Relations, gli Shahed-136 possono raggiungere distanze fino a circa 2.000 chilometri , anche se hanno caratteristiche operative molto diverse rispetto ai missili balistici.",
+          "Le principali installazioni americane nel nostro Paese si trovano indicativamente tra 2.400 e 3.000 chilometri dall’Iran nord-occidentale e sono quindi oltre la gittata normalmente attribuita ai principali missili iraniani a medio raggio.",
+          "Per minacciare direttamente questi obiettivi, l’Iran dovrebbe quindi disporre di sistemi capaci di superare in maniera affidabile la soglia dei 2.000 chilometri ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Iran",
+          "Financial Times",
+          "Bulgaria",
+          "Cipro",
+          "Italia",
+          "Donald Trump"
+        ],
+        "numbersAndDates": [
+          "L’Iran dispone inoltre di droni a lungo raggio: secondo il Council on Foreign Relations, gli Shahed-136 possono raggiungere distanze fino a circa 2.000 chilometri , anche se hanno caratteristiche operative molto diverse rispetto ai missili balistici.",
+          "Le principali installazioni americane nel nostro Paese si trovano indicativamente tra 2.400 e 3.000 chilometri dall’Iran nord-occidentale e sono quindi oltre la gittata normalmente attribuita ai principali missili iraniani a medio raggio.",
+          "Per minacciare direttamente questi obiettivi, l’Iran dovrebbe quindi disporre di sistemi capaci di superare in maniera affidabile la soglia dei 2.000 chilometri ."
+        ]
+      }
+    },
+    {
+      "id": "story-7161b44d671132d1",
+      "title": "In Portogallo è stata promulgata la cosiddetta \"legge del burqa\"",
+      "summary": "\"In linea con sentenze dalla Corte europea dei diritti umani\", scrive il Presidente Seguro",
+      "spokenText": "In Portogallo è stata promulgata la cosiddetta 'legge del burqa'. Il provvedimento, che aveva già ricevuto il via libera del Parlamento lo scorso 17 luglio, è stato firmato dal Presidente Seguro. Nel promulgare la legge, il Presidente Seguro ha sottolineato che il testo è in linea con le sentenze della Corte europea dei diritti umani.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "portogallo",
+        "presidente seguro",
+        "corte europea dei diritti umani"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/donne/notizie/2026/08/19/in-portogallo-e-stata-promulgata-la-cosiddetta-legge-del-burqa_3413a4dd-95cf-4bd2-8599-b4e1dc7a14a2.html"
+      },
+      "analysis": {
+        "mainFact": "In Portogallo è stata promulgata la cosiddetta 'legge del burqa'.",
+        "whyItMatters": "Il Parlamento portoghese aveva approvato la legge il 17 luglio scorso con i voti favorevoli dei partiti di governo (Psd e Cds), di Iniziativa liberale e di Chega, partito dell'ultradestra",
+        "confirmedFacts": [
+          "In Portogallo è stata promulgata la cosiddetta 'legge del burqa'.",
+          "Il Parlamento portoghese aveva approvato la legge il 17 luglio scorso con i voti favorevoli dei partiti di governo (Psd e Cds), di Iniziativa liberale e di Chega, partito dell'ultradestra",
+          "\"In linea con sentenze dalla Corte europea dei diritti umani\", scrive il Presidente Seguro"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Portogallo",
+          "Presidente Seguro",
+          "Corte europea dei diritti umani"
+        ],
+        "numbersAndDates": [
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "story-728b678478635366",
+      "title": "Evergrande, il fondatore del colosso immobiliare cinese condannato all’ergastolo",
+      "summary": "Secondo quanto accertato dal tribunale e riportato dalla Cctv, tra il 2016 e il 2021 Evergrande, Evergrande Real Estate e Xu avrebbero gonfiato gli asset e nascosto le passività attraverso «frodi finanziarie continue e su larga scala»",
+      "spokenText": "Xu Jiayin, fondatore del colosso immobiliare Evergrande, è stato condannato all'ergastolo dal tribunale intermedio di Shenzhen. Secondo quanto ricostruito dalla China Central Television, tra il 2016 e il 2021 il gruppo e lo stesso Xu avrebbero orchestrato frodi finanziarie continue e su larga scala per gonfiare gli asset e nascondere le passività. Oltre alla reclusione, per l'imprenditore emerso da umili origini nella Cina rurale è scattata la revoca a vita dei diritti politici e la confisca di tutti i beni personali.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "xu jiayin",
+        "evergrande",
+        "evergrande real estate",
+        "tribunale intermedio di shenzhen"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/evergrande-fondatore-colosso-immobiliare-cinese-condannato-all-ergastolo-AJGWEGq"
+      },
+      "analysis": {
+        "mainFact": "Xu Jiayin, è stato condannato all'ergastolo da un tribunale cinese per una serie di reati finanziari.",
+        "whyItMatters": "Xu Jiayin, è stato condannato all'ergastolo da un tribunale cinese per una serie di reati finanziari.",
+        "confirmedFacts": [
+          "Xu Jiayin, è stato condannato all'ergastolo da un tribunale cinese per una serie di reati finanziari.",
+          "Secondo quanto accertato dal tribunale e riportato dalla Cctv, tra il 2016 e il 2021 Evergrande, Evergrande Real Estate e Xu avrebbero gonfiato gli asset e nascosto le passività attraverso \"frodi finanziarie continue e su larga scala\".",
+          "Nello stesso giorno, il tribunale di Shenzhen ha condannato in primo grado altri cinque dirigenti di alto livello di Evergrande a pene comprese tra 18 e sei anni di reclusione.",
+          "Hui, noto anche come Xu Jiayin, è emerso da umili origini nella Cina rurale, dove è stato cresciuto da sua nonna prima di avventurarsi nello sviluppo immobiliare e fondare Evergrande nel 1996.",
+          "Il tribunale intermedio di Shenzhen ha inoltre condannato Xu alla revoca a vita dei diritti politici e alla confisca di tutti i suoi beni personali.",
+          "Lo riferisce la China Central Television (Cctv), secondo cui il gruppo Evergrande è stato multato per 8,82 miliardi di yuan (circa 1,3 miliardi di dollari), mentre Evergrande Real Estate dovrà pagare una multa di 7 miliardi di yuan."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Xu Jiayin",
+          "Evergrande",
+          "Evergrande Real Estate",
+          "tribunale intermedio di Shenzhen"
+        ],
+        "numbersAndDates": [
+          "Nello stesso giorno, il tribunale di Shenzhen ha condannato in primo grado altri cinque dirigenti di alto livello di Evergrande a pene comprese tra 18 e sei anni di reclusione.",
+          "Hui, noto anche come Xu Jiayin, è emerso da umili origini nella Cina rurale, dove è stato cresciuto da sua nonna prima di avventurarsi nello sviluppo immobiliare e fondare Evergrande nel 1996.",
+          "Lo riferisce la China Central Television (Cctv), secondo cui il gruppo Evergrande è stato multato per 8,82 miliardi di yuan (circa 1,3 miliardi di dollari), mentre Evergrande Real Estate dovrà pagare una multa di 7 miliardi di yuan."
+        ]
+      }
+    },
+    {
+      "id": "story-53b0db381c49ce4c",
+      "title": "Fed: dai verbali focus su inflazione e rischi AI su stabilità finanziaria",
+      "summary": "Il Fomc ha discusso, nei verbali della riunione del 28-29 luglio da poco diffusi, due rischi distinti legati all’intelligenza artificiale. Il primo riguarda l’inflazione. Alcuni partecipanti hanno giudicato che il...",
+      "spokenText": "Dai verbali della riunione del Fomc di fine luglio, appena pubblicati, emerge un confronto interno su due rischi distinti legati all'intelligenza artificiale. Il primo riguarda l’inflazione.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "fed",
+        "fomc"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 11,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/fed-verbali-focus-inflazione-e-rischi-su-stabilita-finanziaria-AJ3eK2p"
+      },
+      "analysis": {
+        "mainFact": "Il Fomc ha discusso, nei verbali della riunione del 28-29 luglio da poco diffusi, due rischi distinti legati all'intelligenza artificiale.",
+        "whyItMatters": "Il primo riguarda l’inflazione.",
+        "confirmedFacts": [
+          "Il Fomc ha discusso, nei verbali della riunione del 28-29 luglio da poco diffusi, due rischi distinti legati all'intelligenza artificiale.",
+          "Il primo riguarda l’inflazione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Fed",
+          "Fomc"
+        ],
+        "numbersAndDates": [
+          "28",
           "29"
         ]
       }
     },
     {
-      "id": "story-16bac329bb09d493",
-      "title": "Siria, bombe dell’Idf sull’aeroporto militare: i turchi nel mirino",
-      "summary": "Operazione di Israele per impedire un rafforzamento dell’esercito di Erdogan. La condanna degli Usa: “Escalation non necessaria”",
-      "spokenText": "Israele ha bombardato un aeroporto militare siriano con l'obiettivo di impedire un rafforzamento della presenza dell'esercito turco nell'area. Fonti militari citate dalla tv siriana riferiscono di soli danni materiali, ma il valore politico dell'azione è evidente: Israele non intende lasciare campo libero alla Turchia, anche in una zona lontana dal proprio territorio ma situata a soli 60 chilometri dal confine turco. Un gesto criticato dagli Stati Uniti, il cui inviato speciale in Siria, Tom Barrack, ha parlato di un'escalation non necessaria che non favorisce la stabilità regionale, spiegando che Washington dà priorità a un dialogo logico. La condanna degli Usa: “Escalation non necessaria”.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "israele",
-        "idf",
-        "turchia",
-        "stati uniti",
-        "tom barrack",
-        "siria"
-      ],
-      "importance": 70,
-      "mustInclude": true,
-      "estimatedSeconds": 42,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/19/news/siria_bombe_idf_aeroporto_militare_escalation-425535231/"
-      },
-      "analysis": {
-        "mainFact": "Israele bombarda un aeroporto militare siriano per impedire un rafforzamento dell'esercito turco.",
-        "whyItMatters": "Tom Barrack, ha parlato di \"escalation non necessaria\".",
-        "confirmedFacts": [
-          "Israele bombarda un aeroporto militare siriano per impedire un rafforzamento dell'esercito turco.",
-          "Tom Barrack, ha parlato di \"escalation non necessaria\".",
-          "La condanna degli Usa: “Escalation non necessaria”",
-          "Un gesto criticato dagli Stati Uniti, il cui inviato speciale in Siria, Tom Barrack, afferma che si tratta di un'a \"escalation non necessaria\" che non favorisce la stabilit regionale, spiegando invece che Washington d priorit a un \"dialogo logico\".",
-          "Fonti militari citate dalla tv siriana parlano di soli danni materiali, ma il valore politico dell'azione è evidente: Israele non intende lasciare campo libero alla Turchia, anche in un'area lontana dal proprio territorio ma a soli 60 chilometri dal confine turco."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Israele",
-          "Idf",
-          "Turchia",
-          "Stati Uniti",
-          "Tom Barrack",
-          "Siria"
-        ],
-        "numbersAndDates": [
-          "Fonti militari citate dalla tv siriana parlano di soli danni materiali, ma il valore politico dell'azione è evidente: Israele non intende lasciare campo libero alla Turchia, anche in un'area lontana dal proprio territorio ma a soli 60 chilometri dal confine turco."
-        ]
-      }
-    },
-    {
-      "id": "story-83db0cceda7cb30c",
-      "title": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa",
-      "summary": "Secondo il Financial Times, l'Iran valuta di colpire obiettivi militari americani anche in Europa.",
-      "spokenText": "Il Financial Times scrive che l'Iran starebbe valutando la possibilità di colpire obiettivi militari americani anche in Europa. Il viceministro degli Esteri iraniano Kazem Gharibabadi ha risposto direttamente su X a quel post.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "iran",
-        "stati uniti",
-        "europa",
-        "stretto di hormuz",
-        "financial times",
-        "donald trump",
-        "kazem gharibabadi"
-      ],
-      "importance": 70,
-      "mustInclude": true,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-ft-iran-valuta-colpire-obiettivi-militari-usa-anche-europa-AJPJCTp"
-      },
-      "analysis": {
-        "mainFact": "Secondo il Financial Times, l'Iran valuta di colpire obiettivi militari americani anche in Europa.",
-        "whyItMatters": "Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa",
-        "confirmedFacts": [
-          "Secondo il Financial Times, l'Iran valuta di colpire obiettivi militari americani anche in Europa.",
-          "Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa",
-          "I funzionari citati hanno parlato anche dell’opzione di colpire cavi sottomarini di fibra ottica nello Stretto di Hormuz qualora la guerra dovesse aumentare intensità.",
-          "Lo scrive su X il viceministro degli Esteri iraniano Kazem Gharibabadi in risposta al post che ieri sera Donald Trump ha postato sul suo social Truth con l’immagine dello Stretto di Hormuz su cui è scritto “nuovo territorio Usa” (New US Territory)."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Iran",
-          "Stati Uniti",
-          "Europa",
-          "Stretto di Hormuz",
-          "Financial Times",
-          "Donald Trump",
-          "Kazem Gharibabadi"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-4c2844c924bf48a2",
-      "title": "La ragazza somala trova asilo in Germania, ma si apre il fronte svizzero",
-      "summary": "Berna: 'Da agosto riprendono i trasferimenti degli irregolari arrivati dall'Italia'",
-      "spokenText": "Una giovane somala di 22 anni ha trovato asilo in Germania grazie all'intervento di una comunità ecclesiastica di Norimberga, che le ha offerto protezione fino alla scadenza della procedura di espulsione. Si tratta di un'opzione resa possibile da un accordo siglato nel 2015 con gli organi statali. La ragazza, per la quale il governo guidato da Friedrich Merz aveva previsto un trasferimento in Italia il 19 agosto, resta quindi per ora nella Repubblica federale. Sul piano elvetico, la Svizzera ha annunciato che da agosto riprendono i trasferimenti dei richiedenti asilo irregolari arrivati dall'Italia. Secondo Osvaldo Napoli, deputato di Azione, la sospensione di Schengen dopo i fatti di Ceuta voleva essere una dimostrazione di forza con la Spagna, ma torna indietro come un boomerang e l'Italia si ritrova esattamente dove era un anno fa, con Germania e Svizzera che si apprestano a restituirci i cosiddetti dublinanti. Sul tema di Berna i primi rimpatri interessano i richiedenti asilo arrivati dal nostro Paese dopo il 12 giugno, ha spiegato Baker, sottolineando di non aver comunque concluso con l'Italia alcun accordo che escluda dal rimpatrio i richiedenti asilo arrivati prima di questa data.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "germania",
-        "svizzera",
-        "italia",
-        "norimberga",
-        "friedrich merz",
-        "osvaldo napoli",
-        "azione"
-      ],
-      "importance": 65,
-      "mustInclude": true,
-      "estimatedSeconds": 76,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/18/la-ragazza-somala-allansa-sono-molto-felice-di-essere-al-sicuro_8aba0447-dd59-49dc-86bc-bea109587447.html"
-      },
-      "analysis": {
-        "mainFact": "Una ragazza somala trova asilo in Germania, mentre la Svizzera annuncia la ripresa dei trasferimenti di irregolari arrivati dall'Italia.",
-        "whyItMatters": "Berna: 'Da agosto riprendono i trasferimenti degli irregolari arrivati dall'Italia'",
-        "confirmedFacts": [
-          "Una ragazza somala trova asilo in Germania, mentre la Svizzera annuncia la ripresa dei trasferimenti di irregolari arrivati dall'Italia.",
-          "Berna: 'Da agosto riprendono i trasferimenti degli irregolari arrivati dall'Italia'",
-          "Una comunità ecclesiastica di Norimberga le ha offerto asilo e protezione \"fino alla scadenza della procedura di espulsione\", sfruttando un'opzione resa possibile da un accordo con gli organi statali firmato nel 2015.",
-          "Sul tema di Berna i primi rimpatri interessano i richiedenti asilo arrivati dal nostro Paese dopo il 12 giugno, ha spiegato Baker, sottolineando di non aver comunque concluso con l'Italia alcun accordo che escluda dal rimpatrio i richiedenti asilo arrivati prima di questa data.",
-          "Secondo Osvaldo Napoli, di Azione, la sospensione di Schengen dopo Ceuta \"voleva essere una dimostrazione di forza con la Spagna, e invece torna indietro come un boomerang e l'Italia si ritrova esattamente dove era un anno fa con Germania e Svizzera che si apprestano a restituirci i cosiddetti dublinanti\".",
-          "E la ragazza somala di 22 anni, che il governo di Friedrich Merz vorrebbe rimandare in Italia - con una misura prevista per il 19 agosto - resterebbe per ora nella Repubblica federale."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Germania",
-          "Svizzera",
-          "Italia",
-          "Norimberga",
-          "Friedrich Merz",
-          "Osvaldo Napoli",
-          "Azione"
-        ],
-        "numbersAndDates": [
-          "Una comunità ecclesiastica di Norimberga le ha offerto asilo e protezione \"fino alla scadenza della procedura di espulsione\", sfruttando un'opzione resa possibile da un accordo con gli organi statali firmato nel 2015.",
-          "Sul tema di Berna i primi rimpatri interessano i richiedenti asilo arrivati dal nostro Paese dopo il 12 giugno, ha spiegato Baker, sottolineando di non aver comunque concluso con l'Italia alcun accordo che escluda dal rimpatrio i richiedenti asilo arrivati prima di questa data.",
-          "E la ragazza somala di 22 anni, che il governo di Friedrich Merz vorrebbe rimandare in Italia - con una misura prevista per il 19 agosto - resterebbe per ora nella Repubblica federale."
-        ]
-      }
-    },
-    {
-      "id": "story-bb69f6ca2bf9344a",
-      "title": "Brasile, il costo alle stelle dello zolfo (+1.200% in 20 mesi) minaccia industria dei fertilizzanti",
-      "summary": "Le scorte di zolfo dell’industria brasiliana potrebbero esaurirsi a ottobre, mentre i prezzi della materia prima, essenziale per la produzione di fertilizzanti agricoli, hanno raggiunto livelli record sui mercati internazionali.",
-      "spokenText": "Lo zolfo è la materia prima per produrre acido solforico, un componente essenziale non solo per i fertilizzanti, ma anche per l’industria chimica e per la lavorazione dei minerali. Il Brasile dipende in modo quasi totale dalle importazioni. In Brasile il costo dello zolfo è aumentato del 1.200% in 20 mesi e minaccia l'industria dei fertilizzanti. Il Brasile dipende fortemente dalle importazioni: la produzione nazionale è di circa 200 mila tonnellate, meno del 10% della domanda interna.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "brasile"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 31,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/allarme-fertilizzanti-brasile-scorte-materie-prime-fino-ottobre-AJwVn6o"
-      },
-      "analysis": {
-        "mainFact": "In Brasile il costo dello zolfo è aumentato del 1.200% in 20 mesi e minaccia l'industria dei fertilizzanti.",
-        "whyItMatters": "Lo zolfo è utilizzato per produrre acido solforico, componente dei fertilizzanti, ma anche nell’industria chimica e nella lavorazione dei minerali.",
-        "confirmedFacts": [
-          "In Brasile il costo dello zolfo è aumentato del 1.200% in 20 mesi e minaccia l'industria dei fertilizzanti.",
-          "Lo zolfo è utilizzato per produrre acido solforico, componente dei fertilizzanti, ma anche nell’industria chimica e nella lavorazione dei minerali.",
-          "Il Brasile dipende fortemente dalle importazioni: la produzione nazionale è di circa 200 mila tonnellate, meno del 10% della domanda interna."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Brasile"
-        ],
-        "numbersAndDates": [
-          "Il Brasile dipende fortemente dalle importazioni: la produzione nazionale è di circa 200 mila tonnellate, meno del 10% della domanda interna.",
-          "1.200",
-          "20"
-        ]
-      }
-    },
-    {
-      "id": "story-4dd9c97d8c0b713e",
-      "title": "Flessibilità Ue per il nucleare, non per le auto elettriche",
-      "summary": "Nella lista di Bruxelles colonnine e ristrutturazioni",
-      "spokenText": "La nuova lista di tecnologie e filiere considerate strategiche include le infrastrutture di ricarica e gli interventi di ristrutturazione edilizia, ma esclude deliberatamente gli incentivi per l’acquisto di auto elettriche.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "bruxelles"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/08/18/con-la-clausola-di-salvaguardia-aiuti-alle-famiglie-per-acquisto-di-pompe-di-calore_5f6b1d6b-4a1f-4fbb-8ff6-41d960c4795e.html"
-      },
-      "analysis": {
-        "mainFact": "ma esclude gli incentivi per l'acquisto di auto elettriche.",
-        "whyItMatters": "La lista di Bruxelles include colonnine e ristrutturazioni. Ma non gli incentivi per l'acquisto di auto elettriche.",
-        "confirmedFacts": [
-          "ma esclude gli incentivi per l'acquisto di auto elettriche.",
-          "La lista di Bruxelles include colonnine e ristrutturazioni. Ma non gli incentivi per l'acquisto di auto elettriche.",
-          "Nella lista di Bruxelles colonnine e ristrutturazioni",
-          "Via libera agli investimenti nelle centrali nucleari, alle pompe di calore, al solare, alle batterie domestiche, alle ristrutturazioni e alle colonnine di ricarica, restano fuori invece gli incentivi per l'acquisto di auto elettriche:"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Bruxelles"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-a1782a2d2ffefb8e",
-      "title": "Il futuro è per tutti? Le nostre considerazioni sul manifesto di Zuckerberg",
-      "summary": "di AlgoRadar Pubblicato il 18/08/2026 Nel suo nuovo manifesto sull’intelligenza artificiale, Mark Zuckerberg promette un futuro di superintelligenza personale, agenti sempre presenti, tutor su misura e nuove opportunità per tutti. Ma dietro la visione ottimistica emergono interrogativi che non possono essere affidati soltanto alle Big Tech. Soprattutto, prima di costruire macchine “oltre l’umano”, non dovremmo chiederci quale progresso umano vogliamo davvero? In copertina: elaborazione grafica da Jeff Sainlar/Wikimedia Commons. Licenza: CC BY-SA 4. 0 Tempo di lettura: 8 mins Intelligenza artificiale Società Come gruppo indipendente di monitoraggio e ricerca sull’intelligenza artificiale, sentiamo il dovere di commentare il recente manifesto di Mark Zuckerberg, The Future is for Everyone: The Path to a Positive AI Future, perché tocca direttamente molte delle tematiche che hanno portato alla nostra stessa nascita. Amiamo il progresso autentico, ma temiamo un futuro distopico: il nostro compito è promuovere un monitoraggio continuo dei limiti tecnologici, degli annunci iperbolici e delle possibili conseguenze indesiderate. Qui presentiamo una valutazione preliminare; l’analisi integrale, più tecnica e specialistica, è disponibile in allegato. Dietro la retorica dell’“oltre umano” Il manifesto di Meta può in larga misura essere letto come una mossa per tenere il passo con gli altri leader dell’IA “di frontiera”, da Anthropic a OpenAI, da Google DeepMind ai principali attori cinesi. Ma mostra anche i segni di quello che potremmo chiamare un “transumanesimo di livello 1”. Zuckerberg scrive: “Il futuro è per tutti. Le persone potranno utilizzare una superintelligenza oltre la capacità umana. ” È un tono impostato fin dall’inizio come eccessivamente positivo, quasi propagandistico. E la domanda che ci poniamo è preliminare a tutto il resto: l’intelligenza artificiale è davvero comparabile all’intelligenza umana (per non parlare della “mente” umana, concetto ben più ampio) al punto da poter essere misurata sulla stessa scala, giustificando l’uso della parola “oltre”? Per anni abbiamo vissuto in un ecosistema digitale in cui gli algoritmi raccolgono dati, apprendono dalle nostre preferenze, costruiscono profili, influenzano ciò che vediamo e scegliamo. Non è una dinamica nuova né esclusiva di Meta. Anche l’idea di “agente intelligente” non nasce oggi: era già oggetto di studio nel secolo scorso, mancava solo l’infrastruttura computazionale e una base di utenti adeguata. La vera discontinuità non è quindi il concetto, ma la combinazione di scala, infrastruttura e sostenibilità economica che oggi la rende possibile, e che permette il passaggio dal chatbot che risponde all’agente che ricorda, pianifica ed esegue azioni per nostro conto. Condividiamo l’obiettivo dichiarato di “empowerment” individuale. Ma essere più capaci grazie alla tecnologia non significa automaticamente essere più autonomi. Un’IA che ci conosce sempre meglio può anticipare i nostri bisogni, orientare le nostre scelte e, nel tempo, influenzare il nostro comportamento. Il problema, per noi, non riguarda quindi solo cosa succede ai nostri dati, ma il confine tra assistenza e influenza, tra delegare un compito e delegare una decisione. Con l’IA agentica dovremmo porci domande molto concrete: cosa dovrebbe sapere un sistema su di noi? Cosa dovrebbe poter inferire? Cosa dovrebbe poter fare in autonomia, e dove dovrebbe fermarsi? Occhiali IA e privacy nelle relazioni personali Uno dei passaggi che ci ha colpito di più riguarda la promessa di interagire con il proprio agente «attraverso qualsiasi dispositivo, compresi gli occhiali, per restare presenti nel momento con le persone a cui teniamo». Ma si è davvero “presenti” in una stanza, con le persone a cui si tiene, mentre si interagisce contemporaneamente con un agente tramite un dispositivo indossabile? A differenza di un laptop o di uno smartphone, un paio di occhiali con IA può mediare, registrare o elaborare una conversazione senza rendere questa mediazione visibile agli altri. Quando siamo con le persone a cui teniamo, ci sentiamo in un ambiente protetto in cui ciò che diciamo liberamente non verrà usato contro di noi. Cosa succede se quello che diciamo viene invece catturato dall’agente incorporato negli occhiali di un amico, ed eventualmente condiviso con altri, magari senza che chi li indossa ne sia pienamente consapevole? È un problema di privacy e fiducia che rischia di incidere in profondità sui rapporti tra le persone, e che il manifesto non affronta. Più avanti Zuckerberg promette che le persone avranno «una modalità completamente privata per gli agenti personali, nella quale nemmeno Meta o qualsiasi altro fornitore possa vedere o concedere accesso alle informazioni». È uno dei pochi punti in cui il tema cruciale della privacy viene affrontato esplicitamente, e lo apprezziamo. Ma restano aperte le domande operative: come verrà garantita questa modalità, chi la verificherà, e come potrà una superintelligenza operare su dati privati mentre interagisce con migliaia di altri sistemi e agenti? I limiti del tutor IA rispetto alla relazione docente-discente Zuckerberg immagina che «tutti avranno un tutor e un coach personalizzati con un PhD in ogni disciplina». Questi sistemi possono essere utili in alcuni contesti, ma non sono indispensabili, e possono diventare dannosi se incoraggiano una dipendenza crescente dall’IA. Non è un dettaglio che un buon insegnante non debba necessariamente avere “pazienza illimitata”: un membro del nostro gruppo ricorda che fu proprio l’impazienza del proprio relatore di dottorato, in attesa della bozza del capitolo successivo, a fornire uno stimolo intellettuale decisivo per completare il lavoro. Equiparare un agente IA a un tutor o a un insegnante umano è, a nostro avviso, una distorsione pericolosa: significa sostituire figure che, pur non essendo onniscienti, condividono la propria esperienza vissuta, con intelligenze prive di un fondamento cognitivo diretto nel mondo reale. Ed è un’equiparazione che incoraggia implicitamente l’idea, scientificamente e filosoficamente fuorviante, che l’IA funzioni in modi paragonabili al cervello umano. Accesso gratuito e divario digitale globale Il manifesto promette che tutti avranno accesso libero o economico a questi strumenti. Non ci facciamo illusioni: l’accesso gratuito sarà disponibile solo in modalità ridotta, utile a catturare l’attenzione del grande pubblico; i sistemi più capaci resteranno probabilmente a pagamento. Meta, in fondo, è un’azienda, non un ente di beneficenza. La formula scelta, «per chi desidera pagare per usare più capacità di calcolo ci sarà un meccanismo di asta dinamica», non maschera l’asimmetria di potere di mercato tra chi produce e chi consuma questi servizi. Qui si intrecciano due divari distinti. Il primo è geografico: nei paesi ad alto reddito l’uso di internet è vicino alla copertura universale (94% della popolazione online), mentre nei paesi a basso reddito la quota scende al 23%. Il secondo è interno a ciascun paese: il divario tra chi può permettersi l’accesso a servizi IA potenti e costosi e chi resta confinato a modelli gratuiti più semplici rischia di diventare sempre più marcato. Occupazione e impatto energetico dei data center Zuckerberg si dice ottimista sul fatto che in futuro ci sarà «abbondanza di posti di lavoro». Riteniamo che questa affermazione non sia sostenuta da evidenze empiriche sufficienti. Proprio perché l’IA è una rivoluzione dal ritmo di crescita senza precedenti, con sviluppi persino imprevedibili, i rischi occupazionali, sia in termini di numero di posti di lavoro sia di qualità del lavoro, ci sembrano elevati. Non si può inoltre ragionare solo a partire dal contesto della Silicon Valley: basti guardare alla Cina, che sta diventando essa stessa un leader tecnologico nell’IA, per capire quanto il quadro globale sia più complesso di come viene presentato. Anche sul fronte dei data center, le “intenzioni eccellenti” dichiarate da Meta (costruire l’infrastruttura IA “con le comunità”) vanno lette insieme ai dati più recenti. Studi aggregati sugli Stati Uniti mostrano che fino al periodo 2019-2023 la crescita dei data center era associata a tariffe elettriche medie più basse, perché l’alto volume di vendite aiutava a distribuire i costi fissi della rete su una base più ampia. I dati del 2025-2026, però, mostrano che questa dinamica si sta frammentando nelle aree ad alta concentrazione, dove i vincoli locali di capacità stanno iniziando a far salire i prezzi. L’equilibrio di potere come sostituto dell’allineamento tecnico Zuckerberg respinge l’idea di poter “perfezionare o allineare la tecnologia per produrre una singola superintelligenza benevola”, proponendo invece di affidarsi a un “giusto equilibrio di potere” tra persone e istituzioni con interessi concorrenti. È un approccio che ci convince solo in parte, anche se relativamente originale. Crediamo davvero che persone e istituzioni con interessi diversi si controllino e bilancino naturalmente in modi che portano a esiti positivi? Notiamo, tra l’altro, che dall’elenco dei soggetti in gioco manca proprio un attore cruciale: le aziende. E più in profondità, questa impostazione sembra trascurare la condizione minima perché i controlli reciproci funzionino, cioè che gli attori coinvolti dispongano di forme di potere sufficientemente bilanciate. Possiamo seriamente assumere che le grandi aziende hi-tech, i singoli governi nazionali e i singoli utenti abbiano un potere comparabile? C’è poi un aspetto che riguarda più da vicino la nostra competenza. Se, come prevede lo stesso Zuckerberg, diversi “allineamenti” saranno in competizione tra loro, siamo sicuri che gli agenti più eticamente rigorosi (quelli che, per usare il suo esempio, “rifiutano di aiutare a redigere una lettera ai futuri genitori in una scuola”) prevarranno su quelli meno scrupolosi? La teoria evolutiva dei giochi mostra che, all’interno di una popolazione, l’evoluzione di comportamenti altruistici rispetto a quelli egoistici può produrre esiti molto diversi, e spesso non ottimali dal punto di vista sociale. Affidarsi al solo bilanciamento spontaneo di interessi concorrenti, senza un monitoraggio costante e una funzione pubblica indipendente di informazione, ci sembra quindi una scommessa rischiosa. Da qui nasce, a nostro avviso, l’urgenza per l’Europa, e per chiunque voglia mantenere la possibilità di decisioni basate sul pensiero critico, di sviluppare una propria infrastruttura digitale pubblica indipendente, senza affidarsi interamente alle aziende Big Tech. Cosa manca: progresso umano prima della superintelligenza Non siamo né contro l’innovazione né contro l’IA agentica. Ma una trasformazione di questa portata non dovrebbe essere definita esclusivamente da chi sviluppa la tecnologia. Condividiamo in pieno le parole di Alberto Carrara, presidente dell’International Institute of Bioethics, in una sua lettera aperta a Zuckerberg: una persona può diventare più informata senza diventare più saggia, più produttiva senza sentirsi realizzata, più connessa senza diventare capace di relazioni più profonde, più potente senza diventare più responsabile. Se l’IA deve servire l’umanità, il dibattito non può essere lasciato soltanto a prestazioni, scalabilità e competizione di mercato. Deve includere autonomia, responsabilità, e una riflessione seria su cosa significhi davvero il progresso umano. Questi temi sono ampi, e ci riserviamo il diritto di tornarvi con analisi più approfondite.",
-      "spokenText": "Condividiamo l’obiettivo dichiarato di “empowerment” individuale, ma dietro la retorica dell’“oltre umano” il manifesto di Meta può in larga misura essere letto come una mossa per tenere il passo con gli altri leader dell’IA “di frontiera”, da Anthropic a OpenAI, da Google DeepMind ai principali attori cinesi. Mostra anche i segni di quello che potremmo chiamare un “transumanesimo di livello 1”. E la domanda che ci poniamo è preliminare a tutto il resto: l’intelligenza artificiale è davvero comparabile all’intelligenza umana, per non parlare della “mente” umana, concetto ben più ampio, al punto da poter essere misurata sulla stessa scala, giustificando l’uso della parola “oltre”? Qui presentiamo una valutazione preliminare; l’analisi integrale, più tecnica e specialistica, è disponibile in allegato. Ma dietro la visione ottimistica emergono interrogativi che non possono essere affidati soltanto alle Big Tech. Amiamo il progresso autentico, ma temiamo un futuro distopico: il nostro compito è promuovere un monitoraggio continuo dei limiti tecnologici, degli annunci iperbolici e delle possibili conseguenze indesiderate.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "meta",
-        "anthropic",
-        "openai",
-        "google deepmind"
-      ],
-      "importance": 80,
-      "mustInclude": true,
-      "estimatedSeconds": 66,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articolo/futuro-tutti-le-nostre-considerazioni-sul-manifesto-di-zuckerberg/algoradar/2026-08-18"
-      },
-      "analysis": {
-        "mainFact": "Condividiamo l’obiettivo dichiarato di “empowerment” individuale.",
-        "whyItMatters": "Le nostre considerazioni sul manifesto di Zuckerberg",
-        "confirmedFacts": [
-          "Condividiamo l’obiettivo dichiarato di “empowerment” individuale.",
-          "Le nostre considerazioni sul manifesto di Zuckerberg",
-          "Qui presentiamo una valutazione preliminare; l’analisi integrale, più tecnica e specialistica, è disponibile in allegato.",
-          "Dietro la retorica dell’“oltre umano” Il manifesto di Meta può in larga misura essere letto come una mossa per tenere il passo con gli altri leader dell’IA “di frontiera”, da Anthropic a OpenAI, da Google DeepMind ai principali attori cinesi.",
-          "Ma mostra anche i segni di quello che potremmo chiamare un “transumanesimo di livello 1”.",
-          "E la domanda che ci poniamo è preliminare a tutto il resto: l’intelligenza artificiale è davvero comparabile all’intelligenza umana (per non parlare della “mente” umana, concetto ben più ampio) al punto da poter essere misurata sulla stessa scala, giustificando l’uso della parola “oltre”?",
-          "Ma dietro la visione ottimistica emergono interrogativi che non possono essere affidati soltanto alle Big Tech.",
-          "Amiamo il progresso autentico, ma temiamo un futuro distopico: il nostro compito è promuovere un monitoraggio continuo dei limiti tecnologici, degli annunci iperbolici e delle possibili conseguenze indesiderate."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Meta",
-          "Anthropic",
-          "OpenAI",
-          "Google DeepMind"
-        ],
-        "numbersAndDates": [
-          "Ma mostra anche i segni di quello che potremmo chiamare un “transumanesimo di livello 1”."
-        ]
-      }
-    },
-    {
-      "id": "story-cc31215ce8c824dd",
-      "title": "La produttrice cinese di robot Unitree debutta a Shanghai col +629%",
-      "summary": "Capitalizzazione di 66 miliardi di dollari",
-      "spokenText": "Unitree Robotics ha fatto il suo ingresso sullo Star Market di Shanghai con un debutto che ha subito segnato un record. Una performance che ha proiettato la capitalizzazione della società a circa 445 miliardi di yuan, equivalenti a 66 miliardi di dollari, rendendo l’operazione una delle più rilevanti nella storia recente del listino tecnologico cinese. Unitree Robotics ha debuttato sullo Star Market di Shanghai con un balzo del 629% rispetto al prezzo di Ipo, arrivando a 1.100 yuan per azione.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "unitree robotics",
-        "star market di shanghai"
-      ],
-      "importance": 52,
-      "mustInclude": true,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/la-produttrice-cinese-di-robot-unitree-debutta-a-shanghai-col-629_985063ab-8a44-49b6-a94b-600b908b9625.html"
-      },
-      "analysis": {
-        "mainFact": "Unitree Robotics ha debuttato sullo Star Market di Shanghai con un balzo del 629% rispetto al prezzo di Ipo, arrivando a 1.100 yuan per azione.",
-        "whyItMatters": "Il debutto ha portato la capitalizzazione della società a circa 445 miliardi di yuan, pari a 66 miliardi di dollari.",
-        "confirmedFacts": [
-          "Unitree Robotics ha debuttato sullo Star Market di Shanghai con un balzo del 629% rispetto al prezzo di Ipo, arrivando a 1.100 yuan per azione.",
-          "Il debutto ha portato la capitalizzazione della società a circa 445 miliardi di yuan, pari a 66 miliardi di dollari.",
-          "Capitalizzazione di 66 miliardi di dollari",
-          "Unitree Robotics, produttore cinese di robot umanoidi con sede a Hangzhou, ha debuttato oggi sullo Star Market di Shanghai con un balzo del 629% rispetto al prezzo di Ipo, arrivando a 1.100 yuan per azione.",
-          "La capitalizzazione della societ ha cos raggiunto circa 445 miliardi di yuan, pari a 66 miliardi di dollari."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Unitree Robotics",
-          "Star Market di Shanghai"
-        ],
-        "numbersAndDates": [
-          "629",
-          "1.100",
-          "445",
-          "66"
-        ]
-      }
-    },
-    {
-      "id": "story-935c1628540802e5",
-      "title": "Messina, il furto nel museo in 15 minuti. Ora i custodi rischiano il posto",
-      "summary": "Un “buco” di un quarto d’ora nella sicurezza in cui i ladri hanno potuto agire indisturbati. Diverse tracce al vaglio degli inquirenti",
-      "spokenText": "Un furto di opere di Antonello da Messina è stato messo a segno nel museo regionale di Messina in una finestra temporale sorprendentemente stretta, appena quindici minuti. È questo l’intervallo in cui i ladri hanno potuto agire indisturbati, sfruttando un vero e proprio buco nel sistema di sorveglianza. Stamani il museo ha riaperto: 98 i biglietti staccati durante la giornata.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "antonello da messina"
-      ],
-      "importance": 62,
-      "mustInclude": true,
-      "estimatedSeconds": 24,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://palermo.repubblica.it/cronaca/2026/08/19/news/messina_furto_museo_in_15_minuti_custodi_rischiano_posto-425535185/"
-      },
-      "analysis": {
-        "mainFact": "Un furto di opere di Antonello da Messina è avvenuto in un museo di Messina in un intervallo di 15 minuti.",
-        "whyItMatters": "Un “buco” di un quarto d’ora nella sicurezza in cui i ladri hanno potuto agire indisturbati.",
-        "confirmedFacts": [
-          "Un furto di opere di Antonello da Messina è avvenuto in un museo di Messina in un intervallo di 15 minuti.",
-          "Un “buco” di un quarto d’ora nella sicurezza in cui i ladri hanno potuto agire indisturbati.",
-          "Stamani il museo ha riaperto: 98 i biglietti staccati durante la giornata."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Antonello da Messina"
-        ],
-        "numbersAndDates": [
-          "Stamani il museo ha riaperto: 98 i biglietti staccati durante la giornata.",
-          "15"
-        ]
-      }
-    },
-    {
-      "id": "story-1b24d0561c8d8e1b",
-      "title": "Google non produrrà più i Pixel in Cina dal 2027",
-      "summary": "Google avrebbe deciso di spostare la produzione di smartphone, smartwatch e auricolari Pixel nelle fabbriche in Vietnam e India, lasciando la Cina. The post Google non produrrà più i Pixel in Cina dal 2027 appeared first on Punto Informatico.",
-      "spokenText": "Google avrebbe deciso di spostare la produzione di smartphone, smartwatch e auricolari Pixel nelle fabbriche in Vietnam e India, lasciando la Cina. Secondo le fonti di Mikkei Asia, l’azienda di Mountain View avrebbe comunicato ai fornitori che utilizzerà solo le fabbriche in India e Vietnam nel 2027. In Cina rimane al momento la produzione dei Pixel più economici, oltre che quella di smartwatch e auricolari wireless. In base alle nuove indiscrezioni, la Cina verrà definitivamente abbandonata nel 2027. I Pixel offrono l’accesso prioritario alle nuove versioni di Android e alle funzionalità AI basate su Gemini , ma sono meno popolari degli smartphone di Apple, Samsung e varie aziende cinesi (Google non figura nella top 5 dei produttori mondiali).",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "google",
-        "cina",
-        "vietnam",
-        "india",
-        "pixel"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 48,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/google-non-produrra-pixel-cina-2027/"
-      },
-      "analysis": {
-        "mainFact": "Google non produrrà più i Pixel in Cina dal 2027",
-        "whyItMatters": "Google avrebbe deciso di spostare la produzione di smartphone, smartwatch e auricolari Pixel nelle fabbriche in Vietnam e India, lasciando la Cina.",
-        "confirmedFacts": [
-          "Google non produrrà più i Pixel in Cina dal 2027",
-          "Google avrebbe deciso di spostare la produzione di smartphone, smartwatch e auricolari Pixel nelle fabbriche in Vietnam e India, lasciando la Cina.",
-          "Secondo le fonti di Mikkei Asia, l’azienda di Mountain View avrebbe comunicato ai fornitori che utilizzerà solo le fabbriche in India e Vietnam nel 2027.",
-          "Smartphone, smartwatch e auricolari in Vietnam e India Le fonti di Nikkei Asia aveva confermato che la produzione dei nuovi Pixel, Pixel Pro e Pixel Fold è stata spostata in Vietnam .",
-          "In Cina rimane al momento la produzione dei Pixel più economici, oltre che quella di smartwatch e auricolari wireless.",
-          "I Pixel 11 potrebbero essere gli ultimi smartphone di Google prodotti in Cina.",
-          "In base alle nuove indiscrezioni, la Cina verrà definitivamente abbandonata nel 2027.",
-          "I Pixel offrono l’accesso prioritario alle nuove versioni di Android e alle funzionalità AI basate su Gemini , ma sono meno popolari degli smartphone di Apple, Samsung e varie aziende cinesi (Google non figura nella top 5 dei produttori mondiali)."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google",
-          "Cina",
-          "Vietnam",
-          "India",
-          "Pixel"
-        ],
-        "numbersAndDates": [
-          "Secondo le fonti di Mikkei Asia, l’azienda di Mountain View avrebbe comunicato ai fornitori che utilizzerà solo le fabbriche in India e Vietnam nel 2027.",
-          "I Pixel 11 potrebbero essere gli ultimi smartphone di Google prodotti in Cina.",
-          "In base alle nuove indiscrezioni, la Cina verrà definitivamente abbandonata nel 2027.",
-          "I Pixel offrono l’accesso prioritario alle nuove versioni di Android e alle funzionalità AI basate su Gemini , ma sono meno popolari degli smartphone di Apple, Samsung e varie aziende cinesi (Google non figura nella top 5 dei produttori mondiali).",
-          "2027"
-        ]
-      }
-    },
-    {
-      "id": "story-86123f3852377dcb",
-      "title": "Il Lunar Reconnaissance Orbiter della NASA ha catturato immagini di un nuovo cratere sulla Luna, formatosi il 5 agosto dopo l'impatto di uno stadio",
-      "summary": "Il Lunar Reconnaissance Orbiter della NASA ha catturato immagini di un nuovo cratere sulla Luna, formatosi il 5 agosto dopo l'impatto di uno stadio superiore di un Falcon 9 di SpaceX. Gli scienziati hanno anche determinato che il cratere è profondo meno di 10 piedi in base alla lunghezza della sua ombra.",
-      "spokenText": "Il Lunar Reconnaissance Orbiter della NASA ha fotografato un nuovo cratere sulla Luna, nato dall'impatto di uno stadio superiore di un Falcon 9 di SpaceX. L'evento risale al 5 agosto, dopo il lancio della missione Firefly Blue Ghost 1 avvenuto a gennaio 2025. Gli scienziati hanno anche calcolato una profondità inferiore a 10 piedi basandosi sulla lunghezza dell'ombra proiettata dal bordo, che nelle immagini risaltava con chiarezza. Per catturare le immagini dell'impatto, gli ingegneri hanno inclinato la sonda in modo che le sue telecamere puntassero verso il cratere ogni volta che LRO passava a circa 60 miglia sopra la Luna, viaggiando a 1 miglio al secondo. LRO ha usato la sua Narrow-Angle Camera, che può individuare elementi piccoli fino a 3 piedi di larghezza.",
+      "id": "story-4fb0380f14e216f2",
+      "title": "A 25mila km/s, è la stella più veloce della galassia",
+      "summary": "La stella S301, scoperta con lo strumento Gravity dell’Eso, si avvicina a Sagittarius A* – il buco nero al centro della nostra galassia – più di qualsiasi altro oggetto osservato prima: così vicino da sentirne gli effetti della rotazione. Orbitandogli intorno, raggiunge una velocità di 25mila km/s",
+      "spokenText": "È S301, l’astro più rapido mai osservato nella nostra galassia, individuato grazie allo strumento Gravity dell’ESO. La sua orbita attorno a Sagittarius A*, il buco nero al centro della Via Lattea, è strettissima: nel punto di massimo avvicinamento arriva ad appena 136-142 raggi di Schwarzschild, una distanza circa dieci volte inferiore a quella raggiunta da S2, la sorgente più luminosa finora usata per verificare gli effetti relativistici nel Centro galattico. La GRAVITY Collaboration ha misurato un periodo orbitale di soli 8,7 anni, il più breve mai stabilito per una stella confermata in quella regione. La debolezza di S301, con una magnitudine K di 19,3, aveva a lungo complicato la ricostruzione del suo moto. L’eccentricità vicina a 0,98 suggerisce un’origine legata al meccanismo di Hills: questo astro potrebbe essere appartenuto a un sistema binario, disgregato dalle forze mareali del buco nero, con la compagna scagliata via come stella iperveloce. Orbitandogli intorno, raggiunge una velocità di 25mila km/s.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "nasa",
-        "lunar reconnaissance orbiter",
-        "spacex",
-        "falcon 9",
-        "firefly blue ghost 1",
-        "luna"
+        "s301",
+        "sagittarius a",
+        "gravity collaboration",
+        "eso"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 50,
+      "estimatedSeconds": 63,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/19/stella-s301-sgr-a/"
       },
       "analysis": {
-        "mainFact": "Il Lunar Reconnaissance Orbiter della NASA ha catturato immagini di un nuovo cratere sulla Luna, formatosi il 5 agosto dopo l'impatto di uno stadio superiore di un Falcon 9 di SpaceX.",
-        "whyItMatters": "Gli scienziati hanno anche determinato che il cratere è profondo meno di 10 piedi in base alla lunghezza della sua ombra.",
+        "mainFact": "La stella S301, scoperta con lo strumento Gravity dell'ESO, è la stella più veloce mai osservata nella galassia, raggiungendo circa 25.000-25.600 km/s.",
+        "whyItMatters": "Orbitandogli intorno, raggiunge una velocità di 25mila km/s",
         "confirmedFacts": [
-          "Il Lunar Reconnaissance Orbiter della NASA ha catturato immagini di un nuovo cratere sulla Luna, formatosi il 5 agosto dopo l'impatto di uno stadio superiore di un Falcon 9 di SpaceX.",
-          "Gli scienziati hanno anche determinato che il cratere è profondo meno di 10 piedi in base alla lunghezza della sua ombra.",
-          "5, quando uno stadio superiore di un Falcon 9 di SpaceX ha impattato la superficie dopo il lancio del gennaio 2025 della missione Firefly Blue Ghost 1.",
-          "Per catturare le immagini dell'impatto, gli ingegneri hanno inclinato la sonda in modo che le sue telecamere puntassero verso il cratere ogni volta che LRO passava a circa 60 miglia sopra la Luna, viaggiando a 1 miglio al secondo.",
-          "Nelle immagini in cui il bordo del cratere risaltava, gli scienziati hanno misurato la sua larghezza di 60 piedi.",
-          "LRO ha usato la sua Narrow-Angle Camera, che può individuare elementi piccoli fino a 3 piedi di larghezza."
+          "La stella S301, scoperta con lo strumento Gravity dell'ESO, è la stella più veloce mai osservata nella galassia, raggiungendo circa 25.000-25.600 km/s.",
+          "Orbitandogli intorno, raggiunge una velocità di 25mila km/s",
+          "S301: la stella che sfida un buco nero a 25.600 km/s",
+          "Nel punto più vicino a Sagittarius A* , la stella S301 corre a circa 25.000-25.600 km/s, pari all’8,3-8,5% della velocità della luce.",
+          "La GRAVITY Collaboration le attribuisce un periodo orbitale di 8,7 anni, il più breve stabilito dal gruppo per una stella confermata attorno al buco nero al centro della Via Lattea.",
+          "Al pericentro S301 arriva ad appena 136-142 raggi di Schwarzschild dal buco nero, una distanza circa dieci volte inferiore rispetto a quella raggiunta da S2, la stella più luminosa e studiata usata finora per verificare gli effetti relativistici nel Centro galattico.",
+          "La sua debolezza, corrispondente a una magnitudine K di 19,3, aveva reso più difficile ricostruirne il movimento.",
+          "L’eccentricità prossima a 0,98 suggerisce inoltre un’origine legata al meccanismo di Hills: S301 potrebbe essere appartenuta a un sistema binario separato dalle forze mareali del buco nero, con la compagna espulsa come stella iperveloce."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "NASA",
-          "Lunar Reconnaissance Orbiter",
-          "SpaceX",
-          "Falcon 9",
-          "Firefly Blue Ghost 1",
-          "Luna"
+          "S301",
+          "Sagittarius A*",
+          "GRAVITY Collaboration",
+          "ESO"
         ],
         "numbersAndDates": [
-          "5, quando uno stadio superiore di un Falcon 9 di SpaceX ha impattato la superficie dopo il lancio del gennaio 2025 della missione Firefly Blue Ghost 1.",
-          "Per catturare le immagini dell'impatto, gli ingegneri hanno inclinato la sonda in modo che le sue telecamere puntassero verso il cratere ogni volta che LRO passava a circa 60 miglia sopra la Luna, viaggiando a 1 miglio al secondo.",
-          "Nelle immagini in cui il bordo del cratere risaltava, gli scienziati hanno misurato la sua larghezza di 60 piedi.",
-          "LRO ha usato la sua Narrow-Angle Camera, che può individuare elementi piccoli fino a 3 piedi di larghezza.",
-          "5",
-          "9",
-          "10"
+          "S301: la stella che sfida un buco nero a 25.600 km/s",
+          "Nel punto più vicino a Sagittarius A* , la stella S301 corre a circa 25.000-25.600 km/s, pari all’8,3-8,5% della velocità della luce.",
+          "La GRAVITY Collaboration le attribuisce un periodo orbitale di 8,7 anni, il più breve stabilito dal gruppo per una stella confermata attorno al buco nero al centro della Via Lattea.",
+          "Al pericentro S301 arriva ad appena 136-142 raggi di Schwarzschild dal buco nero, una distanza circa dieci volte inferiore rispetto a quella raggiunta da S2, la stella più luminosa e studiata usata finora per verificare gli effetti relativistici nel Centro galattico.",
+          "La sua debolezza, corrispondente a una magnitudine K di 19,3, aveva reso più difficile ricostruirne il movimento.",
+          "L’eccentricità prossima a 0,98 suggerisce inoltre un’origine legata al meccanismo di Hills: S301 potrebbe essere appartenuta a un sistema binario separato dalle forze mareali del buco nero, con la compagna espulsa come stella iperveloce.",
+          "25.000",
+          "25.600"
         ]
       }
     },
     {
-      "id": "story-706a1d46fa952c6a",
-      "title": "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la costruzione è in fase avanzata",
-      "summary": "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la costruzione è in fase avanzata.",
-      "spokenText": "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, situati a circa centocinquanta miglia a est di Aberdeen, avevano ricevuto l’approvazione sotto il precedente governo conservatore e la loro costruzione è ormai in fase avanzata. Una nuova valutazione di impatto ambientale ha quantificato l’impronta climatica dell’intero ciclo di vita di questi progetti, concludendo che il petrolio e il gas estratti genereranno circa duecentocinquanta milioni di tonnellate di gas serra capaci di riscaldare il pianeta.",
-      "category": "ambiente",
+      "id": "story-9aaaceb71366a341",
+      "title": "Microsoft Copilot svela dati sensibili: basta chiedere",
+      "summary": "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica. The post Microsoft Copilot svela dati sensibili: basta chiedere appeared first on Punto Informatico.",
+      "spokenText": "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica. Dopo Reprompt e SearchLeak, gli esperti di Varonis hanno scoperto un'altra vulnerabilità di Copilot, denominata CoSnitch, che permette di esfiltrare dati sensibili dai sistemi aziendali. Era sufficiente chiedere all'assistente di eseguire un particolare comando non documentato. Questo parametro è ? Autorun=1 e consente l'esecuzione automatica del prompt indicato con il parametro ? Q=. Quando l'ignara vittima clicca sul link viene aperta la versione web di Copilot nella sessione attiva ed eseguito automaticamente il prompt indicato senza nessuna interazione. Microsoft ha risolto la vulnerabilità il 18 agosto.",
+      "category": "tecnologia",
       "tags": [
-        "ambiente",
-        "rosebank",
-        "jackdaw",
-        "aberdeen",
-        "shetland"
+        "tecnologia",
+        "microsoft",
+        "varonis"
       ],
-      "importance": 75,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 30,
+      "estimatedSeconds": 42,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo?at_medium=RSS&at_campaign=rss"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/microsoft-copilot-svela-dati-sensibili-basta-chiedere/"
       },
       "analysis": {
-        "mainFact": "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la costruzione è in fase avanzata.",
-        "whyItMatters": "Fase finale consultazione per giacimento petrolifero Rosebank da 8,7 miliardi di sterline: snodo critico tra sicurezza energetica e clima.",
+        "mainFact": "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica.",
+        "whyItMatters": "Dopo Reprompt e SearchLeak , gli esperti di Varonis hanno scoperto un’altra vulnerabilità di Copilot , denominata CoSnitch, che permette di esfiltrare dati sensibili dai sistemi aziendali.",
         "confirmedFacts": [
-          "Il giacimento petrolifero Rosebank e il giacimento di gas Jackdaw, 150 miglia a est di Aberdeen, erano stati approvati sotto il precedente governo conservatore e la costruzione è in fase avanzata.",
-          "Fase finale consultazione per giacimento petrolifero Rosebank da 8,7 miliardi di sterline: snodo critico tra sicurezza energetica e clima.",
-          "Una nuova valutazione di impatto ambientale (VIA) ha concluso che il petrolio e il gas prodotti genereranno circa 250 milioni di tonnellate di gas serra che riscaldano il pianeta nel corso della loro vita."
+          "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica.",
+          "Dopo Reprompt e SearchLeak , gli esperti di Varonis hanno scoperto un’altra vulnerabilità di Copilot , denominata CoSnitch, che permette di esfiltrare dati sensibili dai sistemi aziendali.",
+          "Era sufficiente chiedere all’assistente di eseguire un particolare comando non documentato.",
+          "Questo parametro è ? autorun=1 e consente l’esecuzione automatica del prompt indicato con il parametro ? q= .",
+          "&autorun=1 Quando l’ignara vittima clicca sul link viene aperta la versione web di Copilot nella sessione attiva ed eseguito automaticamente il prompt indicato senza nessuna interazione.",
+          "Microsoft ha risolto la vulnerabilità il 18 agosto.",
+          "Microsoft Copilot svela dati sensibili: basta chiedere Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Rosebank",
-          "Jackdaw",
-          "Aberdeen",
-          "Shetland"
+          "Microsoft",
+          "Varonis"
         ],
         "numbersAndDates": [
-          "Una nuova valutazione di impatto ambientale (VIA) ha concluso che il petrolio e il gas prodotti genereranno circa 250 milioni di tonnellate di gas serra che riscaldano il pianeta nel corso della loro vita.",
+          "Questo parametro è ? autorun=1 e consente l’esecuzione automatica del prompt indicato con il parametro ? q= .",
+          "&autorun=1 Quando l’ignara vittima clicca sul link viene aperta la versione web di Copilot nella sessione attiva ed eseguito automaticamente il prompt indicato senza nessuna interazione.",
+          "Microsoft ha risolto la vulnerabilità il 18 agosto."
+        ]
+      }
+    },
+    {
+      "id": "story-8aa3893bebc6456b",
+      "title": "Balene giganti si stanno spostando nelle acque della Groenlandia a causa della scomparsa dei ghiacci marini",
+      "summary": "Balene giganti si stanno spostando nelle acque della Groenlandia a causa della scomparsa dei ghiacci marini. Nel 2007, sono state avvistate sette megattere, e nel 2024, ci sono stati 150 avvistamenti da nave di queste balene giganti.",
+      "spokenText": "Balene giganti, come megattere e balenottere, si stanno spostando in massa nelle acque della Groenlandia orientale, attratte dalla progressiva scomparsa dei ghiacci marini. Per capire la portata di questo cambiamento basta un dato: nel 2007 gli avvistamenti di megattere da nave erano appena sette, mentre nel 2024 quel numero è schizzato a centocinquanta. I ricercatori hanno condotto le prime indagini aeree sistematiche sui misticeti in questa regione durante le estati del 2015 e del 2024, combinando i sorvoli con le tracce di quindici balene dotate di etichetta satellitare e con le preziose testimonianze dei cacciatori Inuit. Mettendo insieme tutti questi tasselli, il quadro che emerge è quello che il professor Mads Peter Heide-Jørgensen, a capo della ricerca, ha definito un vero e proprio 'grande cambiamento di regime ecologico'. Nel 2007, sono state avvistate sette megattere, e nel 2024, ci sono stati 150 avvistamenti da nave di queste balene giganti.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 60,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Balene giganti si stanno spostando nelle acque della Groenlandia a causa della scomparsa dei ghiacci marini.",
+        "whyItMatters": "Nel 2007, sono state avvistate sette megattere, e nel 2024, ci sono stati 150 avvistamenti da nave di queste balene giganti.",
+        "confirmedFacts": [
+          "Balene giganti si stanno spostando nelle acque della Groenlandia a causa della scomparsa dei ghiacci marini.",
+          "Nel 2007, sono state avvistate sette megattere, e nel 2024, ci sono stati 150 avvistamenti da nave di queste balene giganti.",
+          "Le prime indagini aeree sistematiche dei misticeti - un gruppo che include balenottere comuni, minori e megattere - al largo della costa orientale della Groenlandia sono state condotte dai ricercatori durante le estati del 2015 e del 2024.",
+          "Hanno combinato queste informazioni con le tracce di 15 balene dotate di etichetta satellitare e le testimonianze dei cacciatori Inuit - costruendo tutti un quadro di quello che il ricercatore principale, il Prof. Mads Peter Heide-Jørgensen, ha definito un 'grande cambiamento di regime ecologico'."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "Le prime indagini aeree sistematiche dei misticeti - un gruppo che include balenottere comuni, minori e megattere - al largo della costa orientale della Groenlandia sono state condotte dai ricercatori durante le estati del 2015 e del 2024.",
+          "Hanno combinato queste informazioni con le tracce di 15 balene dotate di etichetta satellitare e le testimonianze dei cacciatori Inuit - costruendo tutti un quadro di quello che il ricercatore principale, il Prof. Mads Peter Heide-Jørgensen, ha definito un 'grande cambiamento di regime ecologico'.",
+          "2007",
+          "2024",
           "150"
         ]
       }
     },
     {
-      "id": "story-282c18f8eea478c3",
-      "title": "L'ex ministro della Difesa ucraino, rimosso dall'incarico, ha chiesto che si tengano le elezioni presidenziali",
-      "summary": "L'ex ministro della Difesa ucraino, rimosso dall'incarico, ha chiesto che si tengano le elezioni presidenziali.",
-      "spokenText": "L'ex ministro della Difesa ucraino, rimosso dall'incarico, ha chiesto che si tengano le elezioni presidenziali.",
-      "category": "mondo",
+      "id": "story-8da4e069d3dd2044",
+      "title": "L'Australia è indignata dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza",
+      "summary": "L'Australia è indignata dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza. Frankcom era un'operatrice umanitaria australiana della World Central Kitchen (WCK) uccisa a Gaza con altri sei colleghi da un attacco aereo israeliano nell'aprile 2024.",
+      "spokenText": "L'Australia ha espresso forte indignazione dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza. Canberra ha convocato l'ambasciatore israeliano per manifestare la propria contrarietà. Frankcom, cittadina australiana della World Central Kitchen, è stata uccisa nell'aprile 2024 insieme ad altri sei colleghi da un attacco aereo israeliano. La decisione su Frankcom contrasta con l'annuncio dell'IDF, nella stessa dichiarazione, di avviare un'indagine penale sull'uccisione della bambina palestinese di cinque anni Hind Rajab a Gaza nel 2024. L'IDF ha inoltre dichiarato di non aver trovato motivi per un'indagine penale sull'uccisione di quattro dipendenti di Médecins Sans Frontières, uccisi in due attacchi separati nel novembre 2023 e nel febbraio 2024. \"Lo abbiamo visto ancora e ancora. \" L'ex capo delle forze di difesa australiane Mark Binskin ha consegnato un rapporto nell'agosto 2024 che ha rilevato \"gravi carenze\" nelle procedure dell'IDF che hanno portato all'uccisione di Frankcom e dei suoi colleghi. L'IDF ha anche dichiarato che indagherà sull'uccisione di 15 palestinesi, inclusi soccorritori e un operatore ONU, nel marzo 2025, i cui corpi sono stati trovati sepolti in fosse poco profonde una settimana dopo accanto ai veicoli schiacciati.",
+      "category": "diritti",
       "tags": [
-        "mondo"
+        "diritti",
+        "australia",
+        "world central kitchen",
+        "idf"
       ],
-      "importance": 62,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 6,
+      "estimatedSeconds": 77,
       "source": {
         "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "L'ex ministro della Difesa ucraino, rimosso dall'incarico, ha chiesto che si tengano le elezioni presidenziali.",
-        "whyItMatters": "Ex ministro Difesa ucraino chiede elezioni durante la legge marziale. Implicazioni sistemiche sulla governance in zona di conflitto.",
+        "mainFact": "L'Australia è indignata dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza.",
+        "whyItMatters": "Frankcom era un'operatrice umanitaria australiana della World Central Kitchen (WCK) uccisa a Gaza con altri sei colleghi da un attacco aereo israeliano nell'aprile 2024.",
         "confirmedFacts": [
-          "L'ex ministro della Difesa ucraino, rimosso dall'incarico, ha chiesto che si tengano le elezioni presidenziali.",
-          "Ex ministro Difesa ucraino chiede elezioni durante la legge marziale. Implicazioni sistemiche sulla governance in zona di conflitto.",
-          "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-          "Since Russia's full-scale invasion in 2022 Ukraine has been under martial law, which means elections are suspended.",
-          "Other posts in Zelensky's government were offered to Fedorov, including deputy prime minister for military innovation, but the 35-year-old has said he would only return as defence minister.",
-          "During the most recent Ukrainian strikes across Russia nine people were killed and 23 injured, including a child, local officials said."
+          "L'Australia è indignata dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza.",
+          "Frankcom era un'operatrice umanitaria australiana della World Central Kitchen (WCK) uccisa a Gaza con altri sei colleghi da un attacco aereo israeliano nell'aprile 2024.",
+          "\"Lo abbiamo visto ancora e ancora. \" L'ex capo delle forze di difesa australiane Mark Binskin ha consegnato un rapporto nell'agosto 2024 che ha rilevato \"gravi carenze\" nelle procedure dell'IDF che hanno portato all'uccisione di Frankcom e dei suoi colleghi.",
+          "La decisione su Frankcom contrasta con l'annuncio dell'IDF nella stessa dichiarazione di avviare un'indagine penale sull'uccisione da parte delle forze israeliane della bambina palestinese di cinque anni Hind Rajab a Gaza nel 2024.",
+          "Nella stessa dichiarazione, l'IDF ha anche affermato di non aver trovato motivi per un'indagine penale sull'uccisione di quattro dipendenti di Médecins Sans Frontières (MSF), uccisi in due attacchi separati nel novembre 2023 e nel febbraio 2024.",
+          "L'IDF ha anche dichiarato che indagherà sull'uccisione di 15 palestinesi, inclusi soccorritori e un operatore ONU, nel marzo 2025, i cui corpi sono stati trovati sepolti in fosse poco profonde una settimana dopo accanto ai veicoli schiacciati."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
+        "peopleAndOrganizations": [
+          "Australia",
+          "World Central Kitchen",
+          "IDF"
+        ],
+        "numbersAndDates": [
+          "\"Lo abbiamo visto ancora e ancora. \" L'ex capo delle forze di difesa australiane Mark Binskin ha consegnato un rapporto nell'agosto 2024 che ha rilevato \"gravi carenze\" nelle procedure dell'IDF che hanno portato all'uccisione di Frankcom e dei suoi colleghi.",
+          "La decisione su Frankcom contrasta con l'annuncio dell'IDF nella stessa dichiarazione di avviare un'indagine penale sull'uccisione da parte delle forze israeliane della bambina palestinese di cinque anni Hind Rajab a Gaza nel 2024.",
+          "Nella stessa dichiarazione, l'IDF ha anche affermato di non aver trovato motivi per un'indagine penale sull'uccisione di quattro dipendenti di Médecins Sans Frontières (MSF), uccisi in due attacchi separati nel novembre 2023 e nel febbraio 2024.",
+          "L'IDF ha anche dichiarato che indagherà sull'uccisione di 15 palestinesi, inclusi soccorritori e un operatore ONU, nel marzo 2025, i cui corpi sono stati trovati sepolti in fosse poco profonde una settimana dopo accanto ai veicoli schiacciati.",
+          "2024"
+        ]
+      }
+    },
+    {
+      "id": "story-4b4fb86fface84c0",
+      "title": "A causa di un problema di controllo dell'assetto del veicolo spaziale commerciale, il veicolo LINK non catturerà né porterà a un'altitudine superiore",
+      "summary": "A causa di un problema di controllo dell'assetto del veicolo spaziale commerciale, il veicolo LINK non catturerà né porterà a un'altitudine superiore il satellite Swift della NASA come previsto. LINK tenterà comunque di condurre operazioni di rendezvous e prossimità con il Neil Gehrels Swift Observatory della NASA per dimostrare capacità chiave per il futuro dell'esplorazione spaziale.",
+      "spokenText": "Un problema al sistema di controllo dell'assetto ha cambiato i piani di LINK, il veicolo spaziale commerciale che avrebbe dovuto catturare e sollevare a un’orbita più alta il satellite Swift della NASA. L’operazione di manutenzione robotica non andrà quindi come previsto, ma la missione non si ferma: LINK tenterà comunque manovre di rendezvous e prossimità con il Neil Gehrels Swift Observatory, per testare capacità fondamentali per il futuro dell’esplorazione spaziale. Swift studia l’universo in continua evoluzione da oltre vent’anni, ma dopo 21 anni di attività scientifica la sua orbita terrestre bassa ha cominciato a decadere rapidamente, complici i picchi recenti dell’attività solare. La NASA ha colto questa finestra per accelerare lo sviluppo della tecnologia americana di servicing orbitale, assegnando nel settembre 2025 un contratto a Katalyst Space con l’obiettivo ambizioso di allestire una missione robotica in meno di dodici mesi. Basso 19 agosto 2026 COMUNICATO 26-067 Quartier generale NASA Il Neil Gehrels Swift Observatory della NASA, mostrato in questo concept artistico, orbita attorno alla Terra da più di 20 anni, studiando l'universo in continua evoluzione.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "katalyst space",
+        "link",
+        "neil gehrels swift observatory"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 70,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/"
+      },
+      "analysis": {
+        "mainFact": "A causa di un problema di controllo dell'assetto del veicolo spaziale commerciale, il veicolo LINK non catturerà né porterà a un'altitudine superiore il satellite Swift della NASA come previsto.",
+        "whyItMatters": "LINK tenterà comunque di condurre operazioni di rendezvous e prossimità con il Neil Gehrels Swift Observatory della NASA per dimostrare capacità chiave per il futuro dell'esplorazione spaziale.",
+        "confirmedFacts": [
+          "A causa di un problema di controllo dell'assetto del veicolo spaziale commerciale, il veicolo LINK non catturerà né porterà a un'altitudine superiore il satellite Swift della NASA come previsto.",
+          "LINK tenterà comunque di condurre operazioni di rendezvous e prossimità con il Neil Gehrels Swift Observatory della NASA per dimostrare capacità chiave per il futuro dell'esplorazione spaziale.",
+          "Dopo 21 anni di operazioni scientifiche, l'orbita terrestre bassa di Swift ha iniziato a decadere rapidamente a causa dell'aumento dell'attività solare.",
+          "La NASA ha sfruttato questa opportunità per far progredire la tecnologia statunitense di manutenzione dei veicoli spaziali, assegnando un contratto a Katalyst nel settembre 2025 per montare una missione di manutenzione robotica per Swift in meno di un anno.",
+          "Basso 19 agosto 2026 COMUNICATO 26-067 Quartier generale NASA Il Neil Gehrels Swift Observatory della NASA, mostrato in questo concept artistico, orbita attorno alla Terra da più di 20 anni, studiando l'universo in continua evoluzione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "Katalyst Space",
+          "LINK",
+          "Neil Gehrels Swift Observatory"
+        ],
+        "numbersAndDates": [
+          "Dopo 21 anni di operazioni scientifiche, l'orbita terrestre bassa di Swift ha iniziato a decadere rapidamente a causa dell'aumento dell'attività solare.",
+          "La NASA ha sfruttato questa opportunità per far progredire la tecnologia statunitense di manutenzione dei veicoli spaziali, assegnando un contratto a Katalyst nel settembre 2025 per montare una missione di manutenzione robotica per Swift in meno di un anno.",
+          "Basso 19 agosto 2026 COMUNICATO 26-067 Quartier generale NASA Il Neil Gehrels Swift Observatory della NASA, mostrato in questo concept artistico, orbita attorno alla Terra da più di 20 anni, studiando l'universo in continua evoluzione."
+        ]
+      }
+    },
+    {
+      "id": "story-9dc5fda21ac77273",
+      "title": "Nel massiccio attacco serale russo contro Kiev, è stato colpito anche un ospedale pediatrico nel distretto di Solomensky, le finestre sono state distrutte e all'interno della struttura è scoppiato un incendio",
+      "summary": "Colpito anche un palazzo di 5 mesi",
+      "spokenText": "Nel massiccio attacco serale che ha colpito Kiev, un ospedale pediatrico nel distretto di Solomensky è stato raggiunto, con le finestre andate distrutte e un incendio scoppiato all'interno della struttura. Il bilancio complessivo del raid notturno è di almeno dodici morti. Tra gli edifici colpiti figura anche un palazzo di cinque mesi.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "kiev",
+        "ospedale pediatrico",
+        "distretto di solomensky"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 21,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/sindaco-kiev-colpito-ospedale-pediatrico-in-raid-russo-sulla-capitale_cbeddcfa-9973-4236-9d0d-f6ede633be81.html"
+      },
+      "analysis": {
+        "mainFact": "Nel massiccio attacco serale russo contro Kiev, è stato colpito anche un ospedale pediatrico nel distretto di Solomensky, le finestre sono state distrutte e all'interno della struttura è scoppiato un incendio.",
+        "whyItMatters": "Colpito anche un palazzo di 5 mesi",
+        "confirmedFacts": [
+          "Nel massiccio attacco serale russo contro Kiev, è stato colpito anche un ospedale pediatrico nel distretto di Solomensky, le finestre sono state distrutte e all'interno della struttura è scoppiato un incendio.",
+          "Colpito anche un palazzo di 5 mesi",
+          "Almeno 12 morti nel raid russo notturno su Kiev"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Kiev",
+          "ospedale pediatrico",
+          "distretto di Solomensky"
+        ],
+        "numbersAndDates": [
+          "Almeno 12 morti nel raid russo notturno su Kiev",
+          "5"
+        ]
       }
     },
     {
       "id": "story-23cac9f6f502c328",
-      "title": "La morte del professor Jason Arday ha sollevato una riflessione sulla necessità che gli accademici neri sentano di appartenere all'istruzione",
-      "summary": "La morte del professor Jason Arday ha sollevato una riflessione sulla necessità che gli accademici neri sentano di appartenere all'istruzione superiore. Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a orientarsi nelle domande di dottorato o a individuare finanziamenti.",
-      "spokenText": "La scomparsa del professor Jason Arday, trovato morto il 14 agosto 2026, ha aperto una riflessione profonda su cosa significhi davvero appartenere all’istruzione superiore. Il programma Aspire, che ha supportato 59 studiosi neri e di etnia mista nera, ha mostrato come la vera trasformazione non sia avvenuta semplicemente insegnando a scrivere proposte di ricerca, a orientarsi nelle domande di dottorato o a individuare finanziamenti.",
+      "title": "La morte del professor Jason Arday ha lasciato molti con un profondo senso di tristezza e ha riacceso il dibattito sull'appartenenza degli accademici",
+      "summary": "La morte del professor Jason Arday ha lasciato molti con un profondo senso di tristezza e ha riacceso il dibattito sull'appartenenza degli accademici neri nell'istruzione superiore britannica. Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a navigare le domande di dottorato o a identificare finanziamenti.",
+      "spokenText": "La morte del professor Jason Arday, trovato senza vita il 14 agosto 2026, ha lasciato un vuoto profondo e ha riacceso una discussione più ampia sul senso di appartenenza degli accademici neri nell’istruzione superiore britannica. Arday era una figura centrale per il programma Aspire, che ha sostenuto concretamente 59 studiosi neri e di etnia mista. Il cuore di quel progetto non era semplicemente insegnare a scrivere proposte di ricerca, a districarsi tra le domande di dottorato o a individuare bandi di finanziamento.",
       "category": "diritti",
       "tags": [
         "diritti",
         "jason arday",
         "aspire"
       ],
-      "importance": 62,
+      "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 26,
+      "estimatedSeconds": 33,
       "source": {
         "name": "The Conversation",
         "url": "https://theconversation.com/jason-ardays-death-black-academics-need-to-feel-they-belong-in-higher-education-289913"
       },
       "analysis": {
-        "mainFact": "La morte del professor Jason Arday ha sollevato una riflessione sulla necessità che gli accademici neri sentano di appartenere all'istruzione superiore.",
-        "whyItMatters": "Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a orientarsi nelle domande di dottorato o a individuare finanziamenti.",
+        "mainFact": "La morte del professor Jason Arday ha lasciato molti con un profondo senso di tristezza e ha riacceso il dibattito sull'appartenenza degli accademici neri nell'istruzione superiore britannica.",
+        "whyItMatters": "Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a navigare le domande di dottorato o a identificare finanziamenti.",
         "confirmedFacts": [
-          "La morte del professor Jason Arday ha sollevato una riflessione sulla necessità che gli accademici neri sentano di appartenere all'istruzione superiore.",
-          "Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a orientarsi nelle domande di dottorato o a individuare finanziamenti.",
+          "La morte del professor Jason Arday ha lasciato molti con un profondo senso di tristezza e ha riacceso il dibattito sull'appartenenza degli accademici neri nell'istruzione superiore britannica.",
+          "Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a navigare le domande di dottorato o a identificare finanziamenti.",
           "È stato trovato morto il 14 agosto 2026.",
-          "Aspire ha supportato 59 studiosi neri e di etnia mista nera."
+          "Aspire ha supportato 59 studiosi neri e di etnia mista."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
@@ -646,7 +617,7 @@
         ],
         "numbersAndDates": [
           "È stato trovato morto il 14 agosto 2026.",
-          "Aspire ha supportato 59 studiosi neri e di etnia mista nera."
+          "Aspire ha supportato 59 studiosi neri e di etnia mista."
         ]
       }
     }
