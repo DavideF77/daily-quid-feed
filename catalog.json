@@ -1,623 +1,649 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-20-fcd488857489",
-  "generatedAt": "2026-08-20T06:01:51.842Z",
+  "catalogId": "daily-quid-2026-08-21-d21023474bbe",
+  "generatedAt": "2026-08-21T05:27:46.904Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-6ecd3d4916a480b6",
-      "title": "Canale di Panama, allo studio la riduzione dei transiti",
-      "summary": "Allarme siccità per El Niño, atteso un annuncio in 48 ore",
-      "spokenText": "Il Canale di Panama sta valutando una riduzione dei transiti a causa della siccità legata a El Niño. Forte dell'esperienza maturata durante la crisi idrica del 2023 e del 2024, ha rassicurato il mercato: \"Il Canale non improvvisa, il Canale è preparato\". L'amministratore Ricaurte V squez ha spiegato che attualmente i transiti sono 34 al giorno, ma la capacit potrebbe subire a breve dei tagli. \"Possibilmente dovremo fare un adeguamento in tal senso e fare un annuncio nelle prossime 48 ore\", ha dichiarato V squez.",
+      "id": "story-9819284bdeadf934",
+      "title": "La Groenlandia orientale invasa dalle balene giganti alla ricerca di cibo",
+      "summary": "Lo scioglimento dei ghiacci ha permesso loro di spostarsi in aree prima inaccessibili",
+      "spokenText": "L'estate del 2024 ha segnato un cambiamento profondo nelle acque della Groenlandia orientale. Lo scioglimento dei ghiacci ha aperto passaggi che per secoli erano rimasti sbarrati, e migliaia di balene hanno iniziato a frequentare zone del Mare di Groenlandia che fino a poco tempo fa erano semplicemente inaccessibili. almeno quattromila megattere, seimila balenottere comuni e altrettante balenottere minori hanno nuotato in queste acque durante i mesi estivi. Si stima che solo nel 2024, almeno 4.000 megattere, 6.000 balenottere comuni e 6.000 balenottere minori abbiano visitato il Mare di Groenlandia nell'estate del 2024.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "canale di panama",
-        "el nino"
+        "groenlandia"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 34,
+      "estimatedSeconds": 37,
       "source": {
         "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/canale-di-panama-allo-studio-la-riduzione-dei-transiti_7611e96c-53b2-42ea-8943-3d24279adb9b.html"
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/la-groenlandia-orientale-invasa-dalle-balene-giganti-alla-ricerca-di-cibo_38e93b56-04ea-4c5e-891a-f5380c1ba722.html"
       },
       "analysis": {
-        "mainFact": "Il Canale di Panama sta valutando una riduzione dei transiti a causa della siccità legata a El Niño.",
-        "whyItMatters": "L'amministratore Ricaurte V squez ha spiegato che attualmente i transiti sono 34 al giorno, ma la capacit potrebbe subire a breve dei tagli.",
+        "mainFact": "Lo scioglimento dei ghiacci ha permesso a migliaia di balene di spostarsi in aree della Groenlandia orientale prima inaccessibili.",
+        "whyItMatters": "Si stima che solo nel 2024, almeno 4.000 megattere, 6.000 balenottere comuni e 6.000 balenottere minori abbiano visitato il Mare di Groenlandia nell'estate del 2024.",
         "confirmedFacts": [
-          "Il Canale di Panama sta valutando una riduzione dei transiti a causa della siccità legata a El Niño.",
-          "L'amministratore Ricaurte V squez ha spiegato che attualmente i transiti sono 34 al giorno, ma la capacit potrebbe subire a breve dei tagli.",
-          "\"Possibilmente dovremo fare un adeguamento in tal senso e fare un annuncio nelle prossime 48 ore\", ha dichiarato V squez.",
-          "Forte dell'esperienza maturata durante la crisi idrica del 2023 e del 2024, ha rassicurato il mercato: \"Il Canale non improvvisa, il Canale preparato\"."
+          "Lo scioglimento dei ghiacci ha permesso a migliaia di balene di spostarsi in aree della Groenlandia orientale prima inaccessibili.",
+          "Si stima che solo nel 2024, almeno 4.000 megattere, 6.000 balenottere comuni e 6.000 balenottere minori abbiano visitato il Mare di Groenlandia nell'estate del 2024.",
+          "Lo scioglimento dei ghiacci ha permesso loro di spostarsi in aree prima inaccessibili",
+          "Il riscaldamento del mare e lo scioglimento dei ghiacci dovuto ai cambiamenti climatici ha permesso a questi cetacei di spostarsi in aree precedentemente inaccessibili."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Canale di Panama",
-          "El Niño"
+          "Groenlandia"
         ],
         "numbersAndDates": [
-          "34"
+          "2024",
+          "4.000",
+          "6.000"
         ]
       }
     },
     {
-      "id": "story-94ae1c60a74f8234",
-      "title": "Caldo, la strage degli anziani:a luglio colpiti gli over 85",
-      "summary": "La conferma dai dati del ministero della Salute: nelle città italiane la crescita è dell’8%. Parla l’epidemiologo: “Bevono di meno e vanno incontro a un disequilibrio elettrolitico”",
-      "spokenText": "Si è registrata una vera e propria strage tra gli anziani over 85, con una crescita dell'8% dei decessi nelle città italiane, direttamente collegata alle ondate di calore. Per comprendere la dinamica di questo fenomeno, abbiamo ascoltato un epidemiologo, che ha spiegato come in condizioni di caldo estremo gli anziani bevano di meno, andando incontro a un pericoloso disequilibrio elettrolitico.",
-      "category": "salute",
+      "id": "story-1b7f15f56dd90fd4",
+      "title": "Europe’s Scorching Summer",
+      "summary": "Una serie di ondate di caldo nel 2026 sta battendo record e causando danni in Europa. NASA Earth Observatory/Lauren Dauphin: l'Europa occidentale ha avuto il primo indizio di un'estate insolita a maggio 2026, quando una cupola di calore ha prodotto temperature eccezionali che hanno infranto record in diversi paesi.",
+      "spokenText": "Una serie di ondate di caldo nel 2026 sta battendo record e causando danni in Europa. NASA Earth Observatory/Lauren Dauphin: l'Europa occidentale ha avuto il primo indizio di un'estate insolita a maggio 2026, quando una cupola di calore ha prodotto temperature eccezionali che hanno infranto record in diversi paesi. I dati dell'Agenzia Internazionale dell'Energia mostrano che il 23 percento delle case in Europa ha l'aria condizionata, rispetto al 90 percento delle case negli Stati Uniti.",
+      "category": "ambiente",
       "tags": [
-        "salute",
-        "ministero della salute"
+        "ambiente",
+        "nasa earth observatory",
+        "international energy agency"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 24,
+      "estimatedSeconds": 30,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/cronaca/2026/08/20/news/caldo_strage_anziani_mortalita-425537117/"
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/earth/europes-scorching-summer/"
       },
       "analysis": {
-        "mainFact": "A luglio si è registrata una strage di anziani over 85 a causa del caldo, con una crescita dell'8% nelle città italiane secondo i dati del Ministero della Salute.",
-        "whyItMatters": "Parla l’epidemiologo: “Bevono di meno e vanno incontro a un disequilibrio elettrolitico”",
+        "mainFact": "Una serie di ondate di caldo nel 2026 sta battendo record e causando danni in Europa.",
+        "whyItMatters": "NASA Earth Observatory/Lauren Dauphin: l'Europa occidentale ha avuto il primo indizio di un'estate insolita a maggio 2026, quando una cupola di calore ha prodotto temperature eccezionali che hanno infranto record in diversi paesi.",
         "confirmedFacts": [
-          "A luglio si è registrata una strage di anziani over 85 a causa del caldo, con una crescita dell'8% nelle città italiane secondo i dati del Ministero della Salute.",
-          "Parla l’epidemiologo: “Bevono di meno e vanno incontro a un disequilibrio elettrolitico”",
-          "La conferma dai dati del ministero della Salute: nelle città italiane la crescita è dell’8%."
+          "Una serie di ondate di caldo nel 2026 sta battendo record e causando danni in Europa.",
+          "NASA Earth Observatory/Lauren Dauphin: l'Europa occidentale ha avuto il primo indizio di un'estate insolita a maggio 2026, quando una cupola di calore ha prodotto temperature eccezionali che hanno infranto record in diversi paesi.",
+          "I dati dell'Agenzia Internazionale dell'Energia mostrano che il 23 percento delle case in Europa ha l'aria condizionata, rispetto al 90 percento delle case negli Stati Uniti."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ministero della Salute"
+          "NASA Earth Observatory",
+          "International Energy Agency"
         ],
         "numbersAndDates": [
-          "85",
-          "8"
+          "I dati dell'Agenzia Internazionale dell'Energia mostrano che il 23 percento delle case in Europa ha l'aria condizionata, rispetto al 90 percento delle case negli Stati Uniti.",
+          "2026"
         ]
       }
     },
     {
-      "id": "story-1484147a644fd8c4",
-      "title": "Successo del farmaco antimelanoma, Moderna strappa a Wall Street",
-      "summary": "Sviluppato con Merck si basa sulla tecnologia mRNA utilizzata contro il Covid",
-      "spokenText": "Un farmaco contro il melanoma sviluppato da Moderna insieme a Merck, basato sulla tecnologia a mRNA, ha superato con risultati positivi la sperimentazione di Fase 3. È la prima volta che un trattamento oncologico di questo tipo raggiunge un traguardo simile. La piattaforma a mRNA era stata concepita decenni fa, ma è esplosa in tutta la sua potenzialità durante la pandemia di Covid-19, quando nella fase più critica del contagio sia Moderna che Pfizer hanno sviluppato vaccini altamente efficaci contro il virus. L’amministratore delegato di Moderna, Stephane Bancel, ha definito la giornata una pietra miliare straordinaria per l’azienda, per la scienza dell’mRNA e, soprattutto, per i pazienti affetti da cancro.",
+      "id": "story-d482a15b379771b6",
+      "title": "Palermo, muore a 4 anni stroncata dalla difterite: “Non era stata vaccinata”",
+      "summary": "I genitori No Vax l’hanno portata in ospedale quando ormai era troppo tardi. La procura ha aperto un’inchiesta",
+      "spokenText": "Una bambina di quattro anni è morta in ospedale a Palermo per una sospetta difterite, una malattia infettiva che in Italia non provocava vittime da oltre trent'anni. La piccola non era vaccinata e, secondo quanto ricostruito, è stata portata in ospedale dai genitori quando le sue condizioni erano già gravemente compromesse. Con gli stessi sintomi è stato ricoverato anche il cuginetto, un bambino della stessa età, il quale però non è in pericolo di vita proprio perché era stato sottoposto a vaccinazione. La procura del capoluogo siciliano ha aperto un'inchiesta e ha disposto l'autopsia per chiarire l'esatta dinamica dei fatti e accertare eventuali responsabilità. La difterite, un tempo flagello dell'infanzia, all'inizio del secolo scorso registrava in Italia circa trentamila casi l'anno con millecinquecento decessi, ma era praticamente scomparsa nei Paesi industrializzati proprio grazie alla diffusione capillare dei vaccini, che hanno determinato un drastico calo dei contagi. 1.500 morti l'anno. Dopo l'introduzione della vaccinazione c'è stato un drastico calo dei contagi. 1.500 morti l'anno.",
       "category": "salute",
       "tags": [
         "salute",
-        "moderna",
-        "merck"
+        "palermo",
+        "difterite",
+        "procura",
+        "no vax"
       ],
       "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 44,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/il-vaccino-contro-il-melanoma-mostra-risultati-promettenti-moderna-vola-in-borsa-a-130_8e586860-450d-4404-af85-c9827c648c24.html"
-      },
-      "analysis": {
-        "mainFact": "Un farmaco antimelanoma sviluppato da Moderna con Merck, basato sulla tecnologia mRNA, ha mostrato risultati positivi in una sperimentazione di Fase 3.",
-        "whyItMatters": "È la prima volta che un trattamento a base di mRNA contro il cancro mostra risultati positivi in una sperimentazione di Fase 3.",
-        "confirmedFacts": [
-          "Un farmaco antimelanoma sviluppato da Moderna con Merck, basato sulla tecnologia mRNA, ha mostrato risultati positivi in una sperimentazione di Fase 3.",
-          "È la prima volta che un trattamento a base di mRNA contro il cancro mostra risultati positivi in una sperimentazione di Fase 3.",
-          "La tecnologia è stata concepita per la prima volta decenni fa, ma ha mostrato tutte le sue potenzialità durante la pandemia di Covid-19, quando nella fase più critica del contagio Moderna e Pfizer hanno sviluppato vaccini altamente efficaci contro il virus.",
-          "\"La giornata di oggi segna una pietra miliare straordinaria per Moderna, per la scienza dell'mRNA e, soprattutto, per i pazienti affetti da cancro\", ha dichiarato l'amministratore delegato del gruppo Stephane Bancel."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Moderna",
-          "Merck"
-        ],
-        "numbersAndDates": [
-          "La tecnologia è stata concepita per la prima volta decenni fa, ma ha mostrato tutte le sue potenzialità durante la pandemia di Covid-19, quando nella fase più critica del contagio Moderna e Pfizer hanno sviluppato vaccini altamente efficaci contro il virus.",
-          "3"
-        ]
-      }
-    },
-    {
-      "id": "story-eee25add527e78da",
-      "title": "Guerra in Iran, le news di oggi. Trump: “Da oggi guerra economica devastante contro l’Iran e chi lo aiuta”",
-      "summary": "Teheran avverte i Paesi del Golfo: “Non aiutate gli Stati Uniti”. Araghchi: “L’ostacolo all’accordo con Washington è Israele”",
-      "spokenText": "Donald Trump ha annunciato quella che ha definito una guerra economica devastante contro l’Iran e contro chiunque offra a Teheran un’ancora di salvezza. Araghchi: “L’ostacolo all’accordo con Washington è Israele”. Trump: “Abbiamo dure sanzioni da imporre all’Iran” \"Abbiamo sanzioni davvero draconiane\" che potremmo imporre all'Iran.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "stati uniti",
-        "iran",
-        "israele",
-        "donald trump",
-        "araghchi"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 18,
+      "estimatedSeconds": 66,
       "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/20/diretta/guerra_iran_usa_israele_news_oggi-425537182/"
+        "url": "https://palermo.repubblica.it/cronaca/2026/08/21/news/palermo_muore_a_4_anni_stroncata_dalla_difterite_non_era_stata_vaccinata-425538683/"
       },
       "analysis": {
-        "mainFact": "Donald Trump ha annunciato una 'guerra economica devastante' contro l'Iran e chi lo aiuta.",
-        "whyItMatters": "Trump ha avvertito che qualsiasi Paese offra all'Iran un''ancora di salvezza' dovrà affrontare 'conseguenze economiche tremende', mentre Teheran avverte i Paesi del Golfo di non aiutare gli Stati Uniti.",
+        "mainFact": "Una bambina di 4 anni è morta a Palermo per sospetta difterite e non era vaccinata.",
+        "whyItMatters": "I genitori No Vax l’hanno portata in ospedale quando ormai era troppo tardi.",
         "confirmedFacts": [
-          "Donald Trump ha annunciato una 'guerra economica devastante' contro l'Iran e chi lo aiuta.",
-          "Trump ha avvertito che qualsiasi Paese offra all'Iran un''ancora di salvezza' dovrà affrontare 'conseguenze economiche tremende', mentre Teheran avverte i Paesi del Golfo di non aiutare gli Stati Uniti.",
-          "Araghchi: “L’ostacolo all’accordo con Washington è Israele”",
-          "Trump: “Abbiamo dure sanzioni da imporre all’Iran” \"Abbiamo sanzioni davvero draconiane\" che potremmo imporre all'Iran."
+          "Una bambina di 4 anni è morta a Palermo per sospetta difterite e non era vaccinata.",
+          "I genitori No Vax l’hanno portata in ospedale quando ormai era troppo tardi.",
+          "La procura del capoluogo siciliano ha aperto un'inchiesta e disposto l'autopsia per ricostruire l'accaduto e chiarire eventuali responsabilità.",
+          "Con gli stessi sintomi è ricoverato il cuginetto, anche lui di 4 anni, ma non è grave, perché era stato vaccinato.",
+          "In Italia, all'inizio del secolo scorso, si registravano circa 30mila casi di difterite infantile e 1.500 morti l'anno, ma dopo l'introduzione della vaccinazione c'è stato un drastico calo dei contagi.",
+          "Bimba di 4 anni muore per sospetta difterite a Palermo",
+          "La difterite, una malattia quasi scomparsa nei Paesi industrializzati, ha provocato la prima vittima in Italia dopo oltre 30 anni: è una bambina di 4 anni, morta in ospedale a Palermo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Stati Uniti",
-          "Iran",
-          "Israele",
-          "Donald Trump",
-          "Araghchi"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-0a204f1ad55099f6",
-      "title": "Iran, le basi Usa a rischio in Europa: da Bulgaria a Cipro fino all’Italia",
-      "summary": "Secondo il Financial Times, Teheran valuta possibili attacchi contro obiettivi militari statunitensi in Europa in caso di escalation. Le installazioni nel sud-est del continente sono le più esposte, mentre raggiungere quelle in Italia richiederebbe missili a maggiore gittata",
-      "spokenText": "Teheran starebbe valutando possibili attacchi contro obiettivi militari statunitensi in Europa nel caso in cui Donald Trump decidesse di intensificare il conflitto e colpire le infrastrutture della Repubblica islamica. Le installazioni nel sud-est del continente sarebbero le più esposte, mentre per raggiungere quelle in Italia servirebbero missili a maggiore gittata. Le principali basi americane nel nostro Paese si trovano infatti tra 2.400 e 3.000 chilometri dall’Iran nord-occidentale, oltre la portata normalmente attribuita ai principali missili iraniani a medio raggio. Per minacciare direttamente questi obiettivi, l’Iran dovrebbe disporre di sistemi capaci di superare in maniera affidabile la soglia dei 2.000 chilometri.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "iran",
-        "financial times",
-        "bulgaria",
-        "cipro",
-        "italia",
-        "donald trump"
-      ],
-      "importance": 60,
-      "mustInclude": true,
-      "estimatedSeconds": 40,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/iran-basi-usa-rischio-europa-bulgaria-e-cipro-fino-all-italia-AJWqmhp"
-      },
-      "analysis": {
-        "mainFact": "Teheran valuta possibili attacchi contro obiettivi militari statunitensi in Europa in caso di escalation.",
-        "whyItMatters": "Minaccia iraniana a basi USA in Europa, escalation geopolitica.",
-        "confirmedFacts": [
-          "Teheran valuta possibili attacchi contro obiettivi militari statunitensi in Europa in caso di escalation.",
-          "Minaccia iraniana a basi USA in Europa, escalation geopolitica.",
-          "Le installazioni nel sud-est del continente sono le più esposte, mentre raggiungere quelle in Italia richiederebbe missili a maggiore gittata",
-          "Se Donald Trump decidesse di intensificare la guerra e colpire le infrastrutture della Repubblica islamica, Teheran starebbe valutando possibili attacchi contro obiettivi militari statunitensi anche in Europa .",
-          "L’Iran dispone inoltre di droni a lungo raggio: secondo il Council on Foreign Relations, gli Shahed-136 possono raggiungere distanze fino a circa 2.000 chilometri , anche se hanno caratteristiche operative molto diverse rispetto ai missili balistici.",
-          "Le principali installazioni americane nel nostro Paese si trovano indicativamente tra 2.400 e 3.000 chilometri dall’Iran nord-occidentale e sono quindi oltre la gittata normalmente attribuita ai principali missili iraniani a medio raggio.",
-          "Per minacciare direttamente questi obiettivi, l’Iran dovrebbe quindi disporre di sistemi capaci di superare in maniera affidabile la soglia dei 2.000 chilometri ."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Iran",
-          "Financial Times",
-          "Bulgaria",
-          "Cipro",
-          "Italia",
-          "Donald Trump"
+          "Palermo",
+          "difterite",
+          "procura",
+          "No Vax"
         ],
         "numbersAndDates": [
-          "L’Iran dispone inoltre di droni a lungo raggio: secondo il Council on Foreign Relations, gli Shahed-136 possono raggiungere distanze fino a circa 2.000 chilometri , anche se hanno caratteristiche operative molto diverse rispetto ai missili balistici.",
-          "Le principali installazioni americane nel nostro Paese si trovano indicativamente tra 2.400 e 3.000 chilometri dall’Iran nord-occidentale e sono quindi oltre la gittata normalmente attribuita ai principali missili iraniani a medio raggio.",
-          "Per minacciare direttamente questi obiettivi, l’Iran dovrebbe quindi disporre di sistemi capaci di superare in maniera affidabile la soglia dei 2.000 chilometri ."
+          "Con gli stessi sintomi è ricoverato il cuginetto, anche lui di 4 anni, ma non è grave, perché era stato vaccinato.",
+          "In Italia, all'inizio del secolo scorso, si registravano circa 30mila casi di difterite infantile e 1.500 morti l'anno, ma dopo l'introduzione della vaccinazione c'è stato un drastico calo dei contagi.",
+          "Bimba di 4 anni muore per sospetta difterite a Palermo",
+          "La difterite, una malattia quasi scomparsa nei Paesi industrializzati, ha provocato la prima vittima in Italia dopo oltre 30 anni: è una bambina di 4 anni, morta in ospedale a Palermo.",
+          "4"
         ]
       }
     },
     {
-      "id": "story-7161b44d671132d1",
-      "title": "In Portogallo è stata promulgata la cosiddetta \"legge del burqa\"",
-      "summary": "\"In linea con sentenze dalla Corte europea dei diritti umani\", scrive il Presidente Seguro",
-      "spokenText": "In Portogallo è stata promulgata la cosiddetta 'legge del burqa'. Il provvedimento, che aveva già ricevuto il via libera del Parlamento lo scorso 17 luglio, è stato firmato dal Presidente Seguro. Nel promulgare la legge, il Presidente Seguro ha sottolineato che il testo è in linea con le sentenze della Corte europea dei diritti umani.",
-      "category": "diritti",
+      "id": "story-9188edc72ff9899f",
+      "title": "Missili di Putin su Kiev, 17 morti. Colpito un ospedale pediatrico",
+      "summary": "Il massiccio attacco è durato nove ore, demolendo strutture della Croce Rossa e magazzini. Zelensky: “Ci servono intercettori Patriot, salvano vite”. Von der Leyen: “Priorità urgente”",
+      "spokenText": "Un attacco missilistico russo su Kiev è durato nove ore, causando 17 morti e colpendo un ospedale pediatrico e strutture della Croce Rossa. Il ministero della Difesa russo ha affermato di aver colpito strutture militari-industriali, un centro di trasporto e logistica e alcuni magazzini, a Kiev e nella regione circostante. 'Ci servono intercettori Patriot, salvano vite'. Von der Leyen: “Priorità urgente”.",
+      "category": "mondo",
       "tags": [
-        "diritti",
-        "portogallo",
-        "presidente seguro",
-        "corte europea dei diritti umani"
+        "mondo",
+        "kiev",
+        "croce rossa"
       ],
-      "importance": 85,
+      "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 22,
+      "estimatedSeconds": 25,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/donne/notizie/2026/08/19/in-portogallo-e-stata-promulgata-la-cosiddetta-legge-del-burqa_3413a4dd-95cf-4bd2-8599-b4e1dc7a14a2.html"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/21/news/guerra_russia_ucraina_missili_kiev_colpito_ospedale_pediatrico-425538771/"
       },
       "analysis": {
-        "mainFact": "In Portogallo è stata promulgata la cosiddetta 'legge del burqa'.",
-        "whyItMatters": "Il Parlamento portoghese aveva approvato la legge il 17 luglio scorso con i voti favorevoli dei partiti di governo (Psd e Cds), di Iniziativa liberale e di Chega, partito dell'ultradestra",
+        "mainFact": "Un attacco missilistico russo su Kiev è durato nove ore, causando 17 morti e colpendo un ospedale pediatrico e strutture della Croce Rossa.",
+        "whyItMatters": "Von der Leyen: “Priorità urgente”.",
         "confirmedFacts": [
-          "In Portogallo è stata promulgata la cosiddetta 'legge del burqa'.",
-          "Il Parlamento portoghese aveva approvato la legge il 17 luglio scorso con i voti favorevoli dei partiti di governo (Psd e Cds), di Iniziativa liberale e di Chega, partito dell'ultradestra",
-          "\"In linea con sentenze dalla Corte europea dei diritti umani\", scrive il Presidente Seguro"
+          "Un attacco missilistico russo su Kiev è durato nove ore, causando 17 morti e colpendo un ospedale pediatrico e strutture della Croce Rossa.",
+          "Von der Leyen: “Priorità urgente”.",
+          "Colpito un ospedale pediatrico",
+          "Il ministero della Difesa russo ha affermato di aver colpito \"strutture militari-industriali, un centro di trasporto e logistica e alcuni magazzini\", a Kiev e nella regione circostante.",
+          "Notte d'inferno a Kiev, colpita da un massiccio attacco missilistico russo, responsabile alla fine di un altissimo numero di vittime civili.",
+          "Zelensky: “Ci servono intercettori Patriot, salvano vite”.",
+          "Almeno 16 morti, colpito anche un ospedale pediatrico.",
+          "Missili di Putin su Kiev, 17 morti."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Portogallo",
-          "Presidente Seguro",
-          "Corte europea dei diritti umani"
+          "Kiev",
+          "Croce Rossa"
         ],
         "numbersAndDates": [
+          "Almeno 16 morti, colpito anche un ospedale pediatrico.",
+          "Missili di Putin su Kiev, 17 morti.",
           "17"
         ]
       }
     },
     {
-      "id": "story-728b678478635366",
-      "title": "Evergrande, il fondatore del colosso immobiliare cinese condannato all’ergastolo",
-      "summary": "Secondo quanto accertato dal tribunale e riportato dalla Cctv, tra il 2016 e il 2021 Evergrande, Evergrande Real Estate e Xu avrebbero gonfiato gli asset e nascosto le passività attraverso «frodi finanziarie continue e su larga scala»",
-      "spokenText": "Xu Jiayin, fondatore del colosso immobiliare Evergrande, è stato condannato all'ergastolo dal tribunale intermedio di Shenzhen. Secondo quanto ricostruito dalla China Central Television, tra il 2016 e il 2021 il gruppo e lo stesso Xu avrebbero orchestrato frodi finanziarie continue e su larga scala per gonfiare gli asset e nascondere le passività. Oltre alla reclusione, per l'imprenditore emerso da umili origini nella Cina rurale è scattata la revoca a vita dei diritti politici e la confisca di tutti i beni personali.",
-      "category": "attualita",
+      "id": "story-650fae7c830d8314",
+      "title": "Salgono a diciotto i casi di contagio di febbre del Nilo nell'Oristanese",
+      "summary": "Un settantenne e un cinquantenne ricoverati all'ospedale San Martino",
+      "spokenText": "Salgono a diciotto i casi confermati di febbre del Nilo nell’Oristanese. L’ultimo aggiornamento riguarda due pazienti, un ultrasettantenne e un ultracinquantenne, che hanno manifestato i sintomi della West Nile e per i quali è arrivata la conferma diagnostica. Entrambi sono attualmente ricoverati all’ospedale San Martino di Oristano, struttura che sta seguendo il quadro clinico dei due uomini.",
+      "category": "salute",
       "tags": [
-        "attualita",
-        "xu jiayin",
-        "evergrande",
-        "evergrande real estate",
-        "tribunale intermedio di shenzhen"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 33,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/evergrande-fondatore-colosso-immobiliare-cinese-condannato-all-ergastolo-AJGWEGq"
-      },
-      "analysis": {
-        "mainFact": "Xu Jiayin, è stato condannato all'ergastolo da un tribunale cinese per una serie di reati finanziari.",
-        "whyItMatters": "Xu Jiayin, è stato condannato all'ergastolo da un tribunale cinese per una serie di reati finanziari.",
-        "confirmedFacts": [
-          "Xu Jiayin, è stato condannato all'ergastolo da un tribunale cinese per una serie di reati finanziari.",
-          "Secondo quanto accertato dal tribunale e riportato dalla Cctv, tra il 2016 e il 2021 Evergrande, Evergrande Real Estate e Xu avrebbero gonfiato gli asset e nascosto le passività attraverso \"frodi finanziarie continue e su larga scala\".",
-          "Nello stesso giorno, il tribunale di Shenzhen ha condannato in primo grado altri cinque dirigenti di alto livello di Evergrande a pene comprese tra 18 e sei anni di reclusione.",
-          "Hui, noto anche come Xu Jiayin, è emerso da umili origini nella Cina rurale, dove è stato cresciuto da sua nonna prima di avventurarsi nello sviluppo immobiliare e fondare Evergrande nel 1996.",
-          "Il tribunale intermedio di Shenzhen ha inoltre condannato Xu alla revoca a vita dei diritti politici e alla confisca di tutti i suoi beni personali.",
-          "Lo riferisce la China Central Television (Cctv), secondo cui il gruppo Evergrande è stato multato per 8,82 miliardi di yuan (circa 1,3 miliardi di dollari), mentre Evergrande Real Estate dovrà pagare una multa di 7 miliardi di yuan."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Xu Jiayin",
-          "Evergrande",
-          "Evergrande Real Estate",
-          "tribunale intermedio di Shenzhen"
-        ],
-        "numbersAndDates": [
-          "Nello stesso giorno, il tribunale di Shenzhen ha condannato in primo grado altri cinque dirigenti di alto livello di Evergrande a pene comprese tra 18 e sei anni di reclusione.",
-          "Hui, noto anche come Xu Jiayin, è emerso da umili origini nella Cina rurale, dove è stato cresciuto da sua nonna prima di avventurarsi nello sviluppo immobiliare e fondare Evergrande nel 1996.",
-          "Lo riferisce la China Central Television (Cctv), secondo cui il gruppo Evergrande è stato multato per 8,82 miliardi di yuan (circa 1,3 miliardi di dollari), mentre Evergrande Real Estate dovrà pagare una multa di 7 miliardi di yuan."
-        ]
-      }
-    },
-    {
-      "id": "story-53b0db381c49ce4c",
-      "title": "Fed: dai verbali focus su inflazione e rischi AI su stabilità finanziaria",
-      "summary": "Il Fomc ha discusso, nei verbali della riunione del 28-29 luglio da poco diffusi, due rischi distinti legati all’intelligenza artificiale. Il primo riguarda l’inflazione. Alcuni partecipanti hanno giudicato che il...",
-      "spokenText": "Dai verbali della riunione del Fomc di fine luglio, appena pubblicati, emerge un confronto interno su due rischi distinti legati all'intelligenza artificiale. Il primo riguarda l’inflazione.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "fed",
-        "fomc"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/fed-verbali-focus-inflazione-e-rischi-su-stabilita-finanziaria-AJ3eK2p"
-      },
-      "analysis": {
-        "mainFact": "Il Fomc ha discusso, nei verbali della riunione del 28-29 luglio da poco diffusi, due rischi distinti legati all'intelligenza artificiale.",
-        "whyItMatters": "Il primo riguarda l’inflazione.",
-        "confirmedFacts": [
-          "Il Fomc ha discusso, nei verbali della riunione del 28-29 luglio da poco diffusi, due rischi distinti legati all'intelligenza artificiale.",
-          "Il primo riguarda l’inflazione."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Fed",
-          "Fomc"
-        ],
-        "numbersAndDates": [
-          "28",
-          "29"
-        ]
-      }
-    },
-    {
-      "id": "story-4fb0380f14e216f2",
-      "title": "A 25mila km/s, è la stella più veloce della galassia",
-      "summary": "La stella S301, scoperta con lo strumento Gravity dell’Eso, si avvicina a Sagittarius A* – il buco nero al centro della nostra galassia – più di qualsiasi altro oggetto osservato prima: così vicino da sentirne gli effetti della rotazione. Orbitandogli intorno, raggiunge una velocità di 25mila km/s",
-      "spokenText": "È S301, l’astro più rapido mai osservato nella nostra galassia, individuato grazie allo strumento Gravity dell’ESO. La sua orbita attorno a Sagittarius A*, il buco nero al centro della Via Lattea, è strettissima: nel punto di massimo avvicinamento arriva ad appena 136-142 raggi di Schwarzschild, una distanza circa dieci volte inferiore a quella raggiunta da S2, la sorgente più luminosa finora usata per verificare gli effetti relativistici nel Centro galattico. La GRAVITY Collaboration ha misurato un periodo orbitale di soli 8,7 anni, il più breve mai stabilito per una stella confermata in quella regione. La debolezza di S301, con una magnitudine K di 19,3, aveva a lungo complicato la ricostruzione del suo moto. L’eccentricità vicina a 0,98 suggerisce un’origine legata al meccanismo di Hills: questo astro potrebbe essere appartenuto a un sistema binario, disgregato dalle forze mareali del buco nero, con la compagna scagliata via come stella iperveloce. Orbitandogli intorno, raggiunge una velocità di 25mila km/s.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "s301",
-        "sagittarius a",
-        "gravity collaboration",
-        "eso"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 63,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/19/stella-s301-sgr-a/"
-      },
-      "analysis": {
-        "mainFact": "La stella S301, scoperta con lo strumento Gravity dell'ESO, è la stella più veloce mai osservata nella galassia, raggiungendo circa 25.000-25.600 km/s.",
-        "whyItMatters": "Orbitandogli intorno, raggiunge una velocità di 25mila km/s",
-        "confirmedFacts": [
-          "La stella S301, scoperta con lo strumento Gravity dell'ESO, è la stella più veloce mai osservata nella galassia, raggiungendo circa 25.000-25.600 km/s.",
-          "Orbitandogli intorno, raggiunge una velocità di 25mila km/s",
-          "S301: la stella che sfida un buco nero a 25.600 km/s",
-          "Nel punto più vicino a Sagittarius A* , la stella S301 corre a circa 25.000-25.600 km/s, pari all’8,3-8,5% della velocità della luce.",
-          "La GRAVITY Collaboration le attribuisce un periodo orbitale di 8,7 anni, il più breve stabilito dal gruppo per una stella confermata attorno al buco nero al centro della Via Lattea.",
-          "Al pericentro S301 arriva ad appena 136-142 raggi di Schwarzschild dal buco nero, una distanza circa dieci volte inferiore rispetto a quella raggiunta da S2, la stella più luminosa e studiata usata finora per verificare gli effetti relativistici nel Centro galattico.",
-          "La sua debolezza, corrispondente a una magnitudine K di 19,3, aveva reso più difficile ricostruirne il movimento.",
-          "L’eccentricità prossima a 0,98 suggerisce inoltre un’origine legata al meccanismo di Hills: S301 potrebbe essere appartenuta a un sistema binario separato dalle forze mareali del buco nero, con la compagna espulsa come stella iperveloce."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "S301",
-          "Sagittarius A*",
-          "GRAVITY Collaboration",
-          "ESO"
-        ],
-        "numbersAndDates": [
-          "S301: la stella che sfida un buco nero a 25.600 km/s",
-          "Nel punto più vicino a Sagittarius A* , la stella S301 corre a circa 25.000-25.600 km/s, pari all’8,3-8,5% della velocità della luce.",
-          "La GRAVITY Collaboration le attribuisce un periodo orbitale di 8,7 anni, il più breve stabilito dal gruppo per una stella confermata attorno al buco nero al centro della Via Lattea.",
-          "Al pericentro S301 arriva ad appena 136-142 raggi di Schwarzschild dal buco nero, una distanza circa dieci volte inferiore rispetto a quella raggiunta da S2, la stella più luminosa e studiata usata finora per verificare gli effetti relativistici nel Centro galattico.",
-          "La sua debolezza, corrispondente a una magnitudine K di 19,3, aveva reso più difficile ricostruirne il movimento.",
-          "L’eccentricità prossima a 0,98 suggerisce inoltre un’origine legata al meccanismo di Hills: S301 potrebbe essere appartenuta a un sistema binario separato dalle forze mareali del buco nero, con la compagna espulsa come stella iperveloce.",
-          "25.000",
-          "25.600"
-        ]
-      }
-    },
-    {
-      "id": "story-9aaaceb71366a341",
-      "title": "Microsoft Copilot svela dati sensibili: basta chiedere",
-      "summary": "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica. The post Microsoft Copilot svela dati sensibili: basta chiedere appeared first on Punto Informatico.",
-      "spokenText": "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica. Dopo Reprompt e SearchLeak, gli esperti di Varonis hanno scoperto un'altra vulnerabilità di Copilot, denominata CoSnitch, che permette di esfiltrare dati sensibili dai sistemi aziendali. Era sufficiente chiedere all'assistente di eseguire un particolare comando non documentato. Questo parametro è ? Autorun=1 e consente l'esecuzione automatica del prompt indicato con il parametro ? Q=. Quando l'ignara vittima clicca sul link viene aperta la versione web di Copilot nella sessione attiva ed eseguito automaticamente il prompt indicato senza nessuna interazione. Microsoft ha risolto la vulnerabilità il 18 agosto.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "microsoft",
-        "varonis"
+        "salute",
+        "oristano",
+        "ospedale san martino"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 42,
+      "estimatedSeconds": 23,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/microsoft-copilot-svela-dati-sensibili-basta-chiedere/"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/salgono-a-diciotto-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_ea017a01-09c7-4d6b-99c7-1bc52a512e35.html"
       },
       "analysis": {
-        "mainFact": "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica.",
-        "whyItMatters": "Dopo Reprompt e SearchLeak , gli esperti di Varonis hanno scoperto un’altra vulnerabilità di Copilot , denominata CoSnitch, che permette di esfiltrare dati sensibili dai sistemi aziendali.",
+        "mainFact": "Salgono a diciotto i casi di contagio di febbre del Nilo nell'Oristanese.",
+        "whyItMatters": "Un ultrasettantenne e un ultracinquantenne, che hanno manifestato i sintomi della West Nile, hanno avuto la conferma e sono entrambi ricoverati all'ospedale San Martino di Oristano.",
         "confirmedFacts": [
-          "Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica.",
-          "Dopo Reprompt e SearchLeak , gli esperti di Varonis hanno scoperto un’altra vulnerabilità di Copilot , denominata CoSnitch, che permette di esfiltrare dati sensibili dai sistemi aziendali.",
-          "Era sufficiente chiedere all’assistente di eseguire un particolare comando non documentato.",
-          "Questo parametro è ? autorun=1 e consente l’esecuzione automatica del prompt indicato con il parametro ? q= .",
-          "&autorun=1 Quando l’ignara vittima clicca sul link viene aperta la versione web di Copilot nella sessione attiva ed eseguito automaticamente il prompt indicato senza nessuna interazione.",
-          "Microsoft ha risolto la vulnerabilità il 18 agosto.",
-          "Microsoft Copilot svela dati sensibili: basta chiedere Una vulnerabilità di Microsoft Copilot consentiva il furto di dati sensibili sfruttando un parametro non documentato per l'esecuzione automatica."
+          "Salgono a diciotto i casi di contagio di febbre del Nilo nell'Oristanese.",
+          "Un ultrasettantenne e un ultracinquantenne, che hanno manifestato i sintomi della West Nile, hanno avuto la conferma e sono entrambi ricoverati all'ospedale San Martino di Oristano.",
+          "Un settantenne e un cinquantenne ricoverati all'ospedale San Martino"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Microsoft",
-          "Varonis"
+          "Oristano",
+          "ospedale San Martino"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-70807617a1159ceb",
+      "title": "Violazione privacy minori: Discord disattiva i live stream",
+      "summary": "Discord ha sospeso le funzionalità video, dopo aver ricevuto un ordine dall'autorità del Brasile che ha ravvisato la violazione della privacy dei minori. The post Violazione privacy minori: Discord disattiva i live stream appeared first on Punto Informatico.",
+      "spokenText": "Discord ha sospeso in Brasile le funzionalità video Go Live e la condivisione dello schermo, dopo un ordine dell'autorità garante della privacy che ha ravvisato una violazione della privacy dei minori. La decisione arriva in seguito a un'indagine avviata all'inizio di agosto dalla Agência Nacional de Proteção de Dados, la ANPD, per verificare il rispetto da parte della piattaforma della legge sulla protezione dei minori, che entrerà in vigore nel marzo del 2026.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "discord",
+        "brasile",
+        "agencia nacional de protecao de dados anpd"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 30,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/violazione-privacy-minori-discord-disattiva-live-stream/"
+      },
+      "analysis": {
+        "mainFact": "Discord ha sospeso le funzionalità video Go Live e condivisione schermo in Brasile dopo un ordine dell'autorità garante della privacy che ha ravvisato una violazione della privacy dei minori.",
+        "whyItMatters": "Violazione privacy minori: Discord disattiva i live stream Discord ha sospeso le funzionalità video, dopo aver ricevuto un ordine dall'autorità del Brasile che ha ravvisato la violazione della privacy dei minori.",
+        "confirmedFacts": [
+          "Discord ha sospeso le funzionalità video Go Live e condivisione schermo in Brasile dopo un ordine dell'autorità garante della privacy che ha ravvisato una violazione della privacy dei minori.",
+          "Violazione privacy minori: Discord disattiva i live stream Discord ha sospeso le funzionalità video, dopo aver ricevuto un ordine dall'autorità del Brasile che ha ravvisato la violazione della privacy dei minori.",
+          "Funzionalità video troppo pericolose per i minori All’inizio di agosto, la Agência Nacional de Proteção de Dados (ANPD) del Brasile ha avviato un’indagine per verificare il rispetto da parte di Discord della legge sulla protezione dei minori in vigore da marzo 2026.",
+          "Discord è in disaccordo con l’autorità brasiliana, ma ha deciso di rispettare l’ordine."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Discord",
+          "Brasile",
+          "Agência Nacional de Proteção de Dados (ANPD)"
         ],
         "numbersAndDates": [
-          "Questo parametro è ? autorun=1 e consente l’esecuzione automatica del prompt indicato con il parametro ? q= .",
-          "&autorun=1 Quando l’ignara vittima clicca sul link viene aperta la versione web di Copilot nella sessione attiva ed eseguito automaticamente il prompt indicato senza nessuna interazione.",
-          "Microsoft ha risolto la vulnerabilità il 18 agosto."
+          "Funzionalità video troppo pericolose per i minori All’inizio di agosto, la Agência Nacional de Proteção de Dados (ANPD) del Brasile ha avviato un’indagine per verificare il rispetto da parte di Discord della legge sulla protezione dei minori in vigore da marzo 2026."
         ]
       }
     },
     {
-      "id": "story-8aa3893bebc6456b",
-      "title": "Balene giganti si stanno spostando nelle acque della Groenlandia a causa della scomparsa dei ghiacci marini",
-      "summary": "Balene giganti si stanno spostando nelle acque della Groenlandia a causa della scomparsa dei ghiacci marini. Nel 2007, sono state avvistate sette megattere, e nel 2024, ci sono stati 150 avvistamenti da nave di queste balene giganti.",
-      "spokenText": "Balene giganti, come megattere e balenottere, si stanno spostando in massa nelle acque della Groenlandia orientale, attratte dalla progressiva scomparsa dei ghiacci marini. Per capire la portata di questo cambiamento basta un dato: nel 2007 gli avvistamenti di megattere da nave erano appena sette, mentre nel 2024 quel numero è schizzato a centocinquanta. I ricercatori hanno condotto le prime indagini aeree sistematiche sui misticeti in questa regione durante le estati del 2015 e del 2024, combinando i sorvoli con le tracce di quindici balene dotate di etichetta satellitare e con le preziose testimonianze dei cacciatori Inuit. Mettendo insieme tutti questi tasselli, il quadro che emerge è quello che il professor Mads Peter Heide-Jørgensen, a capo della ricerca, ha definito un vero e proprio 'grande cambiamento di regime ecologico'. Nel 2007, sono state avvistate sette megattere, e nel 2024, ci sono stati 150 avvistamenti da nave di queste balene giganti.",
-      "category": "ambiente",
+      "id": "story-47a15ab7210b4ce4",
+      "title": "Piscina vietata al bimbo disabile, i genitori vincono la causa",
+      "summary": "Contro un centro estivo. Tribunale: mancata partecipazione è discriminazione indiretta",
+      "spokenText": "Una piscina vietata a un bambino disabile durante le attività del centro estivo. È quanto accaduto la scorsa estate nella provincia bolognese, come ricostruito dal Corriere di Bologna. I genitori avevano iscritto il figlio al centro estivo organizzato dall'Unione Reno Galliera, ma il minore non ha potuto partecipare alle uscite ricreative e sportive del venerdì presso la piscina gestita dal centro sportivo Galliera Asd. La seconda sezione civile del Tribunale di Bologna, con la giudice Carolina Gentili, ha stabilito che quella mancata partecipazione ha costituito un'attività discriminatoria indiretta. Un'ordinanza urgente, emessa già la scorsa estate dopo la denuncia dei genitori, aveva imposto all'ente di eliminare immediatamente la discriminazione. Proprio per questo intervento tempestivo, il tribunale non ha riconosciuto danni patrimoniali o morali. La pronuncia conferma che non garantire a un bambino con disabilità la piena inclusione nelle attività insieme ai compagni configura una violazione del principio di non discriminazione.",
+      "category": "diritti",
       "tags": [
-        "ambiente"
+        "diritti",
+        "tribunale di bologna",
+        "unione reno galliera",
+        "centro sportivo galliera asd"
       ],
       "importance": 85,
       "mustInclude": true,
       "estimatedSeconds": 60,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/piscina-vietata-al-bimbo-disabile-i-genitori-vincono-la-causa_d9a814a2-46d0-4225-8d4b-4bf34d46d8a1.html"
       },
       "analysis": {
-        "mainFact": "Balene giganti si stanno spostando nelle acque della Groenlandia a causa della scomparsa dei ghiacci marini.",
-        "whyItMatters": "Nel 2007, sono state avvistate sette megattere, e nel 2024, ci sono stati 150 avvistamenti da nave di queste balene giganti.",
+        "mainFact": "Piscina vietata al bimbo disabile, i genitori vincono la causa",
+        "whyItMatters": "Costituisce \"attività discriminatoria indiretta\" non garantire a un bambino disabile l'uscita in piscina con gli altri compagni del centro estivo .",
         "confirmedFacts": [
-          "Balene giganti si stanno spostando nelle acque della Groenlandia a causa della scomparsa dei ghiacci marini.",
-          "Nel 2007, sono state avvistate sette megattere, e nel 2024, ci sono stati 150 avvistamenti da nave di queste balene giganti.",
-          "Le prime indagini aeree sistematiche dei misticeti - un gruppo che include balenottere comuni, minori e megattere - al largo della costa orientale della Groenlandia sono state condotte dai ricercatori durante le estati del 2015 e del 2024.",
-          "Hanno combinato queste informazioni con le tracce di 15 balene dotate di etichetta satellitare e le testimonianze dei cacciatori Inuit - costruendo tutti un quadro di quello che il ricercatore principale, il Prof. Mads Peter Heide-Jørgensen, ha definito un 'grande cambiamento di regime ecologico'."
+          "Piscina vietata al bimbo disabile, i genitori vincono la causa",
+          "Costituisce \"attività discriminatoria indiretta\" non garantire a un bambino disabile l'uscita in piscina con gli altri compagni del centro estivo .",
+          "I fatti - raccontati dal Corriere di Bologna - risalgono alla scorsa estate, quando i genitori di un bambino disabile iscrivono il figlio al centro estivo organizzato dall'Unione Reno Galliera nella provincia bolognese.",
+          "Per la giudice Carolina Gentili della seconda sezione civile del Tribunale di Bologna: \"La mancata partecipazione del minore alle attività ricreativo/sportive del venerdì previste dal centro sportivo Galliera Asd, facente capo all'Unione, per il venerdì, costituiva attività discriminatoria indiretta\"."
         ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "Le prime indagini aeree sistematiche dei misticeti - un gruppo che include balenottere comuni, minori e megattere - al largo della costa orientale della Groenlandia sono state condotte dai ricercatori durante le estati del 2015 e del 2024.",
-          "Hanno combinato queste informazioni con le tracce di 15 balene dotate di etichetta satellitare e le testimonianze dei cacciatori Inuit - costruendo tutti un quadro di quello che il ricercatore principale, il Prof. Mads Peter Heide-Jørgensen, ha definito un 'grande cambiamento di regime ecologico'.",
-          "2007",
-          "2024",
-          "150"
-        ]
+        "uncertainties": [
+          "Non sono stati riconosciuti i danni patrimoniali o morali per via dell'ordinanza urgente emessa la scorsa estate, dopo la denuncia dei genitori, con la quale si è ordinato all'ente di eliminare la discriminazione indiretta."
+        ],
+        "peopleAndOrganizations": [
+          "Tribunale di Bologna",
+          "Unione Reno Galliera",
+          "centro sportivo Galliera Asd"
+        ],
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-8da4e069d3dd2044",
-      "title": "L'Australia è indignata dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza",
-      "summary": "L'Australia è indignata dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza. Frankcom era un'operatrice umanitaria australiana della World Central Kitchen (WCK) uccisa a Gaza con altri sei colleghi da un attacco aereo israeliano nell'aprile 2024.",
-      "spokenText": "L'Australia ha espresso forte indignazione dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza. Canberra ha convocato l'ambasciatore israeliano per manifestare la propria contrarietà. Frankcom, cittadina australiana della World Central Kitchen, è stata uccisa nell'aprile 2024 insieme ad altri sei colleghi da un attacco aereo israeliano. La decisione su Frankcom contrasta con l'annuncio dell'IDF, nella stessa dichiarazione, di avviare un'indagine penale sull'uccisione della bambina palestinese di cinque anni Hind Rajab a Gaza nel 2024. L'IDF ha inoltre dichiarato di non aver trovato motivi per un'indagine penale sull'uccisione di quattro dipendenti di Médecins Sans Frontières, uccisi in due attacchi separati nel novembre 2023 e nel febbraio 2024. \"Lo abbiamo visto ancora e ancora. \" L'ex capo delle forze di difesa australiane Mark Binskin ha consegnato un rapporto nell'agosto 2024 che ha rilevato \"gravi carenze\" nelle procedure dell'IDF che hanno portato all'uccisione di Frankcom e dei suoi colleghi. L'IDF ha anche dichiarato che indagherà sull'uccisione di 15 palestinesi, inclusi soccorritori e un operatore ONU, nel marzo 2025, i cui corpi sono stati trovati sepolti in fosse poco profonde una settimana dopo accanto ai veicoli schiacciati.",
-      "category": "diritti",
+      "id": "story-222d9befdca5b415",
+      "title": "Il debito Usa vola a 40mila miliardi. Il Tesoro raddoppia gli acquisti di bond",
+      "summary": "L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran. Il Tesoro vara un massiccio piano di riacquisto di Treasury a lunga scadenza per arginare l’impennata dei rendimenti",
+      "spokenText": "L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran. Questo ha probabilmente spinto il segretario al Tesoro Scott Bessent ad annunciare nuovi interventi: tra il 9 settembre e il 4 novembre riacquisterà titoli a lunga, tra i 10 e i 30 anni, in tranche ogni volta «almeno raddoppiate» a 4 miliardi. Ci sono ragioni specifiche per la nuova corsa del debito nazionale, composto da oltre 32mila miliardi in titoli detenuti da investitori e da governi esteri (pari al 101% del Pil) e quasi 8mila miliardi da enti governativi. Sei mesi fa, il Congressional Budget Office aveva previsto che avrebbe raggiunto i 39.400 miliardi di dollari nell’anno fiscale in corso. Poi l’improvvisa guerra in Iran, al prezzo in continua ascesa di 37,5 miliardi: con il caro-petrolio dovuto al blocco dello Stretto di Hormuz e la necessità, sostenuta da Trump, di drastiche escalation della spesa per la Difesa. Il Tesoro vara un massiccio piano di riacquisto di Treasury a lunga scadenza per arginare l’impennata dei rendimenti. Due giorni fa il Tesoro ha invece comunicato che «il debito ha superato i 39.900 miliardi di dollari» ed è in continua crescita.",
+      "category": "attualita",
       "tags": [
-        "diritti",
-        "australia",
-        "world central kitchen",
-        "idf"
+        "attualita",
+        "scott bessent",
+        "iran",
+        "congressional budget office"
       ],
-      "importance": 75,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 77,
+      "estimatedSeconds": 82,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/il-debito-usa-vola-40mila-miliardi-tesoro-raddoppia-acquisti-bond-AJlgxpp"
       },
       "analysis": {
-        "mainFact": "L'Australia è indignata dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza.",
-        "whyItMatters": "Frankcom era un'operatrice umanitaria australiana della World Central Kitchen (WCK) uccisa a Gaza con altri sei colleghi da un attacco aereo israeliano nell'aprile 2024.",
+        "mainFact": "L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran.",
+        "whyItMatters": "Questo ha probabilmente spinto il segretario al Tesoro Scott Bessent ad annunciare nuovi interventi: tra il 9 settembre e il 4 novembre riacquisterà titoli a lunga, tra i 10 e i 30 anni, in tranche ogni volta «almeno raddoppiate» a 4 miliardi.",
         "confirmedFacts": [
-          "L'Australia è indignata dopo che Israele ha deciso di non aprire un'indagine penale sull'uccisione dell'operatrice umanitaria Zomi Frankcom a Gaza.",
-          "Frankcom era un'operatrice umanitaria australiana della World Central Kitchen (WCK) uccisa a Gaza con altri sei colleghi da un attacco aereo israeliano nell'aprile 2024.",
-          "\"Lo abbiamo visto ancora e ancora. \" L'ex capo delle forze di difesa australiane Mark Binskin ha consegnato un rapporto nell'agosto 2024 che ha rilevato \"gravi carenze\" nelle procedure dell'IDF che hanno portato all'uccisione di Frankcom e dei suoi colleghi.",
-          "La decisione su Frankcom contrasta con l'annuncio dell'IDF nella stessa dichiarazione di avviare un'indagine penale sull'uccisione da parte delle forze israeliane della bambina palestinese di cinque anni Hind Rajab a Gaza nel 2024.",
-          "Nella stessa dichiarazione, l'IDF ha anche affermato di non aver trovato motivi per un'indagine penale sull'uccisione di quattro dipendenti di Médecins Sans Frontières (MSF), uccisi in due attacchi separati nel novembre 2023 e nel febbraio 2024.",
-          "L'IDF ha anche dichiarato che indagherà sull'uccisione di 15 palestinesi, inclusi soccorritori e un operatore ONU, nel marzo 2025, i cui corpi sono stati trovati sepolti in fosse poco profonde una settimana dopo accanto ai veicoli schiacciati."
+          "L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran.",
+          "Questo ha probabilmente spinto il segretario al Tesoro Scott Bessent ad annunciare nuovi interventi: tra il 9 settembre e il 4 novembre riacquisterà titoli a lunga, tra i 10 e i 30 anni, in tranche ogni volta «almeno raddoppiate» a 4 miliardi.",
+          "Ci sono ragioni specifiche per la nuova corsa del debito nazionale, composto da oltre 32mila miliardi in titoli detenuti da investitori e da governi esteri (pari al 101% del Pil) e quasi 8mila miliardi da enti governativi.",
+          "Sei mesi fa, il Congressional Budget Office aveva previsto che avrebbe raggiunto i 39.400 miliardi di dollari nell’anno fiscale in corso.",
+          "Poi l’improvvisa guerra in Iran, al prezzo in continua ascesa di 37,5 miliardi: con il caro-petrolio dovuto al blocco dello Stretto di Hormuz e la necessità, sostenuta da Trump, di drastiche escalation della spesa per la Difesa.",
+          "Il Tesoro vara un massiccio piano di riacquisto di Treasury a lunga scadenza per arginare l’impennata dei rendimenti",
+          "Il Tesoro raddoppia gli acquisti di bond L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran.",
+          "Due giorni fa il Tesoro ha invece comunicato che «il debito ha superato i 39.900 miliardi di dollari» ed è in continua crescita."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Australia",
-          "World Central Kitchen",
-          "IDF"
+          "Scott Bessent",
+          "Iran",
+          "Congressional Budget Office"
         ],
         "numbersAndDates": [
-          "\"Lo abbiamo visto ancora e ancora. \" L'ex capo delle forze di difesa australiane Mark Binskin ha consegnato un rapporto nell'agosto 2024 che ha rilevato \"gravi carenze\" nelle procedure dell'IDF che hanno portato all'uccisione di Frankcom e dei suoi colleghi.",
-          "La decisione su Frankcom contrasta con l'annuncio dell'IDF nella stessa dichiarazione di avviare un'indagine penale sull'uccisione da parte delle forze israeliane della bambina palestinese di cinque anni Hind Rajab a Gaza nel 2024.",
-          "Nella stessa dichiarazione, l'IDF ha anche affermato di non aver trovato motivi per un'indagine penale sull'uccisione di quattro dipendenti di Médecins Sans Frontières (MSF), uccisi in due attacchi separati nel novembre 2023 e nel febbraio 2024.",
-          "L'IDF ha anche dichiarato che indagherà sull'uccisione di 15 palestinesi, inclusi soccorritori e un operatore ONU, nel marzo 2025, i cui corpi sono stati trovati sepolti in fosse poco profonde una settimana dopo accanto ai veicoli schiacciati.",
-          "2024"
+          "Ci sono ragioni specifiche per la nuova corsa del debito nazionale, composto da oltre 32mila miliardi in titoli detenuti da investitori e da governi esteri (pari al 101% del Pil) e quasi 8mila miliardi da enti governativi.",
+          "Sei mesi fa, il Congressional Budget Office aveva previsto che avrebbe raggiunto i 39.400 miliardi di dollari nell’anno fiscale in corso.",
+          "Poi l’improvvisa guerra in Iran, al prezzo in continua ascesa di 37,5 miliardi: con il caro-petrolio dovuto al blocco dello Stretto di Hormuz e la necessità, sostenuta da Trump, di drastiche escalation della spesa per la Difesa.",
+          "Due giorni fa il Tesoro ha invece comunicato che «il debito ha superato i 39.900 miliardi di dollari» ed è in continua crescita.",
+          "9",
+          "4",
+          "10",
+          "30"
         ]
       }
     },
     {
-      "id": "story-4b4fb86fface84c0",
-      "title": "A causa di un problema di controllo dell'assetto del veicolo spaziale commerciale, il veicolo LINK non catturerà né porterà a un'altitudine superiore",
-      "summary": "A causa di un problema di controllo dell'assetto del veicolo spaziale commerciale, il veicolo LINK non catturerà né porterà a un'altitudine superiore il satellite Swift della NASA come previsto. LINK tenterà comunque di condurre operazioni di rendezvous e prossimità con il Neil Gehrels Swift Observatory della NASA per dimostrare capacità chiave per il futuro dell'esplorazione spaziale.",
-      "spokenText": "Un problema al sistema di controllo dell'assetto ha cambiato i piani di LINK, il veicolo spaziale commerciale che avrebbe dovuto catturare e sollevare a un’orbita più alta il satellite Swift della NASA. L’operazione di manutenzione robotica non andrà quindi come previsto, ma la missione non si ferma: LINK tenterà comunque manovre di rendezvous e prossimità con il Neil Gehrels Swift Observatory, per testare capacità fondamentali per il futuro dell’esplorazione spaziale. Swift studia l’universo in continua evoluzione da oltre vent’anni, ma dopo 21 anni di attività scientifica la sua orbita terrestre bassa ha cominciato a decadere rapidamente, complici i picchi recenti dell’attività solare. La NASA ha colto questa finestra per accelerare lo sviluppo della tecnologia americana di servicing orbitale, assegnando nel settembre 2025 un contratto a Katalyst Space con l’obiettivo ambizioso di allestire una missione robotica in meno di dodici mesi. Basso 19 agosto 2026 COMUNICATO 26-067 Quartier generale NASA Il Neil Gehrels Swift Observatory della NASA, mostrato in questo concept artistico, orbita attorno alla Terra da più di 20 anni, studiando l'universo in continua evoluzione.",
+      "id": "story-1a7a568aed10977d",
+      "title": "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm",
+      "summary": "L’operazione prevede due offerte pubbliche di scambio su Banca Generali e su Banco Bpm, e renderebbe Crédit Agricole e il Leone grandi soci del futuro polo. Sul piatto un extra dividendo da 4 miliardi ai soci senesi, anche in azioni Generali",
+      "spokenText": "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm. Il progetto punta a creare un gruppo con una capitalizzazione aggregata di circa 70 miliardi. Sul piatto un extra dividendo da 4 miliardi ai soci senesi, anche in azioni Generali. L’operazione prevede due offerte pubbliche di scambio su Banca Generali e su Banco Bpm, e renderebbe Crédit Agricole e il Leone grandi soci del futuro polo. Una doppia offerta per rilevare Banco Bpm e Banca Generali nel tentativo di resistere, con un progetto industriale alternativo, all'opas da 30,6 miliardi messa in campo da Intesa Sanpaolo, che punta a conquistare Mediobanca, la quota nelle Generali e metà della rete del Monte, cedendone l'altra metà al gruppo Unipol. Con il corollario, tutt'altro che secondario, di riportare le Generali, qualora aderissero all'offerta, nell'azionariato di Siena, con una quota di circa il 10% del capitale. L'ingresso del Leone, che si diluirà in caso di fusione con Bpm, potrebbe costituire la base su cui edificare una partnership nella bancassicurazione, anche alla luce del fatto che a fine 2027 scadrà la jv tra il Monte e Axa. Mps proporrà un dividendo straordinario da 4 miliardi.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "mps",
+        "banca generali",
+        "banco bpm",
+        "credit agricole",
+        "generali",
+        "intesa sanpaolo",
+        "mediobanca",
+        "lovaglio"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 79,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/economia/2026/08/20/news/mps_cda_straordinario_lovaglio_doppia_offerta_supercedola_soci-425537771/"
+      },
+      "analysis": {
+        "mainFact": "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm",
+        "whyItMatters": "Il progetto punta a creare un gruppo con una capitalizzazione aggregata di circa 70 miliardi.",
+        "confirmedFacts": [
+          "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm",
+          "Il progetto punta a creare un gruppo con una capitalizzazione aggregata di circa 70 miliardi.",
+          "Sul piatto un extra dividendo da 4 miliardi ai soci senesi, anche in azioni Generali",
+          "Una doppia offerta per rilevare Banco Bpm e Banca Generali nel tentativo di resistere, con un progetto industriale alternativo, all'opas da 30,6 miliardi messa in campo da Intesa Sanpaolo, che punta a conquistare Mediobanca, la quota nelle Generali e metà della rete del Monte, cedendone l'altra metà al gruppo Unipol.",
+          "Con il corollario, tutt'altro che secondario, di riportare le Generali, qualora aderissero all'offerta, nell'azionariato di Siena, con una quota di circa il 10% del capitale.",
+          "L'ingresso del Leone, che si diluirà in caso di fusione con Bpm, potrebbe costituire la base su cui edificare una partnership nella bancassicurazione, anche alla luce del fatto che a fine 2027 scadrà la jv tra il Monte e Axa.",
+          "Mps proporrà un dividendo straordinario da 4 miliardi"
+        ],
+        "uncertainties": [
+          "L’operazione prevede due offerte pubbliche di scambio su Banca Generali e su Banco Bpm, e renderebbe Crédit Agricole e il Leone grandi soci del futuro polo."
+        ],
+        "peopleAndOrganizations": [
+          "Mps",
+          "Banca Generali",
+          "Banco Bpm",
+          "Crédit Agricole",
+          "Generali",
+          "Intesa Sanpaolo",
+          "Mediobanca",
+          "Lovaglio"
+        ],
+        "numbersAndDates": [
+          "Sul piatto un extra dividendo da 4 miliardi ai soci senesi, anche in azioni Generali",
+          "Una doppia offerta per rilevare Banco Bpm e Banca Generali nel tentativo di resistere, con un progetto industriale alternativo, all'opas da 30,6 miliardi messa in campo da Intesa Sanpaolo, che punta a conquistare Mediobanca, la quota nelle Generali e metà della rete del Monte, cedendone l'altra metà al gruppo Unipol.",
+          "Con il corollario, tutt'altro che secondario, di riportare le Generali, qualora aderissero all'offerta, nell'azionariato di Siena, con una quota di circa il 10% del capitale.",
+          "L'ingresso del Leone, che si diluirà in caso di fusione con Bpm, potrebbe costituire la base su cui edificare una partnership nella bancassicurazione, anche alla luce del fatto che a fine 2027 scadrà la jv tra il Monte e Axa.",
+          "Mps proporrà un dividendo straordinario da 4 miliardi",
+          "70"
+        ]
+      }
+    },
+    {
+      "id": "story-05b0b5e07180e0b5",
+      "title": "Un link usava i permessi di Copilot Personal: le PMI italiane verifichino i servizi collegati",
+      "summary": "Un solo link poteva indurre Microsoft Copilot Personal a eseguire automaticamente un prompt malevolo, leggere email, calendari, file e conversazioni già accessibili all’assistente e inviare i dati a u...",
+      "spokenText": "Bastava un solo link per trasformare Microsoft Copilot Personal in un canale di fuga di dati. Il meccanismo era tanto semplice quanto insidioso: quel collegamento sfruttava la sessione già autenticata e i permessi concessi dall’utente per eseguire in automatico un prompt malevolo. Durante queste conversazioni l’assistente ha anche indicato il parametro non documentato autorun=1. La distinzione è decisiva, perché la ricerca riguarda Copilot Personal e non dimostra che lo stesso meccanismo abbia funzionato contro Microsoft 365 Copilot. Per le piccole e medie imprese italiane la lezione è chiara: il perimetro da controllare comprende anche gli account personali usati su dispositivi o browser di lavoro e i servizi cloud collegati dagli utenti.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "microsoft copilot personal",
+        "pmi italiane",
+        "microsoft 365 copilot"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 45,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/un-link-usava-i-permessi-di-copilot-personal-le-pmi-italiane-verifichino-i-servizi-collegati"
+      },
+      "analysis": {
+        "mainFact": "Un solo link poteva indurre Microsoft Copilot Personal a eseguire automaticamente un prompt malevolo, leggere email, calendari, file e conversazioni già accessibili all'assistente e inviare i dati a un server esterno.",
+        "whyItMatters": "Per le PMI italiane il perimetro da controllare comprende anche gli account personali utilizzati su dispositivi o browser di lavoro e i servizi cloud collegati dagli utenti.",
+        "confirmedFacts": [
+          "Un solo link poteva indurre Microsoft Copilot Personal a eseguire automaticamente un prompt malevolo, leggere email, calendari, file e conversazioni già accessibili all'assistente e inviare i dati a un server esterno.",
+          "Per le PMI italiane il perimetro da controllare comprende anche gli account personali utilizzati su dispositivi o browser di lavoro e i servizi cloud collegati dagli utenti.",
+          "Durante queste conversazioni l’assistente ha indicato il parametro non documentato autorun=1 .",
+          "Il link malevolo sfruttava la sessione autenticata e le autorizzazioni già concesse dall’utente.",
+          "La distinzione è decisiva, perché la ricerca riguarda Copilot Personal e non dimostra che lo stesso meccanismo abbia funzionato contro Microsoft 365 Copilot."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Microsoft Copilot Personal",
+          "PMI italiane",
+          "Microsoft 365 Copilot"
+        ],
+        "numbersAndDates": [
+          "Durante queste conversazioni l’assistente ha indicato il parametro non documentato autorun=1 .",
+          "La distinzione è decisiva, perché la ricerca riguarda Copilot Personal e non dimostra che lo stesso meccanismo abbia funzionato contro Microsoft 365 Copilot."
+        ]
+      }
+    },
+    {
+      "id": "story-cbfca8d9a13231a6",
+      "title": "L’AI di Google devierà i voli per evitare le scie di condensazione",
+      "summary": "Le scie degli aerei sembrano innocue ma causano un terzo dell'impatto climatico dell'aviazione. L'AI di Google le prevede e devia le rotte. The post L’AI di Google devierà i voli per evitare le scie di condensazione appeared first on Punto Informatico.",
+      "spokenText": "Quelle linee bianche che gli aerei disegnano e che lentamente si allargano fino a svanire, le scie di condensazione, sembrano del tutto innocue. Eppure, sono responsabili di circa un terzo dell’impatto climatico totale dell’aviazione. E finora, a differenza del carburante o dei motori, era un fronte su cui non si poteva intervenire direttamente. Google ha sviluppato un’intelligenza artificiale capace di prevedere con precisione dove e quando queste scie si formeranno. La vera novità è che questa previsione si trasforma in un’azione concreta: deviare le rotte degli aerei per evitare le zone a rischio. Non si tratta di una scelta lasciata al passeggero, ma di una modifica operativa che agisce direttamente sull’impatto climatico del volo. Per dare una dimensione all’intervento, saranno deviati diecimila voli sull’Atlantico. Diecimila rotte leggermente spostate per impedire la formazione di quelle strisce bianche che, ora lo sappiamo, di innocuo hanno ben poco.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 58,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/ai-google-deviera-voli-evitare-scie-condensazione/"
+      },
+      "analysis": {
+        "mainFact": "Google ha sviluppato un'AI che prevede dove si formeranno le scie di condensazione e devia le rotte per evitarle.",
+        "whyItMatters": "Ma prevedere e deviare le rotte per evitare le scie è un intervento diretto sull’impatto climatico dell’aviazione, non una scelta del consumatore, ma una modifica operativa.",
+        "confirmedFacts": [
+          "Google ha sviluppato un'AI che prevede dove si formeranno le scie di condensazione e devia le rotte per evitarle.",
+          "Ma prevedere e deviare le rotte per evitare le scie è un intervento diretto sull’impatto climatico dell’aviazione, non una scelta del consumatore, ma una modifica operativa.",
+          "Sono responsabili di circa un terzo dell’impatto climatico totale dell’aviazione.",
+          "Quelle linee bianche che gli aerei lasciano nel cielo, le scie di condensazione , sembrano innocue.",
+          "Per evitarli saranno deviati 10.000 voli sull’Atlantico.",
+          "Le scie degli aerei sembrano innocue ma causano un terzo dell'impatto climatico dell'aviazione.",
+          "L'AI di Google devierà i voli per evitare le scie di condensazione Le scie degli aerei sembrano innocue ma causano un terzo dell'impatto climatico dell'aviazione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Google"
+        ],
+        "numbersAndDates": [
+          "Per evitarli saranno deviati 10.000 voli sull’Atlantico."
+        ]
+      }
+    },
+    {
+      "id": "story-33fb243e14c95916",
+      "title": "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica",
+      "summary": "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica. I premi della NASA, per un totale di circa 30 milioni di dollari, forniranno supporto pluriennale alle università selezionate per costruire i loro team.",
+      "spokenText": "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica. I premi, per un totale di circa 30 milioni di dollari, forniranno supporto pluriennale alle università selezionate per costruire i loro team e condurre ricerca. Per più di 10 anni, la University Leadership Initiative della NASA ha promosso idee audaci, ricerca collaborativa e soluzioni guidate da team.",
       "category": "scienza",
       "tags": [
         "scienza",
         "nasa",
-        "katalyst space",
-        "link",
-        "neil gehrels swift observatory"
+        "university leadership initiative"
       ],
-      "importance": 75,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 70,
+      "estimatedSeconds": 24,
       "source": {
         "name": "NASA Releases",
-        "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/"
+        "url": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/"
       },
       "analysis": {
-        "mainFact": "A causa di un problema di controllo dell'assetto del veicolo spaziale commerciale, il veicolo LINK non catturerà né porterà a un'altitudine superiore il satellite Swift della NASA come previsto.",
-        "whyItMatters": "LINK tenterà comunque di condurre operazioni di rendezvous e prossimità con il Neil Gehrels Swift Observatory della NASA per dimostrare capacità chiave per il futuro dell'esplorazione spaziale.",
+        "mainFact": "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica.",
+        "whyItMatters": "I premi della NASA, per un totale di circa 30 milioni di dollari, forniranno supporto pluriennale alle università selezionate per costruire i loro team e condurre ricerca.",
         "confirmedFacts": [
-          "A causa di un problema di controllo dell'assetto del veicolo spaziale commerciale, il veicolo LINK non catturerà né porterà a un'altitudine superiore il satellite Swift della NASA come previsto.",
-          "LINK tenterà comunque di condurre operazioni di rendezvous e prossimità con il Neil Gehrels Swift Observatory della NASA per dimostrare capacità chiave per il futuro dell'esplorazione spaziale.",
-          "Dopo 21 anni di operazioni scientifiche, l'orbita terrestre bassa di Swift ha iniziato a decadere rapidamente a causa dell'aumento dell'attività solare.",
-          "La NASA ha sfruttato questa opportunità per far progredire la tecnologia statunitense di manutenzione dei veicoli spaziali, assegnando un contratto a Katalyst nel settembre 2025 per montare una missione di manutenzione robotica per Swift in meno di un anno.",
-          "Basso 19 agosto 2026 COMUNICATO 26-067 Quartier generale NASA Il Neil Gehrels Swift Observatory della NASA, mostrato in questo concept artistico, orbita attorno alla Terra da più di 20 anni, studiando l'universo in continua evoluzione."
+          "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica.",
+          "I premi della NASA, per un totale di circa 30 milioni di dollari, forniranno supporto pluriennale alle università selezionate per costruire i loro team e condurre ricerca.",
+          "Per più di 10 anni, la University Leadership Initiative della NASA ha promosso idee audaci, ricerca collaborativa e soluzioni guidate da team."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "NASA",
-          "Katalyst Space",
-          "LINK",
-          "Neil Gehrels Swift Observatory"
+          "University Leadership Initiative"
         ],
         "numbersAndDates": [
-          "Dopo 21 anni di operazioni scientifiche, l'orbita terrestre bassa di Swift ha iniziato a decadere rapidamente a causa dell'aumento dell'attività solare.",
-          "La NASA ha sfruttato questa opportunità per far progredire la tecnologia statunitense di manutenzione dei veicoli spaziali, assegnando un contratto a Katalyst nel settembre 2025 per montare una missione di manutenzione robotica per Swift in meno di un anno.",
-          "Basso 19 agosto 2026 COMUNICATO 26-067 Quartier generale NASA Il Neil Gehrels Swift Observatory della NASA, mostrato in questo concept artistico, orbita attorno alla Terra da più di 20 anni, studiando l'universo in continua evoluzione."
+          "Per più di 10 anni, la University Leadership Initiative della NASA ha promosso idee audaci, ricerca collaborativa e soluzioni guidate da team.",
+          "30"
         ]
       }
     },
     {
-      "id": "story-9dc5fda21ac77273",
-      "title": "Nel massiccio attacco serale russo contro Kiev, è stato colpito anche un ospedale pediatrico nel distretto di Solomensky, le finestre sono state distrutte e all'interno della struttura è scoppiato un incendio",
-      "summary": "Colpito anche un palazzo di 5 mesi",
-      "spokenText": "Nel massiccio attacco serale che ha colpito Kiev, un ospedale pediatrico nel distretto di Solomensky è stato raggiunto, con le finestre andate distrutte e un incendio scoppiato all'interno della struttura. Il bilancio complessivo del raid notturno è di almeno dodici morti. Tra gli edifici colpiti figura anche un palazzo di cinque mesi.",
-      "category": "mondo",
+      "id": "story-ed6e31b62f50e8d7",
+      "title": "La missione cinese Chang'e-7, il cui lancio è previsto per questo mese, utilizzerà un 'hopper' progettato per scendere nei crateri permanentemente in",
+      "summary": "La missione cinese Chang'e-7, il cui lancio è previsto per questo mese, utilizzerà un 'hopper' progettato per scendere nei crateri permanentemente in ombra del Polo Sud lunare alla ricerca di ghiaccio d'acqua accessibile.",
+      "spokenText": "Calare un 'hopper', una sorta di sonda rimbalzante, direttamente dentro i crateri permanentemente in ombra del Polo Sud lunare. L'obiettivo è cercare ghiaccio d'acqua accessibile, una risorsa che si trova sul fondo di avvallamenti profondi e difficilissimi da raggiungere, dove il Sole non splende mai. È rimasto lì intatto per miliardi di anni, intrappolato a temperature che scendono ben al di sotto dei –200°C. Si tratta di una missione statale coordinata, in cui ogni elemento è stato progettato attorno a questo unico scopo specifico, e potrà contare su un'infrastruttura già operativa: il satellite Queqiao-2. Lanciato separatamente a marzo del 2024, ha già supportato la missione Chang'e-6 e ora faciliterà le comunicazioni tra la Terra e la superficie lunare per Chang'e-7. La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
+      "category": "scienza",
       "tags": [
-        "mondo",
-        "kiev",
-        "ospedale pediatrico",
-        "distretto di solomensky"
+        "scienza",
+        "nasa",
+        "chang e 7",
+        "queqiao 2"
       ],
-      "importance": 72,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 21,
+      "estimatedSeconds": 54,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/sindaco-kiev-colpito-ospedale-pediatrico-in-raid-russo-sulla-capitale_cbeddcfa-9973-4236-9d0d-f6ede633be81.html"
+        "name": "The Conversation",
+        "url": "https://theconversation.com/china-is-launching-a-moon-mission-to-find-water-ice-its-unlike-anything-nasa-has-done-289710"
       },
       "analysis": {
-        "mainFact": "Nel massiccio attacco serale russo contro Kiev, è stato colpito anche un ospedale pediatrico nel distretto di Solomensky, le finestre sono state distrutte e all'interno della struttura è scoppiato un incendio.",
-        "whyItMatters": "Colpito anche un palazzo di 5 mesi",
+        "mainFact": "La missione cinese Chang'e-7, il cui lancio è previsto per questo mese, utilizzerà un 'hopper' progettato per scendere nei crateri permanentemente in ombra del Polo Sud lunare alla ricerca di ghiaccio d'acqua accessibile.",
+        "whyItMatters": "Missione lunare cinese innovativa per cercare ghiaccio d'acqua. Avanzamento scientifico concreto.",
         "confirmedFacts": [
-          "Nel massiccio attacco serale russo contro Kiev, è stato colpito anche un ospedale pediatrico nel distretto di Solomensky, le finestre sono state distrutte e all'interno della struttura è scoppiato un incendio.",
-          "Colpito anche un palazzo di 5 mesi",
-          "Almeno 12 morti nel raid russo notturno su Kiev"
+          "La missione cinese Chang'e-7, il cui lancio è previsto per questo mese, utilizzerà un 'hopper' progettato per scendere nei crateri permanentemente in ombra del Polo Sud lunare alla ricerca di ghiaccio d'acqua accessibile.",
+          "Missione lunare cinese innovativa per cercare ghiaccio d'acqua. Avanzamento scientifico concreto.",
+          "Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da percorrere dove il Sole non splende mai, rimasto intatto per miliardi di anni a temperature ben al di sotto di –200°C.",
+          "Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
+          "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un unico obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
+          "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Kiev",
-          "ospedale pediatrico",
-          "distretto di Solomensky"
+          "NASA",
+          "Chang'e-7",
+          "Queqiao-2"
         ],
         "numbersAndDates": [
-          "Almeno 12 morti nel raid russo notturno su Kiev",
-          "5"
+          "Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da percorrere dove il Sole non splende mai, rimasto intatto per miliardi di anni a temperature ben al di sotto di –200°C.",
+          "Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
+          "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un unico obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
+          "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
+          "7"
         ]
       }
     },
     {
-      "id": "story-23cac9f6f502c328",
-      "title": "La morte del professor Jason Arday ha lasciato molti con un profondo senso di tristezza e ha riacceso il dibattito sull'appartenenza degli accademici",
-      "summary": "La morte del professor Jason Arday ha lasciato molti con un profondo senso di tristezza e ha riacceso il dibattito sull'appartenenza degli accademici neri nell'istruzione superiore britannica. Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a navigare le domande di dottorato o a identificare finanziamenti.",
-      "spokenText": "La morte del professor Jason Arday, trovato senza vita il 14 agosto 2026, ha lasciato un vuoto profondo e ha riacceso una discussione più ampia sul senso di appartenenza degli accademici neri nell’istruzione superiore britannica. Arday era una figura centrale per il programma Aspire, che ha sostenuto concretamente 59 studiosi neri e di etnia mista. Il cuore di quel progetto non era semplicemente insegnare a scrivere proposte di ricerca, a districarsi tra le domande di dottorato o a individuare bandi di finanziamento.",
+      "id": "story-62d842f9693ce433",
+      "title": "L'IDF ha pubblicato i risultati di un'indagine interna su cinque incidenti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di",
+      "summary": "L'IDF ha pubblicato i risultati di un'indagine interna su cinque incidenti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di soccorritori palestinesi, ma non per il raid sulla World Central Kitchen.",
+      "spokenText": "Le Forze di Difesa Israeliane hanno pubblicato i risultati di un'indagine interna su cinque incidenti avvenuti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di soccorritori palestinesi, ma non per il raid sulla World Central Kitchen. Il Primo Ministro australiano Anthony Albanese ha definito 'uno scandalo' la decisione di non aprire un'indagine penale sugli attacchi che hanno ucciso l'operatrice umanitaria australiana Zomi Frankcom e sei suoi colleghi nell'aprile 2024. L'IDF ha riconosciuto che i soldati hanno aperto il fuoco sul veicolo che trasportava la cinquenne Hind Rajab e la sua famiglia mentre fuggivano da Gaza City nel gennaio 2024. Un'analisi di 52 inchieste militari israeliane tra il 2023 e il 2025 ha rilevato che l'88% era ancora in fase di revisione o era stato archiviato. Il gruppo israeliano per i diritti umani Yesh Din ha scoperto che il 72% delle denunce presentate all'IDF nel 2019-20 è stato archiviato senza indagine penale e solo il 2% ha portato a procedimenti giudiziari.",
       "category": "diritti",
       "tags": [
         "diritti",
-        "jason arday",
-        "aspire"
+        "anthony albanese",
+        "zomi frankcom",
+        "hind rajab",
+        "yesh din"
       ],
       "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 33,
+      "estimatedSeconds": 66,
       "source": {
         "name": "The Conversation",
-        "url": "https://theconversation.com/jason-ardays-death-black-academics-need-to-feel-they-belong-in-higher-education-289913"
+        "url": "https://theconversation.com/can-the-israeli-military-be-trusted-to-investigate-itself-evidence-shows-genuine-accountability-is-rare-290142"
       },
       "analysis": {
-        "mainFact": "La morte del professor Jason Arday ha lasciato molti con un profondo senso di tristezza e ha riacceso il dibattito sull'appartenenza degli accademici neri nell'istruzione superiore britannica.",
-        "whyItMatters": "Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a navigare le domande di dottorato o a identificare finanziamenti.",
+        "mainFact": "L'IDF ha pubblicato i risultati di un'indagine interna su cinque incidenti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di soccorritori palestinesi, ma non per il raid sulla World Central Kitchen.",
+        "whyItMatters": "Analisi su accountability militare e indagini interne. Tema di diritti umani e giustizia internazionale.",
         "confirmedFacts": [
-          "La morte del professor Jason Arday ha lasciato molti con un profondo senso di tristezza e ha riacceso il dibattito sull'appartenenza degli accademici neri nell'istruzione superiore britannica.",
-          "Gli studiosi sono stati trasformati non semplicemente imparando a scrivere proposte di ricerca, a navigare le domande di dottorato o a identificare finanziamenti.",
-          "È stato trovato morto il 14 agosto 2026.",
-          "Aspire ha supportato 59 studiosi neri e di etnia mista."
+          "L'IDF ha pubblicato i risultati di un'indagine interna su cinque incidenti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di soccorritori palestinesi, ma non per il raid sulla World Central Kitchen.",
+          "Analisi su accountability militare e indagini interne. Tema di diritti umani e giustizia internazionale.",
+          "Il Primo Ministro australiano Anthony Albanese ha definito 'uno scandalo' la decisione delle Forze di Difesa Israeliane (IDF) di non aprire un'indagine penale sugli attacchi israeliani che hanno ucciso un'operatrice umanitaria australiana, Zomi Frankcom, e sei suoi colleghi a Gaza nell'aprile 2024.",
+          "Sono: L'uccisione di Hind Rajab, gennaio 2024: L'IDF ha riconosciuto che i soldati hanno aperto il fuoco su un veicolo che trasportava la cinquenne Hind Rajab e la sua famiglia mentre fuggivano da Gaza City.",
+          "Un'altra indagine su 52 inchieste militari israeliane tra il 2023 e il 2025 ha rilevato che l'88% era ancora in fase di revisione o era stato archiviato.",
+          "Il gruppo israeliano per i diritti umani Yesh Din ha analizzato le denunce presentate all'IDF nel 2019-20 e ha scoperto che il 72% è stato archiviato senza indagine penale e solo il 2% ha portato a procedimenti giudiziari."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Jason Arday",
-          "Aspire"
+          "Anthony Albanese",
+          "Zomi Frankcom",
+          "Hind Rajab",
+          "Yesh Din"
         ],
         "numbersAndDates": [
-          "È stato trovato morto il 14 agosto 2026.",
-          "Aspire ha supportato 59 studiosi neri e di etnia mista."
+          "Il Primo Ministro australiano Anthony Albanese ha definito 'uno scandalo' la decisione delle Forze di Difesa Israeliane (IDF) di non aprire un'indagine penale sugli attacchi israeliani che hanno ucciso un'operatrice umanitaria australiana, Zomi Frankcom, e sei suoi colleghi a Gaza nell'aprile 2024.",
+          "Sono: L'uccisione di Hind Rajab, gennaio 2024: L'IDF ha riconosciuto che i soldati hanno aperto il fuoco su un veicolo che trasportava la cinquenne Hind Rajab e la sua famiglia mentre fuggivano da Gaza City.",
+          "Un'altra indagine su 52 inchieste militari israeliane tra il 2023 e il 2025 ha rilevato che l'88% era ancora in fase di revisione o era stato archiviato.",
+          "Il gruppo israeliano per i diritti umani Yesh Din ha analizzato le denunce presentate all'IDF nel 2019-20 e ha scoperto che il 72% è stato archiviato senza indagine penale e solo il 2% ha portato a procedimenti giudiziari."
+        ]
+      }
+    },
+    {
+      "id": "story-ce81dde085bf53b6",
+      "title": "Francia, Germania e Regno Unito hanno dichiarato inaccettabili i nuovi bandi israeliani per costruire insediamenti in Cisgiordania, definendoli illegali secondo il diritto internazionale",
+      "summary": "Dichiarazione congiunta dei leader dei quattro Paesi: «Il diritto internazionale stabilisce chiaramente che gli insediamenti israeliani in Cisgiordania sono illegali. Questa è la posizione della comunità internazionale, ribadita dal Consiglio di Sicurezza delle Nazioni Unite»",
+      "spokenText": "Germania e Regno Unito hanno definito inaccettabili i nuovi bandi israeliani per costruire insediamenti in Cisgiordania, ribadendo che si tratta di atti illegali secondo il diritto internazionale. Italia, Germania e Regno Unito hanno condannato in particolare i bandi per edificare nella zona E1, affermando che rendono impossibile la Palestina. Queste iniziative non solo allontanano ulteriormente la prospettiva di pace, ma compromettono anche la posizione internazionale di Israele. Intanto, la Cnn ha rivelato il bilancio della guerra con oltre 750 militari americani feriti e 18 morti in Iran. Le reti di contrabbando nate negli anni per aggirare 20 anni di blocchi israeliani incassano milioni di dollari.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "italia",
+        "francia",
+        "germania",
+        "regno unito",
+        "israele",
+        "cisgiordania"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 42,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-trump-annuncia-guerra-economica-contro-l-iran-AJJviFq"
+      },
+      "analysis": {
+        "mainFact": "Francia, Germania e Regno Unito hanno dichiarato inaccettabili i nuovi bandi israeliani per costruire insediamenti in Cisgiordania, definendoli illegali secondo il diritto internazionale.",
+        "whyItMatters": "Non solo ci allontanano ulteriormente dalla pace , ma compromettono ulteriormente anche la posizione internazionale di Israele .",
+        "confirmedFacts": [
+          "Francia, Germania e Regno Unito hanno dichiarato inaccettabili i nuovi bandi israeliani per costruire insediamenti in Cisgiordania, definendoli illegali secondo il diritto internazionale.",
+          "Non solo ci allontanano ulteriormente dalla pace , ma compromettono ulteriormente anche la posizione internazionale di Israele .",
+          "Italia, Germania e Regno Unito condannano i bandi per edificare nella zona E1: “Rendono impossibile la Palestina”",
+          "Cnn rivela bilancio guerra, oltre 750 militari americani feriti e 18 morti Iran:",
+          "operazione segreta Usa per il trasporto di petrolio attraverso Hormuz Trump annuncia guerra economica contro l’Iran 19:04 20 agosto 2026 Aggiornamento fissato Italia, Francia, Germania e Regno Unito:",
+          "Le reti di contrabbando nate negli anni per aggirare 20 anni di blocchi israeliani incassano milioni di dollari."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Italia",
+          "Francia",
+          "Germania",
+          "Regno Unito",
+          "Israele",
+          "Cisgiordania"
+        ],
+        "numbersAndDates": [
+          "Cnn rivela bilancio guerra, oltre 750 militari americani feriti e 18 morti Iran:",
+          "operazione segreta Usa per il trasporto di petrolio attraverso Hormuz Trump annuncia guerra economica contro l’Iran 19:04 20 agosto 2026 Aggiornamento fissato Italia, Francia, Germania e Regno Unito:",
+          "Le reti di contrabbando nate negli anni per aggirare 20 anni di blocchi israeliani incassano milioni di dollari."
         ]
       }
     }
