@@ -1,517 +1,484 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-21-d21023474bbe",
-  "generatedAt": "2026-08-21T05:27:46.904Z",
+  "catalogId": "daily-quid-2026-08-22-56952588fb53",
+  "generatedAt": "2026-08-22T05:22:29.203Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-9819284bdeadf934",
-      "title": "La Groenlandia orientale invasa dalle balene giganti alla ricerca di cibo",
-      "summary": "Lo scioglimento dei ghiacci ha permesso loro di spostarsi in aree prima inaccessibili",
-      "spokenText": "L'estate del 2024 ha segnato un cambiamento profondo nelle acque della Groenlandia orientale. Lo scioglimento dei ghiacci ha aperto passaggi che per secoli erano rimasti sbarrati, e migliaia di balene hanno iniziato a frequentare zone del Mare di Groenlandia che fino a poco tempo fa erano semplicemente inaccessibili. almeno quattromila megattere, seimila balenottere comuni e altrettante balenottere minori hanno nuotato in queste acque durante i mesi estivi. Si stima che solo nel 2024, almeno 4.000 megattere, 6.000 balenottere comuni e 6.000 balenottere minori abbiano visitato il Mare di Groenlandia nell'estate del 2024.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "groenlandia"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/la-groenlandia-orientale-invasa-dalle-balene-giganti-alla-ricerca-di-cibo_38e93b56-04ea-4c5e-891a-f5380c1ba722.html"
-      },
-      "analysis": {
-        "mainFact": "Lo scioglimento dei ghiacci ha permesso a migliaia di balene di spostarsi in aree della Groenlandia orientale prima inaccessibili.",
-        "whyItMatters": "Si stima che solo nel 2024, almeno 4.000 megattere, 6.000 balenottere comuni e 6.000 balenottere minori abbiano visitato il Mare di Groenlandia nell'estate del 2024.",
-        "confirmedFacts": [
-          "Lo scioglimento dei ghiacci ha permesso a migliaia di balene di spostarsi in aree della Groenlandia orientale prima inaccessibili.",
-          "Si stima che solo nel 2024, almeno 4.000 megattere, 6.000 balenottere comuni e 6.000 balenottere minori abbiano visitato il Mare di Groenlandia nell'estate del 2024.",
-          "Lo scioglimento dei ghiacci ha permesso loro di spostarsi in aree prima inaccessibili",
-          "Il riscaldamento del mare e lo scioglimento dei ghiacci dovuto ai cambiamenti climatici ha permesso a questi cetacei di spostarsi in aree precedentemente inaccessibili."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Groenlandia"
-        ],
-        "numbersAndDates": [
-          "2024",
-          "4.000",
-          "6.000"
-        ]
-      }
-    },
-    {
-      "id": "story-1b7f15f56dd90fd4",
-      "title": "Europe’s Scorching Summer",
-      "summary": "Una serie di ondate di caldo nel 2026 sta battendo record e causando danni in Europa. NASA Earth Observatory/Lauren Dauphin: l'Europa occidentale ha avuto il primo indizio di un'estate insolita a maggio 2026, quando una cupola di calore ha prodotto temperature eccezionali che hanno infranto record in diversi paesi.",
-      "spokenText": "Una serie di ondate di caldo nel 2026 sta battendo record e causando danni in Europa. NASA Earth Observatory/Lauren Dauphin: l'Europa occidentale ha avuto il primo indizio di un'estate insolita a maggio 2026, quando una cupola di calore ha prodotto temperature eccezionali che hanno infranto record in diversi paesi. I dati dell'Agenzia Internazionale dell'Energia mostrano che il 23 percento delle case in Europa ha l'aria condizionata, rispetto al 90 percento delle case negli Stati Uniti.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "nasa earth observatory",
-        "international energy agency"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 30,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/earth/europes-scorching-summer/"
-      },
-      "analysis": {
-        "mainFact": "Una serie di ondate di caldo nel 2026 sta battendo record e causando danni in Europa.",
-        "whyItMatters": "NASA Earth Observatory/Lauren Dauphin: l'Europa occidentale ha avuto il primo indizio di un'estate insolita a maggio 2026, quando una cupola di calore ha prodotto temperature eccezionali che hanno infranto record in diversi paesi.",
-        "confirmedFacts": [
-          "Una serie di ondate di caldo nel 2026 sta battendo record e causando danni in Europa.",
-          "NASA Earth Observatory/Lauren Dauphin: l'Europa occidentale ha avuto il primo indizio di un'estate insolita a maggio 2026, quando una cupola di calore ha prodotto temperature eccezionali che hanno infranto record in diversi paesi.",
-          "I dati dell'Agenzia Internazionale dell'Energia mostrano che il 23 percento delle case in Europa ha l'aria condizionata, rispetto al 90 percento delle case negli Stati Uniti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA Earth Observatory",
-          "International Energy Agency"
-        ],
-        "numbersAndDates": [
-          "I dati dell'Agenzia Internazionale dell'Energia mostrano che il 23 percento delle case in Europa ha l'aria condizionata, rispetto al 90 percento delle case negli Stati Uniti.",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-d482a15b379771b6",
-      "title": "Palermo, muore a 4 anni stroncata dalla difterite: “Non era stata vaccinata”",
-      "summary": "I genitori No Vax l’hanno portata in ospedale quando ormai era troppo tardi. La procura ha aperto un’inchiesta",
-      "spokenText": "Una bambina di quattro anni è morta in ospedale a Palermo per una sospetta difterite, una malattia infettiva che in Italia non provocava vittime da oltre trent'anni. La piccola non era vaccinata e, secondo quanto ricostruito, è stata portata in ospedale dai genitori quando le sue condizioni erano già gravemente compromesse. Con gli stessi sintomi è stato ricoverato anche il cuginetto, un bambino della stessa età, il quale però non è in pericolo di vita proprio perché era stato sottoposto a vaccinazione. La procura del capoluogo siciliano ha aperto un'inchiesta e ha disposto l'autopsia per chiarire l'esatta dinamica dei fatti e accertare eventuali responsabilità. La difterite, un tempo flagello dell'infanzia, all'inizio del secolo scorso registrava in Italia circa trentamila casi l'anno con millecinquecento decessi, ma era praticamente scomparsa nei Paesi industrializzati proprio grazie alla diffusione capillare dei vaccini, che hanno determinato un drastico calo dei contagi. 1.500 morti l'anno. Dopo l'introduzione della vaccinazione c'è stato un drastico calo dei contagi. 1.500 morti l'anno.",
+      "id": "story-42753287f3009fea",
+      "title": "Attivato il protocollo per un sospetto caso di Ebola in Trentino",
+      "summary": "Isolato il paziente con sintomi compatibili e storia di viaggio recente. Analisi in corso",
+      "spokenText": "È stato isolato un paziente con sintomi compatibili con l'Ebola e una storia di viaggio recente.",
       "category": "salute",
       "tags": [
         "salute",
-        "palermo",
-        "difterite",
-        "procura",
-        "no vax"
+        "trentino"
       ],
       "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 66,
+      "estimatedSeconds": 7,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://palermo.repubblica.it/cronaca/2026/08/21/news/palermo_muore_a_4_anni_stroncata_dalla_difterite_non_era_stata_vaccinata-425538683/"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/21/attivato-il-protocollo-per-un-sospetto-caso-di-ebola-in-trentino_ccf9c4ff-5c58-4e0d-ae6f-67a7366a0f1c.html"
       },
       "analysis": {
-        "mainFact": "Una bambina di 4 anni è morta a Palermo per sospetta difterite e non era vaccinata.",
-        "whyItMatters": "I genitori No Vax l’hanno portata in ospedale quando ormai era troppo tardi.",
+        "mainFact": "È stato isolato un paziente con sintomi compatibili con l'Ebola e una storia di viaggio recente.",
+        "whyItMatters": "Sospetto caso Ebola in Italia, protocollo attivato, potenziale emergenza sanitaria.",
         "confirmedFacts": [
-          "Una bambina di 4 anni è morta a Palermo per sospetta difterite e non era vaccinata.",
-          "I genitori No Vax l’hanno portata in ospedale quando ormai era troppo tardi.",
-          "La procura del capoluogo siciliano ha aperto un'inchiesta e disposto l'autopsia per ricostruire l'accaduto e chiarire eventuali responsabilità.",
-          "Con gli stessi sintomi è ricoverato il cuginetto, anche lui di 4 anni, ma non è grave, perché era stato vaccinato.",
-          "In Italia, all'inizio del secolo scorso, si registravano circa 30mila casi di difterite infantile e 1.500 morti l'anno, ma dopo l'introduzione della vaccinazione c'è stato un drastico calo dei contagi.",
-          "Bimba di 4 anni muore per sospetta difterite a Palermo",
-          "La difterite, una malattia quasi scomparsa nei Paesi industrializzati, ha provocato la prima vittima in Italia dopo oltre 30 anni: è una bambina di 4 anni, morta in ospedale a Palermo."
+          "È stato isolato un paziente con sintomi compatibili con l'Ebola e una storia di viaggio recente.",
+          "Sospetto caso Ebola in Italia, protocollo attivato, potenziale emergenza sanitaria.",
+          "Isolato il paziente con sintomi compatibili e storia di viaggio recente."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Palermo",
-          "difterite",
-          "procura",
-          "No Vax"
+          "Trentino"
         ],
-        "numbersAndDates": [
-          "Con gli stessi sintomi è ricoverato il cuginetto, anche lui di 4 anni, ma non è grave, perché era stato vaccinato.",
-          "In Italia, all'inizio del secolo scorso, si registravano circa 30mila casi di difterite infantile e 1.500 morti l'anno, ma dopo l'introduzione della vaccinazione c'è stato un drastico calo dei contagi.",
-          "Bimba di 4 anni muore per sospetta difterite a Palermo",
-          "La difterite, una malattia quasi scomparsa nei Paesi industrializzati, ha provocato la prima vittima in Italia dopo oltre 30 anni: è una bambina di 4 anni, morta in ospedale a Palermo.",
-          "4"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-9188edc72ff9899f",
-      "title": "Missili di Putin su Kiev, 17 morti. Colpito un ospedale pediatrico",
-      "summary": "Il massiccio attacco è durato nove ore, demolendo strutture della Croce Rossa e magazzini. Zelensky: “Ci servono intercettori Patriot, salvano vite”. Von der Leyen: “Priorità urgente”",
-      "spokenText": "Un attacco missilistico russo su Kiev è durato nove ore, causando 17 morti e colpendo un ospedale pediatrico e strutture della Croce Rossa. Il ministero della Difesa russo ha affermato di aver colpito strutture militari-industriali, un centro di trasporto e logistica e alcuni magazzini, a Kiev e nella regione circostante. 'Ci servono intercettori Patriot, salvano vite'. Von der Leyen: “Priorità urgente”.",
+      "id": "story-ecc734fe19e347b1",
+      "title": "Trump: «D-Day economico contro l’Iran». Ma sulle nuove sanzioni è scontro con la Cina",
+      "summary": "Il presidente americano: «Tutti i Paesi devono collaborare all’isolamento di Teheran». Pechino, principale acquirente del petrolio iraniano: «Serve soluzione diplomatica»",
+      "spokenText": "L'annuncio, tuttavia, non è stato accompagnato da dettagli su quali ulteriori sanzioni economiche potrebbero essere adottate contro un regime già sottoposto a restrizioni da quasi mezzo secolo, ovvero dalla Rivoluzione Islamica del 1979. Il portavoce del ministero degli Esteri cinese, Lin Jian, ha dichiarato in una conferenza stampa ufficiale che le sanzioni e le pressioni economiche sull'Iran non aiuteranno a risolvere i problemi, sottolineando la necessità di una soluzione diplomatica. Pechino, principale acquirente del petrolio iraniano: «Serve soluzione diplomatica».",
       "category": "mondo",
       "tags": [
         "mondo",
-        "kiev",
-        "croce rossa"
+        "iran",
+        "cina",
+        "lin jian"
       ],
-      "importance": 82,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 25,
+      "estimatedSeconds": 32,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/trump-d-day-economico-contro-l-iran-ma-nuove-sanzioni-e-scontro-la-cina-AJpZAeq"
+      },
+      "analysis": {
+        "mainFact": "Trump annuncia un \"D-Day economico contro l'Iran\" e chiede a tutti i Paesi di collaborare all'isolamento di Teheran.",
+        "whyItMatters": "Trump non ha chiarito quali altre sanzioni economiche saranno adottate contro un regime messo sotto controllo da quasi mezzo secolo, ovvero dalla Rivoluzione Islamica del 1979.",
+        "confirmedFacts": [
+          "Trump annuncia un \"D-Day economico contro l'Iran\" e chiede a tutti i Paesi di collaborare all'isolamento di Teheran.",
+          "Trump non ha chiarito quali altre sanzioni economiche saranno adottate contro un regime messo sotto controllo da quasi mezzo secolo, ovvero dalla Rivoluzione Islamica del 1979.",
+          "«Le sanzioni e le pressioni economiche sull’Iran non aiuteranno a risolvere i problemi», ha affermato il portavoce del ministero degli Esteri cinese, Lin Jian, durante una conferenza stampa ufficiale.",
+          "Pechino, principale acquirente del petrolio iraniano: «Serve soluzione diplomatica»"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Iran",
+          "Cina",
+          "Lin Jian"
+        ],
+        "numbersAndDates": [
+          "1979"
+        ]
+      }
+    },
+    {
+      "id": "story-8313948b08328bf2",
+      "title": "Scoperto un deposito d’armi in un bosco vicino a Berlino: “Sospetto sugli 007 di Mosca”",
+      "summary": "Rinvenute anche scorte di munizioni. Nel mirino dirigenti dell’industria della difesa ed esponenti dell’opposizione russa",
+      "spokenText": "Un deposito segreto di armi è stato scoperto nelle vicinanze di Berlino, in un’area boschiva. All’interno sono state rinvenute armi da fuoco e scorte di munizioni. L’episodio ha sollevato sospetti su un possibile coinvolgimento dei servizi di Mosca. Scoperto un deposito d’armi in un bosco vicino a Berlino: “Sospetto sugli 007 di Mosca”. Secondo i media, già alla fine dell'estate scorsa, grazie a una segnalazione, gli agenti hanno individuato un deposito nascosto nel bosco contenente armi da fuoco.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "berlino",
+        "mosca"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 32,
       "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/21/news/guerra_russia_ucraina_missili_kiev_colpito_ospedale_pediatrico-425538771/"
+        "url": "https://www.repubblica.it/esteri/2026/08/22/news/germania_scoperto_deposito_armi_bosco_sospetto_spie_mosca-425540623/"
       },
       "analysis": {
-        "mainFact": "Un attacco missilistico russo su Kiev è durato nove ore, causando 17 morti e colpendo un ospedale pediatrico e strutture della Croce Rossa.",
-        "whyItMatters": "Von der Leyen: “Priorità urgente”.",
+        "mainFact": "Scoperto un deposito d’armi in un bosco vicino a Berlino: “Sospetto sugli 007 di Mosca”",
+        "whyItMatters": "Rinvenute anche scorte di munizioni.",
         "confirmedFacts": [
-          "Un attacco missilistico russo su Kiev è durato nove ore, causando 17 morti e colpendo un ospedale pediatrico e strutture della Croce Rossa.",
-          "Von der Leyen: “Priorità urgente”.",
-          "Colpito un ospedale pediatrico",
-          "Il ministero della Difesa russo ha affermato di aver colpito \"strutture militari-industriali, un centro di trasporto e logistica e alcuni magazzini\", a Kiev e nella regione circostante.",
-          "Notte d'inferno a Kiev, colpita da un massiccio attacco missilistico russo, responsabile alla fine di un altissimo numero di vittime civili.",
-          "Zelensky: “Ci servono intercettori Patriot, salvano vite”.",
-          "Almeno 16 morti, colpito anche un ospedale pediatrico.",
-          "Missili di Putin su Kiev, 17 morti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Kiev",
-          "Croce Rossa"
-        ],
-        "numbersAndDates": [
-          "Almeno 16 morti, colpito anche un ospedale pediatrico.",
-          "Missili di Putin su Kiev, 17 morti.",
-          "17"
-        ]
-      }
-    },
-    {
-      "id": "story-650fae7c830d8314",
-      "title": "Salgono a diciotto i casi di contagio di febbre del Nilo nell'Oristanese",
-      "summary": "Un settantenne e un cinquantenne ricoverati all'ospedale San Martino",
-      "spokenText": "Salgono a diciotto i casi confermati di febbre del Nilo nell’Oristanese. L’ultimo aggiornamento riguarda due pazienti, un ultrasettantenne e un ultracinquantenne, che hanno manifestato i sintomi della West Nile e per i quali è arrivata la conferma diagnostica. Entrambi sono attualmente ricoverati all’ospedale San Martino di Oristano, struttura che sta seguendo il quadro clinico dei due uomini.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "oristano",
-        "ospedale san martino"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/salgono-a-diciotto-i-casi-di-contagio-di-febbre-del-nilo-nelloristanese_ea017a01-09c7-4d6b-99c7-1bc52a512e35.html"
-      },
-      "analysis": {
-        "mainFact": "Salgono a diciotto i casi di contagio di febbre del Nilo nell'Oristanese.",
-        "whyItMatters": "Un ultrasettantenne e un ultracinquantenne, che hanno manifestato i sintomi della West Nile, hanno avuto la conferma e sono entrambi ricoverati all'ospedale San Martino di Oristano.",
-        "confirmedFacts": [
-          "Salgono a diciotto i casi di contagio di febbre del Nilo nell'Oristanese.",
-          "Un ultrasettantenne e un ultracinquantenne, che hanno manifestato i sintomi della West Nile, hanno avuto la conferma e sono entrambi ricoverati all'ospedale San Martino di Oristano.",
-          "Un settantenne e un cinquantenne ricoverati all'ospedale San Martino"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Oristano",
-          "ospedale San Martino"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-70807617a1159ceb",
-      "title": "Violazione privacy minori: Discord disattiva i live stream",
-      "summary": "Discord ha sospeso le funzionalità video, dopo aver ricevuto un ordine dall'autorità del Brasile che ha ravvisato la violazione della privacy dei minori. The post Violazione privacy minori: Discord disattiva i live stream appeared first on Punto Informatico.",
-      "spokenText": "Discord ha sospeso in Brasile le funzionalità video Go Live e la condivisione dello schermo, dopo un ordine dell'autorità garante della privacy che ha ravvisato una violazione della privacy dei minori. La decisione arriva in seguito a un'indagine avviata all'inizio di agosto dalla Agência Nacional de Proteção de Dados, la ANPD, per verificare il rispetto da parte della piattaforma della legge sulla protezione dei minori, che entrerà in vigore nel marzo del 2026.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "discord",
-        "brasile",
-        "agencia nacional de protecao de dados anpd"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 30,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/violazione-privacy-minori-discord-disattiva-live-stream/"
-      },
-      "analysis": {
-        "mainFact": "Discord ha sospeso le funzionalità video Go Live e condivisione schermo in Brasile dopo un ordine dell'autorità garante della privacy che ha ravvisato una violazione della privacy dei minori.",
-        "whyItMatters": "Violazione privacy minori: Discord disattiva i live stream Discord ha sospeso le funzionalità video, dopo aver ricevuto un ordine dall'autorità del Brasile che ha ravvisato la violazione della privacy dei minori.",
-        "confirmedFacts": [
-          "Discord ha sospeso le funzionalità video Go Live e condivisione schermo in Brasile dopo un ordine dell'autorità garante della privacy che ha ravvisato una violazione della privacy dei minori.",
-          "Violazione privacy minori: Discord disattiva i live stream Discord ha sospeso le funzionalità video, dopo aver ricevuto un ordine dall'autorità del Brasile che ha ravvisato la violazione della privacy dei minori.",
-          "Funzionalità video troppo pericolose per i minori All’inizio di agosto, la Agência Nacional de Proteção de Dados (ANPD) del Brasile ha avviato un’indagine per verificare il rispetto da parte di Discord della legge sulla protezione dei minori in vigore da marzo 2026.",
-          "Discord è in disaccordo con l’autorità brasiliana, ma ha deciso di rispettare l’ordine."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Discord",
-          "Brasile",
-          "Agência Nacional de Proteção de Dados (ANPD)"
-        ],
-        "numbersAndDates": [
-          "Funzionalità video troppo pericolose per i minori All’inizio di agosto, la Agência Nacional de Proteção de Dados (ANPD) del Brasile ha avviato un’indagine per verificare il rispetto da parte di Discord della legge sulla protezione dei minori in vigore da marzo 2026."
-        ]
-      }
-    },
-    {
-      "id": "story-47a15ab7210b4ce4",
-      "title": "Piscina vietata al bimbo disabile, i genitori vincono la causa",
-      "summary": "Contro un centro estivo. Tribunale: mancata partecipazione è discriminazione indiretta",
-      "spokenText": "Una piscina vietata a un bambino disabile durante le attività del centro estivo. È quanto accaduto la scorsa estate nella provincia bolognese, come ricostruito dal Corriere di Bologna. I genitori avevano iscritto il figlio al centro estivo organizzato dall'Unione Reno Galliera, ma il minore non ha potuto partecipare alle uscite ricreative e sportive del venerdì presso la piscina gestita dal centro sportivo Galliera Asd. La seconda sezione civile del Tribunale di Bologna, con la giudice Carolina Gentili, ha stabilito che quella mancata partecipazione ha costituito un'attività discriminatoria indiretta. Un'ordinanza urgente, emessa già la scorsa estate dopo la denuncia dei genitori, aveva imposto all'ente di eliminare immediatamente la discriminazione. Proprio per questo intervento tempestivo, il tribunale non ha riconosciuto danni patrimoniali o morali. La pronuncia conferma che non garantire a un bambino con disabilità la piena inclusione nelle attività insieme ai compagni configura una violazione del principio di non discriminazione.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "tribunale di bologna",
-        "unione reno galliera",
-        "centro sportivo galliera asd"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 60,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/piscina-vietata-al-bimbo-disabile-i-genitori-vincono-la-causa_d9a814a2-46d0-4225-8d4b-4bf34d46d8a1.html"
-      },
-      "analysis": {
-        "mainFact": "Piscina vietata al bimbo disabile, i genitori vincono la causa",
-        "whyItMatters": "Costituisce \"attività discriminatoria indiretta\" non garantire a un bambino disabile l'uscita in piscina con gli altri compagni del centro estivo .",
-        "confirmedFacts": [
-          "Piscina vietata al bimbo disabile, i genitori vincono la causa",
-          "Costituisce \"attività discriminatoria indiretta\" non garantire a un bambino disabile l'uscita in piscina con gli altri compagni del centro estivo .",
-          "I fatti - raccontati dal Corriere di Bologna - risalgono alla scorsa estate, quando i genitori di un bambino disabile iscrivono il figlio al centro estivo organizzato dall'Unione Reno Galliera nella provincia bolognese.",
-          "Per la giudice Carolina Gentili della seconda sezione civile del Tribunale di Bologna: \"La mancata partecipazione del minore alle attività ricreativo/sportive del venerdì previste dal centro sportivo Galliera Asd, facente capo all'Unione, per il venerdì, costituiva attività discriminatoria indiretta\"."
+          "Scoperto un deposito d’armi in un bosco vicino a Berlino: “Sospetto sugli 007 di Mosca”",
+          "Rinvenute anche scorte di munizioni.",
+          "Un deposito segreto di armi è stato scoperto nelle vicinanze di Berlino."
         ],
         "uncertainties": [
-          "Non sono stati riconosciuti i danni patrimoniali o morali per via dell'ordinanza urgente emessa la scorsa estate, dopo la denuncia dei genitori, con la quale si è ordinato all'ente di eliminare la discriminazione indiretta."
+          "Secondo i media, già alla fine dell'estate scorsa, grazie a una segnalazione, gli agenti hanno individuato un deposito nascosto nel bosco contenente armi da fuoco."
         ],
         "peopleAndOrganizations": [
-          "Tribunale di Bologna",
-          "Unione Reno Galliera",
-          "centro sportivo Galliera Asd"
+          "Berlino",
+          "Mosca"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "007"
+        ]
       }
     },
     {
-      "id": "story-222d9befdca5b415",
-      "title": "Il debito Usa vola a 40mila miliardi. Il Tesoro raddoppia gli acquisti di bond",
-      "summary": "L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran. Il Tesoro vara un massiccio piano di riacquisto di Treasury a lunga scadenza per arginare l’impennata dei rendimenti",
-      "spokenText": "L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran. Questo ha probabilmente spinto il segretario al Tesoro Scott Bessent ad annunciare nuovi interventi: tra il 9 settembre e il 4 novembre riacquisterà titoli a lunga, tra i 10 e i 30 anni, in tranche ogni volta «almeno raddoppiate» a 4 miliardi. Ci sono ragioni specifiche per la nuova corsa del debito nazionale, composto da oltre 32mila miliardi in titoli detenuti da investitori e da governi esteri (pari al 101% del Pil) e quasi 8mila miliardi da enti governativi. Sei mesi fa, il Congressional Budget Office aveva previsto che avrebbe raggiunto i 39.400 miliardi di dollari nell’anno fiscale in corso. Poi l’improvvisa guerra in Iran, al prezzo in continua ascesa di 37,5 miliardi: con il caro-petrolio dovuto al blocco dello Stretto di Hormuz e la necessità, sostenuta da Trump, di drastiche escalation della spesa per la Difesa. Il Tesoro vara un massiccio piano di riacquisto di Treasury a lunga scadenza per arginare l’impennata dei rendimenti. Due giorni fa il Tesoro ha invece comunicato che «il debito ha superato i 39.900 miliardi di dollari» ed è in continua crescita.",
+      "id": "story-d8b36922abfdca28",
+      "title": "Zelensky, 'ignobile attacco russo su centro commerciale di Kryvyi Rih, 5 morti'",
+      "summary": "'I feriti sono 52, tra cui sei bambini'",
+      "spokenText": "Il presidente ucraino Volodymyr Zelensky ha condannato l'attacco russo contro un centro commerciale a Kryvyi Rih, che ha causato almeno cinque morti e 52 feriti, tra cui sei bambini. Intanto, nella notte tra giovedì e venerdì, nuovi raid hanno colpito Sumy, con sei feriti, e la regione di Odessa, dove un drone ha danneggiato il valico di Tabaky, sospendendo temporaneamente il traffico al confine con la Moldova. Complessivamente, nell'ultima giornata, otto persone sono rimaste ferite nella regione. Intanto, quella tra giovedì 20 e venerdì 21 agosto, è stata una nuova notte di attacchi tra Russia e Ucraina .",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "zelensky",
+        "russia",
+        "ucraina",
+        "kryvyi rih",
+        "mosca"
+      ],
+      "importance": 70,
+      "mustInclude": true,
+      "estimatedSeconds": 40,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/zelensky-ignobile-attacco-russo-su-centro-commerciale-di-kryvyi-rih-5-morti_4b9ac74f-341d-4a3c-9994-8f2d75911277.html"
+      },
+      "analysis": {
+        "mainFact": "Il presidente ucraino Volodymyr Zelensky ha condannato un attacco russo contro un centro commerciale a Kryvyi Rih che ha causato almeno cinque morti e 52 feriti.",
+        "whyItMatters": "\"Un attacco assolutamente cinico e spregevole stato perpetrato dai russi contro un normale centro commerciale a Kryvyi Rih\", ha dichiarato Zelensky su X, riportando un bilancio di cinque morti e 52 feriti, \"tra cui sei bambini\", a seguito dell'attacco diurno nella sua citt natale.",
+        "confirmedFacts": [
+          "Il presidente ucraino Volodymyr Zelensky ha condannato un attacco russo contro un centro commerciale a Kryvyi Rih che ha causato almeno cinque morti e 52 feriti.",
+          "\"Un attacco assolutamente cinico e spregevole stato perpetrato dai russi contro un normale centro commerciale a Kryvyi Rih\", ha dichiarato Zelensky su X, riportando un bilancio di cinque morti e 52 feriti, \"tra cui sei bambini\", a seguito dell'attacco diurno nella sua citt natale.",
+          "Intanto, quella tra giovedì 20 e venerdì 21 agosto, è stata una nuova notte di attacchi tra Russia e Ucraina .",
+          "A Sumy, un attacco notturno con droni ha provocato sei feriti, tra cui una ragazza di 16 anni.",
+          "Colpita anche la regione di Odessa: durante la notte un drone russo ha danneggiato il valico internazionale di Tabaky, al confine con la Moldova, costringendo le autorità a sospendere temporaneamente il traffico di persone e veicoli.",
+          "Complessivamente nella regione le autorità riferiscono di otto persone ferite dagli attacchi russi nell’ultima giornata , ma sei sono riconducibili al raid della notte sulla città.",
+          "Il presidente ucraino Volodymyr Zelensky ha condannato l'attacco \"cinico e ignobile\" di Mosca contro un centro commerciale a Kryvyi Rih, in Ucraina centrale, che ha causato almeno cinque morti e 52 feriti, secondo un bilancio ufficiale.",
+          "La richiesta di Zelensky era che Musk consentisse all’Ucraina di utilizzare Starlink su droni da attacco in profondità fino a 200 km all’interno della Russia , un raggio che includerebbe le infrastrutture di lancio dei missili balistici, i sistemi di comando e altre risorse."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Zelensky",
+          "Russia",
+          "Ucraina",
+          "Kryvyi Rih",
+          "Mosca"
+        ],
+        "numbersAndDates": [
+          "Intanto, quella tra giovedì 20 e venerdì 21 agosto, è stata una nuova notte di attacchi tra Russia e Ucraina .",
+          "A Sumy, un attacco notturno con droni ha provocato sei feriti, tra cui una ragazza di 16 anni.",
+          "La richiesta di Zelensky era che Musk consentisse all’Ucraina di utilizzare Starlink su droni da attacco in profondità fino a 200 km all’interno della Russia , un raggio che includerebbe le infrastrutture di lancio dei missili balistici, i sistemi di comando e altre risorse.",
+          "52"
+        ]
+      }
+    },
+    {
+      "id": "story-bb794f9771f25959",
+      "title": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati",
+      "summary": "Ministro Quirno: 'non c'è tempo da perdere, se non si avanza procederemo bilateralmente'",
+      "spokenText": "L'Argentina sta spingendo con decisione all'interno del Mercosur per accelerare l'apertura a nuovi mercati. Il ministro Quirno è stato molto chiaro: non c'è tempo da perdere e, se non si avanzerà insieme, il paese procederà bilateralmente. Nel difendere la strategia di liberalizzazione commerciale del governo, Quirno ha sottolineato i risultati già ottenuti, affermando che, anche grazie ai trattati siglati nel quadro del Mercosur, in meno di tre anni l'Argentina è passata da accordi che coprivano circa il 10% del pil mondiale al 30% attuale.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "scott bessent",
-        "iran",
-        "congressional budget office"
+        "argentina",
+        "mercosur",
+        "ministro quirno"
       ],
-      "importance": 85,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 82,
+      "estimatedSeconds": 34,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/il-debito-usa-vola-40mila-miliardi-tesoro-raddoppia-acquisti-bond-AJlgxpp"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/largentina-preme-sul-mercosur-per-accelerare-lapertura-a-nuovi-mercati_7e07c20a-f3cd-4bfd-bb20-c94cb11be18a.html"
       },
       "analysis": {
-        "mainFact": "L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran.",
-        "whyItMatters": "Questo ha probabilmente spinto il segretario al Tesoro Scott Bessent ad annunciare nuovi interventi: tra il 9 settembre e il 4 novembre riacquisterà titoli a lunga, tra i 10 e i 30 anni, in tranche ogni volta «almeno raddoppiate» a 4 miliardi.",
+        "mainFact": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati.",
+        "whyItMatters": "Quirno ha difeso la strategia di liberalizzazione commerciale del governo e ha affermato che, anche grazie ai trattati siglati nel quadro del Mercosur, \"in meno di tre anni, l'Argentina passata da accordi che coprivano circa il 10% del pil mondiale al 30% attuale\".",
         "confirmedFacts": [
-          "L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran.",
-          "Questo ha probabilmente spinto il segretario al Tesoro Scott Bessent ad annunciare nuovi interventi: tra il 9 settembre e il 4 novembre riacquisterà titoli a lunga, tra i 10 e i 30 anni, in tranche ogni volta «almeno raddoppiate» a 4 miliardi.",
-          "Ci sono ragioni specifiche per la nuova corsa del debito nazionale, composto da oltre 32mila miliardi in titoli detenuti da investitori e da governi esteri (pari al 101% del Pil) e quasi 8mila miliardi da enti governativi.",
-          "Sei mesi fa, il Congressional Budget Office aveva previsto che avrebbe raggiunto i 39.400 miliardi di dollari nell’anno fiscale in corso.",
-          "Poi l’improvvisa guerra in Iran, al prezzo in continua ascesa di 37,5 miliardi: con il caro-petrolio dovuto al blocco dello Stretto di Hormuz e la necessità, sostenuta da Trump, di drastiche escalation della spesa per la Difesa.",
-          "Il Tesoro vara un massiccio piano di riacquisto di Treasury a lunga scadenza per arginare l’impennata dei rendimenti",
-          "Il Tesoro raddoppia gli acquisti di bond L’indebitamento accelera oltre le previsioni per i mancati introiti dei dazi, dopo la bocciatura della Corte Suprema, e per i costi della guerra con l’Iran.",
-          "Due giorni fa il Tesoro ha invece comunicato che «il debito ha superato i 39.900 miliardi di dollari» ed è in continua crescita."
+          "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati.",
+          "Quirno ha difeso la strategia di liberalizzazione commerciale del governo e ha affermato che, anche grazie ai trattati siglati nel quadro del Mercosur, \"in meno di tre anni, l'Argentina passata da accordi che coprivano circa il 10% del pil mondiale al 30% attuale\".",
+          "Ministro Quirno: 'non c'è tempo da perdere, se non si avanza procederemo bilateralmente'"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Scott Bessent",
-          "Iran",
-          "Congressional Budget Office"
+          "Argentina",
+          "Mercosur",
+          "Ministro Quirno"
         ],
         "numbersAndDates": [
-          "Ci sono ragioni specifiche per la nuova corsa del debito nazionale, composto da oltre 32mila miliardi in titoli detenuti da investitori e da governi esteri (pari al 101% del Pil) e quasi 8mila miliardi da enti governativi.",
-          "Sei mesi fa, il Congressional Budget Office aveva previsto che avrebbe raggiunto i 39.400 miliardi di dollari nell’anno fiscale in corso.",
-          "Poi l’improvvisa guerra in Iran, al prezzo in continua ascesa di 37,5 miliardi: con il caro-petrolio dovuto al blocco dello Stretto di Hormuz e la necessità, sostenuta da Trump, di drastiche escalation della spesa per la Difesa.",
-          "Due giorni fa il Tesoro ha invece comunicato che «il debito ha superato i 39.900 miliardi di dollari» ed è in continua crescita.",
-          "9",
-          "4",
           "10",
           "30"
         ]
       }
     },
     {
-      "id": "story-1a7a568aed10977d",
-      "title": "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm",
-      "summary": "L’operazione prevede due offerte pubbliche di scambio su Banca Generali e su Banco Bpm, e renderebbe Crédit Agricole e il Leone grandi soci del futuro polo. Sul piatto un extra dividendo da 4 miliardi ai soci senesi, anche in azioni Generali",
-      "spokenText": "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm. Il progetto punta a creare un gruppo con una capitalizzazione aggregata di circa 70 miliardi. Sul piatto un extra dividendo da 4 miliardi ai soci senesi, anche in azioni Generali. L’operazione prevede due offerte pubbliche di scambio su Banca Generali e su Banco Bpm, e renderebbe Crédit Agricole e il Leone grandi soci del futuro polo. Una doppia offerta per rilevare Banco Bpm e Banca Generali nel tentativo di resistere, con un progetto industriale alternativo, all'opas da 30,6 miliardi messa in campo da Intesa Sanpaolo, che punta a conquistare Mediobanca, la quota nelle Generali e metà della rete del Monte, cedendone l'altra metà al gruppo Unipol. Con il corollario, tutt'altro che secondario, di riportare le Generali, qualora aderissero all'offerta, nell'azionariato di Siena, con una quota di circa il 10% del capitale. L'ingresso del Leone, che si diluirà in caso di fusione con Bpm, potrebbe costituire la base su cui edificare una partnership nella bancassicurazione, anche alla luce del fatto che a fine 2027 scadrà la jv tra il Monte e Axa. Mps proporrà un dividendo straordinario da 4 miliardi.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "mps",
-        "banca generali",
-        "banco bpm",
-        "credit agricole",
-        "generali",
-        "intesa sanpaolo",
-        "mediobanca",
-        "lovaglio"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 79,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/08/20/news/mps_cda_straordinario_lovaglio_doppia_offerta_supercedola_soci-425537771/"
-      },
-      "analysis": {
-        "mainFact": "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm",
-        "whyItMatters": "Il progetto punta a creare un gruppo con una capitalizzazione aggregata di circa 70 miliardi.",
-        "confirmedFacts": [
-          "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm",
-          "Il progetto punta a creare un gruppo con una capitalizzazione aggregata di circa 70 miliardi.",
-          "Sul piatto un extra dividendo da 4 miliardi ai soci senesi, anche in azioni Generali",
-          "Una doppia offerta per rilevare Banco Bpm e Banca Generali nel tentativo di resistere, con un progetto industriale alternativo, all'opas da 30,6 miliardi messa in campo da Intesa Sanpaolo, che punta a conquistare Mediobanca, la quota nelle Generali e metà della rete del Monte, cedendone l'altra metà al gruppo Unipol.",
-          "Con il corollario, tutt'altro che secondario, di riportare le Generali, qualora aderissero all'offerta, nell'azionariato di Siena, con una quota di circa il 10% del capitale.",
-          "L'ingresso del Leone, che si diluirà in caso di fusione con Bpm, potrebbe costituire la base su cui edificare una partnership nella bancassicurazione, anche alla luce del fatto che a fine 2027 scadrà la jv tra il Monte e Axa.",
-          "Mps proporrà un dividendo straordinario da 4 miliardi"
-        ],
-        "uncertainties": [
-          "L’operazione prevede due offerte pubbliche di scambio su Banca Generali e su Banco Bpm, e renderebbe Crédit Agricole e il Leone grandi soci del futuro polo."
-        ],
-        "peopleAndOrganizations": [
-          "Mps",
-          "Banca Generali",
-          "Banco Bpm",
-          "Crédit Agricole",
-          "Generali",
-          "Intesa Sanpaolo",
-          "Mediobanca",
-          "Lovaglio"
-        ],
-        "numbersAndDates": [
-          "Sul piatto un extra dividendo da 4 miliardi ai soci senesi, anche in azioni Generali",
-          "Una doppia offerta per rilevare Banco Bpm e Banca Generali nel tentativo di resistere, con un progetto industriale alternativo, all'opas da 30,6 miliardi messa in campo da Intesa Sanpaolo, che punta a conquistare Mediobanca, la quota nelle Generali e metà della rete del Monte, cedendone l'altra metà al gruppo Unipol.",
-          "Con il corollario, tutt'altro che secondario, di riportare le Generali, qualora aderissero all'offerta, nell'azionariato di Siena, con una quota di circa il 10% del capitale.",
-          "L'ingresso del Leone, che si diluirà in caso di fusione con Bpm, potrebbe costituire la base su cui edificare una partnership nella bancassicurazione, anche alla luce del fatto che a fine 2027 scadrà la jv tra il Monte e Axa.",
-          "Mps proporrà un dividendo straordinario da 4 miliardi",
-          "70"
-        ]
-      }
-    },
-    {
-      "id": "story-05b0b5e07180e0b5",
-      "title": "Un link usava i permessi di Copilot Personal: le PMI italiane verifichino i servizi collegati",
-      "summary": "Un solo link poteva indurre Microsoft Copilot Personal a eseguire automaticamente un prompt malevolo, leggere email, calendari, file e conversazioni già accessibili all’assistente e inviare i dati a u...",
-      "spokenText": "Bastava un solo link per trasformare Microsoft Copilot Personal in un canale di fuga di dati. Il meccanismo era tanto semplice quanto insidioso: quel collegamento sfruttava la sessione già autenticata e i permessi concessi dall’utente per eseguire in automatico un prompt malevolo. Durante queste conversazioni l’assistente ha anche indicato il parametro non documentato autorun=1. La distinzione è decisiva, perché la ricerca riguarda Copilot Personal e non dimostra che lo stesso meccanismo abbia funzionato contro Microsoft 365 Copilot. Per le piccole e medie imprese italiane la lezione è chiara: il perimetro da controllare comprende anche gli account personali usati su dispositivi o browser di lavoro e i servizi cloud collegati dagli utenti.",
+      "id": "story-4e6a30f9f3df7911",
+      "title": "Un terzo delle pagine web è scritto dall’AI",
+      "summary": "Secondo uno studio di Pew Research Center, circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale. The post Un terzo delle pagine web è scritto dall’AI appeared first on Punto Informatico.",
+      "spokenText": "Circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale. Pew Research Center ha utilizzato un campione casuale di 10.000 pagine in inglese, relative al mese di luglio 2026, presenti nell’archivio Common Crawl . Le pagine web scritte dall’AI erano solo il 10% circa, in quanto il campione include anche pagine pubblicate prima dell’arrivo di ChatGPT a novembre 2022. La maggioranza delle pagine AI sono state pubblicate da siti con dominio . Com (9,4%) e . Org (4,6%). Il 35% di pagine scritte dall’AI dopo l’arrivo di ChatGPT Molti utenti hanno sicuramente letto articoli scritti interamente dall’AI . Le pagine scritte dall’AI sono circa il 35% (dato praticamente uguale a quello ottenuto con altri studi ).",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "microsoft copilot personal",
-        "pmi italiane",
-        "microsoft 365 copilot"
+        "pew research center",
+        "chatgpt",
+        "common crawl"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 45,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/un-link-usava-i-permessi-di-copilot-personal-le-pmi-italiane-verifichino-i-servizi-collegati"
-      },
-      "analysis": {
-        "mainFact": "Un solo link poteva indurre Microsoft Copilot Personal a eseguire automaticamente un prompt malevolo, leggere email, calendari, file e conversazioni già accessibili all'assistente e inviare i dati a un server esterno.",
-        "whyItMatters": "Per le PMI italiane il perimetro da controllare comprende anche gli account personali utilizzati su dispositivi o browser di lavoro e i servizi cloud collegati dagli utenti.",
-        "confirmedFacts": [
-          "Un solo link poteva indurre Microsoft Copilot Personal a eseguire automaticamente un prompt malevolo, leggere email, calendari, file e conversazioni già accessibili all'assistente e inviare i dati a un server esterno.",
-          "Per le PMI italiane il perimetro da controllare comprende anche gli account personali utilizzati su dispositivi o browser di lavoro e i servizi cloud collegati dagli utenti.",
-          "Durante queste conversazioni l’assistente ha indicato il parametro non documentato autorun=1 .",
-          "Il link malevolo sfruttava la sessione autenticata e le autorizzazioni già concesse dall’utente.",
-          "La distinzione è decisiva, perché la ricerca riguarda Copilot Personal e non dimostra che lo stesso meccanismo abbia funzionato contro Microsoft 365 Copilot."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Microsoft Copilot Personal",
-          "PMI italiane",
-          "Microsoft 365 Copilot"
-        ],
-        "numbersAndDates": [
-          "Durante queste conversazioni l’assistente ha indicato il parametro non documentato autorun=1 .",
-          "La distinzione è decisiva, perché la ricerca riguarda Copilot Personal e non dimostra che lo stesso meccanismo abbia funzionato contro Microsoft 365 Copilot."
-        ]
-      }
-    },
-    {
-      "id": "story-cbfca8d9a13231a6",
-      "title": "L’AI di Google devierà i voli per evitare le scie di condensazione",
-      "summary": "Le scie degli aerei sembrano innocue ma causano un terzo dell'impatto climatico dell'aviazione. L'AI di Google le prevede e devia le rotte. The post L’AI di Google devierà i voli per evitare le scie di condensazione appeared first on Punto Informatico.",
-      "spokenText": "Quelle linee bianche che gli aerei disegnano e che lentamente si allargano fino a svanire, le scie di condensazione, sembrano del tutto innocue. Eppure, sono responsabili di circa un terzo dell’impatto climatico totale dell’aviazione. E finora, a differenza del carburante o dei motori, era un fronte su cui non si poteva intervenire direttamente. Google ha sviluppato un’intelligenza artificiale capace di prevedere con precisione dove e quando queste scie si formeranno. La vera novità è che questa previsione si trasforma in un’azione concreta: deviare le rotte degli aerei per evitare le zone a rischio. Non si tratta di una scelta lasciata al passeggero, ma di una modifica operativa che agisce direttamente sull’impatto climatico del volo. Per dare una dimensione all’intervento, saranno deviati diecimila voli sull’Atlantico. Diecimila rotte leggermente spostate per impedire la formazione di quelle strisce bianche che, ora lo sappiamo, di innocuo hanno ben poco.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 58,
+      "estimatedSeconds": 50,
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/ai-google-deviera-voli-evitare-scie-condensazione/"
+        "url": "https://www.punto-informatico.it/terzo-pagine-web-scritto-ai/"
       },
       "analysis": {
-        "mainFact": "Google ha sviluppato un'AI che prevede dove si formeranno le scie di condensazione e devia le rotte per evitarle.",
-        "whyItMatters": "Ma prevedere e deviare le rotte per evitare le scie è un intervento diretto sull’impatto climatico dell’aviazione, non una scelta del consumatore, ma una modifica operativa.",
+        "mainFact": "Circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale.",
+        "whyItMatters": "In base ad un nuovo studio pubblicato Pew Research Center, un terzo delle pagine web in lingua inglese è scritto dall’intelligenza artificiale.",
         "confirmedFacts": [
-          "Google ha sviluppato un'AI che prevede dove si formeranno le scie di condensazione e devia le rotte per evitarle.",
-          "Ma prevedere e deviare le rotte per evitare le scie è un intervento diretto sull’impatto climatico dell’aviazione, non una scelta del consumatore, ma una modifica operativa.",
-          "Sono responsabili di circa un terzo dell’impatto climatico totale dell’aviazione.",
-          "Quelle linee bianche che gli aerei lasciano nel cielo, le scie di condensazione , sembrano innocue.",
-          "Per evitarli saranno deviati 10.000 voli sull’Atlantico.",
-          "Le scie degli aerei sembrano innocue ma causano un terzo dell'impatto climatico dell'aviazione.",
-          "L'AI di Google devierà i voli per evitare le scie di condensazione Le scie degli aerei sembrano innocue ma causano un terzo dell'impatto climatico dell'aviazione."
+          "Circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale.",
+          "In base ad un nuovo studio pubblicato Pew Research Center, un terzo delle pagine web in lingua inglese è scritto dall’intelligenza artificiale.",
+          "Pew Research Center ha utilizzato un campione casuale di 10.000 pagine in inglese, relative al mese di luglio 2026, presenti nell’archivio Common Crawl .",
+          "Le pagine web scritte dall’AI erano solo il 10% circa, in quanto il campione include anche pagine pubblicate prima dell’arrivo di ChatGPT a novembre 2022.",
+          "La maggioranza delle pagine AI sono state pubblicate da siti con dominio . com (9,4%) e . org (4,6%).",
+          "Un terzo delle pagine web è scritto dall'AI Secondo uno studio di Pew Research Center, circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale.",
+          "Il 35% di pagine scritte dall’AI dopo l’arrivo di ChatGPT Molti utenti hanno sicuramente letto articoli scritti interamente dall’AI .",
+          "Le pagine scritte dall’AI sono circa il 35% (dato praticamente uguale a quello ottenuto con altri studi )."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Google"
+          "Pew Research Center",
+          "ChatGPT",
+          "Common Crawl"
         ],
         "numbersAndDates": [
-          "Per evitarli saranno deviati 10.000 voli sull’Atlantico."
+          "Pew Research Center ha utilizzato un campione casuale di 10.000 pagine in inglese, relative al mese di luglio 2026, presenti nell’archivio Common Crawl .",
+          "Le pagine web scritte dall’AI erano solo il 10% circa, in quanto il campione include anche pagine pubblicate prima dell’arrivo di ChatGPT a novembre 2022.",
+          "La maggioranza delle pagine AI sono state pubblicate da siti con dominio . com (9,4%) e . org (4,6%).",
+          "Un terzo delle pagine web è scritto dall'AI Secondo uno studio di Pew Research Center, circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale.",
+          "Il 35% di pagine scritte dall’AI dopo l’arrivo di ChatGPT Molti utenti hanno sicuramente letto articoli scritti interamente dall’AI .",
+          "Le pagine scritte dall’AI sono circa il 35% (dato praticamente uguale a quello ottenuto con altri studi ).",
+          "35"
         ]
       }
     },
     {
-      "id": "story-33fb243e14c95916",
-      "title": "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica",
-      "summary": "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica. I premi della NASA, per un totale di circa 30 milioni di dollari, forniranno supporto pluriennale alle università selezionate per costruire i loro team.",
-      "spokenText": "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica. I premi, per un totale di circa 30 milioni di dollari, forniranno supporto pluriennale alle università selezionate per costruire i loro team e condurre ricerca. Per più di 10 anni, la University Leadership Initiative della NASA ha promosso idee audaci, ricerca collaborativa e soluzioni guidate da team.",
+      "id": "story-692d51e1e128cf80",
+      "title": "Waymo svela il cervello digitale dei suoi robotaxi",
+      "summary": "Waymo ha svelato interessanti dettagli sui componenti hardware dei robotaxi, tra cui un ASIC custom che offre prestazioni superiori a 1.000 TOPS. The post Waymo svela il cervello digitale dei suoi robotaxi appeared first on Punto Informatico.",
+      "spokenText": "Waymo ha tolto il velo al cervello digitale dei suoi robotaxi, svelando per la prima volta dettagli molto interessanti sull'hardware sviluppato internamente. Si tratta di un ASIC custom, un circuito integrato progettato su misura, capace di eseguire trilioni di operazioni al secondo. Per dare un’idea della potenza di calcolo, le prestazioni superano i 1.000 TOPS, un dato che colloca questo chip ben oltre la semplice gestione dei sensori. L’azienda, sussidiaria di Alphabet, ha rivelato che questo componente è alloggiato nel bagagliaio dei veicoli, orchestrando in tempo reale la complessa percezione dell’ambiente circostante. La pubblicazione di questi dettagli segna un momento di trasparenza inedito per l’azienda californiana, che ha deciso di mostrare il cuore tecnologico su cui si basa il suo servizio di guida autonoma. Dettagli del chip nascosto nel bagagliaio Attualmente Waymo offre il servizio di robotaxi in 10 città degli Stati Uniti (Phoenix, Los Angeles, San Francisco, Miami, Orlando, Atlanta, Nashville, Austin, Dallas e Houston).",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "waymo",
+        "alphabet"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 63,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/waymo-svela-cervello-digitale-robotaxi/"
+      },
+      "analysis": {
+        "mainFact": "Waymo ha svelato un ASIC custom per i suoi robotaxi che offre prestazioni superiori a 1.000 TOPS.",
+        "whyItMatters": "Waymo (sussidiaria di Alphabet) ha pubblicato per la prima volta interessanti informazioni sulle tecnologie sviluppate per i suoi robotaxi .",
+        "confirmedFacts": [
+          "Waymo ha svelato un ASIC custom per i suoi robotaxi che offre prestazioni superiori a 1.000 TOPS.",
+          "Waymo (sussidiaria di Alphabet) ha pubblicato per la prima volta interessanti informazioni sulle tecnologie sviluppate per i suoi robotaxi .",
+          "L’azienda californiana ha svelato in particolare il “cervello digitale” dei veicoli a guida autonoma, ovvero un ASIC (Application Specific Integrated Circuit) custom in grado di eseguire trilioni di operazioni al secondo.",
+          "Dettagli del chip nascosto nel bagagliaio Attualmente Waymo offre il servizio di robotaxi in 10 città degli Stati Uniti (Phoenix, Los Angeles, San Francisco, Miami, Orlando, Atlanta, Nashville, Austin, Dallas e Houston).",
+          "Waymo svela il cervello digitale dei suoi robotaxi Waymo ha svelato interessanti dettagli sui componenti hardware dei robotaxi, tra cui un ASIC custom che offre prestazioni superiori a 1.000 TOPS.",
+          "Le prestazioni sono elevatissime: oltre 1.000 TOPS (trilioni di operazioni al secondo)."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Waymo",
+          "Alphabet"
+        ],
+        "numbersAndDates": [
+          "Dettagli del chip nascosto nel bagagliaio Attualmente Waymo offre il servizio di robotaxi in 10 città degli Stati Uniti (Phoenix, Los Angeles, San Francisco, Miami, Orlando, Atlanta, Nashville, Austin, Dallas e Houston).",
+          "Waymo svela il cervello digitale dei suoi robotaxi Waymo ha svelato interessanti dettagli sui componenti hardware dei robotaxi, tra cui un ASIC custom che offre prestazioni superiori a 1.000 TOPS.",
+          "Le prestazioni sono elevatissime: oltre 1.000 TOPS (trilioni di operazioni al secondo).",
+          "1.000"
+        ]
+      }
+    },
+    {
+      "id": "story-c3fb5cdf4722cd6d",
+      "title": "Scoperta una Mega-Terra, è rocciosa e gigantesca",
+      "summary": "Distante A 87 anni luce, la sua massa 23 volte maggiore rispetto a quella del nostro pianeta",
+      "spokenText": "È stata scoperta una 'Mega-Terra', un pianeta roccioso gigantesco chiamato GJ 523b. Il nuovo pianeta scoperto, chiamato GJ 523b , non appartiene a nessuna delle famiglie note finora. Per questo è stato classificato in modo informale come Mega-Terra. \"La domanda è: perché questo pianeta non ha seguito quel percorso, se ha una massa oltre 20 volte più grande della Terra? \", si chiede Kroft. Distante A 87 anni luce, la sua massa 23 volte maggiore rispetto a quella del nostro pianeta. La sua massa è infatti incredibilmente grande per un pianeta roccioso.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "nasa",
-        "university leadership initiative"
+        "gj 523b",
+        "universita del wisconsin madison",
+        "max kroft"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 24,
+      "estimatedSeconds": 37,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/21/scoperta-una-mega-terra-e-rocciosa-e-con-una-massa-23-volte-maggiore_946e4e1e-7f90-40f8-b9d3-f1e26a4cb6af.html"
       },
       "analysis": {
-        "mainFact": "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica.",
-        "whyItMatters": "I premi della NASA, per un totale di circa 30 milioni di dollari, forniranno supporto pluriennale alle università selezionate per costruire i loro team e condurre ricerca.",
+        "mainFact": "È stata scoperta una 'Mega-Terra', un pianeta roccioso gigantesco chiamato GJ 523b.",
+        "whyItMatters": "Il nuovo pianeta scoperto, chiamato GJ 523b , non appartiene a nessuna delle famiglie note finora e per questo è stato classificato in modo informale come Mega-Terra.",
         "confirmedFacts": [
-          "La NASA ha selezionato quattro team universitari per contribuire alla ricerca aeronautica.",
-          "I premi della NASA, per un totale di circa 30 milioni di dollari, forniranno supporto pluriennale alle università selezionate per costruire i loro team e condurre ricerca.",
-          "Per più di 10 anni, la University Leadership Initiative della NASA ha promosso idee audaci, ricerca collaborativa e soluzioni guidate da team."
+          "È stata scoperta una 'Mega-Terra', un pianeta roccioso gigantesco chiamato GJ 523b.",
+          "Il nuovo pianeta scoperto, chiamato GJ 523b , non appartiene a nessuna delle famiglie note finora e per questo è stato classificato in modo informale come Mega-Terra.",
+          "\"La domanda è: perché questo pianeta non ha seguito quel percorso, se ha una massa oltre 20 volte più grande della Terra? \", si chiede Kroft.",
+          "Distante A 87 anni luce, la sua massa 23 volte maggiore rispetto a quella del nostro pianeta",
+          "La sua massa è infatti incredibilmente grande per un pianeta roccioso."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "NASA",
-          "University Leadership Initiative"
+          "GJ 523b",
+          "Università del Wisconsin-Madison",
+          "Max Kroft"
         ],
         "numbersAndDates": [
-          "Per più di 10 anni, la University Leadership Initiative della NASA ha promosso idee audaci, ricerca collaborativa e soluzioni guidate da team.",
-          "30"
+          "\"La domanda è: perché questo pianeta non ha seguito quel percorso, se ha una massa oltre 20 volte più grande della Terra? \", si chiede Kroft.",
+          "Distante A 87 anni luce, la sua massa 23 volte maggiore rispetto a quella del nostro pianeta"
+        ]
+      }
+    },
+    {
+      "id": "story-98f2241c2142dc3b",
+      "title": "Apple Music stringe la morsa sulla musica generata dall’AI",
+      "summary": "Apple Music inasprisce le regole sui brani generati dall'AI. Arriva l'obbligo di segnalazione e nuovi tag Made With AI. The post Apple Music stringe la morsa sulla musica generata dall’AI appeared first on Punto Informatico.",
+      "spokenText": "Apple Music alza il tiro sulla musica generata dall'intelligenza artificiale e introduce l'obbligo di segnalazione per i brani che ne fanno uso. Spotify sta già adeguando i propri dispositivi interni, mentre Deezer ha scelto una linea più drastica, escludendo i brani interamente generati dall'AI dai suggerimenti algoritmici e dalle playlist editoriali. Arriva l'obbligo di segnalazione e nuovi tag Made With AI.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "apple music",
+        "spotify",
+        "deezer",
+        "riaa",
+        "ifpi"
+      ],
+      "importance": 52,
+      "mustInclude": true,
+      "estimatedSeconds": 25,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/apple-music-stringe-morsa-musica-generata-ai/"
+      },
+      "analysis": {
+        "mainFact": "Apple Music inasprisce le regole sui brani generati dall'AI e introduce l'obbligo di segnalazione.",
+        "whyItMatters": "Apple Music: obbligatorio segnalare i brani generati dall’AI Ma Apple vuole andare oltre e intende contrassegnare i contenuti generati con l’AI .",
+        "confirmedFacts": [
+          "Apple Music inasprisce le regole sui brani generati dall'AI e introduce l'obbligo di segnalazione.",
+          "Apple Music: obbligatorio segnalare i brani generati dall’AI Ma Apple vuole andare oltre e intende contrassegnare i contenuti generati con l’AI .",
+          "Mentre Spotify e Deezer adeguano i propri dispositivi di fronte all’aumento dei brani interamente generati o parzialmente prodotti dall’AI, Apple intende allinearsi e inasprisce i toni.",
+          "Le etichette per segnalare la musica AI La RIAA e l’IFPI propongono due etichette standard per segnalare la musica generata dall’intelligenza artificiale sulle piattaforme di streaming .",
+          "Su Deezer , i brani interamente generati dall’AI vengono esclusi dai suggerimenti e dalle playlist editoriali.",
+          "Arriva l'obbligo di segnalazione e nuovi tag Made With AI.",
+          "Apple Music stringe la morsa sulla musica generata dall'AI Apple Music inasprisce le regole sui brani generati dall'AI."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Apple Music",
+          "Spotify",
+          "Deezer",
+          "RIAA",
+          "IFPI"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-f2b3eab5de98ad56",
+      "title": "Ritorno amaro per Harry, deve pagare le spese legali al Mail",
+      "summary": "È polemica sulla scorta ai Sussex, 'costerà 5 milioni'. Meghan 'vuole tornare sulle scene'",
+      "spokenText": "Harry dovrà pagare le spese legali al Mail, dopo che la sua maxi richiesta di rimborso è stata respinta. Una battaglia giudiziaria che si chiude con un conto salato, mentre i legali del principe e degli altri vip coinvolti hanno tempo fino al 2 ottobre per presentare un appello, anche se ottenere il via libera non è affatto automatico. Intanto, si riaccende la polemica sulla scorta ai Sussex: secondo le stime, garantire la protezione a Harry e Meghan potrebbe costare fino a 5 milioni di sterline. Dai Davies, ex responsabile di Scotland Yard per la protezione dei reali, ha spiegato che il ritorno di Harry ha cambiato le carte in tavola. Intanto sui media britannici emerso che Meghan potrebbe tornare a recitare in un progetto non ancora specificato: sarebbe la sua prima parte da attrice da quando lasci le scene alla vigilia del matrimonio con Harry nel 2018, dopo aver interpretato il ruolo dell'avvocatessa Rachel Zane nella serie 'Suits'.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "harry",
+        "meghan",
+        "mail",
+        "dai davies",
+        "scotland yard"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 64,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/21/harry-e-gli-altri-vip-devono-pagare-11-milioni-per-causa-persa_b41a11a3-523c-4497-ab12-a9bc482601aa.html"
+      },
+      "analysis": {
+        "mainFact": "Harry deve pagare le spese legali al Mail dopo una maxi richiesta di rimborso.",
+        "whyItMatters": "È polemica sulla scorta ai Sussex, 'costerà 5 milioni'.",
+        "confirmedFacts": [
+          "Harry deve pagare le spese legali al Mail dopo una maxi richiesta di rimborso.",
+          "È polemica sulla scorta ai Sussex, 'costerà 5 milioni'.",
+          "Salvo che non ci sia un appello: i legali del principe e degli altri vip hanno tempo per presentarlo fino al 2 ottobre, sebbene non sia automatico ottenere il via libera.",
+          "Dai Davies, ex responsabile di Scotland Yard per la protezione dei reali, ha detto che il ritorno di Harry \"ha cambiato le cose\": portare con s la famiglia, essere residente nel Regno e il suo profilo pubblico fanno aumentare le possibilit che ottenga la protezione della polizia.",
+          "In questo si inserisce l'ipotesi di un ritorno di Meghan sulle scene, dopo l'addio alla carriera di attrice prima di sposarsi con Harry nel 2018:",
+          "Intanto sui media britannici emerso che Meghan potrebbe tornare a recitare in un progetto non ancora specificato: sarebbe la sua prima parte da attrice da quando lasci le scene alla vigilia del matrimonio con Harry nel 2018, dopo aver interpretato il ruolo dell'avvocatessa Rachel Zane nella serie 'Suits'.",
+          "La scorta per Harry e Meghan potrebbe costare 5 milioni, è polemica in Gb"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Harry",
+          "Meghan",
+          "Mail",
+          "Dai Davies",
+          "Scotland Yard"
+        ],
+        "numbersAndDates": [
+          "Salvo che non ci sia un appello: i legali del principe e degli altri vip hanno tempo per presentarlo fino al 2 ottobre, sebbene non sia automatico ottenere il via libera.",
+          "In questo si inserisce l'ipotesi di un ritorno di Meghan sulle scene, dopo l'addio alla carriera di attrice prima di sposarsi con Harry nel 2018:",
+          "Intanto sui media britannici emerso che Meghan potrebbe tornare a recitare in un progetto non ancora specificato: sarebbe la sua prima parte da attrice da quando lasci le scene alla vigilia del matrimonio con Harry nel 2018, dopo aver interpretato il ruolo dell'avvocatessa Rachel Zane nella serie 'Suits'.",
+          "La scorta per Harry e Meghan potrebbe costare 5 milioni, è polemica in Gb",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "story-5d19fbf098fad8a9",
+      "title": "TikTok ha accettato di pagare 400 milioni di dollari agli Stati Uniti per chiudere una causa per violazione della privacy dei minori",
+      "summary": "TikTok ha accettato di pagare 400 milioni di dollari agli Stati Uniti per chiudere una causa per violazione della privacy dei minori. L'accordo deriva da una causa del 2024 che accusava TikTok e la sua società madre ByteDance di aver raccolto 'grandi quantità di dati' su milioni di utenti di età inferiore ai 13 anni.",
+      "spokenText": "TikTok ha accettato di versare 400 milioni di dollari agli Stati Uniti per chiudere una causa legata alla violazione della privacy dei minori. L’intesa prevede un pagamento immediato di 300 milioni al Dipartimento di Giustizia, mentre i restanti 100 saranno corrisposti quando il governo annullerà un decreto di consenso del 2019 stipulato con la Commissione Federale per il Commercio. L’azione legale, avviata nel 2024, accusava TikTok e la sua società madre ByteDance di aver raccolto ingenti quantità di dati su un vasto numero di utenti sotto i tredici anni. Questa condotta violava il Children's Online Privacy Protection Act, la legge federale nota come COPPA, in vigore dal 2000.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "tiktok",
+        "bytedance",
+        "musical ly"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 44,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "TikTok ha accettato di pagare 400 milioni di dollari agli Stati Uniti per chiudere una causa per violazione della privacy dei minori.",
+        "whyItMatters": "L'accordo deriva da una causa del 2024 che accusava TikTok e la sua società madre ByteDance di aver raccolto 'grandi quantità di dati' su milioni di utenti di età inferiore ai 13 anni.",
+        "confirmedFacts": [
+          "TikTok ha accettato di pagare 400 milioni di dollari agli Stati Uniti per chiudere una causa per violazione della privacy dei minori.",
+          "L'accordo deriva da una causa del 2024 che accusava TikTok e la sua società madre ByteDance di aver raccolto 'grandi quantità di dati' su milioni di utenti di età inferiore ai 13 anni.",
+          "TikTok e ByteDance pagheranno immediatamente 300 milioni di dollari al Dipartimento di Giustizia.",
+          "Pagherà altri 100 milioni di dollari quando il governo annullerà un decreto di consenso del 2019 con la Commissione Federale per il Commercio.",
+          "Farlo era contro il Children's Online Privacy Protection Act (COPPA), una legge federale emanata nel 2000."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "TikTok",
+          "ByteDance",
+          "Musical.ly"
+        ],
+        "numbersAndDates": [
+          "TikTok e ByteDance pagheranno immediatamente 300 milioni di dollari al Dipartimento di Giustizia.",
+          "Pagherà altri 100 milioni di dollari quando il governo annullerà un decreto di consenso del 2019 con la Commissione Federale per il Commercio.",
+          "Farlo era contro il Children's Online Privacy Protection Act (COPPA), una legge federale emanata nel 2000.",
+          "400",
+          "2024",
+          "13"
         ]
       }
     },
     {
       "id": "story-ed6e31b62f50e8d7",
-      "title": "La missione cinese Chang'e-7, il cui lancio è previsto per questo mese, utilizzerà un 'hopper' progettato per scendere nei crateri permanentemente in",
-      "summary": "La missione cinese Chang'e-7, il cui lancio è previsto per questo mese, utilizzerà un 'hopper' progettato per scendere nei crateri permanentemente in ombra del Polo Sud lunare alla ricerca di ghiaccio d'acqua accessibile.",
-      "spokenText": "Calare un 'hopper', una sorta di sonda rimbalzante, direttamente dentro i crateri permanentemente in ombra del Polo Sud lunare. L'obiettivo è cercare ghiaccio d'acqua accessibile, una risorsa che si trova sul fondo di avvallamenti profondi e difficilissimi da raggiungere, dove il Sole non splende mai. È rimasto lì intatto per miliardi di anni, intrappolato a temperature che scendono ben al di sotto dei –200°C. Si tratta di una missione statale coordinata, in cui ogni elemento è stato progettato attorno a questo unico scopo specifico, e potrà contare su un'infrastruttura già operativa: il satellite Queqiao-2. Lanciato separatamente a marzo del 2024, ha già supportato la missione Chang'e-6 e ora faciliterà le comunicazioni tra la Terra e la superficie lunare per Chang'e-7. La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
+      "title": "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud",
+      "summary": "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud. La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
+      "spokenText": "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud. Si tratta di una missione statale coordinata, con elementi progettati attorno a un unico obiettivo specifico, e potrà contare su un'infrastruttura già operativa: il satellite Queqiao-2. Lanciato separatamente nel marzo 2024, ha già supportato la missione Chang'e-6 e adesso faciliterà la comunicazione tra la Terra e la superficie lunare durante questa nuova fase. Accedere a quel ghiaccio sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare, dove il Sole non splende mai. È rimasto intatto per miliardi di anni a temperature ben al di sotto dei –200°C. Intanto la NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti. La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
       "category": "scienza",
       "tags": [
         "scienza",
@@ -519,23 +486,23 @@
         "chang e 7",
         "queqiao 2"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 54,
+      "estimatedSeconds": 63,
       "source": {
         "name": "The Conversation",
         "url": "https://theconversation.com/china-is-launching-a-moon-mission-to-find-water-ice-its-unlike-anything-nasa-has-done-289710"
       },
       "analysis": {
-        "mainFact": "La missione cinese Chang'e-7, il cui lancio è previsto per questo mese, utilizzerà un 'hopper' progettato per scendere nei crateri permanentemente in ombra del Polo Sud lunare alla ricerca di ghiaccio d'acqua accessibile.",
-        "whyItMatters": "Missione lunare cinese innovativa per cercare ghiaccio d'acqua. Avanzamento scientifico concreto.",
+        "mainFact": "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud.",
+        "whyItMatters": "La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
         "confirmedFacts": [
-          "La missione cinese Chang'e-7, il cui lancio è previsto per questo mese, utilizzerà un 'hopper' progettato per scendere nei crateri permanentemente in ombra del Polo Sud lunare alla ricerca di ghiaccio d'acqua accessibile.",
-          "Missione lunare cinese innovativa per cercare ghiaccio d'acqua. Avanzamento scientifico concreto.",
-          "Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da percorrere dove il Sole non splende mai, rimasto intatto per miliardi di anni a temperature ben al di sotto di –200°C.",
-          "Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
+          "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud.",
+          "La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
+          "Lanciato separatamente nel marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
           "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un unico obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
-          "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti."
+          "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
+          "Quello che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei –200°C."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
@@ -544,106 +511,120 @@
           "Queqiao-2"
         ],
         "numbersAndDates": [
-          "Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da percorrere dove il Sole non splende mai, rimasto intatto per miliardi di anni a temperature ben al di sotto di –200°C.",
-          "Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
+          "Lanciato separatamente nel marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
           "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un unico obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
           "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
+          "Quello che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei –200°C.",
           "7"
         ]
       }
     },
     {
-      "id": "story-62d842f9693ce433",
-      "title": "L'IDF ha pubblicato i risultati di un'indagine interna su cinque incidenti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di",
-      "summary": "L'IDF ha pubblicato i risultati di un'indagine interna su cinque incidenti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di soccorritori palestinesi, ma non per il raid sulla World Central Kitchen.",
-      "spokenText": "Le Forze di Difesa Israeliane hanno pubblicato i risultati di un'indagine interna su cinque incidenti avvenuti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di soccorritori palestinesi, ma non per il raid sulla World Central Kitchen. Il Primo Ministro australiano Anthony Albanese ha definito 'uno scandalo' la decisione di non aprire un'indagine penale sugli attacchi che hanno ucciso l'operatrice umanitaria australiana Zomi Frankcom e sei suoi colleghi nell'aprile 2024. L'IDF ha riconosciuto che i soldati hanno aperto il fuoco sul veicolo che trasportava la cinquenne Hind Rajab e la sua famiglia mentre fuggivano da Gaza City nel gennaio 2024. Un'analisi di 52 inchieste militari israeliane tra il 2023 e il 2025 ha rilevato che l'88% era ancora in fase di revisione o era stato archiviato. Il gruppo israeliano per i diritti umani Yesh Din ha scoperto che il 72% delle denunce presentate all'IDF nel 2019-20 è stato archiviato senza indagine penale e solo il 2% ha portato a procedimenti giudiziari.",
-      "category": "diritti",
+      "id": "story-ea30f1427491b7a3",
+      "title": "L'ONU ha dichiarato che l'epidemia di Ebola in Congo sta crescendo in modo esponenziale",
+      "summary": "Negli ultimi tre mesi sono morte 2.500 persone. Msf, un decesso ogni mezz'ora",
+      "spokenText": "L'ONU ha dichiarato che l'epidemia di Ebola in Congo sta crescendo in modo esponenziale. Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti. Negli ultimi tre mesi sono morte 2.500 persone. Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora.",
+      "category": "salute",
       "tags": [
-        "diritti",
-        "anthony albanese",
-        "zomi frankcom",
-        "hind rajab",
-        "yesh din"
+        "salute",
+        "congo",
+        "onu"
       ],
-      "importance": 72,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 66,
+      "estimatedSeconds": 24,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/can-the-israeli-military-be-trusted-to-investigate-itself-evidence-shows-genuine-accountability-is-rare-290142"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/21/ebola-in-repubblica-democratica-del-congo-msf-un-decesso-ogni-mezzora_da4d02b9-815b-4afa-b0c7-d73828f43890.html"
       },
       "analysis": {
-        "mainFact": "L'IDF ha pubblicato i risultati di un'indagine interna su cinque incidenti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di soccorritori palestinesi, ma non per il raid sulla World Central Kitchen.",
-        "whyItMatters": "Analisi su accountability militare e indagini interne. Tema di diritti umani e giustizia internazionale.",
+        "mainFact": "L'ONU ha dichiarato che l'epidemia di Ebola in Congo sta crescendo in modo esponenziale.",
+        "whyItMatters": "Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora.",
         "confirmedFacts": [
-          "L'IDF ha pubblicato i risultati di un'indagine interna su cinque incidenti a Gaza, ordinando un'inchiesta penale per l'uccisione di Hind Rajab e di soccorritori palestinesi, ma non per il raid sulla World Central Kitchen.",
-          "Analisi su accountability militare e indagini interne. Tema di diritti umani e giustizia internazionale.",
-          "Il Primo Ministro australiano Anthony Albanese ha definito 'uno scandalo' la decisione delle Forze di Difesa Israeliane (IDF) di non aprire un'indagine penale sugli attacchi israeliani che hanno ucciso un'operatrice umanitaria australiana, Zomi Frankcom, e sei suoi colleghi a Gaza nell'aprile 2024.",
-          "Sono: L'uccisione di Hind Rajab, gennaio 2024: L'IDF ha riconosciuto che i soldati hanno aperto il fuoco su un veicolo che trasportava la cinquenne Hind Rajab e la sua famiglia mentre fuggivano da Gaza City.",
-          "Un'altra indagine su 52 inchieste militari israeliane tra il 2023 e il 2025 ha rilevato che l'88% era ancora in fase di revisione o era stato archiviato.",
-          "Il gruppo israeliano per i diritti umani Yesh Din ha analizzato le denunce presentate all'IDF nel 2019-20 e ha scoperto che il 72% è stato archiviato senza indagine penale e solo il 2% ha portato a procedimenti giudiziari."
+          "L'ONU ha dichiarato che l'epidemia di Ebola in Congo sta crescendo in modo esponenziale.",
+          "Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora.",
+          "Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti.",
+          "Negli ultimi tre mesi sono morte 2.500 persone."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Anthony Albanese",
-          "Zomi Frankcom",
-          "Hind Rajab",
-          "Yesh Din"
+          "Congo",
+          "ONU"
         ],
         "numbersAndDates": [
-          "Il Primo Ministro australiano Anthony Albanese ha definito 'uno scandalo' la decisione delle Forze di Difesa Israeliane (IDF) di non aprire un'indagine penale sugli attacchi israeliani che hanno ucciso un'operatrice umanitaria australiana, Zomi Frankcom, e sei suoi colleghi a Gaza nell'aprile 2024.",
-          "Sono: L'uccisione di Hind Rajab, gennaio 2024: L'IDF ha riconosciuto che i soldati hanno aperto il fuoco su un veicolo che trasportava la cinquenne Hind Rajab e la sua famiglia mentre fuggivano da Gaza City.",
-          "Un'altra indagine su 52 inchieste militari israeliane tra il 2023 e il 2025 ha rilevato che l'88% era ancora in fase di revisione o era stato archiviato.",
-          "Il gruppo israeliano per i diritti umani Yesh Din ha analizzato le denunce presentate all'IDF nel 2019-20 e ha scoperto che il 72% è stato archiviato senza indagine penale e solo il 2% ha portato a procedimenti giudiziari."
+          "Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti.",
+          "Negli ultimi tre mesi sono morte 2.500 persone."
         ]
       }
     },
     {
-      "id": "story-ce81dde085bf53b6",
-      "title": "Francia, Germania e Regno Unito hanno dichiarato inaccettabili i nuovi bandi israeliani per costruire insediamenti in Cisgiordania, definendoli illegali secondo il diritto internazionale",
-      "summary": "Dichiarazione congiunta dei leader dei quattro Paesi: «Il diritto internazionale stabilisce chiaramente che gli insediamenti israeliani in Cisgiordania sono illegali. Questa è la posizione della comunità internazionale, ribadita dal Consiglio di Sicurezza delle Nazioni Unite»",
-      "spokenText": "Germania e Regno Unito hanno definito inaccettabili i nuovi bandi israeliani per costruire insediamenti in Cisgiordania, ribadendo che si tratta di atti illegali secondo il diritto internazionale. Italia, Germania e Regno Unito hanno condannato in particolare i bandi per edificare nella zona E1, affermando che rendono impossibile la Palestina. Queste iniziative non solo allontanano ulteriormente la prospettiva di pace, ma compromettono anche la posizione internazionale di Israele. Intanto, la Cnn ha rivelato il bilancio della guerra con oltre 750 militari americani feriti e 18 morti in Iran. Le reti di contrabbando nate negli anni per aggirare 20 anni di blocchi israeliani incassano milioni di dollari.",
-      "category": "mondo",
+      "id": "story-9b2ee5d708000dc3",
+      "title": "Sei femminicidi si sono verificati in pochi giorni",
+      "summary": "Sei femminicidi in pochi giorni: tra denunce inascoltate e braccialetti scarichi, l'inasprimento delle pene non basta senza vera prevenzione e risorse.",
+      "spokenText": "In pochi giorni si sono verificati sei femminicidi, una sequenza che ha scosso l'opinione pubblica e riacceso il dibattito sulla violenza di genere.",
+      "category": "diritti",
       "tags": [
-        "mondo",
-        "italia",
-        "francia",
-        "germania",
-        "regno unito",
-        "israele",
-        "cisgiordania"
+        "diritti"
       ],
-      "importance": 60,
+      "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 42,
+      "estimatedSeconds": 10,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-trump-annuncia-guerra-economica-contro-l-iran-AJJviFq"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/perche-lo-stato-non-protegge-le-donne-femminicidi/"
       },
       "analysis": {
-        "mainFact": "Francia, Germania e Regno Unito hanno dichiarato inaccettabili i nuovi bandi israeliani per costruire insediamenti in Cisgiordania, definendoli illegali secondo il diritto internazionale.",
-        "whyItMatters": "Non solo ci allontanano ulteriormente dalla pace , ma compromettono ulteriormente anche la posizione internazionale di Israele .",
+        "mainFact": "Sei femminicidi si sono verificati in pochi giorni.",
+        "whyItMatters": "Analisi su fallimento prevenzione femminicidi, tocca diritti e politiche sociali con dati concreti.",
         "confirmedFacts": [
-          "Francia, Germania e Regno Unito hanno dichiarato inaccettabili i nuovi bandi israeliani per costruire insediamenti in Cisgiordania, definendoli illegali secondo il diritto internazionale.",
-          "Non solo ci allontanano ulteriormente dalla pace , ma compromettono ulteriormente anche la posizione internazionale di Israele .",
-          "Italia, Germania e Regno Unito condannano i bandi per edificare nella zona E1: “Rendono impossibile la Palestina”",
-          "Cnn rivela bilancio guerra, oltre 750 militari americani feriti e 18 morti Iran:",
-          "operazione segreta Usa per il trasporto di petrolio attraverso Hormuz Trump annuncia guerra economica contro l’Iran 19:04 20 agosto 2026 Aggiornamento fissato Italia, Francia, Germania e Regno Unito:",
-          "Le reti di contrabbando nate negli anni per aggirare 20 anni di blocchi israeliani incassano milioni di dollari."
+          "Sei femminicidi si sono verificati in pochi giorni.",
+          "Analisi su fallimento prevenzione femminicidi, tocca diritti e politiche sociali con dati concreti.",
+          "Sei femminicidi in pochi giorni: tra denunce inascoltate e braccialetti scarichi, l'inasprimento delle pene non basta senza vera prevenzione e risorse."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-51aa31b8404ff59d",
+      "title": "Le case adattate per far fronte alle estati britanniche a 40°C",
+      "summary": "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si è trasferita 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e poco isolamento: faticavano a tenere caldo d'inverno e si surriscaldavano d'estate. Baeli stima che la domanda di energia nella sua casa ristrutturata sia diminuita dell'88%, garantendole un risparmio annuo di quasi 750 sterline sulle bollette.",
+      "spokenText": "Dieci anni fa, quando la famiglia Baeli si trasferì nella loro casa, la situazione era tipica di molte abitazioni britanniche: infissi in PVC con doppi vetri pieni di spifferi, incapaci di trattenere il calore d'inverno e che d'estate trasformavano le stanze in una serra. Oggi, dopo una profonda ristrutturazione, la loro realtà è radicalmente cambiata. L'intervento ha ridotto la domanda di energia dell'88%, un dato che si traduce in un risparmio concreto di quasi 750 sterline l'anno sulle bollette. Questo approccio progettuale ha un costo aggiuntivo che, secondo il Passivhaus Trust, varia da un 2% extra per un appartamento fino a un 5% per una casa bifamiliare. Un sovrapprezzo che si sceglie di affrontare anche su larga scala: Oliver Novakovic, direttore tecnico e dell'innovazione, spiega che lo sviluppo Bollo Lane con i suoi 900 appartamenti è un esperimento per rendere l'azienda a prova di futuro e anticipare normative in continuo inasprimento, anche se applicare lo standard costerà di più.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "passivhaus trust",
+        "bollo lane development"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 64,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si è trasferita 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e poco isolamento: faticavano a tenere caldo d'inverno e si surriscaldavano d'estate.",
+        "whyItMatters": "Baeli stima che la domanda di energia nella sua casa ristrutturata sia diminuita dell'88%, garantendole un risparmio annuo di quasi 750 sterline sulle bollette.",
+        "confirmedFacts": [
+          "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si è trasferita 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e poco isolamento: faticavano a tenere caldo d'inverno e si surriscaldavano d'estate.",
+          "Baeli stima che la domanda di energia nella sua casa ristrutturata sia diminuita dell'88%, garantendole un risparmio annuo di quasi 750 sterline sulle bollette.",
+          "Secondo il Passivhaus Trust, il costo di costruzione aggiuntivo associato alla realizzazione secondo lo standard varia da un 2% extra per gli appartamenti a un 5% per una casa bifamiliare.",
+          "Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che lo sviluppo Bollo Lane da 900 appartamenti è un esperimento per 'rendere l'azienda a prova di futuro' e anticipare le normative 'in continuo inasprimento', anche se applicare lo standard costerà di più."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Italia",
-          "Francia",
-          "Germania",
-          "Regno Unito",
-          "Israele",
-          "Cisgiordania"
+          "Passivhaus Trust",
+          "Bollo Lane development"
         ],
         "numbersAndDates": [
-          "Cnn rivela bilancio guerra, oltre 750 militari americani feriti e 18 morti Iran:",
-          "operazione segreta Usa per il trasporto di petrolio attraverso Hormuz Trump annuncia guerra economica contro l’Iran 19:04 20 agosto 2026 Aggiornamento fissato Italia, Francia, Germania e Regno Unito:",
-          "Le reti di contrabbando nate negli anni per aggirare 20 anni di blocchi israeliani incassano milioni di dollari."
+          "Secondo il Passivhaus Trust, il costo di costruzione aggiuntivo associato alla realizzazione secondo lo standard varia da un 2% extra per gli appartamenti a un 5% per una casa bifamiliare.",
+          "Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che lo sviluppo Bollo Lane da 900 appartamenti è un esperimento per 'rendere l'azienda a prova di futuro' e anticipare le normative 'in continuo inasprimento', anche se applicare lo standard costerà di più.",
+          "40",
+          "10",
+          "88",
+          "750"
         ]
       }
     }
