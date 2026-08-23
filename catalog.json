@@ -1,484 +1,499 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-22-56952588fb53",
-  "generatedAt": "2026-08-22T05:22:29.203Z",
+  "catalogId": "daily-quid-2026-08-23-cc5c1e486287",
+  "generatedAt": "2026-08-23T05:24:55.934Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-42753287f3009fea",
-      "title": "Attivato il protocollo per un sospetto caso di Ebola in Trentino",
-      "summary": "Isolato il paziente con sintomi compatibili e storia di viaggio recente. Analisi in corso",
-      "spokenText": "È stato isolato un paziente con sintomi compatibili con l'Ebola e una storia di viaggio recente.",
-      "category": "salute",
+      "id": "story-9759ccbddd8791fc",
+      "title": "Giappone, terremoto di magnitudo 5.9 avvertito fino a Tokyo. Diversi feriti e disagi ai servizi ferroviari",
+      "summary": "Escluso il rischio tsunami, nessuna anomalia agli impianti nucleari",
+      "spokenText": "Una scossa di terremoto di magnitudo 5. 9 è stata distintamente avvertita fino alla capitale Tokyo, causando diversi feriti e generando pesanti disagi alla rete ferroviaria. Secondo i rilievi dell’Agenzia meteorologica giapponese, il sisma ha raggiunto un’intensità massima di ‘5-inferiore’ sulla scala sismica nazionale, che va da 0 a 7. Questo livello di scuotimento è stato registrato in diverse località delle prefetture di Ibaraki, Saitama e Chiba, oltre che in alcuni quartieri della stessa Tokyo. Terremoto in Perù: una scossa 6.",
+      "category": "ambiente",
       "tags": [
-        "salute",
-        "trentino"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 7,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/21/attivato-il-protocollo-per-un-sospetto-caso-di-ebola-in-trentino_ccf9c4ff-5c58-4e0d-ae6f-67a7366a0f1c.html"
-      },
-      "analysis": {
-        "mainFact": "È stato isolato un paziente con sintomi compatibili con l'Ebola e una storia di viaggio recente.",
-        "whyItMatters": "Sospetto caso Ebola in Italia, protocollo attivato, potenziale emergenza sanitaria.",
-        "confirmedFacts": [
-          "È stato isolato un paziente con sintomi compatibili con l'Ebola e una storia di viaggio recente.",
-          "Sospetto caso Ebola in Italia, protocollo attivato, potenziale emergenza sanitaria.",
-          "Isolato il paziente con sintomi compatibili e storia di viaggio recente."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Trentino"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-ecc734fe19e347b1",
-      "title": "Trump: «D-Day economico contro l’Iran». Ma sulle nuove sanzioni è scontro con la Cina",
-      "summary": "Il presidente americano: «Tutti i Paesi devono collaborare all’isolamento di Teheran». Pechino, principale acquirente del petrolio iraniano: «Serve soluzione diplomatica»",
-      "spokenText": "L'annuncio, tuttavia, non è stato accompagnato da dettagli su quali ulteriori sanzioni economiche potrebbero essere adottate contro un regime già sottoposto a restrizioni da quasi mezzo secolo, ovvero dalla Rivoluzione Islamica del 1979. Il portavoce del ministero degli Esteri cinese, Lin Jian, ha dichiarato in una conferenza stampa ufficiale che le sanzioni e le pressioni economiche sull'Iran non aiuteranno a risolvere i problemi, sottolineando la necessità di una soluzione diplomatica. Pechino, principale acquirente del petrolio iraniano: «Serve soluzione diplomatica».",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "iran",
-        "cina",
-        "lin jian"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/trump-d-day-economico-contro-l-iran-ma-nuove-sanzioni-e-scontro-la-cina-AJpZAeq"
-      },
-      "analysis": {
-        "mainFact": "Trump annuncia un \"D-Day economico contro l'Iran\" e chiede a tutti i Paesi di collaborare all'isolamento di Teheran.",
-        "whyItMatters": "Trump non ha chiarito quali altre sanzioni economiche saranno adottate contro un regime messo sotto controllo da quasi mezzo secolo, ovvero dalla Rivoluzione Islamica del 1979.",
-        "confirmedFacts": [
-          "Trump annuncia un \"D-Day economico contro l'Iran\" e chiede a tutti i Paesi di collaborare all'isolamento di Teheran.",
-          "Trump non ha chiarito quali altre sanzioni economiche saranno adottate contro un regime messo sotto controllo da quasi mezzo secolo, ovvero dalla Rivoluzione Islamica del 1979.",
-          "«Le sanzioni e le pressioni economiche sull’Iran non aiuteranno a risolvere i problemi», ha affermato il portavoce del ministero degli Esteri cinese, Lin Jian, durante una conferenza stampa ufficiale.",
-          "Pechino, principale acquirente del petrolio iraniano: «Serve soluzione diplomatica»"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Iran",
-          "Cina",
-          "Lin Jian"
-        ],
-        "numbersAndDates": [
-          "1979"
-        ]
-      }
-    },
-    {
-      "id": "story-8313948b08328bf2",
-      "title": "Scoperto un deposito d’armi in un bosco vicino a Berlino: “Sospetto sugli 007 di Mosca”",
-      "summary": "Rinvenute anche scorte di munizioni. Nel mirino dirigenti dell’industria della difesa ed esponenti dell’opposizione russa",
-      "spokenText": "Un deposito segreto di armi è stato scoperto nelle vicinanze di Berlino, in un’area boschiva. All’interno sono state rinvenute armi da fuoco e scorte di munizioni. L’episodio ha sollevato sospetti su un possibile coinvolgimento dei servizi di Mosca. Scoperto un deposito d’armi in un bosco vicino a Berlino: “Sospetto sugli 007 di Mosca”. Secondo i media, già alla fine dell'estate scorsa, grazie a una segnalazione, gli agenti hanno individuato un deposito nascosto nel bosco contenente armi da fuoco.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "berlino",
-        "mosca"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/22/news/germania_scoperto_deposito_armi_bosco_sospetto_spie_mosca-425540623/"
-      },
-      "analysis": {
-        "mainFact": "Scoperto un deposito d’armi in un bosco vicino a Berlino: “Sospetto sugli 007 di Mosca”",
-        "whyItMatters": "Rinvenute anche scorte di munizioni.",
-        "confirmedFacts": [
-          "Scoperto un deposito d’armi in un bosco vicino a Berlino: “Sospetto sugli 007 di Mosca”",
-          "Rinvenute anche scorte di munizioni.",
-          "Un deposito segreto di armi è stato scoperto nelle vicinanze di Berlino."
-        ],
-        "uncertainties": [
-          "Secondo i media, già alla fine dell'estate scorsa, grazie a una segnalazione, gli agenti hanno individuato un deposito nascosto nel bosco contenente armi da fuoco."
-        ],
-        "peopleAndOrganizations": [
-          "Berlino",
-          "Mosca"
-        ],
-        "numbersAndDates": [
-          "007"
-        ]
-      }
-    },
-    {
-      "id": "story-d8b36922abfdca28",
-      "title": "Zelensky, 'ignobile attacco russo su centro commerciale di Kryvyi Rih, 5 morti'",
-      "summary": "'I feriti sono 52, tra cui sei bambini'",
-      "spokenText": "Il presidente ucraino Volodymyr Zelensky ha condannato l'attacco russo contro un centro commerciale a Kryvyi Rih, che ha causato almeno cinque morti e 52 feriti, tra cui sei bambini. Intanto, nella notte tra giovedì e venerdì, nuovi raid hanno colpito Sumy, con sei feriti, e la regione di Odessa, dove un drone ha danneggiato il valico di Tabaky, sospendendo temporaneamente il traffico al confine con la Moldova. Complessivamente, nell'ultima giornata, otto persone sono rimaste ferite nella regione. Intanto, quella tra giovedì 20 e venerdì 21 agosto, è stata una nuova notte di attacchi tra Russia e Ucraina .",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "zelensky",
-        "russia",
-        "ucraina",
-        "kryvyi rih",
-        "mosca"
-      ],
-      "importance": 70,
-      "mustInclude": true,
-      "estimatedSeconds": 40,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/zelensky-ignobile-attacco-russo-su-centro-commerciale-di-kryvyi-rih-5-morti_4b9ac74f-341d-4a3c-9994-8f2d75911277.html"
-      },
-      "analysis": {
-        "mainFact": "Il presidente ucraino Volodymyr Zelensky ha condannato un attacco russo contro un centro commerciale a Kryvyi Rih che ha causato almeno cinque morti e 52 feriti.",
-        "whyItMatters": "\"Un attacco assolutamente cinico e spregevole stato perpetrato dai russi contro un normale centro commerciale a Kryvyi Rih\", ha dichiarato Zelensky su X, riportando un bilancio di cinque morti e 52 feriti, \"tra cui sei bambini\", a seguito dell'attacco diurno nella sua citt natale.",
-        "confirmedFacts": [
-          "Il presidente ucraino Volodymyr Zelensky ha condannato un attacco russo contro un centro commerciale a Kryvyi Rih che ha causato almeno cinque morti e 52 feriti.",
-          "\"Un attacco assolutamente cinico e spregevole stato perpetrato dai russi contro un normale centro commerciale a Kryvyi Rih\", ha dichiarato Zelensky su X, riportando un bilancio di cinque morti e 52 feriti, \"tra cui sei bambini\", a seguito dell'attacco diurno nella sua citt natale.",
-          "Intanto, quella tra giovedì 20 e venerdì 21 agosto, è stata una nuova notte di attacchi tra Russia e Ucraina .",
-          "A Sumy, un attacco notturno con droni ha provocato sei feriti, tra cui una ragazza di 16 anni.",
-          "Colpita anche la regione di Odessa: durante la notte un drone russo ha danneggiato il valico internazionale di Tabaky, al confine con la Moldova, costringendo le autorità a sospendere temporaneamente il traffico di persone e veicoli.",
-          "Complessivamente nella regione le autorità riferiscono di otto persone ferite dagli attacchi russi nell’ultima giornata , ma sei sono riconducibili al raid della notte sulla città.",
-          "Il presidente ucraino Volodymyr Zelensky ha condannato l'attacco \"cinico e ignobile\" di Mosca contro un centro commerciale a Kryvyi Rih, in Ucraina centrale, che ha causato almeno cinque morti e 52 feriti, secondo un bilancio ufficiale.",
-          "La richiesta di Zelensky era che Musk consentisse all’Ucraina di utilizzare Starlink su droni da attacco in profondità fino a 200 km all’interno della Russia , un raggio che includerebbe le infrastrutture di lancio dei missili balistici, i sistemi di comando e altre risorse."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Zelensky",
-          "Russia",
-          "Ucraina",
-          "Kryvyi Rih",
-          "Mosca"
-        ],
-        "numbersAndDates": [
-          "Intanto, quella tra giovedì 20 e venerdì 21 agosto, è stata una nuova notte di attacchi tra Russia e Ucraina .",
-          "A Sumy, un attacco notturno con droni ha provocato sei feriti, tra cui una ragazza di 16 anni.",
-          "La richiesta di Zelensky era che Musk consentisse all’Ucraina di utilizzare Starlink su droni da attacco in profondità fino a 200 km all’interno della Russia , un raggio che includerebbe le infrastrutture di lancio dei missili balistici, i sistemi di comando e altre risorse.",
-          "52"
-        ]
-      }
-    },
-    {
-      "id": "story-bb794f9771f25959",
-      "title": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati",
-      "summary": "Ministro Quirno: 'non c'è tempo da perdere, se non si avanza procederemo bilateralmente'",
-      "spokenText": "L'Argentina sta spingendo con decisione all'interno del Mercosur per accelerare l'apertura a nuovi mercati. Il ministro Quirno è stato molto chiaro: non c'è tempo da perdere e, se non si avanzerà insieme, il paese procederà bilateralmente. Nel difendere la strategia di liberalizzazione commerciale del governo, Quirno ha sottolineato i risultati già ottenuti, affermando che, anche grazie ai trattati siglati nel quadro del Mercosur, in meno di tre anni l'Argentina è passata da accordi che coprivano circa il 10% del pil mondiale al 30% attuale.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "argentina",
-        "mercosur",
-        "ministro quirno"
+        "ambiente",
+        "giappone",
+        "tokyo",
+        "agenzia meteorologica giapponese jma",
+        "ibaraki",
+        "saitama",
+        "chiba"
       ],
       "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 34,
+      "estimatedSeconds": 33,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/largentina-preme-sul-mercosur-per-accelerare-lapertura-a-nuovi-mercati_7e07c20a-f3cd-4bfd-bb20-c94cb11be18a.html"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/23/news/terremoto_giappone_59_tokyo-425542365/"
       },
       "analysis": {
-        "mainFact": "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati.",
-        "whyItMatters": "Quirno ha difeso la strategia di liberalizzazione commerciale del governo e ha affermato che, anche grazie ai trattati siglati nel quadro del Mercosur, \"in meno di tre anni, l'Argentina passata da accordi che coprivano circa il 10% del pil mondiale al 30% attuale\".",
+        "mainFact": "Un terremoto di magnitudo 5. 9 è stato avvertito fino a Tokyo, causando diversi feriti e disagi ai servizi ferroviari.",
+        "whyItMatters": "Il sisma ha raggiunto un'intensità massima di '5-inferiore' sulla scala sismica giapponese - che varia da 0 a 7 - in diverse località delle prefetture di Ibaraki, Saitama e Chiba, nonché in alcuni quartieri di Tokyo.",
         "confirmedFacts": [
-          "L'Argentina preme sul Mercosur per accelerare l'apertura a nuovi mercati.",
-          "Quirno ha difeso la strategia di liberalizzazione commerciale del governo e ha affermato che, anche grazie ai trattati siglati nel quadro del Mercosur, \"in meno di tre anni, l'Argentina passata da accordi che coprivano circa il 10% del pil mondiale al 30% attuale\".",
-          "Ministro Quirno: 'non c'è tempo da perdere, se non si avanza procederemo bilateralmente'"
+          "Un terremoto di magnitudo 5. 9 è stato avvertito fino a Tokyo, causando diversi feriti e disagi ai servizi ferroviari.",
+          "Il sisma ha raggiunto un'intensità massima di '5-inferiore' sulla scala sismica giapponese - che varia da 0 a 7 - in diverse località delle prefetture di Ibaraki, Saitama e Chiba, nonché in alcuni quartieri di Tokyo.",
+          "Terremoto in Perù: una scossa 6."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Argentina",
-          "Mercosur",
-          "Ministro Quirno"
+          "Giappone",
+          "Tokyo",
+          "Agenzia meteorologica giapponese (Jma)",
+          "Ibaraki",
+          "Saitama",
+          "Chiba"
         ],
         "numbersAndDates": [
-          "10",
-          "30"
+          "Terremoto in Perù: una scossa 6.",
+          "5",
+          "9",
+          "0",
+          "7"
         ]
       }
     },
     {
-      "id": "story-4e6a30f9f3df7911",
-      "title": "Un terzo delle pagine web è scritto dall’AI",
-      "summary": "Secondo uno studio di Pew Research Center, circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale. The post Un terzo delle pagine web è scritto dall’AI appeared first on Punto Informatico.",
-      "spokenText": "Circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale. Pew Research Center ha utilizzato un campione casuale di 10.000 pagine in inglese, relative al mese di luglio 2026, presenti nell’archivio Common Crawl . Le pagine web scritte dall’AI erano solo il 10% circa, in quanto il campione include anche pagine pubblicate prima dell’arrivo di ChatGPT a novembre 2022. La maggioranza delle pagine AI sono state pubblicate da siti con dominio . Com (9,4%) e . Org (4,6%). Il 35% di pagine scritte dall’AI dopo l’arrivo di ChatGPT Molti utenti hanno sicuramente letto articoli scritti interamente dall’AI . Le pagine scritte dall’AI sono circa il 35% (dato praticamente uguale a quello ottenuto con altri studi ).",
-      "category": "tecnologia",
+      "id": "story-662f4bf481d7f3db",
+      "title": "Si, il morbillo è ancora pericoloso (e colpisce ancora)",
+      "summary": "Guarire dal morbillo non significa necessariamente recuperare subito tutte le difese immunitarie presenti prima dell’infezione. Il virus può cancellare una parte della memoria sviluppata contro altri...",
+      "spokenText": "L'infezione naturale da morbillo può ridurre il numero di anticorpi, eliminando parte delle risposte immunitarie costruite con precedenti infezioni o vaccinazioni. Il virus può cancellare una parte della memoria sviluppata contro altri patogeni, rendendo il paziente più vulnerabile a ulteriori malattie anche dopo la scomparsa dei sintomi. Analizzando campioni raccolti prima e dopo l’infezione in 77 bambini non vaccinati, i ricercatori hanno rilevato la scomparsa dell’11% fino al 73% degli anticorpi preesistenti contro altri virus e batteri.",
+      "category": "salute",
       "tags": [
-        "tecnologia",
-        "pew research center",
-        "chatgpt",
-        "common crawl"
+        "salute",
+        "morbillo"
       ],
-      "importance": 85,
+      "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 50,
+      "estimatedSeconds": 31,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/terzo-pagine-web-scritto-ai/"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/morbillo-puo-cancellare-fino-al-73-degli-anticorpi-acquisiti"
       },
       "analysis": {
-        "mainFact": "Circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale.",
-        "whyItMatters": "In base ad un nuovo studio pubblicato Pew Research Center, un terzo delle pagine web in lingua inglese è scritto dall’intelligenza artificiale.",
+        "mainFact": "L'infezione naturale da morbillo può ridurre il numero di anticorpi, eliminando parte delle risposte immunitarie costruite con precedenti infezioni o vaccinazioni.",
+        "whyItMatters": "Il virus può cancellare una parte della memoria sviluppata contro altri patogeni, rendendo il paziente più vulnerabile a ulteriori malattie anche dopo la scomparsa dei sintomi.",
         "confirmedFacts": [
-          "Circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale.",
-          "In base ad un nuovo studio pubblicato Pew Research Center, un terzo delle pagine web in lingua inglese è scritto dall’intelligenza artificiale.",
-          "Pew Research Center ha utilizzato un campione casuale di 10.000 pagine in inglese, relative al mese di luglio 2026, presenti nell’archivio Common Crawl .",
-          "Le pagine web scritte dall’AI erano solo il 10% circa, in quanto il campione include anche pagine pubblicate prima dell’arrivo di ChatGPT a novembre 2022.",
-          "La maggioranza delle pagine AI sono state pubblicate da siti con dominio . com (9,4%) e . org (4,6%).",
-          "Un terzo delle pagine web è scritto dall'AI Secondo uno studio di Pew Research Center, circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale.",
-          "Il 35% di pagine scritte dall’AI dopo l’arrivo di ChatGPT Molti utenti hanno sicuramente letto articoli scritti interamente dall’AI .",
-          "Le pagine scritte dall’AI sono circa il 35% (dato praticamente uguale a quello ottenuto con altri studi )."
+          "L'infezione naturale da morbillo può ridurre il numero di anticorpi, eliminando parte delle risposte immunitarie costruite con precedenti infezioni o vaccinazioni.",
+          "Il virus può cancellare una parte della memoria sviluppata contro altri patogeni, rendendo il paziente più vulnerabile a ulteriori malattie anche dopo la scomparsa dei sintomi.",
+          "Analizzando campioni raccolti prima e dopo l’infezione in 77 bambini non vaccinati, i ricercatori hanno rilevato la scomparsa dell’11% fino al 73% degli anticorpi preesistenti contro altri virus e batteri."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Pew Research Center",
-          "ChatGPT",
-          "Common Crawl"
+          "morbillo"
         ],
         "numbersAndDates": [
-          "Pew Research Center ha utilizzato un campione casuale di 10.000 pagine in inglese, relative al mese di luglio 2026, presenti nell’archivio Common Crawl .",
-          "Le pagine web scritte dall’AI erano solo il 10% circa, in quanto il campione include anche pagine pubblicate prima dell’arrivo di ChatGPT a novembre 2022.",
-          "La maggioranza delle pagine AI sono state pubblicate da siti con dominio . com (9,4%) e . org (4,6%).",
-          "Un terzo delle pagine web è scritto dall'AI Secondo uno studio di Pew Research Center, circa il 35% delle pagine web in lingua inglese sono state scritte con tool di intelligenza artificiale.",
-          "Il 35% di pagine scritte dall’AI dopo l’arrivo di ChatGPT Molti utenti hanno sicuramente letto articoli scritti interamente dall’AI .",
-          "Le pagine scritte dall’AI sono circa il 35% (dato praticamente uguale a quello ottenuto con altri studi ).",
-          "35"
+          "Analizzando campioni raccolti prima e dopo l’infezione in 77 bambini non vaccinati, i ricercatori hanno rilevato la scomparsa dell’11% fino al 73% degli anticorpi preesistenti contro altri virus e batteri."
         ]
       }
     },
     {
-      "id": "story-692d51e1e128cf80",
-      "title": "Waymo svela il cervello digitale dei suoi robotaxi",
-      "summary": "Waymo ha svelato interessanti dettagli sui componenti hardware dei robotaxi, tra cui un ASIC custom che offre prestazioni superiori a 1.000 TOPS. The post Waymo svela il cervello digitale dei suoi robotaxi appeared first on Punto Informatico.",
-      "spokenText": "Waymo ha tolto il velo al cervello digitale dei suoi robotaxi, svelando per la prima volta dettagli molto interessanti sull'hardware sviluppato internamente. Si tratta di un ASIC custom, un circuito integrato progettato su misura, capace di eseguire trilioni di operazioni al secondo. Per dare un’idea della potenza di calcolo, le prestazioni superano i 1.000 TOPS, un dato che colloca questo chip ben oltre la semplice gestione dei sensori. L’azienda, sussidiaria di Alphabet, ha rivelato che questo componente è alloggiato nel bagagliaio dei veicoli, orchestrando in tempo reale la complessa percezione dell’ambiente circostante. La pubblicazione di questi dettagli segna un momento di trasparenza inedito per l’azienda californiana, che ha deciso di mostrare il cuore tecnologico su cui si basa il suo servizio di guida autonoma. Dettagli del chip nascosto nel bagagliaio Attualmente Waymo offre il servizio di robotaxi in 10 città degli Stati Uniti (Phoenix, Los Angeles, San Francisco, Miami, Orlando, Atlanta, Nashville, Austin, Dallas e Houston).",
-      "category": "tecnologia",
+      "id": "story-a8af78dbf51fb08c",
+      "title": "Nuovo caso di Febbre del Nilo nell'uomo nell'Oristanese, il 21/mo nel 2026",
+      "summary": "La Asl attiva la profilassi",
+      "spokenText": "Nuovo caso di Febbre del Nilo nell'uomo nell'Oristanese, il ventunesimo nel 2026.",
+      "category": "salute",
       "tags": [
-        "tecnologia",
-        "waymo",
-        "alphabet"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 63,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/waymo-svela-cervello-digitale-robotaxi/"
-      },
-      "analysis": {
-        "mainFact": "Waymo ha svelato un ASIC custom per i suoi robotaxi che offre prestazioni superiori a 1.000 TOPS.",
-        "whyItMatters": "Waymo (sussidiaria di Alphabet) ha pubblicato per la prima volta interessanti informazioni sulle tecnologie sviluppate per i suoi robotaxi .",
-        "confirmedFacts": [
-          "Waymo ha svelato un ASIC custom per i suoi robotaxi che offre prestazioni superiori a 1.000 TOPS.",
-          "Waymo (sussidiaria di Alphabet) ha pubblicato per la prima volta interessanti informazioni sulle tecnologie sviluppate per i suoi robotaxi .",
-          "L’azienda californiana ha svelato in particolare il “cervello digitale” dei veicoli a guida autonoma, ovvero un ASIC (Application Specific Integrated Circuit) custom in grado di eseguire trilioni di operazioni al secondo.",
-          "Dettagli del chip nascosto nel bagagliaio Attualmente Waymo offre il servizio di robotaxi in 10 città degli Stati Uniti (Phoenix, Los Angeles, San Francisco, Miami, Orlando, Atlanta, Nashville, Austin, Dallas e Houston).",
-          "Waymo svela il cervello digitale dei suoi robotaxi Waymo ha svelato interessanti dettagli sui componenti hardware dei robotaxi, tra cui un ASIC custom che offre prestazioni superiori a 1.000 TOPS.",
-          "Le prestazioni sono elevatissime: oltre 1.000 TOPS (trilioni di operazioni al secondo)."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Waymo",
-          "Alphabet"
-        ],
-        "numbersAndDates": [
-          "Dettagli del chip nascosto nel bagagliaio Attualmente Waymo offre il servizio di robotaxi in 10 città degli Stati Uniti (Phoenix, Los Angeles, San Francisco, Miami, Orlando, Atlanta, Nashville, Austin, Dallas e Houston).",
-          "Waymo svela il cervello digitale dei suoi robotaxi Waymo ha svelato interessanti dettagli sui componenti hardware dei robotaxi, tra cui un ASIC custom che offre prestazioni superiori a 1.000 TOPS.",
-          "Le prestazioni sono elevatissime: oltre 1.000 TOPS (trilioni di operazioni al secondo).",
-          "1.000"
-        ]
-      }
-    },
-    {
-      "id": "story-c3fb5cdf4722cd6d",
-      "title": "Scoperta una Mega-Terra, è rocciosa e gigantesca",
-      "summary": "Distante A 87 anni luce, la sua massa 23 volte maggiore rispetto a quella del nostro pianeta",
-      "spokenText": "È stata scoperta una 'Mega-Terra', un pianeta roccioso gigantesco chiamato GJ 523b. Il nuovo pianeta scoperto, chiamato GJ 523b , non appartiene a nessuna delle famiglie note finora. Per questo è stato classificato in modo informale come Mega-Terra. \"La domanda è: perché questo pianeta non ha seguito quel percorso, se ha una massa oltre 20 volte più grande della Terra? \", si chiede Kroft. Distante A 87 anni luce, la sua massa 23 volte maggiore rispetto a quella del nostro pianeta. La sua massa è infatti incredibilmente grande per un pianeta roccioso.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "gj 523b",
-        "universita del wisconsin madison",
-        "max kroft"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/21/scoperta-una-mega-terra-e-rocciosa-e-con-una-massa-23-volte-maggiore_946e4e1e-7f90-40f8-b9d3-f1e26a4cb6af.html"
-      },
-      "analysis": {
-        "mainFact": "È stata scoperta una 'Mega-Terra', un pianeta roccioso gigantesco chiamato GJ 523b.",
-        "whyItMatters": "Il nuovo pianeta scoperto, chiamato GJ 523b , non appartiene a nessuna delle famiglie note finora e per questo è stato classificato in modo informale come Mega-Terra.",
-        "confirmedFacts": [
-          "È stata scoperta una 'Mega-Terra', un pianeta roccioso gigantesco chiamato GJ 523b.",
-          "Il nuovo pianeta scoperto, chiamato GJ 523b , non appartiene a nessuna delle famiglie note finora e per questo è stato classificato in modo informale come Mega-Terra.",
-          "\"La domanda è: perché questo pianeta non ha seguito quel percorso, se ha una massa oltre 20 volte più grande della Terra? \", si chiede Kroft.",
-          "Distante A 87 anni luce, la sua massa 23 volte maggiore rispetto a quella del nostro pianeta",
-          "La sua massa è infatti incredibilmente grande per un pianeta roccioso."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "GJ 523b",
-          "Università del Wisconsin-Madison",
-          "Max Kroft"
-        ],
-        "numbersAndDates": [
-          "\"La domanda è: perché questo pianeta non ha seguito quel percorso, se ha una massa oltre 20 volte più grande della Terra? \", si chiede Kroft.",
-          "Distante A 87 anni luce, la sua massa 23 volte maggiore rispetto a quella del nostro pianeta"
-        ]
-      }
-    },
-    {
-      "id": "story-98f2241c2142dc3b",
-      "title": "Apple Music stringe la morsa sulla musica generata dall’AI",
-      "summary": "Apple Music inasprisce le regole sui brani generati dall'AI. Arriva l'obbligo di segnalazione e nuovi tag Made With AI. The post Apple Music stringe la morsa sulla musica generata dall’AI appeared first on Punto Informatico.",
-      "spokenText": "Apple Music alza il tiro sulla musica generata dall'intelligenza artificiale e introduce l'obbligo di segnalazione per i brani che ne fanno uso. Spotify sta già adeguando i propri dispositivi interni, mentre Deezer ha scelto una linea più drastica, escludendo i brani interamente generati dall'AI dai suggerimenti algoritmici e dalle playlist editoriali. Arriva l'obbligo di segnalazione e nuovi tag Made With AI.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "apple music",
-        "spotify",
-        "deezer",
-        "riaa",
-        "ifpi"
-      ],
-      "importance": 52,
-      "mustInclude": true,
-      "estimatedSeconds": 25,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/apple-music-stringe-morsa-musica-generata-ai/"
-      },
-      "analysis": {
-        "mainFact": "Apple Music inasprisce le regole sui brani generati dall'AI e introduce l'obbligo di segnalazione.",
-        "whyItMatters": "Apple Music: obbligatorio segnalare i brani generati dall’AI Ma Apple vuole andare oltre e intende contrassegnare i contenuti generati con l’AI .",
-        "confirmedFacts": [
-          "Apple Music inasprisce le regole sui brani generati dall'AI e introduce l'obbligo di segnalazione.",
-          "Apple Music: obbligatorio segnalare i brani generati dall’AI Ma Apple vuole andare oltre e intende contrassegnare i contenuti generati con l’AI .",
-          "Mentre Spotify e Deezer adeguano i propri dispositivi di fronte all’aumento dei brani interamente generati o parzialmente prodotti dall’AI, Apple intende allinearsi e inasprisce i toni.",
-          "Le etichette per segnalare la musica AI La RIAA e l’IFPI propongono due etichette standard per segnalare la musica generata dall’intelligenza artificiale sulle piattaforme di streaming .",
-          "Su Deezer , i brani interamente generati dall’AI vengono esclusi dai suggerimenti e dalle playlist editoriali.",
-          "Arriva l'obbligo di segnalazione e nuovi tag Made With AI.",
-          "Apple Music stringe la morsa sulla musica generata dall'AI Apple Music inasprisce le regole sui brani generati dall'AI."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Apple Music",
-          "Spotify",
-          "Deezer",
-          "RIAA",
-          "IFPI"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f2b3eab5de98ad56",
-      "title": "Ritorno amaro per Harry, deve pagare le spese legali al Mail",
-      "summary": "È polemica sulla scorta ai Sussex, 'costerà 5 milioni'. Meghan 'vuole tornare sulle scene'",
-      "spokenText": "Harry dovrà pagare le spese legali al Mail, dopo che la sua maxi richiesta di rimborso è stata respinta. Una battaglia giudiziaria che si chiude con un conto salato, mentre i legali del principe e degli altri vip coinvolti hanno tempo fino al 2 ottobre per presentare un appello, anche se ottenere il via libera non è affatto automatico. Intanto, si riaccende la polemica sulla scorta ai Sussex: secondo le stime, garantire la protezione a Harry e Meghan potrebbe costare fino a 5 milioni di sterline. Dai Davies, ex responsabile di Scotland Yard per la protezione dei reali, ha spiegato che il ritorno di Harry ha cambiato le carte in tavola. Intanto sui media britannici emerso che Meghan potrebbe tornare a recitare in un progetto non ancora specificato: sarebbe la sua prima parte da attrice da quando lasci le scene alla vigilia del matrimonio con Harry nel 2018, dopo aver interpretato il ruolo dell'avvocatessa Rachel Zane nella serie 'Suits'.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "harry",
-        "meghan",
-        "mail",
-        "dai davies",
-        "scotland yard"
+        "salute",
+        "oristanese"
       ],
       "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 64,
+      "estimatedSeconds": 5,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/21/harry-e-gli-altri-vip-devono-pagare-11-milioni-per-causa-persa_b41a11a3-523c-4497-ab12-a9bc482601aa.html"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/22/nuovo-caso-di-febbre-del-nilo-nelluomo-nelloristanese-il-21mo-nel-2026_89d7980b-64ea-46ac-86be-6da179da3fe9.html"
       },
       "analysis": {
-        "mainFact": "Harry deve pagare le spese legali al Mail dopo una maxi richiesta di rimborso.",
-        "whyItMatters": "È polemica sulla scorta ai Sussex, 'costerà 5 milioni'.",
+        "mainFact": "Nuovo caso di Febbre del Nilo nell'uomo nell'Oristanese, il 21/mo nel 2026",
+        "whyItMatters": "Nuovo caso di malattia tropicale autoctona in Italia, segnale di cambiamento epidemiologico rilevante.",
         "confirmedFacts": [
-          "Harry deve pagare le spese legali al Mail dopo una maxi richiesta di rimborso.",
-          "È polemica sulla scorta ai Sussex, 'costerà 5 milioni'.",
-          "Salvo che non ci sia un appello: i legali del principe e degli altri vip hanno tempo per presentarlo fino al 2 ottobre, sebbene non sia automatico ottenere il via libera.",
-          "Dai Davies, ex responsabile di Scotland Yard per la protezione dei reali, ha detto che il ritorno di Harry \"ha cambiato le cose\": portare con s la famiglia, essere residente nel Regno e il suo profilo pubblico fanno aumentare le possibilit che ottenga la protezione della polizia.",
-          "In questo si inserisce l'ipotesi di un ritorno di Meghan sulle scene, dopo l'addio alla carriera di attrice prima di sposarsi con Harry nel 2018:",
-          "Intanto sui media britannici emerso che Meghan potrebbe tornare a recitare in un progetto non ancora specificato: sarebbe la sua prima parte da attrice da quando lasci le scene alla vigilia del matrimonio con Harry nel 2018, dopo aver interpretato il ruolo dell'avvocatessa Rachel Zane nella serie 'Suits'.",
-          "La scorta per Harry e Meghan potrebbe costare 5 milioni, è polemica in Gb"
+          "Nuovo caso di Febbre del Nilo nell'uomo nell'Oristanese, il 21/mo nel 2026",
+          "Nuovo caso di malattia tropicale autoctona in Italia, segnale di cambiamento epidemiologico rilevante."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Harry",
-          "Meghan",
-          "Mail",
-          "Dai Davies",
-          "Scotland Yard"
+          "Oristanese"
         ],
         "numbersAndDates": [
-          "Salvo che non ci sia un appello: i legali del principe e degli altri vip hanno tempo per presentarlo fino al 2 ottobre, sebbene non sia automatico ottenere il via libera.",
-          "In questo si inserisce l'ipotesi di un ritorno di Meghan sulle scene, dopo l'addio alla carriera di attrice prima di sposarsi con Harry nel 2018:",
-          "Intanto sui media britannici emerso che Meghan potrebbe tornare a recitare in un progetto non ancora specificato: sarebbe la sua prima parte da attrice da quando lasci le scene alla vigilia del matrimonio con Harry nel 2018, dopo aver interpretato il ruolo dell'avvocatessa Rachel Zane nella serie 'Suits'.",
-          "La scorta per Harry e Meghan potrebbe costare 5 milioni, è polemica in Gb",
-          "5"
+          "21",
+          "2026"
         ]
       }
     },
     {
-      "id": "story-5d19fbf098fad8a9",
-      "title": "TikTok ha accettato di pagare 400 milioni di dollari agli Stati Uniti per chiudere una causa per violazione della privacy dei minori",
-      "summary": "TikTok ha accettato di pagare 400 milioni di dollari agli Stati Uniti per chiudere una causa per violazione della privacy dei minori. L'accordo deriva da una causa del 2024 che accusava TikTok e la sua società madre ByteDance di aver raccolto 'grandi quantità di dati' su milioni di utenti di età inferiore ai 13 anni.",
-      "spokenText": "TikTok ha accettato di versare 400 milioni di dollari agli Stati Uniti per chiudere una causa legata alla violazione della privacy dei minori. L’intesa prevede un pagamento immediato di 300 milioni al Dipartimento di Giustizia, mentre i restanti 100 saranno corrisposti quando il governo annullerà un decreto di consenso del 2019 stipulato con la Commissione Federale per il Commercio. L’azione legale, avviata nel 2024, accusava TikTok e la sua società madre ByteDance di aver raccolto ingenti quantità di dati su un vasto numero di utenti sotto i tredici anni. Questa condotta violava il Children's Online Privacy Protection Act, la legge federale nota come COPPA, in vigore dal 2000.",
+      "id": "story-81a3e45608e777f3",
+      "title": "Salta il negoziato, guerra dei dazi tra Stati Uniti e Canada",
+      "summary": "Già entrate in vigore le nuove tariffe del 50% che colpiscono 20 miliardi di dollari di merci canadesi. Il premier canadese Carney: «Chiedevano troppo e offrivano poco, ora replicheremo dollaro per dollaro»",
+      "spokenText": "È saltato il negoziato tra Stati Uniti e Canada, e sono già entrate in vigore le nuove tariffe americane del 50% che colpiscono circa 20 miliardi di dollari di merci canadesi, pari a circa il 5% dell’export verso gli Usa. Il primo ministro Mark Carney ha annunciato che il Canada replicherà dollaro per dollaro, con nuove tariffe in partenza dall’8 settembre. «Ci hanno chiesto troppo e offerto troppo poco», ha sintetizzato Carney.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "stati uniti",
+        "canada",
+        "mark carney"
+      ],
+      "importance": 90,
+      "mustInclude": true,
+      "estimatedSeconds": 29,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/salta-negoziato-guerra-dazi-stati-uniti-e-canada-AJEp4Fs"
+      },
+      "analysis": {
+        "mainFact": "Salta il negoziato, guerra dei dazi tra Stati Uniti e Canada",
+        "whyItMatters": "«In sintesi - ha aggiunto - gli Stati Uniti chiedevano troppo e offrivano troppo poco».",
+        "confirmedFacts": [
+          "Salta il negoziato, guerra dei dazi tra Stati Uniti e Canada",
+          "«In sintesi - ha aggiunto - gli Stati Uniti chiedevano troppo e offrivano troppo poco».",
+          "I nuovi dazi americani del 50% colpiscono, fin da subito, circa 20 miliardi di dollari di merci canadesi, pari a circa il 5% dell’export canadese verso gli Usa.",
+          "Il premier canadese Carney: «Chiedevano troppo e offrivano poco, ora replicheremo dollaro per dollaro»",
+          "Già entrate in vigore le nuove tariffe del 50% che colpiscono 20 miliardi di dollari di merci canadesi.",
+          "Canada: nuove tariffe contro Usa dall’8 settembre",
+          "Ad annunciarlo è stato il primo ministro canadese Mark Carney dopo l’entrata in vigore delle sovrattasse del 50% decise da Washington",
+          "«Ci hanno chiesto troppo e offerto troppo poco» , ha sintetizzato il primo ministro."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stati Uniti",
+          "Canada",
+          "Mark Carney"
+        ],
+        "numbersAndDates": [
+          "I nuovi dazi americani del 50% colpiscono, fin da subito, circa 20 miliardi di dollari di merci canadesi, pari a circa il 5% dell’export canadese verso gli Usa.",
+          "Già entrate in vigore le nuove tariffe del 50% che colpiscono 20 miliardi di dollari di merci canadesi.",
+          "Canada: nuove tariffe contro Usa dall’8 settembre",
+          "Ad annunciarlo è stato il primo ministro canadese Mark Carney dopo l’entrata in vigore delle sovrattasse del 50% decise da Washington"
+        ]
+      }
+    },
+    {
+      "id": "story-89ab06357a597002",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "summary": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike L'attacco a Kryvyi Rih è avvenuto il giorno dopo che 17 persone sono state uccise e più di 40 ferite in un grande attacco missilistico e di droni russi sulla capitale Ucraina Kiev.",
+      "spokenText": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike. L'attacco a Kryvyi Rih è avvenuto il giorno dopo che 17 persone sono state uccise e più di 40 ferite in un grande attacco missilistico e di droni russi sulla capitale Ucraina Kiev. Quattro persone sono ancora disperse dopo l'attacco di venerdì che ha ucciso 16 persone e ne ha ferite 130, tra cui un certo numero di bambini. Sedici persone sono state uccise e 130 ferite quando due droni hanno colpito il trafficato centro a Kryvyi Rih in rapida successione, in quello che è noto come un attacco a doppio colpo.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "kryvyi rih",
+        "belgorod"
+      ],
+      "importance": 62,
+      "mustInclude": true,
+      "estimatedSeconds": 42,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "whyItMatters": "L'attacco a Kryvyi Rih è avvenuto il giorno dopo che 17 persone sono state uccise e più di 40 ferite in un grande attacco missilistico e di droni russi sulla capitale Ucraina Kiev.",
+        "confirmedFacts": [
+          "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+          "L'attacco a Kryvyi Rih è avvenuto il giorno dopo che 17 persone sono state uccise e più di 40 ferite in un grande attacco missilistico e di droni russi sulla capitale Ucraina Kiev.",
+          "Quattro persone sono ancora disperse dopo l'attacco di venerdì che ha ucciso 16 persone e ne ha ferite 130, tra cui un certo numero di bambini.",
+          "Sedici persone sono state uccise e 130 ferite quando due droni hanno colpito il trafficato centro a Kryvyi Rih in rapida successione, in quello che è noto come un attacco a doppio colpo.",
+          "Hanzha ha detto che 52 feriti, tra cui 14 bambini, erano ancora negli ospedali cittadini.",
+          "Due persone sono state uccise in un attacco russo separato nella regione di Kiev, ha detto il servizio statale di emergenza ucraino DSNS.",
+          "Nella regione occidentale di Belgorod due persone sono state uccise e 13 ferite in attacchi aerei e bombardamenti ucraini, ha detto il governatore ad interim Alkesandr Shuvaev."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Russia",
+          "Kryvyi Rih",
+          "Belgorod"
+        ],
+        "numbersAndDates": [
+          "Quattro persone sono ancora disperse dopo l'attacco di venerdì che ha ucciso 16 persone e ne ha ferite 130, tra cui un certo numero di bambini.",
+          "Sedici persone sono state uccise e 130 ferite quando due droni hanno colpito il trafficato centro a Kryvyi Rih in rapida successione, in quello che è noto come un attacco a doppio colpo.",
+          "Hanzha ha detto che 52 feriti, tra cui 14 bambini, erano ancora negli ospedali cittadini.",
+          "Nella regione occidentale di Belgorod due persone sono state uccise e 13 ferite in attacchi aerei e bombardamenti ucraini, ha detto il governatore ad interim Alkesandr Shuvaev.",
+          "17",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "story-10315b45d89b6567",
+      "title": "Giudice federale Usa annulla il divieto Trump sui visti per immigrati da 75 Paesi",
+      "summary": "La corte di Manhattan ha dichiarato illegale la sospensione dei visti imposta a gennaio, che bloccava l’ingresso da quasi il 40% dei Paesi mondiali",
+      "spokenText": "Giudice federale Usa annulla il divieto Trump sui visti per immigrati da 75 Paesi. La corte di Manhattan ha dichiarato illegale la sospensione dei visti che bloccava l'ingresso da quasi il 40% dei Paesi mondiali, inclusi Egitto, Haiti, Somalia e Russia. La misura era stata annunciata in gennaio dal Dipartimento di Stato e aveva nel mirino circa il 40% dei paesi del mondo, inclusi Egitto, Haiti, Somalia e Russia. Vargas ha annullato il divieto dell'amministrazione Trump di rilasciare visti a migranti provenienti da 75 paesi.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "giudice federale usa",
+        "corte di manhattan",
+        "trump",
+        "dipartimento di stato",
+        "egitto",
+        "haiti",
+        "somalia",
+        "russia"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/giudice-federale-usa-annulla-divieto-trump-visti-immigrati-75-paesi-AJDY59r"
+      },
+      "analysis": {
+        "mainFact": "Giudice federale Usa annulla il divieto Trump sui visti per immigrati da 75 Paesi",
+        "whyItMatters": "La corte di Manhattan ha dichiarato illegale la sospensione dei visti che bloccava l'ingresso da quasi il 40% dei Paesi mondiali, inclusi Egitto, Haiti, Somalia e Russia.",
+        "confirmedFacts": [
+          "Giudice federale Usa annulla il divieto Trump sui visti per immigrati da 75 Paesi",
+          "La corte di Manhattan ha dichiarato illegale la sospensione dei visti che bloccava l'ingresso da quasi il 40% dei Paesi mondiali, inclusi Egitto, Haiti, Somalia e Russia.",
+          "La misura era stata annunciata in gennaio dal Dipartimento di Stato e aveva nel mirino circa il 40% dei paesi del mondo, inclusi Egitto, Haiti, Somalia e Russia.",
+          "Vargas ha annullato il divieto dell'amministrazione Trump di rilasciare visti a migranti provenienti da 75 paesi."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Giudice federale USA",
+          "corte di Manhattan",
+          "Trump",
+          "Dipartimento di Stato",
+          "Egitto",
+          "Haiti",
+          "Somalia",
+          "Russia"
+        ],
+        "numbersAndDates": [
+          "La misura era stata annunciata in gennaio dal Dipartimento di Stato e aveva nel mirino circa il 40% dei paesi del mondo, inclusi Egitto, Haiti, Somalia e Russia.",
+          "Vargas ha annullato il divieto dell'amministrazione Trump di rilasciare visti a migranti provenienti da 75 paesi.",
+          "75",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "story-c537227a83f0077a",
+      "title": "Violazione privacy minori: TikTok paga 400 milioni di dollari",
+      "summary": "TikTok ha accettato di pagare 400 milioni di dollari per la violazione della privacy dei minori di 13 anni (iscrizione senza consenso dei genitori). The post Violazione privacy minori: TikTok paga 400 milioni di dollari appeared first on Punto Informatico.",
+      "spokenText": "TikTok ha accettato di pagare 400 milioni di dollari per chiudere il procedimento legale avviato due anni fa con l’accusa di aver violato la privacy dei minori. L’intesa, sottoscritta ieri sera, arriva dopo un’indagine della Federal Trade Commission cominciata nel 2019, quando l’app si chiamava ancora Musical. ly. In quella fase era già stata accertata la violazione del Children’s Online Privacy Protection Act. Già allora TikTok aveva pagato 5,7 milioni di dollari per evitare uno scontro legale, ma non aveva poi introdotto misure adeguate per identificare e rimuovere quei profili. L’azienda cinese ha permesso l’iscrizione ai minori di 13 anni senza il consenso dei genitori e non ha cancellato gli account dopo le richieste dei genitori. Due senatori hanno chiesto informazioni su un esperimento che prevedeva la disattivazione delle protezioni per circa 15 milioni di utenti statunitensi.",
       "category": "diritti",
       "tags": [
         "diritti",
         "tiktok",
-        "bytedance",
+        "ftc",
         "musical ly"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 44,
+      "estimatedSeconds": 55,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/violazione-privacy-minori-tiktok-paga-400-milioni-dollari/"
       },
       "analysis": {
-        "mainFact": "TikTok ha accettato di pagare 400 milioni di dollari agli Stati Uniti per chiudere una causa per violazione della privacy dei minori.",
-        "whyItMatters": "L'accordo deriva da una causa del 2024 che accusava TikTok e la sua società madre ByteDance di aver raccolto 'grandi quantità di dati' su milioni di utenti di età inferiore ai 13 anni.",
+        "mainFact": "TikTok ha accettato di pagare 400 milioni di dollari per la violazione della privacy dei minori di 13 anni, che si iscrivevano senza il consenso dei genitori.",
+        "whyItMatters": "L’azienda cinese ha accettato di pagare 400 milioni di dollari per chiudere il procedimento legale avviato due anni fa con la denuncia per violazione della privacy dei minori .",
         "confirmedFacts": [
-          "TikTok ha accettato di pagare 400 milioni di dollari agli Stati Uniti per chiudere una causa per violazione della privacy dei minori.",
-          "L'accordo deriva da una causa del 2024 che accusava TikTok e la sua società madre ByteDance di aver raccolto 'grandi quantità di dati' su milioni di utenti di età inferiore ai 13 anni.",
-          "TikTok e ByteDance pagheranno immediatamente 300 milioni di dollari al Dipartimento di Giustizia.",
-          "Pagherà altri 100 milioni di dollari quando il governo annullerà un decreto di consenso del 2019 con la Commissione Federale per il Commercio.",
-          "Farlo era contro il Children's Online Privacy Protection Act (COPPA), una legge federale emanata nel 2000."
+          "TikTok ha accettato di pagare 400 milioni di dollari per la violazione della privacy dei minori di 13 anni, che si iscrivevano senza il consenso dei genitori.",
+          "L’azienda cinese ha accettato di pagare 400 milioni di dollari per chiudere il procedimento legale avviato due anni fa con la denuncia per violazione della privacy dei minori .",
+          "L’azienda cinese ha permesso l’iscrizione ai minori di 13 anni senza il consenso dei genitori e non ha cancellato gli account dopo le richieste dei genitori.",
+          "Ciò ha permesso di raccogliere i dati dei minori di 13 anni , successivamente utilizzati per le inserzioni personalizzate.",
+          "TikTok ha raccolto dati senza consenso In seguito ad un’indagine avviata dalla FTC (Federal Trade Commission) nel 2019 è stata accertata la violazione del COPPA (Child Children’s Online Privacy Protection Act) da parte di TikTok (all’epoca si chiamava ancora Musical. ly).",
+          "TikTok ha accettato di pagare 5,7 milioni di dollari per evitare uno scontro legale, ma non ha rispettato gli impegni, ovvero non ha introdotto misure adeguate per identificare e rimuovere gli account.",
+          "Le parti hanno sottoscritto ieri sera un accordo che prevede il pagamento di 400 milioni di dollari .",
+          "Due senatori hanno chiesto informazioni su un esperimento che prevedeva la disattivazione delle protezioni per circa 15 milioni di utenti statunitensi."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "TikTok",
-          "ByteDance",
+          "FTC",
           "Musical.ly"
         ],
         "numbersAndDates": [
-          "TikTok e ByteDance pagheranno immediatamente 300 milioni di dollari al Dipartimento di Giustizia.",
-          "Pagherà altri 100 milioni di dollari quando il governo annullerà un decreto di consenso del 2019 con la Commissione Federale per il Commercio.",
-          "Farlo era contro il Children's Online Privacy Protection Act (COPPA), una legge federale emanata nel 2000.",
+          "L’azienda cinese ha permesso l’iscrizione ai minori di 13 anni senza il consenso dei genitori e non ha cancellato gli account dopo le richieste dei genitori.",
+          "Ciò ha permesso di raccogliere i dati dei minori di 13 anni , successivamente utilizzati per le inserzioni personalizzate.",
+          "TikTok ha raccolto dati senza consenso In seguito ad un’indagine avviata dalla FTC (Federal Trade Commission) nel 2019 è stata accertata la violazione del COPPA (Child Children’s Online Privacy Protection Act) da parte di TikTok (all’epoca si chiamava ancora Musical. ly).",
+          "TikTok ha accettato di pagare 5,7 milioni di dollari per evitare uno scontro legale, ma non ha rispettato gli impegni, ovvero non ha introdotto misure adeguate per identificare e rimuovere gli account.",
+          "Le parti hanno sottoscritto ieri sera un accordo che prevede il pagamento di 400 milioni di dollari .",
+          "Due senatori hanno chiesto informazioni su un esperimento che prevedeva la disattivazione delle protezioni per circa 15 milioni di utenti statunitensi.",
           "400",
-          "2024",
           "13"
         ]
       }
     },
     {
+      "id": "story-2776e96c0f3320ad",
+      "title": "Putin riconosce 'danni all'economia' dai raid Kiev 'ma per loro nessun vantaggio'",
+      "summary": "'Le azioni del nemico non hanno avuto alcun effetto sulla situazione al fronte'",
+      "spokenText": "Putin riconosce che i raid di Kiev hanno causato 'danni all'economia' russa, ma afferma che 'per loro non c'è nessun vantaggio' sulla situazione al fronte.",
+      "category": "attualita",
+      "tags": [
+        "attualita"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 10,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-riconosce-danni-alleconomia-dai-raid-kiev-ma-per-loro-nessun_21916499-ddbe-47dc-9528-903865136372.html"
+      },
+      "analysis": {
+        "mainFact": "Putin riconosce che i raid di Kiev hanno causato 'danni all'economia' russa, ma afferma che 'per loro non c'è nessun vantaggio' sulla situazione al fronte.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Putin riconosce che i raid di Kiev hanno causato 'danni all'economia' russa, ma afferma che 'per loro non c'è nessun vantaggio' sulla situazione al fronte.",
+          "'Le azioni del nemico non hanno avuto alcun effetto sulla situazione al fronte'"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-d44f9e6efd9989d9",
+      "title": "Pokémon, l’affare delle carte che fa gola alla criminalità: “Pikachu è come una criptovaluta”",
+      "summary": "Rapine, riciclaggio, furti in casa: l’ultimo a Roma per più di 200mila euro. Così un hobby da collezionisti è diventato pericoloso",
+      "spokenText": "Carte di Pokémon che spariscono dai negozi, furti mirati e un giro di ricettazione che tratta Pikachu come una criptovaluta. È quello che sta succedendo in un hobby nato per gioco e diventato improvvisamente pericoloso.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "pokemon",
+        "pikachu"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 14,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://roma.repubblica.it/cronaca/2026/08/23/news/pokemon_carte_furti_rapine_pikachu-425542277/"
+      },
+      "analysis": {
+        "mainFact": "Pokémon, l’affare delle carte che fa gola alla criminalità: “Pikachu è come una criptovaluta”",
+        "whyItMatters": "Così un hobby da collezionisti è diventato pericoloso",
+        "confirmedFacts": [
+          "Pokémon, l’affare delle carte che fa gola alla criminalità: “Pikachu è come una criptovaluta”",
+          "Così un hobby da collezionisti è diventato pericoloso"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Pokémon",
+          "Pikachu"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-013ff2eef9dcf687",
+      "title": "Diagnosi più precise da una nuova tecnica per leggere il Dna",
+      "summary": "Permette di sequenziare frammenti molto lunghi e di individuare strutture complesse",
+      "spokenText": "È esattamente questo il principio alla base di una nuova tecnica di lettura del DNA, nota come sequenziamento long-read. Strutture complesse che con i frammenti corti risultavano spesso invisibili, o impossibili da ricostruire con precisione.",
+      "category": "scienza",
+      "tags": [
+        "scienza"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 14,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/22/diagnosi-piu-precise-da-una-nuova-tecnica-per-leggere-il-dna_1c713743-4de7-47fa-9ee2-5a072ce4033a.html"
+      },
+      "analysis": {
+        "mainFact": "Una nuova tecnica per leggere il DNA permette di ottenere diagnosi più precise.",
+        "whyItMatters": "Permette di sequenziare frammenti molto lunghi e di individuare strutture complesse",
+        "confirmedFacts": [
+          "Una nuova tecnica per leggere il DNA permette di ottenere diagnosi più precise.",
+          "Permette di sequenziare frammenti molto lunghi e di individuare strutture complesse",
+          "È il cosiddetto ' sequenziamento long-read ', che permette di leggere in un unico esame frammenti molto lunghi , anche più di 10 mila basi , e che consente di individuare caratteristiche complesse come varianti e riarrangiamenti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-a6d5a0232c30a9bd",
+      "title": "Summer School \"Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza”",
+      "summary": "Nell’ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA, L’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA), organizza la Summer School sugli “Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza” che si svolgerà nella città di Trieste dal 14 al 18 Settembre 2026.",
+      "spokenText": "L’iniziativa, intitolata “Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza”, rientra nel percorso formativo della Scuola di Specializzazione in Discipline Ambientali di ISPRA. ISPRA organizza la Summer School 'Ecosistemi marino-costieri. Resilienza' a Trieste dal 14 al 18 settembre 2026.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "ispra",
+        "scuola di specializzazione in discipline ambient",
+        "trieste"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 17,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/summer-school-ecosistemi-marino-costieri-e-cambiamenti-climatici-catene-di-connessioni-e-resilienza"
+      },
+      "analysis": {
+        "mainFact": "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 settembre 2026.",
+        "whyItMatters": "L'evento è segnalato nell'ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA.",
+        "confirmedFacts": [
+          "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 settembre 2026.",
+          "L'evento è segnalato nell'ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "ISPRA",
+          "Scuola di Specializzazione in Discipline Ambientali",
+          "Trieste"
+        ],
+        "numbersAndDates": [
+          "14",
+          "18",
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-51aa31b8404ff59d",
+      "title": "Le case adattate per far fronte alle estati britanniche a 40°C",
+      "summary": "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si trasferì 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e con poco isolamento: faticavano a stare al caldo d'inverno e si surriscaldavano d'estate. La ristrutturazione ha ridotto la domanda di energia dell'88%, generando un risparmio annuo di quasi 750 sterline sulle bollette.",
+      "spokenText": "Dieci anni fa, quando la famiglia Baeli si trasferì nella loro casa, la situazione era tipica di tante abitazioni britanniche: finestre con doppi vetri in PVC piene di spifferi, poco isolamento e una fatica costante a stare al caldo d'inverno, mentre d'estate gli ambienti si surriscaldavano rapidamente. L'intervento di ristrutturazione ha tagliato la domanda di energia dell'ottantotto per cento, traducendosi in un risparmio annuo di quasi settecentocinquanta sterline sulle bollette. Secondo il Passivhaus Trust, il costo aggiuntivo per costruire seguendo questo standard varia da un due per cento in più per gli appartamenti fino al cinque per cento per una casa bifamiliare. Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che anche se applicare lo standard costerà di più, lo sviluppo di novecento appartamenti a Bollo Lane rappresenta un esperimento per rendere l'azienda a prova di futuro e anticipare normative in continuo inasprimento. Le case adattate per far fronte alle estati britanniche a 40°C.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "passivhaus trust",
+        "baeli",
+        "oliver novakovic"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 62,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si trasferì 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e con poco isolamento: faticavano a stare al caldo d'inverno e si surriscaldavano d'estate.",
+        "whyItMatters": "La ristrutturazione ha ridotto la domanda di energia dell'88%, generando un risparmio annuo di quasi 750 sterline sulle bollette.",
+        "confirmedFacts": [
+          "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si trasferì 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e con poco isolamento: faticavano a stare al caldo d'inverno e si surriscaldavano d'estate.",
+          "La ristrutturazione ha ridotto la domanda di energia dell'88%, generando un risparmio annuo di quasi 750 sterline sulle bollette.",
+          "Secondo il Passivhaus Trust, il costo di costruzione aggiuntivo associato alla realizzazione secondo lo standard varia da un 2% extra per gli appartamenti fino al 5% per una casa bifamiliare.",
+          "Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che anche se applicare lo standard costerà di più, lo sviluppo di 900 appartamenti Bollo Lane è un esperimento per 'rendere l'azienda a prova di futuro' e anticipare le normative 'in continuo inasprimento'."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Passivhaus Trust",
+          "Baeli",
+          "Oliver Novakovic"
+        ],
+        "numbersAndDates": [
+          "Secondo il Passivhaus Trust, il costo di costruzione aggiuntivo associato alla realizzazione secondo lo standard varia da un 2% extra per gli appartamenti fino al 5% per una casa bifamiliare.",
+          "Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che anche se applicare lo standard costerà di più, lo sviluppo di 900 appartamenti Bollo Lane è un esperimento per 'rendere l'azienda a prova di futuro' e anticipare le normative 'in continuo inasprimento'.",
+          "40",
+          "10",
+          "88",
+          "750"
+        ]
+      }
+    },
+    {
       "id": "story-ed6e31b62f50e8d7",
-      "title": "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud",
-      "summary": "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud. La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
-      "spokenText": "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud. Si tratta di una missione statale coordinata, con elementi progettati attorno a un unico obiettivo specifico, e potrà contare su un'infrastruttura già operativa: il satellite Queqiao-2. Lanciato separatamente nel marzo 2024, ha già supportato la missione Chang'e-6 e adesso faciliterà la comunicazione tra la Terra e la superficie lunare durante questa nuova fase. Accedere a quel ghiaccio sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare, dove il Sole non splende mai. È rimasto intatto per miliardi di anni a temperature ben al di sotto dei –200°C. Intanto la NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti. La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
+      "title": "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo",
+      "summary": "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo Sud lunare alla ricerca di ghiaccio d'acqua. La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
+      "spokenText": "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo Sud lunare alla ricerca di ghiaccio d'acqua. La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna. Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei -200°C. Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7. Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un singolo obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2. La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
       "category": "scienza",
       "tags": [
         "scienza",
@@ -486,23 +501,23 @@
         "chang e 7",
         "queqiao 2"
       ],
-      "importance": 95,
+      "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 63,
+      "estimatedSeconds": 67,
       "source": {
         "name": "The Conversation",
         "url": "https://theconversation.com/china-is-launching-a-moon-mission-to-find-water-ice-its-unlike-anything-nasa-has-done-289710"
       },
       "analysis": {
-        "mainFact": "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud.",
+        "mainFact": "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo Sud lunare alla ricerca di ghiaccio d'acqua.",
         "whyItMatters": "La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
         "confirmedFacts": [
-          "La Cina si appresta a lanciare la missione lunare Chang'e-7 per cercare ghiaccio d'acqua nei crateri permanentemente in ombra del Polo Sud.",
+          "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo Sud lunare alla ricerca di ghiaccio d'acqua.",
           "La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
-          "Lanciato separatamente nel marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
-          "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un unico obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
-          "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
-          "Quello che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei –200°C."
+          "Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei -200°C.",
+          "Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
+          "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un singolo obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
+          "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
@@ -511,121 +526,84 @@
           "Queqiao-2"
         ],
         "numbersAndDates": [
-          "Lanciato separatamente nel marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
-          "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un unico obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
+          "Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei -200°C.",
+          "Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
+          "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un singolo obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
           "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
-          "Quello che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei –200°C.",
           "7"
         ]
       }
     },
     {
-      "id": "story-ea30f1427491b7a3",
-      "title": "L'ONU ha dichiarato che l'epidemia di Ebola in Congo sta crescendo in modo esponenziale",
-      "summary": "Negli ultimi tre mesi sono morte 2.500 persone. Msf, un decesso ogni mezz'ora",
-      "spokenText": "L'ONU ha dichiarato che l'epidemia di Ebola in Congo sta crescendo in modo esponenziale. Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti. Negli ultimi tre mesi sono morte 2.500 persone. Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora.",
-      "category": "salute",
+      "id": "story-3eac75a25ca7413c",
+      "title": "Putin promette rappresaglie contro la logistica Ucraina dopo che Kiev ha colpito i magazzini delle aziende di e-commerce russe Wildberries e Ozon",
+      "summary": "«Volete interrompere la nostra logistica? Bene, allora le misure di rappresaglia non tarderanno ad arrivare», ha affermato il presidente russo dopo che Kiev ha colpito i magazzini delle aziende di e-commerce russe Wildberries e Ozon",
+      "spokenText": "Putin promette rappresaglie contro la logistica Ucraina dopo che Kiev ha colpito i magazzini di Wildberries e Ozon, i giganti dell'e-commerce russo. Si tratta del primo attacco contro Ozon, mentre gli hub di Wildberries erano già stati presi di mira. Il presidente minaccia: 'Gli attacchi non tarderanno ad arrivare'. Intanto, un missile balistico ha colpito un impianto ferroviario nel distretto di Darnytsia, uccidendo un dipendente delle ferrovie, e un'altra persona è morta in un attacco con drone nella regione di Zaporizhzhia. Mosca ha lanciato 217 droni, concentrandosi su Kiev e Odessa. 'Manderemo nuovi missili intercettori'.",
+      "category": "mondo",
       "tags": [
-        "salute",
-        "congo",
-        "onu"
+        "mondo",
+        "ucraina",
+        "wildberries",
+        "moldavia"
       ],
-      "importance": 85,
+      "importance": 70,
       "mustInclude": true,
-      "estimatedSeconds": 24,
+      "estimatedSeconds": 38,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/21/ebola-in-repubblica-democratica-del-congo-msf-un-decesso-ogni-mezzora_da4d02b9-815b-4afa-b0c7-d73828f43890.html"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/guerra-ucraina-217-droni-e-missili-notte-morto-kiev-colpita-ferrovia-AJSGvvr"
       },
       "analysis": {
-        "mainFact": "L'ONU ha dichiarato che l'epidemia di Ebola in Congo sta crescendo in modo esponenziale.",
-        "whyItMatters": "Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora.",
+        "mainFact": "Putin promette rappresaglie contro la logistica Ucraina dopo che Kiev ha colpito i magazzini delle aziende di e-commerce russe Wildberries e Ozon.",
+        "whyItMatters": "mentre un drone russo ha violato lo spazio aereo moldavo.",
         "confirmedFacts": [
-          "L'ONU ha dichiarato che l'epidemia di Ebola in Congo sta crescendo in modo esponenziale.",
-          "Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora.",
-          "Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti.",
-          "Negli ultimi tre mesi sono morte 2.500 persone."
+          "Putin promette rappresaglie contro la logistica Ucraina dopo che Kiev ha colpito i magazzini delle aziende di e-commerce russe Wildberries e Ozon.",
+          "mentre un drone russo ha violato lo spazio aereo moldavo.",
+          "Il presidente minaccia la logistica Ucraina, 'attacchi non tarderanno ad arrivare'",
+          "Nella capitale un missile balistico ha colpito un impianto ferroviario nel distretto di Darnytsia , uccidendo un dipendente delle ferrovie.",
+          "Un’altra persona è morta in un attacco con drone nella regione di Zaporizhzhia .",
+          "Si tratta del «primo attacco» contro il gigante dell’e-commerce russo , secondo solo a Wildberries, i cui hub sono già finiti nel mirino diverse volte.",
+          "Mosca ha lanciato 217 droni , oltre a missili balistici e altre munizioni, concentrando gli attacchi soprattutto sulle regioni di Kiev e Odessa .",
+          "Macron: «Manderemo nuovi missili intercettori»"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Congo",
-          "ONU"
+          "Ucraina",
+          "Wildberries",
+          "Moldavia"
         ],
         "numbersAndDates": [
-          "Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti.",
-          "Negli ultimi tre mesi sono morte 2.500 persone."
+          "Mosca ha lanciato 217 droni , oltre a missili balistici e altre munizioni, concentrando gli attacchi soprattutto sulle regioni di Kiev e Odessa ."
         ]
       }
     },
     {
       "id": "story-9b2ee5d708000dc3",
-      "title": "Sei femminicidi si sono verificati in pochi giorni",
+      "title": "In pochi giorni si sono verificati sei femminicidi, evidenziando che l'inasprimento delle pene non basta senza vera prevenzione e risorse",
       "summary": "Sei femminicidi in pochi giorni: tra denunce inascoltate e braccialetti scarichi, l'inasprimento delle pene non basta senza vera prevenzione e risorse.",
-      "spokenText": "In pochi giorni si sono verificati sei femminicidi, una sequenza che ha scosso l'opinione pubblica e riacceso il dibattito sulla violenza di genere.",
+      "spokenText": "In pochi giorni si sono verificati sei femminicidi. L'inasprimento delle pene, da solo, non basta se non è accompagnato da una vera prevenzione e da risorse adeguate.",
       "category": "diritti",
       "tags": [
         "diritti"
       ],
       "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 10,
+      "estimatedSeconds": 11,
       "source": {
         "name": "Valigia Blu",
         "url": "https://www.valigiablu.it/perche-lo-stato-non-protegge-le-donne-femminicidi/"
       },
       "analysis": {
-        "mainFact": "Sei femminicidi si sono verificati in pochi giorni.",
-        "whyItMatters": "Analisi su fallimento prevenzione femminicidi, tocca diritti e politiche sociali con dati concreti.",
+        "mainFact": "In pochi giorni si sono verificati sei femminicidi, evidenziando che l'inasprimento delle pene non basta senza vera prevenzione e risorse.",
+        "whyItMatters": "Analisi strutturale sui femminicidi e fallimento prevenzione. Tema di diritti umani con conseguenze sociali concrete.",
         "confirmedFacts": [
-          "Sei femminicidi si sono verificati in pochi giorni.",
-          "Analisi su fallimento prevenzione femminicidi, tocca diritti e politiche sociali con dati concreti.",
+          "In pochi giorni si sono verificati sei femminicidi, evidenziando che l'inasprimento delle pene non basta senza vera prevenzione e risorse.",
+          "Analisi strutturale sui femminicidi e fallimento prevenzione. Tema di diritti umani con conseguenze sociali concrete.",
           "Sei femminicidi in pochi giorni: tra denunce inascoltate e braccialetti scarichi, l'inasprimento delle pene non basta senza vera prevenzione e risorse."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-51aa31b8404ff59d",
-      "title": "Le case adattate per far fronte alle estati britanniche a 40°C",
-      "summary": "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si è trasferita 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e poco isolamento: faticavano a tenere caldo d'inverno e si surriscaldavano d'estate. Baeli stima che la domanda di energia nella sua casa ristrutturata sia diminuita dell'88%, garantendole un risparmio annuo di quasi 750 sterline sulle bollette.",
-      "spokenText": "Dieci anni fa, quando la famiglia Baeli si trasferì nella loro casa, la situazione era tipica di molte abitazioni britanniche: infissi in PVC con doppi vetri pieni di spifferi, incapaci di trattenere il calore d'inverno e che d'estate trasformavano le stanze in una serra. Oggi, dopo una profonda ristrutturazione, la loro realtà è radicalmente cambiata. L'intervento ha ridotto la domanda di energia dell'88%, un dato che si traduce in un risparmio concreto di quasi 750 sterline l'anno sulle bollette. Questo approccio progettuale ha un costo aggiuntivo che, secondo il Passivhaus Trust, varia da un 2% extra per un appartamento fino a un 5% per una casa bifamiliare. Un sovrapprezzo che si sceglie di affrontare anche su larga scala: Oliver Novakovic, direttore tecnico e dell'innovazione, spiega che lo sviluppo Bollo Lane con i suoi 900 appartamenti è un esperimento per rendere l'azienda a prova di futuro e anticipare normative in continuo inasprimento, anche se applicare lo standard costerà di più.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "passivhaus trust",
-        "bollo lane development"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 64,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si è trasferita 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e poco isolamento: faticavano a tenere caldo d'inverno e si surriscaldavano d'estate.",
-        "whyItMatters": "Baeli stima che la domanda di energia nella sua casa ristrutturata sia diminuita dell'88%, garantendole un risparmio annuo di quasi 750 sterline sulle bollette.",
-        "confirmedFacts": [
-          "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si è trasferita 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e poco isolamento: faticavano a tenere caldo d'inverno e si surriscaldavano d'estate.",
-          "Baeli stima che la domanda di energia nella sua casa ristrutturata sia diminuita dell'88%, garantendole un risparmio annuo di quasi 750 sterline sulle bollette.",
-          "Secondo il Passivhaus Trust, il costo di costruzione aggiuntivo associato alla realizzazione secondo lo standard varia da un 2% extra per gli appartamenti a un 5% per una casa bifamiliare.",
-          "Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che lo sviluppo Bollo Lane da 900 appartamenti è un esperimento per 'rendere l'azienda a prova di futuro' e anticipare le normative 'in continuo inasprimento', anche se applicare lo standard costerà di più."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Passivhaus Trust",
-          "Bollo Lane development"
-        ],
-        "numbersAndDates": [
-          "Secondo il Passivhaus Trust, il costo di costruzione aggiuntivo associato alla realizzazione secondo lo standard varia da un 2% extra per gli appartamenti a un 5% per una casa bifamiliare.",
-          "Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che lo sviluppo Bollo Lane da 900 appartamenti è un esperimento per 'rendere l'azienda a prova di futuro' e anticipare le normative 'in continuo inasprimento', anche se applicare lo standard costerà di più.",
-          "40",
-          "10",
-          "88",
-          "750"
-        ]
       }
     }
   ]
