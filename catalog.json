@@ -1,609 +1,602 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-23-cc5c1e486287",
-  "generatedAt": "2026-08-23T05:24:55.934Z",
+  "catalogId": "daily-quid-2026-08-24-37fe41c76b3a",
+  "generatedAt": "2026-08-24T05:34:22.032Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-9759ccbddd8791fc",
-      "title": "Giappone, terremoto di magnitudo 5.9 avvertito fino a Tokyo. Diversi feriti e disagi ai servizi ferroviari",
-      "summary": "Escluso il rischio tsunami, nessuna anomalia agli impianti nucleari",
-      "spokenText": "Una scossa di terremoto di magnitudo 5. 9 è stata distintamente avvertita fino alla capitale Tokyo, causando diversi feriti e generando pesanti disagi alla rete ferroviaria. Secondo i rilievi dell’Agenzia meteorologica giapponese, il sisma ha raggiunto un’intensità massima di ‘5-inferiore’ sulla scala sismica nazionale, che va da 0 a 7. Questo livello di scuotimento è stato registrato in diverse località delle prefetture di Ibaraki, Saitama e Chiba, oltre che in alcuni quartieri della stessa Tokyo. Terremoto in Perù: una scossa 6.",
+      "id": "story-dcc23af4bdc1f0c0",
+      "title": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+      "summary": "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico. L’Osservatorio, istituto presso il Ministero dell’Ambiente e della Sicurezza energetica, ha fra i suoi compiti l’indirizzo e il coordinamento multilivello per l’attuazione del Piano nazionale di adattamento ai cambiamenti climatici (Pnacc) nonché la definizione di priorità di intervento, l’aggiornamento delle azioni e l’individuazione delle fonti di finanziamento. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
+      "spokenText": "Il Sistema nazionale per la protezione dell’ambiente contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico. Con l’insediamento dell’Osservatorio nazionale il 24 febbraio 2026, il Piano, approvato nel 2023 con oltre 300 misure, passa dalla fase strategica all’attuazione operativa. SNPA ha individuato i propri esperti che entrano a far parte dell’Osservatorio sull’adattamento climatico. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa. Il Piano, approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "giappone",
-        "tokyo",
-        "agenzia meteorologica giapponese jma",
-        "ibaraki",
-        "saitama",
-        "chiba"
+        "snpa",
+        "ispra",
+        "arpa",
+        "osservatorio nazionale sull adattamento climatic"
       ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 33,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/23/news/terremoto_giappone_59_tokyo-425542365/"
-      },
-      "analysis": {
-        "mainFact": "Un terremoto di magnitudo 5. 9 è stato avvertito fino a Tokyo, causando diversi feriti e disagi ai servizi ferroviari.",
-        "whyItMatters": "Il sisma ha raggiunto un'intensità massima di '5-inferiore' sulla scala sismica giapponese - che varia da 0 a 7 - in diverse località delle prefetture di Ibaraki, Saitama e Chiba, nonché in alcuni quartieri di Tokyo.",
-        "confirmedFacts": [
-          "Un terremoto di magnitudo 5. 9 è stato avvertito fino a Tokyo, causando diversi feriti e disagi ai servizi ferroviari.",
-          "Il sisma ha raggiunto un'intensità massima di '5-inferiore' sulla scala sismica giapponese - che varia da 0 a 7 - in diverse località delle prefetture di Ibaraki, Saitama e Chiba, nonché in alcuni quartieri di Tokyo.",
-          "Terremoto in Perù: una scossa 6."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Giappone",
-          "Tokyo",
-          "Agenzia meteorologica giapponese (Jma)",
-          "Ibaraki",
-          "Saitama",
-          "Chiba"
-        ],
-        "numbersAndDates": [
-          "Terremoto in Perù: una scossa 6.",
-          "5",
-          "9",
-          "0",
-          "7"
-        ]
-      }
-    },
-    {
-      "id": "story-662f4bf481d7f3db",
-      "title": "Si, il morbillo è ancora pericoloso (e colpisce ancora)",
-      "summary": "Guarire dal morbillo non significa necessariamente recuperare subito tutte le difese immunitarie presenti prima dell’infezione. Il virus può cancellare una parte della memoria sviluppata contro altri...",
-      "spokenText": "L'infezione naturale da morbillo può ridurre il numero di anticorpi, eliminando parte delle risposte immunitarie costruite con precedenti infezioni o vaccinazioni. Il virus può cancellare una parte della memoria sviluppata contro altri patogeni, rendendo il paziente più vulnerabile a ulteriori malattie anche dopo la scomparsa dei sintomi. Analizzando campioni raccolti prima e dopo l’infezione in 77 bambini non vaccinati, i ricercatori hanno rilevato la scomparsa dell’11% fino al 73% degli anticorpi preesistenti contro altri virus e batteri.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "morbillo"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 31,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/morbillo-puo-cancellare-fino-al-73-degli-anticorpi-acquisiti"
-      },
-      "analysis": {
-        "mainFact": "L'infezione naturale da morbillo può ridurre il numero di anticorpi, eliminando parte delle risposte immunitarie costruite con precedenti infezioni o vaccinazioni.",
-        "whyItMatters": "Il virus può cancellare una parte della memoria sviluppata contro altri patogeni, rendendo il paziente più vulnerabile a ulteriori malattie anche dopo la scomparsa dei sintomi.",
-        "confirmedFacts": [
-          "L'infezione naturale da morbillo può ridurre il numero di anticorpi, eliminando parte delle risposte immunitarie costruite con precedenti infezioni o vaccinazioni.",
-          "Il virus può cancellare una parte della memoria sviluppata contro altri patogeni, rendendo il paziente più vulnerabile a ulteriori malattie anche dopo la scomparsa dei sintomi.",
-          "Analizzando campioni raccolti prima e dopo l’infezione in 77 bambini non vaccinati, i ricercatori hanno rilevato la scomparsa dell’11% fino al 73% degli anticorpi preesistenti contro altri virus e batteri."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "morbillo"
-        ],
-        "numbersAndDates": [
-          "Analizzando campioni raccolti prima e dopo l’infezione in 77 bambini non vaccinati, i ricercatori hanno rilevato la scomparsa dell’11% fino al 73% degli anticorpi preesistenti contro altri virus e batteri."
-        ]
-      }
-    },
-    {
-      "id": "story-a8af78dbf51fb08c",
-      "title": "Nuovo caso di Febbre del Nilo nell'uomo nell'Oristanese, il 21/mo nel 2026",
-      "summary": "La Asl attiva la profilassi",
-      "spokenText": "Nuovo caso di Febbre del Nilo nell'uomo nell'Oristanese, il ventunesimo nel 2026.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "oristanese"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 5,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/22/nuovo-caso-di-febbre-del-nilo-nelluomo-nelloristanese-il-21mo-nel-2026_89d7980b-64ea-46ac-86be-6da179da3fe9.html"
-      },
-      "analysis": {
-        "mainFact": "Nuovo caso di Febbre del Nilo nell'uomo nell'Oristanese, il 21/mo nel 2026",
-        "whyItMatters": "Nuovo caso di malattia tropicale autoctona in Italia, segnale di cambiamento epidemiologico rilevante.",
-        "confirmedFacts": [
-          "Nuovo caso di Febbre del Nilo nell'uomo nell'Oristanese, il 21/mo nel 2026",
-          "Nuovo caso di malattia tropicale autoctona in Italia, segnale di cambiamento epidemiologico rilevante."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Oristanese"
-        ],
-        "numbersAndDates": [
-          "21",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-81a3e45608e777f3",
-      "title": "Salta il negoziato, guerra dei dazi tra Stati Uniti e Canada",
-      "summary": "Già entrate in vigore le nuove tariffe del 50% che colpiscono 20 miliardi di dollari di merci canadesi. Il premier canadese Carney: «Chiedevano troppo e offrivano poco, ora replicheremo dollaro per dollaro»",
-      "spokenText": "È saltato il negoziato tra Stati Uniti e Canada, e sono già entrate in vigore le nuove tariffe americane del 50% che colpiscono circa 20 miliardi di dollari di merci canadesi, pari a circa il 5% dell’export verso gli Usa. Il primo ministro Mark Carney ha annunciato che il Canada replicherà dollaro per dollaro, con nuove tariffe in partenza dall’8 settembre. «Ci hanno chiesto troppo e offerto troppo poco», ha sintetizzato Carney.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "stati uniti",
-        "canada",
-        "mark carney"
-      ],
-      "importance": 90,
-      "mustInclude": true,
-      "estimatedSeconds": 29,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/salta-negoziato-guerra-dazi-stati-uniti-e-canada-AJEp4Fs"
-      },
-      "analysis": {
-        "mainFact": "Salta il negoziato, guerra dei dazi tra Stati Uniti e Canada",
-        "whyItMatters": "«In sintesi - ha aggiunto - gli Stati Uniti chiedevano troppo e offrivano troppo poco».",
-        "confirmedFacts": [
-          "Salta il negoziato, guerra dei dazi tra Stati Uniti e Canada",
-          "«In sintesi - ha aggiunto - gli Stati Uniti chiedevano troppo e offrivano troppo poco».",
-          "I nuovi dazi americani del 50% colpiscono, fin da subito, circa 20 miliardi di dollari di merci canadesi, pari a circa il 5% dell’export canadese verso gli Usa.",
-          "Il premier canadese Carney: «Chiedevano troppo e offrivano poco, ora replicheremo dollaro per dollaro»",
-          "Già entrate in vigore le nuove tariffe del 50% che colpiscono 20 miliardi di dollari di merci canadesi.",
-          "Canada: nuove tariffe contro Usa dall’8 settembre",
-          "Ad annunciarlo è stato il primo ministro canadese Mark Carney dopo l’entrata in vigore delle sovrattasse del 50% decise da Washington",
-          "«Ci hanno chiesto troppo e offerto troppo poco» , ha sintetizzato il primo ministro."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Stati Uniti",
-          "Canada",
-          "Mark Carney"
-        ],
-        "numbersAndDates": [
-          "I nuovi dazi americani del 50% colpiscono, fin da subito, circa 20 miliardi di dollari di merci canadesi, pari a circa il 5% dell’export canadese verso gli Usa.",
-          "Già entrate in vigore le nuove tariffe del 50% che colpiscono 20 miliardi di dollari di merci canadesi.",
-          "Canada: nuove tariffe contro Usa dall’8 settembre",
-          "Ad annunciarlo è stato il primo ministro canadese Mark Carney dopo l’entrata in vigore delle sovrattasse del 50% decise da Washington"
-        ]
-      }
-    },
-    {
-      "id": "story-89ab06357a597002",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "summary": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike L'attacco a Kryvyi Rih è avvenuto il giorno dopo che 17 persone sono state uccise e più di 40 ferite in un grande attacco missilistico e di droni russi sulla capitale Ucraina Kiev.",
-      "spokenText": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike. L'attacco a Kryvyi Rih è avvenuto il giorno dopo che 17 persone sono state uccise e più di 40 ferite in un grande attacco missilistico e di droni russi sulla capitale Ucraina Kiev. Quattro persone sono ancora disperse dopo l'attacco di venerdì che ha ucciso 16 persone e ne ha ferite 130, tra cui un certo numero di bambini. Sedici persone sono state uccise e 130 ferite quando due droni hanno colpito il trafficato centro a Kryvyi Rih in rapida successione, in quello che è noto come un attacco a doppio colpo.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "russia",
-        "kryvyi rih",
-        "belgorod"
-      ],
-      "importance": 62,
+      "importance": 85,
       "mustInclude": true,
       "estimatedSeconds": 42,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "whyItMatters": "L'attacco a Kryvyi Rih è avvenuto il giorno dopo che 17 persone sono state uccise e più di 40 ferite in un grande attacco missilistico e di droni russi sulla capitale Ucraina Kiev.",
-        "confirmedFacts": [
-          "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-          "L'attacco a Kryvyi Rih è avvenuto il giorno dopo che 17 persone sono state uccise e più di 40 ferite in un grande attacco missilistico e di droni russi sulla capitale Ucraina Kiev.",
-          "Quattro persone sono ancora disperse dopo l'attacco di venerdì che ha ucciso 16 persone e ne ha ferite 130, tra cui un certo numero di bambini.",
-          "Sedici persone sono state uccise e 130 ferite quando due droni hanno colpito il trafficato centro a Kryvyi Rih in rapida successione, in quello che è noto come un attacco a doppio colpo.",
-          "Hanzha ha detto che 52 feriti, tra cui 14 bambini, erano ancora negli ospedali cittadini.",
-          "Due persone sono state uccise in un attacco russo separato nella regione di Kiev, ha detto il servizio statale di emergenza ucraino DSNS.",
-          "Nella regione occidentale di Belgorod due persone sono state uccise e 13 ferite in attacchi aerei e bombardamenti ucraini, ha detto il governatore ad interim Alkesandr Shuvaev."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Russia",
-          "Kryvyi Rih",
-          "Belgorod"
-        ],
-        "numbersAndDates": [
-          "Quattro persone sono ancora disperse dopo l'attacco di venerdì che ha ucciso 16 persone e ne ha ferite 130, tra cui un certo numero di bambini.",
-          "Sedici persone sono state uccise e 130 ferite quando due droni hanno colpito il trafficato centro a Kryvyi Rih in rapida successione, in quello che è noto come un attacco a doppio colpo.",
-          "Hanzha ha detto che 52 feriti, tra cui 14 bambini, erano ancora negli ospedali cittadini.",
-          "Nella regione occidentale di Belgorod due persone sono state uccise e 13 ferite in attacchi aerei e bombardamenti ucraini, ha detto il governatore ad interim Alkesandr Shuvaev.",
-          "17",
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-10315b45d89b6567",
-      "title": "Giudice federale Usa annulla il divieto Trump sui visti per immigrati da 75 Paesi",
-      "summary": "La corte di Manhattan ha dichiarato illegale la sospensione dei visti imposta a gennaio, che bloccava l’ingresso da quasi il 40% dei Paesi mondiali",
-      "spokenText": "Giudice federale Usa annulla il divieto Trump sui visti per immigrati da 75 Paesi. La corte di Manhattan ha dichiarato illegale la sospensione dei visti che bloccava l'ingresso da quasi il 40% dei Paesi mondiali, inclusi Egitto, Haiti, Somalia e Russia. La misura era stata annunciata in gennaio dal Dipartimento di Stato e aveva nel mirino circa il 40% dei paesi del mondo, inclusi Egitto, Haiti, Somalia e Russia. Vargas ha annullato il divieto dell'amministrazione Trump di rilasciare visti a migranti provenienti da 75 paesi.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "giudice federale usa",
-        "corte di manhattan",
-        "trump",
-        "dipartimento di stato",
-        "egitto",
-        "haiti",
-        "somalia",
-        "russia"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/giudice-federale-usa-annulla-divieto-trump-visti-immigrati-75-paesi-AJDY59r"
-      },
-      "analysis": {
-        "mainFact": "Giudice federale Usa annulla il divieto Trump sui visti per immigrati da 75 Paesi",
-        "whyItMatters": "La corte di Manhattan ha dichiarato illegale la sospensione dei visti che bloccava l'ingresso da quasi il 40% dei Paesi mondiali, inclusi Egitto, Haiti, Somalia e Russia.",
-        "confirmedFacts": [
-          "Giudice federale Usa annulla il divieto Trump sui visti per immigrati da 75 Paesi",
-          "La corte di Manhattan ha dichiarato illegale la sospensione dei visti che bloccava l'ingresso da quasi il 40% dei Paesi mondiali, inclusi Egitto, Haiti, Somalia e Russia.",
-          "La misura era stata annunciata in gennaio dal Dipartimento di Stato e aveva nel mirino circa il 40% dei paesi del mondo, inclusi Egitto, Haiti, Somalia e Russia.",
-          "Vargas ha annullato il divieto dell'amministrazione Trump di rilasciare visti a migranti provenienti da 75 paesi."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Giudice federale USA",
-          "corte di Manhattan",
-          "Trump",
-          "Dipartimento di Stato",
-          "Egitto",
-          "Haiti",
-          "Somalia",
-          "Russia"
-        ],
-        "numbersAndDates": [
-          "La misura era stata annunciata in gennaio dal Dipartimento di Stato e aveva nel mirino circa il 40% dei paesi del mondo, inclusi Egitto, Haiti, Somalia e Russia.",
-          "Vargas ha annullato il divieto dell'amministrazione Trump di rilasciare visti a migranti provenienti da 75 paesi.",
-          "75",
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-c537227a83f0077a",
-      "title": "Violazione privacy minori: TikTok paga 400 milioni di dollari",
-      "summary": "TikTok ha accettato di pagare 400 milioni di dollari per la violazione della privacy dei minori di 13 anni (iscrizione senza consenso dei genitori). The post Violazione privacy minori: TikTok paga 400 milioni di dollari appeared first on Punto Informatico.",
-      "spokenText": "TikTok ha accettato di pagare 400 milioni di dollari per chiudere il procedimento legale avviato due anni fa con l’accusa di aver violato la privacy dei minori. L’intesa, sottoscritta ieri sera, arriva dopo un’indagine della Federal Trade Commission cominciata nel 2019, quando l’app si chiamava ancora Musical. ly. In quella fase era già stata accertata la violazione del Children’s Online Privacy Protection Act. Già allora TikTok aveva pagato 5,7 milioni di dollari per evitare uno scontro legale, ma non aveva poi introdotto misure adeguate per identificare e rimuovere quei profili. L’azienda cinese ha permesso l’iscrizione ai minori di 13 anni senza il consenso dei genitori e non ha cancellato gli account dopo le richieste dei genitori. Due senatori hanno chiesto informazioni su un esperimento che prevedeva la disattivazione delle protezioni per circa 15 milioni di utenti statunitensi.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "tiktok",
-        "ftc",
-        "musical ly"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 55,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/violazione-privacy-minori-tiktok-paga-400-milioni-dollari/"
-      },
-      "analysis": {
-        "mainFact": "TikTok ha accettato di pagare 400 milioni di dollari per la violazione della privacy dei minori di 13 anni, che si iscrivevano senza il consenso dei genitori.",
-        "whyItMatters": "L’azienda cinese ha accettato di pagare 400 milioni di dollari per chiudere il procedimento legale avviato due anni fa con la denuncia per violazione della privacy dei minori .",
-        "confirmedFacts": [
-          "TikTok ha accettato di pagare 400 milioni di dollari per la violazione della privacy dei minori di 13 anni, che si iscrivevano senza il consenso dei genitori.",
-          "L’azienda cinese ha accettato di pagare 400 milioni di dollari per chiudere il procedimento legale avviato due anni fa con la denuncia per violazione della privacy dei minori .",
-          "L’azienda cinese ha permesso l’iscrizione ai minori di 13 anni senza il consenso dei genitori e non ha cancellato gli account dopo le richieste dei genitori.",
-          "Ciò ha permesso di raccogliere i dati dei minori di 13 anni , successivamente utilizzati per le inserzioni personalizzate.",
-          "TikTok ha raccolto dati senza consenso In seguito ad un’indagine avviata dalla FTC (Federal Trade Commission) nel 2019 è stata accertata la violazione del COPPA (Child Children’s Online Privacy Protection Act) da parte di TikTok (all’epoca si chiamava ancora Musical. ly).",
-          "TikTok ha accettato di pagare 5,7 milioni di dollari per evitare uno scontro legale, ma non ha rispettato gli impegni, ovvero non ha introdotto misure adeguate per identificare e rimuovere gli account.",
-          "Le parti hanno sottoscritto ieri sera un accordo che prevede il pagamento di 400 milioni di dollari .",
-          "Due senatori hanno chiesto informazioni su un esperimento che prevedeva la disattivazione delle protezioni per circa 15 milioni di utenti statunitensi."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "TikTok",
-          "FTC",
-          "Musical.ly"
-        ],
-        "numbersAndDates": [
-          "L’azienda cinese ha permesso l’iscrizione ai minori di 13 anni senza il consenso dei genitori e non ha cancellato gli account dopo le richieste dei genitori.",
-          "Ciò ha permesso di raccogliere i dati dei minori di 13 anni , successivamente utilizzati per le inserzioni personalizzate.",
-          "TikTok ha raccolto dati senza consenso In seguito ad un’indagine avviata dalla FTC (Federal Trade Commission) nel 2019 è stata accertata la violazione del COPPA (Child Children’s Online Privacy Protection Act) da parte di TikTok (all’epoca si chiamava ancora Musical. ly).",
-          "TikTok ha accettato di pagare 5,7 milioni di dollari per evitare uno scontro legale, ma non ha rispettato gli impegni, ovvero non ha introdotto misure adeguate per identificare e rimuovere gli account.",
-          "Le parti hanno sottoscritto ieri sera un accordo che prevede il pagamento di 400 milioni di dollari .",
-          "Due senatori hanno chiesto informazioni su un esperimento che prevedeva la disattivazione delle protezioni per circa 15 milioni di utenti statunitensi.",
-          "400",
-          "13"
-        ]
-      }
-    },
-    {
-      "id": "story-2776e96c0f3320ad",
-      "title": "Putin riconosce 'danni all'economia' dai raid Kiev 'ma per loro nessun vantaggio'",
-      "summary": "'Le azioni del nemico non hanno avuto alcun effetto sulla situazione al fronte'",
-      "spokenText": "Putin riconosce che i raid di Kiev hanno causato 'danni all'economia' russa, ma afferma che 'per loro non c'è nessun vantaggio' sulla situazione al fronte.",
-      "category": "attualita",
-      "tags": [
-        "attualita"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 10,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/22/putin-riconosce-danni-alleconomia-dai-raid-kiev-ma-per-loro-nessun_21916499-ddbe-47dc-9528-903865136372.html"
-      },
-      "analysis": {
-        "mainFact": "Putin riconosce che i raid di Kiev hanno causato 'danni all'economia' russa, ma afferma che 'per loro non c'è nessun vantaggio' sulla situazione al fronte.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Putin riconosce che i raid di Kiev hanno causato 'danni all'economia' russa, ma afferma che 'per loro non c'è nessun vantaggio' sulla situazione al fronte.",
-          "'Le azioni del nemico non hanno avuto alcun effetto sulla situazione al fronte'"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-d44f9e6efd9989d9",
-      "title": "Pokémon, l’affare delle carte che fa gola alla criminalità: “Pikachu è come una criptovaluta”",
-      "summary": "Rapine, riciclaggio, furti in casa: l’ultimo a Roma per più di 200mila euro. Così un hobby da collezionisti è diventato pericoloso",
-      "spokenText": "Carte di Pokémon che spariscono dai negozi, furti mirati e un giro di ricettazione che tratta Pikachu come una criptovaluta. È quello che sta succedendo in un hobby nato per gioco e diventato improvvisamente pericoloso.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "pokemon",
-        "pikachu"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://roma.repubblica.it/cronaca/2026/08/23/news/pokemon_carte_furti_rapine_pikachu-425542277/"
-      },
-      "analysis": {
-        "mainFact": "Pokémon, l’affare delle carte che fa gola alla criminalità: “Pikachu è come una criptovaluta”",
-        "whyItMatters": "Così un hobby da collezionisti è diventato pericoloso",
-        "confirmedFacts": [
-          "Pokémon, l’affare delle carte che fa gola alla criminalità: “Pikachu è come una criptovaluta”",
-          "Così un hobby da collezionisti è diventato pericoloso"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Pokémon",
-          "Pikachu"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-013ff2eef9dcf687",
-      "title": "Diagnosi più precise da una nuova tecnica per leggere il Dna",
-      "summary": "Permette di sequenziare frammenti molto lunghi e di individuare strutture complesse",
-      "spokenText": "È esattamente questo il principio alla base di una nuova tecnica di lettura del DNA, nota come sequenziamento long-read. Strutture complesse che con i frammenti corti risultavano spesso invisibili, o impossibili da ricostruire con precisione.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/22/diagnosi-piu-precise-da-una-nuova-tecnica-per-leggere-il-dna_1c713743-4de7-47fa-9ee2-5a072ce4033a.html"
-      },
-      "analysis": {
-        "mainFact": "Una nuova tecnica per leggere il DNA permette di ottenere diagnosi più precise.",
-        "whyItMatters": "Permette di sequenziare frammenti molto lunghi e di individuare strutture complesse",
-        "confirmedFacts": [
-          "Una nuova tecnica per leggere il DNA permette di ottenere diagnosi più precise.",
-          "Permette di sequenziare frammenti molto lunghi e di individuare strutture complesse",
-          "È il cosiddetto ' sequenziamento long-read ', che permette di leggere in un unico esame frammenti molto lunghi , anche più di 10 mila basi , e che consente di individuare caratteristiche complesse come varianti e riarrangiamenti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-a6d5a0232c30a9bd",
-      "title": "Summer School \"Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza”",
-      "summary": "Nell’ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA, L’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA), organizza la Summer School sugli “Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza” che si svolgerà nella città di Trieste dal 14 al 18 Settembre 2026.",
-      "spokenText": "L’iniziativa, intitolata “Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza”, rientra nel percorso formativo della Scuola di Specializzazione in Discipline Ambientali di ISPRA. ISPRA organizza la Summer School 'Ecosistemi marino-costieri. Resilienza' a Trieste dal 14 al 18 settembre 2026.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "ispra",
-        "scuola di specializzazione in discipline ambient",
-        "trieste"
-      ],
-      "importance": 72,
-      "mustInclude": true,
-      "estimatedSeconds": 17,
-      "source": {
         "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/summer-school-ecosistemi-marino-costieri-e-cambiamenti-climatici-catene-di-connessioni-e-resilienza"
+        "url": "https://www.isprambiente.gov.it/it/news/snpa-contribuisce-all2019attuazione-del-piano-nazionale-di-adattamento-al-cambiamento-climatico"
       },
       "analysis": {
-        "mainFact": "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 settembre 2026.",
-        "whyItMatters": "L'evento è segnalato nell'ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA.",
+        "mainFact": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+        "whyItMatters": "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano, approvato nel 2023 con oltre 300 misure, passa dalla fase strategica all'attuazione operativa.",
         "confirmedFacts": [
-          "ISPRA organizza la Summer School 'Ecosistemi marino-costieri e cambiamenti climatici: catene di connessioni e resilienza' a Trieste dal 14 al 18 settembre 2026.",
-          "L'evento è segnalato nell'ambito della Scuola di Specializzazione in Discipline Ambientali di ISPRA."
+          "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
+          "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano, approvato nel 2023 con oltre 300 misure, passa dalla fase strategica all'attuazione operativa.",
+          "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico.",
+          "Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
+          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
+          "SNPA",
           "ISPRA",
-          "Scuola di Specializzazione in Discipline Ambientali",
-          "Trieste"
+          "ARPA",
+          "Osservatorio nazionale sull'adattamento climatico"
         ],
         "numbersAndDates": [
-          "14",
-          "18",
-          "2026"
+          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
+          "24",
+          "2026",
+          "2023",
+          "300"
         ]
       }
     },
     {
-      "id": "story-51aa31b8404ff59d",
-      "title": "Le case adattate per far fronte alle estati britanniche a 40°C",
-      "summary": "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si trasferì 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e con poco isolamento: faticavano a stare al caldo d'inverno e si surriscaldavano d'estate. La ristrutturazione ha ridotto la domanda di energia dell'88%, generando un risparmio annuo di quasi 750 sterline sulle bollette.",
-      "spokenText": "Dieci anni fa, quando la famiglia Baeli si trasferì nella loro casa, la situazione era tipica di tante abitazioni britanniche: finestre con doppi vetri in PVC piene di spifferi, poco isolamento e una fatica costante a stare al caldo d'inverno, mentre d'estate gli ambienti si surriscaldavano rapidamente. L'intervento di ristrutturazione ha tagliato la domanda di energia dell'ottantotto per cento, traducendosi in un risparmio annuo di quasi settecentocinquanta sterline sulle bollette. Secondo il Passivhaus Trust, il costo aggiuntivo per costruire seguendo questo standard varia da un due per cento in più per gli appartamenti fino al cinque per cento per una casa bifamiliare. Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che anche se applicare lo standard costerà di più, lo sviluppo di novecento appartamenti a Bollo Lane rappresenta un esperimento per rendere l'azienda a prova di futuro e anticipare normative in continuo inasprimento. Le case adattate per far fronte alle estati britanniche a 40°C.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "passivhaus trust",
-        "baeli",
-        "oliver novakovic"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 62,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si trasferì 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e con poco isolamento: faticavano a stare al caldo d'inverno e si surriscaldavano d'estate.",
-        "whyItMatters": "La ristrutturazione ha ridotto la domanda di energia dell'88%, generando un risparmio annuo di quasi 750 sterline sulle bollette.",
-        "confirmedFacts": [
-          "Le case adattate per far fronte alle estati britanniche a 40°C. Quando la famiglia Baeli si trasferì 10 anni fa, la loro casa aveva finestre con doppi vetri in PVC piene di spifferi e con poco isolamento: faticavano a stare al caldo d'inverno e si surriscaldavano d'estate.",
-          "La ristrutturazione ha ridotto la domanda di energia dell'88%, generando un risparmio annuo di quasi 750 sterline sulle bollette.",
-          "Secondo il Passivhaus Trust, il costo di costruzione aggiuntivo associato alla realizzazione secondo lo standard varia da un 2% extra per gli appartamenti fino al 5% per una casa bifamiliare.",
-          "Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che anche se applicare lo standard costerà di più, lo sviluppo di 900 appartamenti Bollo Lane è un esperimento per 'rendere l'azienda a prova di futuro' e anticipare le normative 'in continuo inasprimento'."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Passivhaus Trust",
-          "Baeli",
-          "Oliver Novakovic"
-        ],
-        "numbersAndDates": [
-          "Secondo il Passivhaus Trust, il costo di costruzione aggiuntivo associato alla realizzazione secondo lo standard varia da un 2% extra per gli appartamenti fino al 5% per una casa bifamiliare.",
-          "Oliver Novakovic, direttore tecnico e dell'innovazione dell'azienda, spiega che anche se applicare lo standard costerà di più, lo sviluppo di 900 appartamenti Bollo Lane è un esperimento per 'rendere l'azienda a prova di futuro' e anticipare le normative 'in continuo inasprimento'.",
-          "40",
-          "10",
-          "88",
-          "750"
-        ]
-      }
-    },
-    {
-      "id": "story-ed6e31b62f50e8d7",
-      "title": "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo",
-      "summary": "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo Sud lunare alla ricerca di ghiaccio d'acqua. La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
-      "spokenText": "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo Sud lunare alla ricerca di ghiaccio d'acqua. La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna. Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei -200°C. Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7. Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un singolo obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2. La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "chang e 7",
-        "queqiao 2"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 67,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/china-is-launching-a-moon-mission-to-find-water-ice-its-unlike-anything-nasa-has-done-289710"
-      },
-      "analysis": {
-        "mainFact": "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo Sud lunare alla ricerca di ghiaccio d'acqua.",
-        "whyItMatters": "La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
-        "confirmedFacts": [
-          "La missione cinese Chang'e-7, composta da orbiter, lander, rover e un hopper, è progettata per esplorare crateri in ombra permanente vicino al Polo Sud lunare alla ricerca di ghiaccio d'acqua.",
-          "La Cina ha trascorso due decenni a costruire un programma di esplorazione lunare sempre più ambizioso, che prende il nome da Chang'e, l'antica dea cinese della Luna.",
-          "Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei -200°C.",
-          "Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
-          "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un singolo obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
-          "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Chang'e-7",
-          "Queqiao-2"
-        ],
-        "numbersAndDates": [
-          "Ciò che sappiamo è che accedere a quel ghiaccio d'acqua sarà una vera sfida: si trova sul fondo di crateri profondi e difficili da attraversare dove il Sole non splende mai, rimanendo intatto per miliardi di anni a temperature ben al di sotto dei -200°C.",
-          "Lanciato separatamente a marzo 2024, ha successivamente supportato la missione Chang'e-6 e faciliterà la comunicazione tra la Terra e la superficie lunare durante la missione Chang'e-7.",
-          "Chang'e-7 è una missione statale coordinata i cui elementi sono stati progettati attorno a un singolo obiettivo specifico e che può utilizzare l'infrastruttura già operativa Queqiao-2.",
-          "La NASA ha attualmente 17 consegne contrattualizzate che trasportano più di 60 strumenti.",
-          "7"
-        ]
-      }
-    },
-    {
-      "id": "story-3eac75a25ca7413c",
-      "title": "Putin promette rappresaglie contro la logistica Ucraina dopo che Kiev ha colpito i magazzini delle aziende di e-commerce russe Wildberries e Ozon",
-      "summary": "«Volete interrompere la nostra logistica? Bene, allora le misure di rappresaglia non tarderanno ad arrivare», ha affermato il presidente russo dopo che Kiev ha colpito i magazzini delle aziende di e-commerce russe Wildberries e Ozon",
-      "spokenText": "Putin promette rappresaglie contro la logistica Ucraina dopo che Kiev ha colpito i magazzini di Wildberries e Ozon, i giganti dell'e-commerce russo. Si tratta del primo attacco contro Ozon, mentre gli hub di Wildberries erano già stati presi di mira. Il presidente minaccia: 'Gli attacchi non tarderanno ad arrivare'. Intanto, un missile balistico ha colpito un impianto ferroviario nel distretto di Darnytsia, uccidendo un dipendente delle ferrovie, e un'altra persona è morta in un attacco con drone nella regione di Zaporizhzhia. Mosca ha lanciato 217 droni, concentrandosi su Kiev e Odessa. 'Manderemo nuovi missili intercettori'.",
+      "id": "story-c822680744f6d533",
+      "title": "Guerra Ucraina - Russia, le news di oggi. Detriti di drone ucraino a Krasnodar, due bambini morti e nove feriti",
+      "summary": "Tre vittime in un attacco russo alla periferia di Kharkiv. Oggi a Kiev vertice dei Volenterosi",
+      "spokenText": "Tre vittime in un attacco russo alla periferia di Kharkiv e due bambini morti a Krasnodar per detriti di drone ucraino. \"La sicurezza dell'Ucraina è la nostra sicurezza\", aggiungendo che la Gran Bretagna sarà al fianco dell'Ucraina per tutto il tempo necessario. Medvedev ha definito traditori coloro che criticano la guerra. Secondo il presidente la Russia prevede di mobilitare «circa 300.000 persone» dopo le elezioni della Duma di settembre ma lo farà «senza interessare le principali città del Paese» (n particolare «Mosca e San Pietroburgo»), nel tentativo di ridurre al minimo le reazioni negative da parte della società.",
       "category": "mondo",
       "tags": [
         "mondo",
         "ucraina",
-        "wildberries",
-        "moldavia"
+        "russia",
+        "kharkiv",
+        "krasnodar"
       ],
       "importance": 70,
       "mustInclude": true,
-      "estimatedSeconds": 38,
+      "estimatedSeconds": 40,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ucraina-217-droni-e-missili-notte-morto-kiev-colpita-ferrovia-AJSGvvr"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/24/diretta/guerra_ucraina_russia_news_oggi-425543645/"
       },
       "analysis": {
-        "mainFact": "Putin promette rappresaglie contro la logistica Ucraina dopo che Kiev ha colpito i magazzini delle aziende di e-commerce russe Wildberries e Ozon.",
-        "whyItMatters": "mentre un drone russo ha violato lo spazio aereo moldavo.",
+        "mainFact": "Tre vittime in un attacco russo alla periferia di Kharkiv e due bambini morti a Krasnodar per detriti di drone ucraino.",
+        "whyItMatters": "Secondo il presidente la Russia prevede di mobilitare «circa 300.000 persone» dopo le elezioni della Duma di settembre ma lo farà «senza interessare le principali città del Paese» (n particolare «Mosca e San Pietroburgo»), nel tentativo di ridurre al minimo le reazioni negative da parte della società.",
         "confirmedFacts": [
-          "Putin promette rappresaglie contro la logistica Ucraina dopo che Kiev ha colpito i magazzini delle aziende di e-commerce russe Wildberries e Ozon.",
-          "mentre un drone russo ha violato lo spazio aereo moldavo.",
-          "Il presidente minaccia la logistica Ucraina, 'attacchi non tarderanno ad arrivare'",
-          "Nella capitale un missile balistico ha colpito un impianto ferroviario nel distretto di Darnytsia , uccidendo un dipendente delle ferrovie.",
-          "Un’altra persona è morta in un attacco con drone nella regione di Zaporizhzhia .",
-          "Si tratta del «primo attacco» contro il gigante dell’e-commerce russo , secondo solo a Wildberries, i cui hub sono già finiti nel mirino diverse volte.",
-          "Mosca ha lanciato 217 droni , oltre a missili balistici e altre munizioni, concentrando gli attacchi soprattutto sulle regioni di Kiev e Odessa .",
-          "Macron: «Manderemo nuovi missili intercettori»"
+          "Tre vittime in un attacco russo alla periferia di Kharkiv e due bambini morti a Krasnodar per detriti di drone ucraino.",
+          "Secondo il presidente la Russia prevede di mobilitare «circa 300.000 persone» dopo le elezioni della Duma di settembre ma lo farà «senza interessare le principali città del Paese» (n particolare «Mosca e San Pietroburgo»), nel tentativo di ridurre al minimo le reazioni negative da parte della società.",
+          "\"La sicurezza dell'Ucraina è la nostra sicurezza\", ha dichiarato Burnham in un comunicato, aggiungendo che la Gran Bretagna sarà al fianco dell'Ucraina \"per tutto il tempo necessario\".",
+          "Medvedev: “Sono traditori” Ucraina, la guerra della frutta."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Ucraina",
-          "Wildberries",
-          "Moldavia"
+          "Russia",
+          "Kharkiv",
+          "Krasnodar"
         ],
         "numbersAndDates": [
-          "Mosca ha lanciato 217 droni , oltre a missili balistici e altre munizioni, concentrando gli attacchi soprattutto sulle regioni di Kiev e Odessa ."
+          "300.000"
         ]
       }
     },
     {
+      "id": "story-39796acad5ee8e1e",
+      "title": "Guerra ultime notizie. Netanyahu: «Se Hamas non smette lanci da Gaza, intensificheremo azioni Idf»",
+      "summary": "Il premier: «Israele non permetterà all’organizzazione terroristica Hamas, né a qualsiasi altra entità presente nella Striscia di Gaza, di tornare a minacciare le nostre comunità e a minare il senso di sicurezza dei nostri cittadini»",
+      "spokenText": "Netanyahu: «Se Hamas non smette lanci da Gaza, intensificheremo azioni Idf». Il primo ministro ha chiarito che non si tornerà alla situazione precedente al 7 ottobre.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "netanyahu",
+        "hamas",
+        "idf"
+      ],
+      "importance": 50,
+      "mustInclude": true,
+      "estimatedSeconds": 11,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/libano-raid-israeliani-ali-al-taher-hacker-iraniani-hanno-spento-centrale-elettrica-uk-AJMdWZs"
+      },
+      "analysis": {
+        "mainFact": "Netanyahu: «Se Hamas non smette lanci da Gaza, intensificheremo azioni Idf»",
+        "whyItMatters": "Il primo ministro ha chiarito che non si tornerà alla situazione precedente al 7 ottobre.",
+        "confirmedFacts": [
+          "Netanyahu: «Se Hamas non smette lanci da Gaza, intensificheremo azioni Idf»",
+          "Il primo ministro ha chiarito che non si tornerà alla situazione precedente al 7 ottobre."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Netanyahu",
+          "Hamas",
+          "Idf"
+        ],
+        "numbersAndDates": [
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "story-af2f3d45e008cad4",
+      "title": "Trump, 'il Canada vuole i vantaggi di uno Stato senza esserlo'",
+      "summary": "'Per anni hanno imposto dazi enormi ai nostri agricoltori, basta!",
+      "spokenText": "Trump accusa il Canada di volere i vantaggi di uno Stato americano senza esserlo. Mentre fallisce il negoziato sui dazi e Washington impone tariffe del 50% su 20 miliardi di beni canadesi. 'Per anni hanno imposto dazi enormi ai nostri agricoltori, basta! Con i dossier del conflitto in Iran e della guerra commerciale con il Canada aperti, il presidente si è ritagliato qualche ora per godersi un evento che ha fortemente voluto nell'ambito delle celebrazioni per i 250 anni dell'America. \"Il circuito è meraviglioso, il meteo è fantastico e c'è molta gente, probabilmente 300.000-350.000 persone\", ha commentato Trump con Fox Sport.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "canada",
+        "stati uniti"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 41,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/23/trump-il-canada-vuole-i-vantaggi-di-uno-stato-senza-esserlo_9f5d4ad8-af47-4d6a-a2b2-8442fd5603d7.html"
+      },
+      "analysis": {
+        "mainFact": "Trump accusa il Canada di volere i vantaggi di uno Stato americano senza esserlo.",
+        "whyItMatters": "mentre fallisce il negoziato sui dazi e Washington impone tariffe del 50% su 20 miliardi di beni canadesi.",
+        "confirmedFacts": [
+          "Trump accusa il Canada di volere i vantaggi di uno Stato americano senza esserlo.",
+          "mentre fallisce il negoziato sui dazi e Washington impone tariffe del 50% su 20 miliardi di beni canadesi.",
+          "'Per anni hanno imposto dazi enormi ai nostri agricoltori, basta!",
+          "Con i dossier del conflitto in Iran e della guerra commerciale con il Canada aperti, il presidente si è ritagliato qualche ora per godersi un evento che ha fortemente voluto nell'ambito delle celebrazioni per i 250 anni dell'America.",
+          "\"Il circuito è meraviglioso, il meteo è fantastico e c'è molta gente, probabilmente 300.000-350.000 persone\", ha commentato Trump con Fox Sport."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Canada",
+          "Stati Uniti"
+        ],
+        "numbersAndDates": [
+          "Con i dossier del conflitto in Iran e della guerra commerciale con il Canada aperti, il presidente si è ritagliato qualche ora per godersi un evento che ha fortemente voluto nell'ambito delle celebrazioni per i 250 anni dell'America.",
+          "\"Il circuito è meraviglioso, il meteo è fantastico e c'è molta gente, probabilmente 300.000-350.000 persone\", ha commentato Trump con Fox Sport.",
+          "50",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "story-f2754395fd9db791",
+      "title": "Brasile, con El Nino i prezzi degli alimenti potrebbero aumentare del 20%",
+      "summary": "Con El Niño, i prezzi degli alimenti in Brasile potrebbero aumentare fino al 20%.",
+      "spokenText": "Con l'arrivo di El Niño, i prezzi degli alimenti in Brasile potrebbero aumentare fino al 20%. È una stima che arriva dalla Rabobank e che si inserisce in un quadro meteorologico sempre più definito: secondo le ultime previsioni, la probabilità di un El Niño forte entro la fine dell'anno è intorno all'80%. In uno scenario moderato, l'impatto stimato sull'indice ufficiale Ipca sarebbe di circa 0,alcuni aspetti percentuali, mentre l'effetto complessivo, in un contesto più severo, potrebbe aggiungere circa 0,alcuni aspetti percentuali allo stesso indice.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "brasile",
+        "rabobank"
+      ],
+      "importance": 65,
+      "mustInclude": true,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/23/brasile-con-el-nino-i-prezzi-degli-alimenti-potrebbero-aumentare-del-20_eb4b1f83-0725-492d-849c-01a57da9e69e.html"
+      },
+      "analysis": {
+        "mainFact": "Con El Niño, i prezzi degli alimenti in Brasile potrebbero aumentare fino al 20%.",
+        "whyItMatters": "Previsione di impatto di El Niño sui prezzi alimentari in Brasile con stime di inflazione. Rilevanza economica concreta.",
+        "confirmedFacts": [
+          "Con El Niño, i prezzi degli alimenti in Brasile potrebbero aumentare fino al 20%.",
+          "Previsione di impatto di El Niño sui prezzi alimentari in Brasile con stime di inflazione. Rilevanza economica concreta.",
+          "L'effetto complessivo potrebbe aggiungere circa 0,alcuni aspetti percentuali all'indice ufficiale dell'inflazione, l'Ipca.",
+          "In uno scenario moderato, invece, l'impatto stimato sarebbe di circa 0,alcuni aspetti.",
+          "Secondo le ultime previsioni, la probabilit di un El Nino forte entro la fine dell'anno intorno all'80%."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Brasile",
+          "Rabobank"
+        ],
+        "numbersAndDates": [
+          "L'effetto complessivo potrebbe aggiungere circa 0,alcuni aspetti percentuali all'indice ufficiale dell'inflazione, l'Ipca.",
+          "In uno scenario moderato, invece, l'impatto stimato sarebbe di circa 0,alcuni aspetti.",
+          "Secondo le ultime previsioni, la probabilit di un El Nino forte entro la fine dell'anno intorno all'80%.",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "story-45a8a12fac61a7c4",
+      "title": "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update)",
+      "summary": "Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper. The post Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update) appeared first on Punto Informatico.",
+      "spokenText": "Questa sera dal Wenchang Space Launch Site è previsto il lancio di un razzo Long March 5, che darà il via alla missione Chang’e-7, una delle più articolate dell’intero programma di esplorazione lunare cinese. L’obiettivo è scandagliare il polo sud della Luna, in particolare le aree attorno al cratere Shackleton, per cercare tracce di acqua ghiacciata. Per farlo, la missione non si affida a un singolo veicolo, ma a un vero e proprio sistema integrato: un orbiter, un lander, un rover e un mini hopper, un piccolo modulo capace di spostarsi a balzi per raggiungere zone altrimenti inaccessibili. La caccia all’acqua ghiacciata, del resto, non è un’esclusiva cinese. Chang’e-7 è una missione molto più complessa delle precedenti.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "cina",
+        "chang e 7",
+        "long march 5",
+        "wenchang space launch site",
+        "cratere shackleton"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 47,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/missione-change-7-ricerca-acqua-ghiacciata-luna/"
+      },
+      "analysis": {
+        "mainFact": "È previsto il lancio della missione cinese Chang'e-7 con un razzo Long March 5 per cercare acqua ghiacciata sulla Luna.",
+        "whyItMatters": "L’obiettivo è cercare acqua ghiacciata nelle vicinanze del cratere Shackleton al polo sud della Luna .",
+        "confirmedFacts": [
+          "È previsto il lancio della missione cinese Chang'e-7 con un razzo Long March 5 per cercare acqua ghiacciata sulla Luna.",
+          "L’obiettivo è cercare acqua ghiacciata nelle vicinanze del cratere Shackleton al polo sud della Luna .",
+          "Questa sera è previsto il lancio del razzo Long March 5 dal Wenchang Space Launch Site che darà inizio alla missione Chang’e-7 , una delle più complesse del programma di esplorazione lunare della Cina.",
+          "A bordo del lander ci sono un rover e un mini hopper .",
+          "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update) Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper.",
+          "La ricerca di acqua ghiacciata è anche l’obiettivo principale di VIPER .",
+          "Chang’e-7 è una missione molto più complessa delle precedenti."
+        ],
+        "uncertainties": [
+          "Orbiter, lander, rover e mini hopper Il programma di esplorazione lunare cinese prevede quattro fasi “robotiche”."
+        ],
+        "peopleAndOrganizations": [
+          "Cina",
+          "Chang'e-7",
+          "Long March 5",
+          "Wenchang Space Launch Site",
+          "cratere Shackleton"
+        ],
+        "numbersAndDates": [
+          "Questa sera è previsto il lancio del razzo Long March 5 dal Wenchang Space Launch Site che darà inizio alla missione Chang’e-7 , una delle più complesse del programma di esplorazione lunare della Cina.",
+          "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update) Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper.",
+          "Chang’e-7 è una missione molto più complessa delle precedenti.",
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "story-6f1e7b12a96d7458",
+      "title": "Logitech non rimborsa i consumatori: denuncia negli USA",
+      "summary": "Logitech è stata denunciata perché non ha rimborsato i consumatori, dopo l'annullamento dei dazi di Trump da parte della Corte Suprema. The post Logitech non rimborsa i consumatori: denuncia negli USA appeared first on Punto Informatico.",
+      "spokenText": "Un'azienda e un cittadino californiani hanno presentato la denuncia, sostenendo che l'azienda ha aumentato i prezzi del 51% dei prodotti fino al 25% a causa di quei dazi. La Corte Suprema ha stabilito che i dazi erano incostituzionali, perché Trump non poteva applicarli sulla base dell'International Emergency Economic Powers Act del 1977. Logitech ha ricevuto un rimborso di 61 milioni di dollari a fine giugno, ma non ha trasferito questi soldi ai consumatori. Un’azienda e un cittadino californiani hanno presentato una denuncia contro Logitech perché non ha rimborsato i consumatori, dopo l’annullamento dei dazi introdotti da Trump all’inizio di aprile 2025 che hanno causato un aumento dei prezzi dei prodotti.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "logitech"
+      ],
+      "importance": 52,
+      "mustInclude": true,
+      "estimatedSeconds": 44,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/logitech-non-rimborsa-consumatori-denuncia-usa/"
+      },
+      "analysis": {
+        "mainFact": "Logitech è stata denunciata negli USA per non aver rimborsato i consumatori dopo l'annullamento dei dazi di Trump da parte della Corte Suprema.",
+        "whyItMatters": "Logitech ha ricevuto un rimborso di 61 milioni di dollari a fine giugno. Logitech ha aumentato i prezzi del 51% dei prodotti fino al 25%.",
+        "confirmedFacts": [
+          "Logitech è stata denunciata negli USA per non aver rimborsato i consumatori dopo l'annullamento dei dazi di Trump da parte della Corte Suprema.",
+          "Logitech ha ricevuto un rimborso di 61 milioni di dollari a fine giugno. Logitech ha aumentato i prezzi del 51% dei prodotti fino al 25%.",
+          "Un’azienda e un cittadino californiani hanno presentato una denuncia contro Logitech perché non ha rimborsato i consumatori, dopo l’annullamento dei dazi introdotti da Trump all’inizio di aprile 2025 che hanno causato un aumento dei prezzi dei prodotti.",
+          "La Corte Suprema ha tuttavia stabilito che i dazi sono incostituzionali , in quanto Trump non poteva applicarli sulla base dell’International Emergency Economic Powers Act (IEEPA) del 1977."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Logitech"
+        ],
+        "numbersAndDates": [
+          "Un’azienda e un cittadino californiani hanno presentato una denuncia contro Logitech perché non ha rimborsato i consumatori, dopo l’annullamento dei dazi introdotti da Trump all’inizio di aprile 2025 che hanno causato un aumento dei prezzi dei prodotti.",
+          "La Corte Suprema ha tuttavia stabilito che i dazi sono incostituzionali , in quanto Trump non poteva applicarli sulla base dell’International Emergency Economic Powers Act (IEEPA) del 1977.",
+          "61",
+          "51",
+          "25"
+        ]
+      }
+    },
+    {
+      "id": "story-0ae94cbd20b2b2e9",
+      "title": "Cento ex diplomatici: «Palestina cancellata sotto i nostri occhi»",
+      "summary": "La lettera, indirizzata al presidente Emmanuel Macron e al premier Andy Burnham, è stata firmata da 52 ex diplomatici francesi e 50 ex ambasciatori britannici; molti hanno prestato servizio in Medio Oriente, ricoprendo incarichi di alto livello",
+      "spokenText": "Cento ex diplomatici hanno firmato una lettera in cui affermano che la Palestina viene cancellata sotto i loro occhi. Tra i firmatari figurano ex ambasciatori britannici e francesi, e la lettera è indirizzata a leader come Emmanuel Macron e Andy Burnham.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "emmanuel macron",
+        "andy burnham",
+        "ex diplomatici francesi",
+        "ex ambasciatori britannici"
+      ],
+      "importance": 60,
+      "mustInclude": true,
+      "estimatedSeconds": 17,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/cento-ex-diplomatici-palestina-cancellata-sotto-nostri-occhi-AJ4qOYs"
+      },
+      "analysis": {
+        "mainFact": "Cento ex diplomatici hanno firmato una lettera in cui affermano che la Palestina viene cancellata sotto i loro occhi.",
+        "whyItMatters": "Appello di alto profilo diplomatico su crisi umanitaria e diritti. Implicazioni sistemiche per la geopolitica.",
+        "confirmedFacts": [
+          "Cento ex diplomatici hanno firmato una lettera in cui affermano che la Palestina viene cancellata sotto i loro occhi.",
+          "Appello di alto profilo diplomatico su crisi umanitaria e diritti. Implicazioni sistemiche per la geopolitica.",
+          "La lettera, indirizzata al presidente Emmanuel Macron e al premier Andy Burnham, è stata firmata da 52 ex diplomatici francesi e 50 ex ambasciatori britannici; molti hanno prestato servizio in Medio Oriente, ricoprendo incarichi di alto livello."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Emmanuel Macron",
+          "Andy Burnham",
+          "ex diplomatici francesi",
+          "ex ambasciatori britannici"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-51fb4fed6725e593",
+      "title": "A Stoccolma si è tenuta una manifestazione per il clima con 50",
+      "summary": "L'attivista: 'Da anni che in Svezia non vedevo un corteo così'",
+      "spokenText": "A Stoccolma si è tenuta una manifestazione per il clima con 50.000 partecipanti, tra cui Greta Thunberg. I partecipanti sono stimati a 50.000 a detta di Naturskyddsf reningen, l'associazione per la protezione ambientale e uno degli organizzatori. La manifestazione avviene poche settimane prima delle elezioni in Svezia, che si terranno il 13 settembre e l'obbiettivo per gli attivisti di riportare la questione climatica all'ordine del giorno. Lily Kjellberg, manifestante di 16 anni, crede che la sua presenza porti un messaggio importante: \"Forse noi adolescenti non possiamo fare cos tanto per salvare il clima sia a livello parlamentare nazionale che a livello mondiale ma importante essere qui e mostrare ci a cui teniamo\", ha dichiarato alla TT.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "greta thunberg",
+        "stoccolma",
+        "svezia"
+      ],
+      "importance": 65,
+      "mustInclude": true,
+      "estimatedSeconds": 47,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/in-50.000-a-manifestazione-per-il-clima-a-stoccolma-anche-greta-thunberg_44dbfc31-cdea-4e11-95f4-394727ac0f46.html"
+      },
+      "analysis": {
+        "mainFact": "A Stoccolma si è tenuta una manifestazione per il clima con 50.000 partecipanti, tra cui Greta Thunberg.",
+        "whyItMatters": "I partecipanti sono stimati a 50.000 a detta di Naturskyddsf reningen, l'associazione per la protezione ambientale e uno degli organizzatori.",
+        "confirmedFacts": [
+          "A Stoccolma si è tenuta una manifestazione per il clima con 50.000 partecipanti, tra cui Greta Thunberg.",
+          "I partecipanti sono stimati a 50.000 a detta di Naturskyddsf reningen, l'associazione per la protezione ambientale e uno degli organizzatori.",
+          "La manifestazione avviene poche settimane prima delle elezioni in Svezia, che si terranno il 13 settembre e l'obbiettivo per gli attivisti di riportare la questione climatica all'ordine del giorno:",
+          "Lily Kjellberg, manifestante di 16 anni, crede che la sua presenza porti un messaggio importante: \"Forse noi adolescenti non possiamo fare cos tanto per salvare il clima sia a livello parlamentare nazionale che a livello mondiale ma importante essere qui e mostrare ci a cui teniamo\", ha dichiarato alla TT."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Greta Thunberg",
+          "Stoccolma",
+          "Svezia"
+        ],
+        "numbersAndDates": [
+          "La manifestazione avviene poche settimane prima delle elezioni in Svezia, che si terranno il 13 settembre e l'obbiettivo per gli attivisti di riportare la questione climatica all'ordine del giorno:",
+          "50.000"
+        ]
+      }
+    },
+    {
+      "id": "story-e5d1f5314dd0298d",
+      "title": "Shein punta a una valutazione di quasi 27 miliardi di dollari per il suo debutto in borsa a Hong Kong",
+      "summary": "Shein punta a una valutazione di quasi 27 miliardi di dollari per il suo debutto in borsa a Hong Kong.",
+      "spokenText": "Shein punta a una valutazione di quasi 27 miliardi di dollari in vista del suo debutto in borsa a Hong Kong. Le azioni del colosso del fast-fashion dovrebbero iniziare a essere scambiate il primo settembre. Questo forte ridimensionamento riflette una fase di crescita delle vendite più debole e un contesto di costi operativi più elevati. Ma questo valore è molto inferiore alla valutazione di 100 miliardi di dollari raggiunta in un round di finanziamento privato nel 2022, che riflette una crescita delle vendite più debole.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "shein",
+        "hong kong"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Shein punta a una valutazione di quasi 27 miliardi di dollari per il suo debutto in borsa a Hong Kong.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Shein punta a una valutazione di quasi 27 miliardi di dollari per il suo debutto in borsa a Hong Kong.",
+          "Le azioni del colosso del fast-fashion dovrebbero iniziare a essere scambiate a Hong Kong il 1° settembre.",
+          "Ma questo valore è molto inferiore alla valutazione di 100 miliardi di dollari raggiunta in un round di finanziamento privato nel 2022, che riflette una crescita delle vendite più debole e costi più elevati."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Shein",
+          "Hong Kong"
+        ],
+        "numbersAndDates": [
+          "Le azioni del colosso del fast-fashion dovrebbero iniziare a essere scambiate a Hong Kong il 1° settembre.",
+          "Ma questo valore è molto inferiore alla valutazione di 100 miliardi di dollari raggiunta in un round di finanziamento privato nel 2022, che riflette una crescita delle vendite più debole e costi più elevati.",
+          "27"
+        ]
+      }
+    },
+    {
+      "id": "story-ea30f1427491b7a3",
+      "title": "L'Onu dichiara che l'epidemia di Ebola in Congo cresce in modo esponenziale",
+      "summary": "Negli ultimi tre mesi sono morte 2.500 persone. Msf, un decesso ogni mezz'ora",
+      "spokenText": "L'Onu dichiara che l'epidemia di Ebola in Congo cresce in modo esponenziale. Negli ultimi tre mesi sono morte 2.500 persone. Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora. Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "congo",
+        "onu",
+        "msf"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 24,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/21/ebola-in-repubblica-democratica-del-congo-msf-un-decesso-ogni-mezzora_da4d02b9-815b-4afa-b0c7-d73828f43890.html"
+      },
+      "analysis": {
+        "mainFact": "L'Onu dichiara che l'epidemia di Ebola in Congo cresce in modo esponenziale.",
+        "whyItMatters": "Negli ultimi tre mesi sono morte 2.500 persone.",
+        "confirmedFacts": [
+          "L'Onu dichiara che l'epidemia di Ebola in Congo cresce in modo esponenziale.",
+          "Negli ultimi tre mesi sono morte 2.500 persone.",
+          "Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora.",
+          "Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Congo",
+          "Onu",
+          "Msf"
+        ],
+        "numbersAndDates": [
+          "Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti.",
+          "2.500"
+        ]
+      }
+    },
+    {
+      "id": "story-4be147b2dabb5037",
+      "title": "Il rover Curiosity riprende la scalata del Monte Sharp dopo una deviazione per investigare una superficie erosiva",
+      "summary": "Il rover Curiosity riprende la scalata del Monte Sharp dopo una deviazione per investigare una superficie erosiva.",
+      "spokenText": "Il rover Curiosity ha ripreso la sua scalata del Monte Sharp dopo una breve deviazione per studiare una superficie erosiva. Il piano di inizio settimana, per i Sol da 4982 a 4985, ha visto il rover posizionato proprio a ridosso di una caratteristica geologica unica, appena sopra il contatto di quella che i geologi chiamano una supersuperficie erosiva. Dopo questa sosta ravvicinata, Curiosity ha effettuato una prima marcia di avvicinamento di circa trenta metri, raggiungendo la postazione da cui è stato poi organizzato il piano operativo di venerdì, relativo ai Sol da 4985 a 4987. Da lì, la tabella di marcia prevede di continuare a guadagnare quota: la prossima tappa pianificata è una guida di circa quarantasette metri che porterà il rover in una zona a sud-ovest rispetto alla posizione attuale, sempre lungo le pendici del Monte Sharp.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "curiosity"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 56,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/"
+      },
+      "analysis": {
+        "mainFact": "Il rover Curiosity riprende la scalata del Monte Sharp dopo una deviazione per investigare una superficie erosiva.",
+        "whyItMatters": "Aggiornamento operativo missione Curiosity su Marte, esplorazione spaziale.",
+        "confirmedFacts": [
+          "Il rover Curiosity riprende la scalata del Monte Sharp dopo una deviazione per investigare una superficie erosiva.",
+          "Aggiornamento operativo missione Curiosity su Marte, esplorazione spaziale.",
+          "Il piano di lunedì per i Sol da 4982 a 4985 è iniziato con Curiosity faccia a faccia con una caratteristica geologica unica appena sopra il contatto della supersuperficie erosiva.",
+          "Curiosity ha poi guidato per 100 piedi (30 metri) per portarci alla posizione per il piano di venerdì per i Sol da 4985 a 4987.",
+          "Curiosity continuerà poi a scalare il Monte Sharp; la distanza di guida pianificata di 150 piedi (47 metri) porterà il rover a sud-ovest della nostra attuale posizione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Curiosity"
+        ],
+        "numbersAndDates": [
+          "Il piano di lunedì per i Sol da 4982 a 4985 è iniziato con Curiosity faccia a faccia con una caratteristica geologica unica appena sopra il contatto della supersuperficie erosiva.",
+          "Curiosity ha poi guidato per 100 piedi (30 metri) per portarci alla posizione per il piano di venerdì per i Sol da 4985 a 4987.",
+          "Curiosity continuerà poi a scalare il Monte Sharp; la distanza di guida pianificata di 150 piedi (47 metri) porterà il rover a sud-ovest della nostra attuale posizione."
+        ]
+      }
+    },
+    {
+      "id": "story-0612b0dd8acc4fd9",
+      "title": "Burnham consegnerà i progetti di missili a lungo raggio a Zelensky durante una visita a Kyiv",
+      "summary": "Burnham consegnerà i progetti di missili a lungo raggio a Zelensky durante una visita a Kyiv.",
+      "spokenText": "Al centro del colloquio, la consegna fisica dei progetti per missili a lungo raggio.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "burnham",
+        "zelensky",
+        "kyiv"
+      ],
+      "importance": 52,
+      "mustInclude": true,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Burnham consegnerà i progetti di missili a lungo raggio a Zelensky durante una visita a Kyiv.",
+        "whyItMatters": "Trasferimento progetti missili a Kiev, escalation nel supporto militare.",
+        "confirmedFacts": [
+          "Burnham consegnerà i progetti di missili a lungo raggio a Zelensky durante una visita a Kyiv.",
+          "Trasferimento progetti missili a Kiev, escalation nel supporto militare.",
+          "Burnham will be reaffirming the UK's backing for Kyiv in the wake of escalating Russian strikes on Ukraine in recent weeks - including one on a shopping centre on Friday that killed at least 16 people."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Burnham",
+          "Zelensky",
+          "Kyiv"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
       "id": "story-9b2ee5d708000dc3",
-      "title": "In pochi giorni si sono verificati sei femminicidi, evidenziando che l'inasprimento delle pene non basta senza vera prevenzione e risorse",
+      "title": "Sei femminicidi sono avvenuti in pochi giorni, tra denunce inascoltate e braccialetti scarichi",
       "summary": "Sei femminicidi in pochi giorni: tra denunce inascoltate e braccialetti scarichi, l'inasprimento delle pene non basta senza vera prevenzione e risorse.",
-      "spokenText": "In pochi giorni si sono verificati sei femminicidi. L'inasprimento delle pene, da solo, non basta se non è accompagnato da una vera prevenzione e da risorse adeguate.",
+      "spokenText": "Sei donne uccise nel giro di pochissimi giorni. Denunce rimaste inascoltate, segnali ignorati. Sei femminicidi in pochi giorni raccontano di un meccanismo che siinceppa sempre sullo stesso punto.",
       "category": "diritti",
       "tags": [
         "diritti"
       ],
       "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 11,
+      "estimatedSeconds": 12,
       "source": {
         "name": "Valigia Blu",
         "url": "https://www.valigiablu.it/perche-lo-stato-non-protegge-le-donne-femminicidi/"
       },
       "analysis": {
-        "mainFact": "In pochi giorni si sono verificati sei femminicidi, evidenziando che l'inasprimento delle pene non basta senza vera prevenzione e risorse.",
-        "whyItMatters": "Analisi strutturale sui femminicidi e fallimento prevenzione. Tema di diritti umani con conseguenze sociali concrete.",
+        "mainFact": "Sei femminicidi sono avvenuti in pochi giorni, tra denunce inascoltate e braccialetti scarichi.",
+        "whyItMatters": "Analisi sistemica sui femminicidi e fallimento della prevenzione. Impatto sociale concreto.",
         "confirmedFacts": [
-          "In pochi giorni si sono verificati sei femminicidi, evidenziando che l'inasprimento delle pene non basta senza vera prevenzione e risorse.",
-          "Analisi strutturale sui femminicidi e fallimento prevenzione. Tema di diritti umani con conseguenze sociali concrete.",
+          "Sei femminicidi sono avvenuti in pochi giorni, tra denunce inascoltate e braccialetti scarichi.",
+          "Analisi sistemica sui femminicidi e fallimento della prevenzione. Impatto sociale concreto.",
           "Sei femminicidi in pochi giorni: tra denunce inascoltate e braccialetti scarichi, l'inasprimento delle pene non basta senza vera prevenzione e risorse."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-1fa8678ad35d3522",
+      "title": "Una nuova era di ondate di calore potrebbe sconvolgere il calendario scolastico",
+      "summary": "Una nuova era di ondate di calore potrebbe sconvolgere il calendario scolastico. Giugno ha visto una delle ondate di calore più intense del Regno Unito, con fino a sette giorni consecutivi in cui le temperature sono state ben al di sopra delle soglie ufficiali di ondata di calore di 25-28°C, proprio mentre il periodo degli esami era in pieno svolgimento.",
+      "spokenText": "Una nuova era di ondate di caldo potrebbe sconvolgere il calendario scolastico. Giugno ha visto una delle ondate più intense del Regno Unito, con fino a sette giorni consecutivi di temperature ben al di sopra delle soglie ufficiali di 25-28 gradi, proprio durante gli esami. Steve Chalke, fondatore di Oasis Academy, che gestisce più di 50 scuole in Inghilterra, afferma che queste condizioni sono state un vero ostacolo all'insegnamento.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "oasis academy",
+        "steve chalke"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 28,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Una nuova era di ondate di calore potrebbe sconvolgere il calendario scolastico.",
+        "whyItMatters": "Giugno ha visto una delle ondate di calore più intense del Regno Unito, con fino a sette giorni consecutivi in cui le temperature sono state ben al di sopra delle soglie ufficiali di ondata di calore di 25-28°C, proprio mentre il periodo degli esami era in pieno svolgimento.",
+        "confirmedFacts": [
+          "Una nuova era di ondate di calore potrebbe sconvolgere il calendario scolastico.",
+          "Giugno ha visto una delle ondate di calore più intense del Regno Unito, con fino a sette giorni consecutivi in cui le temperature sono state ben al di sopra delle soglie ufficiali di ondata di calore di 25-28°C, proprio mentre il periodo degli esami era in pieno svolgimento.",
+          "Steve Chalke, fondatore di Oasis Academy, che gestisce più di 50 scuole in Inghilterra, afferma che le ondate di calore sono state un \"vero ostacolo\" all'insegnamento."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Oasis Academy",
+          "Steve Chalke"
+        ],
+        "numbersAndDates": [
+          "Steve Chalke, fondatore di Oasis Academy, che gestisce più di 50 scuole in Inghilterra, afferma che le ondate di calore sono state un \"vero ostacolo\" all'insegnamento.",
+          "25",
+          "28"
+        ]
       }
     }
   ]
