@@ -1,601 +1,603 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-24-37fe41c76b3a",
-  "generatedAt": "2026-08-24T05:34:22.032Z",
+  "catalogId": "daily-quid-2026-08-25-02fc775ca646",
+  "generatedAt": "2026-08-25T05:26:49.764Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-dcc23af4bdc1f0c0",
-      "title": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-      "summary": "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico. L’Osservatorio, istituto presso il Ministero dell’Ambiente e della Sicurezza energetica, ha fra i suoi compiti l’indirizzo e il coordinamento multilivello per l’attuazione del Piano nazionale di adattamento ai cambiamenti climatici (Pnacc) nonché la definizione di priorità di intervento, l’aggiornamento delle azioni e l’individuazione delle fonti di finanziamento. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
-      "spokenText": "Il Sistema nazionale per la protezione dell’ambiente contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico. Con l’insediamento dell’Osservatorio nazionale il 24 febbraio 2026, il Piano, approvato nel 2023 con oltre 300 misure, passa dalla fase strategica all’attuazione operativa. SNPA ha individuato i propri esperti che entrano a far parte dell’Osservatorio sull’adattamento climatico. Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa. Il Piano, approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
+      "id": "story-7f2f6df93480e3c5",
+      "title": "Tornado tears through French village leaving dozens injured",
+      "summary": "Un tornado ha colpito il villaggio di Pomas, nel sud-ovest della Francia, ferendo 41 persone e danneggiando centinaia di case. Il tornado ha ferito più di 40 persone e 15 sono state portate in ospedale, tra cui una donna incinta rimasta ferita dal crollo della sua casa.",
+      "spokenText": "Un tornado ha colpito il villaggio di Pomas, nel sud-ovest della Francia, lasciando dietro di sé un bilancio di 41 feriti e centinaia di abitazioni danneggiate. Sul totale delle persone colpite, 15 hanno richiesto il trasporto in ospedale per ricevere cure specifiche. Il tornado ha ferito più di 40 persone e 15 sono state portate in ospedale, tra cui una donna incinta rimasta ferita dal crollo della sua casa.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "snpa",
-        "ispra",
-        "arpa",
-        "osservatorio nazionale sull adattamento climatic"
+        "pomas"
       ],
-      "importance": 85,
+      "importance": 65,
       "mustInclude": true,
-      "estimatedSeconds": 42,
+      "estimatedSeconds": 28,
       "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/snpa-contribuisce-all2019attuazione-del-piano-nazionale-di-adattamento-al-cambiamento-climatico"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-        "whyItMatters": "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano, approvato nel 2023 con oltre 300 misure, passa dalla fase strategica all'attuazione operativa.",
+        "mainFact": "Un tornado ha colpito il villaggio di Pomas, nel sud-ovest della Francia, ferendo 41 persone e danneggiando centinaia di case.",
+        "whyItMatters": "Il tornado ha ferito più di 40 persone e 15 sono state portate in ospedale, tra cui una donna incinta rimasta ferita dal crollo della sua casa.",
         "confirmedFacts": [
-          "SNPA contribuisce all’attuazione del Piano nazionale di adattamento al cambiamento climatico",
-          "Con l'insediamento dell'Osservatorio nazionale il 24 febbraio 2026, il Piano, approvato nel 2023 con oltre 300 misure, passa dalla fase strategica all'attuazione operativa.",
-          "Il Sistema nazionale per la protezione dell’ambiente ha individuato i propri esperti che entrano a far parte dell’Osservatorio nazionale sull’adattamento climatico.",
-          "Tra i partecipanti ai lavori, tecnici e ricercatori provenienti dalle diverse componenti di SNPA, da ISPRA alle Arpa.",
-          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera."
+          "Un tornado ha colpito il villaggio di Pomas, nel sud-ovest della Francia, ferendo 41 persone e danneggiando centinaia di case.",
+          "Il tornado ha ferito più di 40 persone e 15 sono state portate in ospedale, tra cui una donna incinta rimasta ferita dal crollo della sua casa.",
+          "Un tornado distruttivo ha squarciato i villaggi nel sud della Francia, ferendo più di 40 persone.",
+          "Il tornado ha ferito più di 40 persone e distrutto case nei villaggi."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "SNPA",
-          "ISPRA",
-          "ARPA",
-          "Osservatorio nazionale sull'adattamento climatico"
+          "Pomas"
         ],
         "numbersAndDates": [
-          "Il Piano nazionale di adattamento ai cambiamenti climatici (Pnacc), approvato nel 2023, definisce oltre 300 misure concrete — basate anche sui dati del SNPA — per contrastare eventi estremi come alluvioni, siccità, ondate di calore ed erosione costiera.",
-          "24",
-          "2026",
-          "2023",
-          "300"
+          "Un tornado distruttivo ha squarciato i villaggi nel sud della Francia, ferendo più di 40 persone.",
+          "Il tornado ha ferito più di 40 persone e distrutto case nei villaggi.",
+          "41",
+          "40",
+          "15"
         ]
       }
     },
     {
-      "id": "story-c822680744f6d533",
-      "title": "Guerra Ucraina - Russia, le news di oggi. Detriti di drone ucraino a Krasnodar, due bambini morti e nove feriti",
-      "summary": "Tre vittime in un attacco russo alla periferia di Kharkiv. Oggi a Kiev vertice dei Volenterosi",
-      "spokenText": "Tre vittime in un attacco russo alla periferia di Kharkiv e due bambini morti a Krasnodar per detriti di drone ucraino. \"La sicurezza dell'Ucraina è la nostra sicurezza\", aggiungendo che la Gran Bretagna sarà al fianco dell'Ucraina per tutto il tempo necessario. Medvedev ha definito traditori coloro che criticano la guerra. Secondo il presidente la Russia prevede di mobilitare «circa 300.000 persone» dopo le elezioni della Duma di settembre ma lo farà «senza interessare le principali città del Paese» (n particolare «Mosca e San Pietroburgo»), nel tentativo di ridurre al minimo le reazioni negative da parte della società.",
+      "id": "story-d31000c81e81aad4",
+      "title": "Fukushima, tre anni di scarico in mare ma l'acqua trattata non diminuisce",
+      "summary": "Rilasciate 170mila tonnellate, mentre nuove infiltrazioni rallentano lo smantellamento",
+      "spokenText": "A tre anni esatti dall'avvio del rilascio in mare dell'acqua trattata dalla centrale nucleare di Fukushima Daiichi, danneggiata dal terremoto e dallo tsunami dell'11 marzo 2011, il bilancio tecnico segna un duplice risultato. L'operatore Tokyo Electric Power Company ha già smantellato 17 degli oltre mille serbatoi e punta a completare lo scarico entro il 2051, in linea con la tabella di marcia per la disattivazione dell'impianto. La concentrazione massima di trizio rilevata in mare è stata di 61 becquerel per litro, ben al di sotto della soglia di 700 che imporrebbe l'interruzione. Dall'altro, la quantità complessiva stoccata nei serbatoi è scesa solo del 7,6%, attestandosi a circa 1,24 milioni di tonnellate, a causa del perdurare delle infiltrazioni di acque piovane e sotterranee nei reattori danneggiati. Attualmente, grazie a interventi di impermeabilizzazione, la produzione giornaliera di acqua contaminata è scesa a circa 60 tonnellate, contro le 540 del 2014, ma non è destinata a cessare finché il combustibile rimarrà nei reattori. La rimozione su larga scala dei detriti di combustibile fuso, condizione essenziale per azzerare la produzione di nuova acqua contaminata, è stata posticipata allo scorso luglio all'esercizio 2037 o oltre, molto più tardi rispetto alla previsione iniziale a ridosso del 2030.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "fukushima daiichi",
+        "tepco"
+      ],
+      "importance": 65,
+      "mustInclude": true,
+      "estimatedSeconds": 81,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/25/fukushima-tre-anni-di-scarico-in-mare-ma-lacqua-trattata-non-diminuisce_6a31b369-3977-44b9-a75c-7a4392576391.html"
+      },
+      "analysis": {
+        "mainFact": "A Fukushima, dopo tre anni di scarico in mare di acqua trattata, la quantità complessiva stoccata è scesa solo del 7,6% a causa di nuove infiltrazioni.",
+        "whyItMatters": "Dall'altro, la quantit complessiva stoccata nei serbatoi scesa solo del 7,6%, attestandosi a circa 1,24 milioni di tonnellate, a causa del perdurare delle infiltrazioni di acque piovane e sotterranee nei reattori danneggiati.",
+        "confirmedFacts": [
+          "A Fukushima, dopo tre anni di scarico in mare di acqua trattata, la quantità complessiva stoccata è scesa solo del 7,6% a causa di nuove infiltrazioni.",
+          "Dall'altro, la quantit complessiva stoccata nei serbatoi scesa solo del 7,6%, attestandosi a circa 1,24 milioni di tonnellate, a causa del perdurare delle infiltrazioni di acque piovane e sotterranee nei reattori danneggiati.",
+          "A tre anni esatti dall'avvio del rilascio in mare dell'acqua trattata dalla centrale nucleare di Fukushima Daiichi, danneggiata dal terremoto e dallo tsunami dell'11 marzo 2011, il bilancio tecnico segna un duplice risultato:",
+          "L'operatore Tokyo Electric Power Company (Tepco) ha gi smantellato 17 degli oltre mille serbatoi e punta a completare lo scarico entro il 2051, in linea con la tabella di marcia per la disattivazione dell'impianto.",
+          "la concentrazione massima di trizio rilevata in mare stata di 61 becquerel per litro, ben al di sotto della soglia di 700 che imporrebbe l'interruzione.",
+          "Attualmente, grazie a interventi di impermeabilizzazione, la produzione giornaliera di acqua contaminata scesa a circa 60 tonnellate, contro le 540 del 2014, ma non destinata a cessare finch il combustibile rimarr nei reattori.",
+          "La rimozione su larga scala dei detriti di combustibile fuso, condizione essenziale per azzerare la produzione di nuova acqua contaminata, stata posticipata allo scorso luglio all'esercizio 2037 o oltre, molto pi tardi rispetto alla previsione iniziale a ridosso del 2030."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Fukushima Daiichi",
+          "Tepco"
+        ],
+        "numbersAndDates": [
+          "A tre anni esatti dall'avvio del rilascio in mare dell'acqua trattata dalla centrale nucleare di Fukushima Daiichi, danneggiata dal terremoto e dallo tsunami dell'11 marzo 2011, il bilancio tecnico segna un duplice risultato:",
+          "L'operatore Tokyo Electric Power Company (Tepco) ha gi smantellato 17 degli oltre mille serbatoi e punta a completare lo scarico entro il 2051, in linea con la tabella di marcia per la disattivazione dell'impianto.",
+          "la concentrazione massima di trizio rilevata in mare stata di 61 becquerel per litro, ben al di sotto della soglia di 700 che imporrebbe l'interruzione.",
+          "Attualmente, grazie a interventi di impermeabilizzazione, la produzione giornaliera di acqua contaminata scesa a circa 60 tonnellate, contro le 540 del 2014, ma non destinata a cessare finch il combustibile rimarr nei reattori.",
+          "La rimozione su larga scala dei detriti di combustibile fuso, condizione essenziale per azzerare la produzione di nuova acqua contaminata, stata posticipata allo scorso luglio all'esercizio 2037 o oltre, molto pi tardi rispetto alla previsione iniziale a ridosso del 2030.",
+          "7,6",
+          "1,24"
+        ]
+      }
+    },
+    {
+      "id": "story-0d08f5b6264bade0",
+      "title": "Vaccino melanoma, l'Istituto dei tumori di Milano primo per contributo al trial",
+      "summary": "Il centro ha randomizzato il maggior numero di pazienti nello studio internazionale",
+      "spokenText": "L’Istituto Nazionale dei Tumori di Milano è stato il centro che ha dato il maggiore contributo al trial internazionale 'INTerpath-001', con 82 pazienti randomizzati. L’obiettivo era confrontare questa combinazione con la sola somministrazione di pembrolizumab. Il trial ha raggiunto gli obiettivi principali prefissati per misurare l’efficacia del vaccino, documentando uno sviluppo concreto in un percorso di ricerca che punta a trattamenti costruiti sul profilo molecolare del singolo paziente. Lo studio, nato dalla collaborazione internazionale tra Moderna e Merck e condotto su 1.137 pazienti, ha valutato l'aggiunta del vaccino personalizzato a mRNA intismeran al pembrolizumab, un anticorpo monoclonale impiegato in immunoterapia oncologica, rispetto al solo pembrolizumab.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "istituto nazionale dei tumori di milano",
+        "moderna",
+        "merck"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 42,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/08/24/vaccino-melanoma-listituto-dei-tumori-di-milano-primo-per-contributo-al-trial_90d6b71a-3c4c-4e25-889a-6a3aa9f22f18.html"
+      },
+      "analysis": {
+        "mainFact": "L'Istituto nazionale dei tumori di Milano è stato il centro che ha dato il maggiore contributo al trial internazionale 'INTerpath-001' per il vaccino terapeutico a mRNA contro il melanoma, con 82 pazienti randomizzati.",
+        "whyItMatters": "Lo studio, nato dalla collaborazione internazionale tra Moderna e Merck e condotto su 1.137 pazienti, ha valutato l'aggiunta del vaccino personalizzato a mRNA intismeran al pembrolizumab, un anticorpo monoclonale impiegato in immunoterapia oncologica, rispetto al solo pembrolizumab.",
+        "confirmedFacts": [
+          "L'Istituto nazionale dei tumori di Milano è stato il centro che ha dato il maggiore contributo al trial internazionale 'INTerpath-001' per il vaccino terapeutico a mRNA contro il melanoma, con 82 pazienti randomizzati.",
+          "Lo studio, nato dalla collaborazione internazionale tra Moderna e Merck e condotto su 1.137 pazienti, ha valutato l'aggiunta del vaccino personalizzato a mRNA intismeran al pembrolizumab, un anticorpo monoclonale impiegato in immunoterapia oncologica, rispetto al solo pembrolizumab.",
+          "Con 82 pazienti randomizzati, l'Istituto nazionale dei tumori di Milano stato il centro che ha dato il maggiore contributo al trial internazionale 'INTerpath-001', che ha raggiunto gli obiettivi principali per valutare l'efficacia del vaccino terapeutico personalizzato a mRNA contro il melanoma."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Istituto Nazionale dei Tumori di Milano",
+          "Moderna",
+          "Merck"
+        ],
+        "numbersAndDates": [
+          "Con 82 pazienti randomizzati, l'Istituto nazionale dei tumori di Milano stato il centro che ha dato il maggiore contributo al trial internazionale 'INTerpath-001', che ha raggiunto gli obiettivi principali per valutare l'efficacia del vaccino terapeutico personalizzato a mRNA contro il melanoma.",
+          "001",
+          "82",
+          "1.137"
+        ]
+      }
+    },
+    {
+      "id": "story-4e705d3e44af22ee",
+      "title": "Bimba morta a Palermo, Iss 'positivo alla difterite il campione'",
+      "summary": "Rilevato il Corynebacterium diphteriae e il gene della tossina",
+      "spokenText": "Le indagini, eseguite sui campioni biologici giunti dall’Arnas civico di Cristina Benfratelli, hanno dato esito positivo per il Corynebacterium diphteriae e hanno rilevato il gene della tossina responsabile della difterite respiratoria. È questa la causa del decesso, confermata ufficialmente dall’Iss. Parallelamente, dalle prime verifiche effettuate sui contatti stretti, circa dieci persone tra familiari e individui vicini alla bambina sono risultate positive al batterio. L’assenza di manifestazioni cliniche nei contatti positivi ma immunizzati rappresenta un elemento documentato in questa fase delle indagini.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "arnas civico di cristina benfratelli",
+        "palermo"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/08/24/bimba-morta-a-palermo-iss-positivo-alla-difterite-il-campione_0c03debf-d4d1-4119-95d7-ca81901d4502.html"
+      },
+      "analysis": {
+        "mainFact": "L'Iss ha reso noto che le indagini sul campione della bimba morta a Palermo hanno dato esito positivo per il Corynebacterium diphteriae e hanno rilevato il gene della tossina responsabile della difterite respiratoria.",
+        "whyItMatters": "\"Le indagini sui campioni giunti dall'Arnas civico di Cristina Benfratelli hanno dato esito positivo per il Corynebacterium diphteriae ed hanno rilevato il gene della tossina responsabile della difterite respiratoria\" che ha causato il decesso della bimba di quattro anni, rende noto l'Iss.",
+        "confirmedFacts": [
+          "L'Iss ha reso noto che le indagini sul campione della bimba morta a Palermo hanno dato esito positivo per il Corynebacterium diphteriae e hanno rilevato il gene della tossina responsabile della difterite respiratoria.",
+          "\"Le indagini sui campioni giunti dall'Arnas civico di Cristina Benfratelli hanno dato esito positivo per il Corynebacterium diphteriae ed hanno rilevato il gene della tossina responsabile della difterite respiratoria\" che ha causato il decesso della bimba di quattro anni, rende noto l'Iss.",
+          "Dalle prime analisi circa 10 persone tra componenti della famiglia e persone vicine a essa, sarebbero positive ma senza manifestazioni della difterite in quanto vaccinate."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Arnas civico di Cristina Benfratelli",
+          "Palermo"
+        ],
+        "numbersAndDates": [
+          "Dalle prime analisi circa 10 persone tra componenti della famiglia e persone vicine a essa, sarebbero positive ma senza manifestazioni della difterite in quanto vaccinate."
+        ]
+      }
+    },
+    {
+      "id": "story-735dec1d987cde67",
+      "title": "«D-Day economico» contro l’Iran: sulle sanzioni Bessent minaccia anche la Cina",
+      "summary": "Gli Usa vogliono colpire asset digitali, oro, tecnologia, aviazione e trasporti marittimi. Il segretario al Tesoro americano: «Chi non sta con noi verrà isolato, nessuno escluso». Trump «al telefono per convincere i leader mondiali»",
+      "spokenText": "Gli Usa vogliono colpire con sanzioni asset digitali, oro, tecnologia, aviazione e trasporti marittimi dell'Iran. Trump «al telefono per convincere i leader mondiali». Il segretario al Tesoro americano: «Chi non sta con noi verrà isolato, nessuno escluso». «L’Iran sta crollando del tutto!!! », ha dichiarato Donald Trump che intende aumentare la pressione e l’accerchiamento dell’Iran «come mai avvenuto nella storia», anche contattando personalmente i leader mondiali per chiedere loro di tagliare i legami con l’Iran. «Vogliamo chiarire che nessuno è al di fuori della portata delle sanzioni statunitensi», ha detto Bessent, ma ulteriore stretta - soprattutto sulle banche cinesi - rischia di scatenare lo scontro con Pechino. Raffica di sanzioni su oro, tech, aviazione e trasporti. La morsa americana sull’Iran, sanzioni su tech e commercio: “Puniremo chiunque lo aiuti”.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "iran",
+        "cina",
+        "donald trump"
+      ],
+      "importance": 75,
+      "mustInclude": true,
+      "estimatedSeconds": 52,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/d-day-economico-contro-l-iran-sanzioni-bessent-minaccia-anche-cina-AJfv9Yt"
+      },
+      "analysis": {
+        "mainFact": "Gli Usa vogliono colpire con sanzioni asset digitali, oro, tecnologia, aviazione e trasporti marittimi dell'Iran.",
+        "whyItMatters": "Trump «al telefono per convincere i leader mondiali»",
+        "confirmedFacts": [
+          "Gli Usa vogliono colpire con sanzioni asset digitali, oro, tecnologia, aviazione e trasporti marittimi dell'Iran.",
+          "Trump «al telefono per convincere i leader mondiali»",
+          "Il segretario al Tesoro americano: «Chi non sta con noi verrà isolato, nessuno escluso».",
+          "«L’Iran sta crollando del tutto!!! », ha dichiarato Donald Trump che intende aumentare la pressione e l’accerchiamento dell’Iran «come mai avvenuto nella storia», anche contattando personalmente i leader mondiali per chiedere loro di tagliare i legami con l’Iran.",
+          "«Vogliamo chiarire che nessuno è al di fuori della portata delle sanzioni statunitensi», ha detto Bessent, ma ulteriore stretta - soprattutto sulle banche cinesi - rischia di scatenare lo scontro con Pechino.",
+          "Raffica di sanzioni su oro, tech, aviazione e trasporti",
+          "La morsa americana sull’Iran, sanzioni su tech e commercio: “Puniremo chiunque lo aiuti”"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Iran",
+          "Cina",
+          "Donald Trump"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-a44f9417434b992a",
+      "title": "Ucraina, attacco alla raffineria russa di Krasnodar: due morti",
+      "summary": "Mosca ha replicato colpendo nella notte, simultaneamente, quattro città: Kiev, Kharkiv, Zaporizhzhia e Dnipro. Sono scoppiati incendi e diversi edifici residenziali sono stati danneggiati",
+      "spokenText": "Un raid ucraino con droni ha colpito una raffineria nella regione russa di Krasnodar, provocando due vittime. L’impianto, che tratta circa 6,25 milioni di tonnellate di greggio all’anno, pari a circa il 2% della capacità di raffinazione russa, era già stato bersaglio di precedenti attacchi. Nell’azione sono scoppiati incendi e diversi edifici residenziali hanno subito danni. Nella stessa notte, Mosca ha replicato colpendo simultaneamente quattro città ucraine: Kiev, Kharkiv, Zaporizhzhia e Dnipro, dove a Kharkiv si registra una vittima.",
       "category": "mondo",
       "tags": [
         "mondo",
         "ucraina",
         "russia",
+        "krasnodar",
+        "kiev",
         "kharkiv",
-        "krasnodar"
+        "zaporizhzhia",
+        "dnipro"
       ],
       "importance": 70,
       "mustInclude": true,
-      "estimatedSeconds": 40,
+      "estimatedSeconds": 32,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/24/diretta/guerra_ucraina_russia_news_oggi-425543645/"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/ucraina-attacco-raffineria-russa-krasnodar-due-morti-AJTUgyt"
       },
       "analysis": {
-        "mainFact": "Tre vittime in un attacco russo alla periferia di Kharkiv e due bambini morti a Krasnodar per detriti di drone ucraino.",
-        "whyItMatters": "Secondo il presidente la Russia prevede di mobilitare «circa 300.000 persone» dopo le elezioni della Duma di settembre ma lo farà «senza interessare le principali città del Paese» (n particolare «Mosca e San Pietroburgo»), nel tentativo di ridurre al minimo le reazioni negative da parte della società.",
+        "mainFact": "Un raid ucraino con droni contro una raffineria nella regione russa di Krasnodar ha provocato due morti.",
+        "whyItMatters": "Sono scoppiati incendi e diversi edifici residenziali sono stati danneggiati.",
         "confirmedFacts": [
-          "Tre vittime in un attacco russo alla periferia di Kharkiv e due bambini morti a Krasnodar per detriti di drone ucraino.",
-          "Secondo il presidente la Russia prevede di mobilitare «circa 300.000 persone» dopo le elezioni della Duma di settembre ma lo farà «senza interessare le principali città del Paese» (n particolare «Mosca e San Pietroburgo»), nel tentativo di ridurre al minimo le reazioni negative da parte della società.",
-          "\"La sicurezza dell'Ucraina è la nostra sicurezza\", ha dichiarato Burnham in un comunicato, aggiungendo che la Gran Bretagna sarà al fianco dell'Ucraina \"per tutto il tempo necessario\".",
-          "Medvedev: “Sono traditori” Ucraina, la guerra della frutta."
+          "Un raid ucraino con droni contro una raffineria nella regione russa di Krasnodar ha provocato due morti.",
+          "Sono scoppiati incendi e diversi edifici residenziali sono stati danneggiati.",
+          "La raffineria tratta circa 6,25 milioni di tonnellate di greggio all'anno - pari a circa il 2% della capacità di raffinazione russa - ed è già stata bersaglio di precedenti attacchi ucraini.",
+          "Mosca ha replicato colpendo nella notte, simultaneamente, quattro città: Kiev, Kharkiv, Zaporizhzhia e Dnipro.",
+          "Un morto a Kharkiv La Russia ha colpito nella notte, simultaneamente, quattro città: Kiev, Kharkiv, Zaporizhzhia e Dnipro.",
+          "Attacchi russi nella notte, colpite quattro città ucraine",
+          "Bersaglio di Mosca sono state, nella notte, in particolare quattro città: la capitale Kiev assieme a Zaporizhzhia, Dnipro e Kharkiv."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Ucraina",
           "Russia",
+          "Krasnodar",
+          "Kiev",
           "Kharkiv",
-          "Krasnodar"
+          "Zaporizhzhia",
+          "Dnipro"
         ],
         "numbersAndDates": [
-          "300.000"
+          "La raffineria tratta circa 6,25 milioni di tonnellate di greggio all'anno - pari a circa il 2% della capacità di raffinazione russa - ed è già stata bersaglio di precedenti attacchi ucraini."
         ]
       }
     },
     {
-      "id": "story-39796acad5ee8e1e",
-      "title": "Guerra ultime notizie. Netanyahu: «Se Hamas non smette lanci da Gaza, intensificheremo azioni Idf»",
-      "summary": "Il premier: «Israele non permetterà all’organizzazione terroristica Hamas, né a qualsiasi altra entità presente nella Striscia di Gaza, di tornare a minacciare le nostre comunità e a minare il senso di sicurezza dei nostri cittadini»",
-      "spokenText": "Netanyahu: «Se Hamas non smette lanci da Gaza, intensificheremo azioni Idf». Il primo ministro ha chiarito che non si tornerà alla situazione precedente al 7 ottobre.",
-      "category": "mondo",
+      "id": "story-c4e74b9b605e2078",
+      "title": "“L’aborto non è un diritto, mutuo tricolore, basta gay in tv”: ecco il programma di Vannacci",
+      "summary": "Online sul sito di Futuro nazionale i punti del progetto politico elaborati dall’ex leghista Lorenzo Gasperini",
+      "spokenText": "“L’aborto non è un diritto, mutuo tricolore, basta gay in tv”: ecco il programma di Vannacci. Online sul sito di Futuro nazionale i punti del progetto politico elaborati dall’ex leghista Lorenzo Gasperini. Un Paese dove il terzo figlio azzera gli interessi sul \"mutuo tricolore\", le unioni civili spariscono, l'aborto \"non è un diritto\" e la tv, dalle 6 alle 23, tiene i bambini lontani dai contenuti \"genderisti\" e \"omosessualisti\". Sull'aborto la formula è lapidaria: \"Non è un diritto\". Corale la replica di Boschi e Paita: \"Non permetteremo a Vannacci di riportarci nel passato\".",
+      "category": "diritti",
       "tags": [
-        "mondo",
-        "netanyahu",
-        "hamas",
-        "idf"
-      ],
-      "importance": 50,
-      "mustInclude": true,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/libano-raid-israeliani-ali-al-taher-hacker-iraniani-hanno-spento-centrale-elettrica-uk-AJMdWZs"
-      },
-      "analysis": {
-        "mainFact": "Netanyahu: «Se Hamas non smette lanci da Gaza, intensificheremo azioni Idf»",
-        "whyItMatters": "Il primo ministro ha chiarito che non si tornerà alla situazione precedente al 7 ottobre.",
-        "confirmedFacts": [
-          "Netanyahu: «Se Hamas non smette lanci da Gaza, intensificheremo azioni Idf»",
-          "Il primo ministro ha chiarito che non si tornerà alla situazione precedente al 7 ottobre."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Netanyahu",
-          "Hamas",
-          "Idf"
-        ],
-        "numbersAndDates": [
-          "7"
-        ]
-      }
-    },
-    {
-      "id": "story-af2f3d45e008cad4",
-      "title": "Trump, 'il Canada vuole i vantaggi di uno Stato senza esserlo'",
-      "summary": "'Per anni hanno imposto dazi enormi ai nostri agricoltori, basta!",
-      "spokenText": "Trump accusa il Canada di volere i vantaggi di uno Stato americano senza esserlo. Mentre fallisce il negoziato sui dazi e Washington impone tariffe del 50% su 20 miliardi di beni canadesi. 'Per anni hanno imposto dazi enormi ai nostri agricoltori, basta! Con i dossier del conflitto in Iran e della guerra commerciale con il Canada aperti, il presidente si è ritagliato qualche ora per godersi un evento che ha fortemente voluto nell'ambito delle celebrazioni per i 250 anni dell'America. \"Il circuito è meraviglioso, il meteo è fantastico e c'è molta gente, probabilmente 300.000-350.000 persone\", ha commentato Trump con Fox Sport.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "canada",
-        "stati uniti"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 41,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/23/trump-il-canada-vuole-i-vantaggi-di-uno-stato-senza-esserlo_9f5d4ad8-af47-4d6a-a2b2-8442fd5603d7.html"
-      },
-      "analysis": {
-        "mainFact": "Trump accusa il Canada di volere i vantaggi di uno Stato americano senza esserlo.",
-        "whyItMatters": "mentre fallisce il negoziato sui dazi e Washington impone tariffe del 50% su 20 miliardi di beni canadesi.",
-        "confirmedFacts": [
-          "Trump accusa il Canada di volere i vantaggi di uno Stato americano senza esserlo.",
-          "mentre fallisce il negoziato sui dazi e Washington impone tariffe del 50% su 20 miliardi di beni canadesi.",
-          "'Per anni hanno imposto dazi enormi ai nostri agricoltori, basta!",
-          "Con i dossier del conflitto in Iran e della guerra commerciale con il Canada aperti, il presidente si è ritagliato qualche ora per godersi un evento che ha fortemente voluto nell'ambito delle celebrazioni per i 250 anni dell'America.",
-          "\"Il circuito è meraviglioso, il meteo è fantastico e c'è molta gente, probabilmente 300.000-350.000 persone\", ha commentato Trump con Fox Sport."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Canada",
-          "Stati Uniti"
-        ],
-        "numbersAndDates": [
-          "Con i dossier del conflitto in Iran e della guerra commerciale con il Canada aperti, il presidente si è ritagliato qualche ora per godersi un evento che ha fortemente voluto nell'ambito delle celebrazioni per i 250 anni dell'America.",
-          "\"Il circuito è meraviglioso, il meteo è fantastico e c'è molta gente, probabilmente 300.000-350.000 persone\", ha commentato Trump con Fox Sport.",
-          "50",
-          "20"
-        ]
-      }
-    },
-    {
-      "id": "story-f2754395fd9db791",
-      "title": "Brasile, con El Nino i prezzi degli alimenti potrebbero aumentare del 20%",
-      "summary": "Con El Niño, i prezzi degli alimenti in Brasile potrebbero aumentare fino al 20%.",
-      "spokenText": "Con l'arrivo di El Niño, i prezzi degli alimenti in Brasile potrebbero aumentare fino al 20%. È una stima che arriva dalla Rabobank e che si inserisce in un quadro meteorologico sempre più definito: secondo le ultime previsioni, la probabilità di un El Niño forte entro la fine dell'anno è intorno all'80%. In uno scenario moderato, l'impatto stimato sull'indice ufficiale Ipca sarebbe di circa 0,alcuni aspetti percentuali, mentre l'effetto complessivo, in un contesto più severo, potrebbe aggiungere circa 0,alcuni aspetti percentuali allo stesso indice.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "brasile",
-        "rabobank"
-      ],
-      "importance": 65,
-      "mustInclude": true,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/23/brasile-con-el-nino-i-prezzi-degli-alimenti-potrebbero-aumentare-del-20_eb4b1f83-0725-492d-849c-01a57da9e69e.html"
-      },
-      "analysis": {
-        "mainFact": "Con El Niño, i prezzi degli alimenti in Brasile potrebbero aumentare fino al 20%.",
-        "whyItMatters": "Previsione di impatto di El Niño sui prezzi alimentari in Brasile con stime di inflazione. Rilevanza economica concreta.",
-        "confirmedFacts": [
-          "Con El Niño, i prezzi degli alimenti in Brasile potrebbero aumentare fino al 20%.",
-          "Previsione di impatto di El Niño sui prezzi alimentari in Brasile con stime di inflazione. Rilevanza economica concreta.",
-          "L'effetto complessivo potrebbe aggiungere circa 0,alcuni aspetti percentuali all'indice ufficiale dell'inflazione, l'Ipca.",
-          "In uno scenario moderato, invece, l'impatto stimato sarebbe di circa 0,alcuni aspetti.",
-          "Secondo le ultime previsioni, la probabilit di un El Nino forte entro la fine dell'anno intorno all'80%."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Brasile",
-          "Rabobank"
-        ],
-        "numbersAndDates": [
-          "L'effetto complessivo potrebbe aggiungere circa 0,alcuni aspetti percentuali all'indice ufficiale dell'inflazione, l'Ipca.",
-          "In uno scenario moderato, invece, l'impatto stimato sarebbe di circa 0,alcuni aspetti.",
-          "Secondo le ultime previsioni, la probabilit di un El Nino forte entro la fine dell'anno intorno all'80%.",
-          "20"
-        ]
-      }
-    },
-    {
-      "id": "story-45a8a12fac61a7c4",
-      "title": "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update)",
-      "summary": "Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper. The post Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update) appeared first on Punto Informatico.",
-      "spokenText": "Questa sera dal Wenchang Space Launch Site è previsto il lancio di un razzo Long March 5, che darà il via alla missione Chang’e-7, una delle più articolate dell’intero programma di esplorazione lunare cinese. L’obiettivo è scandagliare il polo sud della Luna, in particolare le aree attorno al cratere Shackleton, per cercare tracce di acqua ghiacciata. Per farlo, la missione non si affida a un singolo veicolo, ma a un vero e proprio sistema integrato: un orbiter, un lander, un rover e un mini hopper, un piccolo modulo capace di spostarsi a balzi per raggiungere zone altrimenti inaccessibili. La caccia all’acqua ghiacciata, del resto, non è un’esclusiva cinese. Chang’e-7 è una missione molto più complessa delle precedenti.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "cina",
-        "chang e 7",
-        "long march 5",
-        "wenchang space launch site",
-        "cratere shackleton"
+        "diritti",
+        "futuro nazionale",
+        "lorenzo gasperini"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 47,
+      "estimatedSeconds": 38,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/missione-change-7-ricerca-acqua-ghiacciata-luna/"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/politica/2026/08/24/news/aborto_mutuo_tricolore_gay_tv_programma_vannacci-425544472/"
       },
       "analysis": {
-        "mainFact": "È previsto il lancio della missione cinese Chang'e-7 con un razzo Long March 5 per cercare acqua ghiacciata sulla Luna.",
-        "whyItMatters": "L’obiettivo è cercare acqua ghiacciata nelle vicinanze del cratere Shackleton al polo sud della Luna .",
+        "mainFact": "“L’aborto non è un diritto, mutuo tricolore, basta gay in tv”: ecco il programma di Vannacci",
+        "whyItMatters": "Online sul sito di Futuro nazionale i punti del progetto politico elaborati dall’ex leghista Lorenzo Gasperini",
         "confirmedFacts": [
-          "È previsto il lancio della missione cinese Chang'e-7 con un razzo Long March 5 per cercare acqua ghiacciata sulla Luna.",
-          "L’obiettivo è cercare acqua ghiacciata nelle vicinanze del cratere Shackleton al polo sud della Luna .",
-          "Questa sera è previsto il lancio del razzo Long March 5 dal Wenchang Space Launch Site che darà inizio alla missione Chang’e-7 , una delle più complesse del programma di esplorazione lunare della Cina.",
-          "A bordo del lander ci sono un rover e un mini hopper .",
-          "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update) Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper.",
-          "La ricerca di acqua ghiacciata è anche l’obiettivo principale di VIPER .",
-          "Chang’e-7 è una missione molto più complessa delle precedenti."
-        ],
-        "uncertainties": [
-          "Orbiter, lander, rover e mini hopper Il programma di esplorazione lunare cinese prevede quattro fasi “robotiche”."
-        ],
-        "peopleAndOrganizations": [
-          "Cina",
-          "Chang'e-7",
-          "Long March 5",
-          "Wenchang Space Launch Site",
-          "cratere Shackleton"
-        ],
-        "numbersAndDates": [
-          "Questa sera è previsto il lancio del razzo Long March 5 dal Wenchang Space Launch Site che darà inizio alla missione Chang’e-7 , una delle più complesse del programma di esplorazione lunare della Cina.",
-          "Missione Chang’e-7: ricerca di acqua ghiacciata sulla Luna (update) Oggi è previsto l'inizio della missione Chang'e-7 con il lancio del razzo Long March 5 che porterà sulla Luna un lander, un rover e un mini hopper.",
-          "Chang’e-7 è una missione molto più complessa delle precedenti.",
-          "7",
-          "5"
-        ]
-      }
-    },
-    {
-      "id": "story-6f1e7b12a96d7458",
-      "title": "Logitech non rimborsa i consumatori: denuncia negli USA",
-      "summary": "Logitech è stata denunciata perché non ha rimborsato i consumatori, dopo l'annullamento dei dazi di Trump da parte della Corte Suprema. The post Logitech non rimborsa i consumatori: denuncia negli USA appeared first on Punto Informatico.",
-      "spokenText": "Un'azienda e un cittadino californiani hanno presentato la denuncia, sostenendo che l'azienda ha aumentato i prezzi del 51% dei prodotti fino al 25% a causa di quei dazi. La Corte Suprema ha stabilito che i dazi erano incostituzionali, perché Trump non poteva applicarli sulla base dell'International Emergency Economic Powers Act del 1977. Logitech ha ricevuto un rimborso di 61 milioni di dollari a fine giugno, ma non ha trasferito questi soldi ai consumatori. Un’azienda e un cittadino californiani hanno presentato una denuncia contro Logitech perché non ha rimborsato i consumatori, dopo l’annullamento dei dazi introdotti da Trump all’inizio di aprile 2025 che hanno causato un aumento dei prezzi dei prodotti.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "logitech"
-      ],
-      "importance": 52,
-      "mustInclude": true,
-      "estimatedSeconds": 44,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/logitech-non-rimborsa-consumatori-denuncia-usa/"
-      },
-      "analysis": {
-        "mainFact": "Logitech è stata denunciata negli USA per non aver rimborsato i consumatori dopo l'annullamento dei dazi di Trump da parte della Corte Suprema.",
-        "whyItMatters": "Logitech ha ricevuto un rimborso di 61 milioni di dollari a fine giugno. Logitech ha aumentato i prezzi del 51% dei prodotti fino al 25%.",
-        "confirmedFacts": [
-          "Logitech è stata denunciata negli USA per non aver rimborsato i consumatori dopo l'annullamento dei dazi di Trump da parte della Corte Suprema.",
-          "Logitech ha ricevuto un rimborso di 61 milioni di dollari a fine giugno. Logitech ha aumentato i prezzi del 51% dei prodotti fino al 25%.",
-          "Un’azienda e un cittadino californiani hanno presentato una denuncia contro Logitech perché non ha rimborsato i consumatori, dopo l’annullamento dei dazi introdotti da Trump all’inizio di aprile 2025 che hanno causato un aumento dei prezzi dei prodotti.",
-          "La Corte Suprema ha tuttavia stabilito che i dazi sono incostituzionali , in quanto Trump non poteva applicarli sulla base dell’International Emergency Economic Powers Act (IEEPA) del 1977."
+          "“L’aborto non è un diritto, mutuo tricolore, basta gay in tv”: ecco il programma di Vannacci",
+          "Online sul sito di Futuro nazionale i punti del progetto politico elaborati dall’ex leghista Lorenzo Gasperini",
+          "Un Paese dove il terzo figlio azzera gli interessi sul \"mutuo tricolore\", le unioni civili spariscono, l'aborto \"non è un diritto\" e la tv, dalle 6 alle 23, tiene i bambini lontani dai contenuti \"genderisti\" e \"omosessualisti\".",
+          "Sull'aborto la formula è lapidaria: \"Non è un diritto\".",
+          "Corale la replica di Boschi e Paita: \"Non permetteremo a Vannacci di riportarci nel passato\"."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Logitech"
+          "Futuro nazionale",
+          "Lorenzo Gasperini"
         ],
         "numbersAndDates": [
-          "Un’azienda e un cittadino californiani hanno presentato una denuncia contro Logitech perché non ha rimborsato i consumatori, dopo l’annullamento dei dazi introdotti da Trump all’inizio di aprile 2025 che hanno causato un aumento dei prezzi dei prodotti.",
-          "La Corte Suprema ha tuttavia stabilito che i dazi sono incostituzionali , in quanto Trump non poteva applicarli sulla base dell’International Emergency Economic Powers Act (IEEPA) del 1977.",
-          "61",
-          "51",
-          "25"
+          "Un Paese dove il terzo figlio azzera gli interessi sul \"mutuo tricolore\", le unioni civili spariscono, l'aborto \"non è un diritto\" e la tv, dalle 6 alle 23, tiene i bambini lontani dai contenuti \"genderisti\" e \"omosessualisti\"."
         ]
       }
     },
     {
-      "id": "story-0ae94cbd20b2b2e9",
-      "title": "Cento ex diplomatici: «Palestina cancellata sotto i nostri occhi»",
-      "summary": "La lettera, indirizzata al presidente Emmanuel Macron e al premier Andy Burnham, è stata firmata da 52 ex diplomatici francesi e 50 ex ambasciatori britannici; molti hanno prestato servizio in Medio Oriente, ricoprendo incarichi di alto livello",
-      "spokenText": "Cento ex diplomatici hanno firmato una lettera in cui affermano che la Palestina viene cancellata sotto i loro occhi. Tra i firmatari figurano ex ambasciatori britannici e francesi, e la lettera è indirizzata a leader come Emmanuel Macron e Andy Burnham.",
-      "category": "diritti",
+      "id": "story-986aff84e990abe9",
+      "title": "Draghi e Collison (Stripe) in campo per rilanciare la crescita in Europa: nasce Rhine Group",
+      "summary": "Mario Draghi e Patrick Collison mettono insieme economisti, imprenditori, accademici e protagonisti della politica europea. L’obiettivo è trasformare la diagnosi del rapporto Draghi sulla competitività in un’agenda concreta...",
+      "spokenText": "Mario Draghi e Patrick Collison, il fondatore di Stripe, hanno lanciato il Rhine Group. L’iniziativa si colloca esattamente in quello spazio che separa la ricerca dalla politica, la diagnosi dall’attuazione. Il vero elemento di novità sta nel tentativo di fare un passo successivo rispetto al rapporto che lo stesso Draghi pubblicò nel 2024 sulla competitività. L’obiettivo è trasformare quell’analisi in un’agenda concreta di riforme, provando a colmare il divario tra l’individuazione dei problemi e la capacità di mettere in campo soluzioni operative.",
+      "category": "attualita",
       "tags": [
-        "diritti",
-        "emmanuel macron",
-        "andy burnham",
-        "ex diplomatici francesi",
-        "ex ambasciatori britannici"
+        "attualita",
+        "mario draghi",
+        "patrick collison",
+        "stripe",
+        "rhine group"
       ],
-      "importance": 60,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 17,
+      "estimatedSeconds": 33,
       "source": {
         "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/cento-ex-diplomatici-palestina-cancellata-sotto-nostri-occhi-AJ4qOYs"
+        "url": "https://www.ilsole24ore.com/art/draghi-e-collison-stripe-campo-rilanciare-crescita-europa-nasce-rhine-group-AJRcert"
       },
       "analysis": {
-        "mainFact": "Cento ex diplomatici hanno firmato una lettera in cui affermano che la Palestina viene cancellata sotto i loro occhi.",
-        "whyItMatters": "Appello di alto profilo diplomatico su crisi umanitaria e diritti. Implicazioni sistemiche per la geopolitica.",
+        "mainFact": "Mario Draghi e Patrick Collison (Stripe) hanno lanciato il Rhine Group per rilanciare la crescita in Europa.",
+        "whyItMatters": "L’obiettivo è trasformare la diagnosi del rapporto Draghi sulla competitività in un’agenda concreta di riforme.",
         "confirmedFacts": [
-          "Cento ex diplomatici hanno firmato una lettera in cui affermano che la Palestina viene cancellata sotto i loro occhi.",
-          "Appello di alto profilo diplomatico su crisi umanitaria e diritti. Implicazioni sistemiche per la geopolitica.",
-          "La lettera, indirizzata al presidente Emmanuel Macron e al premier Andy Burnham, è stata firmata da 52 ex diplomatici francesi e 50 ex ambasciatori britannici; molti hanno prestato servizio in Medio Oriente, ricoprendo incarichi di alto livello."
+          "Mario Draghi e Patrick Collison (Stripe) hanno lanciato il Rhine Group per rilanciare la crescita in Europa.",
+          "L’obiettivo è trasformare la diagnosi del rapporto Draghi sulla competitività in un’agenda concreta di riforme.",
+          "L’identità Il Rhine Group nasce precisamente in questo spazio: fra la ricerca e la politica, fra la diagnosi e l’attuazione.",
+          "Il vero elemento di novità del Rhine Group sta però nel tentativo di fare un passo successivo rispetto al rapporto pubblicato da Draghi nel 2024."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Emmanuel Macron",
-          "Andy Burnham",
-          "ex diplomatici francesi",
-          "ex ambasciatori britannici"
+          "Mario Draghi",
+          "Patrick Collison",
+          "Stripe",
+          "Rhine Group"
+        ],
+        "numbersAndDates": [
+          "Il vero elemento di novità del Rhine Group sta però nel tentativo di fare un passo successivo rispetto al rapporto pubblicato da Draghi nel 2024."
+        ]
+      }
+    },
+    {
+      "id": "story-4ef1f1d938d8fd3d",
+      "title": "Trump alza al 50%i dazi su acciaio e auto canadesi",
+      "summary": "La misura scatterà da gennaio dopo la rottura con Carney. I produttori Usa di auto hanno già espresso tutto il loro scetticismo per le nuove tariffe",
+      "spokenText": "Donald Trump ha annunciato nuovi dazi del 50% su acciaio e automobili canadesi, che scatteranno da gennaio 2027. La decisione arriva dopo la rottura con Carney e si aggiunge a tariffe già introdotte su circa 20 miliardi di dollari di merci canadesi, tra cui materiali da costruzione, materie plastiche, alcolici, latticini, mobili, elettrodomestici, abbigliamento, canne da pesca e mazze da hockey. I produttori americani di auto, la cui industria è fortemente integrata con quella canadese, hanno espresso in privato molto scetticismo sulle nuove misure e hanno detto di sperare che anche questa minaccia sui dazi non si concretizzi, come già accaduto in passato. Dal primo gennaio, secondo le parole del presidente, 'derubati per noi, sono loro ad aver bisogno di noi'.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "stati uniti",
+        "canada",
+        "donald trump"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 49,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/trump-alza-50percentoi-dazi-acciaio-e-auto-canadesi-AJuFaOt"
+      },
+      "analysis": {
+        "mainFact": "Trump alza al 50% i dazi su acciaio e auto canadesi.",
+        "whyItMatters": "I produttori americani di auto, la cui industria è fortemente integrata con quella canadese, hanno espresso in privato «molto scetticismo sulle nuove misure» e hanno detto di sperare che «anche questa minaccia sui dazi non si concretizzi, come già accaduto in passato».",
+        "confirmedFacts": [
+          "Trump alza al 50% i dazi su acciaio e auto canadesi.",
+          "I produttori americani di auto, la cui industria è fortemente integrata con quella canadese, hanno espresso in privato «molto scetticismo sulle nuove misure» e hanno detto di sperare che «anche questa minaccia sui dazi non si concretizzi, come già accaduto in passato».",
+          "La misura scatterà da gennaio dopo la rottura con Carney.",
+          "Il presidente degli Stati Uniti Donald Trump ha annunciato nuovi dazi al 50% su auto e acciaio canadesi a partire da gennaio 2027.",
+          "E dopo avere già introdotto dazi del 50% su circa 20 miliardi di dollari di merci canadesi: materiali da costruzione, materie plastiche, alcolici, latticini, mobili, elettrodomestici, abbigliamento, canne da pesca e mazze da hockey.",
+          "I produttori Usa di auto hanno già espresso tutto il loro scetticismo per le nuove tariffe",
+          "Dal primo gennaio, 'derubati per noi, sono loro ad aver bisogno di noi'"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stati Uniti",
+          "Canada",
+          "Donald Trump"
+        ],
+        "numbersAndDates": [
+          "Il presidente degli Stati Uniti Donald Trump ha annunciato nuovi dazi al 50% su auto e acciaio canadesi a partire da gennaio 2027.",
+          "E dopo avere già introdotto dazi del 50% su circa 20 miliardi di dollari di merci canadesi: materiali da costruzione, materie plastiche, alcolici, latticini, mobili, elettrodomestici, abbigliamento, canne da pesca e mazze da hockey.",
+          "50"
+        ]
+      }
+    },
+    {
+      "id": "story-c3cffd8f70d35ca9",
+      "title": "Ucraina, i primi umani uccisi da un drone comandato dall’IA",
+      "summary": "La giovane Tetiana Bubynets e due uomini sono morti a Zaporizhzhia: sul robot killer russo un chip dell’americana Nvidia",
+      "spokenText": "A Zaporizhzhia, in Ucraina, un drone comandato dall’intelligenza artificiale ha ucciso per la prima volta degli esseri umani. Tra le vittime c’è la giovane Tetiana Bubynets, insieme a due uomini. Il velivolo senza pilota, di fabbricazione russa, montava un chip prodotto dall’azienda americana Nvidia.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "tetiana bubynets",
+        "ucraina",
+        "nvidia",
+        "zaporizhzhia"
+      ],
+      "importance": 80,
+      "mustInclude": true,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/25/news/ucraina_prime_persone_uccise_drone_comandato_ia-425545260/"
+      },
+      "analysis": {
+        "mainFact": "Ucraina, i primi umani uccisi da un drone comandato dall’IA",
+        "whyItMatters": "La giovane Tetiana Bubynets e due uomini sono morti a Zaporizhzhia: sul robot killer russo un chip dell’americana Nvidia",
+        "confirmedFacts": [
+          "Ucraina, i primi umani uccisi da un drone comandato dall’IA",
+          "La giovane Tetiana Bubynets e due uomini sono morti a Zaporizhzhia: sul robot killer russo un chip dell’americana Nvidia"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Tetiana Bubynets",
+          "Ucraina",
+          "Nvidia",
+          "Zaporizhzhia"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-51fb4fed6725e593",
-      "title": "A Stoccolma si è tenuta una manifestazione per il clima con 50",
-      "summary": "L'attivista: 'Da anni che in Svezia non vedevo un corteo così'",
-      "spokenText": "A Stoccolma si è tenuta una manifestazione per il clima con 50.000 partecipanti, tra cui Greta Thunberg. I partecipanti sono stimati a 50.000 a detta di Naturskyddsf reningen, l'associazione per la protezione ambientale e uno degli organizzatori. La manifestazione avviene poche settimane prima delle elezioni in Svezia, che si terranno il 13 settembre e l'obbiettivo per gli attivisti di riportare la questione climatica all'ordine del giorno. Lily Kjellberg, manifestante di 16 anni, crede che la sua presenza porti un messaggio importante: \"Forse noi adolescenti non possiamo fare cos tanto per salvare il clima sia a livello parlamentare nazionale che a livello mondiale ma importante essere qui e mostrare ci a cui teniamo\", ha dichiarato alla TT.",
-      "category": "ambiente",
+      "id": "story-1619102f5abb0ebc",
+      "title": "Mitsubishi, robot umanoidi in fabbrica contro la crisi di manodopera",
+      "summary": "Mitsubishi Motors ha siglato un accordo con Highlanders Inc. , una startup dell’Università di Tokyo, per introdurre robot umanoidi a intelligenza artificiale nei propri stabilimenti, replicando le competenze dei lavoratori più...",
+      "spokenText": "Per introdurre robot umanoidi a intelligenza artificiale nei propri stabilimenti per contrastare la crisi di manodopera. Inaugurati i Giochi Mondiali di Robotica Umanoide, la sfilata dei robot è impressionante “I robot umanoidi hanno un enorme potenziale per trasmettere in modo efficiente le conoscenze dei lavoratori più esperti”, ha dichiarato Takao Kato, presidente e amministratore delegato di Mitsubishi Motors.",
+      "category": "tecnologia",
       "tags": [
-        "ambiente",
-        "greta thunberg",
-        "stoccolma",
-        "svezia"
+        "tecnologia",
+        "mitsubishi motors",
+        "takao kato"
       ],
       "importance": 65,
       "mustInclude": true,
-      "estimatedSeconds": 47,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/23/in-50.000-a-manifestazione-per-il-clima-a-stoccolma-anche-greta-thunberg_44dbfc31-cdea-4e11-95f4-394727ac0f46.html"
-      },
-      "analysis": {
-        "mainFact": "A Stoccolma si è tenuta una manifestazione per il clima con 50.000 partecipanti, tra cui Greta Thunberg.",
-        "whyItMatters": "I partecipanti sono stimati a 50.000 a detta di Naturskyddsf reningen, l'associazione per la protezione ambientale e uno degli organizzatori.",
-        "confirmedFacts": [
-          "A Stoccolma si è tenuta una manifestazione per il clima con 50.000 partecipanti, tra cui Greta Thunberg.",
-          "I partecipanti sono stimati a 50.000 a detta di Naturskyddsf reningen, l'associazione per la protezione ambientale e uno degli organizzatori.",
-          "La manifestazione avviene poche settimane prima delle elezioni in Svezia, che si terranno il 13 settembre e l'obbiettivo per gli attivisti di riportare la questione climatica all'ordine del giorno:",
-          "Lily Kjellberg, manifestante di 16 anni, crede che la sua presenza porti un messaggio importante: \"Forse noi adolescenti non possiamo fare cos tanto per salvare il clima sia a livello parlamentare nazionale che a livello mondiale ma importante essere qui e mostrare ci a cui teniamo\", ha dichiarato alla TT."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Greta Thunberg",
-          "Stoccolma",
-          "Svezia"
-        ],
-        "numbersAndDates": [
-          "La manifestazione avviene poche settimane prima delle elezioni in Svezia, che si terranno il 13 settembre e l'obbiettivo per gli attivisti di riportare la questione climatica all'ordine del giorno:",
-          "50.000"
-        ]
-      }
-    },
-    {
-      "id": "story-e5d1f5314dd0298d",
-      "title": "Shein punta a una valutazione di quasi 27 miliardi di dollari per il suo debutto in borsa a Hong Kong",
-      "summary": "Shein punta a una valutazione di quasi 27 miliardi di dollari per il suo debutto in borsa a Hong Kong.",
-      "spokenText": "Shein punta a una valutazione di quasi 27 miliardi di dollari in vista del suo debutto in borsa a Hong Kong. Le azioni del colosso del fast-fashion dovrebbero iniziare a essere scambiate il primo settembre. Questo forte ridimensionamento riflette una fase di crescita delle vendite più debole e un contesto di costi operativi più elevati. Ma questo valore è molto inferiore alla valutazione di 100 miliardi di dollari raggiunta in un round di finanziamento privato nel 2022, che riflette una crescita delle vendite più debole.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "shein",
-        "hong kong"
-      ],
-      "importance": 75,
-      "mustInclude": true,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Shein punta a una valutazione di quasi 27 miliardi di dollari per il suo debutto in borsa a Hong Kong.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Shein punta a una valutazione di quasi 27 miliardi di dollari per il suo debutto in borsa a Hong Kong.",
-          "Le azioni del colosso del fast-fashion dovrebbero iniziare a essere scambiate a Hong Kong il 1° settembre.",
-          "Ma questo valore è molto inferiore alla valutazione di 100 miliardi di dollari raggiunta in un round di finanziamento privato nel 2022, che riflette una crescita delle vendite più debole e costi più elevati."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Shein",
-          "Hong Kong"
-        ],
-        "numbersAndDates": [
-          "Le azioni del colosso del fast-fashion dovrebbero iniziare a essere scambiate a Hong Kong il 1° settembre.",
-          "Ma questo valore è molto inferiore alla valutazione di 100 miliardi di dollari raggiunta in un round di finanziamento privato nel 2022, che riflette una crescita delle vendite più debole e costi più elevati.",
-          "27"
-        ]
-      }
-    },
-    {
-      "id": "story-ea30f1427491b7a3",
-      "title": "L'Onu dichiara che l'epidemia di Ebola in Congo cresce in modo esponenziale",
-      "summary": "Negli ultimi tre mesi sono morte 2.500 persone. Msf, un decesso ogni mezz'ora",
-      "spokenText": "L'Onu dichiara che l'epidemia di Ebola in Congo cresce in modo esponenziale. Negli ultimi tre mesi sono morte 2.500 persone. Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora. Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "congo",
-        "onu",
-        "msf"
-      ],
-      "importance": 85,
-      "mustInclude": true,
       "estimatedSeconds": 24,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/21/ebola-in-repubblica-democratica-del-congo-msf-un-decesso-ogni-mezzora_da4d02b9-815b-4afa-b0c7-d73828f43890.html"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/mitsubishi-robot-umanoidi-fabbrica-contro-crisi-manodopera-AJs4DGt"
       },
       "analysis": {
-        "mainFact": "L'Onu dichiara che l'epidemia di Ebola in Congo cresce in modo esponenziale.",
-        "whyItMatters": "Negli ultimi tre mesi sono morte 2.500 persone.",
+        "mainFact": "per introdurre robot umanoidi a intelligenza artificiale nei propri stabilimenti per contrastare la crisi di manodopera.",
+        "whyItMatters": "Inaugurati i Giochi Mondiali di Robotica Umanoide, la sfilata dei robot è impressionante “I robot umanoidi hanno un enorme potenziale per trasmettere in modo efficiente le conoscenze dei lavoratori più esperti”, ha dichiarato Takao Kato, presidente e amministratore delegato di Mitsubishi Motors.",
         "confirmedFacts": [
-          "L'Onu dichiara che l'epidemia di Ebola in Congo cresce in modo esponenziale.",
-          "Negli ultimi tre mesi sono morte 2.500 persone.",
-          "Secondo Msf, nell'ultima settimana i decessi sono stati registrati a un ritmo allarmante di circa uno ogni mezz'ora.",
-          "Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti."
+          "per introdurre robot umanoidi a intelligenza artificiale nei propri stabilimenti per contrastare la crisi di manodopera.",
+          "Inaugurati i Giochi Mondiali di Robotica Umanoide, la sfilata dei robot è impressionante “I robot umanoidi hanno un enorme potenziale per trasmettere in modo efficiente le conoscenze dei lavoratori più esperti”, ha dichiarato Takao Kato, presidente e amministratore delegato di Mitsubishi Motors.",
+          "Mitsubishi prevede di avviare il progetto con alcune decine di unità: tra i siti candidati spicca la linea di assemblaggio dei motori dello stabilimento di Kyoto, dove dal 2027 sarà attivata una produzione dedicata con capacità di 1.000 robot al mese."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Congo",
-          "Onu",
-          "Msf"
+          "Mitsubishi Motors",
+          "Takao Kato"
         ],
-        "numbersAndDates": [
-          "Dall'inizio dell'epidemia, fino al 16 agosto, le autorità congolesi hanno registrato oltre 5.000 casi confermati e più di 2.400 morti.",
-          "2.500"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-4be147b2dabb5037",
-      "title": "Il rover Curiosity riprende la scalata del Monte Sharp dopo una deviazione per investigare una superficie erosiva",
-      "summary": "Il rover Curiosity riprende la scalata del Monte Sharp dopo una deviazione per investigare una superficie erosiva.",
-      "spokenText": "Il rover Curiosity ha ripreso la sua scalata del Monte Sharp dopo una breve deviazione per studiare una superficie erosiva. Il piano di inizio settimana, per i Sol da 4982 a 4985, ha visto il rover posizionato proprio a ridosso di una caratteristica geologica unica, appena sopra il contatto di quella che i geologi chiamano una supersuperficie erosiva. Dopo questa sosta ravvicinata, Curiosity ha effettuato una prima marcia di avvicinamento di circa trenta metri, raggiungendo la postazione da cui è stato poi organizzato il piano operativo di venerdì, relativo ai Sol da 4985 a 4987. Da lì, la tabella di marcia prevede di continuare a guadagnare quota: la prossima tappa pianificata è una guida di circa quarantasette metri che porterà il rover in una zona a sud-ovest rispetto alla posizione attuale, sempre lungo le pendici del Monte Sharp.",
-      "category": "scienza",
+      "id": "story-3aaf304041a20ff6",
+      "title": "Prima licenziano, poi \"si vedrà\". La triste storia dell’AI nell’industria moderna",
+      "summary": "Da quanto l’AI è entrata nelle nostre vite professionali, l’obiettivo non è mai cambiato: efficientare, fare di più con meno. Bene o male tutti sognano di creare un margine maggiore riducendo il perso...",
+      "spokenText": "Da quando l'intelligenza artificiale è entrata nelle nostre vite professionali, l'obiettivo dichiarato è sempre stato efficientare, fare di più con meno. Una rilevazione su 1.006 dirigenti di aziende globali, raccolta a dicembre 2025, mostra che i licenziamenti avvengono quasi del tutto in previsione dell'impatto dell'AI, con le prestazioni ancora da verificare. Di questi, 10.970 risultano ricondotti all'intelligenza artificiale nelle motivazioni allegate: un terzo del totale, e prima causa dichiarata per il quinto mese consecutivo. Ma c'è chi ha capito che l'AI permette di sviluppare il business più velocemente, di fare cose prima impossibili, senza necessariamente licenziare nessuno. In sostanza, meglio usarla per fare di più e per fare meglio, piuttosto che per spendere meno.",
+      "category": "tecnologia",
       "tags": [
-        "scienza",
-        "curiosity"
+        "tecnologia"
       ],
       "importance": 72,
       "mustInclude": true,
-      "estimatedSeconds": 56,
+      "estimatedSeconds": 46,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/prima-licenziano-poi-si-vedra-la-triste-storia-dellai-nellindustria-moderna"
       },
       "analysis": {
-        "mainFact": "Il rover Curiosity riprende la scalata del Monte Sharp dopo una deviazione per investigare una superficie erosiva.",
-        "whyItMatters": "Aggiornamento operativo missione Curiosity su Marte, esplorazione spaziale.",
+        "mainFact": "Da quanto l’AI è entrata nelle nostre vite professionali, l’obiettivo non è mai cambiato: efficientare, fare di più con meno.",
+        "whyItMatters": "Bene o male tutti sognano di creare un margine maggiore riducendo il personale; più di recente qualcuno, sempre pochi, ha capito che l’AI permette di sviluppare il business in modo più veloce, di fare cose che ieri erano impossibili, senza necessariamente licenziare nessuno.",
         "confirmedFacts": [
-          "Il rover Curiosity riprende la scalata del Monte Sharp dopo una deviazione per investigare una superficie erosiva.",
-          "Aggiornamento operativo missione Curiosity su Marte, esplorazione spaziale.",
-          "Il piano di lunedì per i Sol da 4982 a 4985 è iniziato con Curiosity faccia a faccia con una caratteristica geologica unica appena sopra il contatto della supersuperficie erosiva.",
-          "Curiosity ha poi guidato per 100 piedi (30 metri) per portarci alla posizione per il piano di venerdì per i Sol da 4985 a 4987.",
-          "Curiosity continuerà poi a scalare il Monte Sharp; la distanza di guida pianificata di 150 piedi (47 metri) porterà il rover a sud-ovest della nostra attuale posizione."
+          "Da quanto l’AI è entrata nelle nostre vite professionali, l’obiettivo non è mai cambiato: efficientare, fare di più con meno.",
+          "Bene o male tutti sognano di creare un margine maggiore riducendo il personale; più di recente qualcuno, sempre pochi, ha capito che l’AI permette di sviluppare il business in modo più veloce, di fare cose che ieri erano impossibili, senza necessariamente licenziare nessuno.",
+          "Una rilevazione su 1.006 dirigenti di aziende globali, raccolta a dicembre 2025 e discussa poco dopo, conferma infatti che i licenziamenti avvengono quasi del tutto in previsione dell'impatto dell'AI , con le prestazioni ancora tutte da verificare.",
+          "In sostanza, meglio usarla per fare di più e per fare meglio, piuttosto che per spendere meno.",
+          "Di questi, 10.970 risultano ricondotti all'intelligenza artificiale nelle motivazioni che le aziende allegano all'annuncio: un terzo del totale, e prima causa dichiarata per il quinto mese consecutivo."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Curiosity"
-        ],
+        "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "Il piano di lunedì per i Sol da 4982 a 4985 è iniziato con Curiosity faccia a faccia con una caratteristica geologica unica appena sopra il contatto della supersuperficie erosiva.",
-          "Curiosity ha poi guidato per 100 piedi (30 metri) per portarci alla posizione per il piano di venerdì per i Sol da 4985 a 4987.",
-          "Curiosity continuerà poi a scalare il Monte Sharp; la distanza di guida pianificata di 150 piedi (47 metri) porterà il rover a sud-ovest della nostra attuale posizione."
+          "Una rilevazione su 1.006 dirigenti di aziende globali, raccolta a dicembre 2025 e discussa poco dopo, conferma infatti che i licenziamenti avvengono quasi del tutto in previsione dell'impatto dell'AI , con le prestazioni ancora tutte da verificare.",
+          "Di questi, 10.970 risultano ricondotti all'intelligenza artificiale nelle motivazioni che le aziende allegano all'annuncio: un terzo del totale, e prima causa dichiarata per il quinto mese consecutivo."
         ]
       }
     },
     {
-      "id": "story-0612b0dd8acc4fd9",
-      "title": "Burnham consegnerà i progetti di missili a lungo raggio a Zelensky durante una visita a Kyiv",
-      "summary": "Burnham consegnerà i progetti di missili a lungo raggio a Zelensky durante una visita a Kyiv.",
-      "spokenText": "Al centro del colloquio, la consegna fisica dei progetti per missili a lungo raggio.",
+      "id": "story-1cf2d55905119ed5",
+      "title": "La missione MAIA della NASA sta usando 10 sensori ad Addis Abeba per fornire uno degli sguardi più dettagliati di sempre sull'inquinamento",
+      "summary": "La missione MAIA della NASA sta usando 10 sensori ad Addis Abeba per fornire uno degli sguardi più dettagliati di sempre sull'inquinamento atmosferico della città.",
+      "spokenText": "Dieci sensori puntati su Addis Abeba stanno componendo in queste settimane una delle mappe più dettagliate mai realizzate sull’inquinamento atmosferico della capitale etiope. È la missione MAIA della NASA a firmare questo ritratto ad altissima definizione, incrociando dati da terra con le osservazioni satellitari. Quello che emerge è una città dove la qualità dell’aria cambia in modo molto marcato da un quartiere all’altro. La barra dei colori che accompagna le prime rilevazioni mostra variazioni comprese tra 20 e 40 microgrammi per metro cubo tra le diverse stazioni di monitoraggio, con il rosso più scuro a indicare i punti in cui l’aria risulta peggiore.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "maia"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 42,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/"
+      },
+      "analysis": {
+        "mainFact": "La missione MAIA della NASA sta usando 10 sensori ad Addis Abeba per fornire uno degli sguardi più dettagliati di sempre sull'inquinamento atmosferico della città.",
+        "whyItMatters": "Mappatura inquinamento atmosferico con sensori NASA. Innovativo, utile per salute e ambiente.",
+        "confirmedFacts": [
+          "La missione MAIA della NASA sta usando 10 sensori ad Addis Abeba per fornire uno degli sguardi più dettagliati di sempre sull'inquinamento atmosferico della città.",
+          "Mappatura inquinamento atmosferico con sensori NASA. Innovativo, utile per salute e ambiente.",
+          "La barra dei colori a destra indica variazioni della qualità dell'aria da 20 a 40 microgrammi per metro cubo tra le stazioni di monitoraggio, con il rosso più scuro che indica la qualità dell'aria peggiore."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "MAIA"
+        ],
+        "numbersAndDates": [
+          "La barra dei colori a destra indica variazioni della qualità dell'aria da 20 a 40 microgrammi per metro cubo tra le stazioni di monitoraggio, con il rosso più scuro che indica la qualità dell'aria peggiore.",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "story-1716c3d9de39054f",
+      "title": "La ricerca della NASA mostra come l'antica storia del Sole abbia plasmato la Terra",
+      "summary": "La ricerca della NASA mostra come l'antica storia del Sole abbia plasmato la Terra.",
+      "spokenText": "Immaginate di poter riavvolgere il nastro della storia del nostro Sole, per capire come il suo antico viaggio abbia scolpito la Terra che conosciamo. È esattamente quello che ha fatto un team di ricercatori del centro SHIELD della NASA, in uno studio pubblicato sull'Annual Review of Astronomy and Astrophysics. Attraverso complesse modellazioni al computer, gli scienziati hanno decodificato a ritroso il percorso dell'eliosfera, la gigantesca bolla protettiva generata dal Sole, mentre attraversava la nostra galassia. Quello che hanno scoperto è che il nostro pianeta, in tre momenti precisi della sua storia, si è trovato esposto a condizioni atmosferiche radicalmente diverse. E se andiamo ancora più indietro nel tempo, la ricerca ci ricorda un dettaglio affascinante: tre miliardi di anni fa, il nostro Sole era un astro giovane e molto più debole, luminoso soltanto al 70% rispetto a oggi, un dato che ridefinisce completamente le condizioni in cui la vita ha mosso i suoi primi passi.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "shield"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 62,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/"
+      },
+      "analysis": {
+        "mainFact": "La ricerca della NASA mostra come l'antica storia del Sole abbia plasmato la Terra.",
+        "whyItMatters": "Studio NASA su come eventi solari antichi hanno plasmato il clima terrestre. Rilevante per scienza e ambiente.",
+        "confirmedFacts": [
+          "La ricerca della NASA mostra come l'antica storia del Sole abbia plasmato la Terra.",
+          "Studio NASA su come eventi solari antichi hanno plasmato il clima terrestre. Rilevante per scienza e ambiente.",
+          "In un articolo pubblicato il 21 [mese omesso] su Annual Review of Astronomy and Astrophysics, i ricercatori del centro SHIELD della NASA hanno usato la modellazione al computer per decodificare a ritroso il percorso dell'eliosfera attraverso la nostra galassia, rivelando che gli ambienti che ha attraversato potrebbero",
+          "Queste esposizioni — circa 2 o 3 milioni di anni fa, 6 o 7 milioni di anni fa e 13 o 14 milioni di anni fa — avrebbero esposto l'atmosfera terrestre a condizioni completamente diverse.",
+          "Tre miliardi di anni fa, il giovane Sole era luminoso al 70% rispetto a oggi."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "SHIELD"
+        ],
+        "numbersAndDates": [
+          "In un articolo pubblicato il 21 [mese omesso] su Annual Review of Astronomy and Astrophysics, i ricercatori del centro SHIELD della NASA hanno usato la modellazione al computer per decodificare a ritroso il percorso dell'eliosfera attraverso la nostra galassia, rivelando che gli ambienti che ha attraversato potrebbero",
+          "Queste esposizioni — circa 2 o 3 milioni di anni fa, 6 o 7 milioni di anni fa e 13 o 14 milioni di anni fa — avrebbero esposto l'atmosfera terrestre a condizioni completamente diverse.",
+          "Tre miliardi di anni fa, il giovane Sole era luminoso al 70% rispetto a oggi."
+        ]
+      }
+    },
+    {
+      "id": "story-6f476f283ddd069a",
+      "title": "Il primo ministro britannico Andy Burnham ha promesso di mantenere la pressione sulla Russia nonostante le 'oltraggiose minacce' di Mosca, durante la",
+      "summary": "Il primo ministro britannico Andy Burnham ha promesso di mantenere la pressione sulla Russia nonostante le 'oltraggiose minacce' di Mosca, durante la sua prima visita ufficiale in Ucraina.",
+      "spokenText": "Il primo ministro britannico Andy Burnham ha promesso di mantenere la pressione sulla Russia nonostante le 'oltraggiose minacce' di Mosca, durante la sua prima visita ufficiale in Ucraina. Dopo tutto, la sicurezza dell'Ucraina è la nostra sicurezza. La Coalition of the Willing è un partenariato di 34 paesi, inclusa l'Ucraina.",
       "category": "mondo",
       "tags": [
         "mondo",
-        "burnham",
-        "zelensky",
-        "kyiv"
+        "russia",
+        "andy burnham",
+        "coalition of the willing"
       ],
-      "importance": 52,
+      "importance": 62,
       "mustInclude": true,
-      "estimatedSeconds": 6,
+      "estimatedSeconds": 20,
       "source": {
         "name": "BBC News - World",
         "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Burnham consegnerà i progetti di missili a lungo raggio a Zelensky durante una visita a Kyiv.",
-        "whyItMatters": "Trasferimento progetti missili a Kiev, escalation nel supporto militare.",
+        "mainFact": "Il primo ministro britannico Andy Burnham ha promesso di mantenere la pressione sulla Russia nonostante le 'oltraggiose minacce' di Mosca, durante la sua prima visita ufficiale in Ucraina.",
+        "whyItMatters": "Sostegno UK all'Ucraina nonostante minacce russe: geopolitica concreta e diritti.",
         "confirmedFacts": [
-          "Burnham consegnerà i progetti di missili a lungo raggio a Zelensky durante una visita a Kyiv.",
-          "Trasferimento progetti missili a Kiev, escalation nel supporto militare.",
-          "Burnham will be reaffirming the UK's backing for Kyiv in the wake of escalating Russian strikes on Ukraine in recent weeks - including one on a shopping centre on Friday that killed at least 16 people."
+          "Il primo ministro britannico Andy Burnham ha promesso di mantenere la pressione sulla Russia nonostante le 'oltraggiose minacce' di Mosca, durante la sua prima visita ufficiale in Ucraina.",
+          "Sostegno UK all'Ucraina nonostante minacce russe: geopolitica concreta e diritti.",
+          "Dopo tutto, la sicurezza dell'Ucraina è la nostra sicurezza. Ha detto che l'amicizia che l'Ucraina condivide con il Regno Unito 'sopravviverà a lungo alla guerra illegale della Russia', aggiungendo: 'La Russia non dovrebbe avere dubbi sulla nostra determinazione'.",
+          "La Coalition of the Willing è un partenariato di 34 paesi, inclusa l'Ucraina."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Burnham",
-          "Zelensky",
-          "Kyiv"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-9b2ee5d708000dc3",
-      "title": "Sei femminicidi sono avvenuti in pochi giorni, tra denunce inascoltate e braccialetti scarichi",
-      "summary": "Sei femminicidi in pochi giorni: tra denunce inascoltate e braccialetti scarichi, l'inasprimento delle pene non basta senza vera prevenzione e risorse.",
-      "spokenText": "Sei donne uccise nel giro di pochissimi giorni. Denunce rimaste inascoltate, segnali ignorati. Sei femminicidi in pochi giorni raccontano di un meccanismo che siinceppa sempre sullo stesso punto.",
-      "category": "diritti",
-      "tags": [
-        "diritti"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/perche-lo-stato-non-protegge-le-donne-femminicidi/"
-      },
-      "analysis": {
-        "mainFact": "Sei femminicidi sono avvenuti in pochi giorni, tra denunce inascoltate e braccialetti scarichi.",
-        "whyItMatters": "Analisi sistemica sui femminicidi e fallimento della prevenzione. Impatto sociale concreto.",
-        "confirmedFacts": [
-          "Sei femminicidi sono avvenuti in pochi giorni, tra denunce inascoltate e braccialetti scarichi.",
-          "Analisi sistemica sui femminicidi e fallimento della prevenzione. Impatto sociale concreto.",
-          "Sei femminicidi in pochi giorni: tra denunce inascoltate e braccialetti scarichi, l'inasprimento delle pene non basta senza vera prevenzione e risorse."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-1fa8678ad35d3522",
-      "title": "Una nuova era di ondate di calore potrebbe sconvolgere il calendario scolastico",
-      "summary": "Una nuova era di ondate di calore potrebbe sconvolgere il calendario scolastico. Giugno ha visto una delle ondate di calore più intense del Regno Unito, con fino a sette giorni consecutivi in cui le temperature sono state ben al di sopra delle soglie ufficiali di ondata di calore di 25-28°C, proprio mentre il periodo degli esami era in pieno svolgimento.",
-      "spokenText": "Una nuova era di ondate di caldo potrebbe sconvolgere il calendario scolastico. Giugno ha visto una delle ondate più intense del Regno Unito, con fino a sette giorni consecutivi di temperature ben al di sopra delle soglie ufficiali di 25-28 gradi, proprio durante gli esami. Steve Chalke, fondatore di Oasis Academy, che gestisce più di 50 scuole in Inghilterra, afferma che queste condizioni sono state un vero ostacolo all'insegnamento.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "oasis academy",
-        "steve chalke"
-      ],
-      "importance": 82,
-      "mustInclude": true,
-      "estimatedSeconds": 28,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Una nuova era di ondate di calore potrebbe sconvolgere il calendario scolastico.",
-        "whyItMatters": "Giugno ha visto una delle ondate di calore più intense del Regno Unito, con fino a sette giorni consecutivi in cui le temperature sono state ben al di sopra delle soglie ufficiali di ondata di calore di 25-28°C, proprio mentre il periodo degli esami era in pieno svolgimento.",
-        "confirmedFacts": [
-          "Una nuova era di ondate di calore potrebbe sconvolgere il calendario scolastico.",
-          "Giugno ha visto una delle ondate di calore più intense del Regno Unito, con fino a sette giorni consecutivi in cui le temperature sono state ben al di sopra delle soglie ufficiali di ondata di calore di 25-28°C, proprio mentre il periodo degli esami era in pieno svolgimento.",
-          "Steve Chalke, fondatore di Oasis Academy, che gestisce più di 50 scuole in Inghilterra, afferma che le ondate di calore sono state un \"vero ostacolo\" all'insegnamento."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Oasis Academy",
-          "Steve Chalke"
+          "Russia",
+          "Andy Burnham",
+          "Coalition of the Willing"
         ],
         "numbersAndDates": [
-          "Steve Chalke, fondatore di Oasis Academy, che gestisce più di 50 scuole in Inghilterra, afferma che le ondate di calore sono state un \"vero ostacolo\" all'insegnamento.",
-          "25",
-          "28"
+          "La Coalition of the Willing è un partenariato di 34 paesi, inclusa l'Ucraina."
         ]
       }
     }
