@@ -1,619 +1,613 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-08-26-d727cf45c475",
-  "generatedAt": "2026-08-26T05:29:54.201Z",
+  "catalogId": "daily-quid-2026-08-29-67935724eaf0",
+  "generatedAt": "2026-08-29T11:27:44.848Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-07ac64f20c729538",
-      "title": "Colombia, 16 incendi boschivi attivi in cinque dipartimenti",
-      "summary": "A Tolima otto focolai, inviati rinforzi di vigili del fuoco da Bogotà e Antioquia",
-      "spokenText": "La Colombia sta affrontando una giornata complessa Per gli incendi boschivi. Secondo l'ultimo bilancio dell'Unità nazionale per la gestione del rischio di disastri, aggiornato al 25 agosto, sono sedici i roghi attivi in cinque dipartimenti del Paese. Altri tre incendi risultano sotto controllo, mentre diciannove sono costantemente monitorati dalle autorità. L'attenzione si concentra in particolare sul dipartimento del Tolima, il più colpito, dove si registrano otto focolai. Per fronteggiare l'emergenza, la risposta operativa è stata rafforzata con l'invio di rinforzi. Sul piano investigativo, le autorità hanno approvato una ricompensa fino a cento milioni di pesos per chi fornirà informazioni utili a identificare i responsabili di eventuali incendi dolosi. La risposta stata rafforzata con l'invio di 15 vigili del fuoco da Bogot e di circa 30 da Antioquia.",
-      "category": "ambiente",
+      "id": "story-b3251ffd0f4e1003",
+      "title": "Dal virus West Nile alla malaria, servono più sorveglianza e disinfestazioni",
+      "summary": "Il microbiologo: 'La prevenzione non può essere delegata ai singoli cittadini'",
+      "spokenText": "Contro malattie come malaria e West Nile servono più sorveglianza e disinfestazioni, e la prevenzione non può essere delegata ai singoli cittadini. La letalità delle forme neuro-invasive del virus West Nile è in calo rispetto allo stesso periodo del 2025, ma la diffusione territoriale è ampia e la sorveglianza intercetta un numero crescente di donatori di sangue asintomatici, segnale della circolazione silenziosa del virus. Questo quadro rende evidente la necessità di un intervento coordinato a livello istituzionale, perché affidare la prevenzione ai comportamenti individuali non basta a contenere la diffusione di patologie veicolate dalle zanzare.",
+      "category": "salute",
       "tags": [
-        "ambiente",
-        "colombia",
-        "tolima",
-        "bogota",
-        "antioquia"
+        "salute",
+        "virus west nile",
+        "malaria"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 51,
+      "estimatedSeconds": 38,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/colombia-16-incendi-boschivi-attivi-in-cinque-dipartimenti_cf3a6aae-bbe8-4168-843d-be4ca4b96b8d.html"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/29/da-west-nile-a-malaria-servono-piu-sorveglianza-e-disinfestazioni-_3ce81ef4-97ca-410a-94b5-f31f6e0c4e38.html"
       },
       "analysis": {
-        "mainFact": "Colombia, 16 incendi boschivi attivi in cinque dipartimenti",
-        "whyItMatters": "A Tolima otto focolai, inviati rinforzi di vigili del fuoco da Bogotà e Antioquia.",
+        "mainFact": "Contro malattie come malaria e West Nile servono più sorveglianza e disinfestazioni, e la prevenzione non può essere delegata ai singoli cittadini.",
+        "whyItMatters": "Contro le malattie veicolate dalle zanzare , come malaria e febbre del Nilo occidentale , non basta delegare la prevenzione ai singoli cittadini:",
         "confirmedFacts": [
-          "Colombia, 16 incendi boschivi attivi in cinque dipartimenti",
-          "A Tolima otto focolai, inviati rinforzi di vigili del fuoco da Bogotà e Antioquia.",
-          "La risposta stata rafforzata con l'invio di 15 vigili del fuoco da Bogot e di circa 30 da Antioquia.",
-          "Sono 16 gli incendi boschivi attivi in cinque dipartimenti della Colombia, secondo l'ultimo bilancio dell'Unit nazionale per la gestione del rischio di disastri (Ungrd), aggiornato al 25 agosto.",
-          "Altri tre incendi risultano sotto controllo e 19 sono monitorati dalle autorit .",
-          "Le autorit hanno inoltre approvato una ricompensa fino a 100 milioni di pesos per informazioni utili a identificare i responsabili di eventuali incendi dolosi."
+          "Contro malattie come malaria e West Nile servono più sorveglianza e disinfestazioni, e la prevenzione non può essere delegata ai singoli cittadini.",
+          "Contro le malattie veicolate dalle zanzare , come malaria e febbre del Nilo occidentale , non basta delegare la prevenzione ai singoli cittadini:",
+          "La letalità delle forme neuro-invasive è in calo rispetto allo stesso periodo del 2025, ma la diffusione territoriale è ampia e la sorveglianza intercetta un numero crescente di donatori di sangue asintomatici , segnale della circolazione silenziosa del virus."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Colombia",
-          "Tolima",
-          "Bogotà",
-          "Antioquia"
+          "virus West Nile",
+          "malaria"
         ],
         "numbersAndDates": [
-          "La risposta stata rafforzata con l'invio di 15 vigili del fuoco da Bogot e di circa 30 da Antioquia.",
-          "Sono 16 gli incendi boschivi attivi in cinque dipartimenti della Colombia, secondo l'ultimo bilancio dell'Unit nazionale per la gestione del rischio di disastri (Ungrd), aggiornato al 25 agosto.",
-          "Altri tre incendi risultano sotto controllo e 19 sono monitorati dalle autorit .",
-          "Le autorit hanno inoltre approvato una ricompensa fino a 100 milioni di pesos per informazioni utili a identificare i responsabili di eventuali incendi dolosi.",
-          "16"
+          "La letalità delle forme neuro-invasive è in calo rispetto allo stesso periodo del 2025, ma la diffusione territoriale è ampia e la sorveglianza intercetta un numero crescente di donatori di sangue asintomatici , segnale della circolazione silenziosa del virus."
         ]
       }
     },
     {
-      "id": "story-5a811218526e3aae",
-      "title": "Football, la ricerca shock: “Un giocatore su quattro colpito da malattia neurodegenerativa”",
-      "summary": "Lo rivela uno studio British Medical Journal che ha analizzato 338 atleti della Nfl morti tra il 2016 e il 2021: “Vittime di ripetuti traumi cranici”",
-      "spokenText": "Immaginate di analizzare il cervello di centinaia di ex giocatori di football americano. È quello che ha fatto uno studio pubblicato sul British Medical Journal, prendendo in esame 878 atleti della NFL deceduti tra il 2016 e il 2021. Di questi, 235 avevano donato il proprio cervello alla ricerca. Il risultato è un dato che dà la misura del problema: un giocatore su quattro è morto con una malattia neurodegenerativa. Stiamo parlando di encefalopatia traumatica cronica, o CTE, una patologia cerebrale collegata a ripetuti traumi cranici. Tradotto in numeri assoluti, tra gli atleti analizzati, ben 215 sono risultati affetti da questa condizione. Lo rivela uno studio British Medical Journal che ha analizzato 338 atleti della Nfl morti tra il 2016 e il 2021: “Vittime di ripetuti traumi cranici”.",
+      "id": "story-320817de1a927194",
+      "title": "Il microbiota intestinale anticipa le malattie croniche fino a decenni prima",
+      "summary": "Studio dei ricercatori del Gemelli sulla metainfiammazione, a causarla i cibi industriali",
+      "spokenText": "Immaginate un meccanismo silenzioso, capace di anticipare di anni, o addirittura decenni, la comparsa di malattie come diabete, patologie cardiovascolari e tumori. È quanto emerge da uno studio firmato dai ricercatori del Policlinico Gemelli di Roma e pubblicato sulla rivista Nature Reviews Gastroenterology & Hepatology. Al centro di questa scoperta c'è un processo infiammatorio legato al microbiota intestinale, il nostro ecosistema biologico interno. I ricercatori hanno documentato come questo equilibrio venga eroso lentamente, e il principale indiziato di questa distruzione silenziosa è stato identificato nel cibo ultra-processato e nei suoi additivi industriali.",
       "category": "salute",
       "tags": [
         "salute",
-        "nfl",
-        "british medical journal",
-        "encefalopatia traumatica cronica",
-        "cte"
+        "policlinico gemelli di roma",
+        "nature reviews gastroenterology hepatology"
       ],
       "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 52,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/26/news/football_americano_malattia_neurodegenerativa_giocatori_traumi_cranici-425547060/"
-      },
-      "analysis": {
-        "mainFact": "Un giocatore su quattro di football americano deceduti tra il 2016 e il 2021 ha sofferto di una malattia cerebrale legata a ripetuti colpi alla testa.",
-        "whyItMatters": "tra questi, 215 sono risultati affetti da encefalopatia traumatica cronica.",
-        "confirmedFacts": [
-          "Un giocatore su quattro di football americano deceduti tra il 2016 e il 2021 ha sofferto di una malattia cerebrale legata a ripetuti colpi alla testa.",
-          "tra questi, 215 sono risultati affetti da encefalopatia traumatica cronica.",
-          "Lo rivela uno studio pubblicato dal British Medical Journal che ha analizzato 878 ex giocatori morti durante quell'arco temporale, di cui 235 avevano donato il cervello alla ricerca.",
-          "Lo rivela uno studio British Medical Journal che ha analizzato 338 atleti della Nfl morti tra il 2016 e il 2021: “Vittime di ripetuti traumi cranici”",
-          "Ricercatori hanno preso in esame 878 ex atleti Nfl deceduti tra il 2016 e 2021",
-          "Un giocatore di football americano su 4 morto in Usa per conseguenze da trauma cranico",
-          "Football, la ricerca shock: “Un giocatore su quattro colpito da malattia neurodegenerativa”"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NFL",
-          "British Medical Journal",
-          "encefalopatia traumatica cronica",
-          "CTE"
-        ],
-        "numbersAndDates": [
-          "Lo rivela uno studio pubblicato dal British Medical Journal che ha analizzato 878 ex giocatori morti durante quell'arco temporale, di cui 235 avevano donato il cervello alla ricerca.",
-          "Ricercatori hanno preso in esame 878 ex atleti Nfl deceduti tra il 2016 e 2021",
-          "Un giocatore di football americano su 4 morto in Usa per conseguenze da trauma cranico",
-          "2016",
-          "2021",
-          "215"
-        ]
-      }
-    },
-    {
-      "id": "story-428a28ba75bee344",
-      "title": "L'intelligenza artificiale aiuta a distinguere due malattie del fegato",
-      "summary": "A Novara il deep learning applicato alle biopsie epatiche",
-      "spokenText": "Un gruppo di ricerca a Novara ha messo alla prova le potenzialità del deep learning, una forma avanzata di intelligenza artificiale, per affrontare una sfida diagnostica complessa. L’obiettivo era aiutare i medici a distinguere due diverse malattie del fegato, un compito non sempre semplice con i metodi tradizionali. Per farlo, il team ha sviluppato un nuovo modello chiamato Autoimmune liver neural estimator, abbreviato in Ane. Questo sistema è stato progettato per analizzare le immagini digitalizzate delle biopsie epatiche, supportando il riconoscimento delle due patologie in modo più preciso.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "novara",
-        "deep learning",
-        "autoimmune liver neural estimator",
-        "ane"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 36,
+      "estimatedSeconds": 37,
       "source": {
         "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/25/lintelligenza-artificiale-aiuta-a-distinguere-due-malattie-del-fegato_9cabe6a1-630e-4499-8a3b-7355bd9d1b4a.html"
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/27/il-microbiota-intestinale-anticipa-le-malattie-croniche-fino-a-decenni-prima_73b7e96b-3872-4d91-b382-3164c5693f50.html"
       },
       "analysis": {
-        "mainFact": "L'intelligenza artificiale aiuta a distinguere due malattie del fegato.",
-        "whyItMatters": "A Novara il deep learning applicato alle biopsie epatiche.",
+        "mainFact": "Un meccanismo infiammatorio legato al microbiota intestinale sarebbe in grado di anticipare la comparsa di malattie come diabete, patologie cardiovascolari e tumori, anni o decenni prima che si manifestino.",
+        "whyItMatters": "E' quanto emerge da uno studio realizzato dai ricercatori del Policlinico Gemelli di Roma e pubblicato sulla rivista Nature Reviews Gastroenterology & Hepatology.",
         "confirmedFacts": [
-          "L'intelligenza artificiale aiuta a distinguere due malattie del fegato.",
-          "A Novara il deep learning applicato alle biopsie epatiche.",
-          "La ricerca ha sperimentato le potenzialit del deep learning, una forma avanzata di intelligenza artificiale, sviluppando un nuovo modello denominato Autoimmune liver neural estimator (Ane), progettato per analizzare le immagini digitalizzate delle biopsie epatiche e supportare il riconoscimento delle due patologie."
+          "Un meccanismo infiammatorio legato al microbiota intestinale sarebbe in grado di anticipare la comparsa di malattie come diabete, patologie cardiovascolari e tumori, anni o decenni prima che si manifestino.",
+          "E' quanto emerge da uno studio realizzato dai ricercatori del Policlinico Gemelli di Roma e pubblicato sulla rivista Nature Reviews Gastroenterology & Hepatology.",
+          "I ricercatori identificano nel cibo ultra-processato e nei suoi additivi industriali il principale responsabile della distruzione silenziosa dell'ecosistema biologico umano."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Novara",
-          "deep learning",
-          "Autoimmune liver neural estimator",
-          "Ane"
+          "Policlinico Gemelli di Roma",
+          "Nature Reviews Gastroenterology & Hepatology"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-54856a5ca80950c1",
-      "title": "Il doppio schiaffo di Putin: boccia la pace di Zelensky e si prende le aziende russe",
-      "summary": "Lo zar respinge l’idea di rendere il Donbass una zona franca: “È un nostro territorio”. Poi il decreto per commissariare l’industria",
-      "spokenText": "Putin ha respinto il piano di pace di Zelensky che prevedeva una zona economica libera per il Donbass e ha firmato un decreto per commissariare le aziende russe.",
+      "id": "story-f959298670ba5501",
+      "title": "Tra gli europeisti di Reykjavik: “Euro, difesa e influenza a Bruxelles. Sì all’ingresso nella Ue”",
+      "summary": "Oggi referendum in Islanda per riaprire i negoziati di adesione. Siamo andati nelle sedi dei due movimenti europeisti per ascoltare le ragioni del Sì, tra telefonate agli indecisi e le bufale di ChatGpt",
+      "spokenText": "Urne aperte oggi in Islanda per un referendum che chiede ai cittadini se riaprire i negoziati di adesione all’Unione europea, formalmente interrotti nel 2013. L’incertezza del voto è fotografata dai sondaggi: all’inizio della settimana uno studio demoscopico dava il 51,3% degli elettori a favore del negoziato e il 48,7% contrario, un risultato diametralmente opposto rispetto ad altre rilevazioni. Siamo andati nelle sedi dei movimenti europeisti per ascoltare le ragioni del Sì, tra telefonate agli indecisi e la diffusione di bufale generate da ChatGPT.",
       "category": "mondo",
       "tags": [
         "mondo",
-        "donbass"
+        "islanda",
+        "unione europea"
+      ],
+      "importance": 72,
+      "mustInclude": true,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/08/29/news/islanda_referendum_ingresso_ue_le_ragioni_del_si_europeist-425553081/"
+      },
+      "analysis": {
+        "mainFact": "Oggi in Islanda si tiene un referendum per decidere se riaprire i negoziati di adesione all'Unione europea.",
+        "whyItMatters": "Siamo andati nelle sedi dei due movimenti europeisti per ascoltare le ragioni del Sì, tra telefonate agli indecisi e le bufale di ChatGpt",
+        "confirmedFacts": [
+          "Oggi in Islanda si tiene un referendum per decidere se riaprire i negoziati di adesione all'Unione europea.",
+          "Siamo andati nelle sedi dei due movimenti europeisti per ascoltare le ragioni del Sì, tra telefonate agli indecisi e le bufale di ChatGpt",
+          "Gli elettori sono chiamati a decidere se riaprire il negoziato di adesione all’Unione europea, interrotto nel 2013.",
+          "All’inizio della settimana, un altro studio demoscopico dava risultati diametralmente opposti: il 51,3% delle persone era a favore del negoziato, il 48,7% contrario.",
+          "L’Unione europea diventa improvvisamente un ombrello di sicurezza e difesa per un paese che sì appartiene all’Alleanza atlantica dal 1949, ma che non ha proprie forze armate.",
+          "Urne aperte oggi nell’isola per decidere se riaprire i negoziati."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Islanda",
+          "Unione Europea"
+        ],
+        "numbersAndDates": [
+          "Gli elettori sono chiamati a decidere se riaprire il negoziato di adesione all’Unione europea, interrotto nel 2013.",
+          "All’inizio della settimana, un altro studio demoscopico dava risultati diametralmente opposti: il 51,3% delle persone era a favore del negoziato, il 48,7% contrario.",
+          "L’Unione europea diventa improvvisamente un ombrello di sicurezza e difesa per un paese che sì appartiene all’Alleanza atlantica dal 1949, ma che non ha proprie forze armate."
+        ]
+      }
+    },
+    {
+      "id": "story-66d1d1c5a1fab3e9",
+      "title": "Petrolio, Trump: Usa prendono controllo di 65 miliardi di barili in Venezuela",
+      "summary": "Donald Trump ha annunciato che gli Stati Uniti hanno raggiunto un accordo con il Venezuela che assegnerà a Washington il controllo di maggioranza su oltre 65 miliardi di barili di...",
+      "spokenText": "Donald Trump ha annunciato un accordo con il Venezuela che assegna agli Stati Uniti il controllo di maggioranza su oltre 65 miliardi di barili di riserve petrolifere certe. Dopo le indiscrezioni dei media Donald Trump ha confermato che gli Stati Uniti hanno raggiunto un accordo con il Venezuela sul petrolio. Secondo un funzionario americano citato dal New York Times, l’accordo attribuirebbe agli Stati uniti il 55% della produzione di una joint venture con un operatore privato attivo in Venezuela. Secondo il Washington Post, gli Stati Uniti acquisirebbero una partecipazione di controllo in una nuova joint venture dotata di concessioni della durata di 100 anni e comprendente quasi un quarto delle riserve petrolifere venezuelane non ancora sfruttate. Il piano riguarderebbe 17 giacimenti, prevederebbe oltre 100 miliardi di dollari di investimenti e potrebbe generare, secondo Caracas, 209 miliardi di dollari di entrate fiscali per il Venezuela. Il segretario di Stato Marco Rubio ha affermato che l’intesa porterà in Venezuela “quasi 100 miliardi di dollari di investimenti privati”, senza precisare quali società abbiano già assunto impegni finanziari. L'intesa garantisce a Washington il controllo maggioritario di oltre 65 miliardi di barili di riserve petrolifere certe nel paese sudamericano senza alcun costo per i contribuenti americani.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "stati uniti",
+        "venezuela",
+        "donald trump",
+        "marco rubio"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 81,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/trump-usa-prendono-controllo-65-miliardi-barili-venezuela-AJnOz2x"
+      },
+      "analysis": {
+        "mainFact": "Donald Trump ha annunciato un accordo con il Venezuela che assegna agli Stati Uniti il controllo di maggioranza su oltre 65 miliardi di barili di riserve petrolifere certe.",
+        "whyItMatters": "Dopo le indiscrezioni dei media Donald Trump ha confermato che gli Stati Uniti hanno raggiunto un accordo con il Venezuela sul petrolio.",
+        "confirmedFacts": [
+          "Donald Trump ha annunciato un accordo con il Venezuela che assegna agli Stati Uniti il controllo di maggioranza su oltre 65 miliardi di barili di riserve petrolifere certe.",
+          "Dopo le indiscrezioni dei media Donald Trump ha confermato che gli Stati Uniti hanno raggiunto un accordo con il Venezuela sul petrolio.",
+          "Secondo un funzionario americano citato dal New York Times, l’accordo attribuirebbe agli Stati uniti il 55% della produzione di una joint venture con un operatore privato attivo in Venezuela.",
+          "Secondo il Washington Post, gli Stati Uniti acquisirebbero una partecipazione di controllo in una nuova joint venture dotata di concessioni della durata di 100 anni e comprendente quasi un quarto delle riserve petrolifere venezuelane non ancora sfruttate.",
+          "Il piano riguarderebbe 17 giacimenti, prevederebbe oltre 100 miliardi di dollari di investimenti e potrebbe generare, secondo Caracas, 209 miliardi di dollari di entrate fiscali per il Venezuela.",
+          "Il segretario di Stato Marco Rubio ha affermato che l’intesa porterà in Venezuela “quasi 100 miliardi di dollari di investimenti privati”, senza precisare quali società abbiano già assunto impegni finanziari.",
+          "L'intesa garantisce a Washington il controllo maggioritario di oltre 65 miliardi di barili di riserve petrolifere certe nel paese sudamericano senza alcun costo per i contribuenti americani."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stati Uniti",
+          "Venezuela",
+          "Donald Trump",
+          "Marco Rubio"
+        ],
+        "numbersAndDates": [
+          "Secondo un funzionario americano citato dal New York Times, l’accordo attribuirebbe agli Stati uniti il 55% della produzione di una joint venture con un operatore privato attivo in Venezuela.",
+          "Secondo il Washington Post, gli Stati Uniti acquisirebbero una partecipazione di controllo in una nuova joint venture dotata di concessioni della durata di 100 anni e comprendente quasi un quarto delle riserve petrolifere venezuelane non ancora sfruttate.",
+          "Il piano riguarderebbe 17 giacimenti, prevederebbe oltre 100 miliardi di dollari di investimenti e potrebbe generare, secondo Caracas, 209 miliardi di dollari di entrate fiscali per il Venezuela.",
+          "L'intesa garantisce a Washington il controllo maggioritario di oltre 65 miliardi di barili di riserve petrolifere certe nel paese sudamericano senza alcun costo per i contribuenti americani.",
+          "65"
+        ]
+      }
+    },
+    {
+      "id": "story-8d2f1f9a0ca34237",
+      "title": "Genomi su misura con l'IA: la nuova frontiera della biologia sintetica",
+      "summary": "di Francesco Branda Pubblicato il 28/08/2026 L’intelligenza artificiale ha imparato a scrivere non solo testi ma... anche genomi. Per la prima volta, modelli addestrati sul linguaggio del DNA hanno infatti progettato da zero batteriofagi funzionanti, capaci di infettare batteri e superarne le resistenze. Un risultato che apre prospettive inedite per la terapia fagica e la biologia sintetica, trasformando l’IA in uno strumento per esplorare lo spazio del biologicamente possibile. Ma la capacità di generare virus pone anche interrogativi urgenti: quanto sono davvero originali queste forme di vita artificiali? E come governare una tecnologia che potrebbe diventare tanto potente quanto pericolosa? Tempo di lettura: 10 mins Intelligenza artificiale C'è una frontiera della biologia che fino a pochi anni fa sembrava irraggiungibile, eppure oggi, grazie all'intelligenza artificiale, è stata superata: progettare un genoma intero da zero con la stessa facilità con cui si scrive un testo è diventato realtà. Il 6 agosto 2026, un team di ricercatori guidato da Brian L. Hie ha pubblicato su Science uno studio intitolato “Generative design of bacteriophages with genome language models” che segna un punto di svolta: per la prima volta, un modello di linguaggio genomico ha generato virus batteriofagi funzionanti, capaci di infettare specifici batteri. Di evolversi per superare la resistenza batterica. Non si tratta di semplici copie di virus esistenti, ma di genomi completamente nuovi, con sequenze che non si trovano in natura, architetture genetiche riorganizzate e soluzioni evolutive inedite. Un risultato che apre scenari straordinari per la terapia fagica, la biologia sintetica e, più in generale, per la nostra capacità di progettare la vita. Ma come ogni grande svolta tecnologica, questa scoperta solleva anche interrogativi profondi che vanno ben oltre il laboratorio: questioni di sicurezza, di governance, di responsabilità e, in ultima analisi, di cosa significhi essere umani in un'era in cui il confine tra naturale e artificiale si fa ogni giorno più sottile. Per capire l'importanza di questa scoperta dobbiamo prima chiederci che cosa sia un genoma. La risposta è che si tratta dell'intero patrimonio genetico di un organismo, l'insieme completo delle istruzioni necessarie per costruire e far funzionare quella particolare forma di vita. Nel caso dei batteriofagi, i virus che infettano i batteri, il genoma è relativamente piccolo: quello di ΦX174, il virus scelto come modello dai ricercatori, è composto da circa 5.400 “lettere” del codice genetico, ma non lasciamoci ingannare dalle dimensioni. Quelle 5.400 lettere contengono 11 geni, almeno sette elementi regolatori, due sequenze di riconoscimento e una complessa architettura che deve funzionare in perfetta armonia. È come un orologio svizzero in miniatura: ogni ingranaggio deve essere al posto giusto, ogni molla deve avere la giusta tensione. Un singolo errore, una singola mutazione, può rendere l'intero genoma non vitale. Questo spiega perché fino a oggi la maggior parte dei progressi nella progettazione biologica si sia concentrata su singoli geni o su piccoli circuiti genetici. Progettare un genoma intero è sempre stato considerato troppo complesso, troppo rischioso, troppo difficile. I ricercatori hanno utilizzato due modelli di intelligenza artificiale, chiamati Evo 1 ed Evo 2, addestrati su centinaia di miliardi di coppie di basi di DNA provenienti da batteri, archei e virus. Il compito assegnato durante l'addestramento era semplice, quasi banale: data una sequenza di nucleotidi, prevedere il nucleotide successivo. Nessuna etichetta, nessuna regola esplicita su cosa fosse un gene, un promotore, una sequenza di impacchettamento. Solo DNA su DNA, per mesi di calcolo. Durante questo addestramento, i modelli hanno imparato le regole profonde che governano il DNA: quali sequenze funzionano e quali no, quali strutture si sono conservate attraverso milioni di anni di evoluzione e quali sono state abbandonate perché inadatte. Immaginate un bambino che impara una lingua: all'inizio non conosce le regole grammaticali, ma ascoltando milioni di frasi comincia a intuire quali combinazioni di parole hanno senso e quali no. Allo stesso modo, Evo ha ascoltato milioni di genomi e ha imparato le regole grammaticali della vita, ma c'è una differenza fondamentale tra generare una frase e generare un genoma. Quando ChatGPT genera un testo, può permettersi di sbagliare: una parola fuori posto o una concordanza grammaticale errata non compromettono la comprensibilità della frase. Con un genoma non funziona così. Un singolo nucleotide sbagliato può significare che il virus non si replica, non infetta, non sopravvive. È proprio questo vincolo di precisione che rende la progettazione genomica una sfida di una complessità molto maggiore rispetto alla generazione di testi. Il processo di progettazione è articolato e richiede un delicato equilibrio tra fedeltà al modello naturale e innovazione. I ricercatori hanno prima “perfezionato” i modelli Evo su un dataset specifico di circa 15.000 genomi di Microviridae, la famiglia di virus a cui appartiene ΦX174. Poi hanno “provocato” i modelli con brevi sequenze di inizio del genoma di ΦX174 e hanno generato migliaia di nuovi genomi candidati. Ma generare non basta: bisogna selezionare. I ricercatori hanno sviluppato un sistema di filtri in tre livelli: un controllo di qualità di base con lunghezza corretta, contenuto di GC appropriato e assenza di sequenze problematiche; un filtro sul tropismo, cioè la capacità di infettare il batterio bersaglio, verificata attraverso la presenza di proteine di attacco simili a quelle di ΦX174; e un filtro di diversificazione che seleziona genomi che si allontanano sufficientemente da quelli naturali, con nuove architetture genetiche e sequenze proteiche divergenti. Di migliaia di genomi generati, 302 sono stati scelti per la sintesi chimica, 285 sono stati effettivamente assemblati in laboratorio e 16 si sono rivelati funzionanti: virus vivi, capaci di infettare e uccidere i batteri. Il tasso di successo, tra il 5% e il 7%, può sembrare piccolo, ma è straordinario se si considera che si tratta di progettare un genoma intero con centinaia di mutazioni rispetto ai genomi naturali, laddove il tasso di sopravvivenza atteso per mutazioni casuali sarebbe stato vicino allo zero. I 16 virus generati non sono semplici copie di ΦX174, ma possiedono combinazioni genetiche mai osservate prima, con geni riarrangiati, scambiati o eliminati. Un esempio emblematico è Evo-Φ36, in cui una modifica che in esperimenti precedenti si era dimostrata letale è stata resa possibile dal modello grazie a una serie di mutazioni compensatorie automaticamente individuate. I virus sintetici mostrano comportamenti molto vari: alcuni uccidono i batteri rapidamente, altri con più lentezza, e i più competitivi non sono affatto quelli più simili ai virus naturali. Quando i ricercatori hanno messo alla prova i virus contro ceppi batterici resistenti, il cocktail generato dall'IA ha avuto la meglio già dopo uno o due passaggi, laddove il fago naturale e i suoi parenti stretti fallivano anche dopo cinque. La diversità progettata dall'IA ha fornito il materiale grezzo per un rapido adattamento: sono bastate poche ricombinazioni per generare virus capaci di superare la resistenza, con implicazioni profonde per la terapia fagica. Una delle domande più affascinanti e controverse sollevate da questo studio riguarda l'effettiva originalità dei genomi generati. Se esaminiamo i dati pubblicati, scopriamo un paradosso apparente: i 16 fagi funzionanti mostrano una similarità di sequenza con il genoma naturale più vicino compresa tra il 93,2% e il 98,8%, ed esiste una correlazione positiva tra la vitalità dei fagi e la loro somiglianza al genoma naturale. Questi dati sembrerebbero suggerire che il modello non ha fatto altro che ricombinare pattern già esistenti, ma la realtà è più complessa. L'originalità non va misurata solo in termini di percentuale di somiglianza: i genomi generati presentano riarrangiamenti genici, mutazioni de novo e architetture divergenti in combinazioni mai osservate in natura; tredici dei sedici genomi funzionanti contenevano mutazioni assenti da qualsiasi sequenza naturale nota; in Evo-Φ36 il modello ha combinato una proteina di impacchettamento del DNA proveniente da un fago evolutivamente distante, una soluzione che i ricercatori avevano tentato senza successo con l'ingegneria razionale; e i virus generati mostrano comportamenti fenotipici molto vari, alcuni dei quali non presenti nei virus naturali. Per questo genera sequenze che restano vicine a quelle naturali, non per mancanza di creatività. Perché lo spazio del “biologicamente possibile” è estremamente ristretto. Ciò che rende il risultato straordinario non è l'aver generato genomi radicalmente diversi, ma l'averne generati funzionanti con centinaia di mutazioni rispetto ai genomi naturali, con un tasso di successo del 5-7% che, confrontato con il tasso di sopravvivenza atteso per mutazioni casuali (prossimo allo zero), è semplicemente impressionante. Questo ci porta al cuore del dibattito scientifico attuale: i modelli come Evo sono “pappagalli stocastici” che si limitano a ricombinare pattern appresi, o mostrano capacità emergenti? Da un lato, Evo è certamente un “pappagallo”: ha appreso pattern statistici dai dati di addestramento e li riproduce, e la somiglianza con i genomi naturali e la correlazione tra vitalità e somiglianza sono la prova più evidente di questo meccanismo. Dall'altro, presenta chiari segni di capacità emergenti, abilità che compaiono quando un modello supera una certa soglia di scala e complessità e che non erano state né progettate né previste dai programmatori: ha scoperto da solo le regole della biologia molecolare senza che nessuno gliele abbia insegnate; ha generato soluzioni che gli esseri umani non erano riusciti a progettare razionalmente; e ha prodotto un cocktail di fagi che ha superato la resistenza batterica laddove i fagi naturali fallivano. Evo si colloca in una via di mezzo: non è un mero pappagallo perché mostra una comprensione profonda (anche se opaca) delle regole del sistema, ma non è nemmeno un “creatore” nel senso umano del termine perché le sue innovazioni sono variazioni su temi esistenti. È piuttosto un esploratore straordinariamente efficiente di uno spazio delle possibilità, capace di trovare percorsi che l'evoluzione e gli umani non avevano ancora esplorato. Se un modello impara da solo le regole della biologia, diventa un partner inestimabile per la ricerca scientifica. Possiamo interrogarlo per scoprire regole che ancora non conosciamo, generare enzimi inesistenti in natura capaci di degradare la plastica negli oceani, progettare batteriofagi su misura per combattere infezioni resistenti agli antibiotici senza dover setacciare per anni campioni ambientali, immaginare circuiti metabolici sintetici che convertono scarti agricoli in farmaci o biocarburanti, e accelerare la scoperta di nuovi vaccini progettando particelle virali sintetiche che addestrano il sistema immunitario senza alcun rischio di infezione. Evo diventa una sorta di “microscopio computazionale” che permette di esplorare lo spazio delle sequenze possibili, immensamente più grande del numero di atomi nell'universo osservabile, senza dover sintetizzare e testare ogni variante in laboratorio, comprimendo in mesi scoperte che avrebbero richiesto decenni. Ma c'è un rovescio della medaglia: la stessa identica capacità di progettare genomi virali funzionali può essere usata per creare virus patogeni più pericolosi, potenziare agenti infettivi esistenti e progettare armi biologiche senza bisogno di accedere a un laboratorio di virologia di massima sicurezza. La barriera d'ingresso è crollata: fino a ieri servivano competenze specialistiche, attrezzature costose e anni di lavoro, oggi con un modello sufficientemente addestrato e un servizio commerciale di sintesi del DNA (disponibile online con controlli ancora largamente insufficienti), chiunque sappia porre le domande giuste all'intelligenza artificiale potrebbe progettare un virus pericoloso. Un precedente allarmante era già emerso nel 2022, quando un gruppo di ricercatori dimostrò su Nature Machine Intelligence che un'intelligenza artificiale addestrata per progettare farmaci poteva essere facilmente riconvertita per generare molecole altamente tossiche, inclusi agenti nervini, semplicemente modificando il criterio di ottimizzazione. Con lo studio pubblicato su Science, il salto è di qualità: non stiamo più parlando di molecole pericolose progettate al computer, ma di interi genomi virali sintetizzati e pronti a infettare una cellula. Come sottolineano gli stessi autori, la generazione di nuovi genomi fagici con sistemi di IA solleva questioni rilevanti di biosicurezza, biocontenimento e bioprotezione, e raccomandano che i gruppi impegnati in futuri lavori di progettazione genomica si affianchino a professionisti della sicurezza lungo tutto il ciclo di vita del progetto. La regolamentazione di queste tecnologie è oggi un cantiere aperto, con iniziative che si muovono su più livelli ma ancora lontane dall'offrire una risposta sistematica alla portata della sfida. Negli Stati Uniti è stato introdotto il Biosecurity Modernization and Innovation Act, un disegno di legge che darebbe al Dipartimento del Commercio un anno per sviluppare nuove regole di screening per la sintesi del DNA, richiedendo ai venditori di DNA sintetico di verificare le sequenze ordinate per individuare quelle potenzialmente pericolose, verificare la legittimità dei clienti prima di spedire gli ordini e tenere registri dettagliati per consentire indagini di biosicurezza. Un'alleanza senza precedenti di CEO di aziende di intelligenza artificiale (OpenAI, Anthropic, Google DeepMind), esperti di biosicurezza ed ex funzionari della sicurezza nazionale ha firmato una lettera aperta che chiede al Congresso di rendere obbligatorio lo screening del DNA sintetico, sottolineando il rapido miglioramento dei sistemi di IA e il rischio concreto che le barriere conoscitive che hanno storicamente impedito agli attori malintenzionati di ottenere armi biologiche vengano significativamente erose. Sul fronte volontario, molte aziende che sintetizzano DNA aderiscono già ai protocolli di screening dell'International Gene Synthesis Consortium, ma questi protocolli sono volontari, non coprono tutte le aziende del settore e non prevedono sanzioni per le violazioni. Lo studio pubblicato su Science solleva problemi di difficile soluzione che vanno oltre le tradizionali preoccupazioni sulla biosicurezza: la barriera d'ingresso è crollata perché non serve più essere un esperto di virologia; le salvaguardie tecniche come l'esclusione dei virus patogeni per l'uomo dai dati di addestramento non sono sufficienti perché non impediscono ad altri di addestrare modelli su dati pericolosi; la trasparenza è un problema perché non sappiamo esattamente come il modello abbia imparato né quali altre capacità abbia sviluppato; e manca un quadro internazionale perché non esiste un organismo che verifichi prima del rilascio se un modello può progettare agenti patogeni. Servono un'infrastruttura di governance internazionale con obblighi di valutazione del rischio, registri trasparenti e restrizioni sull'accesso ai modelli più potenti; un investimento massiccio nella ricerca sulla sicurezza e sull'interpretabilità di questi sistemi; e una mobilitazione delle competenze che vada molto oltre la cerchia degli addetti ai lavori, coinvolgendo filosofi, giuristi, biologi, antropologi, educatori, amministratori pubblici, giornalisti e cittadini in una discussione democratica su quali traiettorie di sviluppo vogliamo incoraggiare e quali rallentare.",
+      "spokenText": "Per la prima volta, modelli di IA addestrati sul linguaggio del DNA hanno progettato da zero batteriofagi funzionanti, capaci di infettare batteri e superarne le resistenze. Il risultato apre prospettive inedite per la terapia fagica e la biologia sintetica, ma la capacità di generare virus pone anche interrogativi urgenti su quanto siano originali queste forme di vita artificiali e su come governare una tecnologia potenzialmente pericolosa. Il 6 agosto 2026, un team di ricercatori guidato da Brian L. Hie ha pubblicato su Science uno studio intitolato “Generative design of bacteriophages with genome language models” che segna un punto di svolta. Non si tratta di semplici copie di virus esistenti, ma di genomi completamente nuovi, con sequenze che non si trovano in natura, architetture genetiche riorganizzate e soluzioni evolutive inedite. E come governare una tecnologia che potrebbe diventare tanto potente quanto pericolosa?",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "brian l hie",
+        "science"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 57,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articolo/genomi-su-misura-con-lia-nuova-frontiera-della-biologia-sintetica/francesco-branda/2026-08"
+      },
+      "analysis": {
+        "mainFact": "Per la prima volta, modelli di IA addestrati sul linguaggio del DNA hanno progettato da zero batteriofagi funzionanti, capaci di infettare batteri e superarne le resistenze.",
+        "whyItMatters": "Il risultato apre prospettive inedite per la terapia fagica e la biologia sintetica, ma la capacità di generare virus pone anche interrogativi urgenti su quanto siano originali queste forme di vita artificiali e su come governare una tecnologia potenzialmente pericolosa.",
+        "confirmedFacts": [
+          "Per la prima volta, modelli di IA addestrati sul linguaggio del DNA hanno progettato da zero batteriofagi funzionanti, capaci di infettare batteri e superarne le resistenze.",
+          "Il risultato apre prospettive inedite per la terapia fagica e la biologia sintetica, ma la capacità di generare virus pone anche interrogativi urgenti su quanto siano originali queste forme di vita artificiali e su come governare una tecnologia potenzialmente pericolosa.",
+          "Il 6 agosto 2026, un team di ricercatori guidato da Brian L.",
+          "Hie ha pubblicato su Science uno studio intitolato “Generative design of bacteriophages with genome language models” che segna un punto di svolta:",
+          "Non si tratta di semplici copie di virus esistenti, ma di genomi completamente nuovi, con sequenze che non si trovano in natura, architetture genetiche riorganizzate e soluzioni evolutive inedite."
+        ],
+        "uncertainties": [
+          "E come governare una tecnologia che potrebbe diventare tanto potente quanto pericolosa?"
+        ],
+        "peopleAndOrganizations": [
+          "Brian L. Hie",
+          "Science"
+        ],
+        "numbersAndDates": [
+          "Il 6 agosto 2026, un team di ricercatori guidato da Brian L."
+        ]
+      }
+    },
+    {
+      "id": "story-42681a9affb5bcdb",
+      "title": "Roman Space Telescope, due giorni al lancio",
+      "summary": "Il lancio è in programma per domenica 30 agosto alle 13:26 ora italiana. Sarà il primo telescopio spaziale dedicato a una scienziata, Nancy Grace Roman, prima Chief Astronomer della Nasa. Con il consenso dell'autrice, Patrizia Caraveo, vi riproponiamo questo articolo pubblicato la settimana scorsa sul Sole24Ore",
+      "spokenText": "Domenica 30 agosto, alle 13:26 ora italiana, è in programma il lancio del Roman Space Telescope. È infatti un omaggio a Nancy Grace Roman, la prima Chief Astronomer nella storia dell’agenzia americana, una figura che ha aperto la strada all’astronomia dallo spazio. Per approfondire il profilo di questa scienziata e il contesto del lancio, vi riproponiamo un articolo di Patrizia Caraveo pubblicato la scorsa settimana sulle pagine del Sole24Ore.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "roman space telescope",
+        "nasa",
+        "nancy grace roman",
+        "patrizia caraveo",
+        "sole24ore"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 28,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/28/roman-space-telescope-due-giorni-al-lancio/"
+      },
+      "analysis": {
+        "mainFact": "Il lancio del Roman Space Telescope è in programma per domenica 30 agosto alle 13:26 ora italiana.",
+        "whyItMatters": "Nancy Grace Roman, prima Chief Astronomer della NASA.",
+        "confirmedFacts": [
+          "Il lancio del Roman Space Telescope è in programma per domenica 30 agosto alle 13:26 ora italiana.",
+          "Nancy Grace Roman, prima Chief Astronomer della NASA.",
+          "Patrizia Caraveo, vi riproponiamo questo articolo pubblicato la settimana scorsa sul Sole24Ore"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Roman Space Telescope",
+          "NASA",
+          "Nancy Grace Roman",
+          "Patrizia Caraveo",
+          "Sole24Ore"
+        ],
+        "numbersAndDates": [
+          "30",
+          "13",
+          "26"
+        ]
+      }
+    },
+    {
+      "id": "story-20c8c6c1d4cd4ac9",
+      "title": "Anthropic lancia MHS: lo standard che porta l’AI nei robot",
+      "summary": "Dopo il successo di MCP, Anthropic presenta Model Hardware Standard, un protocollo per collegare gli agenti AI a robot e apparecchiature. The post Anthropic lancia MHS: lo standard che porta l’AI nei robot appeared first on Punto Informatico.",
+      "spokenText": "Model Hardware Standard, un protocollo pensato per connettere gli agenti di intelligenza artificiale direttamente a robot e apparecchiature fisiche. Genentech ha usato sistemi di questo tipo per orchestrare la strumentazione di laboratorio. A testimonianza di quanto l’interoperabilità tra robot mobili sia un tema già attenzionato, va ricordato che MassRobotics aveva pubblicato la versione 1. 0 del proprio standard nel maggio del 2021, un lavoro che è finito persino sotto la lente dell’ISO. Anthropic pubblicava nella relativa indifferenza generale un protocollo aperto battezzato MCP , pensato per collegare gli assistenti AI ai software di uso quotidiano . Anthropic vuole creare un MCP per l’hardware: ecco il nuovo standard MHS Anthropic sta portando Claude dal software al mondo fisico: Genentech lo ha usato per orchestrare apparecchiature di laboratorio, mentre QuEra riferisce un 99,3% di successo nel controllo di computer quantistici.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "anthropic",
+        "mhs",
+        "mcp",
+        "genentech",
+        "quera",
+        "massrobotics",
+        "iso"
+      ],
+      "importance": 95,
+      "mustInclude": true,
+      "estimatedSeconds": 56,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/anthrropic-lancia-mhs-standard-ai-robot/"
+      },
+      "analysis": {
+        "mainFact": "Anthropic lancia MHS (Model Hardware Standard), un protocollo per collegare gli agenti AI a robot e apparecchiature.",
+        "whyItMatters": "Anthropic presenta Model Hardware Standard, un protocollo per collegare gli agenti AI a robot e apparecchiature.",
+        "confirmedFacts": [
+          "Anthropic lancia MHS (Model Hardware Standard), un protocollo per collegare gli agenti AI a robot e apparecchiature.",
+          "Anthropic presenta Model Hardware Standard, un protocollo per collegare gli agenti AI a robot e apparecchiature.",
+          "Anthropic pubblicava nella relativa indifferenza generale un protocollo aperto battezzato MCP , pensato per collegare gli assistenti AI ai software di uso quotidiano .",
+          "Anthropic vuole creare un MCP per l’hardware: ecco il nuovo standard MHS Anthropic sta portando Claude dal software al mondo fisico: Genentech lo ha usato per orchestrare apparecchiature di laboratorio, mentre QuEra riferisce un 99,3% di successo nel controllo di computer quantistici.",
+          "Lato robot mobili, lo standard di interoperabilità di MassRobotics, pubblicato in versione 1. 0 nel maggio 2021, interessa persino l’ISO."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Anthropic",
+          "MHS",
+          "MCP",
+          "Genentech",
+          "QuEra",
+          "MassRobotics",
+          "ISO"
+        ],
+        "numbersAndDates": [
+          "Anthropic pubblicava nella relativa indifferenza generale un protocollo aperto battezzato MCP , pensato per collegare gli assistenti AI ai software di uso quotidiano .",
+          "Anthropic vuole creare un MCP per l’hardware: ecco il nuovo standard MHS Anthropic sta portando Claude dal software al mondo fisico: Genentech lo ha usato per orchestrare apparecchiature di laboratorio, mentre QuEra riferisce un 99,3% di successo nel controllo di computer quantistici.",
+          "Lato robot mobili, lo standard di interoperabilità di MassRobotics, pubblicato in versione 1. 0 nel maggio 2021, interessa persino l’ISO."
+        ]
+      }
+    },
+    {
+      "id": "story-c44d002dc361354f",
+      "title": "Collisione all’origine del buco nero in fuga",
+      "summary": "Una violenta e spettacolare collisione tra due buchi neri supermassicci all'interno della fusione tra due galassie: è questa la probabile origine di Rbh-1, il primo buco nero supermassiccio “in fuga“ mai osservato. Pubblicato su Physical Review Letters, è un risultato che servirà a orientare le future osservazioni di onde gravitazionali dallo spazio e gli studi sul merging di galassie",
+      "spokenText": "A volte, da questa fusione può nascere un buco nero che viene letteralmente scagliato via a velocità vertiginosa. L’origine di questa collisione così estrema, capace di generare un buco nero in fuga, è stata ora ricostruita attraverso uno studio pubblicato su Physical Review Letters. Si tratta di una documentazione importante perché offre una base teorica solida per interpretare i futuri segnali che verranno captati dai rilevatori di onde gravitazionali nello spazio.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "physical review letters"
+      ],
+      "importance": 85,
+      "mustInclude": true,
+      "estimatedSeconds": 29,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/27/ricostruita-collisione-rbh-1/"
+      },
+      "analysis": {
+        "mainFact": "Collisione all’origine del buco nero in fuga",
+        "whyItMatters": "Il risultato, pubblicato su Physical Review Letters, servirà a orientare le future osservazioni di onde gravitazionali dallo spazio e gli studi sul merging di galassie.",
+        "confirmedFacts": [
+          "Collisione all’origine del buco nero in fuga",
+          "Il risultato, pubblicato su Physical Review Letters, servirà a orientare le future osservazioni di onde gravitazionali dallo spazio e gli studi sul merging di galassie.",
+          "Pubblicato su Physical Review Letters, è un risultato che servirà a orientare le future osservazioni di onde gravitazionali dallo spazio e gli studi sul merging di galassie"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Physical Review Letters"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-27901d2097be7485",
+      "title": "Cosa non mi convince nella corsa ai data center italiani, dalla Puglia al Trentino di Intacture",
+      "summary": "I data center funzionano come un'industria pesante: divorano energia costante, suolo ed enormi quantità d'acqua per raffreddarsi. In Italia le richieste di allaccio a Terna hanno superato gli 80 gigawatt, ma si tratta per lo più di una bolla speculativa.",
+      "spokenText": "In Italia le richieste di allaccio alla rete elettrica per data center hanno superato gli 80 gigawatt, ma secondo Terna si tratta in gran parte di una bolla speculativa. La corsa all’intelligenza artificiale spinge verso infrastrutture enormi, con un impatto pesante su energia, consumo di suolo e risorse idriche. Quella attorno ai data center si prospetta come una delle lotte sociali e ambientali più rilevanti dei prossimi anni. Dagli Stati Uniti all’Italia: perché le comunità locali si oppongono ai data center.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "italia",
+        "terna",
+        "intacture"
       ],
       "importance": 82,
       "mustInclude": true,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/08/26/news/guerra_russia_ucraina_putin_boccia_pace_zelensky_prende_aziende-425547179/"
-      },
-      "analysis": {
-        "mainFact": "Putin ha respinto il piano di pace di Zelensky che prevedeva una zona economica libera per il Donbass e ha firmato un decreto per commissariare le aziende russe.",
-        "whyItMatters": "Cremlino respinge il piano di pace di Zelensky con zona economica libera",
-        "confirmedFacts": [
-          "Putin ha respinto il piano di pace di Zelensky che prevedeva una zona economica libera per il Donbass e ha firmato un decreto per commissariare le aziende russe.",
-          "Cremlino respinge il piano di pace di Zelensky con zona economica libera",
-          "Lo zar respinge l’idea di rendere il Donbass una zona franca: “È un nostro territorio”."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Donbass"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-6e2b6e4071359121",
-      "title": "La Cina contro gli Stati Uniti: «Sanzioni all’Iran illegali»",
-      "summary": "Le autorità di Pechino: «Noi sempre corretti, agiremo fermamente per difendere i nostri interessi». Ma gli Usa insistono nel «D-Day economico» per isolare Teheran dai suoi partner",
-      "spokenText": "La Cina ha definito illegali le sanzioni unilaterali imposte dagli Stati Uniti all'Iran e ha annunciato che agirà per difendere i propri interessi. È la risposta ufficiale di Pechino al cosiddetto D-Day economico lanciato da Donald Trump per isolare Teheran con sanzioni durissime e minacce anche ai partner commerciali del regime. \"Abbiamo già dichiarato molte volte che ci opponiamo fermamente alle sanzioni unilaterali illegali\", aggiungendo che la Cina \"adotterà tutte le misure necessarie per salvaguardare fermamente i propri diritti e interessi legittimi\".",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "cina",
-        "stati uniti",
-        "iran",
-        "donald trump"
-      ],
-      "importance": 70,
-      "mustInclude": true,
       "estimatedSeconds": 33,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/la-cina-contro-stati-uniti-sanzioni-all-iran-illegali-AJa1Jbu"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/data-center-italia-consumo-acqua-energia-rischi/"
       },
       "analysis": {
-        "mainFact": "La Cina ha definito illegali le sanzioni degli Stati Uniti all'Iran e ha dichiarato che agirà per difendere i propri interessi.",
-        "whyItMatters": "Ma gli Usa insistono nel «D-Day economico» per isolare Teheran dai suoi partner",
+        "mainFact": "In Italia le richieste di allaccio alla rete elettrica per data center hanno superato gli 80 gigawatt, ma si tratta per lo più di una bolla speculativa.",
+        "whyItMatters": "Dagli Stati Uniti all’Italia: perché le comunità locali si oppongono ai data center",
         "confirmedFacts": [
-          "La Cina ha definito illegali le sanzioni degli Stati Uniti all'Iran e ha dichiarato che agirà per difendere i propri interessi.",
-          "Ma gli Usa insistono nel «D-Day economico» per isolare Teheran dai suoi partner",
-          "\"Abbiamo gi dichiarato molte volte che ci opponiamo fermamente alle sanzioni unilaterali illegali\", ha spiegato Lin, aggiungendo che la Cina \"adotter tutte le misure necessarie per salvaguardare fermamente i propri diritti e interessi legittimi\".",
-          "Pechino, 'sanzioni Usa a Iran sono illegali, tuteleremo i nostri interessi'",
-          "È questa la risposta ufficiale di Pechino al «D-Day economico» lanciato dagli Stati Uniti di Donald Trump per isolare l’Iran con sanzioni durissime e minacce anche ai partner commerciali del regime di Teheran."
+          "In Italia le richieste di allaccio alla rete elettrica per data center hanno superato gli 80 gigawatt, ma si tratta per lo più di una bolla speculativa.",
+          "Dagli Stati Uniti all’Italia: perché le comunità locali si oppongono ai data center",
+          "La corsa all’IA richiede enormi data center: energia, consumo di suolo e risorse idriche.",
+          "Quella attorno ai data center si prospetta come una delle lotte sociali e ambientali più rilevanti dei prossimi anni."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Cina",
-          "Stati Uniti",
-          "Iran",
-          "Donald Trump"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-7854c33debba6de2",
-      "title": "Volkswagen: metà dei 50mila nuovi tagli riguarderà la Germania",
-      "summary": "Alla porta Est del gigantesco complesso industriale di Wolfsburg, i dipendenti della Volkswagen si incrociano per il cambio turno delle 2 del pomeriggio. Passano alla spicciolata davanti a un paio...",
-      "spokenText": "Alla porta Est del gigantesco complesso industriale di Wolfsburg, i dipendenti della Volkswagen si incrociano per il cambio turno delle due del pomeriggio. Passano alla spicciolata davanti a un paio di troupe televisive, pochi hanno voglia di fermarsi a commentare le indiscrezioni su un nuovo, imponente piano di risparmi. L'azienda sta infatti delineando un percorso per risollevare il margine operativo lordo dall'attuale 3,8%, un intervento che, secondo i parametri discussi, porterebbe a sacrificare altri 50mila posti in tutto il mondo entro il 2030. Di questi nuovi esuberi, metà riguarderebbero proprio la Germania. Si tratterebbe di un'ulteriore sforbiciata, che andrebbe a sommarsi alle 50mila uscite già in corso in base all'accordo raggiunto nel 2024, al prezzo di scioperi, scontri e compromessi. Nel suo discorso, diffuso dall'azienda, il management ha tuttavia sottolineato che questa cifra si basa su un parametro teorico, volto ad allineare i costi di Volkswagen a quelli dei concorrenti, e già qualche giorno fa era stato precisato che non si tratta di un obiettivo fisso.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "volkswagen",
-        "germania",
-        "wolfsburg"
-      ],
-      "importance": 85,
-      "mustInclude": true,
-      "estimatedSeconds": 67,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/volkswagen-presidente-comitato-aziendale-la-fiducia-cda-e-compromessa-AJdNAHu"
-      },
-      "analysis": {
-        "mainFact": "Volkswagen: metà dei 50mila nuovi tagli riguarderà la Germania",
-        "whyItMatters": "Passano alla spicciolata davanti a un paio di troupe televisive, pochi hanno voglia di fermarsi a",
-        "confirmedFacts": [
-          "Volkswagen: metà dei 50mila nuovi tagli riguarderà la Germania",
-          "Passano alla spicciolata davanti a un paio di troupe televisive, pochi hanno voglia di fermarsi a",
-          "Il piano di risparmi per risollevare il margine operativo lordo dall’attuale 3,8% porterebbe a sacrificare altri 50mila posti in tutto il mondo entro il 2030.",
-          "Si sommerebbero alle 50mila uscite già in corso in base all’accordo raggiunto nel 2024, al prezzo di scioperi, scontri e compromessi.",
-          "Nel suo discorso, diffuso dall’azienda, ha sottolineato che i 50mila nuovi esuberi si basano su un parametro teorico, volto ad allineare i costi di Volkswagen a quelli dei concorrenti (già qualche giorno fa, aveva detto che non si tratta di «un obiettivo fisso»).",
-          "Alla porta Est del gigantesco complesso industriale di Wolfsburg, i dipendenti della Volkswagen si incrociano per il cambio turno delle 2 del pomeriggio."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Volkswagen",
-          "Germania",
-          "Wolfsburg"
+          "Italia",
+          "Terna",
+          "Intacture"
         ],
         "numbersAndDates": [
-          "Il piano di risparmi per risollevare il margine operativo lordo dall’attuale 3,8% porterebbe a sacrificare altri 50mila posti in tutto il mondo entro il 2030.",
-          "Si sommerebbero alle 50mila uscite già in corso in base all’accordo raggiunto nel 2024, al prezzo di scioperi, scontri e compromessi.",
-          "Alla porta Est del gigantesco complesso industriale di Wolfsburg, i dipendenti della Volkswagen si incrociano per il cambio turno delle 2 del pomeriggio."
+          "80"
         ]
       }
     },
     {
-      "id": "story-5dd95a7da3af2c1d",
-      "title": "Il Canada risponde «dollaro su dollaro» ai dazi di Trump",
-      "summary": "Il governo di Mark Carney sfida gli Usa: tariffe per 20 miliardi sull’import di 700 prodotti americani",
-      "spokenText": "Il governo canadese guidato da Mark Carney ha formalizzato la sua risposta ai dazi imposti dall’amministrazione statunitense, annunciando una misura di ritorsione che definisce speculare. Ottawa ha introdotto tariffe per un valore di 20 miliardi di dollari, colpendo l’importazione di circa 700 prodotti americani. Il Canada annuncia dazi di ritorsione 'dollaro per dollaro' sugli Stati Uniti fino al 50%.",
-      "category": "attualita",
+      "id": "story-b619b81c84e4f64f",
+      "title": "Cyberattacco contro tre aeroporti in Gb, 'hacker hanno chiesto riscatto'",
+      "summary": "Media, 'il gruppo criminale responsabile è noto alle autorità'",
+      "spokenText": "Un attacco informatico ha preso di mira tre aeroporti nel Regno Unito, con gli hacker che hanno avanzato una richiesta di riscatto. Il gruppo criminale responsabile, secondo i media, è noto alle autorità del Regno Unito e già responsabile di azioni simili nel resto del mondo.",
+      "category": "tecnologia",
       "tags": [
-        "attualita",
-        "canada",
-        "mark carney"
+        "tecnologia",
+        "regno unito",
+        "manchester evening news"
       ],
       "importance": 75,
       "mustInclude": true,
-      "estimatedSeconds": 24,
+      "estimatedSeconds": 19,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/il-canada-risponde-dollaro-dollaro-dazi-trump-AJzrTRu"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/28/cyberattacco-contro-tre-aeroporti-in-gb-hacker-hanno-chiesto-riscatto_d4828aaa-1cda-40dd-9fed-a12c4ee24395.html"
       },
       "analysis": {
-        "mainFact": "Il Canada risponde «dollaro su dollaro» ai dazi di Trump",
-        "whyItMatters": "Il governo di Mark Carney ha annunciato tariffe per 20 miliardi di dollari sull'import di 700 prodotti americani.",
+        "mainFact": "Cyberattacco contro tre aeroporti in Gb, 'hacker hanno chiesto riscatto'",
+        "whyItMatters": "Il gruppo criminale responsabile, secondo i media, è noto alle autorità del Regno Unito e già responsabile di azioni simili nel resto del mondo.",
         "confirmedFacts": [
-          "Il Canada risponde «dollaro su dollaro» ai dazi di Trump",
-          "Il governo di Mark Carney ha annunciato tariffe per 20 miliardi di dollari sull'import di 700 prodotti americani.",
-          "Il Canada annuncia dazi di ritorsione 'dollaro per dollaro' sugli Stati Uniti fino al 50%."
+          "Cyberattacco contro tre aeroporti in Gb, 'hacker hanno chiesto riscatto'",
+          "Il gruppo criminale responsabile, secondo i media, è noto alle autorità del Regno Unito e già responsabile di azioni simili nel resto del mondo.",
+          "Media, 'il gruppo criminale responsabile è noto alle autorità'",
+          "Lo rivela il Manchester Evening News, secondo cui si tratta di un gruppo criminale noto alle autorit del Regno Unito e gi responsabile di azioni simili nel resto del mondo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Canada",
-          "Mark Carney"
-        ],
-        "numbersAndDates": [
-          "Il Canada annuncia dazi di ritorsione 'dollaro per dollaro' sugli Stati Uniti fino al 50%.",
-          "20",
-          "700"
-        ]
-      }
-    },
-    {
-      "id": "story-2b6d3eb866bba06d",
-      "title": "OP 313: osservazione da record per Lst-1 e Magic",
-      "summary": "È il blazar più lontano mai registrato alle altissime energie: il flusso di fotoni gamma rilevato dai telescopi Lst-1 e Magic proviene da una distanza di circa otto miliardi di anni luce. L’analisi dei dati ha permesso di ottenere importanti informazioni sulla luce di fondo extragalattica, ovvero la radiazione elettromagnetica emessa da tutte le stelle durante l’intera evoluzione dell’universo",
-      "spokenText": "I telescopi Lst-1 e Magic hanno osservato il blazar più lontano mai registrato alle altissime energie. Stiamo parlando di OP 313, un oggetto celeste il cui flusso di fotoni gamma arriva a noi dopo un viaggio di circa otto miliardi di anni luce. Un'osservazione da record per entrambi gli strumenti, che ha permesso di raccogliere dati preziosi sulla luce di fondo extragalattica, quella radiazione diffusa emessa da tutte le stelle nel corso dell'evoluzione dell'universo. Analizzando come i fotoni gamma interagiscono con questa luce di fondo durante il loro lunghissimo tragitto, i ricercatori possono ottenere informazioni importanti sulla storia cosmica e sulla densità delle sorgenti stellari nelle diverse epoche. L'osservazione di OP 313 rappresenta un risultato concreto per Lst-1 e Magic, dimostrando la capacità di spingersi a distanze estreme e di studiare l'universo primordiale attraverso la radiazione gamma.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "lst 1",
-        "magic"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 55,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/24/op-313-lst-1-magic/"
-      },
-      "analysis": {
-        "mainFact": "I telescopi Lst-1 e Magic hanno osservato il blazar più lontano mai registrato alle altissime energie, il cui flusso di fotoni gamma proviene da una distanza di circa otto miliardi di anni luce.",
-        "whyItMatters": "L'analisi dei dati ha permesso di ottenere importanti informazioni sulla luce di fondo extragalattica, la radiazione emessa da tutte le stelle durante l'evoluzione dell'universo.",
-        "confirmedFacts": [
-          "I telescopi Lst-1 e Magic hanno osservato il blazar più lontano mai registrato alle altissime energie, il cui flusso di fotoni gamma proviene da una distanza di circa otto miliardi di anni luce.",
-          "L'analisi dei dati ha permesso di ottenere importanti informazioni sulla luce di fondo extragalattica, la radiazione emessa da tutte le stelle durante l'evoluzione dell'universo.",
-          "OP 313: osservazione da record per Lst-1 e Magic"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Lst-1",
-          "Magic"
-        ],
-        "numbersAndDates": [
-          "OP 313: osservazione da record per Lst-1 e Magic",
-          "1"
-        ]
-      }
-    },
-    {
-      "id": "story-4eed42daacd38d48",
-      "title": "Apple svela il nuovo Mac Studio con chip M5 Max e M5 Ultra",
-      "summary": "Il nuovo Mac Studio integra i processori M5 Max e M5 Ultra, fino a 512 GB di RAM e SSD PCIe Gen 6 fino a 16 TB (prezzi a partire da 3.049 euro). The post Apple svela il nuovo Mac Studio con chip M5 Max e M5 Ultra appeared first on Punto Informatico.",
-      "spokenText": "Apple ha appena svelato il nuovo Mac Studio, e i numeri sono davvero impressionanti. Il cuore di questa macchina batte grazie ai processori M5 Max e M5 Ultra. Il tutto ha naturalmente un prezzo importante: il modello base con M5 Max parte da 3.049 euro, mentre per portarsi a casa la versione con M5 Ultra il listino parte da 6.699 euro. Il nuovo Mac Studio integra processori M5 Max e M5 Ultra, fino a 512 GB di RAM e SSD PCIe Gen 6 fino a 16 TB, con prezzi a partire da 3.049 euro. Gli utenti possono acquistare versioni con il chip M5 Max (usato nei MacBook Pro da 14 e 16 pollici) e il nuovo M5 Ultra con CPU fino a 36 core, GPU fino a 80 core e Neural Engine a 32 core. Il nuovo Mac mini integra i processori M5 Pro e M6, fino a 64 GB di RAM e SSD fino a 8 TB, mentre il sistema operativo è macOS 27 Golden Gate.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "apple",
-        "mac studio",
-        "m5 max",
-        "m5 ultra"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 67,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/apple-svela-nuovo-mac-studio-chip-m5-max-m5-ultra/"
-      },
-      "analysis": {
-        "mainFact": "Apple svela il nuovo Mac Studio con chip M5 Max e M5 Ultra.",
-        "whyItMatters": "Il nuovo Mac Studio integra processori M5 Max e M5 Ultra, fino a 512 GB di RAM e SSD PCIe Gen 6 fino a 16 TB, con prezzi a partire da 3.049 euro.",
-        "confirmedFacts": [
-          "Apple svela il nuovo Mac Studio con chip M5 Max e M5 Ultra.",
-          "Il nuovo Mac Studio integra processori M5 Max e M5 Ultra, fino a 512 GB di RAM e SSD PCIe Gen 6 fino a 16 TB, con prezzi a partire da 3.049 euro.",
-          "I prezzi base sono 3.049 euro (M5 Max) e 6.699 euro (M5 Ultra).",
-          "Gli utenti possono acquistare versioni con il chip M5 Max (usato nei MacBook Pro da 14 e 16 pollici) e il nuovo M5 Ultra con CPU fino a 36 core, GPU fino a 80 core e Neural Engine a 32 core.",
-          "Apple svela il nuovo Mac Studio con chip M5 Max e M5 Ultra Il nuovo Mac Studio integra i processori M5 Max e M5 Ultra, fino a 512 GB di RAM e SSD PCIe Gen 6 fino a 16 TB (prezzi a partire da 3.049 euro).",
-          "Il nuovo Mac mini integra i processori M5 Pro e M6, fino a 64 GB di RAM e SSD fino a 8 TB, mentre il sistema operativo è macOS 27 Golden Gate.",
-          "Apple annuncia il nuovo Mac mini con chip M5 Pro e M6 Il nuovo Mac mini integra i processori M5 Pro e M6, fino a 64 GB di RAM e SSD fino a 8 TB, mentre il sistema operativo è macOS 27 Golden Gate.",
-          "Apple M6 e M5 Ultra: nuovi chip per Mac mini e Mac Studio I nuovi chip M6 e M5 Ultra dei Mac mini e Mac Studio integrano CPU fino a 36 core, GPU fino a 80 core e Neural Engine fino a 32 core."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Apple",
-          "Mac Studio",
-          "M5 Max",
-          "M5 Ultra"
-        ],
-        "numbersAndDates": [
-          "I prezzi base sono 3.049 euro (M5 Max) e 6.699 euro (M5 Ultra).",
-          "Gli utenti possono acquistare versioni con il chip M5 Max (usato nei MacBook Pro da 14 e 16 pollici) e il nuovo M5 Ultra con CPU fino a 36 core, GPU fino a 80 core e Neural Engine a 32 core.",
-          "Apple svela il nuovo Mac Studio con chip M5 Max e M5 Ultra Il nuovo Mac Studio integra i processori M5 Max e M5 Ultra, fino a 512 GB di RAM e SSD PCIe Gen 6 fino a 16 TB (prezzi a partire da 3.049 euro).",
-          "Il nuovo Mac mini integra i processori M5 Pro e M6, fino a 64 GB di RAM e SSD fino a 8 TB, mentre il sistema operativo è macOS 27 Golden Gate.",
-          "Apple annuncia il nuovo Mac mini con chip M5 Pro e M6 Il nuovo Mac mini integra i processori M5 Pro e M6, fino a 64 GB di RAM e SSD fino a 8 TB, mentre il sistema operativo è macOS 27 Golden Gate.",
-          "Apple M6 e M5 Ultra: nuovi chip per Mac mini e Mac Studio I nuovi chip M6 e M5 Ultra dei Mac mini e Mac Studio integrano CPU fino a 36 core, GPU fino a 80 core e Neural Engine fino a 32 core.",
-          "512",
-          "6",
-          "16",
-          "3.049"
-        ]
-      }
-    },
-    {
-      "id": "story-81f2f22728346661",
-      "title": "Cosa ho imparato dai processi contro gli attivisti climatici",
-      "summary": "Dai processi contro Ultima Generazione e Fridays For Future alle richieste danni a giornalisti e ONG: come le cause per diffamazione e le SLAPP vengono usate per arginare il dissenso, mentre i tribunali italiani si rivelano impreparati ad affrontare la complessità della crisi climatica.",
-      "spokenText": "Nel mirino finiscono attivisti climatici, come quelli di Ultima Generazione e Fridays For Future, ma anche giornalisti e organizzazioni non governative. Il quadro si complica ulteriormente perché i tribunali italiani si stanno rivelando impreparati a riconoscere e gestire questo tipo di controversie, che nascondono una strategia di censura dietro la facciata della tutela dell'onore.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "ultima generazione",
-        "fridays for future",
-        "italia"
-      ],
-      "importance": 92,
-      "mustInclude": true,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/eni-processi-attivisti-clima-slapp/"
-      },
-      "analysis": {
-        "mainFact": "Cause per diffamazione e SLAPP vengono usate contro attivisti climatici, giornalisti e ONG per arginare il dissenso, mentre i tribunali italiani si rivelano impreparati.",
-        "whyItMatters": "Analisi sull'uso di azioni legali strategiche per limitare il dissenso e l'attivismo climatico.",
-        "confirmedFacts": [
-          "Cause per diffamazione e SLAPP vengono usate contro attivisti climatici, giornalisti e ONG per arginare il dissenso, mentre i tribunali italiani si rivelano impreparati.",
-          "Analisi sull'uso di azioni legali strategiche per limitare il dissenso e l'attivismo climatico.",
-          "Dai processi contro Ultima Generazione e Fridays For Future alle richieste danni a giornalisti e ONG: come le cause per diffamazione e le SLAPP vengono usate per arginare il dissenso, mentre i tribunali italiani si rivelano impreparati ad affrontare la complessità della crisi climatica."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Ultima Generazione",
-          "Fridays For Future",
-          "Italia"
+          "Regno Unito",
+          "Manchester Evening News"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-685ea25957ebf314",
-      "title": "Esperti della NASA Ames disponibili per interviste sul telescopio spaziale Roman",
-      "summary": "Esperti della NASA Ames disponibili per interviste sul telescopio spaziale Roman Il telescopio spaziale Nancy Grace Roman della NASA consentirà agli astronomi di esplorare vaste regioni del cosmo e affrontare questioni essenziali su energia oscura, materia oscura, pianeti extrasolari e formazione delle galassie.",
-      "spokenText": "Esperti della NASA Ames disponibili per interviste sul telescopio spaziale Roman. Il telescopio spaziale Nancy Grace Roman della NASA consentirà agli astronomi di esplorare vaste regioni del cosmo e affrontare questioni essenziali su energia oscura, materia oscura, pianeti extrasolari e formazione delle galassie. NASA e SpaceX puntano al decollo di Roman non prima delle 7:26 del mattino.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "nancy grace roman space telescope",
-        "kennedy space center",
-        "spacex"
-      ],
-      "importance": 95,
-      "mustInclude": true,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-      },
-      "analysis": {
-        "mainFact": "Esperti della NASA Ames disponibili per interviste sul telescopio spaziale Roman",
-        "whyItMatters": "Il telescopio spaziale Nancy Grace Roman della NASA consentirà agli astronomi di esplorare vaste regioni del cosmo e affrontare questioni essenziali su energia oscura, materia oscura, pianeti extrasolari e formazione delle galassie.",
-        "confirmedFacts": [
-          "Esperti della NASA Ames disponibili per interviste sul telescopio spaziale Roman",
-          "Il telescopio spaziale Nancy Grace Roman della NASA consentirà agli astronomi di esplorare vaste regioni del cosmo e affrontare questioni essenziali su energia oscura, materia oscura, pianeti extrasolari e formazione delle galassie.",
-          "NASA e SpaceX puntano al decollo di Roman non prima delle 7:26 del mattino."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Nancy Grace Roman Space Telescope",
-          "Kennedy Space Center",
-          "SpaceX"
-        ],
-        "numbersAndDates": [
-          "NASA e SpaceX puntano al decollo di Roman non prima delle 7:26 del mattino."
-        ]
-      }
-    },
-    {
-      "id": "story-29c173523bcfb836",
-      "title": "I siti di rifiuti tossici mostrati nel documentario di Michael Sheen sono solo la punta dell'iceberg",
-      "summary": "I siti di rifiuti tossici mostrati nel documentario di Michael Sheen sono solo la punta dell'iceberg.",
-      "spokenText": "I siti di rifiuti tossici mostrati nel documentario di Michael Sheen sono solo la punta dell'iceberg. I PCB sono sospetti cancerogeni, quindi pensiamo che possano causare il cancro. L'inquinatore continua a farla franca a destra e a manca. Queste sostanze chimiche sono difficili da bonificare, ma non impossibili. ' Didascalia immagine: ci sono 12 località in Galles che erano siti di preoccupazione per Douglas Gowan.",
+      "id": "story-8ed74b58033062d1",
+      "title": "Un'inondazione improvvisa catastrofica ha colpito il Nepal settentrionale al confine con il Tibet, uccidendo almeno 157 persone e lasciandone",
+      "summary": "Un'inondazione improvvisa catastrofica ha colpito il Nepal settentrionale al confine con il Tibet, uccidendo almeno 157 persone e lasciandone centinaia disperse, inclusi almeno 34 australiani. Questo sembra aver prodotto un'enorme valanga di ghiaccio e roccia, abbastanza grande da generare un segnale sismico.",
+      "spokenText": "Un'inondazione improvvisa catastrofica ha colpito il Nepal settentrionale al confine con il Tibet, uccidendo almeno 157 persone e lasciandone centinaia disperse, inclusi almeno 34 australiani. Il ministero del Turismo nepalese ha riferito di 403 turisti di cui non si hanno notizie, tra cui 341 cittadini stranieri. L'evento sembra aver prodotto un'enorme valanga di ghiaccio e roccia, abbastanza grande da generare un segnale sismico. Le immagini satellitari mostrano la valanga che blocca il fiume con ghiaccio e detriti circa 20 chilometri a monte del confine tra Nepal e Tibet. Il fiume Trishuli è salito fino a nove metri in 30 minuti in un punto di monitoraggio a valle. Il Dipartimento delle Strade del Nepal afferma che almeno 19 ponti carrabili e circa 40 chilometri di strade sono stati danneggiati o spazzati via. Una strada di 42 chilometri che collega Betrawati con il valico di frontiera di Rasuwagadhi è stata distrutta in più punti.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "michael sheen",
-        "dr david megson",
-        "pcb"
+        "nepal",
+        "tibet",
+        "australia"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 26,
+      "estimatedSeconds": 61,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss"
+        "name": "The Conversation",
+        "url": "https://theconversation.com/nepals-flash-floods-show-the-devastating-power-of-cascading-hazards-290611"
       },
       "analysis": {
-        "mainFact": "I siti di rifiuti tossici mostrati nel documentario di Michael Sheen sono solo la punta dell'iceberg.",
-        "whyItMatters": "Documentario svela migliaia di siti tossici nel Regno Unito. Impatto su salute pubblica e ambiente.",
+        "mainFact": "Un'inondazione improvvisa catastrofica ha colpito il Nepal settentrionale al confine con il Tibet, uccidendo almeno 157 persone e lasciandone centinaia disperse, inclusi almeno 34 australiani.",
+        "whyItMatters": "Questo sembra aver prodotto un'enorme valanga di ghiaccio e roccia, abbastanza grande da generare un segnale sismico.",
         "confirmedFacts": [
-          "I siti di rifiuti tossici mostrati nel documentario di Michael Sheen sono solo la punta dell'iceberg.",
-          "Documentario svela migliaia di siti tossici nel Regno Unito. Impatto su salute pubblica e ambiente.",
-          "'I PCB sono sospetti cancerogeni, quindi pensiamo che possano causare il cancro.",
-          "'L'inquinatore continua a farla franca a destra e a manca. ' Didascalia immagine: ci sono 12 località in Galles che erano siti di preoccupazione per Douglas Gowan. Queste sostanze chimiche sono difficili da bonificare, ma non impossibili."
+          "Un'inondazione improvvisa catastrofica ha colpito il Nepal settentrionale al confine con il Tibet, uccidendo almeno 157 persone e lasciandone centinaia disperse, inclusi almeno 34 australiani.",
+          "Questo sembra aver prodotto un'enorme valanga di ghiaccio e roccia, abbastanza grande da generare un segnale sismico.",
+          "Il ministero del Turismo del Nepal ha riferito di 403 turisti di cui non si hanno notizie, inclusi 341 cittadini stranieri.",
+          "È stato riferito che il fiume Trishuli è salito fino a nove metri in 30 minuti in un punto di monitoraggio a valle.",
+          "Le immagini satellitari sembrano mostrare la valanga che blocca il fiume con ghiaccio e detriti circa 20 km a monte del confine Nepal-Tibet.",
+          "Il Dipartimento delle Strade del Nepal afferma che almeno 19 ponti carrabili e circa 40 chilometri di strade sono stati danneggiati o spazzati via.",
+          "Una strada di 42 km che collega Betrawati con il valico di frontiera di Rasuwagadhi tra il Nepal e la regione autonoma cinese del Tibet è stata distrutta in più punti."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Michael Sheen",
-          "Dr David Megson",
-          "PCB"
+          "Nepal",
+          "Tibet",
+          "Australia"
         ],
         "numbersAndDates": [
-          "'I PCB sono sospetti cancerogeni, quindi pensiamo che possano causare il cancro.",
-          "'L'inquinatore continua a farla franca a destra e a manca. ' Didascalia immagine: ci sono 12 località in Galles che erano siti di preoccupazione per Douglas Gowan. Queste sostanze chimiche sono difficili da bonificare, ma non impossibili."
+          "Il ministero del Turismo del Nepal ha riferito di 403 turisti di cui non si hanno notizie, inclusi 341 cittadini stranieri.",
+          "È stato riferito che il fiume Trishuli è salito fino a nove metri in 30 minuti in un punto di monitoraggio a valle.",
+          "Le immagini satellitari sembrano mostrare la valanga che blocca il fiume con ghiaccio e detriti circa 20 km a monte del confine Nepal-Tibet.",
+          "Il Dipartimento delle Strade del Nepal afferma che almeno 19 ponti carrabili e circa 40 chilometri di strade sono stati danneggiati o spazzati via.",
+          "Una strada di 42 km che collega Betrawati con il valico di frontiera di Rasuwagadhi tra il Nepal e la regione autonoma cinese del Tibet è stata distrutta in più punti.",
+          "157",
+          "34"
         ]
       }
     },
     {
-      "id": "story-62cedc920cdf33e0",
-      "title": "Un'operazione globale contro reti di cyber-crimine dell'Africa occidentale ha portato all'arresto di 39 persone in Sudafrica per truffe sentimentali e sugli investimenti",
-      "summary": "Un'operazione globale contro reti di cyber-crimine dell'Africa occidentale ha portato all'arresto di 39 persone in Sudafrica per truffe sentimentali e sugli investimenti.",
-      "spokenText": "Un'operazione globale contro le reti di cyber-crimine dell'Africa occidentale ha portato all'arresto di 39 persone in Sudafrica, accusate di truffe sentimentali e sugli investimenti. L'operazione si inserisce Black Axe è una delle organizzazioni criminali più strutturate nel panorama del cyber-crimine africano, nota per la capacità di gestire frodi su scala internazionale. South African police made 39 arrests, seized $2. 67m (£1. 96m) and blocked 257 bank accounts. Nel 2024, l'operazione Jackal III ha portato all'arresto di 300 persone legate a Black Axe e ad altri gruppi affiliati.",
-      "category": "tecnologia",
+      "id": "story-556c10468654e986",
+      "title": "Undici cittadini hanno ottenuto dai giudici lo stop dell'area a caldo della più grande acciaieria d'Europa",
+      "summary": "Mentre la città dei due mari ospita i Giochi del Mediterraneo, undici cittadini hanno ottenuto dai giudici lo stop dell’area a caldo della più grande acciaieria d’Europa, che ha ridotto Taranto per l’ONU a “zona di sacrificio” a causa dei danni ambientali e sanitari a bambini e operai. Un impianto strategico che perde oltre 3 milioni di euro al giorno. Tornerà ad abbracciare il proprio futuro, come ha augurato il Presidente della Repubblica?",
+      "spokenText": "Undici cittadini hanno ottenuto dai giudici lo stop dell'area a caldo della più grande acciaieria d'Europa. Un provvedimento che arriva mentre l'impianto perde oltre tre milioni di euro al giorno, secondo dati documentati. L'ONU ha definito Taranto 'zona di sacrificio' per i danni ambientali e sanitari subiti dalla popolazione. In questo contesto, il Presidente della Repubblica ha augurato alla città di tornare ad abbracciare il proprio futuro.",
+      "category": "ambiente",
       "tags": [
-        "tecnologia",
-        "black axe"
+        "ambiente",
+        "taranto",
+        "giochi del mediterraneo",
+        "onu",
+        "presidente della repubblica"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": true,
-      "estimatedSeconds": 35,
+      "estimatedSeconds": 27,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/ex-ilva-taranto-storia-futuro-salute-lavoro/"
       },
       "analysis": {
-        "mainFact": "Un'operazione globale contro reti di cyber-crimine dell'Africa occidentale ha portato all'arresto di 39 persone in Sudafrica per truffe sentimentali e sugli investimenti.",
-        "whyItMatters": "Arresti di massa contro reti di cyber-crimine in Africa occidentale. Impatti su sicurezza digitale globale.",
+        "mainFact": "Undici cittadini hanno ottenuto dai giudici lo stop dell'area a caldo della più grande acciaieria d'Europa.",
+        "whyItMatters": "ma perde oltre 3 milioni di euro al giorno. Mentre l'ONU ha definito Taranto 'zona di sacrificio' per i danni ambientali e sanitari.",
         "confirmedFacts": [
-          "Un'operazione globale contro reti di cyber-crimine dell'Africa occidentale ha portato all'arresto di 39 persone in Sudafrica per truffe sentimentali e sugli investimenti.",
-          "Arresti di massa contro reti di cyber-crimine in Africa occidentale. Impatti su sicurezza digitale globale.",
-          "South African police made 39 arrests, seized $2. 67m (£1. 96m) and blocked 257 bank accounts.",
-          "Nel 2024, l'operazione Jackal III ha portato all'arresto di 300 persone legate a Black Axe e ad altri gruppi affiliati."
+          "Undici cittadini hanno ottenuto dai giudici lo stop dell'area a caldo della più grande acciaieria d'Europa.",
+          "ma perde oltre 3 milioni di euro al giorno. Mentre l'ONU ha definito Taranto 'zona di sacrificio' per i danni ambientali e sanitari.",
+          "Tornerà ad abbracciare il proprio futuro, come ha augurato il Presidente della Repubblica?"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Black Axe"
+          "Taranto",
+          "Giochi del Mediterraneo",
+          "ONU",
+          "Presidente della Repubblica"
         ],
         "numbersAndDates": [
-          "South African police made 39 arrests, seized $2. 67m (£1. 96m) and blocked 257 bank accounts.",
-          "Nel 2024, l'operazione Jackal III ha portato all'arresto di 300 persone legate a Black Axe e ad altri gruppi affiliati.",
-          "39"
+          "3"
         ]
       }
     },
     {
-      "id": "story-448add50b7cc62c1",
-      "title": "Due persone non vaccinate sono morte di morbillo in Pennsylvania",
-      "summary": "Due persone non vaccinate sono morte di morbillo in Pennsylvania.",
-      "spokenText": "Due persone non vaccinate sono morte di morbillo in Pennsylvania. La vaccinazione rimane lo strumento principale per prevenire la diffusione del morbillo. Il decesso di due persone non vaccinate sottolinea l'importanza della copertura vaccinale.",
-      "category": "salute",
+      "id": "story-d0576212caf16ad7",
+      "title": "L'Istituto Superiore di Sanità ha confermato la morte per difterite della piccola Anna Rosa a Palermo",
+      "summary": "La conferma dell’Istituto Superiore di Sanità sulla morte per difterite della piccola Anna Rosa a Palermo non chiude solo un caso clinico, ma apre una riflessione urgente sulla responsabilità collettiva e sui meccanismi della disinformazione.",
+      "spokenText": "L’Istituto Superiore di Sanità ha confermato la morte per difterite della piccola Anna Rosa, la bambina ricoverata a Palermo.",
+      "category": "diritti",
       "tags": [
-        "salute",
-        "pennsylvania",
-        "lancaster county"
+        "diritti",
+        "istituto superiore di sanita",
+        "anna rosa",
+        "palermo"
       ],
       "importance": 85,
       "mustInclude": true,
-      "estimatedSeconds": 14,
+      "estimatedSeconds": 8,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/bimba-difterite-palermo-vaccini-disinformazione/"
       },
       "analysis": {
-        "mainFact": "Due persone non vaccinate sono morte di morbillo in Pennsylvania.",
-        "whyItMatters": "Decessi per una malattia prevenibile in un paese sviluppato, segnale di un calo vaccinale preoccupante.",
+        "mainFact": "L'Istituto Superiore di Sanità ha confermato la morte per difterite della piccola Anna Rosa a Palermo.",
+        "whyItMatters": "Conferma ISS su morte per difterite: riaccende dibattito su disinformazione vaccinale e responsabilità.",
         "confirmedFacts": [
-          "Due persone non vaccinate sono morte di morbillo in Pennsylvania.",
-          "Decessi per una malattia prevenibile in un paese sviluppato, segnale di un calo vaccinale preoccupante.",
-          "The state has seen 393 cases of the highly contagious virus this year, as infections across the US have hit the highest point in 35 years.",
-          "Eighty-five percent of kindergarten-age students in Lancaster County, where the recent deaths occurred, are vaccinated against measles - well below the 95% rate needed for herd immunity to limit the spread and protect immunocompromised people.",
-          "Last year, two unvaccinated children in Texas died from a measles outbreak that infected over 1,000 people, primarily children.",
-          "The US has seen 2,777 confirmed cases of measles in 2026, just seven months into the year, up from last year's high of 2,289.",
-          "The US recommends two shots to children between ages one and six, which is 97% effective in protecting against the illness."
+          "L'Istituto Superiore di Sanità ha confermato la morte per difterite della piccola Anna Rosa a Palermo.",
+          "Conferma ISS su morte per difterite: riaccende dibattito su disinformazione vaccinale e responsabilità.",
+          "La conferma dell’Istituto Superiore di Sanità sulla morte per difterite della piccola Anna Rosa a Palermo non chiude solo un caso clinico, ma apre una riflessione urgente sulla responsabilità collettiva e sui meccanismi della disinformazione."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Pennsylvania",
-          "Lancaster County"
+          "Istituto Superiore di Sanità",
+          "Anna Rosa",
+          "Palermo"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-f68c43109429ab31",
-      "title": "Una nuova antenna radio da 34 metri è stata aggiunta al Deep Space Network della NASA in California",
-      "summary": "Una nuova antenna radio da 34 metri è stata aggiunta al Deep Space Network della NASA in California.",
-      "spokenText": "La NASA ha appena potenziato la sua capacità di ascoltare il cosmo aggiungendo una nuova antenna radio di 34 metri al Deep Space Network in California. La struttura, denominata Deep Space Station 23, è entrata in funzione presso il Goldstone Deep Space Communications Complex, gestito dal Jet Propulsion Laboratory. 3, tracking NASA’s Chandra X-ray Observatory .",
-      "category": "scienza",
+      "id": "story-300d3edc21b592ef",
+      "title": "Spari ed esplosioni a Niamey per un tentato golpe, confermato dalla giunta nigerina",
+      "summary": "Gli attacchi arrivano a poco più di due mesi dall’attentato jihadista dei JNIM",
+      "spokenText": "Spari ed esplosioni hanno scosso Niamey durante la notte, in quello che la giunta al potere in Niger ha definito un tentativo di colpo di stato. Gli scontri si sono verificati a poco più di due mesi dal grave attentato rivendicato dal gruppo jihadista Jama’at Nusrat al-Islam wal-Muslimin, costato la vita a decine di persone tra soldati, assalitori e civili. L’episodio si inserisce in un quadro di forte instabilità che coinvolge anche i confini con Mali e Burkina Faso.",
+      "category": "mondo",
       "tags": [
-        "scienza",
-        "nasa",
-        "deep space network",
-        "goldstone deep space communications complex",
-        "jet propulsion laboratory",
-        "deep space station 23"
+        "mondo",
+        "niger",
+        "niamey",
+        "jnim",
+        "mali",
+        "burkina faso"
       ],
-      "importance": 85,
+      "importance": 50,
       "mustInclude": true,
-      "estimatedSeconds": 23,
+      "estimatedSeconds": 32,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/niger-spari-ed-esplosioni-ad-aeroporto-e-palazzo-presidenziale-AJLmC8x"
       },
       "analysis": {
-        "mainFact": "Una nuova antenna radio da 34 metri è stata aggiunta al Deep Space Network della NASA in California.",
-        "whyItMatters": "Nuova antenna potenzia la rete di comunicazione interplanetaria della NASA, abilitando future missioni spaziali.",
+        "mainFact": "Spari ed esplosioni a Niamey per un tentato golpe, confermato dalla giunta nigerina.",
+        "whyItMatters": "Gli attacchi arrivano a poco più di due mesi dall’attentato jihadista dei JNIM",
         "confirmedFacts": [
-          "Una nuova antenna radio da 34 metri è stata aggiunta al Deep Space Network della NASA in California.",
-          "Nuova antenna potenzia la rete di comunicazione interplanetaria della NASA, abilitando future missioni spaziali.",
-          "3, tracking NASA’s Chandra X-ray Observatory ."
+          "Spari ed esplosioni a Niamey per un tentato golpe, confermato dalla giunta nigerina.",
+          "Gli attacchi arrivano a poco più di due mesi dall’attentato jihadista dei JNIM",
+          "Gli scontri sono iniziati nella notte e arrivano a poco più di due mesi dall’attentato rivendicato dai jihadisti di Jama’at Nusrat al-Islam wal-Muslimin , culminato in decine di vittime fra soldati, assalitori e civili."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "NASA",
-          "Deep Space Network",
-          "Goldstone Deep Space Communications Complex",
-          "Jet Propulsion Laboratory",
-          "Deep Space Station 23"
+          "Niger",
+          "Niamey",
+          "JNIM",
+          "Mali",
+          "Burkina Faso"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-9cbff152f137a855",
+      "title": "Il risultato potrebbe essere che entro il 2055 l'Inghilterra dovrà affrontare un deficit di cinque miliardi di litri nella fornitura pubblica di",
+      "summary": "Il risultato potrebbe essere che entro il 2055 l'Inghilterra dovrà affrontare un deficit di cinque miliardi di litri nella fornitura pubblica di acqua al giorno, quasi abbastanza da riempire lo stadio di Wembley quattro volte e mezzo al giorno. Le famiglie sono responsabili di quasi il 60% del consumo idrico in Inghilterra e Galles.",
+      "spokenText": "Entro il 2055 l'Inghilterra potrebbe trovarsi ad affrontare un deficit di cinque miliardi di litri al giorno nella fornitura pubblica di acqua, un volume quasi sufficiente a riempire lo stadio di Wembley quattro volte e mezzo. Le famiglie sono responsabili di quasi il 60% del consumo idrico in Inghilterra e Galles, e Nicci Russell, a capo di Waterwise, sottolinea che abbiamo raddoppiato la quantità di acqua usata a persona negli ultimi cinquant'anni. Se adottassimo modelli di consumo domestico più simili a quelli della Danimarca, dove i residenti usano 97 litri a testa al giorno, più della metà del deficit previsto verrebbe azzerato. Anche piccoli gesti conterebbero: ridurre di un minuto la doccia, con la crescita demografica attesa, farebbe risparmiare quasi un miliardo di litri al giorno entro il 2050. Come gran parte della metà inferiore dell'Inghilterra, la fattoria di Daniel, giunta alla quarta generazione, non aveva visto quasi pioggia per quasi tre mesi.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "waterwise"
+      ],
+      "importance": 82,
+      "mustInclude": true,
+      "estimatedSeconds": 62,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Il risultato potrebbe essere che entro il 2055 l'Inghilterra dovrà affrontare un deficit di cinque miliardi di litri nella fornitura pubblica di acqua al giorno, quasi abbastanza da riempire lo stadio di Wembley quattro volte e mezzo al giorno.",
+        "whyItMatters": "Le famiglie sono responsabili di quasi il 60% del consumo idrico in Inghilterra e Galles.",
+        "confirmedFacts": [
+          "Il risultato potrebbe essere che entro il 2055 l'Inghilterra dovrà affrontare un deficit di cinque miliardi di litri nella fornitura pubblica di acqua al giorno, quasi abbastanza da riempire lo stadio di Wembley quattro volte e mezzo al giorno.",
+          "Le famiglie sono responsabili di quasi il 60% del consumo idrico in Inghilterra e Galles.",
+          "I residenti in Danimarca ora consumano 97 litri di acqua a persona al giorno, secondo Danva, l'ente nazionale per l'industria dell'acqua e delle acque reflue.",
+          "Se avessimo modelli di consumo idrico domestico più simili a quelli della Danimarca, dice Russell, più della metà del deficit del 2055 verrebbe azzerato.",
+          "Russell dice che, anche con la crescita demografica prevista, se tutti in Inghilterra riducessero di un minuto il tempo della doccia, ad esempio, si risparmierebbero quasi un miliardo di litri d'acqua al giorno entro il 2050.",
+          "Era del suo ente locale per l'acqua e diceva: \"I livelli dei fiumi sono bassi ma si sono ripresi abbastanza da consentire una notte di irrigazione stasera. \" Come gran parte della metà inferiore dell'Inghilterra, la fattoria di Daniel, giunta alla quarta generazione, non aveva visto quasi pioggia per quasi tre mesi.",
+          "\"Abbiamo effettivamente raddoppiato la quantità di acqua che usiamo a persona, in media, negli ultimi 50, 60 anni,\" sottolinea Nicci Russell, che dirige Waterwise, un'organizzazione per campagne sull'efficienza idrica."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Waterwise"
         ],
         "numbersAndDates": [
-          "3, tracking NASA’s Chandra X-ray Observatory .",
-          "34"
+          "I residenti in Danimarca ora consumano 97 litri di acqua a persona al giorno, secondo Danva, l'ente nazionale per l'industria dell'acqua e delle acque reflue.",
+          "Se avessimo modelli di consumo idrico domestico più simili a quelli della Danimarca, dice Russell, più della metà del deficit del 2055 verrebbe azzerato.",
+          "Russell dice che, anche con la crescita demografica prevista, se tutti in Inghilterra riducessero di un minuto il tempo della doccia, ad esempio, si risparmierebbero quasi un miliardo di litri d'acqua al giorno entro il 2050.",
+          "\"Abbiamo effettivamente raddoppiato la quantità di acqua che usiamo a persona, in media, negli ultimi 50, 60 anni,\" sottolinea Nicci Russell, che dirige Waterwise, un'organizzazione per campagne sull'efficienza idrica.",
+          "2055",
+          "60"
         ]
       }
     }
