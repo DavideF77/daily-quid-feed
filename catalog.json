@@ -1,609 +1,595 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-09-01-7a23f88a85d8",
-  "generatedAt": "2026-09-01T09:43:28.435Z",
+  "catalogId": "daily-quid-2026-09-02-8359ea3f82a3",
+  "generatedAt": "2026-09-02T09:15:48.834Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-da4f81261898ed4c",
-      "title": "Il clima collassa, il governo tace e noi parliamo di Ranucci e woke",
-      "summary": "Tra caldo record, incendi e consumo di suolo, l'Italia affronta il collasso climatico con un Piano senza fondi. Analisi del ritardo istituzionale.",
-      "spokenText": "L'Italia sta affrontando il collasso climatico con un Piano che, al momento, è privo di fondi.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "italia"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 7,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/piano-clima-italia-governo-senza-fondi/"
-      },
-      "analysis": {
-        "mainFact": "L'Italia affronta il collasso climatico con un Piano privo di fondi, mentre si registrano caldo record, incendi e consumo di suolo.",
-        "whyItMatters": "Analisi su collasso climatico italiano e inazione politica, tema sistemico urgente.",
-        "confirmedFacts": [
-          "L'Italia affronta il collasso climatico con un Piano privo di fondi, mentre si registrano caldo record, incendi e consumo di suolo.",
-          "Analisi su collasso climatico italiano e inazione politica, tema sistemico urgente.",
-          "Tra caldo record, incendi e consumo di suolo, l'Italia affronta il collasso climatico con un Piano senza fondi."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Italia"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-c77f314be8624a35",
-      "title": "Parkinson non riguarda solo gli anziani, un paziente su 4 ha meno di 50 anni",
-      "summary": "Stocchi (San Raffaele), rendere pubblica la malattia può allontanare lo stigma",
-      "spokenText": "Un paziente su quattro con il Parkinson ha meno di cinquant'anni. Parlarne pubblicamente, secondo Stocchi, può aiutare ad allontanare lo stigma che ancora circonda la patologia. Fox, l'indimenticabile protagonista di Ritorno al Futuro, ricevette la diagnosi nel 1991, quando aveva appena trent'anni. Più di recente, nel giugno del 2025, è stato Morten Harket, frontman degli A-ha, ad annunciare di convivere con la malattia, portando la sua testimonianza sotto i riflettori internazionali. Crescono i casi tra i 40 e 50 anni L'aumento dei casi, sottolinea il neurologo, \"non può essere spiegato soltanto con l'allungamento della vita media, perché a crescere sono anche le diagnosi nelle persone tra i 40 e i 50 anni\".",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "stocchi",
-        "san raffaele",
-        "morten harket",
-        "a ha"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 45,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/31/parkinson-non-riguarda-solo-gli-anziani-un-paziente-su-4-ha-meno-di-50-anni_aaa9292c-577a-4af6-b52d-ca02a00bc954.html"
-      },
-      "analysis": {
-        "mainFact": "Un paziente con Parkinson su quattro ha meno di 50 anni.",
-        "whyItMatters": "Stocchi (San Raffaele), rendere pubblica la malattia può allontanare lo stigma.",
-        "confirmedFacts": [
-          "Un paziente con Parkinson su quattro ha meno di 50 anni.",
-          "Stocchi (San Raffaele), rendere pubblica la malattia può allontanare lo stigma.",
-          "Crescono i casi tra i 40 e 50 anni L'aumento dei casi, sottolinea il neurologo, \"non può essere spiegato soltanto con l'allungamento della vita media, perché a crescere sono anche le diagnosi nelle persone tra i 40 e i 50 anni\".",
-          "Fox : L'attore di Ritorno al Futuro ha ricevuto la diagnosi nel 1991 a soli 30 anni; poi Morten Harket , frontman del gruppo musicale norvegese A-ha, che ha annunciato di soffrirne nel giugno del 2025."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Stocchi",
-          "San Raffaele",
-          "Morten Harket",
-          "A-ha"
-        ],
-        "numbersAndDates": [
-          "Crescono i casi tra i 40 e 50 anni L'aumento dei casi, sottolinea il neurologo, \"non può essere spiegato soltanto con l'allungamento della vita media, perché a crescere sono anche le diagnosi nelle persone tra i 40 e i 50 anni\".",
-          "Fox : L'attore di Ritorno al Futuro ha ricevuto la diagnosi nel 1991 a soli 30 anni; poi Morten Harket , frontman del gruppo musicale norvegese A-ha, che ha annunciato di soffrirne nel giugno del 2025.",
-          "50"
-        ]
-      }
-    },
-    {
-      "id": "story-dad35bd3cc597a73",
-      "title": "Shein va in borsa, tutto quello che c'è da sapere sul gigante cinese del fast fashion",
-      "summary": "Dalla velocità di approvvigionamento alla vastità del catalogo ai prezzi stracciati",
-      "spokenText": "Shein ha fatto il suo ingresso alla Borsa di Hong Kong con una valutazione che si aggira intorno ai 22,6 miliardi di euro. Un debutto che accende i riflettori su un colosso capace di costruire il proprio impero su un catalogo immenso e su una velocità di approvvigionamento senza pari, come sottolinea l'Afp, riuscendo a offrire una varietà sbalorditiva di articoli a prezzi stracciati. A luglio la società ha reso noto di dover affrontare oltre 40 cause legali per violazione della proprietà intellettuale. E non è l'unico fronte caldo: l'Unione Europea nel 2024 l'ha inserita tra le piattaforme digitali soggette a norme di sicurezza più severe, mentre una classifica stilata da Stand Earth l'ha collocata all'ultimo posto, a pari merito, tra oltre quaranta grandi marchi di moda Sul tema di le pratiche di sostenibilità ambientale.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "shein",
-        "borsa di hong kong",
-        "unione europea",
-        "stand earth",
-        "afp"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 54,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/08/31/shein-va-in-borsa-tutto-quello-che-ce-da-sapere-sul-gigante-cinese-del_233137ca-6244-4937-8176-87b2dfa920ea.html"
-      },
-      "analysis": {
-        "mainFact": "Shein debutta alla Borsa di Hong Kong con una quotazione che valuta il gruppo circa 22,6 miliardi di euro.",
-        "whyItMatters": "Shein è stata ripetutamente accusata di violazione della proprietà intellettuale e, nel mese di luglio, ha reso noto di dover affrontare oltre 40 cause legali a tal proposito.",
-        "confirmedFacts": [
-          "Shein debutta alla Borsa di Hong Kong con una quotazione che valuta il gruppo circa 22,6 miliardi di euro.",
-          "Shein è stata ripetutamente accusata di violazione della proprietà intellettuale e, nel mese di luglio, ha reso noto di dover affrontare oltre 40 cause legali a tal proposito.",
-          "Dalla velocità di approvvigionamento alla vastità del catalogo ai prezzi stracciati",
-          "Nel 2024, l'Unione Europea ha inserito Shein nell'elenco delle aziende digitali di dimensioni tali da essere soggette a norme di sicurezza più rigorose.",
-          "Una classifica stilata l'anno scorso dall'organizzazione ambientalista statunitense-canadese Stand Earth ha collocato Shein all'ultimo posto (a pari merito) tra oltre 40 grandi marchi di moda Sul tema di le pratiche di sostenibilità ambientale.",
-          "Catalogo immenso e velocità Il principale vantaggio competitivo di Shein, sottolinea l'Afp, risiede nella capacità di offrire una varietà sbalorditiva di articoli sulla propria piattaforma, supportata da processi di sviluppo prodotto e catene di approvvigionamento estremamente efficienti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Shein",
-          "Borsa di Hong Kong",
-          "Unione Europea",
-          "Stand Earth",
-          "Afp"
-        ],
-        "numbersAndDates": [
-          "Nel 2024, l'Unione Europea ha inserito Shein nell'elenco delle aziende digitali di dimensioni tali da essere soggette a norme di sicurezza più rigorose.",
-          "Una classifica stilata l'anno scorso dall'organizzazione ambientalista statunitense-canadese Stand Earth ha collocato Shein all'ultimo posto (a pari merito) tra oltre 40 grandi marchi di moda Sul tema di le pratiche di sostenibilità ambientale.",
-          "22,6",
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-2adda17b980a45a5",
-      "title": "L’Ue sospende l’import di carne dal Brasile: mancano garanzie sanitarie",
-      "summary": "L’Unione europea sospenderà le importazioni di carne brasiliana e altri prodotti animali a partire da giovedì in attesa di garanzie da parte del Brasile riguardo al proprio rispetto delle norme...",
-      "spokenText": "L’Ue sospende l’import di carne dal Brasile: mancano garanzie sanitarie.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "brasile"
-      ],
-      "importance": 65,
-      "mustInclude": false,
-      "estimatedSeconds": 4,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/l-ue-sospende-l-import-carne-brasile-mancano-garanzie-sanitarie-AJMzTvz"
-      },
-      "analysis": {
-        "mainFact": "L’Ue sospende l’import di carne dal Brasile: mancano garanzie sanitarie",
-        "whyItMatters": "Sospensione UE import carne brasiliana per motivi sanitari. Impatta commercio, salute e filiere globali.",
-        "confirmedFacts": [
-          "L’Ue sospende l’import di carne dal Brasile: mancano garanzie sanitarie",
-          "Sospensione UE import carne brasiliana per motivi sanitari. Impatta commercio, salute e filiere globali."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Brasile"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-9242a8fee970e91b",
-      "title": "Guerra Ucraina - Russia, le news. Droni nello spazio aereo estone: si alzano caccia Nato",
-      "summary": "L’allarme rientrato nella notte. Attacco massiccio su Odessa e Kiev: diversi morti nella capitale. I raid russi colpiscono un deposito ferroviario. La risposta ucraina contro un porto sul Mar Baltico",
-      "spokenText": "Raid russo contro un deposito ferroviario a Kiev ha causato 7 morti. L’allarme rientrato nella notte. Missili e droni russi contro Kiev, almeno 4 morti nella regione. Nuova notte di bombardamenti contro la capitale Ucraina. E anche Kiev finisce sotto attacco di missili balistici: le esplosioni hanno causato diversi morti. Secondo il viceministro, in Occidente si starebbe \"demonizzando la Russia\" attribuendole intenzioni che non ha.",
+      "id": "story-4016965d791892b5",
+      "title": "Droni di Lipsia, Berlino accusa Mosca. Ue e Nato: «Reagiremo»",
+      "summary": "La Germania ha le prove della regia russa dietro gli episodi del 4 agosto. Putin rispedisce le accuse al mittente",
+      "spokenText": "Berlino accusa Mosca per i droni che hanno sorvolato l’aeroporto di Lipsia lo scorso 4 agosto. A gettare benzina sul fuoco è l’ambasciatore russo in Germania Sergey Nechayev, che ha bollato l’accusa come «infondata, assurda e contraria al buon senso», parlando di «un’escalation senza precedenti nelle relazioni russo-tedesche» che «non sarà priva di conseguenze». La Germania ha le prove della regia russa dietro gli episodi del 4 agosto. Putin rispedisce le accuse al mittente. «Il cancelliere non gode della fiducia della popolazione, hanno fatto errori evidenti in campo economico», ha affermato Putin, aggiungendo che la Germania non ha prove di una guerra ibrida russa.",
       "category": "mondo",
       "tags": [
         "mondo",
-        "russia",
-        "ucraina",
+        "germania",
         "nato",
-        "odessa",
-        "kiev"
+        "sergey nechayev"
       ],
-      "importance": 65,
+      "importance": 60,
       "mustInclude": false,
-      "estimatedSeconds": 26,
+      "estimatedSeconds": 42,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/09/01/diretta/guerra_ucraina_russia_news_oggi-425557870/"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/droni-lipsia-berlino-accusa-mosca-ue-e-nato-reagiremo-AJhixA1"
       },
       "analysis": {
-        "mainFact": "Raid russo contro un deposito ferroviario a Kiev ha causato 7 morti.",
-        "whyItMatters": "L’allarme rientrato nella notte.",
+        "mainFact": "Berlino accusa Mosca per i droni di Lipsia.",
+        "whyItMatters": "A fargli eco l’ambasciatore russo in Germania Sergey Nechayev che ha definito l’accusa di Berlino «infondata, assurda e contraria al buon senso», aggiungendo che tali sanzioni rappresentano «un’escalation senza precedenti nelle relazioni russo-tedesche e non saranno prive di conseguenze».",
         "confirmedFacts": [
-          "Raid russo contro un deposito ferroviario a Kiev ha causato 7 morti.",
-          "L’allarme rientrato nella notte.",
-          "Missili e droni russi contro Kiev, almeno 4 morti nella regione",
-          "Nuova notte di bombardamenti contro la capitale Ucraina",
-          "E anche Kiev finisce sotto attacco di missili balistici: le esplosioni hanno causato diversi morti.",
-          "Secondo il viceministro, in Occidente si starebbe \"demonizzando la Russia\" attribuendole intenzioni che non ha."
+          "Berlino accusa Mosca per i droni di Lipsia.",
+          "A fargli eco l’ambasciatore russo in Germania Sergey Nechayev che ha definito l’accusa di Berlino «infondata, assurda e contraria al buon senso», aggiungendo che tali sanzioni rappresentano «un’escalation senza precedenti nelle relazioni russo-tedesche e non saranno prive di conseguenze».",
+          "Ue e Nato: «Reagiremo» La Germania ha le prove della regia russa dietro gli episodi del 4 agosto.",
+          "Putin rispedisce le accuse al mittente",
+          "«Il cancelliere non gode della fiducia della popolazione, hanno fatto errori evidenti in campo economico», ha affermato Putin, aggiungendo che la Germania non ha prove di una guerra ibrida russa.",
+          "Ucraina, 1.642° giorno di guerra Photogallery 12 foto Visualizza La reazione tedesca ai droni carichi di esplosivo lanciati contro l’aeroporto di Lipsia era attesa da giorni."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Russia",
-          "Ucraina",
+          "Germania",
           "NATO",
-          "Odessa",
-          "Kiev"
+          "Sergey Nechayev"
         ],
         "numbersAndDates": [
-          "Missili e droni russi contro Kiev, almeno 4 morti nella regione",
+          "Ucraina, 1.642° giorno di guerra Photogallery 12 foto Visualizza La reazione tedesca ai droni carichi di esplosivo lanciati contro l’aeroporto di Lipsia era attesa da giorni."
+        ]
+      }
+    },
+    {
+      "id": "story-0eb2f498e215b1dc",
+      "title": "Trump e la guerra all’Iran: sei mesi di fallimenti",
+      "summary": "Nessun accordo, arsenali svuotati e un regime di Teheran rafforzato: la \"guerra per scelta\" di Trump contro l'Iran è già una disfatta annunciata.",
+      "spokenText": "La cosiddetta 'guerra per scelta' voluta dall'amministrazione Trump contro l'Iran si sta configurando come una disfatta strategica. Al contrario, i dati sul campo documentano arsenali significativamente svuotati e un regime di Teheran che, anziché essere indebolito, esce rafforzato da questa fase di confronto.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "iran"
+      ],
+      "importance": 62,
+      "mustInclude": false,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/trump-guerra-usa-iran-sei-mesi-fallimento/"
+      },
+      "analysis": {
+        "mainFact": "La 'guerra per scelta' di Trump contro l'Iran è descritta come una disfatta, senza accordi, con arsenali svuotati e un regime di Teheran rafforzato.",
+        "whyItMatters": "Conflitto Iran-USA con impatti globali su sicurezza ed energia.",
+        "confirmedFacts": [
+          "La 'guerra per scelta' di Trump contro l'Iran è descritta come una disfatta, senza accordi, con arsenali svuotati e un regime di Teheran rafforzato.",
+          "Conflitto Iran-USA con impatti globali su sicurezza ed energia.",
+          "Nessun accordo, arsenali svuotati e un regime di Teheran rafforzato: la \"guerra per scelta\" di Trump contro l'Iran è già una disfatta annunciata."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Iran"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-985382872bad1c73",
+      "title": "La spesa sanitaria scende al 6,2% del Pil, Italia ultima tra i Paesi del G7",
+      "summary": "Gimbe, \"Servono 36 miliardi in più per raggiungere la media europea\"",
+      "spokenText": "L'Italia si conferma ultima tra i Paesi del G7 per spesa sanitaria pubblica in rapporto al Pil. Un valore che ci colloca nettamente al di sotto della media Ocse e di quella europea, entrambe ferme al 7,1%. Il divario si traduce in una distanza concreta: per raggiungere il livello medio dei Paesi europei servirebbero oltre 36 miliardi di risorse aggiuntive. Guardando alla spesa pro-capite a parità di potere d'acquisto, il confronto è altrettanto severo: nel 2025 l'Italia ha investito 3.952 dollari per cittadino, circa 909 in meno della media Ocse e oltre mille in meno rispetto ai partner europei. Un posizionamento che evidenzia un distacco di diversi punti percentuali da Germania, Francia, Svezia e Regno Unito. Sconta un distacco di quasi alcuni aspetti percentuali dalla Germania (11% Pil). Di circa alcuni aspetti da Francia, Svezia, Regno Unito. \"Nel confronto europeo l'Italia viaggia ormai stabilmente nelle retrovie: davanti a noi ci sono anche Repubblica Ceca, Slovenia, Polonia e Spagna, mentre alle nostre spalle restano solo alcuni Paesi dell'Europa dell'Est e meridionale\", dice ancora Cartabellotta.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "italia",
+        "g7",
+        "gimbe",
+        "ocse"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 70,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/02/la-spesa-sanitaria-scende-al-62-del-pil-italia-ultima-tra-i-paesi-del_a309cc22-2fc6-4afb-a335-905435c8f223.html"
+      },
+      "analysis": {
+        "mainFact": "Italia ultima tra i Paesi del G7.",
+        "whyItMatters": "Gimbe, \"Servono 36 miliardi in più per raggiungere la media europea\"",
+        "confirmedFacts": [
+          "Italia ultima tra i Paesi del G7.",
+          "Gimbe, \"Servono 36 miliardi in più per raggiungere la media europea\"",
+          "Nel 2025 la spesa sanitaria pubblica italiana in rapporto al Pil ha subito una flessione, passando dal 6,3% del 2024 al 6,2%.",
+          "Si tratta di una spesa nettamente inferiore al valore del 7,1% a cui si attesta sia la media Ocse sia quella dei Paesi europei.",
+          "La distanza da questi ultimi, in termini di spesa pro-capite a parit di potere di acquisto, stimata in pi di 36 miliardi.",
+          "Nella spesa sanitaria pubblica in rapporto al Pil il nostro Paese si piazza dietro a ben 14 Paesi europei dell'area Ocse e sconta un distacco di quasi alcuni aspetti percentuali dalla Germania (11% Pil) e di circa alcuni aspetti da Francia, Svezia, Regno Unito.",
+          "Nel 2025 in Italia stata pari a 3.952 dollari per cittadino, 909 in meno rispetto alla media Ocse e 1.013 in meno rispetto alla media di Paesi europei.",
+          "\"Nel confronto europeo l'Italia viaggia ormai stabilmente nelle retrovie: davanti a noi ci sono anche Repubblica Ceca, Slovenia, Polonia e Spagna, mentre alle nostre spalle restano solo alcuni Paesi dell'Europa dell'Est e meridionale\", dice ancora Cartabellotta."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Italia",
+          "G7",
+          "Gimbe",
+          "Ocse"
+        ],
+        "numbersAndDates": [
+          "Nel 2025 la spesa sanitaria pubblica italiana in rapporto al Pil ha subito una flessione, passando dal 6,3% del 2024 al 6,2%.",
+          "Si tratta di una spesa nettamente inferiore al valore del 7,1% a cui si attesta sia la media Ocse sia quella dei Paesi europei.",
+          "La distanza da questi ultimi, in termini di spesa pro-capite a parit di potere di acquisto, stimata in pi di 36 miliardi.",
+          "Nella spesa sanitaria pubblica in rapporto al Pil il nostro Paese si piazza dietro a ben 14 Paesi europei dell'area Ocse e sconta un distacco di quasi alcuni aspetti percentuali dalla Germania (11% Pil) e di circa alcuni aspetti da Francia, Svezia, Regno Unito.",
+          "Nel 2025 in Italia stata pari a 3.952 dollari per cittadino, 909 in meno rispetto alla media Ocse e 1.013 in meno rispetto alla media di Paesi europei.",
+          "36"
+        ]
+      }
+    },
+    {
+      "id": "story-d33bf2d078892e1f",
+      "title": "Perché le Borse non possono ignorare la bufera sui Bond",
+      "summary": "I rendimenti obbligazionari ai massimi dal 2008 in tutto il mondo possono influenzare il premio al rischio sull’azionario. Ma le aziende quotate alzano lo scudo dei profitti record per superare lo scoglio di settembre, mese tradizionalmente poco propizio.",
+      "spokenText": "I rendimenti obbligazionari sono ai massimi dal 2008 in tutto il mondo e possono influenzare il premio al rischio sull'azionario. Il decennale giapponese ha toccato il 3% per la prima volta dal 1996, quello australiano è tornato sui valori del 2011 (5,18%). Per concludere il trentennale britannico non raggiungeva il 5,86% dal 1998. L’Europa non è da meno, con il Bund tedesco a 10 anni al 3,35% (massimi a sua volta da 15 anni) e il BTp al 4,18%, sopravanzato ancora una volta di tre punti base dall’OaT francese condizionato dalla questione politica e finanziaria del Paese.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "bund tedesco",
+        "btp",
+        "oat francese"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 39,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/perche-borse-non-possono-ignorare-bufera-bond-AJrzKa0"
+      },
+      "analysis": {
+        "mainFact": "I rendimenti obbligazionari sono ai massimi dal 2008 in tutto il mondo e possono influenzare il premio al rischio sull'azionario.",
+        "whyItMatters": "il decennale giapponese ha toccato il 3% per la prima volta dal 1996, quello australiano è tornato sui valori del 2011 (5,18%);",
+        "confirmedFacts": [
+          "I rendimenti obbligazionari sono ai massimi dal 2008 in tutto il mondo e possono influenzare il premio al rischio sull'azionario.",
+          "il decennale giapponese ha toccato il 3% per la prima volta dal 1996, quello australiano è tornato sui valori del 2011 (5,18%);",
+          "per concludere il trentennale britannico non raggiungeva il 5,86% dal 1998.",
+          "L’Europa non è da meno, con il Bund tedesco a 10 anni al 3,35% (massimi a sua volta da 15 anni) e il BTp al 4,18%, sopravanzato ancora una volta di tre punti base dall’OaT francese condizionato dalla questione politica e finanziaria del Paese."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Bund tedesco",
+          "BTp",
+          "OaT francese"
+        ],
+        "numbersAndDates": [
+          "per concludere il trentennale britannico non raggiungeva il 5,86% dal 1998.",
+          "L’Europa non è da meno, con il Bund tedesco a 10 anni al 3,35% (massimi a sua volta da 15 anni) e il BTp al 4,18%, sopravanzato ancora una volta di tre punti base dall’OaT francese condizionato dalla questione politica e finanziaria del Paese.",
+          "2008",
+          "3",
+          "1996",
+          "2011",
+          "5,18"
+        ]
+      }
+    },
+    {
+      "id": "story-49d47ecfde053a49",
+      "title": "Accordo sul debito fra Senegal e Fmi, sbloccati 2,2 miliardi di dollari",
+      "summary": "Svolta nella saga finanziaria di Dakar. L’intesa scongela i fondi bloccati dalla scoperta del debito nascosto dall’ex presidente Macky Sall",
+      "spokenText": "Si tratta di fondi che erano rimasti congelati dopo la scoperta di uno scandalo legato al debito pubblico. L’attuale governo, guidato dal presidente Diomaye Faye, aveva infatti rivelato l’esistenza di circa 7 miliardi di dollari di debito cumulato negli anni precedenti e mai inserito nei bilanci ufficiali dall’ex presidenza di Macky Sall. Questa omissione aveva spinto il Fmi a interrompere immediatamente un programma già in corso con Dakar, del valore di 1,8 miliardi di dollari. Accordo sul debito fra Senegal e Fmi, sbloccati 2,2 miliardi di dollari.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "senegal",
+        "macky sall",
+        "diomaye faye"
+      ],
+      "importance": 65,
+      "mustInclude": false,
+      "estimatedSeconds": 35,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/accordo-debito-senegal-e-fmi-sbloccati-22-miliardi-dollari-AJ2JOt0"
+      },
+      "analysis": {
+        "mainFact": "Accordo sul debito fra Senegal e Fmi, sbloccati 2,2 miliardi di dollari.",
+        "whyItMatters": "L'intesa scongela i fondi che erano stati bloccati dopo la scoperta di 7 miliardi di debito cumulato e nascosto nei bilanci dall'ex presidente Macky Sall.",
+        "confirmedFacts": [
+          "Accordo sul debito fra Senegal e Fmi, sbloccati 2,2 miliardi di dollari.",
+          "L'intesa scongela i fondi che erano stati bloccati dopo la scoperta di 7 miliardi di debito cumulato e nascosto nei bilanci dall'ex presidente Macky Sall.",
+          "Lo scandalo del debito nascosto Il Fmi aveva bloccato un programma da 1,8 miliardi di dollari con Dakar quando il governo dell’attuale leader, Diomaye Faye, ha svelato l’esistenza di 7 miliardi di debito cumulato e celato nei bilanci dall’ex presidente Macky Sall."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Senegal",
+          "Macky Sall",
+          "Diomaye Faye"
+        ],
+        "numbersAndDates": [
+          "Lo scandalo del debito nascosto Il Fmi aveva bloccato un programma da 1,8 miliardi di dollari con Dakar quando il governo dell’attuale leader, Diomaye Faye, ha svelato l’esistenza di 7 miliardi di debito cumulato e celato nei bilanci dall’ex presidente Macky Sall.",
+          "2,2",
           "7"
         ]
       }
     },
     {
-      "id": "story-d3c4c750884a687e",
-      "title": "Guerra, ultime notizie. Iran, si dimette il segretario dell’esercito Usa Driscoll",
-      "summary": "Si riaccende la tensione in Medio Oriente tra Usa e Iran. Stanotte una petroliera è stata colpita da proiettili nello Stretto di Hormuz. Si dimette intanto il segretario dell’esercito americano Driscoll, dopo mesi di tensioni con Hegseth",
-      "spokenText": "Il segretario dell’Esercito statunitense Dan Driscoll ha presentato le dimissioni al presidente Donald Trump e lascerà il Pentagono nei prossimi giorni. Un funzionario dell’esercito ha dichiarato alla Cnn che Driscoll ha parlato con il presidente della situazione attuale e ha rassegnato l’incarico. Le dimissioni, che giungono dopo mesi di tensione con il titolare della Difesa Pete Hegseth, si inseriscono in un quadro internazionale delicato. Si riaccende la tensione in Medio Oriente tra Usa e Iran. Stanotte una petroliera è stata colpita da proiettili nello Stretto di Hormuz.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "dan driscoll",
-        "pete hegseth",
-        "donald trump",
-        "iran",
-        "pentagono",
-        "stretto di hormuz"
-      ],
-      "importance": 50,
-      "mustInclude": false,
-      "estimatedSeconds": 35,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-iran-si-dimette-segretario-dell-esercito-usa-driscoll-AJ1jK9z"
-      },
-      "analysis": {
-        "mainFact": "Il segretario dell'Esercito statunitense Dan Driscoll si è dimesso dopo mesi di tensioni con il titolare della Difesa Pete Hegseth.",
-        "whyItMatters": "Si riaccende la tensione in Medio Oriente tra Usa e Iran.",
-        "confirmedFacts": [
-          "Il segretario dell'Esercito statunitense Dan Driscoll si è dimesso dopo mesi di tensioni con il titolare della Difesa Pete Hegseth.",
-          "Si riaccende la tensione in Medio Oriente tra Usa e Iran.",
-          "Le dimissioni di Driscoll, detto «drone guy», giungono dopo mesi di tensione con il titolare della Difesa Pete Hegseth .",
-          "I più letti 08:15 1 settembre 2026 Driscoll e gli altri: dimissioni ed epurazioni di Hegseth al Pentagono Il segretario dell’Esercito statunitense Dan Driscoll ha presentato le sue dimissioni al presidente Donald Trump e lascerà il suo incarico al Pentagono nei prossimi giorni.",
-          "Un funzionario dell’esercito ha dichiarato alla Cnn che Driscoll «ha parlato con il presidente della situazione attuale dell’esercito e ha presentato le sue dimissioni».",
-          "Stanotte una petroliera è stata colpita da proiettili nello Stretto di Hormuz.",
-          "Iran, si dimette il segretario dell’esercito Usa Driscoll Si riaccende la tensione in Medio Oriente tra Usa e Iran.",
-          "Grana per Trump, perde il segretario dell’Esercito: Driscoll si dimette dopo gli scontri con Hegseth"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Dan Driscoll",
-          "Pete Hegseth",
-          "Donald Trump",
-          "Iran",
-          "Pentagono",
-          "Stretto di Hormuz"
-        ],
-        "numbersAndDates": [
-          "I più letti 08:15 1 settembre 2026 Driscoll e gli altri: dimissioni ed epurazioni di Hegseth al Pentagono Il segretario dell’Esercito statunitense Dan Driscoll ha presentato le sue dimissioni al presidente Donald Trump e lascerà il suo incarico al Pentagono nei prossimi giorni."
-        ]
-      }
-    },
-    {
-      "id": "story-24e0b694cd92e5df",
-      "title": "Istat, balzo dell’inflazione al 3,3% in agosto. Pesa la nuova fiammata dell’energia",
-      "summary": "Pil ancora debole, confermato il +0,2% nel secondo trimestre. A luglio occupazione quasi ferma, con donne e giovani in calo. Salari ancora sotto i prezzi",
-      "spokenText": "I dati Istat di agosto delineano un quadro economico segnato da una nuova pressione inflazionistica, spinta principalmente dai prezzi dell'energia. L'inflazione generale è salita al 3,3%, mentre la componente di fondo, depurata dagli energetici e dagli alimentari freschi, ha mostrato un lieve rallentamento, passando dall'1,6% all'1,5%. Anche l'indice al netto dei soli beni energetici è sceso dall'1,8% all'1,7%. Il punto sul lavoro è che , il mese di luglio ha registrato una sostanziale stagnazione dell'occupazione, con un arretramento specifico per le donne e i giovani. Pil ancora debole, confermato il +0,2% nel secondo trimestre.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "istat"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 38,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/09/01/news/istata_inflazione_agosto_fiammata_energia_pil_disoccupazione-425558386/"
-      },
-      "analysis": {
-        "mainFact": "A luglio l'occupazione è rimasta quasi ferma, con un calo per donne e giovani.",
-        "whyItMatters": "Pil ancora debole, confermato il +0,2% nel secondo trimestre.",
-        "confirmedFacts": [
-          "A luglio l'occupazione è rimasta quasi ferma, con un calo per donne e giovani.",
-          "Pil ancora debole, confermato il +0,2% nel secondo trimestre.",
-          "I prezzi dell'energia spingono l'inflazione, ad agosto sale al +3,3%",
-          "Nel mese di agosto l’“inflazione di fondo”, calcolata al netto degli energetici e degli alimentari freschi, rallenta lievemente (da +1,6% a +1,5%) così come quella al netto dei soli beni energetici (da +1,8% a +1,7%)."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Istat"
-        ],
-        "numbersAndDates": [
-          "I prezzi dell'energia spingono l'inflazione, ad agosto sale al +3,3%",
-          "Nel mese di agosto l’“inflazione di fondo”, calcolata al netto degli energetici e degli alimentari freschi, rallenta lievemente (da +1,6% a +1,5%) così come quella al netto dei soli beni energetici (da +1,8% a +1,7%).",
-          "0,2"
-        ]
-      }
-    },
-    {
-      "id": "story-a579c932f74468c5",
-      "title": "Anomalia termica sotto il polo sud di Marte",
-      "summary": "L’interno del Pianeta rosso sembra mostrare una marcata asimmetria termica. Il risultato, pubblicato su Nature, è stato ottenuto attraverso misure della variazione del campo gravitazionale e aiuterà comprendere meglio la storia del pianeta e a stabilire se mai vi sono state le condizioni per consentire lo sviluppo della vita",
-      "spokenText": "C’è un’anomalia termica sotto il polo sud di Marte che sta facendo discutere la comunità scientifica. Il risultato aiuterà a comprendere meglio la storia del pianeta e a stabilire se vi siano mai state le condizioni per lo sviluppo della vita.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "marte",
-        "nature"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 17,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/08/31/anomalia-termica-polo-sud-marte/"
-      },
-      "analysis": {
-        "mainFact": "Anomalia termica sotto il polo sud di Marte",
-        "whyItMatters": "Il risultato aiuterà a comprendere meglio la storia del pianeta e a stabilire se vi siano mai state le condizioni per lo sviluppo della vita.",
-        "confirmedFacts": [
-          "Anomalia termica sotto il polo sud di Marte",
-          "Il risultato aiuterà a comprendere meglio la storia del pianeta e a stabilire se vi siano mai state le condizioni per lo sviluppo della vita.",
-          "Il risultato, pubblicato su Nature, è stato ottenuto attraverso misure della variazione del campo gravitazionale e aiuterà comprendere meglio la storia del pianeta e a stabilire se mai vi sono state le condizioni per consentire lo sviluppo della vita"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Marte",
-          "Nature"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-988aa8851598245f",
-      "title": "Google Messaggi rinvia vecchi messaggi ai contatti: è un bug",
-      "summary": "Un bug di Google Messaggi sembra rinviare vecchi SMS e contenuti privati a destinatari casuali. Google sta indagando sul problema. The post Google Messaggi rinvia vecchi messaggi ai contatti: è un bug appeared first on Punto Informatico.",
-      "spokenText": "C’è un bug in Google Messaggi che sta facendo riaffiorare vecchi SMS e contenuti privati, spedendoli a contatti del tutto casuali. Diverse segnalazioni descrivono proprio questo: messaggi che si pensavano archiviati o cancellati riappaiono all’improvviso in conversazioni con destinatari sbagliati. Google ha confermato di essere a conoscenza del problema e sta indagando.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google messaggi",
-        "google"
-      ],
-      "importance": 62,
-      "mustInclude": false,
-      "estimatedSeconds": 21,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/google-messaggi-rinvia-vecchi-messaggi-ai-contatti-e-un-bug/"
-      },
-      "analysis": {
-        "mainFact": "Un bug di Google Messaggi sembra rinviare vecchi SMS e contenuti privati a destinatari casuali.",
-        "whyItMatters": "Diverse segnalazioni descrivono l'invio accidentale di messaggi privati a destinatari sbagliati.",
-        "confirmedFacts": [
-          "Un bug di Google Messaggi sembra rinviare vecchi SMS e contenuti privati a destinatari casuali.",
-          "Diverse segnalazioni descrivono l'invio accidentale di messaggi privati a destinatari sbagliati.",
-          "Google sta indagando sul problema."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google Messaggi",
-          "Google"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-2799be59f7468b1c",
-      "title": "Apple accusa OpenAI di aver distrutto le prove",
-      "summary": "Secondo Apple, OpenAI ha distrutto le prove che dimostrano il furto di segreti commerciali (tecnologie hardware) da parte di un suo ex dipendente. The post Apple accusa OpenAI di aver distrutto le prove appeared first on Punto Informatico.",
-      "spokenText": "Apple ha formalmente accusato OpenAI di aver distrutto prove fondamentali in un caso di furto di segreti commerciali legati a tecnologie hardware. Nel frattempo, oltre 400 dipendenti hanno lasciato Apple per passare a OpenAI.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "apple",
-        "openai"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/apple-accusa-openai-distrutto-prove/"
-      },
-      "analysis": {
-        "mainFact": "Apple accusa OpenAI di aver distrutto le prove che dimostrano il furto di segreti commerciali (tecnologie hardware) da parte di un suo ex dipendente.",
-        "whyItMatters": "Nel frattempo, oltre 400 dipendenti hanno lasciato Apple per passare a OpenAI.",
-        "confirmedFacts": [
-          "Apple accusa OpenAI di aver distrutto le prove che dimostrano il furto di segreti commerciali (tecnologie hardware) da parte di un suo ex dipendente.",
-          "Nel frattempo, oltre 400 dipendenti hanno lasciato Apple per passare a OpenAI."
-        ],
-        "uncertainties": [
-          "Apple accusa OpenAI di aver distrutto le prove Secondo Apple, OpenAI ha distrutto le prove che dimostrano il furto di segreti commerciali (tecnologie hardware) da parte di un suo ex dipendente."
-        ],
-        "peopleAndOrganizations": [
-          "Apple",
-          "OpenAI"
-        ],
-        "numbersAndDates": [
-          "400"
-        ]
-      }
-    },
-    {
-      "id": "story-d35ad3c8528cd2d9",
-      "title": "Fino a 20.000 euro a fondo perduto per cloud e cybersecurity",
-      "summary": "Le PMI e i lavoratori autonomi possono chiedere un contributo a fondo perduto per acquistare servizi cloud e strumenti di cybersecurity. Il fondo vale 150 milioni di euro, con 71 milioni riservati all...",
-      "spokenText": "Piccole e medie imprese e lavoratori autonomi possono richiedere un contributo a fondo perduto per acquistare servizi cloud e strumenti di cybersecurity. La misura è aperta su tutto il territorio nazionale, senza esclusioni di settore. Le risorse arrivano dal Fondo Sviluppo e Coesione, che ha vincolato 71 milioni di euro alle regioni del Sud. Proprio in quelle aree, però, il requisito di connettività rischia di escludere una parte dei potenziali beneficiari. Il contributo copre il 50% delle spese ammissibili, con un tetto massimo di 20.000 euro per impresa e un piano minimo di 4.000 euro .",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "pmi",
-        "lavoratori autonomi",
-        "fondo sviluppo e coesione"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 39,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/fino-a-20000-euro-a-fondo-perduto-per-cloud-e-cybersecurity-ecco-come-le-pmi-possono-partecipare"
-      },
-      "analysis": {
-        "mainFact": "PMI e lavoratori autonomi possono richiedere un contributo a fondo perduto fino a 20.000 euro per servizi cloud e cybersecurity.",
-        "whyItMatters": "Le PMI e i lavoratori autonomi possono chiedere un contributo a fondo perduto per acquistare servizi cloud e strumenti di cybersecurity.",
-        "confirmedFacts": [
-          "PMI e lavoratori autonomi possono richiedere un contributo a fondo perduto fino a 20.000 euro per servizi cloud e cybersecurity.",
-          "Le PMI e i lavoratori autonomi possono chiedere un contributo a fondo perduto per acquistare servizi cloud e strumenti di cybersecurity.",
-          "Il contributo copre il 50% delle spese ammissibili, con un tetto massimo di 20.000 euro per impresa e un piano minimo di 4.000 euro .",
-          "Chi può partecipare e cosa copre il contributo Le PMI e i lavoratori autonomi possono partecipare su tutto il territorio nazionale, senza esclusioni di settore.",
-          "Lo Stato paga attraverso il Fondo Sviluppo e Coesione, con 71 milioni vincolati alle regioni del Sud dove il requisito di connettività rischia di escludere proprio chi dovrebbe beneficiarne."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "PMI",
-          "lavoratori autonomi",
-          "Fondo Sviluppo e Coesione"
-        ],
-        "numbersAndDates": [
-          "Il contributo copre il 50% delle spese ammissibili, con un tetto massimo di 20.000 euro per impresa e un piano minimo di 4.000 euro .",
-          "Lo Stato paga attraverso il Fondo Sviluppo e Coesione, con 71 milioni vincolati alle regioni del Sud dove il requisito di connettività rischia di escludere proprio chi dovrebbe beneficiarne.",
-          "20.000"
-        ]
-      }
-    },
-    {
-      "id": "story-afc474abdd8b7998",
-      "title": "Mosca: «Ridicola la nomina di Fedorov al ministero della Difesa italiano». Crosetto",
-      "summary": "La guerra in Ucraina sconfina in diverse direzioni. Mosca risponde a una decisione presa negli ultimi giorni dal governo italiano. La nomina dell’ex ministro della Difesa ucraino Mykhailo...",
-      "spokenText": "Mosca ha definito 'molto ridicola' la nomina dell'ex ministro della Difesa ucraino Mykhailo Fedorov a consulente del ministero della Difesa italiano. La portavoce del ministero degli Esteri russo, Maria Zakharova, ha aggiunto che la decisione è degna di una favola satirica di Gianni Rodari. La reazione russa arriva a pochi giorni dalla decisione del governo italiano. Intanto, alle 3:11 del mattino, le Forze di Difesa estoni hanno emesso un avviso di minaccia aerea per diverse contee.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "mosca",
-        "mykhailo fedorov",
-        "ministero della difesa italiano",
-        "maria zakharova",
-        "ministero degli esteri russo",
-        "italia"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 31,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/raid-russo-kiev-7-morti-trump-russia-g20-andiamo-d-accordo-tutti-AJrNM9z"
-      },
-      "analysis": {
-        "mainFact": "Mosca ha definito 'molto ridicola' la nomina dell'ex ministro della Difesa ucraino Mykhailo Fedorov a consulente del ministero della Difesa italiano.",
-        "whyItMatters": "Mosca risponde a una decisione presa negli ultimi giorni dal governo italiano.",
-        "confirmedFacts": [
-          "Mosca ha definito 'molto ridicola' la nomina dell'ex ministro della Difesa ucraino Mykhailo Fedorov a consulente del ministero della Difesa italiano.",
-          "Mosca risponde a una decisione presa negli ultimi giorni dal governo italiano.",
-          "La nomina dell’ ex ministro della Difesa ucraino Mykhailo Fedorov a consulente del ministero della Difesa italiano è «molto ridicola» e degna di una favola satirica di Gianni Rodari, ha detto la portavoce del ministero degli Esteri russo, Maria Zakharova.",
-          "Alle 3:11 del mattino, le Forze di Difesa estoni hanno emesso un avviso di minaccia aerea per diverse contee."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Mosca",
-          "Mykhailo Fedorov",
-          "Ministero della Difesa italiano",
-          "Maria Zakharova",
-          "Ministero degli Esteri russo",
-          "Italia"
-        ],
-        "numbersAndDates": [
-          "Alle 3:11 del mattino, le Forze di Difesa estoni hanno emesso un avviso di minaccia aerea per diverse contee."
-        ]
-      }
-    },
-    {
-      "id": "story-3aedde962d530645",
-      "title": "La nuova antenna Deep Space Station 23 del Deep Space Network della NASA è entrata",
-      "summary": "La nuova antenna Deep Space Station 23 del Deep Space Network della NASA è entrata in funzione presso il complesso di Goldstone in California.",
-      "spokenText": "Nel deserto californiano, presso il complesso di Goldstone, la NASA ha appena acceso la Deep Space Station 23, l'ultima arrivata nella famiglia del Deep Space Network.",
+      "id": "story-7c8689daa76a2cd8",
+      "title": "Il telescopio spaziale Roman è in viaggio verso L2",
+      "summary": "Sarà una traversata di tre mesi verso la sua orbita definitiva, a un milione e mezzo di chilometri dalla Terra, quella del telescopio spaziale Nancy Grace Roman della Nasa. La missione è stata lanciata domenica alle 7:26 del mattino (ora di New York, le 13:26 ora italiana) a bordo di un razzo Falcon Heavy di SpaceX",
+      "spokenText": "Il telescopio spaziale Nancy Grace Roman della Nasa è ufficialmente in viaggio verso la sua destinazione, il punto L2. Il lancio è avvenuto domenica alle 7:26 del mattino, ora di New York, che per noi in Italia corrispondevano alle 13:26.",
       "category": "scienza",
       "tags": [
         "scienza",
         "nasa",
-        "deep space network",
-        "goldstone complex",
-        "jet propulsion laboratory",
-        "deep space station 23"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
-      },
-      "analysis": {
-        "mainFact": "La nuova antenna Deep Space Station 23 del Deep Space Network della NASA è entrata in funzione presso il complesso di Goldstone in California.",
-        "whyItMatters": "Nuova antenna NASA potenzia comunicazioni deep space. Infrastruttura critica per esplorazione spaziale e scienza.",
-        "confirmedFacts": [
-          "La nuova antenna Deep Space Station 23 del Deep Space Network della NASA è entrata in funzione presso il complesso di Goldstone in California.",
-          "Nuova antenna NASA potenzia comunicazioni deep space. Infrastruttura critica per esplorazione spaziale e scienza.",
-          "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-          "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex",
-          "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026.",
-          "A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come.",
-          "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug.",
-          "Description Five antennas soak in the summer sun at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026.",
-          "The recently completed Deep Space Station 23, a 34-meter (114-foot) beam-waveguide antenna, can be seen to the right of the frame in the foreground.",
-          "NASA leadership and personnel as well as dignitaries gathered at the complete DSS-23 antenna for a ceremonial ribbon cutting on Aug."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Deep Space Network",
-          "Goldstone complex",
-          "Jet Propulsion Laboratory",
-          "Deep Space Station 23"
-        ],
-        "numbersAndDates": [
-          "23"
-        ]
-      }
-    },
-    {
-      "id": "story-42cacdd58fef53a5",
-      "title": "Il sito principale dell'APOD della NASA si sta trasferendo: da apod",
-      "summary": "Il sito principale dell'APOD della NASA si sta trasferendo: da apod. nasa. gov a science. gov/apod. Immagine di domani: volo dell'eclissi. Data 31 agosto 2026. Crediti: NASA. Autori e redattori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe.",
-      "spokenText": "Nasa. gov/apod. A firmare la curatela restano Robert Nemiroff e Jerry Bonnell, affiancati da Cecilia Chirenti e Keighley Rockcliffe. E per domani, 31 agosto 2026, l'immagine in primo piano sarà dedicata al volo dell'eclissi, con i crediti della NASA.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nancy grace roman space telescope",
-        "nasa",
-        "hubble space telescope"
+        "spacex",
+        "telescopio spaziale nancy grace roman"
       ],
       "importance": 85,
       "mustInclude": false,
       "estimatedSeconds": 16,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/08/31/roman-in-viaggio-verso-l2/"
       },
       "analysis": {
-        "mainFact": "Il sito principale dell'APOD della NASA si sta trasferendo: da apod. nasa. gov a science. gov/apod. Immagine di domani: volo dell'eclissi. Data 31 agosto 2026. Crediti: NASA. Autori e redattori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe.",
-        "whyItMatters": "Lancio del telescopio spaziale Roman. Nuova era per cosmologia e ricerca esopianeti, forte interesse scientifico.",
+        "mainFact": "Il telescopio spaziale Nancy Grace Roman della Nasa è in viaggio verso il punto L2.",
+        "whyItMatters": "La missione è stata lanciata domenica alle 7:26 del mattino (ora di New York, le 13:26 ora italiana) a bordo di un razzo Falcon Heavy di SpaceX",
         "confirmedFacts": [
-          "Il sito principale dell'APOD della NASA si sta trasferendo: da apod. nasa. gov a science. gov/apod. Immagine di domani: volo dell'eclissi. Data 31 agosto 2026. Crediti: NASA. Autori e redattori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe.",
-          "Lancio del telescopio spaziale Roman. Nuova era per cosmologia e ricerca esopianeti, forte interesse scientifico."
+          "Il telescopio spaziale Nancy Grace Roman della Nasa è in viaggio verso il punto L2.",
+          "La missione è stata lanciata domenica alle 7:26 del mattino (ora di New York, le 13:26 ora italiana) a bordo di un razzo Falcon Heavy di SpaceX",
+          "Sarà una traversata di tre mesi verso la sua orbita definitiva, a un milione e mezzo di chilometri dalla Terra, quella del telescopio spaziale Nancy Grace Roman della Nasa."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Nancy Grace Roman Space Telescope",
-          "NASA",
-          "Hubble Space Telescope"
+          "Nasa",
+          "SpaceX",
+          "Telescopio spaziale Nancy Grace Roman"
         ],
         "numbersAndDates": [
-          "Il sito principale dell'APOD della NASA si sta trasferendo: da apod. nasa. gov a science. gov/apod. Immagine di domani: volo dell'eclissi. Data 31 agosto 2026. Crediti: NASA. Autori e redattori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe.",
-          "31",
-          "2026"
+          "7",
+          "26",
+          "13"
         ]
       }
     },
     {
-      "id": "story-f3787bb1da6035c8",
-      "title": "la narrow-headed ant e la erratic ant",
-      "summary": "la narrow-headed ant e la erratic ant.",
-      "spokenText": "Due specie di formiche, la narrow-headed ant e la erratic ant, sono state spostate con le loro regine in nuove aree della riserva.",
-      "category": "ambiente",
+      "id": "story-031ee95769fa9ed5",
+      "title": "Mappe iperspettrali delle culle di stelle",
+      "summary": "Il progetto Local Volume Mapper della Sdss ha rilasciato un'anteprima di 300mila spettri relativi a sei regioni della Via Lattea. Grazie a un array di piccoli telescopi installato a Las Campanas, lo strumento scompone – attraverso densi fasci di fibre ottiche – la luce di intere porzioni di cielo in migliaia di spettri simultanei, producendo cubi iperspettrali con due dimensioni spaziali e una spettrale",
+      "spokenText": "Il progetto Local Volume Mapper della Sdss ha rilasciato un'anteprima di mappe iperspettrali delle culle di stelle della Via Lattea. Grazie a un array di piccoli telescopi installato a Las Campanas, lo strumento scompone – attraverso densi fasci di fibre ottiche – la luce di intere porzioni di cielo in migliaia di spettri simultanei, producendo cubi iperspettrali con due dimensioni spaziali e una spettrale.",
+      "category": "scienza",
       "tags": [
-        "ambiente",
-        "chudleigh knighton heath",
-        "narrow headed ant"
+        "scienza",
+        "via lattea"
       ],
-      "importance": 70,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 10,
+      "estimatedSeconds": 26,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zgw0nnk2o?at_medium=RSS&at_campaign=rss"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/01/mappe-iperspettrali-nursery-stellari-sdss/"
       },
       "analysis": {
-        "mainFact": "la narrow-headed ant e la erratic ant.",
-        "whyItMatters": "Progetto conservazione per due specie rare di formiche in brughiera. Biodiversità e habitat.",
+        "mainFact": "Il progetto Local Volume Mapper della Sdss ha rilasciato mappe iperspettrali delle culle di stelle.",
+        "whyItMatters": "Grazie a un array di piccoli telescopi installato a Las Campanas, lo strumento scompone – attraverso densi fasci di fibre ottiche – la luce di intere porzioni di cielo in migliaia di spettri simultanei, producendo cubi iperspettrali con due dimensioni spaziali e una spettrale.",
         "confirmedFacts": [
-          "la narrow-headed ant e la erratic ant.",
-          "Progetto conservazione per due specie rare di formiche in brughiera. Biodiversità e habitat.",
-          "He said the target was to double the number of narrow-headed ant nests from 200 to more than 400 at Chudleigh Knighton Heath.",
-          "Related topics Devon Insects Wildlife conservation Conservation More on this story 'Lost' ant species reintroduced to woodland 28 June Bid to boost numbers of one of UK's rarest ants 21 August 2020 Can England's rarest ant be saved?"
+          "Il progetto Local Volume Mapper della Sdss ha rilasciato mappe iperspettrali delle culle di stelle.",
+          "Grazie a un array di piccoli telescopi installato a Las Campanas, lo strumento scompone – attraverso densi fasci di fibre ottiche – la luce di intere porzioni di cielo in migliaia di spettri simultanei, producendo cubi iperspettrali con due dimensioni spaziali e una spettrale.",
+          "Il progetto Local Volume Mapper della Sdss ha rilasciato un'anteprima di 300mila spettri relativi a sei regioni della Via Lattea."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Chudleigh Knighton Heath",
-          "narrow-headed ant"
+          "Via Lattea"
         ],
         "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-4f9a9db052396f8c",
+      "title": "Google Pics usa l'IA Nano Banana per creare e modificare locandine con un prompt",
+      "summary": "Google Pics usa l'IA Nano Banana per creare e modificare locandine con un prompt. Ecco come funziona e chi può utilizzarlo. The post Google Pics: l’AI crea locandine in pochi clic e sfida Canva appeared first on Punto Informatico.",
+      "spokenText": "Google Pics ha integrato l'intelligenza artificiale Nano Banana per creare e modificare locandine partendo da un semplice prompt testuale. Lo strumento è disponibile sul sito dedicato ed è integrato in Google Docs e Google Slides per creare presentazioni e documenti illustrati. Ecco come funziona e chi può utilizzarlo.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google pics",
+        "nano banana",
+        "canva",
+        "google docs",
+        "google slides"
+      ],
+      "importance": 50,
+      "mustInclude": false,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-pics-ai-crea-locandine-pochi-clic-sfida-canva/"
+      },
+      "analysis": {
+        "mainFact": "Google Pics usa l'IA Nano Banana per creare e modificare locandine con un prompt.",
+        "whyItMatters": "Lo strumento è disponibile sul sito dedicato ed è integrato in Google Docs e Google Slides per creare presentazioni e documenti illustrati.",
+        "confirmedFacts": [
+          "Google Pics usa l'IA Nano Banana per creare e modificare locandine con un prompt.",
+          "Lo strumento è disponibile sul sito dedicato ed è integrato in Google Docs e Google Slides per creare presentazioni e documenti illustrati.",
+          "Google Pics: l'AI crea locandine in pochi clic e sfida Canva Google Pics usa l'IA Nano Banana per creare e modificare locandine con un prompt.",
+          "Ecco come funziona e chi può utilizzarlo."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Google Pics",
+          "Nano Banana",
+          "Canva",
+          "Google Docs",
+          "Google Slides"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-cf989019b953312c",
+      "title": "Il Garante: “Tornano in aula 400 mila studenti con disabilità",
+      "summary": "Maurizio Borgo spiega come la scarsità delle ore di sostegno, docenti di sostegno non specializzati, il 60 per cento della scuole non accessibili, la mancanza di rete lascino i diritti solo sulla carta",
+      "spokenText": "Maurizio Borgo ha messo in luce un paradosso che tocca la vita scolastica di migliaia di studenti: quello di diritti che restano soltanto sulla carta. Dall’altro, la presenza di docenti di sostegno non specializzati, chiamati a coprire ruoli per i quali non hanno ricevuto una formazione specifica. Infine, la mancanza di una rete integrata tra scuola, servizi e territorio lascia le famiglie isolate in un percorso a ostacoli. Maurizio Borgo spiega come la scarsità delle ore di sostegno, docenti di sostegno non specializzati, il 60 per cento della scuole non accessibili, la mancanza di rete lascino i diritti solo sulla carta.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "garante",
+        "maurizio borgo"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 41,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/cronaca/2026/09/02/news/maurizio_borgo_studenti_disabili_scuola_accessibilita_intervista-425560210/"
+      },
+      "analysis": {
+        "mainFact": "Maurizio Borgo spiega come la scarsità delle ore di sostegno, docenti di sostegno non specializzati, il 60 per cento della scuole non accessibili, la mancanza di rete lascino i diritti solo sulla carta",
+        "whyItMatters": "400mila studenti con disabilità senza reale inclusione scolastica, tema di diritti e salute.",
+        "confirmedFacts": [
+          "Maurizio Borgo spiega come la scarsità delle ore di sostegno, docenti di sostegno non specializzati, il 60 per cento della scuole non accessibili, la mancanza di rete lascino i diritti solo sulla carta",
+          "400mila studenti con disabilità senza reale inclusione scolastica, tema di diritti e salute."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Garante",
+          "Maurizio Borgo"
+        ],
+        "numbersAndDates": [
+          "60"
+        ]
+      }
+    },
+    {
+      "id": "story-cb437291979a6ce8",
+      "title": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare",
+      "summary": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini; Il 25 agosto alle 11. 00 è prevista la tavola rotonda “ Un tuffo dove il mare è più blu: persone e azioni per la salvaguardia dei nostri ecosistemi marini ” con la partecipazione della Presidente ISPRA e SNPA Maria Alessandra Gallone. Si parlerà dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
+      "spokenText": "Immaginate un laboratorio che galleggia, una vera e propria infrastruttura mobile dedicata alla conoscenza e alla tutela del Mediterraneo. È questo il cuore pulsante dello spazio che ISPRA e il Sistema Nazionale per la Protezione Ambientale porteranno al Meeting per l’amicizia fra i popoli, in programma alla Fiera di Rimini dal 21 al 26 agosto. Il mare, con il suo stato di salute, sarà il grande protagonista dei talk e dell’area espositiva. Si parlerà di economia blu, di come proteggere la biodiversità marina, del monitoraggio costante degli ecosistemi e del controllo dell’inquinamento, senza dimenticare un aspetto che tocca tutti da vicino, come la balneazione. ISPRA e SNPA al Meeting di Rimini 2026.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "arcadia",
+        "snpa",
+        "ispra",
+        "meeting per l amicizia fra i popoli",
+        "rimini"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 45,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/a-rimini-arcadia-si-presenta-al-pubblico-al-meeting-201capproda201d-la-riproduzione-in-scala-della-nuova-nave-oceanografica-di-ispra"
+      },
+      "analysis": {
+        "mainFact": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
+        "whyItMatters": "Questa nuova infrastruttura rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA, contribuendo alla tutela della biodiversità e al monitoraggio dell’inquinamento del Mar Mediterraneo.",
+        "confirmedFacts": [
+          "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
+          "Questa nuova infrastruttura rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA, contribuendo alla tutela della biodiversità e al monitoraggio dell’inquinamento del Mar Mediterraneo.",
+          "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
+          "ISPRA e il Sistema nazionale per la protezione ambientale quest'anno dal 21 al 26 agosto partecipano al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini .",
+          "ISPRA e SNPA al Meeting di Rimini 2026"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Arcadia",
+          "SNPA",
+          "ISPRA",
+          "Meeting per l'amicizia fra i popoli",
+          "Rimini"
+        ],
+        "numbersAndDates": [
+          "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
+          "ISPRA e il Sistema nazionale per la protezione ambientale quest'anno dal 21 al 26 agosto partecipano al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini .",
+          "ISPRA e SNPA al Meeting di Rimini 2026",
+          "21",
+          "26"
+        ]
+      }
+    },
+    {
+      "id": "story-fd58e6da7c1ef4fb",
+      "title": "La rete, gestita dal programma Space Communications and Navigation della NASA",
+      "summary": "La rete, gestita dal programma Space Communications and Navigation della NASA, dovrebbe essere operativa su Marte entro il 2030 e supporterà sia le missioni attuali che quelle future verso il Pianeta Rosso, mentre la NASA si avventura più in profondità nello spazio.",
+      "spokenText": "La NASA ha ufficialmente affidato a Blue Origin un contratto per la progettazione, lo sviluppo, l'integrazione, il lancio e la gestione di una nuova rete di telecomunicazioni marziana. L'infrastruttura, che rientra nel più ampio programma Space Communications and Navigation dell'agenzia, ha un obiettivo operativo chiaro: essere pienamente funzionante sul Pianeta Rosso entro il 2030.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "nasa",
+        "blue origin"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
+      },
+      "analysis": {
+        "mainFact": "La rete, gestita dal programma Space Communications and Navigation della NASA, dovrebbe essere operativa su Marte entro il 2030 e supporterà sia le missioni attuali che quelle future verso il Pianeta Rosso, mentre la NASA si avventura più in profondità nello spazio.",
+        "whyItMatters": "NASA affida a Blue Origin la rete di comunicazione marziana, passo per esplorazione spaziale.",
+        "confirmedFacts": [
+          "La rete, gestita dal programma Space Communications and Navigation della NASA, dovrebbe essere operativa su Marte entro il 2030 e supporterà sia le missioni attuali che quelle future verso il Pianeta Rosso, mentre la NASA si avventura più in profondità nello spazio.",
+          "NASA affida a Blue Origin la rete di comunicazione marziana, passo per esplorazione spaziale.",
+          "Blue Origin progetterà, svilupperà, integrerà, lancerà e gestirà la rete come parte della più ampia infrastruttura di comunicazione e navigazione spaziale dell'agenzia."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "Blue Origin"
+        ],
+        "numbersAndDates": [
+          "La rete, gestita dal programma Space Communications and Navigation della NASA, dovrebbe essere operativa su Marte entro il 2030 e supporterà sia le missioni attuali che quelle future verso il Pianeta Rosso, mentre la NASA si avventura più in profondità nello spazio.",
+          "2030"
+        ]
+      }
+    },
+    {
+      "id": "story-8f74a192fc6c843e",
+      "title": "\"Forse non è reale",
+      "summary": "\"Forse non è reale. \" Ma un'immagine satellitare recuperata dal suo team e datata 21 luglio ha confermato che era reale, e stava effettivamente galleggiando in mezzo al bacino idrico in una remota parte settentrionale della provincia.",
+      "spokenText": "Forse non è reale. È questo che si pensava quando è emersa la storia di un’isola improvvisamente comparsa in un remoto bacino idrico del nord della provincia. Poi il team di BC Hydro ha recuperato un’immagine satellitare datata 21 luglio, e il dubbio è svanito: l’isola c’era davvero, galleggiava in mezzo all’acqua. Ma la sua esistenza è stata incredibilmente breve, perché in una nuova foto scattata poche settimane dopo, il 5 agosto, di quella massa galleggiante non c’era già più alcuna traccia.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "bc hydro"
+      ],
+      "importance": 60,
+      "mustInclude": false,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "\"Forse non è reale. \" Ma un'immagine satellitare recuperata dal suo team e datata 21 luglio ha confermato che era reale, e stava effettivamente galleggiando in mezzo al bacino idrico in una remota parte settentrionale della provincia.",
+        "whyItMatters": "Isola galleggiante in Canada: fenomeno naturale curioso con risvolti scientifici e ambientali, buona varietà editoriale.",
+        "confirmedFacts": [
+          "\"Forse non è reale. \" Ma un'immagine satellitare recuperata dal suo team e datata 21 luglio ha confermato che era reale, e stava effettivamente galleggiando in mezzo al bacino idrico in una remota parte settentrionale della provincia.",
+          "Isola galleggiante in Canada: fenomeno naturale curioso con risvolti scientifici e ambientali, buona varietà editoriale.",
+          "L'isola, tuttavia, sembrava essere scomparsa in un'immagine satellitare scattata solo poche settimane dopo, il 5 agosto."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "BC Hydro"
+        ],
+        "numbersAndDates": [
+          "\"Forse non è reale. \" Ma un'immagine satellitare recuperata dal suo team e datata 21 luglio ha confermato che era reale, e stava effettivamente galleggiando in mezzo al bacino idrico in una remota parte settentrionale della provincia.",
+          "L'isola, tuttavia, sembrava essere scomparsa in un'immagine satellitare scattata solo poche settimane dopo, il 5 agosto.",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "story-24cc7e50ea4e9fda",
+      "title": "Il direttore della Mostra sulle polemiche, la Palestina e l’intelligenza artificiale",
+      "summary": "Il direttore della Mostra sulle polemiche, la Palestina e l’intelligenza artificiale: “Va normata e controllata, ma può ampliare le possibilità creative”",
+      "spokenText": "Il direttore della Mostra è intervenuto sulle polemiche, toccando anche i temi della Palestina e dell’intelligenza artificiale. Proprio sull’IA ha espresso una posizione netta, affermando che si tratta di uno strumento che va normato e controllato, ma che al tempo stesso può ampliare le possibilità creative.",
+      "category": "cultura",
+      "tags": [
+        "cultura"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 19,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/02/news/alberto_barbera_mostra_cinema_venezia_83_intervista-425559176/"
+      },
+      "analysis": {
+        "mainFact": "Il direttore della Mostra sulle polemiche, la Palestina e l’intelligenza artificiale",
+        "whyItMatters": "Il direttore ha affermato che l'intelligenza artificiale \"va normata e controllata, ma può ampliare le possibilità creative\".",
+        "confirmedFacts": [
+          "Il direttore della Mostra sulle polemiche, la Palestina e l’intelligenza artificiale",
+          "Il direttore ha affermato che l'intelligenza artificiale \"va normata e controllata, ma può ampliare le possibilità creative\".",
+          "Il direttore della Mostra sulle polemiche, la Palestina e l’intelligenza artificiale: “Va normata e controllata, ma può ampliare le possibilità creative”"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-cc3b324129140601",
+      "title": "Ha causato la morte di più di 1000 persone",
+      "summary": "Ha causato la morte di più di 1000 persone, mentre le autorità cercano di localizzare migliaia di dispersi e liberare centinaia di lavoratori intrappolati in un tunnel idroelettrico.",
+      "spokenText": "Una devastante alluvione ha colpito Nepal e Tibet, causando la morte di più di mille persone. Le autorità sono al lavoro per localizzare migliaia di dispersi e per liberare centinaia di lavoratori rimasti intrappolati in un tunnel idroelettrico. Soniya, co-autrice di questo articolo e cittadina nepalese, ha vissuto la tragedia in prima persona mentre forniva assistenza umanitaria alle comunità colpite. Un'esperienza che le ha permesso di toccare con mano, già durante il mortale terremoto del 2015 in Nepal, quanto sia cruciale il ruolo delle comunità locali nell'allerta e nella risposta ai disastri. Storie come queste illustrano proprio l'importanza di quei legami sociali che, in assenza di comunicazioni ufficiali immediate, diventano la prima e più efficace rete di soccorso.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "nepal",
+        "tibet"
+      ],
+      "importance": 65,
+      "mustInclude": false,
+      "estimatedSeconds": 48,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/despite-losing-everything-communities-along-the-nepal-tibet-border-are-helping-each-other-rebuild-290856"
+      },
+      "analysis": {
+        "mainFact": "Ha causato la morte di più di 1000 persone, mentre le autorità cercano di localizzare migliaia di dispersi e liberare centinaia di lavoratori intrappolati in un tunnel idroelettrico.",
+        "whyItMatters": "Alluvione catastrofica in Nepal-Tibet, resilienza comunitaria e impatto umanitario.",
+        "confirmedFacts": [
+          "Ha causato la morte di più di 1000 persone, mentre le autorità cercano di localizzare migliaia di dispersi e liberare centinaia di lavoratori intrappolati in un tunnel idroelettrico.",
+          "Alluvione catastrofica in Nepal-Tibet, resilienza comunitaria e impatto umanitario.",
+          "Soniya, co-autrice di questo articolo e cittadina nepalese, ha vissuto tutto questo in prima persona mentre forniva assistenza umanitaria alle comunità colpite dal mortale terremoto del 2015 in Nepal.",
+          "Queste storie illustrano il ruolo cruciale che le comunità giocano nell'allerta e nella risposta ai disastri."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Nepal",
+          "Tibet"
+        ],
+        "numbersAndDates": [
+          "Ha causato la morte di più di 1000 persone, mentre le autorità cercano di localizzare migliaia di dispersi e liberare centinaia di lavoratori intrappolati in un tunnel idroelettrico.",
+          "Soniya, co-autrice di questo articolo e cittadina nepalese, ha vissuto tutto questo in prima persona mentre forniva assistenza umanitaria alle comunità colpite dal mortale terremoto del 2015 in Nepal.",
+          "1000"
+        ]
+      }
+    },
+    {
+      "id": "story-403daab4dbb627c5",
+      "title": "L'anno scorso, l'agenzia delle Nazioni Unite per l'aviazione ha stabilito che la",
+      "summary": "L'anno scorso, l'agenzia delle Nazioni Unite per l'aviazione ha stabilito che la Russia era responsabile per l'abbattimento del volo Malaysia Airlines MH17 sull'Ucraina orientale nel luglio 2014.",
+      "spokenText": "L’agenzia delle Nazioni Unite per l’aviazione ha stabilito l’anno scorso la responsabilità della Russia nell’abbattimento del volo Malaysia Airlines MH17, avvenuto sull’Ucraina orientale nel luglio 2014. Tutte le 298 persone a bordo sono rimaste uccise da un missile di fabbricazione russa. Putin si è scusato con il presidente del vicino Azerbaigian per l'abbattimento di un aereo di linea commerciale nello spazio aereo russo, in cui 38 persone sono state uccise.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "osprey flight solutions",
+        "malaysia airlines"
+      ],
+      "importance": 62,
+      "mustInclude": false,
+      "estimatedSeconds": 28,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "L'anno scorso, l'agenzia delle Nazioni Unite per l'aviazione ha stabilito che la Russia era responsabile per l'abbattimento del volo Malaysia Airlines MH17 sull'Ucraina orientale nel luglio 2014.",
+        "whyItMatters": "Escalation droni in Ucraina e rischi per aviazione civile.",
+        "confirmedFacts": [
+          "L'anno scorso, l'agenzia delle Nazioni Unite per l'aviazione ha stabilito che la Russia era responsabile per l'abbattimento del volo Malaysia Airlines MH17 sull'Ucraina orientale nel luglio 2014.",
+          "Escalation droni in Ucraina e rischi per aviazione civile.",
+          "Tutte le 298 persone a bordo dell'aereo passeggeri sono state uccise quando è stato abbattuto da un missile di fabbricazione russa.",
+          "Putin si è scusato con il presidente del vicino Azerbaigian per l'abbattimento di un aereo di linea commerciale nello spazio aereo russo, in cui 38 persone sono state uccise."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Russia",
+          "Osprey Flight Solutions",
+          "Malaysia Airlines"
+        ],
+        "numbersAndDates": [
+          "L'anno scorso, l'agenzia delle Nazioni Unite per l'aviazione ha stabilito che la Russia era responsabile per l'abbattimento del volo Malaysia Airlines MH17 sull'Ucraina orientale nel luglio 2014.",
+          "Tutte le 298 persone a bordo dell'aereo passeggeri sono state uccise quando è stato abbattuto da un missile di fabbricazione russa.",
+          "Putin si è scusato con il presidente del vicino Azerbaigian per l'abbattimento di un aereo di linea commerciale nello spazio aereo russo, in cui 38 persone sono state uccise.",
+          "2014"
+        ]
       }
     }
   ]
