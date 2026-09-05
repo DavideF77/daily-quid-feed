@@ -1,635 +1,589 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-09-04-ebc9593d7b3d",
-  "generatedAt": "2026-09-04T09:24:26.814Z",
+  "catalogId": "daily-quid-2026-09-05-de1dbd5684f0",
+  "generatedAt": "2026-09-05T08:46:12.953Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-26752c63c3468b22",
-      "title": "Allarme Onu: sarà El Niño più forte degli ultimi cinquant’anni",
-      "summary": "Già a settembre siccità e inondazioni affameranno 50 milioni di persone in più nel mondo. Il segretario Guterres: «Il pianeta si trova in acque inesplorate»",
-      "spokenText": "Le Nazioni Unite hanno lanciato un allarme senza precedenti su El Niño, che si preannuncia come il più intenso degli ultimi cinquant'anni. La portata della crisi umanitaria è già scritta nelle proiezioni del Programma alimentare mondiale. Ma lo sguardo si allunga sull'anno prossimo, quando la percentuale di individui a rischio di insicurezza alimentare grave potrebbe aumentare del 22%. Tradotto in cifre assolute, significa 274 milioni di persone malnutrite in più rispetto alle stime attuali. Già a settembre siccità e inondazioni affameranno 50 milioni di persone in più nel mondo. L’agenzia delle Nazioni Unite prevede una probabilità prossima al 100% che El Niño, alimentato da temperature eccezionalmente elevate delle acque dell’Oceano Pacifico, persisterà fino a febbraio 2027. Il segretario Guterres: «Il pianeta si trova in acque inesplorate».",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "onu",
-        "el nino",
-        "guterres",
-        "programma alimentare mondiale"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 51,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/allarme-onu-sara-el-nino-piu-forte-ultimi-cinquant-anni-AJbYup2"
-      },
-      "analysis": {
-        "mainFact": "L'Onu ha lanciato l'allarme per un El Niño che sarà il più forte degli ultimi cinquant'anni.",
-        "whyItMatters": "Già a settembre siccità e inondazioni affameranno 50 milioni di persone in più nel mondo.",
-        "confirmedFacts": [
-          "L'Onu ha lanciato l'allarme per un El Niño che sarà il più forte degli ultimi cinquant'anni.",
-          "Già a settembre siccità e inondazioni affameranno 50 milioni di persone in più nel mondo.",
-          "L’agenzia delle Nazioni Unite prevede una probabilità prossima al 100% che El Niño, alimentato da temperature eccezionalmente elevate delle acque dell’Oceano Pacifico, persisterà fino a febbraio 2027.",
-          "Entro l’anno prossimo, la percentuale di persone a rischio di insicurezza alimentare grave potrebbe aumentare del 22%: qualcosa come 274 milioni di individui malnutriti in più.",
-          "Il segretario Guterres: «Il pianeta si trova in acque inesplorate»",
-          "Il Programma alimentare mondiale dell’Onu ha stimato che già a partire da questo mese, per colpa del Niño, 50 milioni di persone in più potrebbero trovarsi ad affrontare una grave crisi alimentare."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Onu",
-          "El Niño",
-          "Guterres",
-          "Programma alimentare mondiale"
-        ],
-        "numbersAndDates": [
-          "L’agenzia delle Nazioni Unite prevede una probabilità prossima al 100% che El Niño, alimentato da temperature eccezionalmente elevate delle acque dell’Oceano Pacifico, persisterà fino a febbraio 2027.",
-          "Entro l’anno prossimo, la percentuale di persone a rischio di insicurezza alimentare grave potrebbe aumentare del 22%: qualcosa come 274 milioni di individui malnutriti in più.",
-          "Il Programma alimentare mondiale dell’Onu ha stimato che già a partire da questo mese, per colpa del Niño, 50 milioni di persone in più potrebbero trovarsi ad affrontare una grave crisi alimentare.",
-          "50"
-        ]
-      }
-    },
-    {
-      "id": "story-57d0701a91eafbd7",
-      "title": "Abbiamo ormai perso le speranze per restare sotto 1,5°C",
-      "summary": "di Jacopo Mengarelli Pubblicato il 04/09/2026 Ci vuole una certa pazienza a fare comunicazione climatica se bisogna continuare a ripetere ossessivamente quali sono le cose da fare per arrivare a zero emissioni nette e per adattarsi al clima che cambia. Questa volta la strigliata arriva dall’UNEP che ci dice che non è affatto detto che l’umanità riuscirà a restare sotto 1,5°C per fine secolo. Che serve usare tutte le tecnologie in campo, compresa la rimozione artificiale di CO2 dall’atmosfera. Che serve – udite udite – darsi una mossa. Il nuovo rapporto identifica un pacchetto di azioni climatiche che devono servire per contenere il sorpasso di 1,5°C il più possibile e favorire un rientro veloce e sicuro. Foto di Annette da Pixabay Tempo di lettura: 8 mins Ambiente Clima Economia È uscito il 2 settembre un nuovo report dell’UNEP dal titolo Limiting Overshoot: Navigating exceedance of 1. 5°C and pathways towards return. Il messaggio principale è che il superamento temporaneo di 1,5°C è ormai inevitabile date le traiettorie di emissioni e le politiche attuali. Ricordiamo sempre che stiamo parlando dell’aumento della temperatura media globale rispetto ai livelli preindustriali. La questione per i decisori politici non è più solo come evitare il sorpasso, ma come comprendere, prepararsi e navigare un futuro in cui le temperature globali superano il limite minimo sancito dall’Accordo di Parigi. L’altro messaggio importante è che ogni frazione di grado evitata riduce i rischi climatici, quindi di certo – come tutti quelli che si occupano di clima ripetono – non ha senso parlare di sconfitta o resa. Non è che sotto i 1,5°C c’è l’eden e sopra c’è l’inferno. Nello scenario più ottimistico ritorna un numero che già da qualche anno avevamo iniziato a leggere: 1,8°C. Comunque sotto i 2°C, che sono l’altra famosa soglia, più “permissiva”, dell’Accordo di Parigi. Il rapporto delinea il percorso da intraprendere per ridurre i danni a barriere coralline, ghiacciai, evitare tipping point, assicurare sicurezza alimentare e idrica, salute, ridurre gli impatti nelle città, negli oceani, e via dicendo. Il percorso, appunto, è \"overshoot, peak and decline\" (superamento, picco, declino) e prevede tre fasi: risposta immediata, contenimento, resilienza di lungo periodo. «Il report UNEP ci mette davanti a una dura realtà, quella del previsto sforamento di uno dei due obiettivi-limite dell'Accordo di Parigi», ci ha detto Jacopo Bencini, Presidente di Italian Climate Network. «La notizia non arriva sicuramente a freddo, anzi, i dati confermano un trend già ampiamente anticipato e che conferma la potenza distruttiva dell'inazione politica. A portarci sulla strada di 1,8°C sono infatti le politiche insufficienti dei governi e dei loro piani clima, gli NDC [gli obiettivi climatici ufficiali dei singoli paesi], ancora ampiamente inadatti (e spesso sottofinanziati a livello nazionale) rispetto alla sfida». La noia mortale è il sentimento che chi parla di clima (e chi lo studia) prova nel ripetere ossessivamente le soluzioni da mettere in campo. Sono sempre quelle e servono sostanzialmente a ridurre le emissioni da un lato e adattarsi agli impatti climatici crescenti dall’altro. Come noto, NON sono una alternativa all’altra. Il report è categorico: mitigazione e adattamento sono fondamentalmente interconnessi e devono avanzare insieme in tutte le fasi. Non c'è gerarchia netta tra le due. Una mitigazione debole aumenta gli impatti e rischia di dirottare fondi verso risposte di emergenza invece che verso l'azione climatica, creando un circolo vizioso. Riduzioni rapide di CO2, metano e altri gas serra restano la priorità immediata. Contemporaneamente, anche la mitigazione di maggior successo non eliminerà il bisogno di adattamento: 1,5°C non è considerato sicuro per la maggior parte di nazioni, comunità, ecosistemi e settori. Serve un adattamento \"trasformazionale\", non incrementale. Ecco quindi che serve mettere in campo tutti gli strumenti necessari, e un ruolo dovrà averlo anche la rimozione di CO2 dall’atmosfera, ma con limiti forti e una governance robusta, scrive l’UNEP. Messaggio alle multinazionali fossili: rimuovere gas serra dall’atmosfera NON serve per continuare a estrare gas, petrolio e carbone, che vanno eliminati in ogni caso. L’altro tema di cui non ci si deve dimenticare è che equità e giustizia devono essere al centro della transizione, perché ci sono paesi che hanno responsabilità storiche maggiori di altri (per essere concisi: l’occidente, il G20, noi, quelli ricchi) e che hanno il compito di aiutare il resto del mondo. Il pacchetto d’azione dell’UNEP ci dice che dopo un certo periodo di “overshooting”, di superamento del 1,5°C, si potrà tornare sottosoglia, ma questo purtroppo non elimina molte delle perdite che si registreranno, che saranno irreversibili e permanenti comunque. Questo percorso si estende verosimilmente fino a fine secolo, con gli scenari più ottimistici che vedono un ritorno sotto 1,5°C entro qualche decennio. Anche in scenari in cui le emissioni nette negative di CO₂ raggiungano le 10 GtCO₂ [miliardi di tonnellate di anidride carbonica] all’anno, ovvero circa un quarto delle emissioni attuali di CO₂, il riscaldamento potrebbe ridursi solo di circa 0,05 °C per decennio. In altre parole, un decennio di riscaldamento globale al ritmo attuale di circa 0,25 °C per decennio potrebbe richiedere circa 50 anni per essere invertito, anche ipotizzando scenari ottimistici di CDR [Carbon Dioxide Removal, rimozione dell’anidride carbonica]. L’impiego attuale di queste tecnologie rimane ben al di sotto di tali livelli: nell’ultimo decennio, la rimozione durevole della CO₂ basata sul suolo ha raggiunto in media circa 2 GtCO₂ all’anno, mentre i nuovi metodi di CDR, che utilizzano tecnologie per catturare e stoccare il carbonio, hanno rimosso quantità pari a circa un millesimo di tale valore. Sia la possibilità che la velocità di tornare sotto i 1,5°C una volta superati dipende da vari fattori: la riduzione delle emissioni a breve termine, mantenimento nel tempo di basse emissioni, uso massimo sostenibile di rimozione di CO2, risposta climatica del sistema Terra (e qui c’è più incertezza dovuta anche ai noti tipping point), capacità di governance globale (una volta arrivate le \"condizioni di picco\", dice l’UNEP, lo spazio politico per costruire politiche climatiche si restringe), l'entità del livello di picco raggiunto. Immagini tratte dal rapporto UNEP e tradotte Ciò non toglie che il superamento diventi da temporaneo a permanente. Dipende, appunto, da quanto decisamente agiremo. Oltre circa 1,8°C, il declino verso 1,5°C entro il ventunesimo secolo diventa sempre più difficile, perché la capacità naturale di rimozione e trattenimento del carbonio si degraderebbe e la competizione con altri obiettivi di sviluppo sostenibile limiterebbe la fattibilità di strategie di mitigazione ad alta intensità di suolo. In altre parole, se per ridurre le emissioni instauro una fantastica dittatura climatica, andrò a comprimere diritti sociali e civili, partecipazione politica, e così via. Per quanto riguarda poi i tipping point, evidenze crescenti indicano che un riscaldamento sostenuto sopra 1,5°C aumenta il rischio di innescarne uno o più (vedi calotte antartica occidentale e groenlandese, AMOC, foresta amazzonica, ecc. Conclude Bencini: «Sta ora sempre più alla società civile, alla scienza, ai partiti politici spingere i governi a non vedere quella del clima come una partita persa in partenza verso le prossime COP, piuttosto, a prendere i lati – se così possiamo dire – positivi del report, ossia il fatto che esiste ancora tecnicamente la possibilità di contenere il danno». Ecco perché, alla prossima COP31 di novembre ad Antalya in Turchia «si dovrà avviare al meglio il percorso che porta al secondo check-up climatico previsto per il 2028, probabilmente in quella che sarà la COP della Cina, dove i governi dovranno necessariamente proporre strumenti per blindare Parigi mentre agiscono, secondo schemi plurilaterali e per piccoli gruppi, al di fuori delle sale negoziali». Nel report ci sono un paio di focus sui costi economici e sulle ripercussioni legali che è interessante leggere. Li riassumiamo qui sotto. Lo stress da calore riduce la produttività, soprattutto in agricoltura (le stime indicano una perduta al 2050 in Ghana dell’8,5%, in Sri Lanka del 6/8%, in Guinea-Bissau del 9,5%), colpendo più i lavoratori manuali che quelli d'ufficio. Cali di resa agricola e di disponibilità idrica si traducono in perdite economiche più ampie. In Argentina l’assenza di misure può portare a compromettere il 25% dell'attuale superficie irrigata, causando perdite annuali per circa 837 milioni di dollari, danni ingenti sono previsti anche Ghana, Iraq, Pakistan, con impatti aggravati su Piccoli Stati Insulari (come la pesca alle Maldive). Eventi estremi generano danni economici crescenti e a cascata su trasporti e reti (in Pakistan le alluvioni del 2022 hanno causato oltre 30 miliardi di dollari di danni). Gli impatti climatici aumentano la povertà e colpiscono in modo sproporzionato i più poveri, spesso senza copertura sociale adeguata. Molto interessanti anche le implicazioni legali che si presenterebbero in caso di superamento di 1,5°C. Il quadro giuridico internazionale (UNFCCC, Accordo di Parigi, UNCLOS - la convenzione sul diritto del mare - e i vari obblighi consuetudinari) resta imperniato su 1,5°C e continuerà a guidare gli obblighi degli Stati anche in caso di superamento: un percorso di overshoot non sostituisce questo quadro legale, ne cambia solo le circostanze applicative. In un parere consultivo 2025, la Corte Internazionale di Giustizia (ICJ) ha stabilito che 1,5°C è l'obiettivo primario concordato dalle parti dell'Accordo di Parigi, e che gli Stati devono esercitare una due diligence rigorosa nel preparare NDC coerenti con questo obiettivo. Il Tribunale internazionale per il diritto del mare ha analogamente legato gli obblighi di mitigazione alla soglia di 1,5°C e alle «migliori conoscenze scientifiche disponibili». Gli Stati devono regolare rigorosamente le emissioni di gas serra, incluse quelle di attori privati; l'ICJ ha identificato la produzione e il consumo di combustibili fossili, le licenze di esplorazione per idrocarburi e i sussidi alle fonti fossili come aree giuridiche dove l'inazione può costituire un illecito internazionale. La rimozione di carbonio è legalmente trattata come complementare alla mitigazione, non sostitutiva, e resta soggetta a vincoli su biodiversità, ambiente marino, diritti umani e interessi di altri Stati. Gli obblighi di adattamento acquistano importanza crescente sotto overshoot: gli Stati devono pianificare e agire con due diligence e alla luce delle «migliori conoscenze scientifiche», anche per i danni che persistono dopo il declino delle temperature. Gli Stati devono cooperare tramite finanza, trasferimento tecnologico, capacity-building e condivisione di dati scientifici, specie a beneficio degli Stati vulnerabili in via di sviluppo con minore accesso a informazioni tecniche. Anche dal punto di vista giuridico, quindi, sembra esserci una sostanziale certezza sul fatto che il diritto internazionale riconosca e tuteli gli obblighi della transizione ecologica e punisca i trasgressori. Non sarebbe male, già che ci siamo, che l’ecocidio diventi finalmente il quinto reato internazionale presso la Corte Penale Internazionale. Ora, ai Master di comunicazione della scienza insegnano che non si deve terrorizzare il pubblico (non si deve dire al fumatore/fumatrice che se continuerà a fumare morirà molto probabilmente di cancro ai polmoni in atroci sofferenze), perché questo produce una risposta di rigetto. La psicologia ha indagato ormai i vari bias comunicativi a cui prestare attenzione: non dare la soluzione magica, non guardare solo il proprio cortile, non fidarsi della prima impressione, ecc. (ne avevamo parlato anche nei corsi di formazione Ok! Clima). Ecco, le soluzioni le abbiamo date (anche questo è un imperativo della comunicazione climatica), e le ricordiamo a ogni santo articolo di clima che scriviamo. Sfugge, tuttavia, come in presenza di questi scenari ci si possa ancora concedere il lusso di non spaventare troppo le persone tranquillizzandole che tanto andrà tutto bene. Non è così, l’abbiamo visto anche stavolta. E come ogni volta ricordiamo che le scelte politiche climatiche dei governi (e dei parlamenti) passano innanzitutto attraverso il nostro voto alle urne elettorali, attraverso la partecipazione politica attiva e attraverso l’adesione collettiva alle azioni di mitigazione e adattamento climatico.",
-      "spokenText": "Secondo un nuovo report dell'UNEP, il superamento temporaneo della soglia di 1,5°C è ormai inevitabile viste le attuali traiettorie di emissioni e le politiche in campo. La questione per i decisori politici non è più solo come evitare il sorpasso, ma come comprendere, prepararsi e navigare un futuro in cui le temperature globali superano il limite minimo sancito dall'Accordo di Parigi. Questa volta la strigliata arriva dall'UNEP, che ci dice che non è affatto detto che l'umanità riuscirà a restare sotto 1,5°C per fine secolo. Il nuovo rapporto identifica un pacchetto di azioni climatiche che devono servire per contenere il sorpasso il più possibile e favorire un rientro veloce e sicuro. Come spiega Jacopo Bencini dell'Italian Climate Network, non è che sotto i 1,5°C c'è l'eden e sopra c'è l'inferno, ma abbiamo ormai perso le speranze per restare sotto questa soglia. Comunque sotto i 2°C, che sono l’altra famosa soglia, più “permissiva”, dell’Accordo di Parigi.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "unep",
-        "jacopo bencini",
-        "italian climate network",
-        "accordo di parigi"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 62,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articolo/abbiamo-ormai-perso-le-speranze-restare-sotto-15c/jacopo-mengarelli/2026-09-04"
-      },
-      "analysis": {
-        "mainFact": "Secondo un nuovo report dell'UNEP, il superamento temporaneo di 1,5°C è ormai inevitabile date le traiettorie di emissioni e le politiche attuali.",
-        "whyItMatters": "Che serve usare tutte le tecnologie in campo, compresa la rimozione artificiale di CO2 dall’atmosfera.",
-        "confirmedFacts": [
-          "Secondo un nuovo report dell'UNEP, il superamento temporaneo di 1,5°C è ormai inevitabile date le traiettorie di emissioni e le politiche attuali.",
-          "Che serve usare tutte le tecnologie in campo, compresa la rimozione artificiale di CO2 dall’atmosfera.",
-          "La questione per i decisori politici non è più solo come evitare il sorpasso, ma come comprendere, prepararsi e navigare un futuro in cui le temperature globali superano il limite minimo sancito dall’Accordo di Parigi.",
-          "Il nuovo rapporto identifica un pacchetto di azioni climatiche che devono servire per contenere il sorpasso di 1,5°C il più possibile e favorire un rientro veloce e sicuro.",
-          "Questa volta la strigliata arriva dall’UNEP che ci dice che non è affatto detto che l’umanità riuscirà a restare sotto 1,5°C per fine secolo.",
-          "Non è che sotto i 1,5°C c’è l’eden e sopra c’è l’inferno.",
-          "Comunque sotto i 2°C, che sono l’altra famosa soglia, più “permissiva”, dell’Accordo di Parigi.",
-          "Abbiamo ormai perso le speranze per restare sotto 1,5°C"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "UNEP",
-          "Jacopo Bencini",
-          "Italian Climate Network",
-          "Accordo di Parigi"
-        ],
-        "numbersAndDates": [
-          "Il nuovo rapporto identifica un pacchetto di azioni climatiche che devono servire per contenere il sorpasso di 1,5°C il più possibile e favorire un rientro veloce e sicuro.",
-          "Questa volta la strigliata arriva dall’UNEP che ci dice che non è affatto detto che l’umanità riuscirà a restare sotto 1,5°C per fine secolo.",
-          "Non è che sotto i 1,5°C c’è l’eden e sopra c’è l’inferno.",
-          "Comunque sotto i 2°C, che sono l’altra famosa soglia, più “permissiva”, dell’Accordo di Parigi.",
-          "Abbiamo ormai perso le speranze per restare sotto 1,5°C",
-          "1,5"
-        ]
-      }
-    },
-    {
-      "id": "story-87984f2e39ef86da",
-      "title": "Google svela l’AI meteo che usa i dati satellitari in tempo reale",
-      "summary": "WeatherNext 3 sfrutta immagini satellitari e dati al suolo aggiornati ogni ora per migliorare le previsioni meteorologiche fino a diversi giorni. The post Google svela l’AI meteo che usa i dati satellitari in tempo reale appeared first on Punto Informatico.",
-      "spokenText": "Google ha svelato WeatherNext 3, un sistema di intelligenza artificiale per le previsioni meteorologiche che cambia approccio rispetto ai modelli tradizionali. Invece di basarsi soltanto sulle classiche simulazioni numeriche, questo nuovo modello sviluppato da DeepMind e Google Research usa come materia prima i mosaici dei satelliti geostazionari aggiornati ogni ora e i rilevamenti al suolo. Il salto di qualità è misurabile: con questo sistema, le previsioni delle precipitazioni guadagnano fino al 60% di affidabilità rispetto ai dati IMERG della NASA, e le proiezioni a più giorni migliorano fino al 50%. Per capire l’evoluzione, basta guardare alla versione precedente, WeatherNext 2, che lavorava con una griglia di 25 chilometri e cicli di sei ore. Adesso il team ha aggiunto anche la velocità del vento a 100 metri di altitudine. L’intera famiglia di modelli sta mostrando risultati notevoli: GenCast, per esempio, ha superato i migliori sistemi classici nel 97% delle previsioni testate, partendo da scenari probabilistici piuttosto che da un’unica proiezione.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google",
-        "google deepmind",
-        "google research",
-        "nasa"
-      ],
-      "importance": 65,
-      "mustInclude": false,
-      "estimatedSeconds": 64,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/google-svela-ai-meteo-dati-satellitari-tempo-reale/"
-      },
-      "analysis": {
-        "mainFact": "Google ha svelato WeatherNext 3, un'AI meteo che sfrutta immagini satellitari e dati al suolo aggiornati ogni ora per migliorare le previsioni meteorologiche.",
-        "whyItMatters": "Google svela l'AI meteo che usa i dati satellitari in tempo reale WeatherNext 3 sfrutta immagini satellitari e dati al suolo aggiornati ogni ora per migliorare le previsioni meteorologiche fino a diversi giorni.",
-        "confirmedFacts": [
-          "Google ha svelato WeatherNext 3, un'AI meteo che sfrutta immagini satellitari e dati al suolo aggiornati ogni ora per migliorare le previsioni meteorologiche.",
-          "Google svela l'AI meteo che usa i dati satellitari in tempo reale WeatherNext 3 sfrutta immagini satellitari e dati al suolo aggiornati ogni ora per migliorare le previsioni meteorologiche fino a diversi giorni.",
-          "WeatherNext 3 , il nuovo modello di Google DeepMind e di Google Research , ha come materia prima i mosaici dei satelliti geostazionari aggiornati ogni ora e i rilevamenti al suolo , piuttosto che le sole simulazioni numeriche classiche.",
-          "Con questo sistema, le previsioni delle precipitazioni guadagnano fino al 60% di affidabilità rispetto ai dati IMERG della NASA, e le proiezioni a più giorni fino al 50%.",
-          "Google rivoluziona le previsioni meteo con WeatherNext 3 e l’AI La versione precedente, WeatherNext 2, presentava una griglia di 25 chilometri e cicli di sei ore.",
-          "Google DeepMind aggiunge a questo modello la velocità del vento a 100 metri di altitudine.",
-          "GenCast, ha superato i migliori sistemi classici nel 97% delle previsioni testate, partendo da scenari probabilistici piuttosto che da un’unica proiezione."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google",
-          "Google DeepMind",
-          "Google Research",
-          "NASA"
-        ],
-        "numbersAndDates": [
-          "WeatherNext 3 , il nuovo modello di Google DeepMind e di Google Research , ha come materia prima i mosaici dei satelliti geostazionari aggiornati ogni ora e i rilevamenti al suolo , piuttosto che le sole simulazioni numeriche classiche.",
-          "Con questo sistema, le previsioni delle precipitazioni guadagnano fino al 60% di affidabilità rispetto ai dati IMERG della NASA, e le proiezioni a più giorni fino al 50%.",
-          "Google rivoluziona le previsioni meteo con WeatherNext 3 e l’AI La versione precedente, WeatherNext 2, presentava una griglia di 25 chilometri e cicli di sei ore.",
-          "Google DeepMind aggiunge a questo modello la velocità del vento a 100 metri di altitudine.",
-          "GenCast, ha superato i migliori sistemi classici nel 97% delle previsioni testate, partendo da scenari probabilistici piuttosto che da un’unica proiezione.",
-          "3"
-        ]
-      }
-    },
-    {
-      "id": "story-0e1ddde876241725",
-      "title": "Tumore al seno, con la diagnosi precoce la sopravvivenza a 10 anni supera il 90%",
-      "summary": "Aumenta anche per le forme più aggressive. Studio del Cro di Aviano su 10.400 donne",
-      "spokenText": "Un grande studio di popolazione appena pubblicato dal Cro di Aviano e sostenuto dal Ministero della Salute getta una luce nuova e molto concreta sulla sopravvivenza dopo un tumore al seno. La ricerca ha analizzato nel dettaglio le storie cliniche di oltre 10.400 donne in Friuli Venezia Giulia, seguite per quasi vent'anni, incrociando per la prima volta in Italia tre fattori chiave: lo stadio del tumore alla diagnosi, il suo profilo molecolare e il grado istologico. Il risultato che emerge con forza è il valore inestimabile della diagnosi precoce. Ma il dato forse più incoraggiante riguarda le forme aggressive. Diagnosticato in stadio III, la sopravvivenza netta a dieci anni è letteralmente balzata dal 48,6% all'87,9%. La sopravvivenza netta a 10 anni per il tumore al seno diagnosticato in stadio I supera il 90% in tutti i sottotipi molecolari. Aumenta anche per le forme più aggressive. Il lavoro, sostenuto dal Ministero della Salute, ha analizzato le caratteristiche di oltre 10.400 donne che hanno ricevuto una diagnosi di carcinoma mammario invasivo in Friuli Venezia Giulia tra il 2004 e il 2014 e sono state seguite fino a fine 2023.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "cro di aviano",
-        "ministero della salute"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 75,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/09/03/tumore-al-seno-con-diagnosi-precoce-la-sopravvivenza-a-10-anni-supera-il-90_25d0c43f-c495-4e68-bb73-0bfac4196edc.html"
-      },
-      "analysis": {
-        "mainFact": "La sopravvivenza netta a 10 anni per il tumore al seno diagnosticato in stadio I supera il 90% in tutti i sottotipi molecolari.",
-        "whyItMatters": "Aumenta anche per le forme più aggressive.",
-        "confirmedFacts": [
-          "La sopravvivenza netta a 10 anni per il tumore al seno diagnosticato in stadio I supera il 90% in tutti i sottotipi molecolari.",
-          "Aumenta anche per le forme più aggressive.",
-          "Il lavoro, sostenuto dal Ministero della Salute, ha analizzato le caratteristiche di oltre 10.400 donne che hanno ricevuto una diagnosi di carcinoma mammario invasivo in Friuli Venezia Giulia tra il 2004 e il 2014 e sono state seguite fino a fine 2023.",
-          "Lo studio di popolazione, per la prima volta in Italia, informa il Cro, ha stimato la sopravvivenza a 10 anni considerando tre fattori: lo stadio alla diagnosi, il profilo molecolare e il grado istologico del tumore.",
-          "Tra le donne con un carcinoma HER2-positivo, con recettori ormonali negativi e in stadio III, la sopravvivenza netta a 10 anni è passata dal 48,6% all'87,9%.",
-          "Studio del Cro di Aviano su 10.400 donne",
-          "Nei casi di tumore al seno si conferma il valore della diagnosi precoce: quando il carcinoma viene scoperto in stadio I, la sopravvivenza netta a 10 anni supera il 90% in tutti i sottotipi molecolari e raggiunge il 98,8% nelle forme con recettori ormonali positivi e HER2-negative."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Cro di Aviano",
-          "Ministero della Salute"
-        ],
-        "numbersAndDates": [
-          "Il lavoro, sostenuto dal Ministero della Salute, ha analizzato le caratteristiche di oltre 10.400 donne che hanno ricevuto una diagnosi di carcinoma mammario invasivo in Friuli Venezia Giulia tra il 2004 e il 2014 e sono state seguite fino a fine 2023.",
-          "Lo studio di popolazione, per la prima volta in Italia, informa il Cro, ha stimato la sopravvivenza a 10 anni considerando tre fattori: lo stadio alla diagnosi, il profilo molecolare e il grado istologico del tumore.",
-          "Tra le donne con un carcinoma HER2-positivo, con recettori ormonali negativi e in stadio III, la sopravvivenza netta a 10 anni è passata dal 48,6% all'87,9%.",
-          "Studio del Cro di Aviano su 10.400 donne",
-          "Nei casi di tumore al seno si conferma il valore della diagnosi precoce: quando il carcinoma viene scoperto in stadio I, la sopravvivenza netta a 10 anni supera il 90% in tutti i sottotipi molecolari e raggiunge il 98,8% nelle forme con recettori ormonali positivi e HER2-negative.",
-          "10",
-          "90"
-        ]
-      }
-    },
-    {
-      "id": "story-647c3fc722397c17",
-      "title": "Studenti universitari e aumento del perfezionismo: generazioni a confronto",
-      "summary": "Il perfezionismo è in aumento tra i giovani e si associa sempre più a paura del fallimento, giudizio e difficoltà per la salute mentale L'articolo Studenti universitari e aumento del perfezionismo: generazioni a confronto proviene da State of Mind.",
-      "spokenText": "Il perfezionismo sta aumentando tra i giovani, e non è una semplice ricerca dell’eccellenza. Sempre più spesso si lega alla paura di fallire, al terrore del giudizio altrui e a serie difficoltà di salute mentale. Per capire la portata del fenomeno, è utile la teoria di Hewitt e Flett del 1991, che descrive il perfezionismo attraverso tre dimensioni, mostrando come non sia un tratto monolitico ma una costellazione di aspetti che possono diventare disfunzionali. La rilevanza di questi dati sta nel fatto che il perfezionismo è considerato un fattore di rischio transdiagnostico, capace di attraversare e alimentare molteplici psicopatologie. Studi come quelli di Flett e colleghi del 2022 e di Limburg e colleghi del 2017 lo configurano ormai come un problema di salute pubblica su scala globale. Perfezionismo e salute mentale: cosa emerge dallo studio Nello studio di Curran e colleghi (Curran, Hill, Pose, 2026) i ricercatori hanno analizzato i dati di 307 studi condotti tra il 1989 e il 2024, per un totale di oltre 82.000 studenti universitari americani, canadesi e britannici.",
+      "id": "story-b95de1eeb5787e58",
+      "title": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
+      "summary": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
+      "spokenText": "Con la prima campanella torna il rischio del cosiddetto 'back to school blues', quella malinconia da rientro che può accompagnare bambini e ragazzi nelle prime settimane di scuola. Un fenomeno su cui è bene non proiettare le proprie ansie: gli esperti ricordano che i genitori dovrebbero evitare domande pressanti e la tentazione di sovraccaricare subito i figli con attività extra, specie nella fase iniziale dell'anno scolastico, quando l'adattamento ai nuovi ritmi richiede tempo e leggerezza.",
       "category": "salute",
       "tags": [
         "salute"
       ],
-      "importance": 85,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 70,
+      "estimatedSeconds": 30,
       "source": {
-        "name": "State of Mind (Psicologia)",
-        "url": "https://www.stateofmind.it/2026/09/perfezionismo-giovani-salute-mentale/?utm_source=rss&utm_medium=rss&utm_campaign=perfezionismo-giovani-salute-mentale"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/09/04/con-la-prima-campanella-rischio-back-to-school-blues-la-malinconia-da-rientro_f0ce6d4a-6df1-4643-a195-bad04580e6cb.html"
       },
       "analysis": {
-        "mainFact": "Il perfezionismo è in aumento tra i giovani e si associa sempre più a paura del fallimento, giudizio e difficoltà per la salute mentale.",
-        "whyItMatters": "Il perfezionismo un fattore di rischio transdiagnostico per molteplici psicopatologie e si configura come un problema di salute pubblica a livello globale (Flett et al. , 2022; Limburg et al. , 2017).",
+        "mainFact": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
+        "whyItMatters": "Consigli dell'ISS su malinconia da rientro scolastico. Utile per benessere psicologico.",
         "confirmedFacts": [
-          "Il perfezionismo è in aumento tra i giovani e si associa sempre più a paura del fallimento, giudizio e difficoltà per la salute mentale.",
-          "Il perfezionismo un fattore di rischio transdiagnostico per molteplici psicopatologie e si configura come un problema di salute pubblica a livello globale (Flett et al. , 2022; Limburg et al. , 2017).",
-          "Similmente, secondo la teoria di Hewitt e Flett (1991), il perfezionismo caratterizzato da tre dimensioni.",
-          "Perfezionismo e salute mentale: cosa emerge dallo studio Nello studio di Curran e colleghi (Curran, Hill, Pose, 2026) i ricercatori hanno analizzato i dati di 307 studi condotti tra il 1989 e il 2024, per un totale di oltre 82.000 studenti universitari americani, canadesi e britannici.",
-          "Nel complesso, i ricercatori hanno riscontrato tassi crescenti di perfezionismo auto-riferito tra il 1989 e il 2024."
+          "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
+          "Consigli dell'ISS su malinconia da rientro scolastico. Utile per benessere psicologico.",
+          "Al contempo i genitori devono evitare di trasmettere le proprie ansie ai figli, con domande pressanti ed evitare di sovraccaricarli con attività extra specie a inizio anno scolastico."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-2195a372ebd431aa",
+      "title": "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace",
+      "summary": "Drone sugli 007 di Kiev. Il tycoon: \"La Russia non intende attaccare la Nato\"",
+      "spokenText": "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace. Secondo quanto denunciato dallo stesso presidente ucraino Volodymyr Zelensky, il drone russo ha preso di mira proprio \"lo studio del capo\" dei servizi segreti. Per questo la risposta di Zelensky è stata immediata e incisiva: \"Risponderemo in modo adeguato, significativo e, se possibile, in modo proporzionale\", ha promesso a caldo il presidente ucraino. Tra Mosca e Kiev, ha detto chiaro e tondo il portavoce del Cremlino Dmitry Peskov, non ci saranno accordi diretti per la sicurezza durante la visita mentre Zelensky invita a \"cessare i raid\" durante la visita. Drone sugli 007 di Kiev. Trump: “Putin non colpirà la Nato”.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "volodymyr zelensky",
+        "russia",
+        "nato"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 46,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/05/trump-manda-witkoff-e-kushner-da-putin-e-zelensky-con-un-piano-di-pace_2909e7e8-1a6a-4d5b-af61-5ec4cb4d3051.html"
+      },
+      "analysis": {
+        "mainFact": "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace",
+        "whyItMatters": "Trump, 'parlo con Putin, non intende attaccare i territori della Nato'",
+        "confirmedFacts": [
+          "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace",
+          "Trump, 'parlo con Putin, non intende attaccare i territori della Nato'",
+          "Secondo quanto denunciato dallo stesso presidente ucraino Volodymyr Zelensky, il drone russo ha preso di mira proprio \"lo studio del capo\" dei servizi segreti.",
+          "Per questo la risposta di Zelensky è stata immediata e incisiva: \"Risponderemo in modo adeguato, significativo e, se possibile, in modo proporzionale\", ha promesso a caldo il presidente ucraino.",
+          "Tra Mosca e Kiev, ha detto chiaro e tondo il portavoce del Cremlino Dmitry Peskov, non ci saranno accordi diretti per la sicurezza durante la visita mentre Zelensky invita a \"cessare i raid\" durante la visita.",
+          "Il tycoon: \"La Russia non intende attaccare la Nato\"",
+          "Drone sugli 007 di Kiev.",
+          "Trump: “Putin non colpirà la Nato”"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Volodymyr Zelensky",
+          "Russia",
+          "NATO"
+        ],
+        "numbersAndDates": [
+          "Drone sugli 007 di Kiev."
+        ]
+      }
+    },
+    {
+      "id": "story-2c9541fe97050c88",
+      "title": "Iran, petroliera colpita da quattro missili Usa all’isola di Kharg",
+      "summary": "Una petroliera iraniana al largo dell’isola di Kharg è stata colpita da quattro missili statunitensi. Lo riportano alcuni media iraniani. Intanto il presidente del Parlamento iraniano Ghalibaf sottolinea: «L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo»",
+      "spokenText": "Una petroliera iraniana al largo dell’isola di Kharg è stata colpita da quattro missili statunitensi. Lo riportano in queste ore alcuni media iraniani, tra cui lo Student News Network e il sito Khabar Fouri, ripresi da Al Jazeera. Secondo le stesse fonti, sarebbe in corso l’evacuazione dell’equipaggio. Intanto il presidente del Parlamento iraniano Ghalibaf sottolinea: «L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo».",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "iran",
+        "isola di kharg"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 29,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/iran-petroliera-colpita-quattro-missili-usa-all-isola-kharg-AJFbDJ4"
+      },
+      "analysis": {
+        "mainFact": "Una petroliera iraniana al largo dell'isola di Kharg è stata colpita da quattro missili statunitensi, come riportato da alcuni media iraniani.",
+        "whyItMatters": "Lo riportano alcuni media iraniani.",
+        "confirmedFacts": [
+          "Una petroliera iraniana al largo dell'isola di Kharg è stata colpita da quattro missili statunitensi, come riportato da alcuni media iraniani.",
+          "Lo riportano alcuni media iraniani.",
+          "Lo riportano alcuni media iraniani citati da Al Jazeera, segnatamente lo Student News Network (Snn) e il sito Khabar Fouri, secondo cui sarebbe in corso l’evacuazione dell’equipaggio.",
+          "Intanto il presidente del Parlamento iraniano Ghalibaf sottolinea: «L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo»",
+          "«L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo» Servizio English Version Aggiungi Il Sole 24 Ore ai preferiti su Google circa un'ora fa Ghalibaf:",
+          "«In linea con Pechino su necessità di costruire nuova architettura di sicurezza» «L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo»:",
+          "Media Iran, diverse esplosioni riportate nella zona dell'isola di Kharg",
+          "Lo riportano i media iraniani, non sarebbero visibili fumo e fiamme"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Iran",
+          "Isola di Kharg"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-d3809b3ebbdb4509",
+      "title": "Bessent al G20: «Frenare la Cina per ribilanciare gli scambi mondiali»",
+      "summary": "Il segretario Usa al Tesoro attacca l’eccesso di esportazioni di Pechino e preme sulla Ue perché introduca barriere contro i beni cinesi. Dombrovskis: «La Cina dovrebbe spendere di più, gli Usa di meno e la Ue dovrebbe investire di più»",
+      "spokenText": "Al centro del dibattito al G20 c’è la necessità di un riequilibrio degli scambi mondiali, con un’inedita convergenza tra Stati Uniti e Unione Europea. Una visione che ha trovato sponda nel commissario europeo Valdis Dombrovskis, il quale ha concordato nell’identificare Pechino come una delle principali fonti di squilibri economici globali. il surplus commerciale cinese con l’Unione Europea ha raggiunto i 360,6 miliardi di euro lo scorso anno. Dombrovskis ha però allargato il quadro, sintetizzando il lavoro condotto in questi ultimi due anni con una formula chiara: la Cina dovrebbe spendere di più, gli Stati Uniti di meno e l’Unione Europea dovrebbe investire di più. Ha inoltre ribadito che per ottenere un’economia globale più equilibrata, tocca a Stati Uniti ed Europa agire concretamente. Il segretario Usa al Tesoro attacca l’eccesso di esportazioni di Pechino e preme sulla Ue perché introduca barriere contro i beni cinesi.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "stati uniti",
+        "cina",
+        "unione europea",
+        "valdis dombrovskis"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 58,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/bessent-g20-frenare-cina-ribilanciare-scambi-mondiali-AJW5Zj0"
+      },
+      "analysis": {
+        "mainFact": "Bessent al G20: «Frenare la Cina per ribilanciare gli scambi mondiali»",
+        "whyItMatters": "Il surplus commerciale cinese con l'UE ha raggiunto 360,6 miliardi di euro lo scorso anno, con un aumento del 15% rispetto al 2024, alimentando le richieste di barriere commerciali.",
+        "confirmedFacts": [
+          "Bessent al G20: «Frenare la Cina per ribilanciare gli scambi mondiali»",
+          "Il surplus commerciale cinese con l'UE ha raggiunto 360,6 miliardi di euro lo scorso anno, con un aumento del 15% rispetto al 2024, alimentando le richieste di barriere commerciali.",
+          "Il segretario Usa al Tesoro attacca l’eccesso di esportazioni di Pechino e preme sulla Ue perché introduca barriere contro i beni cinesi.",
+          "Valdis Dombrovskis, si è detto d’accordo con la visione americana degli Stati Uniti, sostenendo che «la Cina è una delle principali fonti di squilibri economici globali», ma ha anche ribadito che tocca «a Stati Uniti ed Europa agire» per ottenere un’economia globale più equilibrata.",
+          "«Per riassumere brevemente questa analisi, che stiamo conducendo da un paio d’anni, la Cina dovrebbe spendere di più, gli Stati Uniti di meno e l’Unione europea dovrebbe investire di più», ha detto Dombrovskis."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stati Uniti",
+          "Cina",
+          "Unione Europea",
+          "Valdis Dombrovskis"
+        ],
+        "numbersAndDates": [
+          "360,6",
+          "15",
+          "2024"
+        ]
+      }
+    },
+    {
+      "id": "story-7147340b615d77dc",
+      "title": "Diesel record negli Usa, il prezzo sale a 5,85 dollari e mette nei guai Trump",
+      "summary": "Il carburante per trasporti e agricoltura è aumentato del 58% in un anno: conseguenze su tutta l’economia e sul voto di Midterm",
+      "spokenText": "Il prezzo del diesel negli Usa sale al record di 5,85 dollari. Il carburante per trasporti e agricoltura è aumentato del 58% in un anno, con conseguenze su tutta l'economia e sul voto di Midterm. «Ma ora, la stagione del raccolto si avvicina e - spiega con preoccupazione - dovrò spendere almeno 40mila dollari di carburante, il doppio di quanto ho speso l’anno scorso per arrivare da settembre a fine anno».",
+      "category": "attualita",
+      "tags": [
+        "attualita"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 29,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/diesel-record-usa-prezzo-sale-585-dollari-e-mette-guai-trump-AJPp3h3"
+      },
+      "analysis": {
+        "mainFact": "Il prezzo del diesel negli Usa sale al record di 5,85 dollari.",
+        "whyItMatters": "Il carburante per trasporti e agricoltura è aumentato del 58% in un anno, con conseguenze su tutta l'economia e sul voto di Midterm.",
+        "confirmedFacts": [
+          "Il prezzo del diesel negli Usa sale al record di 5,85 dollari.",
+          "Il carburante per trasporti e agricoltura è aumentato del 58% in un anno, con conseguenze su tutta l'economia e sul voto di Midterm.",
+          "«Ma ora, la stagione del raccolto si avvicina e - spiega con preoccupazione - dovrò spendere almeno 40mila dollari di carburante, il doppio di quanto ho speso l’anno scorso per arrivare da settembre a fine anno»."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "Similmente, secondo la teoria di Hewitt e Flett (1991), il perfezionismo caratterizzato da tre dimensioni.",
-          "Perfezionismo e salute mentale: cosa emerge dallo studio Nello studio di Curran e colleghi (Curran, Hill, Pose, 2026) i ricercatori hanno analizzato i dati di 307 studi condotti tra il 1989 e il 2024, per un totale di oltre 82.000 studenti universitari americani, canadesi e britannici.",
-          "Nel complesso, i ricercatori hanno riscontrato tassi crescenti di perfezionismo auto-riferito tra il 1989 e il 2024.",
-          "2022",
-          "2017"
+          "5,85",
+          "58"
         ]
       }
     },
     {
-      "id": "story-d9db3d7e56e07353",
-      "title": "Ucraina, gli inviati Usa Witkoff e Kushner a Kiev e Mosca il 5 e 6 settembre",
-      "summary": "Un morto e tre feriti nell’attacco russo a Odessa. L’esercito di Zelensky colpisce nave e deposito petrolifero a Sochi",
-      "spokenText": "Gli inviati statunitensi Witkoff e Kushner saranno a Mosca e Kiev il 5 e 6 settembre. Parallelamente, l’esercito di Zelensky ha condotto attacchi a Sochi, centrando una nave e un deposito di petrolio. Un morto e tre feriti nell’attacco russo a Odessa. Ucraina, 1.644° giorno di guerra Photogallery 13 foto Visualizza Secondo quanto dichiarato, in uno dei quartieri della città sono stati danneggiati edifici residenziali e automobili .",
-      "category": "mondo",
+      "id": "story-cb437291979a6ce8",
+      "title": "ISPRA e SNPA al Meeting di Rimini 2026",
+      "summary": "ISPRA e il Sistema nazionale per la protezione ambientale quest'anno dal 21 al 26 agosto partecipano al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini . Il SNPA sarà presente con uno spazio espositivo all'interno dell'area istituzionale del Ministero dell'Ambiente e della Sicurezza energetica offrendo incontri, materiale informativo e approfondimenti sui temi della tutela ambientale, dei monitoraggi e dei controlli e della ricerca scientifica per la salvaguardia del territorio.",
+      "spokenText": "Dal 21 al 26 agosto, alla Fiera di Rimini, il mare diventa un laboratorio galleggiante. ISPRA e il Sistema nazionale per la protezione ambientale portano al Meeting per l’amicizia fra i popoli uno spazio espositivo dove la conoscenza del Mediterraneo si tocca con mano. Il cuore pulsante di questa presenza è la nave ISPRA, che ospita il veicolo autonomo HUGIN: un gioiello tecnologico capace di esplorare i fondali fino a tremila metri di profondità, oggi impiegato in missioni scientifiche, ambientali e geofisiche di altissima complessità. ISPRA ha rilevato che dal 1990 al 2025 le emissioni di CO₂ della produzione elettrica sono calate del 48,8%, con le rinnovabili arrivate lo scorso anno a coprire il 48% della produzione nazionale. Un’istantanea che lega la tutela degli ecosistemi profondi alla trasformazione energetica del Paese.",
+      "category": "scienza",
       "tags": [
-        "mondo",
-        "ucraina",
-        "witkoff",
-        "kushner"
+        "scienza",
+        "ispra",
+        "snpa",
+        "meeting di rimini 2026"
       ],
-      "importance": 50,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 28,
+      "estimatedSeconds": 53,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/ucraina-mosca-conferma-visita-witkoff-e-kushner-AJQg7G3"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/ispra-e-snpa-al-meeting-di-rimini-2026"
       },
       "analysis": {
-        "mainFact": "Gli inviati statunitensi Witkoff e Kushner visiteranno Mosca e Kiev il 5 e 6 settembre.",
-        "whyItMatters": "Un morto e tre feriti nell’attacco russo a Odessa.",
+        "mainFact": "ISPRA e il Sistema nazionale per la protezione ambientale (SNPA) partecipano al Meeting per l'amicizia fra i popoli di Rimini dal 21 al 26 agosto con uno spazio espositivo.",
+        "whyItMatters": "La nave ISPRA ospiterà il veicolo AUV HUGIN che esplora i fondali fino a 3.000 metri di profondità, tra i più avanzati al mondo, oggi impiegato in missioni scientifiche, ambientali e geofisiche ad alta complessità.",
         "confirmedFacts": [
-          "Gli inviati statunitensi Witkoff e Kushner visiteranno Mosca e Kiev il 5 e 6 settembre.",
-          "Un morto e tre feriti nell’attacco russo a Odessa.",
-          "L’esercito di Zelensky colpisce nave e deposito petrolifero a Sochi",
-          "Attacchi ucraini a Sochi, colpiti una nave e un deposito di petrolio.",
-          "Ucraina, 1.644° giorno di guerra Photogallery 13 foto Visualizza Secondo quanto dichiarato, in uno dei quartieri della città sono stati danneggiati edifici residenziali e automobili ."
+          "ISPRA e il Sistema nazionale per la protezione ambientale (SNPA) partecipano al Meeting per l'amicizia fra i popoli di Rimini dal 21 al 26 agosto con uno spazio espositivo.",
+          "La nave ISPRA ospiterà il veicolo AUV HUGIN che esplora i fondali fino a 3.000 metri di profondità, tra i più avanzati al mondo, oggi impiegato in missioni scientifiche, ambientali e geofisiche ad alta complessità.",
+          "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
+          "ISPRA rileva che dal 1990 al 2025 le emissioni di CO₂ della produzione elettrica sono calate del 48,8%, con le rinnovabili arrivate nel 2025 al 48% della produzione nazionale."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ucraina",
-          "Witkoff",
-          "Kushner"
+          "ISPRA",
+          "SNPA",
+          "Meeting di Rimini 2026"
         ],
         "numbersAndDates": [
-          "Ucraina, 1.644° giorno di guerra Photogallery 13 foto Visualizza Secondo quanto dichiarato, in uno dei quartieri della città sono stati danneggiati edifici residenziali e automobili .",
-          "5",
-          "6"
+          "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
+          "ISPRA rileva che dal 1990 al 2025 le emissioni di CO₂ della produzione elettrica sono calate del 48,8%, con le rinnovabili arrivate nel 2025 al 48% della produzione nazionale.",
+          "21",
+          "26",
+          "3.000"
         ]
       }
     },
     {
-      "id": "story-6b67c3c8587bc9e0",
-      "title": "Il Brasile sfida il monopolio cinese delle terre rare",
-      "summary": "Il Senato brasiliano ha approvato il 3 settembre la legge che istituisce una politica nazionale per la lavorazione e l'industrializzazione dei minerali critici e strategici, facendo seguito al primo via...",
-      "spokenText": "Il Brasile sfida il monopolio cinese delle terre rare. Nei primi sei mesi del 2026, il Brasile ha attirato massicci flussi di capitale nel settore, provenienti soprattutto da Stati Uniti, Australia e Canada.",
-      "category": "attualita",
+      "id": "story-9fabfce0554ffacf",
+      "title": "Un solo lampo nell’oscurità",
+      "summary": "L’esperimento Lux-Zeplin – un rivelatore statunitense per la ricerca di particelle di materia oscura – ha trovato un unico ma promettente segnale a 248 keV che sembra aver superato tutti i test statistici, seppur con una significatività ancora attorno a soli tre sigma. All’interno del team c’è cauto ottimismo, mentre si aspetta la revisione finale del paper",
+      "spokenText": "L'esperimento Lux-Zeplin ha rilevato un unico segnale a 248 keV che ha superato i test statistici, con una significatività di circa tre sigma. All’interno del team c’è cauto ottimismo, mentre si aspetta la revisione finale del paper.",
+      "category": "scienza",
       "tags": [
-        "attualita",
-        "brasile",
-        "stati uniti",
-        "australia",
-        "canada"
+        "scienza",
+        "lux zeplin"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 15,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/03/un-solo-lampo-nelloscurita/"
+      },
+      "analysis": {
+        "mainFact": "L'esperimento Lux-Zeplin ha rilevato un unico segnale a 248 keV che ha superato i test statistici, con una significatività di circa tre sigma.",
+        "whyItMatters": "All’interno del team c’è cauto ottimismo, mentre si aspetta la revisione finale del paper",
+        "confirmedFacts": [
+          "L'esperimento Lux-Zeplin ha rilevato un unico segnale a 248 keV che ha superato i test statistici, con una significatività di circa tre sigma.",
+          "All’interno del team c’è cauto ottimismo, mentre si aspetta la revisione finale del paper",
+          "L’esperimento Lux-Zeplin – un rivelatore statunitense per la ricerca di particelle di materia oscura – ha trovato un unico ma promettente segnale a 248 keV che sembra aver superato tutti i test statistici, seppur con una significatività ancora attorno a soli tre sigma."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Lux-Zeplin"
+        ],
+        "numbersAndDates": [
+          "248"
+        ]
+      }
+    },
+    {
+      "id": "story-a7344e7ca2db794f",
+      "title": "IFA 2026: Lenovo Yoga Pro 9n con chip NVIDIA RTX Spark",
+      "summary": "I nuovi Lenovo Yoga Pro 9n e Yoga 9n 2-1in-1, mostrati all'IFA 2026, integrano processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB. The post IFA 2026: Lenovo Yoga Pro 9n con chip NVIDIA RTX Spark appeared first on Punto Informatico.",
+      "spokenText": "Lenovo ha tolto i veli ai nuovi Yoga Pro 9n e Yoga 9n 2-in-1, due macchine pensate per chi non vuole scendere a compromessi. Sotto la scocca batte il nuovissimo processore NVIDIA RTX Spark N1X, lo stesso chip che avevamo visto debuttare da poco su un notebook ASUS, e che ora Lenovo porta nei suoi top di gamma, confermandosi tra i primissimi ad adottarlo. A bordo troviamo schermi da 15 e 16 pollici, che fanno da cornice a un sistema capace di gestire in parallelo applicazioni professionali, editing video, rendering 3D, sessioni di gioco e, chiaramente, l’esecuzione in locale di modelli e agenti di intelligenza artificiale. Lenovo ha presentato all'IFA 2026 i nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB. IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe I nuovi Lenovo IdeaPad Vibe con schermi da 14/15 pollici, processori Qualcomm e AMD e fino a 32 GB di RAM saranno disponibili a partire da 799 euro.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "lenovo",
+        "nvidia",
+        "ifa 2026"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 14,
+      "estimatedSeconds": 71,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/il-brasile-sfida-monopolio-cinese-terre-rare-AJR8eM2"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/ifa-2026-lenovo-yoga-pro-9n-chip-nvidia-rtx-spark/"
       },
       "analysis": {
-        "mainFact": "Il Brasile sfida il monopolio cinese delle terre rare",
-        "whyItMatters": "Nei primi sei mesi del 2026, il Brasile ha attirato massicci flussi di capitale nel settore, provenienti soprattutto da Stati Uniti, Australia e Canada.",
+        "mainFact": "Lenovo ha presentato all'IFA 2026 i nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB.",
+        "whyItMatters": "Lenovo è tra i primi produttori, dopo ASUS, a svelare notebook con il nuovo chip NVIDIA RTX Spark N1X.",
         "confirmedFacts": [
-          "Il Brasile sfida il monopolio cinese delle terre rare",
-          "Nei primi sei mesi del 2026, il Brasile ha attirato massicci flussi di capitale nel settore, provenienti soprattutto da Stati Uniti, Australia e Canada.",
-          "Secondo i dati di Associated Press e Reporter Brasil, nei primi sei mesi del 2026 il Brasile ha attirato massicci flussi di capitale diretti al settore, provenienti soprattutto da Stati Uniti, Australia e Canada."
+          "Lenovo ha presentato all'IFA 2026 i nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB.",
+          "Lenovo è tra i primi produttori, dopo ASUS, a svelare notebook con il nuovo chip NVIDIA RTX Spark N1X.",
+          "Si tratta dei nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con schermi da 15 e 16 pollici.",
+          "Lenovo Yoga Pro 9n e Yoga 9n 2-in-1: specifiche complete Il Lenovo Yoga Pro 9n è un notebook che consente di eseguire diverse attività impegnative, tra cui sviluppo di applicazioni, editing video, rendering 3D, giochi e ovviamente esecuzione locale di modelli e agenti AI.",
+          "Lenovo ha annunciato all’IFA 2026 di Berlino i nuovi IdeaPad Vibe con processori Qualcomm e AMD.",
+          "IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe",
+          "IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe I nuovi Lenovo IdeaPad Vibe con schermi da 14/15 pollici, processori Qualcomm e AMD e fino a 32 GB di RAM saranno disponibili a partire da 799 euro."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Brasile",
-          "Stati Uniti",
-          "Australia",
-          "Canada"
+          "Lenovo",
+          "NVIDIA",
+          "IFA 2026"
         ],
         "numbersAndDates": [
+          "Si tratta dei nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con schermi da 15 e 16 pollici.",
+          "Lenovo Yoga Pro 9n e Yoga 9n 2-in-1: specifiche complete Il Lenovo Yoga Pro 9n è un notebook che consente di eseguire diverse attività impegnative, tra cui sviluppo di applicazioni, editing video, rendering 3D, giochi e ovviamente esecuzione locale di modelli e agenti AI.",
+          "Lenovo ha annunciato all’IFA 2026 di Berlino i nuovi IdeaPad Vibe con processori Qualcomm e AMD.",
+          "IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe",
+          "IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe I nuovi Lenovo IdeaPad Vibe con schermi da 14/15 pollici, processori Qualcomm e AMD e fino a 32 GB di RAM saranno disponibili a partire da 799 euro.",
+          "2026",
+          "2",
+          "1",
+          "128"
+        ]
+      }
+    },
+    {
+      "id": "story-c6e67d2420ba6c0d",
+      "title": "Zooniverse si prepara ai dati di Roman",
+      "summary": "Il Nancy Grace Roman Space Telescope è appena partito, ma c’è già chi si prepara a lavorare con i dati che produrrà. Zooniverse, la piattaforma di citizen science che coinvolge persone di tutto il mondo nella ricerca scientifica, sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale della Nasa",
+      "spokenText": "Questi saranno dedicati alle future osservazioni del telescopio spaziale Nancy Grace Roman della NASA.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "zooniverse",
+        "nancy grace roman space telescope",
+        "nasa"
+      ],
+      "importance": 52,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/04/zooniverse-roman-telescope/"
+      },
+      "analysis": {
+        "mainFact": "Zooniverse sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale Nancy Grace Roman della Nasa.",
+        "whyItMatters": "Zooniverse, la piattaforma di citizen science che coinvolge persone di tutto il mondo nella ricerca scientifica, sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale della Nasa",
+        "confirmedFacts": [
+          "Zooniverse sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale Nancy Grace Roman della Nasa.",
+          "Zooniverse, la piattaforma di citizen science che coinvolge persone di tutto il mondo nella ricerca scientifica, sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale della Nasa",
+          "Il Nancy Grace Roman Space Telescope è appena partito, ma c’è già chi si prepara a lavorare con i dati che produrrà."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Zooniverse",
+          "Nancy Grace Roman Space Telescope",
+          "NASA"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-21768eec18e3f07a",
+      "title": "Al via a Buenos Aires una nuova edizione della Settimana del Cinema Italiano",
+      "summary": "Successo di pubblico alla première, con la proiezione di 'La vita va così' di Milani",
+      "spokenText": "L’inaugurazione è stata affidata alla première di 'La vita va così', il nuovo film del 2025 diretto da Riccardo Milani, che ha dato il via a una rassegna ormai punto di riferimento per la promozione del cinema italiano contemporaneo in Argentina. Quest’anno il festival propone un viaggio articolato attraverso le molteplici sfaccettature dell’Italia di oggi: dodici lungometraggi recenti compongono un mosaico che esplora la vita quotidiana, i legami familiari e affettivi, la giovinezza e l’identità, senza tralasciare il rapporto con la memoria, il territorio e le trasformazioni in atto nella nostra società.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "buenos aires",
+        "settimana del cinema italiano",
+        "riccardo milani"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 37,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/al-via-a-buenos-aires-una-nuova-edizione-della-settimana-del-cinema_a44d5aa2-8646-4870-87cf-c79be5ec132a.html"
+      },
+      "analysis": {
+        "mainFact": "È stata inaugurata a Buenos Aires la 12ª edizione della Settimana del Cinema Italiano, con la proiezione del film 'La vita va così' (2025) di Riccardo Milani.",
+        "whyItMatters": "La 12 edizione propone un percorso attraverso diverse rappresentazioni dell'Italia contemporanea, con dodici lungometraggi recenti che affrontano temi quali la vita quotidiana, i legami familiari e affettivi, la giovinezza, l'identit , la memoria, il territorio e le trasformazioni della societ italiana.",
+        "confirmedFacts": [
+          "È stata inaugurata a Buenos Aires la 12ª edizione della Settimana del Cinema Italiano, con la proiezione del film 'La vita va così' (2025) di Riccardo Milani.",
+          "La 12 edizione propone un percorso attraverso diverse rappresentazioni dell'Italia contemporanea, con dodici lungometraggi recenti che affrontano temi quali la vita quotidiana, i legami familiari e affettivi, la giovinezza, l'identit , la memoria, il territorio e le trasformazioni della societ italiana.",
+          "stata inaugurata gioved a Buenos Aires, presso Cin polis Recoleta, la 12 edizione della Semana del Cine Italiano, rassegna dedicata alla promozione e alla diffusione del cinema italiano contemporaneo in Argentina."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Buenos Aires",
+          "Settimana del Cinema Italiano",
+          "Riccardo Milani"
+        ],
+        "numbersAndDates": [
+          "stata inaugurata gioved a Buenos Aires, presso Cin polis Recoleta, la 12 edizione della Semana del Cine Italiano, rassegna dedicata alla promozione e alla diffusione del cinema italiano contemporaneo in Argentina.",
+          "12",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "story-6a1838f74394c8c1",
+      "title": "Una legge che descrive il problema e delega la soluzione Adottata il 23 ottobre",
+      "summary": "Una legge che descrive il problema e delega la soluzione Adottata il 23 ottobre 2025, la direttiva europea sul monitoraggio e la resilienza del suolo è il primo strumento vincolante dell'Unione dedicato esclusivamente al suolo. È anche il frutto di un compromesso: nessun obiettivo di ripristino, nessuna scadenza, nessuna neutralità del consumo. Restano indicatori armonizzati, una definizione di \"suolo sano\", un obbligo di rendicontazione. Tutto il resto è delegato agli Stati membri. Il baricentro si sposta così dal legislatore all'attuazione: dal 2026 al 2029, quando arriveranno i primi programmi nazionali. In quei quattro anni si deciderà se l'Europa avrà una politica del suolo o soltanto un raffinato apparato di sorveglianza del proprio degrado. Il convegno apre questo cantiere: governance multilivello, chi paga il ripristino, le soglie del \"suolo sano\", giustizia spaziale del consumo di suolo, saperi locali e standard europei, bonifiche industriali, impermeabilizzazione urbana.",
+      "spokenText": "Il 23 ottobre 2025 l’Unione europea ha adottato la direttiva sul monitoraggio e la resilienza del suolo, il primo strumento vincolante dedicato esclusivamente a questa risorsa. È un testo che porta la firma del compromesso: non contiene obiettivi di ripristino, scadenze o vincoli di neutralità del consumo di suolo. Restano indicatori armonizzati, una definizione comune di suolo sano e un obbligo di rendicontazione, mentre tutto il resto è delegato agli Stati membri. Il baricentro si sposta così dal legislatore all'attuazione: dal 2026 al 2029, quando arriveranno i primi programmi nazionali.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente"
+      ],
+      "importance": 80,
+      "mustInclude": false,
+      "estimatedSeconds": 36,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/soil-monitoring-in-the-anthropocene"
+      },
+      "analysis": {
+        "mainFact": "Il 23 ottobre 2025 è stata adottata la direttiva europea sul monitoraggio e la resilienza del suolo, primo strumento vincolante dell'Unione dedicato esclusivamente al suolo.",
+        "whyItMatters": "È anche il frutto di un compromesso: nessun obiettivo di ripristino, nessuna scadenza, nessuna neutralità del consumo.",
+        "confirmedFacts": [
+          "Il 23 ottobre 2025 è stata adottata la direttiva europea sul monitoraggio e la resilienza del suolo, primo strumento vincolante dell'Unione dedicato esclusivamente al suolo.",
+          "È anche il frutto di un compromesso: nessun obiettivo di ripristino, nessuna scadenza, nessuna neutralità del consumo.",
+          "Restano indicatori armonizzati, una definizione di \"suolo sano\", un obbligo di rendicontazione.",
+          "Tutto il resto è delegato agli Stati membri.",
+          "Il baricentro si sposta così dal legislatore all'attuazione: dal 2026 al 2029, quando arriveranno i primi programmi nazionali.",
+          "In quei quattro anni si deciderà se l'Europa avrà una politica del suolo o soltanto un raffinato apparato di sorveglianza del proprio degrado.",
+          "Il convegno apre questo cantiere: governance multilivello, chi paga il ripristino, le soglie del \"suolo sano\", giustizia spaziale del consumo di suolo, saperi locali e standard europei, bonifiche industriali, impermeabilizzazione urbana.",
+          "12 Aggiungi l'evento al calendario iCal Francesca Assennato dell'ISPRA è nel Comitato organizzatore del convegno Scheda di registrazione Programma"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "Il baricentro si sposta così dal legislatore all'attuazione: dal 2026 al 2029, quando arriveranno i primi programmi nazionali.",
+          "12 Aggiungi l'evento al calendario iCal Francesca Assennato dell'ISPRA è nel Comitato organizzatore del convegno Scheda di registrazione Programma",
+          "23",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "story-e8231d30e25a2979",
+      "title": "Abbiamo prima studiato i toporagni e i loro parenti",
+      "summary": "Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
+      "spokenText": "Abbiamo cominciato studiando i toporagni e i loro parenti, e subito è emersa una sorpresa. Quello che hanno scoperto è un dato che fa riflettere su come costruiamo la conoscenza zoologica: circa quattrocento specie erano state etichettate come solitarie, ma quando sono andati a verificare la letteratura, si sono accorti che soltanto sedici erano state studiate davvero sul campo. E tra queste poche specie effettivamente osservate, la maggior parte mostrava comportamenti sociali ben diversi dall’isolamento che ci si aspettava: quasi sempre, almeno in alcuni momenti, vivevano in gruppi, e il trentotto per cento formava coppie stabili. Un dettaglio che ribalta completamente l’immagine del toporagno come eremita schivo e solitario. Abbiamo prima studiato i toporagni. Abbiamo trovato la nostra prima sorpresa. Together we reviewed more than 15,000 scientific publications.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "carsten schradin"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 52,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/early-mammals-werent-all-loners-as-scientists-thought-some-already-lived-in-pairs-alongside-the-dinosaurs-290381"
+      },
+      "analysis": {
+        "mainFact": "Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
+        "whyItMatters": "Scoperta paleontologica: mammiferi primitivi vivevano in coppia. Riscrive la comprensione dell'evoluzione sociale.",
+        "confirmedFacts": [
+          "Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
+          "Scoperta paleontologica: mammiferi primitivi vivevano in coppia. Riscrive la comprensione dell'evoluzione sociale.",
+          "E la maggior parte di loro almeno qualche volta viveva in gruppi, il 38% in coppie.",
+          "Together we reviewed more than 15,000 scientific publications."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Carsten Schradin"
+        ],
+        "numbersAndDates": [
+          "Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
+          "E la maggior parte di loro almeno qualche volta viveva in gruppi, il 38% in coppie.",
+          "Together we reviewed more than 15,000 scientific publications.",
+          "400",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "story-e3ace586659a4d31",
+      "title": "Nel tentativo di affrontare questo problema",
+      "summary": "Nel tentativo di affrontare questo problema, un team di cartografi nel 2018 ha creato una mappa ad area uguale che hanno chiamato proiezione Equal Earth.",
+      "spokenText": "Nel 2018 un team di cartografi ha cercato di affrontare un problema noto creando una mappa ad area uguale, chiamata proiezione Equal Earth. A febbraio questa rappresentazione ha ricevuto un riconoscimento istituzionale significativo: i 54 stati membri dell’Unione Africana l’hanno adottata, affermando che rappresenta più accuratamente le dimensioni di tutti i continenti, in particolare l’Africa. Poco dopo, la risoluzione ‘Correct the Map’, sponsorizzata dal Togo e sostenuta dai membri dell’Unione Africana, è passata con il supporto di 164 nazioni, tra cui Francia e Regno Unito.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "africa",
+        "togo"
+      ],
+      "importance": 62,
+      "mustInclude": false,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Nel tentativo di affrontare questo problema, un team di cartografi nel 2018 ha creato una mappa ad area uguale che hanno chiamato proiezione Equal Earth.",
+        "whyItMatters": "L'ONU adotta una nuova mappa che riflette le reali dimensioni dell'Africa. Impatto su istruzione e percezione globale.",
+        "confirmedFacts": [
+          "Nel tentativo di affrontare questo problema, un team di cartografi nel 2018 ha creato una mappa ad area uguale che hanno chiamato proiezione Equal Earth.",
+          "L'ONU adotta una nuova mappa che riflette le reali dimensioni dell'Africa. Impatto su istruzione e percezione globale.",
+          "A febbraio, i 54 stati membri dell'UA l'hanno adottata, e hanno detto che 'rappresenta più accuratamente le dimensioni di tutti i continenti, in particolare l'Africa'.",
+          "La risoluzione 'Correct the Map', sponsorizzata dal Togo e sostenuta dai membri dell'Unione Africana (UA), è passata con il supporto di 164 nazioni, tra cui Francia e Regno Unito."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Africa",
+          "Togo"
+        ],
+        "numbersAndDates": [
+          "Nel tentativo di affrontare questo problema, un team di cartografi nel 2018 ha creato una mappa ad area uguale che hanno chiamato proiezione Equal Earth.",
+          "A febbraio, i 54 stati membri dell'UA l'hanno adottata, e hanno detto che 'rappresenta più accuratamente le dimensioni di tutti i continenti, in particolare l'Africa'.",
+          "La risoluzione 'Correct the Map', sponsorizzata dal Togo e sostenuta dai membri dell'Unione Africana (UA), è passata con il supporto di 164 nazioni, tra cui Francia e Regno Unito.",
+          "2018"
+        ]
+      }
+    },
+    {
+      "id": "story-ee0ea370dff4617d",
+      "title": "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di",
+      "summary": "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di Mongbwalu nell'Ituri, nord-est della RDC, alla fine di aprile 2026, prima di diffondersi attraverso comunità interconnesse e reti sanitarie a Rwampara e Bunia – zone sanitarie nella provincia dell'Ituri – e successivamente in Uganda.",
+      "spokenText": "Da lì, attraverso comunità interconnesse e reti sanitarie, si è diffusa nelle zone sanitarie di Rwampara e Bunia, nella provincia dell’Ituri, per raggiungere successivamente l’Uganda. In soli tre mesi, tra il 15 maggio e il 15 agosto 2026, sono state istituite o supportate più di venti strutture per il trattamento e l’isolamento di Ebola.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "uganda"
+      ],
+      "importance": 92,
+      "mustInclude": false,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/drcs-ebola-epidemic-could-be-the-worst-in-history-4-things-that-could-help-end-it-290187"
+      },
+      "analysis": {
+        "mainFact": "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di Mongbwalu nell'Ituri, nord-est della RDC, alla fine di aprile 2026, prima di diffondersi attraverso comunità interconnesse e reti sanitarie a Rwampara e Bunia – zone sanitarie nella provincia dell'Ituri – e successivamente in Uganda.",
+        "whyItMatters": "Epidemia di Ebola nella RDC: oltre 6.186 casi. Rischio di diventare la peggiore mai registrata. Implicazioni sanitarie globali.",
+        "confirmedFacts": [
+          "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di Mongbwalu nell'Ituri, nord-est della RDC, alla fine di aprile 2026, prima di diffondersi attraverso comunità interconnesse e reti sanitarie a Rwampara e Bunia – zone sanitarie nella provincia dell'Ituri – e successivamente in Uganda.",
+          "Epidemia di Ebola nella RDC: oltre 6.186 casi. Rischio di diventare la peggiore mai registrata. Implicazioni sanitarie globali.",
+          "È importante riconoscere quanto è stato realizzato in soli tre mesi – tra il 15 maggio e il 15 agosto 2026.",
+          "Sono state istituite o supportate più di 20 strutture per il trattamento e l'isolamento di Ebola."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Uganda"
+        ],
+        "numbersAndDates": [
+          "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di Mongbwalu nell'Ituri, nord-est della RDC, alla fine di aprile 2026, prima di diffondersi attraverso comunità interconnesse e reti sanitarie a Rwampara e Bunia – zone sanitarie nella provincia dell'Ituri – e successivamente in Uganda.",
+          "È importante riconoscere quanto è stato realizzato in soli tre mesi – tra il 15 maggio e il 15 agosto 2026.",
+          "Sono state istituite o supportate più di 20 strutture per il trattamento e l'isolamento di Ebola.",
           "2026"
         ]
       }
     },
     {
-      "id": "story-a0c8c466e95320c6",
-      "title": "Il telescopio nato per spiare la Terra che ora guarderà l'universo",
-      "summary": "di Patrizia Caraveo Pubblicato il 03/09/2026 Lanciato il 30 agosto e in viaggio verso il punto L2, il Roman Space Telescope osserverà con un campo di vista cento volte più ampio di Hubble per mappare la materia oscura, misurare l'espansione dell'universo e scovare fino a 100.000 esopianeti. Ma il suo specchio non era nato per il cielo: era un telescopio spia costruito per l'intelligence militare statunitense e donato alla NASA nel 2011, che ha così salvato una missione a corto di fondi. Oggi porta il nome di Nancy Grace Roman, prima astronoma capo della NASA. (Immagine: “Nancy Grace Roman Space Telescope Primary Mirror” di NASA's Nancy Grace Roman Space Telescope, CC BY-NC-ND 2. 0) Tempo di lettura: 6 mins Universo Il Roman Space Telescope, lanciato il 30 agosto ed ora in viaggio verso il punto Lagrangiano L2 a 1,5 milioni di km dalla Terra, aprirà nuovi orizzonti allo studio della materia oscura, dell'espansione dell'universo e dei pianeti extrasolari. Con uno specchio di 2,4 m di diametro, paragonabile a quello dello Hubble Space Telescope, ed un'ottica progettata per massimizzare il campo di vista potrà coprire con una osservazione una regione 100 volte più grande di quanto possa fare Hubble, moltiplicando possibilità di indagine scientifica e riducendo sensibilmente i tempi necessari per raccogliere dati su vaste aree di cielo. L'infografica della NASA mostra chiaramente la differenza nei campi di vista dei tre telescopi spaziali Hubble, Roman e JWST. Capacità complementari degli strumenti di tre missioni di punta della NASA (Crediti: NASA's Goddard Space Flight Center). Lo strumento principale del Roman Space Telescope è una telecamera a infrarossi da 300 megapixel che, a partire da inizio 2027, ogni giorno invierà a terra 1 terabyte di dati. I rivelatori del wide field instrument (Crediti: NASA). lo strumento a grande campo è ripreso nel logo della missione (Crediti: NASA). Nei piani della NASA, formulati intorno al 2010-2011, si pensava ad missione che doveva focalizzarsi sulla copertura sistematica di vaste zone del cielo sfruttando le lunghezze d'onda infrarosse non penalizzate dalla presenza di polvere, quindi più penetranti di quelle ottiche. La missione, nota come WFIRST (Wide Field InfraRed Survey Telescope), però, non sembrava nata sotto una buona stella: nel bilancio della NASA, già impegnata nel JWST, non c'era posto per un altro telescopio. La situazione mutò a seguito di un intervento esterno assolutamente estraneo alla ricerca astronomica che merita di essere raccontato. Il Roman Space Telescope viene rilasciato dal secondo stadio del Falcon Heavy che lo ha immesso sulla traiettoria per raggiungere il punto L2. In primo piano l'antenna dalla quale transiterà 1 terabyte di dati al giorno (Crediti: NASA). Infatti, il telescopio che domenica è stato spinto sulla traiettoria che tra 100 giorni lo porterà nel suo punto di osservazione, non era nato per studiare il cosmo. Il suo obiettivo doveva essere l'osservazione della Terra per spiare tutto quello che può avere rilevanza militare. Era stato costruito per il National Reconnaissance Office (NRO), responsabile della sorveglianza spaziale per conto del dipartimento della difesa -ora dipartimento delle guerra- statunitense. Dal momento che le attività dello NRO sono coperte da segreto militare, non sappiamo a quale programma appartenesse il telescopio riconvertito. Di sicuro, tra il 1976 ed il 2011, sono stati lanciati per conto dello NRO 15 satelliti spia della serie KeyHole (buco della serratura) e nelle comunità astronomica si mormorava che alcuni avessero una spiccata somiglianza con lo Hubble Space Telescope. Alternativamente si potrebbe guardare al progetto Future Imagery Architecture iniziato da NRO negli anni '90 e perseguito con decisione dopo gli attentati dell'11 settembre allo scopo di costruire una nuova serie di telescopi ad alta tecnologia per raccogliere dati satellitari sugli avversari degli Stati Uniti. Con specchi delle dimensioni di Hubble, i telescopi spia sarebbero stati in grado di osservare oggetti sulla Terra più piccoli di una tazza da caffè. Tuttavia, il progetto, affidato alla Boeing, subì ritardi e sforamenti di budget e, nel 2005, venne cancellato, ma non prima che parte dell'hardware fosse già stata costruita. Qualcuno alla NASA, venuto a sapere dell'esistenza di questi telescopi avanzati, aveva tentato di chiedere allo NRO cosa intendesse fare, senza risultato. La situazione è cambiata nel 2011 quando lo NRO ha contattato la NASA dicendo di essere disposto a cedere due telescopi della classe di Hubble. L'hardware si trovava in una camera bianca dell'azienda Exelis, successivamente acquisita da L3Harris, a Rochester, New York. Ed è lì che li hanno ammirati nel 2012 importanti funzionari della NASA che erano andati a sincerarsi dello stato dei telescopi. Il fatto che la comunità astronomica abbia potuto contare su un unico Hubble Space Telescope, mentre i militari ne hanno dispiegato un numero imprecisato, tanto da averne alcuni avanzati, dà immediatamente l'idea della abissale differenza tra i finanziamenti per la ricerca e quelli militari. Prima di accettare il dono, NASA ha voluto sincerarsi che i telescopi \"spia\", progettati per fornire immagini a grande campo, potessero essere di utilità astronomica. È stato istituito un gruppo di lavoro che ha immediatamente riconosciuto che era proprio quello che serviva per la missione WFIRST, che languiva per mancanza di fondi. Dal momento che in un osservatorio spaziale il telescopio rappresenta una frazione significativa del costo, la donazione dello NRO è giunta a fagiolo e ha permesso di fare partire il programma. Così, nel 2016 la NASA ha formalmente avviato la missione WFIRST e ha iniziato lo sviluppo, con L3Harris che ha mantenuto lo specchio a Rochester e si è aggiudicata il contratto per completare il lavoro. Ma WFIRST non era ancora fuori pericolo. I tentativi di cancellarlo non sono mancati: due volte durante l'era Obama e tre volte durante la prima amministrazione Trump. Ogni volta, il Congresso ha scelto di salvare la missione. Nel 2020, per evitare il pericolo di altri tentativi di cancellazione, Thomas Zurbuchen, allora a capo dei progetti scientifici della NASA, decise di dedicare WFIRST a Nancy Grace Roman, una scienziata assunta alla NASA nel 1959. Presto diventata la prima NASA Chief Astronomer. In un'epoca in cui le donne astronome erano rare, Nancy Roman, pur restando nell'ombra, è stata l'iniziatrice di tutti i programmi di astronomia dallo spazio americani. È grazie a lei che sono nati i satelliti dedicati all'astronomia ultravioletta, X e gamma. Si tratta di radiazioni che vengono assorbite dall'atmosfera e quindi si possono misurare solo dallo spazio, ma Nancy Roman capì che, oltre l'atmosfera, lo spazio offriva le condizioni perfette per le osservazioni ottiche. Per questo si spese moltissimo perché la NASA costruisse un telescopio spaziale, difese il progetto davanti al Congresso ed ottenne i finanziamenti, diventando la \"mamma\" dello Hubble Space Telescope. La decisione di onorare la sua memoria è un meritato riconoscimento, anche perché il Roman Space Telescope sarà il primo strumento spaziale dedicato ad una scienziata. In cinque anni di osservazione, Roman scansionerà circa il 12% del cielo e contribuirà a diversi campi dell'astronomia come evidenziato in questa infografica NASA. Cercherà eventuali distorsioni nelle immagini delle galassie causate da ammassi di materia oscura che curvano la traiettoria della luce. Mappando questo effetto, chiamato lente gravitazionale debole, Roman traccerà la distribuzione della materia nell'universo. Inoltre Roman andrà alla ricerca di migliaia di supernove di tipo Ia risalenti a oltre 10 miliardi di anni fa, nella prima parte della storia dell'Universo che ha 13,8 miliardi di anni. Dovrebbe stanare un numero di antiche supernovae molto maggiore di quanto sia stato possibile con altri sytumenti, rivelando come l'espansione dell'universo sia cambiata nel corso della storia. Roman sarà anche rivoluzionario per lo studio degli esopianeti. Una delle sue indagini si concentrerà sul centro della Via Lattea, dove osserverà centinaia di milioni di stelle alla ricerca di eventuali cali di luminosità dovuti al transito dei pianeti in orbita che fanno ombra alla loro stella. La tecnica dei transiti è quella che ha già permesso di scoprire la maggior parte dei 6.000 pianeti attualmente conosciuti. Roman potrebbe trovarne fino a 100.000, offrendoci un ampio campione di diverse popolazioni planetarie in tutta la galassia. Oltre allo strumento a grande campo, Roman è dotato un coronografo sperimentale progettato per riprendere direttamente gli esopianeti annullando la luce della loro stella. Questo strumento è un precursore del coronografo che la NASA vuole far volare sul suo Habitable Worlds Observatory, quindi la sua valenza è soprattutto tecnologica, ma, se funzionerà, aprirà nuove prospettive per la ricerca di una nuova terra.",
-      "spokenText": "Domenica è stato spinto sulla traiettoria che tra cento giorni lo porterà nel suo punto di osservazione, ma il telescopio Roman non era nato per studiare il cosmo. Il suo specchio, oggi intitolato a Nancy Grace Roman, prima astronoma capo della NASA, era in realtà un telescopio spia costruito per l'intelligence militare statunitense e donato all'agenzia spaziale nel 2011, salvando di fatto una missione a corto di fondi. Lo strumento principale è una telecamera a infrarossi da trecento megapixel che, a partire da inizio 2027, ogni giorno invierà a terra un terabyte di dati. Un'infografica della NASA mostra con chiarezza la differenza nei campi di vista di tre missioni di punta. Capacità complementari, quindi, per osservare l'universo con occhi nuovi, nati per guardare la Terra. I rivelatori del wide field instrument (Crediti: NASA). Lo strumento a grande campo è ripreso nel logo della missione (Crediti: NASA).",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "roman space telescope",
-        "nasa",
-        "nancy grace roman"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 59,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articolo/telescopio-nato-spiare-terra-che-ora-guarder%C3%A0-luniverso/patrizia-caraveo/2026-09-03"
-      },
-      "analysis": {
-        "mainFact": "Il telescopio nato per spiare la Terra che ora guarderà l'universo",
-        "whyItMatters": "L'infografica della NASA mostra chiaramente la differenza nei campi di vista dei tre telescopi spaziali Hubble, Roman e JWST.",
-        "confirmedFacts": [
-          "Il telescopio nato per spiare la Terra che ora guarderà l'universo",
-          "L'infografica della NASA mostra chiaramente la differenza nei campi di vista dei tre telescopi spaziali Hubble, Roman e JWST.",
-          "Infatti, il telescopio che domenica è stato spinto sulla traiettoria che tra 100 giorni lo porterà nel suo punto di osservazione, non era nato per studiare il cosmo.",
-          "Lo strumento principale del Roman Space Telescope è una telecamera a infrarossi da 300 megapixel che, a partire da inizio 2027, ogni giorno invierà a terra 1 terabyte di dati.",
-          "Oggi porta il nome di Nancy Grace Roman, prima astronoma capo della NASA. (Immagine: “Nancy Grace Roman Space Telescope Primary Mirror” di NASA's Nancy Grace Roman Space Telescope, CC BY-NC-ND 2.",
-          "Ma il suo specchio non era nato per il cielo: era un telescopio spia costruito per l'intelligence militare statunitense e donato alla NASA nel 2011, che ha così salvato una missione a corto di fondi.",
-          "Capacità complementari degli strumenti di tre missioni di punta della NASA (Crediti: NASA's Goddard Space Flight Center).",
-          "I rivelatori del wide field instrument (Crediti: NASA). Lo strumento a grande campo è ripreso nel logo della missione (Crediti: NASA)."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Roman Space Telescope",
-          "NASA",
-          "Nancy Grace Roman"
-        ],
-        "numbersAndDates": [
-          "Infatti, il telescopio che domenica è stato spinto sulla traiettoria che tra 100 giorni lo porterà nel suo punto di osservazione, non era nato per studiare il cosmo.",
-          "Lo strumento principale del Roman Space Telescope è una telecamera a infrarossi da 300 megapixel che, a partire da inizio 2027, ogni giorno invierà a terra 1 terabyte di dati.",
-          "Ma il suo specchio non era nato per il cielo: era un telescopio spia costruito per l'intelligence militare statunitense e donato alla NASA nel 2011, che ha così salvato una missione a corto di fondi."
-        ]
-      }
-    },
-    {
-      "id": "story-796273118b5f4700",
-      "title": "Moons vede la prima luce al Vlt",
-      "summary": "Dopo sedici anni di progettazione e sviluppo, il nuovo spettrografo infrarosso dell’Eso ha iniziato le osservazioni. Con circa mille fibre ottiche robotiche, Moons potrà studiare simultaneamente stelle e galassie, anche dove la polvere della Via Lattea nasconde la luce visibile. Lo strumento sarà operativo per i prossimi dieci anni",
-      "spokenText": "Dopo sedici anni di progettazione e sviluppo, il nuovo spettrografo infrarosso Moons dell'Eso ha iniziato le osservazioni al Vlt. Moons potrà studiare simultaneamente stelle e galassie, anche dove la polvere della Via Lattea nasconde la luce visibile.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "moons",
-        "eso",
-        "vlt"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 15,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/03/moons-prima-luce/"
-      },
-      "analysis": {
-        "mainFact": "Dopo sedici anni di progettazione e sviluppo, il nuovo spettrografo infrarosso Moons dell'Eso ha iniziato le osservazioni al Vlt.",
-        "whyItMatters": "Moons potrà studiare simultaneamente stelle e galassie, anche dove la polvere della Via Lattea nasconde la luce visibile.",
-        "confirmedFacts": [
-          "Dopo sedici anni di progettazione e sviluppo, il nuovo spettrografo infrarosso Moons dell'Eso ha iniziato le osservazioni al Vlt.",
-          "Moons potrà studiare simultaneamente stelle e galassie, anche dove la polvere della Via Lattea nasconde la luce visibile.",
-          "Dopo sedici anni di progettazione e sviluppo, il nuovo spettrografo infrarosso dell’Eso ha iniziato le osservazioni.",
-          "Con circa mille fibre ottiche robotiche, Moons potrà studiare simultaneamente stelle e galassie, anche dove la polvere della Via Lattea nasconde la luce visibile."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Moons",
-          "Eso",
-          "Vlt"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-66c2684c61dfa6f8",
-      "title": "OpenAI annuncia GPT-6 Astra: inizia l’era AGI",
-      "summary": "OpenAI ha annunciato Astra, il primo modello AI della famiglia GPT-6, che offre prestazioni nettamente superiori a quelle dei modelli concorrenti in numerosi compiti. Astra rappresenta un salto generazionale e l'inizio dell'era AGI, e ha ottenuto un punteggio del 99,9% nel benchmark ARC-AGI-3.",
-      "spokenText": "OpenAI ha annunciato Astra, il primo modello della famiglia GPT-6, definendolo il sistema di intelligenza artificiale più potente e sicuro mai realizzato, frutto di anni di ricerca. Si tratta di un salto generazionale che, secondo l'azienda, segna l'inizio dell'era AGI. Astra ha raggiunto un punteggio del 99,9% nel benchmark ARC-AGI-3 e offre prestazioni nettamente superiori a GPT-5. 6 Sol, ai modelli Anthropic Claude Fable 5. 1, Fable 5 e Opus 5, e a Gemini 3. 8 Flash di Google, eseguendo compiti complessi in diversi settori. I prezzi sono stati allineati a quelli di Claude Fable 5. 1: dieci dollari per un milione di token in input e cinquanta dollari per un milione di token in output.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "openai",
-        "anthropic",
-        "google"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 47,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/openai-annuncia-gpt-6-astra-inizia-era-agi/"
-      },
-      "analysis": {
-        "mainFact": "OpenAI ha annunciato Astra, il primo modello AI della famiglia GPT-6, che offre prestazioni nettamente superiori a quelle dei modelli concorrenti in numerosi compiti.",
-        "whyItMatters": "Astra rappresenta un salto generazionale e l'inizio dell'era AGI, e ha ottenuto un punteggio del 99,9% nel benchmark ARC-AGI-3.",
-        "confirmedFacts": [
-          "OpenAI ha annunciato Astra, il primo modello AI della famiglia GPT-6, che offre prestazioni nettamente superiori a quelle dei modelli concorrenti in numerosi compiti.",
-          "Astra rappresenta un salto generazionale e l'inizio dell'era AGI, e ha ottenuto un punteggio del 99,9% nel benchmark ARC-AGI-3.",
-          "Può eseguire compiti complessi in diversi settori, offrendo prestazioni superiori a quelle di GPT-5. 6 Sol e ai modelli di Anthropic (Claude Fable 5. 1, Fable 5 e Opus 5) e Google (Gemini 3. 8 Flash).",
-          "I prezzi di Astra sono gli stessi di Claude Fable 5. 1: 10 dollari per un milione di token in input e 50 dollari per un milione di token in output.",
-          "OpenAI ha annunciato Astra , il primo modello AI della famiglia GPT-6 .",
-          "Astra è il modello AI più potente e sicuro OpenAI scrive che GPT-6 Astra è il risultato di anni di ricerca."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "OpenAI",
-          "Anthropic",
-          "Google"
-        ],
-        "numbersAndDates": [
-          "Può eseguire compiti complessi in diversi settori, offrendo prestazioni superiori a quelle di GPT-5. 6 Sol e ai modelli di Anthropic (Claude Fable 5. 1, Fable 5 e Opus 5) e Google (Gemini 3. 8 Flash).",
-          "I prezzi di Astra sono gli stessi di Claude Fable 5. 1: 10 dollari per un milione di token in input e 50 dollari per un milione di token in output.",
-          "OpenAI ha annunciato Astra , il primo modello AI della famiglia GPT-6 .",
-          "Astra è il modello AI più potente e sicuro OpenAI scrive che GPT-6 Astra è il risultato di anni di ricerca.",
-          "6",
-          "99,9",
-          "3"
-        ]
-      }
-    },
-    {
-      "id": "story-91be1aea23bd74e6",
-      "title": "I ‘Pervert Glasses’ di Zuckerberg",
-      "summary": "Furti d'immagine, molestie social e addestramento IA: tutti i rischi e le controversie legati agli occhiali smart di Meta e Ray-Ban, nonostante l'ottimismo di Zuckerberg.",
-      "spokenText": "Gli occhiali smart di Meta e Ray-Ban sono al centro di controversie per furti d'immagine, molestie social e addestramento IA.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "meta",
-        "ray ban"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/smart-glasses-meta-privacy-zuckerberg/"
-      },
-      "analysis": {
-        "mainFact": "Gli occhiali smart di Meta e Ray-Ban sono al centro di controversie per furti d'immagine, molestie social e addestramento IA.",
-        "whyItMatters": "Occhiali smart Meta-Ray-Ban: rischio privacy, molestie e IA. Tecnologia utile con forte angolo diritti, perfetto per il profilo.",
-        "confirmedFacts": [
-          "Gli occhiali smart di Meta e Ray-Ban sono al centro di controversie per furti d'immagine, molestie social e addestramento IA.",
-          "Occhiali smart Meta-Ray-Ban: rischio privacy, molestie e IA. Tecnologia utile con forte angolo diritti, perfetto per il profilo.",
-          "Furti d'immagine, molestie social e addestramento IA: tutti i rischi e le controversie legati agli occhiali smart di Meta e Ray-Ban, nonostante l'ottimismo di Zuckerberg."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Meta",
-          "Ray-Ban"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-92a4ca09bb90b740",
-      "title": "George Lucas apre il suo museo a Los Angeles, 'impresa quasi impossibile'",
-      "summary": "Il Lucas Museum of Narrative Art, voluto da George Lucas e sua moglie Mellody Hobson, apre al pubblico a Los Angeles il 22 settembre. Varcata la soglia, sui tre piani espositivi si stende una sorta di enciclopedia dell'arte di",
-      "spokenText": "Il 22 settembre apre finalmente i battenti a Los Angeles il Lucas Museum of Narrative Art, il museo voluto con tenacia da George Lucas e sua moglie Mellody Hobson. Un progetto dal costo superiore al miliardo di dollari, che il creatore di Star Wars ha presentato alla stampa ricordando un percorso travagliato: diciassette anni di attesa, città che hanno rifiutato il progetto e otto anni solo per la costruzione. Varcata la soglia, sui tre piani espositivi si stende una sorta di enciclopedia dell'arte di narrare per immagini: dalle tele di Artemisia Gentileschi e Frida Kahlo fino alle illustrazioni di Norman Rockwell e Robert Crumb, senza dimenticare l'intero archivio personale di Lucas, con i materiali raccolti tra il 1971 e il 2012. Davanti a lui, in una delle due sale cinematografiche del museo, circa trecento giornalisti internazionali in anteprima. In platea, circa 300 giornalisti statunitensi e internazionali arrivati per visitare il museo in anteprima.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "george lucas",
-        "mellody hobson",
-        "lucas museum of narrative art",
-        "los angeles"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 62,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_viaggi/notizie/mondo/2026/09/03/george-lucas-apre-il-suo-museo-a-los-angeles-impresa-quasi-impossibile_027bf3e7-a68b-40ea-84c3-cfdeb36a7530.html"
-      },
-      "analysis": {
-        "mainFact": "Il Lucas Museum of Narrative Art, voluto da George Lucas e sua moglie Mellody Hobson, apre al pubblico a Los Angeles il 22 settembre.",
-        "whyItMatters": "Varcata la soglia, sui tre piani espositivi si stende una sorta di enciclopedia dell'arte di",
-        "confirmedFacts": [
-          "Il Lucas Museum of Narrative Art, voluto da George Lucas e sua moglie Mellody Hobson, apre al pubblico a Los Angeles il 22 settembre.",
-          "Varcata la soglia, sui tre piani espositivi si stende una sorta di enciclopedia dell'arte di",
-          "George Lucas presenta così il Lucas Museum of Narrative Art, il museo costato oltre un miliardo di dollari che il creatore di 'Star Wars' ha voluto insieme alla moglie Mellody Hobson e che il 22 settembre apre al pubblico a Los Angeles.",
-          "\"È stato un percorso lunghissimo: 17 anni tra città che ci hanno mandato via e il tentativo di costruirlo, che da solo ne ha richiesti otto\", ha spiegato Lucas dal podio sistemato in una delle due sale cinematografiche del museo.",
-          "La collezione va da Artemisia Gentileschi a Frida Kahlo, da Norman Rockwell a Robert Crumb, e comprende l'intero Lucas Archives con i materiali raccolti dal padre di Guerre Stellari tra il 1971 e il 2012.",
-          "In platea, circa 300 giornalisti statunitensi e internazionali arrivati per visitare il museo in anteprima."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "George Lucas",
-          "Mellody Hobson",
-          "Lucas Museum of Narrative Art",
-          "Los Angeles"
-        ],
-        "numbersAndDates": [
-          "George Lucas presenta così il Lucas Museum of Narrative Art, il museo costato oltre un miliardo di dollari che il creatore di 'Star Wars' ha voluto insieme alla moglie Mellody Hobson e che il 22 settembre apre al pubblico a Los Angeles.",
-          "\"È stato un percorso lunghissimo: 17 anni tra città che ci hanno mandato via e il tentativo di costruirlo, che da solo ne ha richiesti otto\", ha spiegato Lucas dal podio sistemato in una delle due sale cinematografiche del museo.",
-          "La collezione va da Artemisia Gentileschi a Frida Kahlo, da Norman Rockwell a Robert Crumb, e comprende l'intero Lucas Archives con i materiali raccolti dal padre di Guerre Stellari tra il 1971 e il 2012.",
-          "In platea, circa 300 giornalisti statunitensi e internazionali arrivati per visitare il museo in anteprima.",
-          "22"
-        ]
-      }
-    },
-    {
-      "id": "story-3b8560a7956b528c",
-      "title": "Pindick: “Saltati tutti gli obiettivi per le emissioni zero",
-      "summary": "L’economista del Mit che da anni si occupa di riscaldamento globale: “E’ chiaro che patiremo di più il caldo e avremo fenomeni meteo violenti. Ma esistono misure per difenderci, dalle costruzioni all’agricoltura”",
-      "spokenText": "L'economista del Mit Pindick ha dichiarato che sono saltati tutti gli obiettivi per le emissioni zero. La scheda non fornisce fatti di supporto per spiegare l'importanza della dichiarazione.",
+      "id": "story-1af6d24cf9af5dc2",
+      "title": "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa",
+      "summary": "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa settimana in alcune parti dell'Australia settentrionale – e le condizioni stanno diventando più secche.",
+      "spokenText": "Le temperature stanno aumentando in modo insolito in alcune zone dell'Australia settentrionale, dove questa settimana si potranno toccare punte fino a trentasette gradi. Parallelamente, le condizioni stanno diventando più secche, un elemento che si inserisce in un quadro meteorologico già caratterizzato da valori fuori dalla norma. Le aree interessate appartengono alla fascia settentrionale del continente australiano.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "pindick",
-        "mit"
+        "australia",
+        "hawaii"
       ],
-      "importance": 95,
+      "importance": 92,
       "mustInclude": false,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/09/04/news/el_nino_pindick_intervista_economista_saltati_obiettivi_emissioni_zero-425563482/"
-      },
-      "analysis": {
-        "mainFact": "L'economista del Mit Pindick ha dichiarato che sono saltati tutti gli obiettivi per le emissioni zero.",
-        "whyItMatters": "La scheda non fornisce fatti di supporto per spiegare l'importanza della dichiarazione.",
-        "confirmedFacts": [
-          "L'economista del Mit Pindick ha dichiarato che sono saltati tutti gli obiettivi per le emissioni zero.",
-          "La scheda non fornisce fatti di supporto per spiegare l'importanza della dichiarazione."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Pindick",
-          "Mit"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-fa779b80c1440268",
-      "title": "Un flusso di detriti e un'inondazione hanno distrutto il posto di frontiera di",
-      "summary": "Un flusso di detriti e un'inondazione hanno distrutto il posto di frontiera di Gyirong Port, al confine tra Nepal e Cina, dopo che gli strumenti avevano registrato un segnale inizialmente interpretato come un piccolo terremoto.",
-      "spokenText": "Un flusso di detriti e un'inondazione hanno distrutto il posto di frontiera di Gyirong Port, al confine tra Nepal e Cina. Poco prima, gli strumenti avevano registrato un segnale che era stato inizialmente interpretato come un piccolo terremoto. Il segnale sismico registrato, pur essendo stato inizialmente classificato come un piccolo terremoto, potrebbe essere stato in realtà generato proprio dal movimento della massa di detriti. Nel frattempo, il valico di frontiera resta chiuso, con ripercussioni sul traffico di merci e persone tra Nepal e Cina.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nepal"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 34,
+      "estimatedSeconds": 23,
       "source": {
         "name": "The Conversation",
-        "url": "https://theconversation.com/himalayan-hazards-are-becoming-more-complex-our-warning-systems-need-to-catch-up-291022"
+        "url": "https://theconversation.com/a-record-shattering-el-nino-is-almost-here-heres-what-that-means-for-the-worlds-weather-291258"
       },
       "analysis": {
-        "mainFact": "Un flusso di detriti e un'inondazione hanno distrutto il posto di frontiera di Gyirong Port, al confine tra Nepal e Cina, dopo che gli strumenti avevano registrato un segnale inizialmente interpretato come un piccolo terremoto.",
-        "whyItMatters": "Complessità dei rischi naturali himalayani e sistemi di allerta.",
+        "mainFact": "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa settimana in alcune parti dell'Australia settentrionale – e le condizioni stanno diventando più secche.",
+        "whyItMatters": "El Niño record con impatti climatici globali estremi. Rilevanza scientifica e ambientale massima.",
         "confirmedFacts": [
-          "Un flusso di detriti e un'inondazione hanno distrutto il posto di frontiera di Gyirong Port, al confine tra Nepal e Cina, dopo che gli strumenti avevano registrato un segnale inizialmente interpretato come un piccolo terremoto.",
-          "Complessità dei rischi naturali himalayani e sistemi di allerta.",
-          "Himalayan hazards are becoming more complex.",
-          "Our warning systems need to catch up",
-          "At 8:37am, instruments recorded what was initially interpreted as an earthquake near Nepal’s border with China.",
-          "Nepal’s flood authorities learned about the incident at about 9:00am and sent out an emergency SMS alert at about 9:15am.",
-          "The 38 minute gap between the tremor being detected and the emergency alert is striking.",
-          "Could seismic readings, satellite images and other observations have been combined quickly enough to recognise what was happening and alert people further downstream?",
-          "Cascading mountain hazards that cross borders In July 2025, a glacial lake in Tibet burst and swept down this very same stretch of river into Nepal, killing at least nine people and leaving around 20 missing in Nepal.",
-          "However, despite Nepal’s foreign minister raising the issue during a visit to China in May 2026, no formal agreement has been signed."
+          "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa settimana in alcune parti dell'Australia settentrionale – e le condizioni stanno diventando più secche.",
+          "El Niño record con impatti climatici globali estremi. Rilevanza scientifica e ambientale massima."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Nepal"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-41e391ca1146be7e",
-      "title": "L’AfD è dato oltre il 40% nei sondaggi in vista delle elezioni in Sassonia del 6 settembre",
-      "summary": "L’AfD è dato oltre il 40% nei sondaggi in vista delle elezioni in Sassonia del 6 settembre. Cosa alimenta il consenso per l'estrema destra in questo Land della Germania orientale a vocazione prevalentemente rurale?",
-      "spokenText": "L'AfD è dato oltre il 40% nei sondaggi in vista delle elezioni in Sassonia del 6 settembre.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "afd",
-        "sassonia"
-      ],
-      "importance": 62,
-      "mustInclude": false,
-      "estimatedSeconds": 7,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/afd-germania-elezioni-sassonia-estrema-destra/"
-      },
-      "analysis": {
-        "mainFact": "L'AfD è dato oltre il 40% nei sondaggi in vista delle elezioni in Sassonia del 6 settembre.",
-        "whyItMatters": "Analisi dell'ascesa dell'estrema destra in un Land tedesco.",
-        "confirmedFacts": [
-          "L'AfD è dato oltre il 40% nei sondaggi in vista delle elezioni in Sassonia del 6 settembre.",
-          "Analisi dell'ascesa dell'estrema destra in un Land tedesco."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "AfD",
-          "Sassonia"
+          "Australia",
+          "Hawaii"
         ],
         "numbersAndDates": [
-          "40",
-          "6"
+          "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa settimana in alcune parti dell'Australia settentrionale – e le condizioni stanno diventando più secche.",
+          "37"
         ]
       }
     }
