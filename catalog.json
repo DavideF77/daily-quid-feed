@@ -1,590 +1,576 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-09-05-de1dbd5684f0",
-  "generatedAt": "2026-09-05T08:46:12.953Z",
+  "catalogId": "daily-quid-2026-09-06-a543fe4f3853",
+  "generatedAt": "2026-09-06T09:07:48.337Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-b95de1eeb5787e58",
-      "title": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
-      "summary": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
-      "spokenText": "Con la prima campanella torna il rischio del cosiddetto 'back to school blues', quella malinconia da rientro che può accompagnare bambini e ragazzi nelle prime settimane di scuola. Un fenomeno su cui è bene non proiettare le proprie ansie: gli esperti ricordano che i genitori dovrebbero evitare domande pressanti e la tentazione di sovraccaricare subito i figli con attività extra, specie nella fase iniziale dell'anno scolastico, quando l'adattamento ai nuovi ritmi richiede tempo e leggerezza.",
+      "id": "story-6ce0c3bb26ba5591",
+      "title": "Beveroni anti-cancro, terapie con le tisane e diete miracolose: i disastri dei medici guru",
+      "summary": "Dal dramma dei genitori di Bianca, che avevano speso tutto per cure senza criteri scientifici, alle inchieste sui venditori di fumo e i metodi alternativi",
+      "spokenText": "Loro, disperati, avevano scelto di abbandonare le terapie convenzionali per affidarsi completamente a cure alternative: bevoni anti-cancro, terapie a base di tisane e diete miracolose. Avevano speso tutto quello che avevano, convinti di aver trovato la strada giusta, lontano dalla medicina tradizionale. Dietro queste promesse di guarigione, però, c’è un fenomeno sempre più diffuso e pericoloso: quello dei cosiddetti medici guru e dei venditori di metodi alternativi che operano senza alcun criterio scientifico.",
       "category": "salute",
       "tags": [
-        "salute"
+        "salute",
+        "bianca",
+        "genitori di bianca",
+        "medici guru"
       ],
-      "importance": 82,
+      "importance": 95,
       "mustInclude": false,
       "estimatedSeconds": 30,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/09/04/con-la-prima-campanella-rischio-back-to-school-blues-la-malinconia-da-rientro_f0ce6d4a-6df1-4643-a195-bad04580e6cb.html"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/cronaca/2026/09/06/news/beveroni_anti-cancro_terapie_con_le_tisane_e_diete_miracolose_i_disastri_dei_medici_guru-425567882/"
       },
       "analysis": {
-        "mainFact": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
-        "whyItMatters": "Consigli dell'ISS su malinconia da rientro scolastico. Utile per benessere psicologico.",
+        "mainFact": "Beveroni anti-cancro, terapie con le tisane e diete miracolose: i disastri dei medici guru.",
+        "whyItMatters": "Dal dramma dei genitori di Bianca, che avevano speso tutto per cure senza criteri scientifici, alle inchieste sui venditori di fumo e i metodi alternativi",
         "confirmedFacts": [
-          "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
-          "Consigli dell'ISS su malinconia da rientro scolastico. Utile per benessere psicologico.",
+          "Beveroni anti-cancro, terapie con le tisane e diete miracolose: i disastri dei medici guru.",
+          "Dal dramma dei genitori di Bianca, che avevano speso tutto per cure senza criteri scientifici, alle inchieste sui venditori di fumo e i metodi alternativi"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Bianca",
+          "genitori di Bianca",
+          "medici guru"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-3306abda12e5856d",
+      "title": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
+      "summary": "Con la prima campanella c'è il rischio di 'back to school blues', la malinconia da rientro.",
+      "spokenText": "Con la prima campanella si affaccia il rischio del cosiddetto 'back to school blues', quella malinconia da rientro che può colpire i ragazzi. È importante che gli adulti evitino di trasmettere le proprie ansie ai figli, per esempio con domande pressanti, e che non sovraccarichino i ragazzi con attività extra, specialmente all'inizio dell'anno scolastico.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "iss",
+        "genitori",
+        "figli"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/04/con-la-prima-campanella-rischio-back-to-school-blues-malinconia-da-rientro_ca581c62-bd4d-420e-bf20-d3ae8c801424.html"
+      },
+      "analysis": {
+        "mainFact": "Con la prima campanella c'è il rischio di 'back to school blues', la malinconia da rientro.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Con la prima campanella c'è il rischio di 'back to school blues', la malinconia da rientro.",
           "Al contempo i genitori devono evitare di trasmettere le proprie ansie ai figli, con domande pressanti ed evitare di sovraccaricarli con attività extra specie a inizio anno scolastico."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-2195a372ebd431aa",
-      "title": "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace",
-      "summary": "Drone sugli 007 di Kiev. Il tycoon: \"La Russia non intende attaccare la Nato\"",
-      "spokenText": "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace. Secondo quanto denunciato dallo stesso presidente ucraino Volodymyr Zelensky, il drone russo ha preso di mira proprio \"lo studio del capo\" dei servizi segreti. Per questo la risposta di Zelensky è stata immediata e incisiva: \"Risponderemo in modo adeguato, significativo e, se possibile, in modo proporzionale\", ha promesso a caldo il presidente ucraino. Tra Mosca e Kiev, ha detto chiaro e tondo il portavoce del Cremlino Dmitry Peskov, non ci saranno accordi diretti per la sicurezza durante la visita mentre Zelensky invita a \"cessare i raid\" durante la visita. Drone sugli 007 di Kiev. Trump: “Putin non colpirà la Nato”.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "volodymyr zelensky",
-        "russia",
-        "nato"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 46,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/05/trump-manda-witkoff-e-kushner-da-putin-e-zelensky-con-un-piano-di-pace_2909e7e8-1a6a-4d5b-af61-5ec4cb4d3051.html"
-      },
-      "analysis": {
-        "mainFact": "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace",
-        "whyItMatters": "Trump, 'parlo con Putin, non intende attaccare i territori della Nato'",
-        "confirmedFacts": [
-          "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace",
-          "Trump, 'parlo con Putin, non intende attaccare i territori della Nato'",
-          "Secondo quanto denunciato dallo stesso presidente ucraino Volodymyr Zelensky, il drone russo ha preso di mira proprio \"lo studio del capo\" dei servizi segreti.",
-          "Per questo la risposta di Zelensky è stata immediata e incisiva: \"Risponderemo in modo adeguato, significativo e, se possibile, in modo proporzionale\", ha promesso a caldo il presidente ucraino.",
-          "Tra Mosca e Kiev, ha detto chiaro e tondo il portavoce del Cremlino Dmitry Peskov, non ci saranno accordi diretti per la sicurezza durante la visita mentre Zelensky invita a \"cessare i raid\" durante la visita.",
-          "Il tycoon: \"La Russia non intende attaccare la Nato\"",
-          "Drone sugli 007 di Kiev.",
-          "Trump: “Putin non colpirà la Nato”"
-        ],
-        "uncertainties": [],
         "peopleAndOrganizations": [
-          "Volodymyr Zelensky",
-          "Russia",
-          "NATO"
-        ],
-        "numbersAndDates": [
-          "Drone sugli 007 di Kiev."
-        ]
-      }
-    },
-    {
-      "id": "story-2c9541fe97050c88",
-      "title": "Iran, petroliera colpita da quattro missili Usa all’isola di Kharg",
-      "summary": "Una petroliera iraniana al largo dell’isola di Kharg è stata colpita da quattro missili statunitensi. Lo riportano alcuni media iraniani. Intanto il presidente del Parlamento iraniano Ghalibaf sottolinea: «L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo»",
-      "spokenText": "Una petroliera iraniana al largo dell’isola di Kharg è stata colpita da quattro missili statunitensi. Lo riportano in queste ore alcuni media iraniani, tra cui lo Student News Network e il sito Khabar Fouri, ripresi da Al Jazeera. Secondo le stesse fonti, sarebbe in corso l’evacuazione dell’equipaggio. Intanto il presidente del Parlamento iraniano Ghalibaf sottolinea: «L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo».",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "iran",
-        "isola di kharg"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 29,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/iran-petroliera-colpita-quattro-missili-usa-all-isola-kharg-AJFbDJ4"
-      },
-      "analysis": {
-        "mainFact": "Una petroliera iraniana al largo dell'isola di Kharg è stata colpita da quattro missili statunitensi, come riportato da alcuni media iraniani.",
-        "whyItMatters": "Lo riportano alcuni media iraniani.",
-        "confirmedFacts": [
-          "Una petroliera iraniana al largo dell'isola di Kharg è stata colpita da quattro missili statunitensi, come riportato da alcuni media iraniani.",
-          "Lo riportano alcuni media iraniani.",
-          "Lo riportano alcuni media iraniani citati da Al Jazeera, segnatamente lo Student News Network (Snn) e il sito Khabar Fouri, secondo cui sarebbe in corso l’evacuazione dell’equipaggio.",
-          "Intanto il presidente del Parlamento iraniano Ghalibaf sottolinea: «L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo»",
-          "«L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo» Servizio English Version Aggiungi Il Sole 24 Ore ai preferiti su Google circa un'ora fa Ghalibaf:",
-          "«In linea con Pechino su necessità di costruire nuova architettura di sicurezza» «L’enfasi della Cina nel promuovere la sicurezza comune riflette un principio che l’Iran sostiene da tempo»:",
-          "Media Iran, diverse esplosioni riportate nella zona dell'isola di Kharg",
-          "Lo riportano i media iraniani, non sarebbero visibili fumo e fiamme"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Iran",
-          "Isola di Kharg"
+          "Iss",
+          "genitori",
+          "figli"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-d3809b3ebbdb4509",
-      "title": "Bessent al G20: «Frenare la Cina per ribilanciare gli scambi mondiali»",
-      "summary": "Il segretario Usa al Tesoro attacca l’eccesso di esportazioni di Pechino e preme sulla Ue perché introduca barriere contro i beni cinesi. Dombrovskis: «La Cina dovrebbe spendere di più, gli Usa di meno e la Ue dovrebbe investire di più»",
-      "spokenText": "Al centro del dibattito al G20 c’è la necessità di un riequilibrio degli scambi mondiali, con un’inedita convergenza tra Stati Uniti e Unione Europea. Una visione che ha trovato sponda nel commissario europeo Valdis Dombrovskis, il quale ha concordato nell’identificare Pechino come una delle principali fonti di squilibri economici globali. il surplus commerciale cinese con l’Unione Europea ha raggiunto i 360,6 miliardi di euro lo scorso anno. Dombrovskis ha però allargato il quadro, sintetizzando il lavoro condotto in questi ultimi due anni con una formula chiara: la Cina dovrebbe spendere di più, gli Stati Uniti di meno e l’Unione Europea dovrebbe investire di più. Ha inoltre ribadito che per ottenere un’economia globale più equilibrata, tocca a Stati Uniti ed Europa agire concretamente. Il segretario Usa al Tesoro attacca l’eccesso di esportazioni di Pechino e preme sulla Ue perché introduca barriere contro i beni cinesi.",
-      "category": "attualita",
+      "id": "story-1231c6c2c9ff8222",
+      "title": "Africa, l’Onu vota per «correggere» le mappe geografiche e fa infuriare gli Usa",
+      "summary": "L’assemblea dà il via libera a una risoluzione per rivedere la mappe dell’era Mercatore e riflettere le dimensioni effettive del Continente",
+      "spokenText": "La proiezione, realizzata nel 1569 dal matematico fiammingo Gerardo Mercatore, è accusata di far apparire il continente africano decisamente più piccolo, dilatando al contempo altre regioni. Uno degli esempi più citati è la sproporzione tra Groenlandia e Africa. Tra le soluzioni caldeggiate c’è la proiezione Equal Earth, sviluppata nel 2018 e ritenuta più fedele nel rappresentare le dimensioni relative dell’Africa e di altri blocchi geografici oggi sfavoriti, come il Sud America e l’India. Il presidente della Commissione dell’Unione Africana, Mahmoud Ali Youssouf, ha dichiarato che l’iniziativa sottolinea l’importanza di rappresentare l’Africa sulla base di realtà obiettive e scientificamente fondate. Di tono opposto la posizione della Missione statunitense, secondo cui l’organo starebbe dibattendo su progetti cartografici del XVI secolo invece di concentrarsi su reali problemi di pace internazionale e prosperità. Africa, estese rispettivamente per 2,165 milioni di chilometri quadrati. 30,37 milioni di chilometri quadrati.",
+      "category": "mondo",
       "tags": [
-        "attualita",
-        "stati uniti",
-        "cina",
-        "unione europea",
-        "valdis dombrovskis"
+        "mondo",
+        "onu",
+        "africa",
+        "unione africana",
+        "gerardo mercatore",
+        "mahmoud ali youssouf",
+        "groenlandia"
       ],
-      "importance": 85,
+      "importance": 75,
       "mustInclude": false,
       "estimatedSeconds": 58,
       "source": {
         "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/bessent-g20-frenare-cina-ribilanciare-scambi-mondiali-AJW5Zj0"
+        "url": "https://www.ilsole24ore.com/art/africa-l-onu-vota-correggere-mappe-geografiche-e-fa-infuriare-usa-AJs94J4"
       },
       "analysis": {
-        "mainFact": "Bessent al G20: «Frenare la Cina per ribilanciare gli scambi mondiali»",
-        "whyItMatters": "Il surplus commerciale cinese con l'UE ha raggiunto 360,6 miliardi di euro lo scorso anno, con un aumento del 15% rispetto al 2024, alimentando le richieste di barriere commerciali.",
+        "mainFact": "L'assemblea dell'ONU ha approvato una risoluzione per rivedere le mappe dell'era Mercatore e riflettere le dimensioni effettive dell'Africa.",
+        "whyItMatters": "Uno degli esempi più citati è quello della sproporzione fra Groenlandia e Africa, estese rispettivamente per 2,165 milioni di chilometri quadrati e 30,37 milioni di chilometri quadrati.",
         "confirmedFacts": [
-          "Bessent al G20: «Frenare la Cina per ribilanciare gli scambi mondiali»",
-          "Il surplus commerciale cinese con l'UE ha raggiunto 360,6 miliardi di euro lo scorso anno, con un aumento del 15% rispetto al 2024, alimentando le richieste di barriere commerciali.",
-          "Il segretario Usa al Tesoro attacca l’eccesso di esportazioni di Pechino e preme sulla Ue perché introduca barriere contro i beni cinesi.",
-          "Valdis Dombrovskis, si è detto d’accordo con la visione americana degli Stati Uniti, sostenendo che «la Cina è una delle principali fonti di squilibri economici globali», ma ha anche ribadito che tocca «a Stati Uniti ed Europa agire» per ottenere un’economia globale più equilibrata.",
-          "«Per riassumere brevemente questa analisi, che stiamo conducendo da un paio d’anni, la Cina dovrebbe spendere di più, gli Stati Uniti di meno e l’Unione europea dovrebbe investire di più», ha detto Dombrovskis."
+          "L'assemblea dell'ONU ha approvato una risoluzione per rivedere le mappe dell'era Mercatore e riflettere le dimensioni effettive dell'Africa.",
+          "Uno degli esempi più citati è quello della sproporzione fra Groenlandia e Africa, estese rispettivamente per 2,165 milioni di chilometri quadrati e 30,37 milioni di chilometri quadrati.",
+          "La proiezione realizzata nel 1569 da Gerardo Mercatore, il matematico fiammingo che dà il nome alla mappa, è accusata di far apparire l’Africa - decisamente - più piccola e allargare le dimensioni di altre regioni.",
+          "Una delle soluzione caldeggiata è la proiezione cartografica Equal Earth, realizzata nel 2018 e ritenuta più fedele alle dimensioni relativa dell’Africa e di altri blocchi geografici oggi sfavoriti come Sud America e India.",
+          "«Invece di concentrarsi su reali problemi di pace internazionale, prosperità o buone relazioni - ha dichiarato la Missione Usa - questo organo sta dibattendo su progetti cartografici del XVI secolo e sul loro ruolo nel promuovere il risarcimento dei danni storici».",
+          "«Questa iniziativa sottolinea l’importanza di rappresentare l’Africa sulla base di realtà obiettive e scientificamente fondate», ha dichiarato in una nota il presidente della Commissione dell’Unione africana, Mahmoud Ali Youssouf."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Stati Uniti",
-          "Cina",
-          "Unione Europea",
-          "Valdis Dombrovskis"
+          "ONU",
+          "Africa",
+          "Unione Africana",
+          "Gerardo Mercatore",
+          "Mahmoud Ali Youssouf",
+          "Groenlandia"
         ],
         "numbersAndDates": [
-          "360,6",
-          "15",
-          "2024"
-        ]
-      }
-    },
-    {
-      "id": "story-7147340b615d77dc",
-      "title": "Diesel record negli Usa, il prezzo sale a 5,85 dollari e mette nei guai Trump",
-      "summary": "Il carburante per trasporti e agricoltura è aumentato del 58% in un anno: conseguenze su tutta l’economia e sul voto di Midterm",
-      "spokenText": "Il prezzo del diesel negli Usa sale al record di 5,85 dollari. Il carburante per trasporti e agricoltura è aumentato del 58% in un anno, con conseguenze su tutta l'economia e sul voto di Midterm. «Ma ora, la stagione del raccolto si avvicina e - spiega con preoccupazione - dovrò spendere almeno 40mila dollari di carburante, il doppio di quanto ho speso l’anno scorso per arrivare da settembre a fine anno».",
-      "category": "attualita",
-      "tags": [
-        "attualita"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 29,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/diesel-record-usa-prezzo-sale-585-dollari-e-mette-guai-trump-AJPp3h3"
-      },
-      "analysis": {
-        "mainFact": "Il prezzo del diesel negli Usa sale al record di 5,85 dollari.",
-        "whyItMatters": "Il carburante per trasporti e agricoltura è aumentato del 58% in un anno, con conseguenze su tutta l'economia e sul voto di Midterm.",
-        "confirmedFacts": [
-          "Il prezzo del diesel negli Usa sale al record di 5,85 dollari.",
-          "Il carburante per trasporti e agricoltura è aumentato del 58% in un anno, con conseguenze su tutta l'economia e sul voto di Midterm.",
-          "«Ma ora, la stagione del raccolto si avvicina e - spiega con preoccupazione - dovrò spendere almeno 40mila dollari di carburante, il doppio di quanto ho speso l’anno scorso per arrivare da settembre a fine anno»."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "5,85",
-          "58"
+          "La proiezione realizzata nel 1569 da Gerardo Mercatore, il matematico fiammingo che dà il nome alla mappa, è accusata di far apparire l’Africa - decisamente - più piccola e allargare le dimensioni di altre regioni.",
+          "Una delle soluzione caldeggiata è la proiezione cartografica Equal Earth, realizzata nel 2018 e ritenuta più fedele alle dimensioni relativa dell’Africa e di altri blocchi geografici oggi sfavoriti come Sud America e India.",
+          "2,165",
+          "30,37"
         ]
       }
     },
     {
       "id": "story-cb437291979a6ce8",
-      "title": "ISPRA e SNPA al Meeting di Rimini 2026",
-      "summary": "ISPRA e il Sistema nazionale per la protezione ambientale quest'anno dal 21 al 26 agosto partecipano al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini . Il SNPA sarà presente con uno spazio espositivo all'interno dell'area istituzionale del Ministero dell'Ambiente e della Sicurezza energetica offrendo incontri, materiale informativo e approfondimenti sui temi della tutela ambientale, dei monitoraggi e dei controlli e della ricerca scientifica per la salvaguardia del territorio.",
-      "spokenText": "Dal 21 al 26 agosto, alla Fiera di Rimini, il mare diventa un laboratorio galleggiante. ISPRA e il Sistema nazionale per la protezione ambientale portano al Meeting per l’amicizia fra i popoli uno spazio espositivo dove la conoscenza del Mediterraneo si tocca con mano. Il cuore pulsante di questa presenza è la nave ISPRA, che ospita il veicolo autonomo HUGIN: un gioiello tecnologico capace di esplorare i fondali fino a tremila metri di profondità, oggi impiegato in missioni scientifiche, ambientali e geofisiche di altissima complessità. ISPRA ha rilevato che dal 1990 al 2025 le emissioni di CO₂ della produzione elettrica sono calate del 48,8%, con le rinnovabili arrivate lo scorso anno a coprire il 48% della produzione nazionale. Un’istantanea che lega la tutela degli ecosistemi profondi alla trasformazione energetica del Paese.",
+      "title": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare",
+      "summary": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini; Il 25 agosto alle 11. 00 è prevista la tavola rotonda “ Un tuffo dove il mare è più blu: persone e azioni per la salvaguardia dei nostri ecosistemi marini ” con la partecipazione della Presidente ISPRA e SNPA Maria Alessandra Gallone. Si parlerà dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
+      "spokenText": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo. È questo il cuore della partecipazione di ISPRA e del Sistema nazionale per la protezione ambientale al Meeting per l'amicizia fra i popoli, in programma alla Fiera di Rimini dal 21 al 26 agosto. All'interno dello spazio espositivo e dei talk, il mare sarà uno dei protagonisti assoluti. L'occasione ruota attorno ad Arcadia, una nuova infrastruttura che rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA. Durante la manifestazione si parlerà dello stato di salute del Mediterraneo, con un focus su economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini. Un'occasione per approfondire come questa piattaforma contribuirà alla comprensione delle dinamiche del nostro mare e al monitoraggio dell’inquinamento. ISPRA e SNPA al Meeting di Rimini 2026.",
       "category": "scienza",
       "tags": [
         "scienza",
+        "arcadia",
         "ispra",
         "snpa",
-        "meeting di rimini 2026"
+        "meeting per l amicizia fra i popoli",
+        "fiera di rimini"
       ],
       "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 53,
+      "estimatedSeconds": 54,
       "source": {
         "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/ispra-e-snpa-al-meeting-di-rimini-2026"
+        "url": "https://www.isprambiente.gov.it/it/news/a-rimini-arcadia-si-presenta-al-pubblico-al-meeting-201capproda201d-la-riproduzione-in-scala-della-nuova-nave-oceanografica-di-ispra"
       },
       "analysis": {
-        "mainFact": "ISPRA e il Sistema nazionale per la protezione ambientale (SNPA) partecipano al Meeting per l'amicizia fra i popoli di Rimini dal 21 al 26 agosto con uno spazio espositivo.",
-        "whyItMatters": "La nave ISPRA ospiterà il veicolo AUV HUGIN che esplora i fondali fino a 3.000 metri di profondità, tra i più avanzati al mondo, oggi impiegato in missioni scientifiche, ambientali e geofisiche ad alta complessità.",
+        "mainFact": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
+        "whyItMatters": "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
         "confirmedFacts": [
-          "ISPRA e il Sistema nazionale per la protezione ambientale (SNPA) partecipano al Meeting per l'amicizia fra i popoli di Rimini dal 21 al 26 agosto con uno spazio espositivo.",
-          "La nave ISPRA ospiterà il veicolo AUV HUGIN che esplora i fondali fino a 3.000 metri di profondità, tra i più avanzati al mondo, oggi impiegato in missioni scientifiche, ambientali e geofisiche ad alta complessità.",
           "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
-          "ISPRA rileva che dal 1990 al 2025 le emissioni di CO₂ della produzione elettrica sono calate del 48,8%, con le rinnovabili arrivate nel 2025 al 48% della produzione nazionale."
+          "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
+          "ISPRA e il Sistema nazionale per la protezione ambientale quest'anno dal 21 al 26 agosto partecipano al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini .",
+          "Questa nuova infrastruttura rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA, contribuendo alla tutela della biodiversità, al monitoraggio dell’inquinamento e alla comprensione delle dinamiche del Mar Mediterraneo.",
+          "ISPRA e SNPA al Meeting di Rimini 2026"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
+          "Arcadia",
           "ISPRA",
           "SNPA",
-          "Meeting di Rimini 2026"
+          "Meeting per l'amicizia fra i popoli",
+          "Fiera di Rimini"
         ],
         "numbersAndDates": [
           "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
-          "ISPRA rileva che dal 1990 al 2025 le emissioni di CO₂ della produzione elettrica sono calate del 48,8%, con le rinnovabili arrivate nel 2025 al 48% della produzione nazionale.",
+          "ISPRA e il Sistema nazionale per la protezione ambientale quest'anno dal 21 al 26 agosto partecipano al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini .",
+          "ISPRA e SNPA al Meeting di Rimini 2026",
           "21",
-          "26",
-          "3.000"
+          "26"
         ]
       }
     },
     {
-      "id": "story-9fabfce0554ffacf",
-      "title": "Un solo lampo nell’oscurità",
-      "summary": "L’esperimento Lux-Zeplin – un rivelatore statunitense per la ricerca di particelle di materia oscura – ha trovato un unico ma promettente segnale a 248 keV che sembra aver superato tutti i test statistici, seppur con una significatività ancora attorno a soli tre sigma. All’interno del team c’è cauto ottimismo, mentre si aspetta la revisione finale del paper",
-      "spokenText": "L'esperimento Lux-Zeplin ha rilevato un unico segnale a 248 keV che ha superato i test statistici, con una significatività di circa tre sigma. All’interno del team c’è cauto ottimismo, mentre si aspetta la revisione finale del paper.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "lux zeplin"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 15,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/03/un-solo-lampo-nelloscurita/"
-      },
-      "analysis": {
-        "mainFact": "L'esperimento Lux-Zeplin ha rilevato un unico segnale a 248 keV che ha superato i test statistici, con una significatività di circa tre sigma.",
-        "whyItMatters": "All’interno del team c’è cauto ottimismo, mentre si aspetta la revisione finale del paper",
-        "confirmedFacts": [
-          "L'esperimento Lux-Zeplin ha rilevato un unico segnale a 248 keV che ha superato i test statistici, con una significatività di circa tre sigma.",
-          "All’interno del team c’è cauto ottimismo, mentre si aspetta la revisione finale del paper",
-          "L’esperimento Lux-Zeplin – un rivelatore statunitense per la ricerca di particelle di materia oscura – ha trovato un unico ma promettente segnale a 248 keV che sembra aver superato tutti i test statistici, seppur con una significatività ancora attorno a soli tre sigma."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Lux-Zeplin"
-        ],
-        "numbersAndDates": [
-          "248"
-        ]
-      }
-    },
-    {
-      "id": "story-a7344e7ca2db794f",
-      "title": "IFA 2026: Lenovo Yoga Pro 9n con chip NVIDIA RTX Spark",
-      "summary": "I nuovi Lenovo Yoga Pro 9n e Yoga 9n 2-1in-1, mostrati all'IFA 2026, integrano processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB. The post IFA 2026: Lenovo Yoga Pro 9n con chip NVIDIA RTX Spark appeared first on Punto Informatico.",
-      "spokenText": "Lenovo ha tolto i veli ai nuovi Yoga Pro 9n e Yoga 9n 2-in-1, due macchine pensate per chi non vuole scendere a compromessi. Sotto la scocca batte il nuovissimo processore NVIDIA RTX Spark N1X, lo stesso chip che avevamo visto debuttare da poco su un notebook ASUS, e che ora Lenovo porta nei suoi top di gamma, confermandosi tra i primissimi ad adottarlo. A bordo troviamo schermi da 15 e 16 pollici, che fanno da cornice a un sistema capace di gestire in parallelo applicazioni professionali, editing video, rendering 3D, sessioni di gioco e, chiaramente, l’esecuzione in locale di modelli e agenti di intelligenza artificiale. Lenovo ha presentato all'IFA 2026 i nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB. IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe I nuovi Lenovo IdeaPad Vibe con schermi da 14/15 pollici, processori Qualcomm e AMD e fino a 32 GB di RAM saranno disponibili a partire da 799 euro.",
+      "id": "story-05838da9d5419aaf",
+      "title": "L'intelligenza artificiale guida gli acquisti di tecnologia, +5,1% sul 2025",
+      "summary": "Parte la fiera Ifa di Berlino, per analisti l'IA porta più valore ai prodotti acquistati",
+      "spokenText": "L'intelligenza artificiale guida gli acquisti di tecnologia, con un aumento del 5,1% previsto per il 2026. Parte la fiera Ifa di Berlino, per analisti l'IA porta più valore ai prodotti acquistati. \"L'IA a bordo degli oggetti fa percepire un valore aggiunto\", scrive sul proprio blog Niq, \"il settore sarà sempre più guidato da prodotti con funzionalità avanzate e interconnesse\".",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "lenovo",
-        "nvidia",
-        "ifa 2026"
+        "ifa di berlino",
+        "niq"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 71,
+      "estimatedSeconds": 24,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/ifa-2026-lenovo-yoga-pro-9n-chip-nvidia-rtx-spark/"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/09/03/lintelligenza-artificiale-guida-gli-acquisti-di-tecnologia-51-sul-2025_18d0e2f9-5259-470e-a92a-5d2aaa258118.html"
       },
       "analysis": {
-        "mainFact": "Lenovo ha presentato all'IFA 2026 i nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB.",
-        "whyItMatters": "Lenovo è tra i primi produttori, dopo ASUS, a svelare notebook con il nuovo chip NVIDIA RTX Spark N1X.",
+        "mainFact": "L'intelligenza artificiale guida gli acquisti di tecnologia, con un aumento del 5,1% previsto per il 2026.",
+        "whyItMatters": "Parte la fiera Ifa di Berlino, per analisti l'IA porta più valore ai prodotti acquistati",
         "confirmedFacts": [
-          "Lenovo ha presentato all'IFA 2026 i nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con processori NVIDIA RTX Spark N1X, fino a 128 GB di RAM e SSD fino a 2 TB.",
-          "Lenovo è tra i primi produttori, dopo ASUS, a svelare notebook con il nuovo chip NVIDIA RTX Spark N1X.",
-          "Si tratta dei nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con schermi da 15 e 16 pollici.",
-          "Lenovo Yoga Pro 9n e Yoga 9n 2-in-1: specifiche complete Il Lenovo Yoga Pro 9n è un notebook che consente di eseguire diverse attività impegnative, tra cui sviluppo di applicazioni, editing video, rendering 3D, giochi e ovviamente esecuzione locale di modelli e agenti AI.",
-          "Lenovo ha annunciato all’IFA 2026 di Berlino i nuovi IdeaPad Vibe con processori Qualcomm e AMD.",
-          "IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe",
-          "IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe I nuovi Lenovo IdeaPad Vibe con schermi da 14/15 pollici, processori Qualcomm e AMD e fino a 32 GB di RAM saranno disponibili a partire da 799 euro."
+          "L'intelligenza artificiale guida gli acquisti di tecnologia, con un aumento del 5,1% previsto per il 2026.",
+          "Parte la fiera Ifa di Berlino, per analisti l'IA porta più valore ai prodotti acquistati",
+          "\"L'IA a bordo degli oggetti fa percepire un valore aggiunto\", scrive sul proprio blog Niq, \"il settore sarà sempre più guidato da prodotti con funzionalità avanzate e interconnesse\"."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Lenovo",
-          "NVIDIA",
-          "IFA 2026"
+          "Ifa di Berlino",
+          "Niq"
         ],
         "numbersAndDates": [
-          "Si tratta dei nuovi Yoga Pro 9n e Yoga 9n 2-in-1 con schermi da 15 e 16 pollici.",
-          "Lenovo Yoga Pro 9n e Yoga 9n 2-in-1: specifiche complete Il Lenovo Yoga Pro 9n è un notebook che consente di eseguire diverse attività impegnative, tra cui sviluppo di applicazioni, editing video, rendering 3D, giochi e ovviamente esecuzione locale di modelli e agenti AI.",
-          "Lenovo ha annunciato all’IFA 2026 di Berlino i nuovi IdeaPad Vibe con processori Qualcomm e AMD.",
-          "IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe",
-          "IFA 2026: Lenovo sfida Apple con i nuovi IdeaPad Vibe I nuovi Lenovo IdeaPad Vibe con schermi da 14/15 pollici, processori Qualcomm e AMD e fino a 32 GB di RAM saranno disponibili a partire da 799 euro.",
-          "2026",
-          "2",
-          "1",
-          "128"
-        ]
-      }
-    },
-    {
-      "id": "story-c6e67d2420ba6c0d",
-      "title": "Zooniverse si prepara ai dati di Roman",
-      "summary": "Il Nancy Grace Roman Space Telescope è appena partito, ma c’è già chi si prepara a lavorare con i dati che produrrà. Zooniverse, la piattaforma di citizen science che coinvolge persone di tutto il mondo nella ricerca scientifica, sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale della Nasa",
-      "spokenText": "Questi saranno dedicati alle future osservazioni del telescopio spaziale Nancy Grace Roman della NASA.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "zooniverse",
-        "nancy grace roman space telescope",
-        "nasa"
-      ],
-      "importance": 52,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/04/zooniverse-roman-telescope/"
-      },
-      "analysis": {
-        "mainFact": "Zooniverse sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale Nancy Grace Roman della Nasa.",
-        "whyItMatters": "Zooniverse, la piattaforma di citizen science che coinvolge persone di tutto il mondo nella ricerca scientifica, sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale della Nasa",
-        "confirmedFacts": [
-          "Zooniverse sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale Nancy Grace Roman della Nasa.",
-          "Zooniverse, la piattaforma di citizen science che coinvolge persone di tutto il mondo nella ricerca scientifica, sta sviluppando nuovi progetti dedicati alle future osservazioni del telescopio spaziale della Nasa",
-          "Il Nancy Grace Roman Space Telescope è appena partito, ma c’è già chi si prepara a lavorare con i dati che produrrà."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Zooniverse",
-          "Nancy Grace Roman Space Telescope",
-          "NASA"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-21768eec18e3f07a",
-      "title": "Al via a Buenos Aires una nuova edizione della Settimana del Cinema Italiano",
-      "summary": "Successo di pubblico alla première, con la proiezione di 'La vita va così' di Milani",
-      "spokenText": "L’inaugurazione è stata affidata alla première di 'La vita va così', il nuovo film del 2025 diretto da Riccardo Milani, che ha dato il via a una rassegna ormai punto di riferimento per la promozione del cinema italiano contemporaneo in Argentina. Quest’anno il festival propone un viaggio articolato attraverso le molteplici sfaccettature dell’Italia di oggi: dodici lungometraggi recenti compongono un mosaico che esplora la vita quotidiana, i legami familiari e affettivi, la giovinezza e l’identità, senza tralasciare il rapporto con la memoria, il territorio e le trasformazioni in atto nella nostra società.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "buenos aires",
-        "settimana del cinema italiano",
-        "riccardo milani"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/al-via-a-buenos-aires-una-nuova-edizione-della-settimana-del-cinema_a44d5aa2-8646-4870-87cf-c79be5ec132a.html"
-      },
-      "analysis": {
-        "mainFact": "È stata inaugurata a Buenos Aires la 12ª edizione della Settimana del Cinema Italiano, con la proiezione del film 'La vita va così' (2025) di Riccardo Milani.",
-        "whyItMatters": "La 12 edizione propone un percorso attraverso diverse rappresentazioni dell'Italia contemporanea, con dodici lungometraggi recenti che affrontano temi quali la vita quotidiana, i legami familiari e affettivi, la giovinezza, l'identit , la memoria, il territorio e le trasformazioni della societ italiana.",
-        "confirmedFacts": [
-          "È stata inaugurata a Buenos Aires la 12ª edizione della Settimana del Cinema Italiano, con la proiezione del film 'La vita va così' (2025) di Riccardo Milani.",
-          "La 12 edizione propone un percorso attraverso diverse rappresentazioni dell'Italia contemporanea, con dodici lungometraggi recenti che affrontano temi quali la vita quotidiana, i legami familiari e affettivi, la giovinezza, l'identit , la memoria, il territorio e le trasformazioni della societ italiana.",
-          "stata inaugurata gioved a Buenos Aires, presso Cin polis Recoleta, la 12 edizione della Semana del Cine Italiano, rassegna dedicata alla promozione e alla diffusione del cinema italiano contemporaneo in Argentina."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Buenos Aires",
-          "Settimana del Cinema Italiano",
-          "Riccardo Milani"
-        ],
-        "numbersAndDates": [
-          "stata inaugurata gioved a Buenos Aires, presso Cin polis Recoleta, la 12 edizione della Semana del Cine Italiano, rassegna dedicata alla promozione e alla diffusione del cinema italiano contemporaneo in Argentina.",
-          "12",
-          "2025"
-        ]
-      }
-    },
-    {
-      "id": "story-6a1838f74394c8c1",
-      "title": "Una legge che descrive il problema e delega la soluzione Adottata il 23 ottobre",
-      "summary": "Una legge che descrive il problema e delega la soluzione Adottata il 23 ottobre 2025, la direttiva europea sul monitoraggio e la resilienza del suolo è il primo strumento vincolante dell'Unione dedicato esclusivamente al suolo. È anche il frutto di un compromesso: nessun obiettivo di ripristino, nessuna scadenza, nessuna neutralità del consumo. Restano indicatori armonizzati, una definizione di \"suolo sano\", un obbligo di rendicontazione. Tutto il resto è delegato agli Stati membri. Il baricentro si sposta così dal legislatore all'attuazione: dal 2026 al 2029, quando arriveranno i primi programmi nazionali. In quei quattro anni si deciderà se l'Europa avrà una politica del suolo o soltanto un raffinato apparato di sorveglianza del proprio degrado. Il convegno apre questo cantiere: governance multilivello, chi paga il ripristino, le soglie del \"suolo sano\", giustizia spaziale del consumo di suolo, saperi locali e standard europei, bonifiche industriali, impermeabilizzazione urbana.",
-      "spokenText": "Il 23 ottobre 2025 l’Unione europea ha adottato la direttiva sul monitoraggio e la resilienza del suolo, il primo strumento vincolante dedicato esclusivamente a questa risorsa. È un testo che porta la firma del compromesso: non contiene obiettivi di ripristino, scadenze o vincoli di neutralità del consumo di suolo. Restano indicatori armonizzati, una definizione comune di suolo sano e un obbligo di rendicontazione, mentre tutto il resto è delegato agli Stati membri. Il baricentro si sposta così dal legislatore all'attuazione: dal 2026 al 2029, quando arriveranno i primi programmi nazionali.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 80,
-      "mustInclude": false,
-      "estimatedSeconds": 36,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/soil-monitoring-in-the-anthropocene"
-      },
-      "analysis": {
-        "mainFact": "Il 23 ottobre 2025 è stata adottata la direttiva europea sul monitoraggio e la resilienza del suolo, primo strumento vincolante dell'Unione dedicato esclusivamente al suolo.",
-        "whyItMatters": "È anche il frutto di un compromesso: nessun obiettivo di ripristino, nessuna scadenza, nessuna neutralità del consumo.",
-        "confirmedFacts": [
-          "Il 23 ottobre 2025 è stata adottata la direttiva europea sul monitoraggio e la resilienza del suolo, primo strumento vincolante dell'Unione dedicato esclusivamente al suolo.",
-          "È anche il frutto di un compromesso: nessun obiettivo di ripristino, nessuna scadenza, nessuna neutralità del consumo.",
-          "Restano indicatori armonizzati, una definizione di \"suolo sano\", un obbligo di rendicontazione.",
-          "Tutto il resto è delegato agli Stati membri.",
-          "Il baricentro si sposta così dal legislatore all'attuazione: dal 2026 al 2029, quando arriveranno i primi programmi nazionali.",
-          "In quei quattro anni si deciderà se l'Europa avrà una politica del suolo o soltanto un raffinato apparato di sorveglianza del proprio degrado.",
-          "Il convegno apre questo cantiere: governance multilivello, chi paga il ripristino, le soglie del \"suolo sano\", giustizia spaziale del consumo di suolo, saperi locali e standard europei, bonifiche industriali, impermeabilizzazione urbana.",
-          "12 Aggiungi l'evento al calendario iCal Francesca Assennato dell'ISPRA è nel Comitato organizzatore del convegno Scheda di registrazione Programma"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "Il baricentro si sposta così dal legislatore all'attuazione: dal 2026 al 2029, quando arriveranno i primi programmi nazionali.",
-          "12 Aggiungi l'evento al calendario iCal Francesca Assennato dell'ISPRA è nel Comitato organizzatore del convegno Scheda di registrazione Programma",
-          "23",
-          "2025"
-        ]
-      }
-    },
-    {
-      "id": "story-e8231d30e25a2979",
-      "title": "Abbiamo prima studiato i toporagni e i loro parenti",
-      "summary": "Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
-      "spokenText": "Abbiamo cominciato studiando i toporagni e i loro parenti, e subito è emersa una sorpresa. Quello che hanno scoperto è un dato che fa riflettere su come costruiamo la conoscenza zoologica: circa quattrocento specie erano state etichettate come solitarie, ma quando sono andati a verificare la letteratura, si sono accorti che soltanto sedici erano state studiate davvero sul campo. E tra queste poche specie effettivamente osservate, la maggior parte mostrava comportamenti sociali ben diversi dall’isolamento che ci si aspettava: quasi sempre, almeno in alcuni momenti, vivevano in gruppi, e il trentotto per cento formava coppie stabili. Un dettaglio che ribalta completamente l’immagine del toporagno come eremita schivo e solitario. Abbiamo prima studiato i toporagni. Abbiamo trovato la nostra prima sorpresa. Together we reviewed more than 15,000 scientific publications.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "carsten schradin"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 52,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/early-mammals-werent-all-loners-as-scientists-thought-some-already-lived-in-pairs-alongside-the-dinosaurs-290381"
-      },
-      "analysis": {
-        "mainFact": "Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
-        "whyItMatters": "Scoperta paleontologica: mammiferi primitivi vivevano in coppia. Riscrive la comprensione dell'evoluzione sociale.",
-        "confirmedFacts": [
-          "Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
-          "Scoperta paleontologica: mammiferi primitivi vivevano in coppia. Riscrive la comprensione dell'evoluzione sociale.",
-          "E la maggior parte di loro almeno qualche volta viveva in gruppi, il 38% in coppie.",
-          "Together we reviewed more than 15,000 scientific publications."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Carsten Schradin"
-        ],
-        "numbersAndDates": [
-          "Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
-          "E la maggior parte di loro almeno qualche volta viveva in gruppi, il 38% in coppie.",
-          "Together we reviewed more than 15,000 scientific publications.",
-          "400",
-          "16"
-        ]
-      }
-    },
-    {
-      "id": "story-e3ace586659a4d31",
-      "title": "Nel tentativo di affrontare questo problema",
-      "summary": "Nel tentativo di affrontare questo problema, un team di cartografi nel 2018 ha creato una mappa ad area uguale che hanno chiamato proiezione Equal Earth.",
-      "spokenText": "Nel 2018 un team di cartografi ha cercato di affrontare un problema noto creando una mappa ad area uguale, chiamata proiezione Equal Earth. A febbraio questa rappresentazione ha ricevuto un riconoscimento istituzionale significativo: i 54 stati membri dell’Unione Africana l’hanno adottata, affermando che rappresenta più accuratamente le dimensioni di tutti i continenti, in particolare l’Africa. Poco dopo, la risoluzione ‘Correct the Map’, sponsorizzata dal Togo e sostenuta dai membri dell’Unione Africana, è passata con il supporto di 164 nazioni, tra cui Francia e Regno Unito.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "africa",
-        "togo"
-      ],
-      "importance": 62,
-      "mustInclude": false,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Nel tentativo di affrontare questo problema, un team di cartografi nel 2018 ha creato una mappa ad area uguale che hanno chiamato proiezione Equal Earth.",
-        "whyItMatters": "L'ONU adotta una nuova mappa che riflette le reali dimensioni dell'Africa. Impatto su istruzione e percezione globale.",
-        "confirmedFacts": [
-          "Nel tentativo di affrontare questo problema, un team di cartografi nel 2018 ha creato una mappa ad area uguale che hanno chiamato proiezione Equal Earth.",
-          "L'ONU adotta una nuova mappa che riflette le reali dimensioni dell'Africa. Impatto su istruzione e percezione globale.",
-          "A febbraio, i 54 stati membri dell'UA l'hanno adottata, e hanno detto che 'rappresenta più accuratamente le dimensioni di tutti i continenti, in particolare l'Africa'.",
-          "La risoluzione 'Correct the Map', sponsorizzata dal Togo e sostenuta dai membri dell'Unione Africana (UA), è passata con il supporto di 164 nazioni, tra cui Francia e Regno Unito."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Africa",
-          "Togo"
-        ],
-        "numbersAndDates": [
-          "Nel tentativo di affrontare questo problema, un team di cartografi nel 2018 ha creato una mappa ad area uguale che hanno chiamato proiezione Equal Earth.",
-          "A febbraio, i 54 stati membri dell'UA l'hanno adottata, e hanno detto che 'rappresenta più accuratamente le dimensioni di tutti i continenti, in particolare l'Africa'.",
-          "La risoluzione 'Correct the Map', sponsorizzata dal Togo e sostenuta dai membri dell'Unione Africana (UA), è passata con il supporto di 164 nazioni, tra cui Francia e Regno Unito.",
-          "2018"
-        ]
-      }
-    },
-    {
-      "id": "story-ee0ea370dff4617d",
-      "title": "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di",
-      "summary": "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di Mongbwalu nell'Ituri, nord-est della RDC, alla fine di aprile 2026, prima di diffondersi attraverso comunità interconnesse e reti sanitarie a Rwampara e Bunia – zone sanitarie nella provincia dell'Ituri – e successivamente in Uganda.",
-      "spokenText": "Da lì, attraverso comunità interconnesse e reti sanitarie, si è diffusa nelle zone sanitarie di Rwampara e Bunia, nella provincia dell’Ituri, per raggiungere successivamente l’Uganda. In soli tre mesi, tra il 15 maggio e il 15 agosto 2026, sono state istituite o supportate più di venti strutture per il trattamento e l’isolamento di Ebola.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "uganda"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/drcs-ebola-epidemic-could-be-the-worst-in-history-4-things-that-could-help-end-it-290187"
-      },
-      "analysis": {
-        "mainFact": "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di Mongbwalu nell'Ituri, nord-est della RDC, alla fine di aprile 2026, prima di diffondersi attraverso comunità interconnesse e reti sanitarie a Rwampara e Bunia – zone sanitarie nella provincia dell'Ituri – e successivamente in Uganda.",
-        "whyItMatters": "Epidemia di Ebola nella RDC: oltre 6.186 casi. Rischio di diventare la peggiore mai registrata. Implicazioni sanitarie globali.",
-        "confirmedFacts": [
-          "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di Mongbwalu nell'Ituri, nord-est della RDC, alla fine di aprile 2026, prima di diffondersi attraverso comunità interconnesse e reti sanitarie a Rwampara e Bunia – zone sanitarie nella provincia dell'Ituri – e successivamente in Uganda.",
-          "Epidemia di Ebola nella RDC: oltre 6.186 casi. Rischio di diventare la peggiore mai registrata. Implicazioni sanitarie globali.",
-          "È importante riconoscere quanto è stato realizzato in soli tre mesi – tra il 15 maggio e il 15 agosto 2026.",
-          "Sono state istituite o supportate più di 20 strutture per il trattamento e l'isolamento di Ebola."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Uganda"
-        ],
-        "numbersAndDates": [
-          "Si pensa che l'epidemia abbia avuto origine nell'area mineraria ad alta mobilità di Mongbwalu nell'Ituri, nord-est della RDC, alla fine di aprile 2026, prima di diffondersi attraverso comunità interconnesse e reti sanitarie a Rwampara e Bunia – zone sanitarie nella provincia dell'Ituri – e successivamente in Uganda.",
-          "È importante riconoscere quanto è stato realizzato in soli tre mesi – tra il 15 maggio e il 15 agosto 2026.",
-          "Sono state istituite o supportate più di 20 strutture per il trattamento e l'isolamento di Ebola.",
+          "5,1",
           "2026"
         ]
       }
     },
     {
-      "id": "story-1af6d24cf9af5dc2",
-      "title": "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa",
-      "summary": "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa settimana in alcune parti dell'Australia settentrionale – e le condizioni stanno diventando più secche.",
-      "spokenText": "Le temperature stanno aumentando in modo insolito in alcune zone dell'Australia settentrionale, dove questa settimana si potranno toccare punte fino a trentasette gradi. Parallelamente, le condizioni stanno diventando più secche, un elemento che si inserisce in un quadro meteorologico già caratterizzato da valori fuori dalla norma. Le aree interessate appartengono alla fascia settentrionale del continente australiano.",
+      "id": "story-030253b3d94f2fb0",
+      "title": "Galileo, quattro lenti e un manoscritto del Seicento",
+      "summary": "Un manoscritto del 1666 racconta di un telescopio a quattro lenti “fabbricato da Galileo”. La struttura ottica, però, non è quella tipicamente galileana e sarebbe comparsa nei documenti dieci anni più tardi, dopo la morte dell’astronomo italiano. Oggi il telescopio è scomparso: resta il testo seicentesco, e un mistero che potrebbe far riscrivere alcune pagine di storia della scienza",
+      "spokenText": "Un manoscritto del 1666 racconta di un telescopio a quattro lenti che sarebbe stato fabbricato da Galileo. La notizia arriva con cautela, perché la struttura ottica descritta non corrisponde a quella tipicamente galileana e, stando ai documenti, sarebbe comparsa solo dieci anni più tardi, quando l’astronomo era già morto. Se confermata, questa informazione potrebbe far riscrivere alcune pagine di storia della scienza, ma al momento le fonti invitano a non trarre conclusioni affrettate.",
+      "category": "cultura",
+      "tags": [
+        "cultura"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 30,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/04/galileo-quattro-lenti-e-un-manoscritto-del-seicento/"
+      },
+      "analysis": {
+        "mainFact": "Un manoscritto del 1666 racconta di un telescopio a quattro lenti \"fabbricato da Galileo\".",
+        "whyItMatters": "che potrebbe far riscrivere alcune pagine di storia della scienza.",
+        "confirmedFacts": [
+          "Un manoscritto del 1666 racconta di un telescopio a quattro lenti \"fabbricato da Galileo\".",
+          "che potrebbe far riscrivere alcune pagine di storia della scienza.",
+          "La struttura ottica, però, non è quella tipicamente galileana e sarebbe comparsa nei documenti dieci anni più tardi, dopo la morte dell’astronomo italiano."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "1666"
+        ]
+      }
+    },
+    {
+      "id": "story-1ff7528da32644a0",
+      "title": "Settembre fa salire la bolletta",
+      "summary": "Il mese di settembre porta con s&eacute; il fatidico rientro alla routine quotidiana. Che si tratti di smart working, dello studio dei ragazzi o del ritorno ai ritmi lavorativi standard, le nostre abi...",
+      "spokenText": "Con l'arrivo di settembre, la bolletta energetica torna a farsi sentire. Dopo la pausa estiva, le nostre abitazioni si rianimano: il lavoro da remoto riempie le stanze durante il giorno, i ragazzi tornano a studiare tra le mura domestiche e i ritmi quotidiani riprendono a pieno regime. Settembre fa salire la bolletta.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "australia",
-        "hawaii"
+        "bolletta",
+        "abitazioni"
       ],
-      "importance": 92,
+      "importance": 52,
       "mustInclude": false,
-      "estimatedSeconds": 23,
+      "estimatedSeconds": 21,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/a-record-shattering-el-nino-is-almost-here-heres-what-that-means-for-the-worlds-weather-291258"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/altro/settembre-fa-salire-la-bolletta-questi-accessori-smart-vi-aiutano-a-scoprire-dove-sprecate-energia"
       },
       "analysis": {
-        "mainFact": "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa settimana in alcune parti dell'Australia settentrionale – e le condizioni stanno diventando più secche.",
-        "whyItMatters": "El Niño record con impatti climatici globali estremi. Rilevanza scientifica e ambientale massima.",
+        "mainFact": "Settembre fa salire la bolletta.",
+        "whyItMatters": "Che si tratti di smart working, dello studio dei ragazzi o del ritorno ai ritmi lavorativi standard, le nostre abitazioni tornano a riempirsi e ad animarsi per molte pi ore al giorno.",
         "confirmedFacts": [
-          "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa settimana in alcune parti dell'Australia settentrionale – e le condizioni stanno diventando più secche.",
-          "El Niño record con impatti climatici globali estremi. Rilevanza scientifica e ambientale massima."
+          "Settembre fa salire la bolletta.",
+          "Che si tratti di smart working, dello studio dei ragazzi o del ritorno ai ritmi lavorativi standard, le nostre abitazioni tornano a riempirsi e ad animarsi per molte pi ore al giorno."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Australia",
-          "Hawaii"
+          "bolletta",
+          "abitazioni"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-e8231d30e25a2979",
+      "title": "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi",
+      "summary": "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi i primi mammiferi con una vera placenta.",
+      "spokenText": "Il viaggio evolutivo dei mammiferi ha raggiunto una tappa fondamentale circa 160 milioni di anni fa, quando sono comparsi i primi esemplari dotati di una vera placenta. Juramaia, un minuscolo mammifero placentato che si aggirava tra le ombre dei dinosauri proprio in quel periodo. Circa 200 milioni di anni fa, infatti, piccole creature pelose ancora legate alla deposizione delle uova svilupparono la capacità di nutrire i piccoli con una secrezione prodotta da ghiandole specializzate: il latte. Su un altro fronte della ricerca, il biologo Carsten Schradin e il suo team hanno passato in rassegna oltre quindicimila pubblicazioni scientifiche per indagare la socialità dei mammiferi. Partendo dallo studio dei toporagni e dei loro parenti, è emersa una sorpresa: su circa quattrocento specie classificate come solitarie, solo sedici erano state effettivamente osservate a fondo. Together we reviewed more than 15,000 scientific publications. CC BY. Abbiamo prima studiato i toporagni. Abbiamo trovato la nostra prima sorpresa. E la maggior parte di esse almeno qualche volta viveva in gruppi, il 38% in coppie.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "juramaia",
+        "carsten schradin"
+      ],
+      "importance": 65,
+      "mustInclude": false,
+      "estimatedSeconds": 68,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/early-mammals-werent-all-loners-as-scientists-thought-some-already-lived-in-pairs-alongside-the-dinosaurs-290381"
+      },
+      "analysis": {
+        "mainFact": "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi i primi mammiferi con una vera placenta.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi i primi mammiferi con una vera placenta.",
+          "Juramaia, un primissimo mammifero placentato vissuto circa 160 milioni di anni fa.",
+          "Circa 200 milioni di anni fa, piccole creature pelose che deponevano uova hanno evoluto la capacità di nutrire la prole con una secrezione di alcune ghiandole speciali: il latte.",
+          "Together we reviewed more than 15,000 scientific publications.",
+          "CC BY. Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
+          "E la maggior parte di esse almeno qualche volta viveva in gruppi, il 38% in coppie."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Juramaia",
+          "Carsten Schradin"
         ],
         "numbersAndDates": [
-          "Le temperature stanno aumentando – fino a un'insolita temperatura di 37°C questa settimana in alcune parti dell'Australia settentrionale – e le condizioni stanno diventando più secche.",
-          "37"
+          "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi i primi mammiferi con una vera placenta.",
+          "Juramaia, un primissimo mammifero placentato vissuto circa 160 milioni di anni fa.",
+          "Circa 200 milioni di anni fa, piccole creature pelose che deponevano uova hanno evoluto la capacità di nutrire la prole con una secrezione di alcune ghiandole speciali: il latte.",
+          "Together we reviewed more than 15,000 scientific publications.",
+          "CC BY. Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
+          "E la maggior parte di esse almeno qualche volta viveva in gruppi, il 38% in coppie.",
+          "160"
         ]
+      }
+    },
+    {
+      "id": "story-d00665c31e3fb1de",
+      "title": "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in",
+      "summary": "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in eredità da un cacciatore locale.",
+      "spokenText": "Boris, così si chiama, arrivò nel 1932 al Museo di Chelmsford, parte di un’enorme collezione di animali tassidermizzati donata da un cacciatore del posto. Poi è entrato in scena Hayden Leigh, ricercatore dell’Università di Staffordshire, con un progetto particolare: ridare voce a Boris, trasformandolo in un’installazione sonora interattiva. Finché il museo di Chelmsford non ha aperto le sue porte, offrendo proprio Boris come protagonista. Leigh aveva precedentemente contattato circa 30 zoo e musei per chiedere aiuto con il progetto prima che il Museo di Chelmsford dicesse che avrebbe dato una mano.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "hayden leigh",
+        "university of staffordshire",
+        "museum of chelmsford",
+        "boris the bear"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 37,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cz6z3306z66o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in eredità da un cacciatore locale.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in eredità da un cacciatore locale.",
+          "Leigh aveva precedentemente contattato circa 30 zoo e musei per chiedere aiuto con il progetto prima che il Museo di Chelmsford dicesse che avrebbe dato una mano."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Hayden Leigh",
+          "University of Staffordshire",
+          "Museum of Chelmsford",
+          "Boris the bear"
+        ],
+        "numbersAndDates": [
+          "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in eredità da un cacciatore locale.",
+          "Leigh aveva precedentemente contattato circa 30 zoo e musei per chiedere aiuto con il progetto prima che il Museo di Chelmsford dicesse che avrebbe dato una mano.",
+          "1932"
+        ]
+      }
+    },
+    {
+      "id": "story-2616ee31e9a4af66",
+      "title": "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa",
+      "summary": "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa battaglia”",
+      "spokenText": "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa battaglia”.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/politica/2026/09/06/news/schlein_cernobbio_proposte_crisi_ambientale_vannacci_dongo-425567748/"
+      },
+      "analysis": {
+        "mainFact": "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa battaglia”",
+        "whyItMatters": "Proposte politiche su energia e clima con impatto diretto su economia e ambiente. Utile per comprendere il dibattito nazionale.",
+        "confirmedFacts": [
+          "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa battaglia”",
+          "Proposte politiche su energia e clima con impatto diretto su economia e ambiente. Utile per comprendere il dibattito nazionale."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-73584c9cc820bc24",
+      "title": "La scoperta di antica arte rupestre suggerisce che i primi umani conosciuti in",
+      "summary": "La scoperta di antica arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono a piedi dal Galles.",
+      "spokenText": "La scoperta di antiche pitture rupestri in Irlanda suggerisce che i primi esseri umani conosciuti sull'isola arrivarono a piedi dal Galles.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "nash"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 9,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "La scoperta di antica arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono a piedi dal Galles.",
+        "whyItMatters": "Scoperta archeologica su un ponte di terra glaciale tra Galles e Irlanda e prime migrazioni umane.",
+        "confirmedFacts": [
+          "La scoperta di antica arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono a piedi dal Galles.",
+          "Scoperta archeologica su un ponte di terra glaciale tra Galles e Irlanda e prime migrazioni umane.",
+          "Now, alongside an international team of experts, Nash has located eight cave sites in south-west Ireland featuring rock art dating back from at least 15,000 years ago, around 5,000 years before the previous oldest example of humans in Ireland.",
+          "Eight of them were found to have cave art which they believe dates from at least 15,000 years ago and possibly much earlier, and around 5,000 years before the previous oldest example of humans in Ireland."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Nash"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-63cb1c922879ac93",
+      "title": "Mercoledì 17 giugno, osservatori del cielo negli Stati Uniti e in parte del Canada",
+      "summary": "Mercoledì 17 giugno, osservatori del cielo negli Stati Uniti e in parte del Canada hanno assistito a una rara occultazione lunare diurna di Venere.",
+      "spokenText": "Mercoledì 17 giugno, chi ha alzato lo sguardo al cielo negli Stati Uniti e in parte del Canada ha potuto osservare un fenomeno astronomico piuttosto raro: l’occultazione lunare diurna di Venere.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "luna",
+        "nasa",
+        "canada"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 13,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
+      },
+      "analysis": {
+        "mainFact": "Mercoledì 17 giugno, osservatori del cielo negli Stati Uniti e in parte del Canada hanno assistito a una rara occultazione lunare diurna di Venere.",
+        "whyItMatters": "Evento astronomico raro di occultazione lunare di Venere visibile in Nord America, valore scientifico e culturale.",
+        "confirmedFacts": [
+          "Mercoledì 17 giugno, osservatori del cielo negli Stati Uniti e in parte del Canada hanno assistito a una rara occultazione lunare diurna di Venere.",
+          "Evento astronomico raro di occultazione lunare di Venere visibile in Nord America, valore scientifico e culturale.",
+          "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus.",
+          "Jackson NASA Headquarters building in Washington NASA/Joel Kowsky On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus.",
+          "If you missed it, there will be two more opportunities to see Venus disappear behind the Moon in 2026: Sept."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Luna",
+          "NASA",
+          "Canada"
+        ],
+        "numbersAndDates": [
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "story-41b89449be162159",
+      "title": "Dopo la denuncia di Zelensky, il capo del Cremlino ordina tre giorni di stop ai raid",
+      "summary": "Dopo la denuncia di Zelensky, il capo del Cremlino ordina tre giorni di stop ai raid",
+      "spokenText": "Il ministro della Difesa Guido Crosetto ha commentato sul proprio profilo X la decisione del presidente russo Vladimir Putin di sospendere per tre giorni i raid aerei su Kiev. L’ordine, arrivato dopo la denuncia del presidente ucraino Zelensky, coincide con la visita nella capitale Ucraina degli inviati statunitensi Jared Kushner e Steve Witkoff, prevista per domenica. Lo stop ai bombardamenti, ha scritto Putin, sarà limitato esclusivamente a questo breve arco temporale.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "vladimir putin",
+        "jared kushner",
+        "steve witkoff",
+        "guido crosetto",
+        "ucraina",
+        "kiev"
+      ],
+      "importance": 62,
+      "mustInclude": false,
+      "estimatedSeconds": 29,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/zelensky-raid-russi-aeroporti-dove-e-possibile-arrivino-mediatori-usa-AJRFQN4"
+      },
+      "analysis": {
+        "mainFact": "Dopo la denuncia di Zelensky, il capo del Cremlino ordina tre giorni di stop ai raid",
+        "whyItMatters": "Lo ha scritto sul proprio profilo X il ministro della Difesa Guido Crosetto commentando la decisione del presidente russo Vladimir Putin di sospendere per tre giorni i raid aerei su Kiev durante la visita degli inviati statunitensi Jared Kushner e Steve Witkoff nella capitale Ucraina, prevista per domenica.",
+        "confirmedFacts": [
+          "Dopo la denuncia di Zelensky, il capo del Cremlino ordina tre giorni di stop ai raid",
+          "Lo ha scritto sul proprio profilo X il ministro della Difesa Guido Crosetto commentando la decisione del presidente russo Vladimir Putin di sospendere per tre giorni i raid aerei su Kiev durante la visita degli inviati statunitensi Jared Kushner e Steve Witkoff nella capitale Ucraina, prevista per domenica.",
+          "Putin: “Stop ai raid su Kiev, ma solo per tre giorni”"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Vladimir Putin",
+          "Jared Kushner",
+          "Steve Witkoff",
+          "Guido Crosetto",
+          "Ucraina",
+          "Kiev"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-a5e4ed038508841b",
+      "title": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
+      "summary": "A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack. Cos’è, come viene utilizza e quali sono gli effetti desiderati non sono questioni che possono prescindere dal contesto socio-politico ed economico attuale, oltre che da considerazioni più strettamente bio-chimiche, così come chiedersi quando prioritariamente lo stesso si affaccia sulla scena del consumo negli Stati Uniti e perché, sono domande complesse a cui questo contributo prova a rispondere, proponendo riflessioni complesse.",
+      "spokenText": "In Italia si sta osservando una crescente diffusione del crack, che aggiunge complessità al già delicato scenario delle dipendenze da sostanze psicotrope. Questo fenomeno richiama l’onda lunga che dagli Stati Uniti, a partire dagli anni ’80, ha segnato intere comunità, e oggi si manifesta con caratteristiche proprie anche nel nostro paese.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "italia",
+        "stati uniti"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 21,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/crack-droghe-italia-usa-fentanyl-narcotraffico/"
+      },
+      "analysis": {
+        "mainFact": "In Italia è segnalata una crescente emergenza da crack che complica il quadro della dipendenza da sostanze psicotrope.",
+        "whyItMatters": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
+        "confirmedFacts": [
+          "In Italia è segnalata una crescente emergenza da crack che complica il quadro della dipendenza da sostanze psicotrope.",
+          "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
+          "A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Italia",
+          "Stati Uniti"
+        ],
+        "numbersAndDates": [
+          "80"
+        ]
+      }
+    },
+    {
+      "id": "story-4b4c3a7107e25da8",
+      "title": "Un'analisi sostiene che le politiche neoliberiste hanno svuotato le democrazie e",
+      "summary": "Un'analisi sostiene che le politiche neoliberiste hanno svuotato le democrazie e generato oligarchi senza controllo, e che comprenderne la struttura indica una possibile soluzione.",
+      "spokenText": "C'è un'analisi che sta facendo discutere, firmata da Les Coleman, che parte da un'immagine molto concreta. Coleman sostiene che le politiche neoliberiste, lungi dal diffondere benessere, hanno progressivamente svuotato le nostre democrazie, trasferendo il potere decisionale in spazi sempre più ristretti e non eletti. Il risultato, secondo questa lettura, è la nascita di oligarchi che operano senza un vero controllo democratico. L'aspetto interessante è che l'analisi non si limita a descrivere il problema, ma suggerisce che proprio comprendere a fondo questa architettura di potere, il modo in cui è stata costruita, indica la strada per una possibile soluzione.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "les coleman",
+        "canary wharf"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 40,
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it"
+      },
+      "analysis": {
+        "mainFact": "Un'analisi sostiene che le politiche neoliberiste hanno svuotato le democrazie e generato oligarchi senza controllo, e che comprenderne la struttura indica una possibile soluzione.",
+        "whyItMatters": "Analisi delle politiche neoliberiste e del loro impatto su democrazia e oligarchi. Rilevante per comprendere dinamiche economiche globali.",
+        "confirmedFacts": [
+          "Un'analisi sostiene che le politiche neoliberiste hanno svuotato le democrazie e generato oligarchi senza controllo, e che comprenderne la struttura indica una possibile soluzione.",
+          "Analisi delle politiche neoliberiste e del loro impatto su democrazia e oligarchi. Rilevante per comprendere dinamiche economiche globali.",
+          "Grasping their structure points to a fix by Les Coleman + BIO The Canary Wharf tower grew out of the undeveloped industrial landscape of South Dock in London Docklands, seen here on 18 July 1991."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Les Coleman",
+          "Canary Wharf"
+        ],
+        "numbersAndDates": []
       }
     }
   ]
