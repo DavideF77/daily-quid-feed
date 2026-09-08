@@ -1,513 +1,608 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-09-06-a543fe4f3853",
-  "generatedAt": "2026-09-06T09:07:48.337Z",
+  "catalogId": "daily-quid-2026-09-08-614c5d019afd",
+  "generatedAt": "2026-09-08T09:19:16.305Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-6ce0c3bb26ba5591",
-      "title": "Beveroni anti-cancro, terapie con le tisane e diete miracolose: i disastri dei medici guru",
-      "summary": "Dal dramma dei genitori di Bianca, che avevano speso tutto per cure senza criteri scientifici, alle inchieste sui venditori di fumo e i metodi alternativi",
-      "spokenText": "Loro, disperati, avevano scelto di abbandonare le terapie convenzionali per affidarsi completamente a cure alternative: bevoni anti-cancro, terapie a base di tisane e diete miracolose. Avevano speso tutto quello che avevano, convinti di aver trovato la strada giusta, lontano dalla medicina tradizionale. Dietro queste promesse di guarigione, però, c’è un fenomeno sempre più diffuso e pericoloso: quello dei cosiddetti medici guru e dei venditori di metodi alternativi che operano senza alcun criterio scientifico.",
-      "category": "salute",
+      "id": "story-64715323657a1bb3",
+      "title": "Il caldo dell'estate 2026 ha fatto impennare i livelli di ozono in Italia",
+      "summary": "Medici per l'ambiente: problemi anche per biossido di azoto e polveri sottili",
+      "spokenText": "L’estate 2026 ha fatto impennare i livelli di ozono in Italia, un fenomeno direttamente favorito dalla combinazione di radiazione solare intensa e temperature elevate. Il valore massimo tollerabile di 120 microgrammi per metro cubo, da non superare per più di 25 giorni l’anno, è stato ampiamente sforato in diverse città: Bergamo-Meucci ha raggiunto 77 giorni di superamento, seguita da Torino-Lingotto e Torino-Rubino con 67, Milano-Verziere con 66 e Verona-Giarol Grande con 65. I medici per l’ambiente sottolineano che il caldo estremo ha aggravato anche la concentrazione di biossido di azoto e polveri sottili. Un parametro che in molte centraline è stato ignorato per mesi: a Torino-Rebaudengo i giorni di sforamento sono stati 129, a Verona-Giarol Grande 115, a Napoli-Ente Ferrovie 110, a Milano-Marche 101 e a Padova-Mandria 99.",
+      "category": "ambiente",
       "tags": [
-        "salute",
-        "bianca",
-        "genitori di bianca",
-        "medici guru"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 30,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/cronaca/2026/09/06/news/beveroni_anti-cancro_terapie_con_le_tisane_e_diete_miracolose_i_disastri_dei_medici_guru-425567882/"
-      },
-      "analysis": {
-        "mainFact": "Beveroni anti-cancro, terapie con le tisane e diete miracolose: i disastri dei medici guru.",
-        "whyItMatters": "Dal dramma dei genitori di Bianca, che avevano speso tutto per cure senza criteri scientifici, alle inchieste sui venditori di fumo e i metodi alternativi",
-        "confirmedFacts": [
-          "Beveroni anti-cancro, terapie con le tisane e diete miracolose: i disastri dei medici guru.",
-          "Dal dramma dei genitori di Bianca, che avevano speso tutto per cure senza criteri scientifici, alle inchieste sui venditori di fumo e i metodi alternativi"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Bianca",
-          "genitori di Bianca",
-          "medici guru"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-3306abda12e5856d",
-      "title": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
-      "summary": "Con la prima campanella c'è il rischio di 'back to school blues', la malinconia da rientro.",
-      "spokenText": "Con la prima campanella si affaccia il rischio del cosiddetto 'back to school blues', quella malinconia da rientro che può colpire i ragazzi. È importante che gli adulti evitino di trasmettere le proprie ansie ai figli, per esempio con domande pressanti, e che non sovraccarichino i ragazzi con attività extra, specialmente all'inizio dell'anno scolastico.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "iss",
-        "genitori",
-        "figli"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/04/con-la-prima-campanella-rischio-back-to-school-blues-malinconia-da-rientro_ca581c62-bd4d-420e-bf20-d3ae8c801424.html"
-      },
-      "analysis": {
-        "mainFact": "Con la prima campanella c'è il rischio di 'back to school blues', la malinconia da rientro.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Con la prima campanella c'è il rischio di 'back to school blues', la malinconia da rientro.",
-          "Al contempo i genitori devono evitare di trasmettere le proprie ansie ai figli, con domande pressanti ed evitare di sovraccaricarli con attività extra specie a inizio anno scolastico."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Iss",
-          "genitori",
-          "figli"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-1231c6c2c9ff8222",
-      "title": "Africa, l’Onu vota per «correggere» le mappe geografiche e fa infuriare gli Usa",
-      "summary": "L’assemblea dà il via libera a una risoluzione per rivedere la mappe dell’era Mercatore e riflettere le dimensioni effettive del Continente",
-      "spokenText": "La proiezione, realizzata nel 1569 dal matematico fiammingo Gerardo Mercatore, è accusata di far apparire il continente africano decisamente più piccolo, dilatando al contempo altre regioni. Uno degli esempi più citati è la sproporzione tra Groenlandia e Africa. Tra le soluzioni caldeggiate c’è la proiezione Equal Earth, sviluppata nel 2018 e ritenuta più fedele nel rappresentare le dimensioni relative dell’Africa e di altri blocchi geografici oggi sfavoriti, come il Sud America e l’India. Il presidente della Commissione dell’Unione Africana, Mahmoud Ali Youssouf, ha dichiarato che l’iniziativa sottolinea l’importanza di rappresentare l’Africa sulla base di realtà obiettive e scientificamente fondate. Di tono opposto la posizione della Missione statunitense, secondo cui l’organo starebbe dibattendo su progetti cartografici del XVI secolo invece di concentrarsi su reali problemi di pace internazionale e prosperità. Africa, estese rispettivamente per 2,165 milioni di chilometri quadrati. 30,37 milioni di chilometri quadrati.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "onu",
-        "africa",
-        "unione africana",
-        "gerardo mercatore",
-        "mahmoud ali youssouf",
-        "groenlandia"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 58,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/africa-l-onu-vota-correggere-mappe-geografiche-e-fa-infuriare-usa-AJs94J4"
-      },
-      "analysis": {
-        "mainFact": "L'assemblea dell'ONU ha approvato una risoluzione per rivedere le mappe dell'era Mercatore e riflettere le dimensioni effettive dell'Africa.",
-        "whyItMatters": "Uno degli esempi più citati è quello della sproporzione fra Groenlandia e Africa, estese rispettivamente per 2,165 milioni di chilometri quadrati e 30,37 milioni di chilometri quadrati.",
-        "confirmedFacts": [
-          "L'assemblea dell'ONU ha approvato una risoluzione per rivedere le mappe dell'era Mercatore e riflettere le dimensioni effettive dell'Africa.",
-          "Uno degli esempi più citati è quello della sproporzione fra Groenlandia e Africa, estese rispettivamente per 2,165 milioni di chilometri quadrati e 30,37 milioni di chilometri quadrati.",
-          "La proiezione realizzata nel 1569 da Gerardo Mercatore, il matematico fiammingo che dà il nome alla mappa, è accusata di far apparire l’Africa - decisamente - più piccola e allargare le dimensioni di altre regioni.",
-          "Una delle soluzione caldeggiata è la proiezione cartografica Equal Earth, realizzata nel 2018 e ritenuta più fedele alle dimensioni relativa dell’Africa e di altri blocchi geografici oggi sfavoriti come Sud America e India.",
-          "«Invece di concentrarsi su reali problemi di pace internazionale, prosperità o buone relazioni - ha dichiarato la Missione Usa - questo organo sta dibattendo su progetti cartografici del XVI secolo e sul loro ruolo nel promuovere il risarcimento dei danni storici».",
-          "«Questa iniziativa sottolinea l’importanza di rappresentare l’Africa sulla base di realtà obiettive e scientificamente fondate», ha dichiarato in una nota il presidente della Commissione dell’Unione africana, Mahmoud Ali Youssouf."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ONU",
-          "Africa",
-          "Unione Africana",
-          "Gerardo Mercatore",
-          "Mahmoud Ali Youssouf",
-          "Groenlandia"
-        ],
-        "numbersAndDates": [
-          "La proiezione realizzata nel 1569 da Gerardo Mercatore, il matematico fiammingo che dà il nome alla mappa, è accusata di far apparire l’Africa - decisamente - più piccola e allargare le dimensioni di altre regioni.",
-          "Una delle soluzione caldeggiata è la proiezione cartografica Equal Earth, realizzata nel 2018 e ritenuta più fedele alle dimensioni relativa dell’Africa e di altri blocchi geografici oggi sfavoriti come Sud America e India.",
-          "2,165",
-          "30,37"
-        ]
-      }
-    },
-    {
-      "id": "story-cb437291979a6ce8",
-      "title": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare",
-      "summary": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini; Il 25 agosto alle 11. 00 è prevista la tavola rotonda “ Un tuffo dove il mare è più blu: persone e azioni per la salvaguardia dei nostri ecosistemi marini ” con la partecipazione della Presidente ISPRA e SNPA Maria Alessandra Gallone. Si parlerà dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
-      "spokenText": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo. È questo il cuore della partecipazione di ISPRA e del Sistema nazionale per la protezione ambientale al Meeting per l'amicizia fra i popoli, in programma alla Fiera di Rimini dal 21 al 26 agosto. All'interno dello spazio espositivo e dei talk, il mare sarà uno dei protagonisti assoluti. L'occasione ruota attorno ad Arcadia, una nuova infrastruttura che rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA. Durante la manifestazione si parlerà dello stato di salute del Mediterraneo, con un focus su economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini. Un'occasione per approfondire come questa piattaforma contribuirà alla comprensione delle dinamiche del nostro mare e al monitoraggio dell’inquinamento. ISPRA e SNPA al Meeting di Rimini 2026.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "arcadia",
-        "ispra",
-        "snpa",
-        "meeting per l amicizia fra i popoli",
-        "fiera di rimini"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 54,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/a-rimini-arcadia-si-presenta-al-pubblico-al-meeting-201capproda201d-la-riproduzione-in-scala-della-nuova-nave-oceanografica-di-ispra"
-      },
-      "analysis": {
-        "mainFact": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
-        "whyItMatters": "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
-        "confirmedFacts": [
-          "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
-          "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
-          "ISPRA e il Sistema nazionale per la protezione ambientale quest'anno dal 21 al 26 agosto partecipano al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini .",
-          "Questa nuova infrastruttura rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA, contribuendo alla tutela della biodiversità, al monitoraggio dell’inquinamento e alla comprensione delle dinamiche del Mar Mediterraneo.",
-          "ISPRA e SNPA al Meeting di Rimini 2026"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Arcadia",
-          "ISPRA",
-          "SNPA",
-          "Meeting per l'amicizia fra i popoli",
-          "Fiera di Rimini"
-        ],
-        "numbersAndDates": [
-          "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini;",
-          "ISPRA e il Sistema nazionale per la protezione ambientale quest'anno dal 21 al 26 agosto partecipano al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini .",
-          "ISPRA e SNPA al Meeting di Rimini 2026",
-          "21",
-          "26"
-        ]
-      }
-    },
-    {
-      "id": "story-05838da9d5419aaf",
-      "title": "L'intelligenza artificiale guida gli acquisti di tecnologia, +5,1% sul 2025",
-      "summary": "Parte la fiera Ifa di Berlino, per analisti l'IA porta più valore ai prodotti acquistati",
-      "spokenText": "L'intelligenza artificiale guida gli acquisti di tecnologia, con un aumento del 5,1% previsto per il 2026. Parte la fiera Ifa di Berlino, per analisti l'IA porta più valore ai prodotti acquistati. \"L'IA a bordo degli oggetti fa percepire un valore aggiunto\", scrive sul proprio blog Niq, \"il settore sarà sempre più guidato da prodotti con funzionalità avanzate e interconnesse\".",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "ifa di berlino",
-        "niq"
+        "ambiente",
+        "medici per l ambiente",
+        "organizzazione mondiale della sanita",
+        "italia"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 24,
+      "estimatedSeconds": 52,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/09/03/lintelligenza-artificiale-guida-gli-acquisti-di-tecnologia-51-sul-2025_18d0e2f9-5259-470e-a92a-5d2aaa258118.html"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/09/06/il-caldo-dellestate-2026-ha-fatto-impennare-i-livelli-di-ozono-in-italia_43392195-56ac-457e-9015-b5d90c1bb989.html"
       },
       "analysis": {
-        "mainFact": "L'intelligenza artificiale guida gli acquisti di tecnologia, con un aumento del 5,1% previsto per il 2026.",
-        "whyItMatters": "Parte la fiera Ifa di Berlino, per analisti l'IA porta più valore ai prodotti acquistati",
+        "mainFact": "Il caldo dell'estate 2026 ha fatto impennare i livelli di ozono in Italia.",
+        "whyItMatters": "Medici per l'ambiente: problemi anche per biossido di azoto e polveri sottili",
         "confirmedFacts": [
-          "L'intelligenza artificiale guida gli acquisti di tecnologia, con un aumento del 5,1% previsto per il 2026.",
-          "Parte la fiera Ifa di Berlino, per analisti l'IA porta più valore ai prodotti acquistati",
-          "\"L'IA a bordo degli oggetti fa percepire un valore aggiunto\", scrive sul proprio blog Niq, \"il settore sarà sempre più guidato da prodotti con funzionalità avanzate e interconnesse\"."
+          "Il caldo dell'estate 2026 ha fatto impennare i livelli di ozono in Italia.",
+          "Medici per l'ambiente: problemi anche per biossido di azoto e polveri sottili",
+          "Si sono superati anche i limiti per le polveri sottili Pm 2,5, fissati a 15 microgrammi per metro cubo per 3-4 gioni l'anno dall'Organizzazione Mondiale della Sanità: a Torino-Rebaudengo 129 giorni, a Verona-Giarol Grande 115, a Napoli-Ente Ferrovie 110, a Milano-Marche 101 e a Padova-Mandria 99.",
+          "Per l'ozono, la cui formazione è favorita da radiazione solare e alte temperature, il valore massimo tollerabile di 120 microgrammi per metro cubo 25 giorni l'anno è stato superato a Bergamo-Meucci (77 giorni).",
+          "Torino-Lingotto e Torino-Rubino (67), Milano-Verziere (66) e Verona-Giarol Grande (65)."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ifa di Berlino",
-          "Niq"
+          "Medici per l'ambiente",
+          "Organizzazione Mondiale della Sanità",
+          "Italia"
         ],
         "numbersAndDates": [
-          "5,1",
+          "Si sono superati anche i limiti per le polveri sottili Pm 2,5, fissati a 15 microgrammi per metro cubo per 3-4 gioni l'anno dall'Organizzazione Mondiale della Sanità: a Torino-Rebaudengo 129 giorni, a Verona-Giarol Grande 115, a Napoli-Ente Ferrovie 110, a Milano-Marche 101 e a Padova-Mandria 99.",
+          "Per l'ozono, la cui formazione è favorita da radiazione solare e alte temperature, il valore massimo tollerabile di 120 microgrammi per metro cubo 25 giorni l'anno è stato superato a Bergamo-Meucci (77 giorni).",
+          "Torino-Lingotto e Torino-Rubino (67), Milano-Verziere (66) e Verona-Giarol Grande (65).",
           "2026"
         ]
       }
     },
     {
-      "id": "story-030253b3d94f2fb0",
-      "title": "Galileo, quattro lenti e un manoscritto del Seicento",
-      "summary": "Un manoscritto del 1666 racconta di un telescopio a quattro lenti “fabbricato da Galileo”. La struttura ottica, però, non è quella tipicamente galileana e sarebbe comparsa nei documenti dieci anni più tardi, dopo la morte dell’astronomo italiano. Oggi il telescopio è scomparso: resta il testo seicentesco, e un mistero che potrebbe far riscrivere alcune pagine di storia della scienza",
-      "spokenText": "Un manoscritto del 1666 racconta di un telescopio a quattro lenti che sarebbe stato fabbricato da Galileo. La notizia arriva con cautela, perché la struttura ottica descritta non corrisponde a quella tipicamente galileana e, stando ai documenti, sarebbe comparsa solo dieci anni più tardi, quando l’astronomo era già morto. Se confermata, questa informazione potrebbe far riscrivere alcune pagine di storia della scienza, ma al momento le fonti invitano a non trarre conclusioni affrettate.",
-      "category": "cultura",
+      "id": "story-23930596bd05427f",
+      "title": "Radioterapia, al Campus Bio-Medico un nuovo acceleratore adatta le cure in tempo reale",
+      "summary": "Terapia mirata grazie all'IA. Il policlinico primo nel Lazio ad attivare il dispositivo",
+      "spokenText": "Un importante passo avanti per la radioterapia oncologica arriva dal Campus Bio-Medico di Roma. Qui è entrato in funzione un nuovo acceleratore lineare che introduce una capacità finora inedita: adattare il trattamento in tempo reale, seduta dopo seduta, sulla base delle variazioni anatomiche del paziente. Si tratta della prima struttura sanitaria a Roma e nell’intero Lazio a dotarsi di questo dispositivo di ultima generazione.",
+      "category": "salute",
       "tags": [
-        "cultura"
+        "salute"
       ],
-      "importance": 72,
+      "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 30,
+      "estimatedSeconds": 26,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/04/galileo-quattro-lenti-e-un-manoscritto-del-seicento/"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/09/07/radioterapia-al-campus-bio-medico-un-nuovo-acceleratore-adatta-le-cure-in-tempo-reale_4a392b43-d0d2-48d4-a278-4149f63846c2.html"
       },
       "analysis": {
-        "mainFact": "Un manoscritto del 1666 racconta di un telescopio a quattro lenti \"fabbricato da Galileo\".",
-        "whyItMatters": "che potrebbe far riscrivere alcune pagine di storia della scienza.",
+        "mainFact": "Radioterapia, al Campus Bio-Medico un nuovo acceleratore adatta le cure in tempo reale",
+        "whyItMatters": "È la prima struttura sanitaria a Roma e nel Lazio a mettere in funzione questo dispositivo di ultima generazione.",
         "confirmedFacts": [
-          "Un manoscritto del 1666 racconta di un telescopio a quattro lenti \"fabbricato da Galileo\".",
-          "che potrebbe far riscrivere alcune pagine di storia della scienza.",
-          "La struttura ottica, però, non è quella tipicamente galileana e sarebbe comparsa nei documenti dieci anni più tardi, dopo la morte dell’astronomo italiano."
+          "Radioterapia, al Campus Bio-Medico un nuovo acceleratore adatta le cure in tempo reale",
+          "È la prima struttura sanitaria a Roma e nel Lazio a mettere in funzione questo dispositivo di ultima generazione.",
+          "Il policlinico tra le prime strutture sanitarie in Italia e il primo ospedale a Roma e nel Lazio a mettere in funzione questo acceleratore lineare di ultima generazione."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "1666"
-        ]
-      }
-    },
-    {
-      "id": "story-1ff7528da32644a0",
-      "title": "Settembre fa salire la bolletta",
-      "summary": "Il mese di settembre porta con s&eacute; il fatidico rientro alla routine quotidiana. Che si tratti di smart working, dello studio dei ragazzi o del ritorno ai ritmi lavorativi standard, le nostre abi...",
-      "spokenText": "Con l'arrivo di settembre, la bolletta energetica torna a farsi sentire. Dopo la pausa estiva, le nostre abitazioni si rianimano: il lavoro da remoto riempie le stanze durante il giorno, i ragazzi tornano a studiare tra le mura domestiche e i ritmi quotidiani riprendono a pieno regime. Settembre fa salire la bolletta.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "bolletta",
-        "abitazioni"
-      ],
-      "importance": 52,
-      "mustInclude": false,
-      "estimatedSeconds": 21,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/altro/settembre-fa-salire-la-bolletta-questi-accessori-smart-vi-aiutano-a-scoprire-dove-sprecate-energia"
-      },
-      "analysis": {
-        "mainFact": "Settembre fa salire la bolletta.",
-        "whyItMatters": "Che si tratti di smart working, dello studio dei ragazzi o del ritorno ai ritmi lavorativi standard, le nostre abitazioni tornano a riempirsi e ad animarsi per molte pi ore al giorno.",
-        "confirmedFacts": [
-          "Settembre fa salire la bolletta.",
-          "Che si tratti di smart working, dello studio dei ragazzi o del ritorno ai ritmi lavorativi standard, le nostre abitazioni tornano a riempirsi e ad animarsi per molte pi ore al giorno."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "bolletta",
-          "abitazioni"
-        ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-e8231d30e25a2979",
-      "title": "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi",
-      "summary": "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi i primi mammiferi con una vera placenta.",
-      "spokenText": "Il viaggio evolutivo dei mammiferi ha raggiunto una tappa fondamentale circa 160 milioni di anni fa, quando sono comparsi i primi esemplari dotati di una vera placenta. Juramaia, un minuscolo mammifero placentato che si aggirava tra le ombre dei dinosauri proprio in quel periodo. Circa 200 milioni di anni fa, infatti, piccole creature pelose ancora legate alla deposizione delle uova svilupparono la capacità di nutrire i piccoli con una secrezione prodotta da ghiandole specializzate: il latte. Su un altro fronte della ricerca, il biologo Carsten Schradin e il suo team hanno passato in rassegna oltre quindicimila pubblicazioni scientifiche per indagare la socialità dei mammiferi. Partendo dallo studio dei toporagni e dei loro parenti, è emersa una sorpresa: su circa quattrocento specie classificate come solitarie, solo sedici erano state effettivamente osservate a fondo. Together we reviewed more than 15,000 scientific publications. CC BY. Abbiamo prima studiato i toporagni. Abbiamo trovato la nostra prima sorpresa. E la maggior parte di esse almeno qualche volta viveva in gruppi, il 38% in coppie.",
-      "category": "scienza",
+      "id": "story-91039d3ab1ebd851",
+      "title": "La Sardegna sta diventando l’isola del 41-bis",
+      "summary": "La Sardegna sta diventando l’isola del 41-bis? antonio. massariolo Lun, 09/07/2026 - 12:22 8 Settembre 2026 Language Italian Antonio Massariolo Il 5 settembre scorso un aereo della Guardia di Finanza è partito da Pomezia ed è atterrato all’aeroporto militare di Decimomannu, una ventina di chilometri a nord-ovest di Cagliari. A bordo c’erano quaranta detenuti sottoposti al regime previsto dall’articolo 41-bis dell’ordinamento penitenziario. Da lì sono stati trasferiti, con un imponente dispositivo di sicurezza, nella casa circondariale di Uta, dove ad agosto era stata inaugurata una nuova sezione destinata al cosiddetto “carcere duro”. Leggi anche: 41 bis: il caso Marcello Viola e la sentenza della Corte europea dei diritti umani I nuovi arrivati dovrebbero essere solamente i primi. A regime infatti, nella nuova sezione di Uta, dovrebbero essere ospitati in totale 92 detenuti al 41-bis. Ricordiamo però anche i numeri attuali: nel sito del Ministero della Giustizia si legge che nel carcere di Uta ci sono 850 detenuti. I posti regolamentari sono 652. (function(){function e(){window. addEventListener(`message`,function(e){if(e. data[`datawrapper-height`]! ==void 0){var t=document. querySelectorAll(`iframe`);for(var n in e. data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i. contentWindow===e. source){var a=e. data[`datawrapper-height`][n]+`px`;i. style. height=a}}})}e()})(); Il loro arrivo però ha riaperto una discussione che in Sardegna va avanti ormai da mesi e che riguarda il ruolo che l’isola dovrebbe assumere nella nuova organizzazione del sistema penitenziario italiano. La Presidente della Regione Alessandra Todde ha accusato il governo di voler trasformare la Sardegna nella «Cayenna d’Italia» (in riferimento alla capitale della Guiana Francese, in cui c’era uno dei sistemi penali più duri al mondo ndr) e di procedere senza un adeguato confronto con le istituzioni locali. Leggi anche: Nelle carceri italiane la situazione non migliora: ci sono 141 detenuti ogni 100 posti disponibili Al di là dello scontro politico, però, ci sono alcuni numeri che aiutano a capire perché la questione sia diventata così rilevante. Quanti detenuti al 41-bis ci sono in Sardegna Il 41-bis è un regime penitenziario particolare, introdotto nell’ordinamento italiano nel 1986 e profondamente modificato dopo le stragi mafiose del 1992. Il suo obiettivo principale è impedire che persone appartenenti a organizzazioni criminali possano continuare a comunicare con l’esterno e mantenere rapporti operativi con le organizzazioni di appartenenza. È quindi quello che spesso viene definito “carcere duro” messo sotto la lente d’ingrandimento della Corte Europea per i Diritti dell’Uomo. Alla fine del 2025 le persone sottoposte a questo regime in Italia erano poco più di settecento. Ma dove sono rinchiuse queste persone? Ecco, a leggere i dati vediamo che la loro distribuzione sul territorio era già tutt’altro che uniforme. La Sardegna ha già da tempo un ruolo importante in merito. In un’interrogazione parlamentare, e precisamente nella seduta n. 406 del Senato avvenuta lo scorso 8 aprile, si parlava di 92 detenuti al 41-bis nella casa circondariale di Sassari-Bancali e altri 6 a Badu ’e Carros, a Nuoro. A Uta, invece, non ce n’era ancora nessuno. In cinque mesi la situazione è cambiata. Con i primi quaranta trasferimenti del 5 settembre, Uta è entrata a sua volta nel circuito del 41-bis e, quando la nuova sezione raggiungerà la capienza prevista di 92 persone, soltanto Sassari. Uta potranno ospitare complessivamente più di 180 detenuti sottoposti al regime speciale. Ma il progetto per la Sardegna è ancora più ampio. Nel dicembre del 2025 il sottosegretario di Stato per la giustizia Andrea Delmastro, allora titolare della delega al Dipartimento dell'amministrazione penitenziaria, aveva presentato alla Conferenza Stato-Regioni un piano di riorganizzazione del sistema penitenziario di massima sicurezza. Il progetto prevedeva la concentrazione dei detenuti al 41-bis in sette istituti italiani «esclusivamente dedicati». Tre di questi sette si trovano in Sardegna: Uta, Bancali e Badu ’e Carros. “Come conseguenza - si legge nel resoconto stenografico della seduta -, la Sardegna ospiterebbe fino a 260 detenuti in regime di 41-bis, pari a circa un terzo del totale nazionale”. AddEventListener(`message`,function(e){if(e. Data[`datawrapper-height`]. ==void 0){var t=document. QuerySelectorAll(`iframe`);for(var n in e. Data[`datawrapper-height`][n]+`px`;i. height=a}}})}e()})(); Perché proprio la Sardegna? La scelta non è del tutto nuova, anzi, potremmo dire che l’insularità è stata storicamente considerata un elemento utile nella gestione dei detenuti appartenenti alla criminalità organizzata, perché aggiunge una distanza geografica a quella prodotta dalle misure di isolamento previste dal regime penitenziario. Leggi anche: La storia delle \"Isole Carcere\" in un libro: da culla di biodiversità a luoghi di confino per i sapiens La Sardegna poi, ha una lunga storia da questo punto di vista. Il caso più noto è quello dell’Asinara, dove negli anni Ottanta e Novanta furono detenuti alcuni dei più importanti esponenti della criminalità organizzata italiana. Dopo le stragi di Capaci e via D’Amelio vi furono trasferiti decine di mafiosi sottoposti al regime speciale. Ma la storia dell’Asinara come isola carcere nasce ben più indietro. Lo scrive bene Valerio Calzolaio nel suo libro intitolato proprio “Isole carcere “( Gruppo Abele edizioni): “ La storia moderna del carcere dell’Asinara ebbe inizio nel 1885, con l'istituzione di una colonia penale. Durante la Prima guerra mondiale vi vennero deportati 24.000 prigionieri di guerra, soprattutto austro-ungarici\" Il piano presentato dal governo non riguarda più l’Asinara, che è stato chiuso definitivamente nel 1998, ma comunque prevede di far diventare la Sardegna il centro principale dei detenuti per mafia, tutti in soli tre istituti diversi. Una nuova geografia del carcere duro La discussione sul 41-bis in Sardegna vede, da un lato la riorganizzazione gestita dal Governo che risponde principalmente a esigenze di sicurezza e di razionalizzazione del sistema penitenziario. Dall’altra quella della Regione, che parla della trasformazione della Sardegna in una «isola-carcere». Conosciamo quindi i numeri dei detenuti al “carcere duro” che ci sono e quelli che arriveranno in Sardegna, quello che però non sappiamo sono naturalmente i nomi. Non conosciamo nemmeno chi siano i quaranta detenuti arrivati il 5 settembre a Uta. Il ministero della Giustizia non pubblica un elenco nominativo nazionale delle persone sottoposte al 41-bis e le identità diventano pubbliche soprattutto attraverso sentenze, procedimenti giudiziari e notizie di cronaca. L’obiettivo però sembra chiaro ed emerge anche dalle parole della Presidente della commissione parlamentare antimafia. “L'operazione – ha dichiarato Chiara Colosimo – conferma la validità del piano di riorganizzazione carceraria promosso dal Governo. Il percorso risponde altresì a un'esigenza da tempo sollecitata dalle Commissioni parlamentare antimafia: superare la promiscuità tra i diversi circuiti detentivi e creare poli dedicati esclusivamente al 41-bis, fondamentale garanzia per azzerare la capacità di comando dei vertici mafiosi. Il risultato finale dimostra l'alta professionalità della Polizia Penitenziaria e la costante attenzione dello Stato nella gestione della sicurezza penitenziaria”. SOCIETÀ Con il trasferimento di quaranta persone sottoposte al 41-bis nella nuova sezione del carcere di Uta, la Sardegna assume un ruolo sempre più centrale nella riorganizzazione del regime penitenziario speciale SOCIETÀ 16 APRILE 2026 Minori stranieri non accompagnati: quando l’accoglienza manca, aumenta il carcere SOCIETÀ 9 GIUGNO 2025 Nelle carceri italiane si muore sempre di più SOCIETÀ 24 DICEMBRE 2025 Il Natale nelle carceri italiane: i dati sul sovraffollamento NELLA STESSA CATEGORIA Foto di Alejandro De Roa/Pexel 1 Off",
+      "spokenText": "La Sardegna sta diventando l’isola del 41-bis. Da lì sono stati trasferiti, con un imponente dispositivo di sicurezza, nella casa circondariale di Uta, dove ad agosto era stata inaugurata una nuova sezione destinata al cosiddetto carcere duro. A regime, in questa nuova sezione, dovrebbero essere ospitati in totale 92 detenuti sottoposti a questo regime penitenziario particolare. Un regime introdotto nell’ordinamento italiano nel 1986 e profondamente modificato dopo le stragi mafiose del 1992, con l’obiettivo principale di impedire che persone appartenenti a organizzazioni criminali possano continuare a comunicare con l’esterno e mantenere rapporti operativi con le organizzazioni di appartenenza. È quindi quello che spesso viene definito carcere duro, messo sotto la lente d’ingrandimento della Corte Europea per i Diritti dell’Uomo. La Presidente della Regione Alessandra Todde ha accusato il governo di voler trasformare la Sardegna nella Cayenna d’Italia, in riferimento alla capitale della Guiana Francese dove esisteva uno dei sistemi penali più duri al mondo, e di procedere senza un adeguato confronto con le istituzioni locali. Ricordiamo però anche i numeri attuali: nel sito del Ministero della Giustizia si legge che nel carcere di Uta ci sono 850 detenuti.",
+      "category": "diritti",
       "tags": [
-        "scienza",
-        "juramaia",
-        "carsten schradin"
+        "diritti",
+        "sardegna",
+        "alessandra todde",
+        "carcere di uta",
+        "41 bis"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 76,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/sardegna-sta-diventando-isola-41bis-carcere"
+      },
+      "analysis": {
+        "mainFact": "La Sardegna sta diventando l’isola del 41-bis.",
+        "whyItMatters": "Da lì sono stati trasferiti, con un imponente dispositivo di sicurezza, nella casa circondariale di Uta, dove ad agosto era stata inaugurata una nuova sezione destinata al cosiddetto “carcere duro”.",
+        "confirmedFacts": [
+          "La Sardegna sta diventando l’isola del 41-bis.",
+          "Da lì sono stati trasferiti, con un imponente dispositivo di sicurezza, nella casa circondariale di Uta, dove ad agosto era stata inaugurata una nuova sezione destinata al cosiddetto “carcere duro”.",
+          "A regime infatti, nella nuova sezione di Uta, dovrebbero essere ospitati in totale 92 detenuti al 41-bis.",
+          "Ricordiamo però anche i numeri attuali: nel sito del Ministero della Giustizia si legge che nel carcere di Uta ci sono 850 detenuti.",
+          "Quanti detenuti al 41-bis ci sono in Sardegna Il 41-bis è un regime penitenziario particolare, introdotto nell’ordinamento italiano nel 1986 e profondamente modificato dopo le stragi mafiose del 1992.",
+          "Il suo obiettivo principale è impedire che persone appartenenti a organizzazioni criminali possano continuare a comunicare con l’esterno e mantenere rapporti operativi con le organizzazioni di appartenenza.",
+          "È quindi quello che spesso viene definito “carcere duro” messo sotto la lente d’ingrandimento della Corte Europea per i Diritti dell’Uomo."
+        ],
+        "uncertainties": [
+          "La Presidente della Regione Alessandra Todde ha accusato il governo di voler trasformare la Sardegna nella «Cayenna d’Italia» (in riferimento alla capitale della Guiana Francese, in cui c’era uno dei sistemi penali più duri al mondo ndr) e di procedere senza un adeguato confronto con le istituzioni locali."
+        ],
+        "peopleAndOrganizations": [
+          "Sardegna",
+          "Alessandra Todde",
+          "Carcere di Uta",
+          "41-bis"
+        ],
+        "numbersAndDates": [
+          "A regime infatti, nella nuova sezione di Uta, dovrebbero essere ospitati in totale 92 detenuti al 41-bis.",
+          "Ricordiamo però anche i numeri attuali: nel sito del Ministero della Giustizia si legge che nel carcere di Uta ci sono 850 detenuti.",
+          "Quanti detenuti al 41-bis ci sono in Sardegna Il 41-bis è un regime penitenziario particolare, introdotto nell’ordinamento italiano nel 1986 e profondamente modificato dopo le stragi mafiose del 1992.",
+          "41"
+        ]
+      }
+    },
+    {
+      "id": "story-20d77c2ccf876ab7",
+      "title": "Canada, scattano nuovi dazi su 20 miliardi di dollari di prodotti Usa",
+      "summary": "In Canada sono entrati in vigore oggi, 8 settembre, nuovi dazi su circa 20 miliardi di dollari di importazioni dagli Stati uniti, ultima tappa dell’escalation commerciale tra i...",
+      "spokenText": "Canada, scattano nuovi dazi su 20 miliardi di dollari di prodotti Usa. La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo. Trump ha più volte affermato di voler fare del Canada il “51mo Stato” americano e ha ribadito le sue mire sulla Groenlandia, territorio autonomo legato alla Danimarca. Canada e Stati Uniti hanno la più grande relazione commerciale bilaterale del mondo, valutata quasi 900 miliardi di dollari nel 2025. Il primo ministro canadese Mark Carney annuncia che il Canada ha scelto la società tedesca TKMS per la costruzione di 12 sottomarini per la propria marina militare, presso il cantiere navale HMC di Halifax, Nuova Scozia, Canada, il 6 luglio 2026. L'azienda è una delle più grandi del paese, contribuendo con oltre 7 miliardi di dollari canadesi al PIL annuale del Canada nel 2024, secondo un rapporto commissionato da Bombardier alla società di contabilità pubblica PwC. Quanto costeranno davvero i dazi a canadesi e americani 29 agosto La guerra commerciale USA-Canada in 5 grafici 31 agosto Trump ha preso di mira il Canada in una serie di altri post su Truth Social durante il fine settimana, incluso uno che definiva \"inaccettabile\" il tasso di cambio del Canada con gli Stati Uniti.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "canada",
+        "mark carney"
       ],
       "importance": 65,
       "mustInclude": false,
-      "estimatedSeconds": 68,
+      "estimatedSeconds": 86,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/early-mammals-werent-all-loners-as-scientists-thought-some-already-lived-in-pairs-alongside-the-dinosaurs-290381"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/canada-scattano-nuovi-dazi-20-miliardi-$-import-usa-AJKA8U6"
       },
       "analysis": {
-        "mainFact": "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi i primi mammiferi con una vera placenta.",
-        "whyItMatters": "",
+        "mainFact": "Canada, scattano nuovi dazi su 20 miliardi di dollari di prodotti Usa",
+        "whyItMatters": "La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo.",
         "confirmedFacts": [
-          "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi i primi mammiferi con una vera placenta.",
-          "Juramaia, un primissimo mammifero placentato vissuto circa 160 milioni di anni fa.",
-          "Circa 200 milioni di anni fa, piccole creature pelose che deponevano uova hanno evoluto la capacità di nutrire la prole con una secrezione di alcune ghiandole speciali: il latte.",
-          "Together we reviewed more than 15,000 scientific publications.",
-          "CC BY. Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
-          "E la maggior parte di esse almeno qualche volta viveva in gruppi, il 38% in coppie."
+          "Canada, scattano nuovi dazi su 20 miliardi di dollari di prodotti Usa",
+          "La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo.",
+          "La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo 8 settembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google FOTO D'ARCHIVIO:",
+          "Trump ha più volte affermato di voler fare del Canada il “51mo Stato” americano e ha ribadito le sue mire sulla Groenlandia, territorio autonomo legato alla Danimarca.",
+          "Canada e Stati Uniti hanno la più grande relazione commerciale bilaterale del mondo, valutata quasi 900 miliardi di dollari nel 2025.",
+          "Il primo ministro canadese Mark Carney annuncia che il Canada ha scelto la società tedesca TKMS per la costruzione di 12 sottomarini per la propria marina militare, presso il cantiere navale HMC di Halifax, Nuova Scozia, Canada, il 6 luglio 2026.",
+          "L'azienda è una delle più grandi del paese, contribuendo con oltre 7 miliardi di dollari canadesi al PIL annuale del Canada nel 2024, secondo un rapporto commissionato da Bombardier alla società di contabilità pubblica PwC.",
+          "Quanto costeranno davvero i dazi a canadesi e americani 29 agosto La guerra commerciale USA-Canada in 5 grafici 31 agosto Trump ha preso di mira il Canada in una serie di altri post su Truth Social durante il fine settimana, incluso uno che definiva \"inaccettabile\" il tasso di cambio del Canada con gli Stati Uniti."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Juramaia",
-          "Carsten Schradin"
+          "Canada",
+          "Mark Carney"
         ],
         "numbersAndDates": [
-          "Il loro viaggio evolutivo è continuato e circa 160 milioni di anni fa sono comparsi i primi mammiferi con una vera placenta.",
-          "Juramaia, un primissimo mammifero placentato vissuto circa 160 milioni di anni fa.",
-          "Circa 200 milioni di anni fa, piccole creature pelose che deponevano uova hanno evoluto la capacità di nutrire la prole con una secrezione di alcune ghiandole speciali: il latte.",
-          "Together we reviewed more than 15,000 scientific publications.",
-          "CC BY. Abbiamo prima studiato i toporagni e i loro parenti, e abbiamo trovato la nostra prima sorpresa: mentre circa 400 specie erano state classificate come solitarie, solo 16 erano state effettivamente studiate.",
-          "E la maggior parte di esse almeno qualche volta viveva in gruppi, il 38% in coppie.",
-          "160"
+          "La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo 8 settembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google FOTO D'ARCHIVIO:",
+          "Canada e Stati Uniti hanno la più grande relazione commerciale bilaterale del mondo, valutata quasi 900 miliardi di dollari nel 2025.",
+          "Il primo ministro canadese Mark Carney annuncia che il Canada ha scelto la società tedesca TKMS per la costruzione di 12 sottomarini per la propria marina militare, presso il cantiere navale HMC di Halifax, Nuova Scozia, Canada, il 6 luglio 2026.",
+          "L'azienda è una delle più grandi del paese, contribuendo con oltre 7 miliardi di dollari canadesi al PIL annuale del Canada nel 2024, secondo un rapporto commissionato da Bombardier alla società di contabilità pubblica PwC.",
+          "Quanto costeranno davvero i dazi a canadesi e americani 29 agosto La guerra commerciale USA-Canada in 5 grafici 31 agosto Trump ha preso di mira il Canada in una serie di altri post su Truth Social durante il fine settimana, incluso uno che definiva \"inaccettabile\" il tasso di cambio del Canada con gli Stati Uniti.",
+          "20",
+          "50"
         ]
       }
     },
     {
-      "id": "story-d00665c31e3fb1de",
-      "title": "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in",
-      "summary": "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in eredità da un cacciatore locale.",
-      "spokenText": "Boris, così si chiama, arrivò nel 1932 al Museo di Chelmsford, parte di un’enorme collezione di animali tassidermizzati donata da un cacciatore del posto. Poi è entrato in scena Hayden Leigh, ricercatore dell’Università di Staffordshire, con un progetto particolare: ridare voce a Boris, trasformandolo in un’installazione sonora interattiva. Finché il museo di Chelmsford non ha aperto le sue porte, offrendo proprio Boris come protagonista. Leigh aveva precedentemente contattato circa 30 zoo e musei per chiedere aiuto con il progetto prima che il Museo di Chelmsford dicesse che avrebbe dato una mano.",
-      "category": "scienza",
+      "id": "story-127ffed2a2820a04",
+      "title": "Le ombre cinesi di cui si parla poco",
+      "summary": "Tra surplus commerciale da record e transizione green, l'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare.",
+      "spokenText": "L'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare.",
+      "category": "attualita",
       "tags": [
-        "scienza",
-        "hayden leigh",
-        "university of staffordshire",
-        "museum of chelmsford",
-        "boris the bear"
-      ],
-      "importance": 55,
-      "mustInclude": false,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cz6z3306z66o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in eredità da un cacciatore locale.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in eredità da un cacciatore locale.",
-          "Leigh aveva precedentemente contattato circa 30 zoo e musei per chiedere aiuto con il progetto prima che il Museo di Chelmsford dicesse che avrebbe dato una mano."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Hayden Leigh",
-          "University of Staffordshire",
-          "Museum of Chelmsford",
-          "Boris the bear"
-        ],
-        "numbersAndDates": [
-          "Boris arrivò al museo nel 1932 tra una vasta collezione di tassidermia lasciata in eredità da un cacciatore locale.",
-          "Leigh aveva precedentemente contattato circa 30 zoo e musei per chiedere aiuto con il progetto prima che il Museo di Chelmsford dicesse che avrebbe dato una mano.",
-          "1932"
-        ]
-      }
-    },
-    {
-      "id": "story-2616ee31e9a4af66",
-      "title": "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa",
-      "summary": "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa battaglia”",
-      "spokenText": "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa battaglia”.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/politica/2026/09/06/news/schlein_cernobbio_proposte_crisi_ambientale_vannacci_dongo-425567748/"
-      },
-      "analysis": {
-        "mainFact": "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa battaglia”",
-        "whyItMatters": "Proposte politiche su energia e clima con impatto diretto su economia e ambiente. Utile per comprendere il dibattito nazionale.",
-        "confirmedFacts": [
-          "Le cinque proposte Pd per affrontare le crisi su energia e clima:“Sono la stessa battaglia”",
-          "Proposte politiche su energia e clima con impatto diretto su economia e ambiente. Utile per comprendere il dibattito nazionale."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-73584c9cc820bc24",
-      "title": "La scoperta di antica arte rupestre suggerisce che i primi umani conosciuti in",
-      "summary": "La scoperta di antica arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono a piedi dal Galles.",
-      "spokenText": "La scoperta di antiche pitture rupestri in Irlanda suggerisce che i primi esseri umani conosciuti sull'isola arrivarono a piedi dal Galles.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "nash"
+        "attualita",
+        "cina"
       ],
       "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 9,
+      "estimatedSeconds": 8,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/economia-cina-esportazioni-consumi-interni-ombre/"
       },
       "analysis": {
-        "mainFact": "La scoperta di antica arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono a piedi dal Galles.",
-        "whyItMatters": "Scoperta archeologica su un ponte di terra glaciale tra Galles e Irlanda e prime migrazioni umane.",
+        "mainFact": "L'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare.",
+        "whyItMatters": "Analisi delle debolezze strutturali dell'economia cinese: consumi, deflazione, welfare. Impatto sistemico globale.",
         "confirmedFacts": [
-          "La scoperta di antica arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono a piedi dal Galles.",
-          "Scoperta archeologica su un ponte di terra glaciale tra Galles e Irlanda e prime migrazioni umane.",
-          "Now, alongside an international team of experts, Nash has located eight cave sites in south-west Ireland featuring rock art dating back from at least 15,000 years ago, around 5,000 years before the previous oldest example of humans in Ireland.",
-          "Eight of them were found to have cave art which they believe dates from at least 15,000 years ago and possibly much earlier, and around 5,000 years before the previous oldest example of humans in Ireland."
+          "L'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare.",
+          "Analisi delle debolezze strutturali dell'economia cinese: consumi, deflazione, welfare. Impatto sistemico globale.",
+          "Tra surplus commerciale da record e transizione green, l'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Nash"
+          "Cina"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-63cb1c922879ac93",
-      "title": "Mercoledì 17 giugno, osservatori del cielo negli Stati Uniti e in parte del Canada",
-      "summary": "Mercoledì 17 giugno, osservatori del cielo negli Stati Uniti e in parte del Canada hanno assistito a una rara occultazione lunare diurna di Venere.",
-      "spokenText": "Mercoledì 17 giugno, chi ha alzato lo sguardo al cielo negli Stati Uniti e in parte del Canada ha potuto osservare un fenomeno astronomico piuttosto raro: l’occultazione lunare diurna di Venere.",
+      "id": "story-cb437291979a6ce8",
+      "title": "ISPRA e SNPA presentano un laboratorio galleggiante per la conoscenza e la tutela",
+      "summary": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini; Il 25 agosto alle 11. 00 è prevista la tavola rotonda “ Un tuffo dove il mare è più blu: persone e azioni per la salvaguardia dei nostri ecosistemi marini ” con la partecipazione della Presidente ISPRA e SNPA Maria Alessandra Gallone. Si parlerà dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
+      "spokenText": "ISPRA e SNPA presentano un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo. Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini. Questa nuova infrastruttura rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA, contribuendo alla tutela della biodiversità, al monitoraggio dell’inquinamento e alla comprensione delle dinamiche del Mar Mediterraneo. ISPRA e SNPA al Meeting di Rimini 2026.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "luna",
-        "nasa",
-        "canada"
+        "ispra",
+        "snpa"
       ],
       "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 13,
+      "estimatedSeconds": 32,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/a-rimini-arcadia-si-presenta-al-pubblico-al-meeting-201capproda201d-la-riproduzione-in-scala-della-nuova-nave-oceanografica-di-ispra"
       },
       "analysis": {
-        "mainFact": "Mercoledì 17 giugno, osservatori del cielo negli Stati Uniti e in parte del Canada hanno assistito a una rara occultazione lunare diurna di Venere.",
-        "whyItMatters": "Evento astronomico raro di occultazione lunare di Venere visibile in Nord America, valore scientifico e culturale.",
+        "mainFact": "ISPRA e SNPA presentano un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo.",
+        "whyItMatters": "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
         "confirmedFacts": [
-          "Mercoledì 17 giugno, osservatori del cielo negli Stati Uniti e in parte del Canada hanno assistito a una rara occultazione lunare diurna di Venere.",
-          "Evento astronomico raro di occultazione lunare di Venere visibile in Nord America, valore scientifico e culturale.",
-          "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus.",
-          "Jackson NASA Headquarters building in Washington NASA/Joel Kowsky On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus.",
-          "If you missed it, there will be two more opportunities to see Venus disappear behind the Moon in 2026: Sept."
+          "ISPRA e SNPA presentano un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo.",
+          "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
+          "Questa nuova infrastruttura rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA, contribuendo alla tutela della biodiversità, al monitoraggio dell’inquinamento e alla comprensione delle dinamiche del Mar Mediterraneo.",
+          "ISPRA e SNPA al Meeting di Rimini 2026"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Luna",
-          "NASA",
-          "Canada"
+          "ISPRA",
+          "SNPA"
         ],
         "numbersAndDates": [
-          "17"
+          "ISPRA e SNPA al Meeting di Rimini 2026"
         ]
       }
     },
     {
-      "id": "story-41b89449be162159",
-      "title": "Dopo la denuncia di Zelensky, il capo del Cremlino ordina tre giorni di stop ai raid",
-      "summary": "Dopo la denuncia di Zelensky, il capo del Cremlino ordina tre giorni di stop ai raid",
-      "spokenText": "Il ministro della Difesa Guido Crosetto ha commentato sul proprio profilo X la decisione del presidente russo Vladimir Putin di sospendere per tre giorni i raid aerei su Kiev. L’ordine, arrivato dopo la denuncia del presidente ucraino Zelensky, coincide con la visita nella capitale Ucraina degli inviati statunitensi Jared Kushner e Steve Witkoff, prevista per domenica. Lo stop ai bombardamenti, ha scritto Putin, sarà limitato esclusivamente a questo breve arco temporale.",
-      "category": "mondo",
+      "id": "story-7cd7fd8e09f4ccc3",
+      "title": "Westerlund 2 e le sue nane brune",
+      "summary": "Identificata per la prima volta la popolazione di oggetti sub-stellari di un superammasso stellare, Westerlund 2. Il risultato, ottenuto con il James Webb Space Telescope nell’ambito del progetto Ewocs da un team guidato da Victor Almendros-Abad dell’Inaf di Palermo, è in uscita su Astronomy & Astrophysics",
+      "spokenText": "Un team guidato dall’Inaf di Palermo ha puntato il James Webb Space Telescope verso Westerlund 2, un superammasso stellare giovane e massiccio, riuscendo per la prima volta a identificare al suo interno una popolazione di nane brune. Il risultato è ora in uscita sulla rivista Astronomy & Astrophysics e segna un passo importante nella capacità di osservare le componenti più deboli degli ammassi stellari.",
+      "category": "scienza",
       "tags": [
-        "mondo",
-        "vladimir putin",
-        "jared kushner",
-        "steve witkoff",
-        "guido crosetto",
-        "ucraina",
-        "kiev"
+        "scienza",
+        "westerlund 2",
+        "james webb space telescope",
+        "victor almendros abad",
+        "inaf di palermo",
+        "astronomy astrophysics"
       ],
-      "importance": 62,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 29,
+      "estimatedSeconds": 26,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/zelensky-raid-russi-aeroporti-dove-e-possibile-arrivino-mediatori-usa-AJRFQN4"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/07/westerlund-2-nane-brune-jwst/"
       },
       "analysis": {
-        "mainFact": "Dopo la denuncia di Zelensky, il capo del Cremlino ordina tre giorni di stop ai raid",
-        "whyItMatters": "Lo ha scritto sul proprio profilo X il ministro della Difesa Guido Crosetto commentando la decisione del presidente russo Vladimir Putin di sospendere per tre giorni i raid aerei su Kiev durante la visita degli inviati statunitensi Jared Kushner e Steve Witkoff nella capitale Ucraina, prevista per domenica.",
+        "mainFact": "Westerlund 2 e le sue nane brune",
+        "whyItMatters": "Il risultato, ottenuto con il James Webb Space Telescope, è in uscita su Astronomy & Astrophysics.",
         "confirmedFacts": [
-          "Dopo la denuncia di Zelensky, il capo del Cremlino ordina tre giorni di stop ai raid",
-          "Lo ha scritto sul proprio profilo X il ministro della Difesa Guido Crosetto commentando la decisione del presidente russo Vladimir Putin di sospendere per tre giorni i raid aerei su Kiev durante la visita degli inviati statunitensi Jared Kushner e Steve Witkoff nella capitale Ucraina, prevista per domenica.",
-          "Putin: “Stop ai raid su Kiev, ma solo per tre giorni”"
+          "Westerlund 2 e le sue nane brune",
+          "Il risultato, ottenuto con il James Webb Space Telescope, è in uscita su Astronomy & Astrophysics.",
+          "Il risultato, ottenuto con il James Webb Space Telescope nell’ambito del progetto Ewocs da un team guidato da Victor Almendros-Abad dell’Inaf di Palermo, è in uscita su Astronomy & Astrophysics"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Vladimir Putin",
-          "Jared Kushner",
-          "Steve Witkoff",
-          "Guido Crosetto",
-          "Ucraina",
-          "Kiev"
+          "Westerlund 2",
+          "James Webb Space Telescope",
+          "Victor Almendros-Abad",
+          "Inaf di Palermo",
+          "Astronomy & Astrophysics"
+        ],
+        "numbersAndDates": [
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "story-4ee60bf8c8ac05a5",
+      "title": "Come fermare sul nascere una tempesta stellare",
+      "summary": "Ottenuta in laboratorio la prima prova sperimentale del fatto che i forti campi magnetici che circondano stelle attive possono sopprimere completamente le espulsioni coronali di massa. Il risultato, pubblicato su Physical Review Letters, aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili",
+      "spokenText": "Ottenuta in laboratorio la prima prova sperimentale del fatto che i forti campi magnetici che circondano stelle attive possono sopprimere completamente le espulsioni coronali di massa. Il risultato aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "physical review letters"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 23,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/07/cme-stellari-campi-magnetici/"
+      },
+      "analysis": {
+        "mainFact": "Ottenuta in laboratorio la prima prova sperimentale del fatto che i forti campi magnetici che circondano stelle attive possono sopprimere completamente le espulsioni coronali di massa.",
+        "whyItMatters": "Il risultato aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili.",
+        "confirmedFacts": [
+          "Ottenuta in laboratorio la prima prova sperimentale del fatto che i forti campi magnetici che circondano stelle attive possono sopprimere completamente le espulsioni coronali di massa.",
+          "Il risultato aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili.",
+          "Il risultato, pubblicato su Physical Review Letters, aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Physical Review Letters"
         ],
         "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-42cacdd58fef53a5",
+      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+      "summary": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+      "spokenText": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "esa",
+        "stsci",
+        "hst"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 5,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/"
+      },
+      "analysis": {
+        "mainFact": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "ESA",
+          "STScI",
+          "HST"
+        ],
+        "numbersAndDates": [
+          "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+          "2026",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "story-92fe8c08d97396e7",
+      "title": "HUAWEI Mate XT 2: nuovo smartphone trifold con HarmonyOS 7",
+      "summary": "HUAWEI Mate XT 2 è uno smartphone trifold con schermo interno da 10,2 pollici ed esterno da 6,5 pollici, processore Kirin 9050 Pro e cinque fotocamere. The post HUAWEI Mate XT 2: nuovo smartphone trifold con HarmonyOS 7 appeared first on Punto Informatico.",
+      "spokenText": "Huawei ha presentato il Mate XT 2 Ultimate Design, un nuovo smartphone che punta su un formato trifold. Quando è completamente aperto, offre un ampio schermo OLED interno da 10,2 pollici con risoluzione 2232×3184 pixel e refresh rate variabile fino a 90 Hz. Richiuso, il display esterno è un OLED da 6,5 pollici con risoluzione 2442×1140 pixel e refresh rate fino a 120 Hz. Il dispositivo monta il processore Kirin 9050 Pro, gira con HarmonyOS 7 e integra cinque fotocamere. In un panorama dove Xiaomi propone il suo 18 Fold con schermi da 7,58 e 5,38 pollici, processore XRING O3 e fino a 1 TB di storage, Huawei continua a investire su questa particolare architettura a tre pieghe. Il nuovo Xiaomi 18 Fold ha schermi da 7,58.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "huawei"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 51,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/huawei-mate-xt-2-nuovo-smartphone-trifold-con-harmonyos-7/"
+      },
+      "analysis": {
+        "mainFact": "HUAWEI Mate XT 2 è un nuovo smartphone trifold con HarmonyOS 7.",
+        "whyItMatters": "Il nuovo Xiaomi 18 Fold ha schermi da 7,58 e 5,38 pollici, processore XRING O3, 12/16 GB di RAM, fino a 1 TB di storage e cinque fotocamere.",
+        "confirmedFacts": [
+          "HUAWEI Mate XT 2 è un nuovo smartphone trifold con HarmonyOS 7.",
+          "Il nuovo Xiaomi 18 Fold ha schermi da 7,58 e 5,38 pollici, processore XRING O3, 12/16 GB di RAM, fino a 1 TB di storage e cinque fotocamere.",
+          "HUAWEI continua punta invece a puntare su questo particolare fattore di forma con il nuovo Mate XT 2 Ultimate Design .",
+          "HUAWEI Mate XT 2: nuovo smartphone trifold con HarmonyOS 7 HUAWEI Mate XT 2 è uno smartphone trifold con schermo interno da 10,2 pollici ed esterno da 6,5 pollici, processore Kirin 9050 Pro e cinque fotocamere.",
+          "Xiaomi Pad 9 Pro Max: primo tablet con chip XRING O3 Il nuovo Xiaomi Pad 9 Pro Max è un tablet con schermo da 13,3 pollici, processore XRING O3, 8/12/16 GB di RAM, fino a 1 TB di storage e HyperOS 4. 0.",
+          "Quando completamente aperto ha uno schermo OLED interno da 10,2 pollici con risoluzione di 2232×3184 pixel e refresh rate variabile (1-90 Hz).",
+          "Lo schermo OLED esterno ha una diagonale di 6,5 pollici , una risoluzione di 2442×1140 pixel e refresh rate variabile (1-120 Hz).",
+          "Xiaomi 18 Fold: smartphone pieghevole con chip XRING O3"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "HUAWEI"
+        ],
+        "numbersAndDates": [
+          "HUAWEI continua punta invece a puntare su questo particolare fattore di forma con il nuovo Mate XT 2 Ultimate Design .",
+          "HUAWEI Mate XT 2: nuovo smartphone trifold con HarmonyOS 7 HUAWEI Mate XT 2 è uno smartphone trifold con schermo interno da 10,2 pollici ed esterno da 6,5 pollici, processore Kirin 9050 Pro e cinque fotocamere.",
+          "Xiaomi Pad 9 Pro Max: primo tablet con chip XRING O3 Il nuovo Xiaomi Pad 9 Pro Max è un tablet con schermo da 13,3 pollici, processore XRING O3, 8/12/16 GB di RAM, fino a 1 TB di storage e HyperOS 4. 0.",
+          "Quando completamente aperto ha uno schermo OLED interno da 10,2 pollici con risoluzione di 2232×3184 pixel e refresh rate variabile (1-90 Hz).",
+          "Lo schermo OLED esterno ha una diagonale di 6,5 pollici , una risoluzione di 2442×1140 pixel e refresh rate variabile (1-120 Hz).",
+          "Xiaomi 18 Fold: smartphone pieghevole con chip XRING O3",
+          "2",
+          "7",
+          "18",
+          "7,58"
+        ]
+      }
+    },
+    {
+      "id": "story-f2211899b4c76e97",
+      "title": "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31",
+      "summary": "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31 dicembre e ulteriori 13 milioni di sterline entro il 31 marzo 2027.",
+      "spokenText": "L'azienda ha accettato di versare 13 milioni di sterline alle controparti entro il 31 dicembre e un'ulteriore tranche da 13 milioni entro il 31 marzo 2027, come parte di un accordo formalizzato il 2 settembre e depositato presso la Securities and Exchange Commission degli Stati Uniti. I pagamenti chiudono una controversia legale che Grindr ha ricondotto a pratiche storiche sui dati antecedenti al 2020, periodo in cui la società era controllata dall'azienda cinese Kunlun. La vicenda affonda le radici nelle rivelazioni del 2018, quando emerse che la piattaforma aveva condiviso dati personali, incluso lo stato HIV di alcuni utenti, con due fornitori di analisi. Nel documento ufficiale la società, pur contestando le accuse, ha dichiarato di riconoscere il disagio e la perdita di fiducia manifestati da una parte degli utenti nel Regno Unito in relazione a quel periodo.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "grindr",
+        "austen hayes",
+        "kunlun"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 56,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31 dicembre e ulteriori 13 milioni di sterline entro il 31 marzo 2027.",
+        "whyItMatters": "Grindr paga 26 milioni per condivisione illecita di dati HIV, caso emblematico su privacy e diritti digitali.",
+        "confirmedFacts": [
+          "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31 dicembre e ulteriori 13 milioni di sterline entro il 31 marzo 2027.",
+          "Grindr paga 26 milioni per condivisione illecita di dati HIV, caso emblematico su privacy e diritti digitali.",
+          "Grindr ha sottolineato che le accuse riguardano 'pratiche storiche sui dati' antecedenti al 2020, quando era di proprietà dell'azienda cinese Kunlun.",
+          "Ha fatto seguito alle rivelazioni del 2018 secondo cui Grindr aveva condiviso dati personali, incluso lo stato HIV dei suoi utenti, con i due fornitori di analisi dei dati.",
+          "'Sebbene Grindr contesti le accuse, riconosce e prende atto del disagio e della perdita di fiducia espressi da alcuni dei suoi utenti nel Regno Unito riguardo a quel periodo antecedente al 2020', ha dichiarato la società nel suo documento.",
+          "Grindr effettuerà due pagamenti da 13 milioni di sterline per chiudere le accuse.",
+          "Il documento presentato alla Securities and Exchange Commission degli Stati Uniti da Grindr afferma che un accordo è stato raggiunto il 2 settembre."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Grindr",
+          "Austen Hayes",
+          "Kunlun"
+        ],
+        "numbersAndDates": [
+          "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31 dicembre e ulteriori 13 milioni di sterline entro il 31 marzo 2027.",
+          "Grindr ha sottolineato che le accuse riguardano 'pratiche storiche sui dati' antecedenti al 2020, quando era di proprietà dell'azienda cinese Kunlun.",
+          "Ha fatto seguito alle rivelazioni del 2018 secondo cui Grindr aveva condiviso dati personali, incluso lo stato HIV dei suoi utenti, con i due fornitori di analisi dei dati.",
+          "'Sebbene Grindr contesti le accuse, riconosce e prende atto del disagio e della perdita di fiducia espressi da alcuni dei suoi utenti nel Regno Unito riguardo a quel periodo antecedente al 2020', ha dichiarato la società nel suo documento.",
+          "Grindr effettuerà due pagamenti da 13 milioni di sterline per chiudere le accuse.",
+          "Il documento presentato alla Securities and Exchange Commission degli Stati Uniti da Grindr afferma che un accordo è stato raggiunto il 2 settembre.",
+          "13",
+          "31",
+          "2027"
+        ]
+      }
+    },
+    {
+      "id": "story-361d74560b09dac6",
+      "title": "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle",
+      "summary": "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane durante attacchi e incursioni dei coloni nel villaggio, insieme a un 19enne che aveva appena lasciato la scuola.",
+      "spokenText": "Durante l'estate, il villaggio di Aws al-Naasan è stato teatro di una sequenza di episodi che hanno colpito direttamente la comunità scolastica. Due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane nel corso di attacchi e incursioni condotte insieme ai coloni. Nelle stesse circostanze ha perso la vita anche un ragazzo di diciannove anni che aveva da poco lasciato la scuola. Aws al-Naasan ha spiegato che all'inizio del 2025 gli attacchi dei coloni erano pochi, grazie agli interventi dell'esercito.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "aws al naasan"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane durante attacchi e incursioni dei coloni nel villaggio, insieme a un 19enne che aveva appena lasciato la scuola.",
+        "whyItMatters": "Crescenti attacchi dei coloni minacciano l'istruzione dei bambini palestinesi. Conseguenze umanitarie sistemiche.",
+        "confirmedFacts": [
+          "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane durante attacchi e incursioni dei coloni nel villaggio, insieme a un 19enne che aveva appena lasciato la scuola.",
+          "Crescenti attacchi dei coloni minacciano l'istruzione dei bambini palestinesi. Conseguenze umanitarie sistemiche.",
+          "\"All'inizio del 2025, gli attacchi dei coloni erano pochi, a causa degli interventi dell'esercito,\" ha detto."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Aws al-Naasan"
+        ],
+        "numbersAndDates": [
+          "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane durante attacchi e incursioni dei coloni nel villaggio, insieme a un 19enne che aveva appena lasciato la scuola.",
+          "\"All'inizio del 2025, gli attacchi dei coloni erano pochi, a causa degli interventi dell'esercito,\" ha detto."
+        ]
+      }
+    },
+    {
+      "id": "story-9c42f5098fe15f05",
+      "title": "Le accuse shock: “Netanyahu fu avvertito dagli Emirati prima del 7 ottobre. Ma non",
+      "summary": "Secondo un’inchiesta di Haaretz, il 23 settembre 2023 il presidente bin Zayed avrebbe chiamato il primo ministro israeliano per avvisarlo del rischio di un attacco da parte di Hamas, ma lui non avrebbe avvisato né i servizi segreti né i capi dell’esercito. La rivelazione mette in ulteriore difficoltà Bibi, già nel pieno della tempesta per le liste elettorali",
+      "spokenText": "Secondo un’inchiesta di Haaretz, il 23 settembre 2023 il presidente bin Zayed avrebbe chiamato il primo ministro israeliano per avvisarlo del rischio di un attacco da parte di Hamas, ma lui non avrebbe avvisato né i servizi segreti né i capi dell’esercito. L'emiro di Abu Dhabi Mohammed bin Zayed avrebbe avvertito personalmente il premier israeliano Benjamin Netanyahu, in una telefonata di 45 minuti alla fine di settembre 2023, che il leader di Hamas a Gaza Yahya Sinwar stava pianificando \"un terremoto\" contro Israele.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "benjamin netanyahu",
+        "mohammed bin zayed",
+        "hamas",
+        "yahya sinwar",
+        "haaretz",
+        "israele"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/09/08/news/israele_accuse_shock_netanyahu_fu_avvertito_da_emirati_prima_del_7_ottobre_ma_non_informo_intelligence-425571850/"
+      },
+      "analysis": {
+        "mainFact": "Secondo un’inchiesta di Haaretz, il 23 settembre 2023 il presidente bin Zayed avrebbe chiamato il primo ministro israeliano per avvisarlo del rischio di un attacco da parte di Hamas, ma lui non avrebbe avvisato né i servizi segreti né i capi dell’esercito.",
+        "whyItMatters": "Inchiesta di Haaretz, con una telefonata di 45 minuti dieci giorni prima dell'attacco",
+        "confirmedFacts": [
+          "Secondo un’inchiesta di Haaretz, il 23 settembre 2023 il presidente bin Zayed avrebbe chiamato il primo ministro israeliano per avvisarlo del rischio di un attacco da parte di Hamas, ma lui non avrebbe avvisato né i servizi segreti né i capi dell’esercito.",
+          "Inchiesta di Haaretz, con una telefonata di 45 minuti dieci giorni prima dell'attacco",
+          "L'emiro di Abu Dhabi Mohammed bin Zayed avrebbe avvertito personalmente il premier israeliano Benjamin Netanyahu, in una telefonata di 45 minuti alla fine di settembre 2023, che il leader di Hamas a Gaza Yahya Sinwar stava pianificando ''un terremoto'' contro Israele.",
+          "Lo rivela un'inchiesta di Haaretz oggi in cui vengono anticipati estratti di un nuovo libro del giornalista Shlomi Eldar sui retroscena delle trattative per la liberazione dei 251 ostaggi israeliani rapiti durante l'attacco del 7 ottobre 2023.",
+          "Emirati avvertirono Netanyahu del piano di Hamas prima del 7 ottobre",
+          "Inchiesta di Haaretz: il premier avvertito personalmente con una telefonata di 45 minuti dieci giorni prima dell'attacco"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Benjamin Netanyahu",
+          "Mohammed bin Zayed",
+          "Hamas",
+          "Yahya Sinwar",
+          "Haaretz",
+          "Israele"
+        ],
+        "numbersAndDates": [
+          "L'emiro di Abu Dhabi Mohammed bin Zayed avrebbe avvertito personalmente il premier israeliano Benjamin Netanyahu, in una telefonata di 45 minuti alla fine di settembre 2023, che il leader di Hamas a Gaza Yahya Sinwar stava pianificando ''un terremoto'' contro Israele.",
+          "Lo rivela un'inchiesta di Haaretz oggi in cui vengono anticipati estratti di un nuovo libro del giornalista Shlomi Eldar sui retroscena delle trattative per la liberazione dei 251 ostaggi israeliani rapiti durante l'attacco del 7 ottobre 2023.",
+          "Emirati avvertirono Netanyahu del piano di Hamas prima del 7 ottobre",
+          "Inchiesta di Haaretz: il premier avvertito personalmente con una telefonata di 45 minuti dieci giorni prima dell'attacco",
+          "23",
+          "2023",
+          "45"
+        ]
+      }
+    },
+    {
+      "id": "story-18e45b57712feecd",
+      "title": "Guerra Ucraina - Russia, le news. Lavrov",
+      "summary": "Dopo la tregua attacco notturno di Mosca su Kiev, Odessa e Sumy: almeno 2 morti e 7 feriti. Accusato di corruzione, si è dimesso il procuratore generale ucraino Kravtchenko",
+      "spokenText": "Odessa e Sumy con almeno 2 morti e 7 feriti. Riprendono i raid russi su Kiev dopo la tregua Il presidente ucraino, Volodymyr Zelensky, ha dichiarato di voler incontrare il presidente degli Stati Uniti Donald Trump dopo il 20 settembre per discutere della difesa antimissile dell'Ucraina. Accusato di corruzione, si è dimesso il procuratore generale ucraino Kravtchenko. Ruslan Kravchenko si è dimesso da procuratore generale dopo le accuse di corruzione. L'annuncio arriva in occasione della riunione del Gruppo di contatto per la difesa dell'Ucraina, co-presieduta dal ministro britannico Wes Streeting e dal collega tedesco Boris Pistorius, a cui partecipano quasi 50 Paesi.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "ucraina",
+        "mosca",
+        "kiev",
+        "odessa",
+        "sumy",
+        "volodymyr zelensky",
+        "donald trump"
+      ],
+      "importance": 70,
+      "mustInclude": false,
+      "estimatedSeconds": 41,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/09/08/diretta/guerra_ucraina_russia_news_oggi-425571344/"
+      },
+      "analysis": {
+        "mainFact": "Odessa e Sumy con almeno 2 morti e 7 feriti.",
+        "whyItMatters": "riprendono i raid russi su Kiev dopo la tregua Il presidente ucraino, Volodymyr Zelensky, ha dichiarato di voler incontrare il presidente degli Stati Uniti Donald Trump dopo il 20 settembre per discutere della difesa antimissile dell'Ucraina.",
+        "confirmedFacts": [
+          "Odessa e Sumy con almeno 2 morti e 7 feriti.",
+          "riprendono i raid russi su Kiev dopo la tregua Il presidente ucraino, Volodymyr Zelensky, ha dichiarato di voler incontrare il presidente degli Stati Uniti Donald Trump dopo il 20 settembre per discutere della difesa antimissile dell'Ucraina.",
+          "Ruslan Kravchenko si è dimesso da procuratore generale dopo le accuse di corruzione.",
+          "L'annuncio arriva in occasione della riunione del Gruppo di contatto per la difesa dell'Ucraina, co-presieduta dal ministro britannico Wes Streeting e dal collega tedesco Boris Pistorius, a cui partecipano quasi 50 Paesi.",
+          "Odessa e Sumy 01:40 Ucraina:"
+        ],
+        "uncertainties": [
+          "Accusato di corruzione, si è dimesso il procuratore generale ucraino Kravtchenko"
+        ],
+        "peopleAndOrganizations": [
+          "Russia",
+          "Ucraina",
+          "Mosca",
+          "Kiev",
+          "Odessa",
+          "Sumy",
+          "Volodymyr Zelensky",
+          "Donald Trump"
+        ],
+        "numbersAndDates": [
+          "L'annuncio arriva in occasione della riunione del Gruppo di contatto per la difesa dell'Ucraina, co-presieduta dal ministro britannico Wes Streeting e dal collega tedesco Boris Pistorius, a cui partecipano quasi 50 Paesi.",
+          "Odessa e Sumy 01:40 Ucraina:",
+          "2",
+          "7",
+          "20"
+        ]
       }
     },
     {
       "id": "story-a5e4ed038508841b",
       "title": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
       "summary": "A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack. Cos’è, come viene utilizza e quali sono gli effetti desiderati non sono questioni che possono prescindere dal contesto socio-politico ed economico attuale, oltre che da considerazioni più strettamente bio-chimiche, così come chiedersi quando prioritariamente lo stesso si affaccia sulla scena del consumo negli Stati Uniti e perché, sono domande complesse a cui questo contributo prova a rispondere, proponendo riflessioni complesse.",
-      "spokenText": "In Italia si sta osservando una crescente diffusione del crack, che aggiunge complessità al già delicato scenario delle dipendenze da sostanze psicotrope. Questo fenomeno richiama l’onda lunga che dagli Stati Uniti, a partire dagli anni ’80, ha segnato intere comunità, e oggi si manifesta con caratteristiche proprie anche nel nostro paese.",
+      "spokenText": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80. A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack.",
       "category": "salute",
       "tags": [
         "salute",
@@ -516,16 +611,15 @@
       ],
       "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 21,
+      "estimatedSeconds": 17,
       "source": {
         "name": "Valigia Blu",
         "url": "https://www.valigiablu.it/crack-droghe-italia-usa-fentanyl-narcotraffico/"
       },
       "analysis": {
-        "mainFact": "In Italia è segnalata una crescente emergenza da crack che complica il quadro della dipendenza da sostanze psicotrope.",
-        "whyItMatters": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
+        "mainFact": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
+        "whyItMatters": "A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack.",
         "confirmedFacts": [
-          "In Italia è segnalata una crescente emergenza da crack che complica il quadro della dipendenza da sostanze psicotrope.",
           "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
           "A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack."
         ],
@@ -537,40 +631,6 @@
         "numbersAndDates": [
           "80"
         ]
-      }
-    },
-    {
-      "id": "story-4b4c3a7107e25da8",
-      "title": "Un'analisi sostiene che le politiche neoliberiste hanno svuotato le democrazie e",
-      "summary": "Un'analisi sostiene che le politiche neoliberiste hanno svuotato le democrazie e generato oligarchi senza controllo, e che comprenderne la struttura indica una possibile soluzione.",
-      "spokenText": "C'è un'analisi che sta facendo discutere, firmata da Les Coleman, che parte da un'immagine molto concreta. Coleman sostiene che le politiche neoliberiste, lungi dal diffondere benessere, hanno progressivamente svuotato le nostre democrazie, trasferendo il potere decisionale in spazi sempre più ristretti e non eletti. Il risultato, secondo questa lettura, è la nascita di oligarchi che operano senza un vero controllo democratico. L'aspetto interessante è che l'analisi non si limita a descrivere il problema, ma suggerisce che proprio comprendere a fondo questa architettura di potere, il modo in cui è stata costruita, indica la strada per una possibile soluzione.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "les coleman",
-        "canary wharf"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 40,
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it"
-      },
-      "analysis": {
-        "mainFact": "Un'analisi sostiene che le politiche neoliberiste hanno svuotato le democrazie e generato oligarchi senza controllo, e che comprenderne la struttura indica una possibile soluzione.",
-        "whyItMatters": "Analisi delle politiche neoliberiste e del loro impatto su democrazia e oligarchi. Rilevante per comprendere dinamiche economiche globali.",
-        "confirmedFacts": [
-          "Un'analisi sostiene che le politiche neoliberiste hanno svuotato le democrazie e generato oligarchi senza controllo, e che comprenderne la struttura indica una possibile soluzione.",
-          "Analisi delle politiche neoliberiste e del loro impatto su democrazia e oligarchi. Rilevante per comprendere dinamiche economiche globali.",
-          "Grasping their structure points to a fix by Les Coleman + BIO The Canary Wharf tower grew out of the undeveloped industrial landscape of South Dock in London Docklands, seen here on 18 July 1991."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Les Coleman",
-          "Canary Wharf"
-        ],
-        "numbersAndDates": []
       }
     }
   ]
