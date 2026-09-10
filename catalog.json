@@ -1,76 +1,560 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-09-08-614c5d019afd",
-  "generatedAt": "2026-09-08T09:19:16.305Z",
+  "catalogId": "daily-quid-2026-09-10-d7738276b6dd",
+  "generatedAt": "2026-09-10T09:21:27.144Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-64715323657a1bb3",
-      "title": "Il caldo dell'estate 2026 ha fatto impennare i livelli di ozono in Italia",
-      "summary": "Medici per l'ambiente: problemi anche per biossido di azoto e polveri sottili",
-      "spokenText": "L’estate 2026 ha fatto impennare i livelli di ozono in Italia, un fenomeno direttamente favorito dalla combinazione di radiazione solare intensa e temperature elevate. Il valore massimo tollerabile di 120 microgrammi per metro cubo, da non superare per più di 25 giorni l’anno, è stato ampiamente sforato in diverse città: Bergamo-Meucci ha raggiunto 77 giorni di superamento, seguita da Torino-Lingotto e Torino-Rubino con 67, Milano-Verziere con 66 e Verona-Giarol Grande con 65. I medici per l’ambiente sottolineano che il caldo estremo ha aggravato anche la concentrazione di biossido di azoto e polveri sottili. Un parametro che in molte centraline è stato ignorato per mesi: a Torino-Rebaudengo i giorni di sforamento sono stati 129, a Verona-Giarol Grande 115, a Napoli-Ente Ferrovie 110, a Milano-Marche 101 e a Padova-Mandria 99.",
-      "category": "ambiente",
+      "id": "story-32929403f7502b8a",
+      "title": "Famiglia di quattro persone muore in un attacco israeliano a Gaza, anche 2 bimbi",
+      "summary": "Fonti mediche, 'uccisi coi genitori due bambini di 8 e 12 anni'",
+      "spokenText": "Una coppia e i loro due figli, di 12 e 8 anni, sono rimasti uccisi in un attacco israeliano a Gaza. Lo scrive l'Agenzia France Presse, citando fonti mediche e della sicurezza palestinese. Fonti mediche, 'uccisi coi genitori due bambini di 8 e 12 anni'. \"I corpi di quattro membri della famiglia Ahmad sono stati recuperati straziati dopo che un attacco israeliano ha colpito un'abitazione nell'area del 'Beit Lahia Project', nella Striscia di Gaza settentrionale\", ha dichiarato il funzionario. Un funzionario dell'ospedale Al-Shifa di Gaza City ha precisato che tra le vittime ci sono due bambini, di 12 e 8 anni.",
+      "category": "mondo",
       "tags": [
-        "ambiente",
-        "medici per l ambiente",
-        "organizzazione mondiale della sanita",
-        "italia"
+        "mondo",
+        "gaza",
+        "israele",
+        "famiglia ahmad"
       ],
-      "importance": 85,
+      "importance": 70,
       "mustInclude": false,
-      "estimatedSeconds": 52,
+      "estimatedSeconds": 41,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/09/06/il-caldo-dellestate-2026-ha-fatto-impennare-i-livelli-di-ozono-in-italia_43392195-56ac-457e-9015-b5d90c1bb989.html"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/famiglia-di-quattro-persone-muore-in-un-attacco-israeliano-a-gaza-anche-2-bimbi_4d97222b-9e06-4032-8303-d2bfb24e6bcb.html"
       },
       "analysis": {
-        "mainFact": "Il caldo dell'estate 2026 ha fatto impennare i livelli di ozono in Italia.",
-        "whyItMatters": "Medici per l'ambiente: problemi anche per biossido di azoto e polveri sottili",
+        "mainFact": "Una coppia e i loro due figli, di 12 e 8 anni, sono rimasti uccisi in un attacco israeliano a Gaza.",
+        "whyItMatters": "Lo scrive l'Agenzia France Presse, citando fonti mediche e della sicurezza palestinese.",
         "confirmedFacts": [
-          "Il caldo dell'estate 2026 ha fatto impennare i livelli di ozono in Italia.",
-          "Medici per l'ambiente: problemi anche per biossido di azoto e polveri sottili",
-          "Si sono superati anche i limiti per le polveri sottili Pm 2,5, fissati a 15 microgrammi per metro cubo per 3-4 gioni l'anno dall'Organizzazione Mondiale della Sanità: a Torino-Rebaudengo 129 giorni, a Verona-Giarol Grande 115, a Napoli-Ente Ferrovie 110, a Milano-Marche 101 e a Padova-Mandria 99.",
-          "Per l'ozono, la cui formazione è favorita da radiazione solare e alte temperature, il valore massimo tollerabile di 120 microgrammi per metro cubo 25 giorni l'anno è stato superato a Bergamo-Meucci (77 giorni).",
-          "Torino-Lingotto e Torino-Rubino (67), Milano-Verziere (66) e Verona-Giarol Grande (65)."
+          "Una coppia e i loro due figli, di 12 e 8 anni, sono rimasti uccisi in un attacco israeliano a Gaza.",
+          "Lo scrive l'Agenzia France Presse, citando fonti mediche e della sicurezza palestinese.",
+          "Fonti mediche, 'uccisi coi genitori due bambini di 8 e 12 anni'",
+          "\"I corpi di quattro membri della famiglia Ahmad sono stati recuperati straziati dopo che un attacco israeliano ha colpito un'abitazione nell'area del 'Beit Lahia Project', nella Striscia di Gaza settentrionale\", ha dichiarato il funzionario.",
+          "Un funzionario dell'ospedale Al-Shifa di Gaza City ha precisato che tra le vittime ci sono due bambini, di 12 e 8 anni.",
+          "Famiglia di quattro persone muore in un attacco israeliano a Gaza",
+          "Anche Al Jazeera, citando una fonte medica, riporta che quattro persone palestinesi sono morte e altre sono rimaste ferite in un attacco delle forze israeliane fuori dalle aree di schieramento di Israele a nord di Gaza."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Medici per l'ambiente",
-          "Organizzazione Mondiale della Sanità",
-          "Italia"
+          "Gaza",
+          "Israele",
+          "famiglia Ahmad"
         ],
         "numbersAndDates": [
-          "Si sono superati anche i limiti per le polveri sottili Pm 2,5, fissati a 15 microgrammi per metro cubo per 3-4 gioni l'anno dall'Organizzazione Mondiale della Sanità: a Torino-Rebaudengo 129 giorni, a Verona-Giarol Grande 115, a Napoli-Ente Ferrovie 110, a Milano-Marche 101 e a Padova-Mandria 99.",
-          "Per l'ozono, la cui formazione è favorita da radiazione solare e alte temperature, il valore massimo tollerabile di 120 microgrammi per metro cubo 25 giorni l'anno è stato superato a Bergamo-Meucci (77 giorni).",
-          "Torino-Lingotto e Torino-Rubino (67), Milano-Verziere (66) e Verona-Giarol Grande (65).",
+          "Fonti mediche, 'uccisi coi genitori due bambini di 8 e 12 anni'",
+          "Un funzionario dell'ospedale Al-Shifa di Gaza City ha precisato che tra le vittime ci sono due bambini, di 12 e 8 anni.",
+          "12",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "story-da46a58d06c777a0",
+      "title": "Boom dei chip di Taiwan, +53% di vendite ad agosto per Tsmc",
+      "summary": "Continua la corsa incessante agli investimenti in intelligenza artificiale. Taiwan Semiconductor Manufacturing Co. ha registrato ad agosto un aumento del 53,3% delle vendite rispetto allo stesso mese del 2025, mentre...",
+      "spokenText": "Taiwan Semiconductor Manufacturing Co. Ha chiuso agosto con un balzo delle vendite del cinquantatré virgola tre per cento rispetto allo stesso mese del duemilaventicinque. Un dato che arriva mentre gli analisti, in media, prevedono per il trimestre in corso una crescita del fatturato del quarantasei virgola otto per cento. Il vice direttore operativo di TSMC, Cliff Hou, ha spiegato di recente che la società sta cercando di realizzare e attrezzare circa venti stabilimenti, tra Taiwan e l’estero. Un’accelerazione notevole se si pensa che in passato l’azienda lavorava normalmente a quattro o cinque nuovi impianti in contemporanea.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "taiwan semiconductor manufacturing co",
+        "taiwan"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 39,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/boom-chip-taiwan-53percento-vendite-ad-agosto-tsmc-AJLW3v8"
+      },
+      "analysis": {
+        "mainFact": "Taiwan Semiconductor Manufacturing Co. Ha registrato ad agosto un aumento del 53,3% delle vendite rispetto allo stesso mese del 2025.",
+        "whyItMatters": "In media, gli analisti prevedono una crescita delle vendite del 46,8% per il trimestre in corso.",
+        "confirmedFacts": [
+          "Taiwan Semiconductor Manufacturing Co. Ha registrato ad agosto un aumento del 53,3% delle vendite rispetto allo stesso mese del 2025.",
+          "In media, gli analisti prevedono una crescita delle vendite del 46,8% per il trimestre in corso.",
+          "L’azienda taiwanese sta cercando di realizzare e attrezzare circa 20 stabilimenti, sia in patria sia all’estero, mentre in passato lavorava solitamente a quattro o cinque nuovi impianti contemporaneamente: è quanto ha spiegato recentemente Cliff Hou, vice direttore operativo di TSMC."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Taiwan Semiconductor Manufacturing Co.",
+          "Taiwan"
+        ],
+        "numbersAndDates": [
+          "L’azienda taiwanese sta cercando di realizzare e attrezzare circa 20 stabilimenti, sia in patria sia all’estero, mentre in passato lavorava solitamente a quattro o cinque nuovi impianti contemporaneamente: è quanto ha spiegato recentemente Cliff Hou, vice direttore operativo di TSMC.",
+          "53,3",
+          "2025",
+          "46,8"
+        ]
+      }
+    },
+    {
+      "id": "story-29732696abd09874",
+      "title": "L'ONU abbandona la proiezione di Mercatore per mappe più accurate",
+      "summary": "L'ONU abbandona la proiezione di Mercatore per mappe più accuratemarco. boscolo Mar, 09/08/2026 - 16:52 9 Settembre 2026 Language Italian Marco Boscolo Il 4 settembre 2026, l’Assemblea delle Nazioni Unite ha votato a favore di una risoluzione che promuove proiezioni cartografiche che riflettano in modo più accurato le dimensioni reali dei continenti. Non si tratta di una decisione vincolante, ma solo di una raccomandazione ad abbandonare le carte più diffuse oggi, quelle realizzate con la proiezione di Mercatore, che danno l’impressione che il continente africano sia molto più piccolo rispetto a Europa e Nord America. I voti a favore sono stati 164, con sei astensioni, mentre l’unico voto contrario è arrivato dagli Stati Uniti, preoccupati che la loro dimensione relativa venga ridotta da altre rappresentazioni cartografiche. In particolare, la raccomandazione a guida africana è di utilizzare la proiezione cosiddetta Equal Earth, che restituisce un’impressione più accurata delle aree, e quindi delle dimensioni dei continenti. SOCIETÀ Come si ottiene la proiezione di Mercatore (Immagine: NOAA) L’Unione Africana ha già adottato ufficialmente questa rappresentazione, mentre la Francia - sempre venerdì 4 settembre - ha fatto sapere per bocca del proprio ministro degli esteri, Jean-Noël Barrot, che d’ora in poi la diplomazia francese abbandonerà la proiezione di Mercatore in favore della proiezione Eckert IV, realizzata dal geografo tedesco Max Eckert nel 1906. Con modalità diverse, ma anche questa proiezione restituisce in modo più fedele le proporzioni reali dei continenti. Una questione di punti di vista “Qualsiasi proiezione che si utilizzi è una prospettiva, e in quanto tale un preciso punto di vista” sul mondo. Ce lo dice Paolo Mozzi, docente di Geografia Fisica e Geomorfologia all’Università di Padova. Ogni proiezione è un tentativo di rendere in due dimensioni una superficie, quella della Terra, che è curva. “Ne consegue”, continua Mozzi, “che non esiste una proiezione più giusta di un’altra: dipende dallo scopo per cui viene utilizzata la mappa prodotta con una specifica proiezione”. Le mappe più diffuse, quelle che abbiamo visto quando andavamo a scuola appese nelle aule, sono quelle che utilizzano la proiezione di Mercatore. Si tratta di un metodo matematico per svolgere sul piano la superficie terrestre messo a punto dal fiammingo Gerhard Kremer, italianizzato appunto in Mercatore, nella seconda metà del XVI secolo. Questa particolare proiezione inscrive il globo terrestre in un cilindro, nel quale vengono proiettati i punti della superficie. Vengono dette equivalenti. Queste mappe rendono maggior giustizia alla reale dimensione delle superfici e due quadratini di superficie presi a latitudini diverse saranno equivalenti, appunto. Nel caso della proiezione di Mercatore, come abbiamo visto, non è così. Quelle basate su Mercatore sono mappe conformi, cioè mappe in cui ogni angolo tra due curve che si intersecano sulla Terra viene preservato nell'immagine della proiezione. Questo particolare, come anticipato, è molto comodo se dobbiamo tracciare una rotta da navigare. La proiezione di Robinson è un compromesso, con i suoi meridiani che curvano leggermente, “ricordandoci come vediamo i meridiani su di un mappamondo”, spiega Mozzi, che sottolinea come dal suo punto di vista “la proiezione di Robinson ci risulti tutto sommato più familiare di altre”. La questione riguarda la proiezione di Gall-Peters, una tipologia di mappe equivalenti (quindi che rispettano la dimensione dei continenti), ma che tende a restituire un’immagine “stiracchiata” delle superfici. Fu proposta negli anni Settanta, proprio durante l’ondata di discussioni durante la fine dell’epoca coloniale, proprio per dare una migliore rappresentazione dei paesi che “allora venivano definiti in via di sviluppo o parte del Sud globale”. L’idea venne a uno storico, Arno Peters, che riprese una proiezione sviluppata inizialmente da un cartografo e matematico scozzese, James Gall, nel 1885. La proiezione Gall-Peters e il suo caratteristico effetto di \"stiracchiamento\" Questa storia è un indice della vitalità della ricerca e dello studio cartografico nel corso dei secoli. Per questo motivo, tra gli altri, Paolo Mozzi e alcuni colleghi hanno lanciato un progetto che mira alla catalogazione, digitalizzazione e messa a disposizione del patrimonio di mappe e carte geografiche dell’Università di Padova. Si chiama MapFly e finora ha messo a disposizione sul sito tutte le carte digitalizzate che sono libere da copyright. “Le altre sono catalogate e si trova l’indicazione di quale biblioteca o struttura dell’Università la conserva”, spiega Mozzi, che ha un sogno. “Stiamo lavorando perché tutto questo patrimonio di circa 30.000 carte geografiche e mappe venga accorpato in una cartoteca d’Ateneo”. Non si tratta solo di un progetto di conservazione del patrimonio, ma di uno strumento di ricerca potente: “le carte del passato ci raccontano com’era il territorio una volta, prima che arrivassero le immagini satellitari e Google Earth”. SOCIETÀ 27 OTTOBRE 2021 Paesaggi sonori. Il suono per mappare geografie invisibili CULTURA 10 NOVEMBRE 2016 La geografia serve a fare la guerra? SOCIETÀ 9 GIUGNO 2025 La geografia non è né mnemonica né noiosa: guardiamoci curiosamente intorno Ateneo_sito 1 Off",
+      "spokenText": "L'ONU ha raccomandato di abbandonare le carte basate sulla proiezione di Mercatore, quelle che fanno sembrare l'Africa molto più piccola di Europa e Nord America. La risoluzione, non vincolante, ha ottenuto 164 voti a favore e sei astensioni, con l'unico voto contrario degli Stati Uniti, preoccupati che la loro dimensione relativa venga ridotta. Si suggerisce invece la proiezione Equal Earth, che restituisce proporzioni più fedeli. Come spiega Paolo Mozzi, docente all'Università di Padova, ogni proiezione è un punto di vista sul mondo, un tentativo di rappresentare in due dimensioni una superficie curva.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "onu",
+        "stati uniti",
+        "paolo mozzi",
+        "universita di padova"
+      ],
+      "importance": 70,
+      "mustInclude": false,
+      "estimatedSeconds": 37,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/onu-proiezione-mercatore-mappe-equal-earth-cartografia"
+      },
+      "analysis": {
+        "mainFact": "L'ONU abbandona la proiezione di Mercatore per mappe più accurate",
+        "whyItMatters": "I voti a favore sono stati 164, con sei astensioni, mentre l’unico voto contrario è arrivato dagli Stati Uniti, preoccupati che la loro dimensione relativa venga ridotta da altre rappresentazioni cartografiche.",
+        "confirmedFacts": [
+          "L'ONU abbandona la proiezione di Mercatore per mappe più accurate",
+          "I voti a favore sono stati 164, con sei astensioni, mentre l’unico voto contrario è arrivato dagli Stati Uniti, preoccupati che la loro dimensione relativa venga ridotta da altre rappresentazioni cartografiche.",
+          "Non si tratta di una decisione vincolante, ma solo di una raccomandazione ad abbandonare le carte più diffuse oggi, quelle realizzate con la proiezione di Mercatore , che danno l’impressione che il continente africano sia molto più piccolo rispetto a Europa e Nord America.",
+          "In particolare, la raccomandazione a guida africana è di utilizzare la proiezione cosiddetta Equal Earth , che restituisce un’impressione più accurata delle aree, e quindi delle dimensioni dei continenti.",
+          "Con modalità diverse, ma anche questa proiezione restituisce in modo più fedele le proporzioni reali dei continenti.",
+          "Una questione di punti di vista “Qualsiasi proiezione che si utilizzi è una prospettiva, e in quanto tale un preciso punto di vista” sul mondo.",
+          "Ce lo dice Paolo Mozzi , docente di Geografia Fisica e Geomorfologia all’Università di Padova.",
+          "Ogni proiezione è un tentativo di rendere in due dimensioni una superficie, quella della Terra, che è curva."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "ONU",
+          "Stati Uniti",
+          "Paolo Mozzi",
+          "Università di Padova"
+        ],
+        "numbersAndDates": [
+          "164"
+        ]
+      }
+    },
+    {
+      "id": "story-69d37d47ba47d31e",
+      "title": "Trentamila nuove stelle nella superbolla di N44",
+      "summary": "La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla scavata dai venti e dalle supernove delle sue stelle centrali. Il gas espulso e compresso nel guscio circostante ha innescato una nuova e ricca formazione di oltre 30mila stelle giovani, offrendo agli astronomi un laboratorio naturale per studiare e comprendere l'origine dei sistemi stellari nell’universo primordiale",
+      "spokenText": "Si chiama N44 e al suo interno il gas si è compresso con una tale energia da innescare la nascita di oltre trentamila nuove stelle giovani. È una vera e propria fucina stellare, una superbolla che si estende per centinaia di anni luce e che oggi gli astronomi osservano come un laboratorio naturale unico nel suo genere. Studiare quello che accade dentro N44 significa infatti guardare da vicino i meccanismi che hanno portato alla formazione dei sistemi stellari nell’universo primordiale, quando le condizioni erano molto simili a quelle che vediamo adesso in questa regione turbolenta. La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla dove il gas compresso ha innescato la formazione di oltre 30mila nuove stelle giovani.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "n44",
+        "grande nube di magellano"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 48,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/09/superbolla-lmc-n44/"
+      },
+      "analysis": {
+        "mainFact": "La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla dove il gas compresso ha innescato la formazione di oltre 30mila nuove stelle giovani.",
+        "whyItMatters": "La scoperta fornisce un laboratorio naturale per studiare e comprendere l'origine dei sistemi stellari nell'universo primordiale.",
+        "confirmedFacts": [
+          "La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla dove il gas compresso ha innescato la formazione di oltre 30mila nuove stelle giovani.",
+          "La scoperta fornisce un laboratorio naturale per studiare e comprendere l'origine dei sistemi stellari nell'universo primordiale.",
+          "La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla scavata dai venti e dalle supernove delle sue stelle centrali.",
+          "Il gas espulso e compresso nel guscio circostante ha innescato una nuova e ricca formazione di oltre 30mila stelle giovani, offrendo agli astronomi un laboratorio naturale per studiare e comprendere l'origine dei sistemi stellari nell’universo primordiale"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "N44",
+          "Grande Nube di Magellano"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-dda228004541c9f2",
+      "title": "Un attacco automatico raccoglie migliaia di credenziali aziendali in meno di sei ore",
+      "summary": "Un attaccante con motivazione finanziaria ha compromesso un'infrastruttura cloud e, in meno di sei ore, ha pianificato, costruito ed eseguito da solo una campagna automatica di raccolta massiva di cre...",
+      "spokenText": "Immaginate un attaccante che compromette un’infrastruttura cloud e, nel giro di sei ore, mette in piedi una campagna automatica di raccolta massiva di credenziali usando un chatbot di coding AI come agente autonomo. È esattamente ciò che ha documentato il Google Threat Intelligence Group. Il rapporto segna il passaggio degli attaccanti dal prompting manuale a flussi di lavoro agentici, capaci di gestire da soli scansioni, troubleshooting e rotazione IP. Un framework collegato a quella campagna, chiamato Recon, ha organizzato oltre 23.800 credenziali raccolte in un’unica dashboard, comprese chiavi d’accesso a servizi cloud e AI. Ogni nuovo strato di autonomia, sia per chi attacca sia per chi difende, sposta il collo di bottiglia più a monte: non basta più controllare cosa fa un programma, bisogna controllare cosa può decidere di fare da solo un agente che lo scrive e lo distribuisce.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google threat intelligence group"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 56,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/un-attacco-automatico-raccoglie-migliaia-di-credenziali-aziendali-in-meno-di-sei-ore"
+      },
+      "analysis": {
+        "mainFact": "Un attaccante ha compromesso un'infrastruttura cloud e in meno di sei ore ha eseguito una campagna automatica di raccolta massiva di credenziali usando un chatbot di coding AI come agente autonomo.",
+        "whyItMatters": "Il rapporto segna il passaggio degli attaccanti dal prompting manuale a flussi di lavoro agentici capaci di gestire da soli scansioni, troubleshooting e rotazione IP.",
+        "confirmedFacts": [
+          "Un attaccante ha compromesso un'infrastruttura cloud e in meno di sei ore ha eseguito una campagna automatica di raccolta massiva di credenziali usando un chatbot di coding AI come agente autonomo.",
+          "Il rapporto segna il passaggio degli attaccanti dal prompting manuale a flussi di lavoro agentici capaci di gestire da soli scansioni, troubleshooting e rotazione IP.",
+          "Un framework collegato a quella campagna, chiamato Recon, ha organizzato oltre 23.800 credenziali raccolte in un'unica dashboard, comprese chiavi d'accesso a servizi cloud e AI.",
+          "Ogni nuovo strato di autonomia, sia per chi attacca sia per chi difende, sposta il collo di bottiglia più a monte: non basta più controllare cosa fa un programma, bisogna controllare cosa può decidere di fare da solo un agente che lo scrive e lo distribuisce."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Google Threat Intelligence Group"
+        ],
+        "numbersAndDates": [
+          "Un framework collegato a quella campagna, chiamato Recon, ha organizzato oltre 23.800 credenziali raccolte in un'unica dashboard, comprese chiavi d'accesso a servizi cloud e AI."
+        ]
+      }
+    },
+    {
+      "id": "story-7a8b6ab898582bb4",
+      "title": "BepiColombo dopo la separazione dell’Mtm",
+      "summary": "È avvenuta con successo alla fine della scorsa settimana la separazione del modulo di trasferimento Mtm, che ha fornito propulsione ed energia ai due orbiter di BepiColombo, partita otto anni fa e diretta verso Mercurio. Per la missione Esa/Jaxa comincia una nuova fase, che vedrà fra gli eventi chiave i primi test sugli strumenti e l’inserimento in orbita attorno al pianeta",
+      "spokenText": "Dopo otto anni di viaggio nello spazio profondo, il modulo di trasferimento Mtm si è separato con successo dai due orbiter della missione, lasciandoli finalmente liberi di procedere da soli verso Mercurio. Da qui in avanti i riflettori sono puntati sui due orbiter, che ora inizieranno i primi test approfonditi sugli strumenti scientifici di bordo. L'obiettivo è avvicinarsi progressivamente al momento clou: l'inserimento in orbita attorno a Mercurio, un pianeta roccioso ancora in gran parte enigmatico che si prepara a svelare i suoi segreti più nascosti.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "bepicolombo",
+        "esa",
+        "jaxa",
+        "mercurio"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 35,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/08/bepicolombo-separazione-modulo-trasferimento/"
+      },
+      "analysis": {
+        "mainFact": "È avvenuta con successo la separazione del modulo di trasferimento Mtm, che ha fornito propulsione ed energia ai due orbiter di BepiColombo, partita otto anni fa e diretta verso Mercurio.",
+        "whyItMatters": "Per la missione Esa/Jaxa comincia una nuova fase, che vedrà fra gli eventi chiave i primi test sugli strumenti e l’inserimento in orbita attorno al pianeta.",
+        "confirmedFacts": [
+          "È avvenuta con successo la separazione del modulo di trasferimento Mtm, che ha fornito propulsione ed energia ai due orbiter di BepiColombo, partita otto anni fa e diretta verso Mercurio.",
+          "Per la missione Esa/Jaxa comincia una nuova fase, che vedrà fra gli eventi chiave i primi test sugli strumenti e l’inserimento in orbita attorno al pianeta.",
+          "È avvenuta con successo alla fine della scorsa settimana la separazione del modulo di trasferimento Mtm, che ha fornito propulsione ed energia ai due orbiter di BepiColombo, partita otto anni fa e diretta verso Mercurio."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "BepiColombo",
+          "Esa",
+          "Jaxa",
+          "Mercurio"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-b03c0b52d42fa178",
+      "title": "Bastano cinque ore per formare la Luna",
+      "summary": "Nuove simulazioni della collisione tra la Terra e Theia mostrano che la temperatura e la resistenza dei materiali dei due corpi potrebbero aver avuto un ruolo decisivo nella formazione della Luna. In alcuni scenari, il nostro satellite potrebbe essersi formato come corpo intatto in appena cinque ore dall’impatto. I risultati su ApJ Letters",
+      "spokenText": "Suggeriscono che la Luna potrebbe essersi formata come un corpo già intatto in appena cinque ore dall'impatto.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "terra",
+        "theia",
+        "luna"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 7,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/09/10/bastano-cinque-ore-per-formare-la-luna/"
+      },
+      "analysis": {
+        "mainFact": "Nuove simulazioni mostrano che la Luna potrebbe essersi formata come corpo intatto in appena cinque ore dall'impatto tra la Terra e Theia.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Nuove simulazioni mostrano che la Luna potrebbe essersi formata come corpo intatto in appena cinque ore dall'impatto tra la Terra e Theia."
+        ],
+        "uncertainties": [
+          "Nuove simulazioni della collisione tra la Terra e Theia mostrano che la temperatura e la resistenza dei materiali dei due corpi potrebbero aver avuto un ruolo decisivo nella formazione della Luna.",
+          "In alcuni scenari, il nostro satellite potrebbe essersi formato come corpo intatto in appena cinque ore dall’impatto."
+        ],
+        "peopleAndOrganizations": [
+          "Terra",
+          "Theia",
+          "Luna"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-327a5567f554e802",
+      "title": "Audio Intelligence: Siri AI ascolta tutto su Apple Watch",
+      "summary": "Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente. The post Audio Intelligence: Siri AI ascolta tutto su Apple Watch appeared first on Punto Informatico.",
+      "spokenText": "Apple ha presentato i nuovi Watch Series 12 e Ultra 4, e con loro arrivano le funzionalità di Audio Intelligence, che saranno disponibili con watchOS 27 dal 14 settembre. premendo due volte la corona digitale, si ottiene la trascrizione degli ultimi 15 secondi e si possono fare domande a Siri AI sul contenuto. La chiave è la privacy: tutto è opt-in, quindi va attivato esplicitamente dall’utente. Inoltre, i riassunti di Siri Recap vengono cancellati dopo 7 giorni, mentre le trascrizioni di Live Rewind spariscono 30 secondi dopo la visualizzazione, se non salvate.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "apple",
+        "apple watch",
+        "siri ai"
+      ],
+      "importance": 52,
+      "mustInclude": false,
+      "estimatedSeconds": 37,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/audio-intelligence-siri-ai-ascolta-tutto-apple-watch/"
+      },
+      "analysis": {
+        "mainFact": "Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente.",
+        "whyItMatters": "i riassunti di Siri Recap sono cancellati dopo 7 giorni. Mentre le trascrizioni di Live Rewind spariscono 30 secondi dopo la visualizzazione se non salvate.",
+        "confirmedFacts": [
+          "Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente.",
+          "i riassunti di Siri Recap sono cancellati dopo 7 giorni. Mentre le trascrizioni di Live Rewind spariscono 30 secondi dopo la visualizzazione se non salvate.",
+          "Apple ha svelato ieri sera i nuovi Watch Series 12 e Ultra 4 .",
+          "Con il rilascio di watchOS 27 (14 settembre) arriveranno anche Siri AI (non in Italia) e quattro nuove funzionalità che fanno parte di Audio Intelligence .",
+          "Premendo due volte la corona digitale viene mostrata la trascrizione degli ultimi 15 secondi di conversazione e l’utente può chiedere informazioni sul contenuto a Siri AI.",
+          "Audio Intelligence: Siri AI ascolta tutto su Apple Watch Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente.",
+          "Innanzitutto sono opt-in , quindi devono essere attivate dall’utente."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Apple",
+          "Apple Watch",
+          "Siri AI"
+        ],
+        "numbersAndDates": [
+          "Apple ha svelato ieri sera i nuovi Watch Series 12 e Ultra 4 .",
+          "Con il rilascio di watchOS 27 (14 settembre) arriveranno anche Siri AI (non in Italia) e quattro nuove funzionalità che fanno parte di Audio Intelligence .",
+          "Premendo due volte la corona digitale viene mostrata la trascrizione degli ultimi 15 secondi di conversazione e l’utente può chiedere informazioni sul contenuto a Siri AI.",
+          "7",
+          "30"
+        ]
+      }
+    },
+    {
+      "id": "story-8fed0890a3595c64",
+      "title": "L'AI al posto di Google per gli acquisti, ma per pagare è un'altra storia",
+      "summary": "I consumatori usano già l'intelligenza artificiale per confrontare prodotti e restringere le proprie scelte d'acquisto, ma quando arriva il momento di pagare tornano sui siti dei venditori e completan...",
+      "spokenText": "L'intelligenza artificiale sta cambiando il modo in cui facciamo acquisti, ma non nel modo che molti si aspettavano. I consumatori usano già strumenti basati sull'IA per confrontare prodotti, leggere caratteristiche e restringere le proprie scelte. Eppure, quando arriva il momento di pagare, il comportamento cambia.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google"
+      ],
+      "importance": 52,
+      "mustInclude": false,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/lai-al-posto-di-google-per-gli-acquisti-ma-per-pagare-e-unaltra-storia"
+      },
+      "analysis": {
+        "mainFact": "I consumatori usano già l'intelligenza artificiale per confrontare prodotti e restringere le proprie scelte d'acquisto, ma quando arriva il momento di pagare tornano sui siti dei venditori e completano la transazione da soli.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "I consumatori usano già l'intelligenza artificiale per confrontare prodotti e restringere le proprie scelte d'acquisto, ma quando arriva il momento di pagare tornano sui siti dei venditori e completano la transazione da soli."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Google"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-e5b72bd6cae3371e",
+      "title": "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per",
+      "summary": "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa.",
+      "spokenText": "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa. L’accordo fornisce certezza finanziaria a lungo termine per l’impianto, che attualmente genera circa il 10% dell’elettricità della Finlandia. Alphabet, la holding che controlla Google, ha aumentato i suoi piani di spesa globale fino a 205 miliardi di dollari per espandere la capacità di calcolo destinata ai servizi di intelligenza artificiale.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google",
+        "alphabet",
+        "fortum",
+        "tiktok",
+        "kajaani",
+        "muhos",
+        "vaala",
+        "hamina",
+        "loviisa"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 30,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa.",
+          "L'accordo con Fortum fornisce certezza finanziaria a lungo termine per l'impianto di Loviisa, che attualmente genera circa il 10% dell'elettricità della Finlandia.",
+          "Alphabet, ha aumentato i suoi piani di spesa globale fino a 205 miliardi di dollari per espandere la capacità di calcolo per i servizi di IA."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Google",
+          "Alphabet",
+          "Fortum",
+          "TikTok",
+          "Kajaani",
+          "Muhos",
+          "Vaala",
+          "Hamina",
+          "Loviisa"
+        ],
+        "numbersAndDates": [
+          "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa.",
+          "L'accordo con Fortum fornisce certezza finanziaria a lungo termine per l'impianto di Loviisa, che attualmente genera circa il 10% dell'elettricità della Finlandia.",
+          "Alphabet, ha aumentato i suoi piani di spesa globale fino a 205 miliardi di dollari per espandere la capacità di calcolo per i servizi di IA.",
+          "22",
+          "50"
+        ]
+      }
+    },
+    {
+      "id": "story-26acc831061ec54d",
+      "title": "Dopo una missione di 10 giorni con i compagni di equipaggio",
+      "summary": "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima",
+      "spokenText": "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "nasa",
+        "victor glover",
+        "reid wiseman",
+        "artemis ii"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 21,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/"
+      },
+      "analysis": {
+        "mainFact": "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima",
+        "whyItMatters": "Transizione astronauti Artemis II. Implicazioni per il futuro dell'esplorazione spaziale e della tecnologia NASA.",
+        "confirmedFacts": [
+          "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima",
+          "Transizione astronauti Artemis II. Implicazioni per il futuro dell'esplorazione spaziale e della tecnologia NASA."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "Victor Glover",
+          "Reid Wiseman",
+          "Artemis II"
+        ],
+        "numbersAndDates": [
+          "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima",
+          "10",
+          "50"
+        ]
+      }
+    },
+    {
+      "id": "story-817808c8a8ea795d",
+      "title": "Nella notte trasmessa la documentazione delle due offerte pubbliche di scambio",
+      "summary": "Nella notte trasmessa la documentazione delle due offerte pubbliche di scambio. Parte il conto alla rovescia per l’iter autorizzativo",
+      "spokenText": "Banca Montepaschi ha formalmente depositato in Consob la documentazione relativa alle due offerte pubbliche di scambio volontarie aventi a oggetto Banco Bpm e Banca Generali. L’istituto ha trasmesso i prospetti informativi e ha contestualmente presentato alle autorità competenti le richieste di autorizzazione necessarie per entrambe le operazioni. Nel quadro dell’offerta riguardante la banca del Leone, il corrispettivo previsto è fissato in 6,958 azioni ordinarie di nuova emissione di Mps per ogni azione portata in adesione.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "banca montepaschi",
+        "consob",
+        "banco bpm",
+        "banca generali"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 30,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/mps-depositati-consob-documenti-offerte-banca-generali-e-bancobpm-AJxbZz8"
+      },
+      "analysis": {
+        "mainFact": "Banca Montepaschi ha depositato in Consob i documenti delle due offerte pubbliche di scambio su Banco Bpm e Banca Generali.",
+        "whyItMatters": "Sul tema di la banca del Leone, saranno invece corrisposte 6,958 azioni ordinarie di nuova emissione di Mps, che ha presentato le richieste di autorizzazione per entrambe le offerte alle autorità competenti.",
+        "confirmedFacts": [
+          "Banca Montepaschi ha depositato in Consob i documenti delle due offerte pubbliche di scambio su Banco Bpm e Banca Generali.",
+          "Sul tema di la banca del Leone, saranno invece corrisposte 6,958 azioni ordinarie di nuova emissione di Mps, che ha presentato le richieste di autorizzazione per entrambe le offerte alle autorità competenti.",
+          "Per quanto riguarda la banca del Leone, saranno invece corrisposte 6,958 azioni ordinarie di nuova emissione di Mps, che ha presentato le richieste di autorizzazione per entrambe le offerte alle autorità competenti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Banca Montepaschi",
+          "Consob",
+          "Banco Bpm",
+          "Banca Generali"
+        ],
+        "numbersAndDates": [
+          "6,958"
+        ]
+      }
+    },
+    {
+      "id": "story-c4587df484ac39e2",
+      "title": "Questo include le persone nella comunità di Khan al-Ahmar",
+      "summary": "Questo include le persone nella comunità di Khan al-Ahmar, che le autorità israeliane hanno ordinato di evacuare a maggio 2026 in vista della costruzione del nuovo insediamento.",
+      "spokenText": "A Khan al-Ahmar, nella comunità situata in un’area strategica della Cisgiordania, le autorità israeliane hanno ordinato l’evacuazione entro maggio 2026 per fare spazio alla costruzione di un nuovo insediamento. L’operazione si inserisce in un quadro più ampio: secondo i dati documentati da Peace Now, dal 2022 sono stati approvati oltre 102 nuovi insediamenti, la maggior parte dei quali in profondità nel territorio cisgiordano. A settembre 2025, annunciando nuovi progressi sul corridoio E1, il Primo Ministro Benjamin Netanyahu ha dichiarato: 'Realizzeremo la nostra promessa che non ci sarà uno Stato palestinese'. Sulla stessa linea, il ministro delle finanze Bezalel Smotrich ha aggiunto che E1 'seppellirà l’idea di uno Stato palestinese'. L’avanzata del progetto E1 e l’accelerazione delle approvazioni insediative ridisegnano la geografia dell’area, mentre la scadenza per l’evacuazione di Khan al-Ahmar segna un passaggio concreto in questa direzione.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "e1",
+        "benjamin netanyahu",
+        "bezalel smotrich",
+        "peace now"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 55,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/e1-the-illegal-settlement-at-the-heart-of-the-uks-west-bank-trade-ban-291591"
+      },
+      "analysis": {
+        "mainFact": "Questo include le persone nella comunità di Khan al-Ahmar, che le autorità israeliane hanno ordinato di evacuare a maggio 2026 in vista della costruzione del nuovo insediamento.",
+        "whyItMatters": "Insediamenti illegali in Cisgiordania e divieto commerciale UK. Implicazioni legali e diritti umani.",
+        "confirmedFacts": [
+          "Questo include le persone nella comunità di Khan al-Ahmar, che le autorità israeliane hanno ordinato di evacuare a maggio 2026 in vista della costruzione del nuovo insediamento.",
+          "Insediamenti illegali in Cisgiordania e divieto commerciale UK. Implicazioni legali e diritti umani.",
+          "Nel settembre 2025, annunciando nuovi progressi su E1, il Primo Ministro Benjamin Netanyahu ha dichiarato: 'Realizzeremo la nostra promessa che non ci sarà uno Stato palestinese'. Il suo ministro delle finanze, Bezalel Smotrich, ha anche detto che E1 'seppellirà l'idea di uno Stato palestinese'.",
+          "Peace Now, riferisce che più di 102 nuovi insediamenti sono stati approvati dal 2022, la maggior parte in profondità nella Cisgiordania."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "E1",
+          "Benjamin Netanyahu",
+          "Bezalel Smotrich",
+          "Peace Now"
+        ],
+        "numbersAndDates": [
+          "Questo include le persone nella comunità di Khan al-Ahmar, che le autorità israeliane hanno ordinato di evacuare a maggio 2026 in vista della costruzione del nuovo insediamento.",
+          "Peace Now, riferisce che più di 102 nuovi insediamenti sono stati approvati dal 2022, la maggior parte in profondità nella Cisgiordania.",
           "2026"
         ]
       }
     },
     {
-      "id": "story-23930596bd05427f",
-      "title": "Radioterapia, al Campus Bio-Medico un nuovo acceleratore adatta le cure in tempo reale",
-      "summary": "Terapia mirata grazie all'IA. Il policlinico primo nel Lazio ad attivare il dispositivo",
-      "spokenText": "Un importante passo avanti per la radioterapia oncologica arriva dal Campus Bio-Medico di Roma. Qui è entrato in funzione un nuovo acceleratore lineare che introduce una capacità finora inedita: adattare il trattamento in tempo reale, seduta dopo seduta, sulla base delle variazioni anatomiche del paziente. Si tratta della prima struttura sanitaria a Roma e nell’intero Lazio a dotarsi di questo dispositivo di ultima generazione.",
-      "category": "salute",
+      "id": "story-9f9eb5a5c42a39e5",
+      "title": "Una disputa online sulle ondate di calore di quest'estate indica un cambiamento più",
+      "summary": "Una disputa online sulle ondate di calore di quest'estate indica un cambiamento più ampio e preoccupante nella scienza del clima.",
+      "spokenText": "Una disputa online sulle ondate di calore di quest'estate sta segnalando un cambiamento più ampio e preoccupante nel modo in cui comunichiamo la scienza del clima. Questo slittamento è indicativo di una crisi di fiducia più profonda, che non coinvolge solo la climatologia.",
+      "category": "ambiente",
       "tags": [
-        "salute"
+        "ambiente"
       ],
-      "importance": 95,
+      "importance": 92,
       "mustInclude": false,
-      "estimatedSeconds": 26,
+      "estimatedSeconds": 18,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/09/07/radioterapia-al-campus-bio-medico-un-nuovo-acceleratore-adatta-le-cure-in-tempo-reale_4a392b43-d0d2-48d4-a278-4149f63846c2.html"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Radioterapia, al Campus Bio-Medico un nuovo acceleratore adatta le cure in tempo reale",
-        "whyItMatters": "È la prima struttura sanitaria a Roma e nel Lazio a mettere in funzione questo dispositivo di ultima generazione.",
+        "mainFact": "Una disputa online sulle ondate di calore di quest'estate indica un cambiamento più ampio e preoccupante nella scienza del clima.",
+        "whyItMatters": "Analisi del paradosso climatico: la riduzione dell'inquinamento accelera il riscaldamento globale. Implicazioni scientifiche e politiche enormi.",
         "confirmedFacts": [
-          "Radioterapia, al Campus Bio-Medico un nuovo acceleratore adatta le cure in tempo reale",
-          "È la prima struttura sanitaria a Roma e nel Lazio a mettere in funzione questo dispositivo di ultima generazione.",
-          "Il policlinico tra le prime strutture sanitarie in Italia e il primo ospedale a Roma e nel Lazio a mettere in funzione questo acceleratore lineare di ultima generazione."
+          "Una disputa online sulle ondate di calore di quest'estate indica un cambiamento più ampio e preoccupante nella scienza del clima.",
+          "Analisi del paradosso climatico: la riduzione dell'inquinamento accelera il riscaldamento globale. Implicazioni scientifiche e politiche enormi."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -78,558 +562,43 @@
       }
     },
     {
-      "id": "story-91039d3ab1ebd851",
-      "title": "La Sardegna sta diventando l’isola del 41-bis",
-      "summary": "La Sardegna sta diventando l’isola del 41-bis? antonio. massariolo Lun, 09/07/2026 - 12:22 8 Settembre 2026 Language Italian Antonio Massariolo Il 5 settembre scorso un aereo della Guardia di Finanza è partito da Pomezia ed è atterrato all’aeroporto militare di Decimomannu, una ventina di chilometri a nord-ovest di Cagliari. A bordo c’erano quaranta detenuti sottoposti al regime previsto dall’articolo 41-bis dell’ordinamento penitenziario. Da lì sono stati trasferiti, con un imponente dispositivo di sicurezza, nella casa circondariale di Uta, dove ad agosto era stata inaugurata una nuova sezione destinata al cosiddetto “carcere duro”. Leggi anche: 41 bis: il caso Marcello Viola e la sentenza della Corte europea dei diritti umani I nuovi arrivati dovrebbero essere solamente i primi. A regime infatti, nella nuova sezione di Uta, dovrebbero essere ospitati in totale 92 detenuti al 41-bis. Ricordiamo però anche i numeri attuali: nel sito del Ministero della Giustizia si legge che nel carcere di Uta ci sono 850 detenuti. I posti regolamentari sono 652. (function(){function e(){window. addEventListener(`message`,function(e){if(e. data[`datawrapper-height`]! ==void 0){var t=document. querySelectorAll(`iframe`);for(var n in e. data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i. contentWindow===e. source){var a=e. data[`datawrapper-height`][n]+`px`;i. style. height=a}}})}e()})(); Il loro arrivo però ha riaperto una discussione che in Sardegna va avanti ormai da mesi e che riguarda il ruolo che l’isola dovrebbe assumere nella nuova organizzazione del sistema penitenziario italiano. La Presidente della Regione Alessandra Todde ha accusato il governo di voler trasformare la Sardegna nella «Cayenna d’Italia» (in riferimento alla capitale della Guiana Francese, in cui c’era uno dei sistemi penali più duri al mondo ndr) e di procedere senza un adeguato confronto con le istituzioni locali. Leggi anche: Nelle carceri italiane la situazione non migliora: ci sono 141 detenuti ogni 100 posti disponibili Al di là dello scontro politico, però, ci sono alcuni numeri che aiutano a capire perché la questione sia diventata così rilevante. Quanti detenuti al 41-bis ci sono in Sardegna Il 41-bis è un regime penitenziario particolare, introdotto nell’ordinamento italiano nel 1986 e profondamente modificato dopo le stragi mafiose del 1992. Il suo obiettivo principale è impedire che persone appartenenti a organizzazioni criminali possano continuare a comunicare con l’esterno e mantenere rapporti operativi con le organizzazioni di appartenenza. È quindi quello che spesso viene definito “carcere duro” messo sotto la lente d’ingrandimento della Corte Europea per i Diritti dell’Uomo. Alla fine del 2025 le persone sottoposte a questo regime in Italia erano poco più di settecento. Ma dove sono rinchiuse queste persone? Ecco, a leggere i dati vediamo che la loro distribuzione sul territorio era già tutt’altro che uniforme. La Sardegna ha già da tempo un ruolo importante in merito. In un’interrogazione parlamentare, e precisamente nella seduta n. 406 del Senato avvenuta lo scorso 8 aprile, si parlava di 92 detenuti al 41-bis nella casa circondariale di Sassari-Bancali e altri 6 a Badu ’e Carros, a Nuoro. A Uta, invece, non ce n’era ancora nessuno. In cinque mesi la situazione è cambiata. Con i primi quaranta trasferimenti del 5 settembre, Uta è entrata a sua volta nel circuito del 41-bis e, quando la nuova sezione raggiungerà la capienza prevista di 92 persone, soltanto Sassari. Uta potranno ospitare complessivamente più di 180 detenuti sottoposti al regime speciale. Ma il progetto per la Sardegna è ancora più ampio. Nel dicembre del 2025 il sottosegretario di Stato per la giustizia Andrea Delmastro, allora titolare della delega al Dipartimento dell'amministrazione penitenziaria, aveva presentato alla Conferenza Stato-Regioni un piano di riorganizzazione del sistema penitenziario di massima sicurezza. Il progetto prevedeva la concentrazione dei detenuti al 41-bis in sette istituti italiani «esclusivamente dedicati». Tre di questi sette si trovano in Sardegna: Uta, Bancali e Badu ’e Carros. “Come conseguenza - si legge nel resoconto stenografico della seduta -, la Sardegna ospiterebbe fino a 260 detenuti in regime di 41-bis, pari a circa un terzo del totale nazionale”. AddEventListener(`message`,function(e){if(e. Data[`datawrapper-height`]. ==void 0){var t=document. QuerySelectorAll(`iframe`);for(var n in e. Data[`datawrapper-height`][n]+`px`;i. height=a}}})}e()})(); Perché proprio la Sardegna? La scelta non è del tutto nuova, anzi, potremmo dire che l’insularità è stata storicamente considerata un elemento utile nella gestione dei detenuti appartenenti alla criminalità organizzata, perché aggiunge una distanza geografica a quella prodotta dalle misure di isolamento previste dal regime penitenziario. Leggi anche: La storia delle \"Isole Carcere\" in un libro: da culla di biodiversità a luoghi di confino per i sapiens La Sardegna poi, ha una lunga storia da questo punto di vista. Il caso più noto è quello dell’Asinara, dove negli anni Ottanta e Novanta furono detenuti alcuni dei più importanti esponenti della criminalità organizzata italiana. Dopo le stragi di Capaci e via D’Amelio vi furono trasferiti decine di mafiosi sottoposti al regime speciale. Ma la storia dell’Asinara come isola carcere nasce ben più indietro. Lo scrive bene Valerio Calzolaio nel suo libro intitolato proprio “Isole carcere “( Gruppo Abele edizioni): “ La storia moderna del carcere dell’Asinara ebbe inizio nel 1885, con l'istituzione di una colonia penale. Durante la Prima guerra mondiale vi vennero deportati 24.000 prigionieri di guerra, soprattutto austro-ungarici\" Il piano presentato dal governo non riguarda più l’Asinara, che è stato chiuso definitivamente nel 1998, ma comunque prevede di far diventare la Sardegna il centro principale dei detenuti per mafia, tutti in soli tre istituti diversi. Una nuova geografia del carcere duro La discussione sul 41-bis in Sardegna vede, da un lato la riorganizzazione gestita dal Governo che risponde principalmente a esigenze di sicurezza e di razionalizzazione del sistema penitenziario. Dall’altra quella della Regione, che parla della trasformazione della Sardegna in una «isola-carcere». Conosciamo quindi i numeri dei detenuti al “carcere duro” che ci sono e quelli che arriveranno in Sardegna, quello che però non sappiamo sono naturalmente i nomi. Non conosciamo nemmeno chi siano i quaranta detenuti arrivati il 5 settembre a Uta. Il ministero della Giustizia non pubblica un elenco nominativo nazionale delle persone sottoposte al 41-bis e le identità diventano pubbliche soprattutto attraverso sentenze, procedimenti giudiziari e notizie di cronaca. L’obiettivo però sembra chiaro ed emerge anche dalle parole della Presidente della commissione parlamentare antimafia. “L'operazione – ha dichiarato Chiara Colosimo – conferma la validità del piano di riorganizzazione carceraria promosso dal Governo. Il percorso risponde altresì a un'esigenza da tempo sollecitata dalle Commissioni parlamentare antimafia: superare la promiscuità tra i diversi circuiti detentivi e creare poli dedicati esclusivamente al 41-bis, fondamentale garanzia per azzerare la capacità di comando dei vertici mafiosi. Il risultato finale dimostra l'alta professionalità della Polizia Penitenziaria e la costante attenzione dello Stato nella gestione della sicurezza penitenziaria”. SOCIETÀ Con il trasferimento di quaranta persone sottoposte al 41-bis nella nuova sezione del carcere di Uta, la Sardegna assume un ruolo sempre più centrale nella riorganizzazione del regime penitenziario speciale SOCIETÀ 16 APRILE 2026 Minori stranieri non accompagnati: quando l’accoglienza manca, aumenta il carcere SOCIETÀ 9 GIUGNO 2025 Nelle carceri italiane si muore sempre di più SOCIETÀ 24 DICEMBRE 2025 Il Natale nelle carceri italiane: i dati sul sovraffollamento NELLA STESSA CATEGORIA Foto di Alejandro De Roa/Pexel 1 Off",
-      "spokenText": "La Sardegna sta diventando l’isola del 41-bis. Da lì sono stati trasferiti, con un imponente dispositivo di sicurezza, nella casa circondariale di Uta, dove ad agosto era stata inaugurata una nuova sezione destinata al cosiddetto carcere duro. A regime, in questa nuova sezione, dovrebbero essere ospitati in totale 92 detenuti sottoposti a questo regime penitenziario particolare. Un regime introdotto nell’ordinamento italiano nel 1986 e profondamente modificato dopo le stragi mafiose del 1992, con l’obiettivo principale di impedire che persone appartenenti a organizzazioni criminali possano continuare a comunicare con l’esterno e mantenere rapporti operativi con le organizzazioni di appartenenza. È quindi quello che spesso viene definito carcere duro, messo sotto la lente d’ingrandimento della Corte Europea per i Diritti dell’Uomo. La Presidente della Regione Alessandra Todde ha accusato il governo di voler trasformare la Sardegna nella Cayenna d’Italia, in riferimento alla capitale della Guiana Francese dove esisteva uno dei sistemi penali più duri al mondo, e di procedere senza un adeguato confronto con le istituzioni locali. Ricordiamo però anche i numeri attuali: nel sito del Ministero della Giustizia si legge che nel carcere di Uta ci sono 850 detenuti.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "sardegna",
-        "alessandra todde",
-        "carcere di uta",
-        "41 bis"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 76,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/sardegna-sta-diventando-isola-41bis-carcere"
-      },
-      "analysis": {
-        "mainFact": "La Sardegna sta diventando l’isola del 41-bis.",
-        "whyItMatters": "Da lì sono stati trasferiti, con un imponente dispositivo di sicurezza, nella casa circondariale di Uta, dove ad agosto era stata inaugurata una nuova sezione destinata al cosiddetto “carcere duro”.",
-        "confirmedFacts": [
-          "La Sardegna sta diventando l’isola del 41-bis.",
-          "Da lì sono stati trasferiti, con un imponente dispositivo di sicurezza, nella casa circondariale di Uta, dove ad agosto era stata inaugurata una nuova sezione destinata al cosiddetto “carcere duro”.",
-          "A regime infatti, nella nuova sezione di Uta, dovrebbero essere ospitati in totale 92 detenuti al 41-bis.",
-          "Ricordiamo però anche i numeri attuali: nel sito del Ministero della Giustizia si legge che nel carcere di Uta ci sono 850 detenuti.",
-          "Quanti detenuti al 41-bis ci sono in Sardegna Il 41-bis è un regime penitenziario particolare, introdotto nell’ordinamento italiano nel 1986 e profondamente modificato dopo le stragi mafiose del 1992.",
-          "Il suo obiettivo principale è impedire che persone appartenenti a organizzazioni criminali possano continuare a comunicare con l’esterno e mantenere rapporti operativi con le organizzazioni di appartenenza.",
-          "È quindi quello che spesso viene definito “carcere duro” messo sotto la lente d’ingrandimento della Corte Europea per i Diritti dell’Uomo."
-        ],
-        "uncertainties": [
-          "La Presidente della Regione Alessandra Todde ha accusato il governo di voler trasformare la Sardegna nella «Cayenna d’Italia» (in riferimento alla capitale della Guiana Francese, in cui c’era uno dei sistemi penali più duri al mondo ndr) e di procedere senza un adeguato confronto con le istituzioni locali."
-        ],
-        "peopleAndOrganizations": [
-          "Sardegna",
-          "Alessandra Todde",
-          "Carcere di Uta",
-          "41-bis"
-        ],
-        "numbersAndDates": [
-          "A regime infatti, nella nuova sezione di Uta, dovrebbero essere ospitati in totale 92 detenuti al 41-bis.",
-          "Ricordiamo però anche i numeri attuali: nel sito del Ministero della Giustizia si legge che nel carcere di Uta ci sono 850 detenuti.",
-          "Quanti detenuti al 41-bis ci sono in Sardegna Il 41-bis è un regime penitenziario particolare, introdotto nell’ordinamento italiano nel 1986 e profondamente modificato dopo le stragi mafiose del 1992.",
-          "41"
-        ]
-      }
-    },
-    {
-      "id": "story-20d77c2ccf876ab7",
-      "title": "Canada, scattano nuovi dazi su 20 miliardi di dollari di prodotti Usa",
-      "summary": "In Canada sono entrati in vigore oggi, 8 settembre, nuovi dazi su circa 20 miliardi di dollari di importazioni dagli Stati uniti, ultima tappa dell’escalation commerciale tra i...",
-      "spokenText": "Canada, scattano nuovi dazi su 20 miliardi di dollari di prodotti Usa. La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo. Trump ha più volte affermato di voler fare del Canada il “51mo Stato” americano e ha ribadito le sue mire sulla Groenlandia, territorio autonomo legato alla Danimarca. Canada e Stati Uniti hanno la più grande relazione commerciale bilaterale del mondo, valutata quasi 900 miliardi di dollari nel 2025. Il primo ministro canadese Mark Carney annuncia che il Canada ha scelto la società tedesca TKMS per la costruzione di 12 sottomarini per la propria marina militare, presso il cantiere navale HMC di Halifax, Nuova Scozia, Canada, il 6 luglio 2026. L'azienda è una delle più grandi del paese, contribuendo con oltre 7 miliardi di dollari canadesi al PIL annuale del Canada nel 2024, secondo un rapporto commissionato da Bombardier alla società di contabilità pubblica PwC. Quanto costeranno davvero i dazi a canadesi e americani 29 agosto La guerra commerciale USA-Canada in 5 grafici 31 agosto Trump ha preso di mira il Canada in una serie di altri post su Truth Social durante il fine settimana, incluso uno che definiva \"inaccettabile\" il tasso di cambio del Canada con gli Stati Uniti.",
+      "id": "story-c10d4f43cdf8903d",
+      "title": "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021",
+      "summary": "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021, in modo tale da favorire l'AfD.",
+      "spokenText": "L'affluenza alle urne in Germania ha registrato un aumento sostanziale, raggiungendo quasi il 78%, un dato significativamente superiore a quello del 2021 che ha favorito Alternative für Deutschland. I sondaggi all'uscita dai seggi hanno rivelato come l'immigrazione sia stata una leva motivazionale decisiva per l'elettorato del partito: il 91% dei suoi sostenitori si è detto molto preoccupato per la presenza di troppe persone straniere nel Paese. Questo consenso ha mostrato una natura trasversale nella società. L'AfD ha ottenuto i risultati migliori in Sassonia-Anhalt tra gli elettori della classe lavoratrice, con il 59%, tra chi ha un livello di istruzione più basso, con il 57%, e tra coloro che percepiscono la propria situazione economica come negativa, arrivando al 65%. Tuttavia, il partito ha raccolto percentuali rispettabili anche tra i laureati, con il 30%, e tra gli elettori che considerano buona la propria condizione economica, con il 37%.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "canada",
-        "mark carney"
-      ],
-      "importance": 65,
-      "mustInclude": false,
-      "estimatedSeconds": 86,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/canada-scattano-nuovi-dazi-20-miliardi-$-import-usa-AJKA8U6"
-      },
-      "analysis": {
-        "mainFact": "Canada, scattano nuovi dazi su 20 miliardi di dollari di prodotti Usa",
-        "whyItMatters": "La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo.",
-        "confirmedFacts": [
-          "Canada, scattano nuovi dazi su 20 miliardi di dollari di prodotti Usa",
-          "La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo.",
-          "La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo 8 settembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google FOTO D'ARCHIVIO:",
-          "Trump ha più volte affermato di voler fare del Canada il “51mo Stato” americano e ha ribadito le sue mire sulla Groenlandia, territorio autonomo legato alla Danimarca.",
-          "Canada e Stati Uniti hanno la più grande relazione commerciale bilaterale del mondo, valutata quasi 900 miliardi di dollari nel 2025.",
-          "Il primo ministro canadese Mark Carney annuncia che il Canada ha scelto la società tedesca TKMS per la costruzione di 12 sottomarini per la propria marina militare, presso il cantiere navale HMC di Halifax, Nuova Scozia, Canada, il 6 luglio 2026.",
-          "L'azienda è una delle più grandi del paese, contribuendo con oltre 7 miliardi di dollari canadesi al PIL annuale del Canada nel 2024, secondo un rapporto commissionato da Bombardier alla società di contabilità pubblica PwC.",
-          "Quanto costeranno davvero i dazi a canadesi e americani 29 agosto La guerra commerciale USA-Canada in 5 grafici 31 agosto Trump ha preso di mira il Canada in una serie di altri post su Truth Social durante il fine settimana, incluso uno che definiva \"inaccettabile\" il tasso di cambio del Canada con gli Stati Uniti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Canada",
-          "Mark Carney"
-        ],
-        "numbersAndDates": [
-          "La disputa commerciale era esplosa a luglio, quando Trump aveva minacciato tariffe del 50% su alcuni prodotti canadesi in assenza di un accordo 8 settembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google FOTO D'ARCHIVIO:",
-          "Canada e Stati Uniti hanno la più grande relazione commerciale bilaterale del mondo, valutata quasi 900 miliardi di dollari nel 2025.",
-          "Il primo ministro canadese Mark Carney annuncia che il Canada ha scelto la società tedesca TKMS per la costruzione di 12 sottomarini per la propria marina militare, presso il cantiere navale HMC di Halifax, Nuova Scozia, Canada, il 6 luglio 2026.",
-          "L'azienda è una delle più grandi del paese, contribuendo con oltre 7 miliardi di dollari canadesi al PIL annuale del Canada nel 2024, secondo un rapporto commissionato da Bombardier alla società di contabilità pubblica PwC.",
-          "Quanto costeranno davvero i dazi a canadesi e americani 29 agosto La guerra commerciale USA-Canada in 5 grafici 31 agosto Trump ha preso di mira il Canada in una serie di altri post su Truth Social durante il fine settimana, incluso uno che definiva \"inaccettabile\" il tasso di cambio del Canada con gli Stati Uniti.",
-          "20",
-          "50"
-        ]
-      }
-    },
-    {
-      "id": "story-127ffed2a2820a04",
-      "title": "Le ombre cinesi di cui si parla poco",
-      "summary": "Tra surplus commerciale da record e transizione green, l'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare.",
-      "spokenText": "L'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "cina"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/economia-cina-esportazioni-consumi-interni-ombre/"
-      },
-      "analysis": {
-        "mainFact": "L'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare.",
-        "whyItMatters": "Analisi delle debolezze strutturali dell'economia cinese: consumi, deflazione, welfare. Impatto sistemico globale.",
-        "confirmedFacts": [
-          "L'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare.",
-          "Analisi delle debolezze strutturali dell'economia cinese: consumi, deflazione, welfare. Impatto sistemico globale.",
-          "Tra surplus commerciale da record e transizione green, l'economia della Cina regge agli shock esteri ma ha ombre all'interno: consumi deboli, deflazione e il nodo del welfare."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Cina"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-cb437291979a6ce8",
-      "title": "ISPRA e SNPA presentano un laboratorio galleggiante per la conoscenza e la tutela",
-      "summary": "Un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo Il mare sarà tra i protagonisti dello spazio espositivo e dei talk del SNPA dal 21 al 26 agosto al Meeting per l'amicizia fra i popoli in programma alla Fiera di Rimini; Il 25 agosto alle 11. 00 è prevista la tavola rotonda “ Un tuffo dove il mare è più blu: persone e azioni per la salvaguardia dei nostri ecosistemi marini ” con la partecipazione della Presidente ISPRA e SNPA Maria Alessandra Gallone. Si parlerà dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
-      "spokenText": "ISPRA e SNPA presentano un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo. Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini. Questa nuova infrastruttura rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA, contribuendo alla tutela della biodiversità, al monitoraggio dell’inquinamento e alla comprensione delle dinamiche del Mar Mediterraneo. ISPRA e SNPA al Meeting di Rimini 2026.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "ispra",
-        "snpa"
+        "alternative fur deutschland"
       ],
       "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 32,
+      "estimatedSeconds": 59,
       "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/a-rimini-arcadia-si-presenta-al-pubblico-al-meeting-201capproda201d-la-riproduzione-in-scala-della-nuova-nave-oceanografica-di-ispra"
+        "name": "The Conversation",
+        "url": "https://theconversation.com/germany-why-the-afd-won-in-saxony-anhalt-and-what-happens-next-291309"
       },
       "analysis": {
-        "mainFact": "ISPRA e SNPA presentano un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo.",
-        "whyItMatters": "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
+        "mainFact": "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021, in modo tale da favorire l'AfD.",
+        "whyItMatters": "Analisi della vittoria dell'estrema destra in Germania. Conseguenze sistemiche per la politica europea.",
         "confirmedFacts": [
-          "ISPRA e SNPA presentano un laboratorio galleggiante per la conoscenza e la tutela del Mediterraneo.",
-          "Si è parlato dello stato di salute del Mediterraneo, di economia blu, protezione della biodiversità marina, balneazione, monitoraggio e controllo degli ecosistemi marini.",
-          "Questa nuova infrastruttura rappresenta un passo fondamentale per il rafforzamento delle attività di ricerca marina dell’ISPRA, contribuendo alla tutela della biodiversità, al monitoraggio dell’inquinamento e alla comprensione delle dinamiche del Mar Mediterraneo.",
-          "ISPRA e SNPA al Meeting di Rimini 2026"
+          "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021, in modo tale da favorire l'AfD.",
+          "Analisi della vittoria dell'estrema destra in Germania. Conseguenze sistemiche per la politica europea.",
+          "Sostegno trasversale nella società. L'AfD ha ottenuto i risultati migliori in Sassonia-Anhalt tra gli elettori della classe lavoratrice (59%), così come tra quelli con un livello di istruzione più basso (57%) e quelli che percepivano la loro situazione economica come cattiva (65%).",
+          "Ma anche tra i laureati (30%) e gli elettori che si consideravano in una buona situazione economica (37%), l'AfD ha ottenuto risultati rispettabili.",
+          "I sondaggi all'uscita dai seggi hanno rivelato che l'immigrazione è stata un fattore motivante per gli elettori dell'AfD, con il 91% di loro che concordava con l'affermazione di essere 'molto preoccupato che troppe persone straniere vivano in Germania'."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "ISPRA",
-          "SNPA"
+          "Alternative für Deutschland"
         ],
         "numbersAndDates": [
-          "ISPRA e SNPA al Meeting di Rimini 2026"
-        ]
-      }
-    },
-    {
-      "id": "story-7cd7fd8e09f4ccc3",
-      "title": "Westerlund 2 e le sue nane brune",
-      "summary": "Identificata per la prima volta la popolazione di oggetti sub-stellari di un superammasso stellare, Westerlund 2. Il risultato, ottenuto con il James Webb Space Telescope nell’ambito del progetto Ewocs da un team guidato da Victor Almendros-Abad dell’Inaf di Palermo, è in uscita su Astronomy & Astrophysics",
-      "spokenText": "Un team guidato dall’Inaf di Palermo ha puntato il James Webb Space Telescope verso Westerlund 2, un superammasso stellare giovane e massiccio, riuscendo per la prima volta a identificare al suo interno una popolazione di nane brune. Il risultato è ora in uscita sulla rivista Astronomy & Astrophysics e segna un passo importante nella capacità di osservare le componenti più deboli degli ammassi stellari.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "westerlund 2",
-        "james webb space telescope",
-        "victor almendros abad",
-        "inaf di palermo",
-        "astronomy astrophysics"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 26,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/07/westerlund-2-nane-brune-jwst/"
-      },
-      "analysis": {
-        "mainFact": "Westerlund 2 e le sue nane brune",
-        "whyItMatters": "Il risultato, ottenuto con il James Webb Space Telescope, è in uscita su Astronomy & Astrophysics.",
-        "confirmedFacts": [
-          "Westerlund 2 e le sue nane brune",
-          "Il risultato, ottenuto con il James Webb Space Telescope, è in uscita su Astronomy & Astrophysics.",
-          "Il risultato, ottenuto con il James Webb Space Telescope nell’ambito del progetto Ewocs da un team guidato da Victor Almendros-Abad dell’Inaf di Palermo, è in uscita su Astronomy & Astrophysics"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Westerlund 2",
-          "James Webb Space Telescope",
-          "Victor Almendros-Abad",
-          "Inaf di Palermo",
-          "Astronomy & Astrophysics"
-        ],
-        "numbersAndDates": [
-          "2"
-        ]
-      }
-    },
-    {
-      "id": "story-4ee60bf8c8ac05a5",
-      "title": "Come fermare sul nascere una tempesta stellare",
-      "summary": "Ottenuta in laboratorio la prima prova sperimentale del fatto che i forti campi magnetici che circondano stelle attive possono sopprimere completamente le espulsioni coronali di massa. Il risultato, pubblicato su Physical Review Letters, aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili",
-      "spokenText": "Ottenuta in laboratorio la prima prova sperimentale del fatto che i forti campi magnetici che circondano stelle attive possono sopprimere completamente le espulsioni coronali di massa. Il risultato aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "physical review letters"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/07/cme-stellari-campi-magnetici/"
-      },
-      "analysis": {
-        "mainFact": "Ottenuta in laboratorio la prima prova sperimentale del fatto che i forti campi magnetici che circondano stelle attive possono sopprimere completamente le espulsioni coronali di massa.",
-        "whyItMatters": "Il risultato aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili.",
-        "confirmedFacts": [
-          "Ottenuta in laboratorio la prima prova sperimentale del fatto che i forti campi magnetici che circondano stelle attive possono sopprimere completamente le espulsioni coronali di massa.",
-          "Il risultato aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili.",
-          "Il risultato, pubblicato su Physical Review Letters, aiuta a comprendere perché le grandi eruzioni stellari siano osservate di rado attorno a stelle diverse dal Sole, e ha implicazioni anche per la ricerca di mondi abitabili"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Physical Review Letters"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-42cacdd58fef53a5",
-      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
-      "summary": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
-      "spokenText": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "esa",
-        "stsci",
-        "hst"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 5,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/"
-      },
-      "analysis": {
-        "mainFact": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "ESA",
-          "STScI",
-          "HST"
-        ],
-        "numbersAndDates": [
-          "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
-          "2026",
-          "8"
-        ]
-      }
-    },
-    {
-      "id": "story-92fe8c08d97396e7",
-      "title": "HUAWEI Mate XT 2: nuovo smartphone trifold con HarmonyOS 7",
-      "summary": "HUAWEI Mate XT 2 è uno smartphone trifold con schermo interno da 10,2 pollici ed esterno da 6,5 pollici, processore Kirin 9050 Pro e cinque fotocamere. The post HUAWEI Mate XT 2: nuovo smartphone trifold con HarmonyOS 7 appeared first on Punto Informatico.",
-      "spokenText": "Huawei ha presentato il Mate XT 2 Ultimate Design, un nuovo smartphone che punta su un formato trifold. Quando è completamente aperto, offre un ampio schermo OLED interno da 10,2 pollici con risoluzione 2232×3184 pixel e refresh rate variabile fino a 90 Hz. Richiuso, il display esterno è un OLED da 6,5 pollici con risoluzione 2442×1140 pixel e refresh rate fino a 120 Hz. Il dispositivo monta il processore Kirin 9050 Pro, gira con HarmonyOS 7 e integra cinque fotocamere. In un panorama dove Xiaomi propone il suo 18 Fold con schermi da 7,58 e 5,38 pollici, processore XRING O3 e fino a 1 TB di storage, Huawei continua a investire su questa particolare architettura a tre pieghe. Il nuovo Xiaomi 18 Fold ha schermi da 7,58.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "huawei"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 51,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/huawei-mate-xt-2-nuovo-smartphone-trifold-con-harmonyos-7/"
-      },
-      "analysis": {
-        "mainFact": "HUAWEI Mate XT 2 è un nuovo smartphone trifold con HarmonyOS 7.",
-        "whyItMatters": "Il nuovo Xiaomi 18 Fold ha schermi da 7,58 e 5,38 pollici, processore XRING O3, 12/16 GB di RAM, fino a 1 TB di storage e cinque fotocamere.",
-        "confirmedFacts": [
-          "HUAWEI Mate XT 2 è un nuovo smartphone trifold con HarmonyOS 7.",
-          "Il nuovo Xiaomi 18 Fold ha schermi da 7,58 e 5,38 pollici, processore XRING O3, 12/16 GB di RAM, fino a 1 TB di storage e cinque fotocamere.",
-          "HUAWEI continua punta invece a puntare su questo particolare fattore di forma con il nuovo Mate XT 2 Ultimate Design .",
-          "HUAWEI Mate XT 2: nuovo smartphone trifold con HarmonyOS 7 HUAWEI Mate XT 2 è uno smartphone trifold con schermo interno da 10,2 pollici ed esterno da 6,5 pollici, processore Kirin 9050 Pro e cinque fotocamere.",
-          "Xiaomi Pad 9 Pro Max: primo tablet con chip XRING O3 Il nuovo Xiaomi Pad 9 Pro Max è un tablet con schermo da 13,3 pollici, processore XRING O3, 8/12/16 GB di RAM, fino a 1 TB di storage e HyperOS 4. 0.",
-          "Quando completamente aperto ha uno schermo OLED interno da 10,2 pollici con risoluzione di 2232×3184 pixel e refresh rate variabile (1-90 Hz).",
-          "Lo schermo OLED esterno ha una diagonale di 6,5 pollici , una risoluzione di 2442×1140 pixel e refresh rate variabile (1-120 Hz).",
-          "Xiaomi 18 Fold: smartphone pieghevole con chip XRING O3"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "HUAWEI"
-        ],
-        "numbersAndDates": [
-          "HUAWEI continua punta invece a puntare su questo particolare fattore di forma con il nuovo Mate XT 2 Ultimate Design .",
-          "HUAWEI Mate XT 2: nuovo smartphone trifold con HarmonyOS 7 HUAWEI Mate XT 2 è uno smartphone trifold con schermo interno da 10,2 pollici ed esterno da 6,5 pollici, processore Kirin 9050 Pro e cinque fotocamere.",
-          "Xiaomi Pad 9 Pro Max: primo tablet con chip XRING O3 Il nuovo Xiaomi Pad 9 Pro Max è un tablet con schermo da 13,3 pollici, processore XRING O3, 8/12/16 GB di RAM, fino a 1 TB di storage e HyperOS 4. 0.",
-          "Quando completamente aperto ha uno schermo OLED interno da 10,2 pollici con risoluzione di 2232×3184 pixel e refresh rate variabile (1-90 Hz).",
-          "Lo schermo OLED esterno ha una diagonale di 6,5 pollici , una risoluzione di 2442×1140 pixel e refresh rate variabile (1-120 Hz).",
-          "Xiaomi 18 Fold: smartphone pieghevole con chip XRING O3",
-          "2",
-          "7",
-          "18",
-          "7,58"
-        ]
-      }
-    },
-    {
-      "id": "story-f2211899b4c76e97",
-      "title": "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31",
-      "summary": "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31 dicembre e ulteriori 13 milioni di sterline entro il 31 marzo 2027.",
-      "spokenText": "L'azienda ha accettato di versare 13 milioni di sterline alle controparti entro il 31 dicembre e un'ulteriore tranche da 13 milioni entro il 31 marzo 2027, come parte di un accordo formalizzato il 2 settembre e depositato presso la Securities and Exchange Commission degli Stati Uniti. I pagamenti chiudono una controversia legale che Grindr ha ricondotto a pratiche storiche sui dati antecedenti al 2020, periodo in cui la società era controllata dall'azienda cinese Kunlun. La vicenda affonda le radici nelle rivelazioni del 2018, quando emerse che la piattaforma aveva condiviso dati personali, incluso lo stato HIV di alcuni utenti, con due fornitori di analisi. Nel documento ufficiale la società, pur contestando le accuse, ha dichiarato di riconoscere il disagio e la perdita di fiducia manifestati da una parte degli utenti nel Regno Unito in relazione a quel periodo.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "grindr",
-        "austen hayes",
-        "kunlun"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 56,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31 dicembre e ulteriori 13 milioni di sterline entro il 31 marzo 2027.",
-        "whyItMatters": "Grindr paga 26 milioni per condivisione illecita di dati HIV, caso emblematico su privacy e diritti digitali.",
-        "confirmedFacts": [
-          "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31 dicembre e ulteriori 13 milioni di sterline entro il 31 marzo 2027.",
-          "Grindr paga 26 milioni per condivisione illecita di dati HIV, caso emblematico su privacy e diritti digitali.",
-          "Grindr ha sottolineato che le accuse riguardano 'pratiche storiche sui dati' antecedenti al 2020, quando era di proprietà dell'azienda cinese Kunlun.",
-          "Ha fatto seguito alle rivelazioni del 2018 secondo cui Grindr aveva condiviso dati personali, incluso lo stato HIV dei suoi utenti, con i due fornitori di analisi dei dati.",
-          "'Sebbene Grindr contesti le accuse, riconosce e prende atto del disagio e della perdita di fiducia espressi da alcuni dei suoi utenti nel Regno Unito riguardo a quel periodo antecedente al 2020', ha dichiarato la società nel suo documento.",
-          "Grindr effettuerà due pagamenti da 13 milioni di sterline per chiudere le accuse.",
-          "Il documento presentato alla Securities and Exchange Commission degli Stati Uniti da Grindr afferma che un accordo è stato raggiunto il 2 settembre."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Grindr",
-          "Austen Hayes",
-          "Kunlun"
-        ],
-        "numbersAndDates": [
-          "L'azienda ha accettato di pagare 13 milioni di sterline alle controparti entro il 31 dicembre e ulteriori 13 milioni di sterline entro il 31 marzo 2027.",
-          "Grindr ha sottolineato che le accuse riguardano 'pratiche storiche sui dati' antecedenti al 2020, quando era di proprietà dell'azienda cinese Kunlun.",
-          "Ha fatto seguito alle rivelazioni del 2018 secondo cui Grindr aveva condiviso dati personali, incluso lo stato HIV dei suoi utenti, con i due fornitori di analisi dei dati.",
-          "'Sebbene Grindr contesti le accuse, riconosce e prende atto del disagio e della perdita di fiducia espressi da alcuni dei suoi utenti nel Regno Unito riguardo a quel periodo antecedente al 2020', ha dichiarato la società nel suo documento.",
-          "Grindr effettuerà due pagamenti da 13 milioni di sterline per chiudere le accuse.",
-          "Il documento presentato alla Securities and Exchange Commission degli Stati Uniti da Grindr afferma che un accordo è stato raggiunto il 2 settembre.",
-          "13",
-          "31",
-          "2027"
-        ]
-      }
-    },
-    {
-      "id": "story-361d74560b09dac6",
-      "title": "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle",
-      "summary": "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane durante attacchi e incursioni dei coloni nel villaggio, insieme a un 19enne che aveva appena lasciato la scuola.",
-      "spokenText": "Durante l'estate, il villaggio di Aws al-Naasan è stato teatro di una sequenza di episodi che hanno colpito direttamente la comunità scolastica. Due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane nel corso di attacchi e incursioni condotte insieme ai coloni. Nelle stesse circostanze ha perso la vita anche un ragazzo di diciannove anni che aveva da poco lasciato la scuola. Aws al-Naasan ha spiegato che all'inizio del 2025 gli attacchi dei coloni erano pochi, grazie agli interventi dell'esercito.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "aws al naasan"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane durante attacchi e incursioni dei coloni nel villaggio, insieme a un 19enne che aveva appena lasciato la scuola.",
-        "whyItMatters": "Crescenti attacchi dei coloni minacciano l'istruzione dei bambini palestinesi. Conseguenze umanitarie sistemiche.",
-        "confirmedFacts": [
-          "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane durante attacchi e incursioni dei coloni nel villaggio, insieme a un 19enne che aveva appena lasciato la scuola.",
-          "Crescenti attacchi dei coloni minacciano l'istruzione dei bambini palestinesi. Conseguenze umanitarie sistemiche.",
-          "\"All'inizio del 2025, gli attacchi dei coloni erano pochi, a causa degli interventi dell'esercito,\" ha detto."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Aws al-Naasan"
-        ],
-        "numbersAndDates": [
-          "Durante l'estate, altri due alunni sono stati uccisi a colpi di arma da fuoco dalle forze israeliane durante attacchi e incursioni dei coloni nel villaggio, insieme a un 19enne che aveva appena lasciato la scuola.",
-          "\"All'inizio del 2025, gli attacchi dei coloni erano pochi, a causa degli interventi dell'esercito,\" ha detto."
-        ]
-      }
-    },
-    {
-      "id": "story-9c42f5098fe15f05",
-      "title": "Le accuse shock: “Netanyahu fu avvertito dagli Emirati prima del 7 ottobre. Ma non",
-      "summary": "Secondo un’inchiesta di Haaretz, il 23 settembre 2023 il presidente bin Zayed avrebbe chiamato il primo ministro israeliano per avvisarlo del rischio di un attacco da parte di Hamas, ma lui non avrebbe avvisato né i servizi segreti né i capi dell’esercito. La rivelazione mette in ulteriore difficoltà Bibi, già nel pieno della tempesta per le liste elettorali",
-      "spokenText": "Secondo un’inchiesta di Haaretz, il 23 settembre 2023 il presidente bin Zayed avrebbe chiamato il primo ministro israeliano per avvisarlo del rischio di un attacco da parte di Hamas, ma lui non avrebbe avvisato né i servizi segreti né i capi dell’esercito. L'emiro di Abu Dhabi Mohammed bin Zayed avrebbe avvertito personalmente il premier israeliano Benjamin Netanyahu, in una telefonata di 45 minuti alla fine di settembre 2023, che il leader di Hamas a Gaza Yahya Sinwar stava pianificando \"un terremoto\" contro Israele.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "benjamin netanyahu",
-        "mohammed bin zayed",
-        "hamas",
-        "yahya sinwar",
-        "haaretz",
-        "israele"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/09/08/news/israele_accuse_shock_netanyahu_fu_avvertito_da_emirati_prima_del_7_ottobre_ma_non_informo_intelligence-425571850/"
-      },
-      "analysis": {
-        "mainFact": "Secondo un’inchiesta di Haaretz, il 23 settembre 2023 il presidente bin Zayed avrebbe chiamato il primo ministro israeliano per avvisarlo del rischio di un attacco da parte di Hamas, ma lui non avrebbe avvisato né i servizi segreti né i capi dell’esercito.",
-        "whyItMatters": "Inchiesta di Haaretz, con una telefonata di 45 minuti dieci giorni prima dell'attacco",
-        "confirmedFacts": [
-          "Secondo un’inchiesta di Haaretz, il 23 settembre 2023 il presidente bin Zayed avrebbe chiamato il primo ministro israeliano per avvisarlo del rischio di un attacco da parte di Hamas, ma lui non avrebbe avvisato né i servizi segreti né i capi dell’esercito.",
-          "Inchiesta di Haaretz, con una telefonata di 45 minuti dieci giorni prima dell'attacco",
-          "L'emiro di Abu Dhabi Mohammed bin Zayed avrebbe avvertito personalmente il premier israeliano Benjamin Netanyahu, in una telefonata di 45 minuti alla fine di settembre 2023, che il leader di Hamas a Gaza Yahya Sinwar stava pianificando ''un terremoto'' contro Israele.",
-          "Lo rivela un'inchiesta di Haaretz oggi in cui vengono anticipati estratti di un nuovo libro del giornalista Shlomi Eldar sui retroscena delle trattative per la liberazione dei 251 ostaggi israeliani rapiti durante l'attacco del 7 ottobre 2023.",
-          "Emirati avvertirono Netanyahu del piano di Hamas prima del 7 ottobre",
-          "Inchiesta di Haaretz: il premier avvertito personalmente con una telefonata di 45 minuti dieci giorni prima dell'attacco"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Benjamin Netanyahu",
-          "Mohammed bin Zayed",
-          "Hamas",
-          "Yahya Sinwar",
-          "Haaretz",
-          "Israele"
-        ],
-        "numbersAndDates": [
-          "L'emiro di Abu Dhabi Mohammed bin Zayed avrebbe avvertito personalmente il premier israeliano Benjamin Netanyahu, in una telefonata di 45 minuti alla fine di settembre 2023, che il leader di Hamas a Gaza Yahya Sinwar stava pianificando ''un terremoto'' contro Israele.",
-          "Lo rivela un'inchiesta di Haaretz oggi in cui vengono anticipati estratti di un nuovo libro del giornalista Shlomi Eldar sui retroscena delle trattative per la liberazione dei 251 ostaggi israeliani rapiti durante l'attacco del 7 ottobre 2023.",
-          "Emirati avvertirono Netanyahu del piano di Hamas prima del 7 ottobre",
-          "Inchiesta di Haaretz: il premier avvertito personalmente con una telefonata di 45 minuti dieci giorni prima dell'attacco",
-          "23",
-          "2023",
-          "45"
-        ]
-      }
-    },
-    {
-      "id": "story-18e45b57712feecd",
-      "title": "Guerra Ucraina - Russia, le news. Lavrov",
-      "summary": "Dopo la tregua attacco notturno di Mosca su Kiev, Odessa e Sumy: almeno 2 morti e 7 feriti. Accusato di corruzione, si è dimesso il procuratore generale ucraino Kravtchenko",
-      "spokenText": "Odessa e Sumy con almeno 2 morti e 7 feriti. Riprendono i raid russi su Kiev dopo la tregua Il presidente ucraino, Volodymyr Zelensky, ha dichiarato di voler incontrare il presidente degli Stati Uniti Donald Trump dopo il 20 settembre per discutere della difesa antimissile dell'Ucraina. Accusato di corruzione, si è dimesso il procuratore generale ucraino Kravtchenko. Ruslan Kravchenko si è dimesso da procuratore generale dopo le accuse di corruzione. L'annuncio arriva in occasione della riunione del Gruppo di contatto per la difesa dell'Ucraina, co-presieduta dal ministro britannico Wes Streeting e dal collega tedesco Boris Pistorius, a cui partecipano quasi 50 Paesi.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "russia",
-        "ucraina",
-        "mosca",
-        "kiev",
-        "odessa",
-        "sumy",
-        "volodymyr zelensky",
-        "donald trump"
-      ],
-      "importance": 70,
-      "mustInclude": false,
-      "estimatedSeconds": 41,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/09/08/diretta/guerra_ucraina_russia_news_oggi-425571344/"
-      },
-      "analysis": {
-        "mainFact": "Odessa e Sumy con almeno 2 morti e 7 feriti.",
-        "whyItMatters": "riprendono i raid russi su Kiev dopo la tregua Il presidente ucraino, Volodymyr Zelensky, ha dichiarato di voler incontrare il presidente degli Stati Uniti Donald Trump dopo il 20 settembre per discutere della difesa antimissile dell'Ucraina.",
-        "confirmedFacts": [
-          "Odessa e Sumy con almeno 2 morti e 7 feriti.",
-          "riprendono i raid russi su Kiev dopo la tregua Il presidente ucraino, Volodymyr Zelensky, ha dichiarato di voler incontrare il presidente degli Stati Uniti Donald Trump dopo il 20 settembre per discutere della difesa antimissile dell'Ucraina.",
-          "Ruslan Kravchenko si è dimesso da procuratore generale dopo le accuse di corruzione.",
-          "L'annuncio arriva in occasione della riunione del Gruppo di contatto per la difesa dell'Ucraina, co-presieduta dal ministro britannico Wes Streeting e dal collega tedesco Boris Pistorius, a cui partecipano quasi 50 Paesi.",
-          "Odessa e Sumy 01:40 Ucraina:"
-        ],
-        "uncertainties": [
-          "Accusato di corruzione, si è dimesso il procuratore generale ucraino Kravtchenko"
-        ],
-        "peopleAndOrganizations": [
-          "Russia",
-          "Ucraina",
-          "Mosca",
-          "Kiev",
-          "Odessa",
-          "Sumy",
-          "Volodymyr Zelensky",
-          "Donald Trump"
-        ],
-        "numbersAndDates": [
-          "L'annuncio arriva in occasione della riunione del Gruppo di contatto per la difesa dell'Ucraina, co-presieduta dal ministro britannico Wes Streeting e dal collega tedesco Boris Pistorius, a cui partecipano quasi 50 Paesi.",
-          "Odessa e Sumy 01:40 Ucraina:",
-          "2",
-          "7",
-          "20"
-        ]
-      }
-    },
-    {
-      "id": "story-a5e4ed038508841b",
-      "title": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
-      "summary": "A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack. Cos’è, come viene utilizza e quali sono gli effetti desiderati non sono questioni che possono prescindere dal contesto socio-politico ed economico attuale, oltre che da considerazioni più strettamente bio-chimiche, così come chiedersi quando prioritariamente lo stesso si affaccia sulla scena del consumo negli Stati Uniti e perché, sono domande complesse a cui questo contributo prova a rispondere, proponendo riflessioni complesse.",
-      "spokenText": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80. A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "italia",
-        "stati uniti"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 17,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/crack-droghe-italia-usa-fentanyl-narcotraffico/"
-      },
-      "analysis": {
-        "mainFact": "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
-        "whyItMatters": "A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack.",
-        "confirmedFacts": [
-          "Oltre il fentanyl: l’onda lunga del crack dagli Stati Uniti degli anni ’80",
-          "A rendere più complesso il quadro del consumo/dipendenza da sostanze psicotrope (legali e illegali) in Italia, e non solo, vi è una sempre più dilagante emergenza da crack."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Italia",
-          "Stati Uniti"
-        ],
-        "numbersAndDates": [
-          "80"
+          "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021, in modo tale da favorire l'AfD.",
+          "Sostegno trasversale nella società. L'AfD ha ottenuto i risultati migliori in Sassonia-Anhalt tra gli elettori della classe lavoratrice (59%), così come tra quelli con un livello di istruzione più basso (57%) e quelli che percepivano la loro situazione economica come cattiva (65%).",
+          "Ma anche tra i laureati (30%) e gli elettori che si consideravano in una buona situazione economica (37%), l'AfD ha ottenuto risultati rispettabili.",
+          "I sondaggi all'uscita dai seggi hanno rivelato che l'immigrazione è stata un fattore motivante per gli elettori dell'AfD, con il 91% di loro che concordava con l'affermazione di essere 'molto preoccupato che troppe persone straniere vivano in Germania'.",
+          "78",
+          "2021"
         ]
       }
     }
