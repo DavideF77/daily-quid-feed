@@ -1,604 +1,641 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-09-10-d7738276b6dd",
-  "generatedAt": "2026-09-10T09:21:27.144Z",
+  "catalogId": "daily-quid-2026-10-28-d33adf1271d2",
+  "generatedAt": "2026-10-28T22:32:11.001Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-32929403f7502b8a",
-      "title": "Famiglia di quattro persone muore in un attacco israeliano a Gaza, anche 2 bimbi",
-      "summary": "Fonti mediche, 'uccisi coi genitori due bambini di 8 e 12 anni'",
-      "spokenText": "Una coppia e i loro due figli, di 12 e 8 anni, sono rimasti uccisi in un attacco israeliano a Gaza. Lo scrive l'Agenzia France Presse, citando fonti mediche e della sicurezza palestinese. Fonti mediche, 'uccisi coi genitori due bambini di 8 e 12 anni'. \"I corpi di quattro membri della famiglia Ahmad sono stati recuperati straziati dopo che un attacco israeliano ha colpito un'abitazione nell'area del 'Beit Lahia Project', nella Striscia di Gaza settentrionale\", ha dichiarato il funzionario. Un funzionario dell'ospedale Al-Shifa di Gaza City ha precisato che tra le vittime ci sono due bambini, di 12 e 8 anni.",
-      "category": "mondo",
+      "id": "story-4fd138dcf3ac43a5",
+      "title": "Emissioni zero: l’Europa promette ma poi non mantiene",
+      "summary": "Fissare il traguardo ma cancellare la strada per raggiungerlo: come l'Europa sta allentando le regole sul clima.",
+      "spokenText": "Fissare il traguardo ma cancellare la strada per raggiungerlo: è questa la direzione che l'Europa sta prendendo sul clima, allentando le regole previste. La legge europea sul clima stabilisce una riduzione netta delle emissioni di gas serra del 55 per cento entro il 2030 rispetto ai livelli del 1990, del 90 per cento entro il 2040 e la neutralità climatica nel 2050. Tuttavia, emerge un cambio di passo tra la Commissione von der Leyen 1 e la Commissione von der Leyen 2. L'analisi evidenzia come l'Europa, pur promettendo emissioni zero, stia di fatto non mantenendo gli impegni presi.",
+      "category": "ambiente",
       "tags": [
-        "mondo",
-        "gaza",
-        "israele",
-        "famiglia ahmad"
+        "ambiente",
+        "europa",
+        "commissione von der leyen 1",
+        "commissione von der leyen 2",
+        "ecco",
+        "valigia blu",
+        "marta lovisolo"
       ],
-      "importance": 70,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 41,
+      "estimatedSeconds": 40,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/famiglia-di-quattro-persone-muore-in-un-attacco-israeliano-a-gaza-anche-2-bimbi_4d97222b-9e06-4032-8303-d2bfb24e6bcb.html"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/europa-emissioni-zero-fallimento-green-deal/"
       },
       "analysis": {
-        "mainFact": "Una coppia e i loro due figli, di 12 e 8 anni, sono rimasti uccisi in un attacco israeliano a Gaza.",
-        "whyItMatters": "Lo scrive l'Agenzia France Presse, citando fonti mediche e della sicurezza palestinese.",
+        "mainFact": "Fissare il traguardo ma cancellare la strada per raggiungerlo: come l'Europa sta allentando le regole sul clima.",
+        "whyItMatters": "La legge europea sul clima fissa una riduzione netta delle emissioni di gas serra del 55 per cento entro il 2030 rispetto ai livelli del 1990, del 90 per cento entro il 2040 e la neutralità climatica nel 2050.",
         "confirmedFacts": [
-          "Una coppia e i loro due figli, di 12 e 8 anni, sono rimasti uccisi in un attacco israeliano a Gaza.",
-          "Lo scrive l'Agenzia France Presse, citando fonti mediche e della sicurezza palestinese.",
-          "Fonti mediche, 'uccisi coi genitori due bambini di 8 e 12 anni'",
-          "\"I corpi di quattro membri della famiglia Ahmad sono stati recuperati straziati dopo che un attacco israeliano ha colpito un'abitazione nell'area del 'Beit Lahia Project', nella Striscia di Gaza settentrionale\", ha dichiarato il funzionario.",
-          "Un funzionario dell'ospedale Al-Shifa di Gaza City ha precisato che tra le vittime ci sono due bambini, di 12 e 8 anni.",
-          "Famiglia di quattro persone muore in un attacco israeliano a Gaza",
-          "Anche Al Jazeera, citando una fonte medica, riporta che quattro persone palestinesi sono morte e altre sono rimaste ferite in un attacco delle forze israeliane fuori dalle aree di schieramento di Israele a nord di Gaza."
+          "Fissare il traguardo ma cancellare la strada per raggiungerlo: come l'Europa sta allentando le regole sul clima.",
+          "La legge europea sul clima fissa una riduzione netta delle emissioni di gas serra del 55 per cento entro il 2030 rispetto ai livelli del 1990, del 90 per cento entro il 2040 e la neutralità climatica nel 2050.",
+          "Emissioni zero: l’Europa promette ma poi non mantiene",
+          "“L’Europa ha chiaramente fatto un cambio di passo tra la Commissione von der Leyen 1 e la Commissione von der Leyen 2”, osserva a Valigia Blu Marta Lovisolo, Senior Advocacy Advisor del think tank ECCO , che si occupa di cambiamento climatico e transizione energetica."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Gaza",
-          "Israele",
-          "famiglia Ahmad"
+          "Europa",
+          "Commissione von der Leyen 1",
+          "Commissione von der Leyen 2",
+          "ECCO",
+          "Valigia Blu",
+          "Marta Lovisolo"
         ],
         "numbersAndDates": [
-          "Fonti mediche, 'uccisi coi genitori due bambini di 8 e 12 anni'",
-          "Un funzionario dell'ospedale Al-Shifa di Gaza City ha precisato che tra le vittime ci sono due bambini, di 12 e 8 anni.",
-          "12",
-          "8"
+          "“L’Europa ha chiaramente fatto un cambio di passo tra la Commissione von der Leyen 1 e la Commissione von der Leyen 2”, osserva a Valigia Blu Marta Lovisolo, Senior Advocacy Advisor del think tank ECCO , che si occupa di cambiamento climatico e transizione energetica.",
+          "55",
+          "2030",
+          "1990",
+          "90",
+          "2040",
+          "2050"
         ]
       }
     },
     {
-      "id": "story-da46a58d06c777a0",
-      "title": "Boom dei chip di Taiwan, +53% di vendite ad agosto per Tsmc",
-      "summary": "Continua la corsa incessante agli investimenti in intelligenza artificiale. Taiwan Semiconductor Manufacturing Co. ha registrato ad agosto un aumento del 53,3% delle vendite rispetto allo stesso mese del 2025, mentre...",
-      "spokenText": "Taiwan Semiconductor Manufacturing Co. Ha chiuso agosto con un balzo delle vendite del cinquantatré virgola tre per cento rispetto allo stesso mese del duemilaventicinque. Un dato che arriva mentre gli analisti, in media, prevedono per il trimestre in corso una crescita del fatturato del quarantasei virgola otto per cento. Il vice direttore operativo di TSMC, Cliff Hou, ha spiegato di recente che la società sta cercando di realizzare e attrezzare circa venti stabilimenti, tra Taiwan e l’estero. Un’accelerazione notevole se si pensa che in passato l’azienda lavorava normalmente a quattro o cinque nuovi impianti in contemporanea.",
-      "category": "altro",
+      "id": "story-c4c112d9e9b44214",
+      "title": "Piano Ue di resilienza, parametri armonizzati sul riscaldamento climatico",
+      "summary": "BRUXELLES – La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico. Tra le altre cose, Bruxelles ha proposto un...",
+      "spokenText": "Martedì 27 ottobre, la Commissione europea ha presentato un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico.",
+      "category": "ambiente",
       "tags": [
-        "altro",
-        "taiwan semiconductor manufacturing co",
-        "taiwan"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 39,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/boom-chip-taiwan-53percento-vendite-ad-agosto-tsmc-AJLW3v8"
-      },
-      "analysis": {
-        "mainFact": "Taiwan Semiconductor Manufacturing Co. Ha registrato ad agosto un aumento del 53,3% delle vendite rispetto allo stesso mese del 2025.",
-        "whyItMatters": "In media, gli analisti prevedono una crescita delle vendite del 46,8% per il trimestre in corso.",
-        "confirmedFacts": [
-          "Taiwan Semiconductor Manufacturing Co. Ha registrato ad agosto un aumento del 53,3% delle vendite rispetto allo stesso mese del 2025.",
-          "In media, gli analisti prevedono una crescita delle vendite del 46,8% per il trimestre in corso.",
-          "L’azienda taiwanese sta cercando di realizzare e attrezzare circa 20 stabilimenti, sia in patria sia all’estero, mentre in passato lavorava solitamente a quattro o cinque nuovi impianti contemporaneamente: è quanto ha spiegato recentemente Cliff Hou, vice direttore operativo di TSMC."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Taiwan Semiconductor Manufacturing Co.",
-          "Taiwan"
-        ],
-        "numbersAndDates": [
-          "L’azienda taiwanese sta cercando di realizzare e attrezzare circa 20 stabilimenti, sia in patria sia all’estero, mentre in passato lavorava solitamente a quattro o cinque nuovi impianti contemporaneamente: è quanto ha spiegato recentemente Cliff Hou, vice direttore operativo di TSMC.",
-          "53,3",
-          "2025",
-          "46,8"
-        ]
-      }
-    },
-    {
-      "id": "story-29732696abd09874",
-      "title": "L'ONU abbandona la proiezione di Mercatore per mappe più accurate",
-      "summary": "L'ONU abbandona la proiezione di Mercatore per mappe più accuratemarco. boscolo Mar, 09/08/2026 - 16:52 9 Settembre 2026 Language Italian Marco Boscolo Il 4 settembre 2026, l’Assemblea delle Nazioni Unite ha votato a favore di una risoluzione che promuove proiezioni cartografiche che riflettano in modo più accurato le dimensioni reali dei continenti. Non si tratta di una decisione vincolante, ma solo di una raccomandazione ad abbandonare le carte più diffuse oggi, quelle realizzate con la proiezione di Mercatore, che danno l’impressione che il continente africano sia molto più piccolo rispetto a Europa e Nord America. I voti a favore sono stati 164, con sei astensioni, mentre l’unico voto contrario è arrivato dagli Stati Uniti, preoccupati che la loro dimensione relativa venga ridotta da altre rappresentazioni cartografiche. In particolare, la raccomandazione a guida africana è di utilizzare la proiezione cosiddetta Equal Earth, che restituisce un’impressione più accurata delle aree, e quindi delle dimensioni dei continenti. SOCIETÀ Come si ottiene la proiezione di Mercatore (Immagine: NOAA) L’Unione Africana ha già adottato ufficialmente questa rappresentazione, mentre la Francia - sempre venerdì 4 settembre - ha fatto sapere per bocca del proprio ministro degli esteri, Jean-Noël Barrot, che d’ora in poi la diplomazia francese abbandonerà la proiezione di Mercatore in favore della proiezione Eckert IV, realizzata dal geografo tedesco Max Eckert nel 1906. Con modalità diverse, ma anche questa proiezione restituisce in modo più fedele le proporzioni reali dei continenti. Una questione di punti di vista “Qualsiasi proiezione che si utilizzi è una prospettiva, e in quanto tale un preciso punto di vista” sul mondo. Ce lo dice Paolo Mozzi, docente di Geografia Fisica e Geomorfologia all’Università di Padova. Ogni proiezione è un tentativo di rendere in due dimensioni una superficie, quella della Terra, che è curva. “Ne consegue”, continua Mozzi, “che non esiste una proiezione più giusta di un’altra: dipende dallo scopo per cui viene utilizzata la mappa prodotta con una specifica proiezione”. Le mappe più diffuse, quelle che abbiamo visto quando andavamo a scuola appese nelle aule, sono quelle che utilizzano la proiezione di Mercatore. Si tratta di un metodo matematico per svolgere sul piano la superficie terrestre messo a punto dal fiammingo Gerhard Kremer, italianizzato appunto in Mercatore, nella seconda metà del XVI secolo. Questa particolare proiezione inscrive il globo terrestre in un cilindro, nel quale vengono proiettati i punti della superficie. Vengono dette equivalenti. Queste mappe rendono maggior giustizia alla reale dimensione delle superfici e due quadratini di superficie presi a latitudini diverse saranno equivalenti, appunto. Nel caso della proiezione di Mercatore, come abbiamo visto, non è così. Quelle basate su Mercatore sono mappe conformi, cioè mappe in cui ogni angolo tra due curve che si intersecano sulla Terra viene preservato nell'immagine della proiezione. Questo particolare, come anticipato, è molto comodo se dobbiamo tracciare una rotta da navigare. La proiezione di Robinson è un compromesso, con i suoi meridiani che curvano leggermente, “ricordandoci come vediamo i meridiani su di un mappamondo”, spiega Mozzi, che sottolinea come dal suo punto di vista “la proiezione di Robinson ci risulti tutto sommato più familiare di altre”. La questione riguarda la proiezione di Gall-Peters, una tipologia di mappe equivalenti (quindi che rispettano la dimensione dei continenti), ma che tende a restituire un’immagine “stiracchiata” delle superfici. Fu proposta negli anni Settanta, proprio durante l’ondata di discussioni durante la fine dell’epoca coloniale, proprio per dare una migliore rappresentazione dei paesi che “allora venivano definiti in via di sviluppo o parte del Sud globale”. L’idea venne a uno storico, Arno Peters, che riprese una proiezione sviluppata inizialmente da un cartografo e matematico scozzese, James Gall, nel 1885. La proiezione Gall-Peters e il suo caratteristico effetto di \"stiracchiamento\" Questa storia è un indice della vitalità della ricerca e dello studio cartografico nel corso dei secoli. Per questo motivo, tra gli altri, Paolo Mozzi e alcuni colleghi hanno lanciato un progetto che mira alla catalogazione, digitalizzazione e messa a disposizione del patrimonio di mappe e carte geografiche dell’Università di Padova. Si chiama MapFly e finora ha messo a disposizione sul sito tutte le carte digitalizzate che sono libere da copyright. “Le altre sono catalogate e si trova l’indicazione di quale biblioteca o struttura dell’Università la conserva”, spiega Mozzi, che ha un sogno. “Stiamo lavorando perché tutto questo patrimonio di circa 30.000 carte geografiche e mappe venga accorpato in una cartoteca d’Ateneo”. Non si tratta solo di un progetto di conservazione del patrimonio, ma di uno strumento di ricerca potente: “le carte del passato ci raccontano com’era il territorio una volta, prima che arrivassero le immagini satellitari e Google Earth”. SOCIETÀ 27 OTTOBRE 2021 Paesaggi sonori. Il suono per mappare geografie invisibili CULTURA 10 NOVEMBRE 2016 La geografia serve a fare la guerra? SOCIETÀ 9 GIUGNO 2025 La geografia non è né mnemonica né noiosa: guardiamoci curiosamente intorno Ateneo_sito 1 Off",
-      "spokenText": "L'ONU ha raccomandato di abbandonare le carte basate sulla proiezione di Mercatore, quelle che fanno sembrare l'Africa molto più piccola di Europa e Nord America. La risoluzione, non vincolante, ha ottenuto 164 voti a favore e sei astensioni, con l'unico voto contrario degli Stati Uniti, preoccupati che la loro dimensione relativa venga ridotta. Si suggerisce invece la proiezione Equal Earth, che restituisce proporzioni più fedeli. Come spiega Paolo Mozzi, docente all'Università di Padova, ogni proiezione è un punto di vista sul mondo, un tentativo di rappresentare in due dimensioni una superficie curva.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "onu",
-        "stati uniti",
-        "paolo mozzi",
-        "universita di padova"
-      ],
-      "importance": 70,
-      "mustInclude": false,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/onu-proiezione-mercatore-mappe-equal-earth-cartografia"
-      },
-      "analysis": {
-        "mainFact": "L'ONU abbandona la proiezione di Mercatore per mappe più accurate",
-        "whyItMatters": "I voti a favore sono stati 164, con sei astensioni, mentre l’unico voto contrario è arrivato dagli Stati Uniti, preoccupati che la loro dimensione relativa venga ridotta da altre rappresentazioni cartografiche.",
-        "confirmedFacts": [
-          "L'ONU abbandona la proiezione di Mercatore per mappe più accurate",
-          "I voti a favore sono stati 164, con sei astensioni, mentre l’unico voto contrario è arrivato dagli Stati Uniti, preoccupati che la loro dimensione relativa venga ridotta da altre rappresentazioni cartografiche.",
-          "Non si tratta di una decisione vincolante, ma solo di una raccomandazione ad abbandonare le carte più diffuse oggi, quelle realizzate con la proiezione di Mercatore , che danno l’impressione che il continente africano sia molto più piccolo rispetto a Europa e Nord America.",
-          "In particolare, la raccomandazione a guida africana è di utilizzare la proiezione cosiddetta Equal Earth , che restituisce un’impressione più accurata delle aree, e quindi delle dimensioni dei continenti.",
-          "Con modalità diverse, ma anche questa proiezione restituisce in modo più fedele le proporzioni reali dei continenti.",
-          "Una questione di punti di vista “Qualsiasi proiezione che si utilizzi è una prospettiva, e in quanto tale un preciso punto di vista” sul mondo.",
-          "Ce lo dice Paolo Mozzi , docente di Geografia Fisica e Geomorfologia all’Università di Padova.",
-          "Ogni proiezione è un tentativo di rendere in due dimensioni una superficie, quella della Terra, che è curva."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ONU",
-          "Stati Uniti",
-          "Paolo Mozzi",
-          "Università di Padova"
-        ],
-        "numbersAndDates": [
-          "164"
-        ]
-      }
-    },
-    {
-      "id": "story-69d37d47ba47d31e",
-      "title": "Trentamila nuove stelle nella superbolla di N44",
-      "summary": "La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla scavata dai venti e dalle supernove delle sue stelle centrali. Il gas espulso e compresso nel guscio circostante ha innescato una nuova e ricca formazione di oltre 30mila stelle giovani, offrendo agli astronomi un laboratorio naturale per studiare e comprendere l'origine dei sistemi stellari nell’universo primordiale",
-      "spokenText": "Si chiama N44 e al suo interno il gas si è compresso con una tale energia da innescare la nascita di oltre trentamila nuove stelle giovani. È una vera e propria fucina stellare, una superbolla che si estende per centinaia di anni luce e che oggi gli astronomi osservano come un laboratorio naturale unico nel suo genere. Studiare quello che accade dentro N44 significa infatti guardare da vicino i meccanismi che hanno portato alla formazione dei sistemi stellari nell’universo primordiale, quando le condizioni erano molto simili a quelle che vediamo adesso in questa regione turbolenta. La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla dove il gas compresso ha innescato la formazione di oltre 30mila nuove stelle giovani.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "n44",
-        "grande nube di magellano"
+        "ambiente",
+        "commissione europea",
+        "europa"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 48,
+      "estimatedSeconds": 8,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/09/superbolla-lmc-n44/"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/piano-ue-resilienza-parametri-armonizzati-riscaldamento-climatico-AJNxE3vB"
       },
       "analysis": {
-        "mainFact": "La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla dove il gas compresso ha innescato la formazione di oltre 30mila nuove stelle giovani.",
-        "whyItMatters": "La scoperta fornisce un laboratorio naturale per studiare e comprendere l'origine dei sistemi stellari nell'universo primordiale.",
+        "mainFact": "La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico.",
+        "whyItMatters": "Piano Ue resilienza e parametri riscaldamento climatico.",
         "confirmedFacts": [
-          "La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla dove il gas compresso ha innescato la formazione di oltre 30mila nuove stelle giovani.",
-          "La scoperta fornisce un laboratorio naturale per studiare e comprendere l'origine dei sistemi stellari nell'universo primordiale.",
-          "La nebulosa N44 nella Grande Nube di Magellano ospita una superbolla scavata dai venti e dalle supernove delle sue stelle centrali.",
-          "Il gas espulso e compresso nel guscio circostante ha innescato una nuova e ricca formazione di oltre 30mila stelle giovani, offrendo agli astronomi un laboratorio naturale per studiare e comprendere l'origine dei sistemi stellari nell’universo primordiale"
+          "La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico.",
+          "Piano Ue resilienza e parametri riscaldamento climatico.",
+          "BRUXELLES – La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico.",
+          "Si stima che tra il 2022 e il 2025 le perdite economiche provocate in Europa dal cambiamento climatico siano ammontate a 200 miliardi di euro."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "N44",
-          "Grande Nube di Magellano"
+          "Commissione europea",
+          "Europa"
+        ],
+        "numbersAndDates": [
+          "27"
+        ]
+      }
+    },
+    {
+      "id": "story-f863d11646f8cda0",
+      "title": "Dal pancreas artificiale al caldo estremo, le nuove sfide del diabete in gravidanza",
+      "summary": "Il tema al congresso della Sid, focus anche sui nuovi farmaci anti-obesità",
+      "spokenText": "Dal pancreas artificiale al caldo estremo, le nuove sfide del diabete in gravidanza. Circa il 6-7% delle gravidanze in Italia è complicato da una forma di diabete. Ad ampliare la conversazione contribuiscono anche il riscaldamento globale, l'arrivo di farmaci rivoluzionari contro diabete e obesità (quelli basati sul Glp-1), i progressi del pancreas artificiale e le nuove conoscenze sui meccanismi biologici che influenzano la salute di mamma e bambino. Un ruolo crescente nella gestione del diabete in gravidanza è riconosciuto alle tecnologie. Tra queste, le linee guida Ese-Endocrine Society suggeriscono, nel diabete di tipo 1, l'impiego di sistemi ibridi di somministrazione automatizzata dell'insulina ('pancreas artificiale'), sotto la guida di equipe esperta. Un altro aspetto riguarda l'aumento del rischio di diabete gestazionale nelle donne esposte a temperature elevate, con alcuni studi osservazionali che suggeriscono un aumento del rischio 28% soprattutto in determinate fasi della gravidanza. \"Anche quando la glicemia torna normale dopo il parto, le donne con diabete gestazionale mantengono un rischio significativamente aumentato di sviluppare diabete tipo 2 negli anni successivi\", conclude Succurro.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "glp 1",
+        "ese endocrine society",
+        "succurro"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 69,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/diabete/2026/10/28/dal-pancreas-artificiale-al-caldo-estremo-le-nuove-sfide-del-diabete-in-gravidanza_47f07aba-9b00-4524-b36f-42a2e4cd10fd.html"
+      },
+      "analysis": {
+        "mainFact": "Dal pancreas artificiale al caldo estremo, le nuove sfide del diabete in gravidanza.",
+        "whyItMatters": "Circa il 6-7% delle gravidanze in Italia è complicato da una forma di diabete.",
+        "confirmedFacts": [
+          "Dal pancreas artificiale al caldo estremo, le nuove sfide del diabete in gravidanza.",
+          "Circa il 6-7% delle gravidanze in Italia è complicato da una forma di diabete.",
+          "ad ampliare la conversazione contribuiscono anche il riscaldamento globale, l'arrivo di farmaci rivoluzionari contro diabete e obesità (quelli basati sul Glp-1), i progressi del pancreas artificiale e le nuove conoscenze sui meccanismi biologici che influenzano la salute di mamma e bambino.",
+          "Un ruolo crescente nella gestione del diabete in gravidanza è riconosciuto alle tecnologie. Tra queste, le linee guida Ese-Endocrine Society suggeriscono, nel diabete di tipo 1, l'impiego di sistemi ibridi di somministrazione automatizzata dell'insulina ('pancreas artificiale'), sotto la guida di equipe esperta.",
+          "Un altro aspetto riguarda l'aumento del rischio di diabete gestazionale nelle donne esposte a temperature elevate, con alcuni studi osservazionali che suggeriscono un aumento del rischio 28% soprattutto in determinate fasi della gravidanza.",
+          "\"Anche quando la glicemia torna normale dopo il parto, le donne con diabete gestazionale mantengono un rischio significativamente aumentato di sviluppare diabete tipo 2 negli anni successivi\", conclude Succurro."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Glp-1",
+          "Ese-Endocrine Society",
+          "Succurro"
+        ],
+        "numbersAndDates": [
+          "ad ampliare la conversazione contribuiscono anche il riscaldamento globale, l'arrivo di farmaci rivoluzionari contro diabete e obesità (quelli basati sul Glp-1), i progressi del pancreas artificiale e le nuove conoscenze sui meccanismi biologici che influenzano la salute di mamma e bambino.",
+          "Un ruolo crescente nella gestione del diabete in gravidanza è riconosciuto alle tecnologie. Tra queste, le linee guida Ese-Endocrine Society suggeriscono, nel diabete di tipo 1, l'impiego di sistemi ibridi di somministrazione automatizzata dell'insulina ('pancreas artificiale'), sotto la guida di equipe esperta.",
+          "Un altro aspetto riguarda l'aumento del rischio di diabete gestazionale nelle donne esposte a temperature elevate, con alcuni studi osservazionali che suggeriscono un aumento del rischio 28% soprattutto in determinate fasi della gravidanza.",
+          "\"Anche quando la glicemia torna normale dopo il parto, le donne con diabete gestazionale mantengono un rischio significativamente aumentato di sviluppare diabete tipo 2 negli anni successivi\", conclude Succurro.",
+          "6",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "story-5ead1d971fff6e86",
+      "title": "Tumori del seno e della prostata, la solidarietà sostiene la ricerca del Gemelli",
+      "summary": "Terzo Charity Gala Dinner, raccolti 532mila euro per i due progetti oncologici",
+      "spokenText": "Il momento più atteso è stato l'annuncio della raccolta fondi: 532.000 euro destinati a sostenere i due progetti oncologici dei Gemelli.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "gemelli"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 9,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/10/28/tumori-del-seno-e-della-prostata-la-solidarieta-sostiene-la-ricerca-del-gemelli_d1db1eef-a832-4c31-957d-191c0fe1df23.html"
+      },
+      "analysis": {
+        "mainFact": "Il momento più atteso è stato l'annuncio della raccolta fondi: 532.000 euro destinati a sostenere i due progetti oncologici.",
+        "whyItMatters": "Raccolta fondi per ricerca oncologica, rilevante per salute e diritti.",
+        "confirmedFacts": [
+          "Il momento più atteso è stato l'annuncio della raccolta fondi: 532.000 euro destinati a sostenere i due progetti oncologici.",
+          "Raccolta fondi per ricerca oncologica, rilevante per salute e diritti.",
+          "Il momento pi atteso stato l'annuncio della raccolta fondi: 532.000 euro destinati a sostenere i due progetti oncologici."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Gemelli"
+        ],
+        "numbersAndDates": [
+          "532.000"
+        ]
+      }
+    },
+    {
+      "id": "story-43e97d25beb5a650",
+      "title": "Serbia, gli studenti hanno vinto. Ora arriva la parte più difficile: cambiare il sistema",
+      "summary": "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne. Una vittoria storica, nata dalla richiesta di giustizia per le sedici vittime di Novi Sad. Ora la sfida sarà ricostruire le istituzioni di un paese segnato da quattordici anni di potere concentrato nelle mani di un solo uomo.",
+      "spokenText": "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne in Serbia. Tutto era cominciato come una richiesta di giustizia per le sedici persone morte a Novi Sad, ma si è trasformato in una mobilitazione capace di mettere fine a quattordici anni di potere concentrato nelle mani di un solo uomo. Alla chiusura dei seggi, alle otto di sera, l'affluenza sfiorava il 70 per cento, il livello più alto dalla dissoluzione della Jugoslavia. Per gli studenti, invece, quella vittoria rappresenta il risultato di quasi due anni di manifestazioni, occupazioni universitarie, marce e di una mobilitazione civile senza precedenti.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "aleksandar vucic",
+        "serbia",
+        "novi sad"
+      ],
+      "importance": 70,
+      "mustInclude": false,
+      "estimatedSeconds": 42,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/serbia-elezioni-studenti-sistema-vucic/"
+      },
+      "analysis": {
+        "mainFact": "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne.",
+        "whyItMatters": "Quello che era cominciato come una richiesta di giustizia per sedici persone morte a Novi Sad si è trasformato in un movimento capace di sconfiggere il partito che governava la Serbia dal 2012.",
+        "confirmedFacts": [
+          "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne.",
+          "Quello che era cominciato come una richiesta di giustizia per sedici persone morte a Novi Sad si è trasformato in un movimento capace di sconfiggere il partito che governava la Serbia dal 2012.",
+          "Ora la sfida sarà ricostruire le istituzioni di un paese segnato da quattordici anni di potere concentrato nelle mani di un solo uomo.",
+          "Dopo quasi due anni di proteste, tensioni e scontri, si temeva che la notte elettorale potesse trasformarsi in una nuova occasione di violenza.",
+          "Aleksandar Vučić, l'uomo che aveva dominato la politica serba per quattordici anni, è apparso davanti alle telecamere e ha ammesso la sconfitta.",
+          "Per gli studenti, invece, quella vittoria rappresenta il risultato di quasi due anni di manifestazioni, occupazioni universitarie, marce e di una mobilitazione civile senza precedenti.",
+          "Vučić ha ripetutamente sostenuto che dietro le proteste ci fossero interessi intenzionati a destabilizzare il paese.",
+          "Alla chiusura dei seggi, alle otto di sera, l'affluenza sfiorava il 70 per cento, il livello più alto dalla dissoluzione della Jugoslavia."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Aleksandar Vučić",
+          "Serbia",
+          "Novi Sad"
+        ],
+        "numbersAndDates": [
+          "Alla chiusura dei seggi, alle otto di sera, l'affluenza sfiorava il 70 per cento, il livello più alto dalla dissoluzione della Jugoslavia.",
+          "2012"
+        ]
+      }
+    },
+    {
+      "id": "story-0fc5f5ecf3edb9ab",
+      "title": "Il PNRR ha effettivamente agevolato l’avvio della transizione ecologica",
+      "summary": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane. Ne abbiamo parlato con uno degli autori dello studio &ldquo;Does the National Recovery and Resilience Plan Speed Up Firms&rsquo; Twin Transition? Empirical Evidence from Italy&rdquo; uscito sulla rivista della Società Italiana di Economia.",
+      "spokenText": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane. A spiegarlo è Giovanni Ferri, professore ordinario di economia all'Università LUMSA, che ha analizzato l'effetto del piano sull'avvio congiunto della transizione digitale e di quella verde, la cosiddetta twin transition. Le imprese impegnate nella twin transition hanno inoltre registrato una probabilità di resilienza, intesa come capacità di evitare cali di fatturato, superiore di quasi alcuni aspetti percentuali rispetto a quelle che non hanno fatto alcuna transizione, e una probabilità di crescita del fatturato superiore di circa alcuni aspetti. Ferri ha poi valutato la continuità, chiedendosi se il PNRR abbia aiutato le imprese già impegnate nella doppia transizione a proseguire nel percorso. L'avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un'impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, un risultato statisticamente significativo.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "pnrr",
+        "giovanni ferri",
+        "universita lumsa"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 62,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/pnrr-effettivamente-agevolato-avvio-transizione-ecologica/"
+      },
+      "analysis": {
+        "mainFact": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane.",
+        "whyItMatters": "L'avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un'impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, un risultato statisticamente significativo.",
+        "confirmedFacts": [
+          "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane.",
+          "L'avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un'impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, un risultato statisticamente significativo.",
+          "Il PNRR ha effettivamente agevolato l’avvio della transizione ecologica",
+          "Giovanni Ferri, professore ordinario di economia all’Università LUMSA.",
+          "Misura soprattutto l’effetto sull’avvio congiunto della transizione digitale e di quella verde, la cosiddetta twin transition .",
+          "Rispetto alle imprese che non hanno fatto alcuna transizione, quelle impegnate nella twin transition hanno registrato una probabilità di resilienza (cioè di evitare cali di fatturato, ecc. ) superiore di quasi alcuni aspetti percentuali e una probabilità di crescita del fatturato superiore di circa alcuni aspetti.",
+          "Poi abbiamo valutato la continuità: il PNRR ha aiutato a proseguire le imprese già impegnate nella doppia transizione?"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "PNRR",
+          "Giovanni Ferri",
+          "Università LUMSA"
+        ],
+        "numbersAndDates": [
+          "Rispetto alle imprese che non hanno fatto alcuna transizione, quelle impegnate nella twin transition hanno registrato una probabilità di resilienza (cioè di evitare cali di fatturato, ecc. ) superiore di quasi alcuni aspetti percentuali e una probabilità di crescita del fatturato superiore di circa alcuni aspetti.",
+          "5,6",
+          "6,"
+        ]
+      }
+    },
+    {
+      "id": "story-b02aea2f9258ec64",
+      "title": "Stati Generali della Green Economy 2026",
+      "summary": "Gli Stati Generali della Green Economy, l’appuntamento annuale della green economy italiana, sono promossi dalla Fondazione per lo sviluppo sostenibile in collaborazione con il Ministero dell’Ambiente e della sicurezza energetica, con il patrocinio della Commissione europea e del Ministero delle Imprese e del Made in Italy . Sono il punto di riferimento per migliaia di imprese, e non solo. Tra il 2012 e il 2025 hanno coinvolto più di 9000 stakeholder. Giunti alla XV edizione, gli Stati Generali della Green Economy sono quest’anno dedicati al tema “I fattori internazionali di spinta alla Green Economy in un contesto geopolitico critico” e si terranno il 3 e 4 novembre 2026, ospitati all’interno di Italian Exhibition Group – Ecomondo – Rimini Expo Center.",
+      "spokenText": "Giunti alla XV edizione, gli Stati Generali della Green Economy sono quest'anno dedicati al tema 'I fattori internazionali di spinta alla Green Economy in un contesto geopolitico critico'. L'appuntamento è per il 3 e 4 novembre 2026, all'interno di Italian Exhibition Group – Ecomondo – Rimini Expo Center. Tra il 2012 e il 2025, l'evento ha coinvolto più di 9000 stakeholder, confermandosi punto di riferimento per migliaia di imprese. Il 4 novembre, alla sessione 'La geopolitica della green economy: una finestra sul mondo', è prevista la partecipazione della Presidente ISPRA, Maria Alessandra Gallone.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "italian exhibition group ecomondo rimini expo ce"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 38,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/stati-generali-della-green-economy-2026"
+      },
+      "analysis": {
+        "mainFact": "Giunti alla XV edizione, gli Stati Generali della Green Economy sono quest’anno dedicati al tema “I fattori internazionali di spinta alla Green Economy in un contesto geopolitico critico” e si terranno il 3 e 4 novembre 2026, ospitati all’interno di Italian Exhibition Group – Ecomondo – Rimini Expo Center.",
+        "whyItMatters": "Tra il 2012 e il 2025 hanno coinvolto più di 9000 stakeholder.",
+        "confirmedFacts": [
+          "Giunti alla XV edizione, gli Stati Generali della Green Economy sono quest’anno dedicati al tema “I fattori internazionali di spinta alla Green Economy in un contesto geopolitico critico” e si terranno il 3 e 4 novembre 2026, ospitati all’interno di Italian Exhibition Group – Ecomondo – Rimini Expo Center.",
+          "Tra il 2012 e il 2025 hanno coinvolto più di 9000 stakeholder.",
+          "Sono il punto di riferimento per migliaia di imprese, e non solo.",
+          "Quando dal 03/11/2026 al 04/11/2026 (Europe/Berlin / UTC100) Dove Rimini Aggiungi l'evento al calendario iCal Il 4 novembre alla sessione \" La geopolitica della green economy: una finestra sul mondo\" è prevista la partecipazione della Presidente ISPRA, Maria Alessandra Gallone Programma"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Italian Exhibition Group – Ecomondo – Rimini Expo Center"
+        ],
+        "numbersAndDates": [
+          "Quando dal 03/11/2026 al 04/11/2026 (Europe/Berlin / UTC100) Dove Rimini Aggiungi l'evento al calendario iCal Il 4 novembre alla sessione \" La geopolitica della green economy: una finestra sul mondo\" è prevista la partecipazione della Presidente ISPRA, Maria Alessandra Gallone Programma",
+          "3",
+          "4",
+          "2026",
+          "2012",
+          "2025",
+          "9000"
+        ]
+      }
+    },
+    {
+      "id": "story-9ab9cbf54ad5572a",
+      "title": "L'AMOC rallenta: si \"vede\" da satellite",
+      "summary": "Diminuisce lo scambio di calore tra oceano e atmosfera nell'Atlantico: un indizio dell'indebolimento dell'AMOC, che mitiga il clima europeo.",
+      "spokenText": "L'AMOC rallenta e lo si vede dallo spazio. Uno studio basato su rilevazioni satellitari dal 1985 al 2023 ha documentato un calo dello scambio di calore tra le acque dell'Atlantico e l'atmosfera terrestre. I ricercatori, stimando il flusso medio della corrente per decennio e confrontando i dati del primo periodo con quelli successivi, hanno concluso che l'AMOC è rallentata del 14% in trent'anni. Questo sistema distribuisce calore in tutto il Pianeta: quando l'acqua si raffredda nell'Atlantico settentrionale, cede parte dell'energia termica all'atmosfera, mitigando il clima dell'Europa occidentale e settentrionale. È proprio grazie a questa dinamica che esiste una differenza di circa 11 gradi tra le temperature invernali medie di Roma e Chicago, sebbene le due città si trovino a latitudini simili. La riduzione del calore rilasciato dall'oceano all'atmosfera rappresenta quindi un indizio concreto dell'indebolimento dell'AMOC, con possibili conseguenze per gli inverni miti in Europa. 28 ottobre 2026 Elisabetta Intini Tag ambiente - amoc - capovolgimento meridionale della circolazione atlantica - oceano atlantico - groenlandia - fusione dei ghiacci - cambiamenti climatici - da satellite - clima - corrente del golfo - correnti oceaniche - emissioni di CO2.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "amoc",
+        "atlantico",
+        "europa",
+        "roma",
+        "chicago"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 75,
+      "source": {
+        "name": "Focus",
+        "url": "https://www.focus.it/ambiente/ecologia/rallenta-il-sistema-di-correnti-oceaniche-amoc-dai-satelliti-la-prova-piu-convincente"
+      },
+      "analysis": {
+        "mainFact": "L'AMOC rallenta: si \"vede\" da satellite",
+        "whyItMatters": "Diminuisce lo scambio di calore tra oceano e atmosfera nell'Atlantico: un indizio dell'indebolimento dell'AMOC, che mitiga il clima europeo.",
+        "confirmedFacts": [
+          "L'AMOC rallenta: si \"vede\" da satellite",
+          "Diminuisce lo scambio di calore tra oceano e atmosfera nell'Atlantico: un indizio dell'indebolimento dell'AMOC, che mitiga il clima europeo.",
+          "Ecologia La corrente dell'Atlantico (AMOC) sta rallentando: la conferma arriva dai satelliti Uno studio condotto con dati satellitari dal 1985 al 2023 ha registrato un calo del calore rilasciato dall'oceano all'atmosfera: l'AMOC rallentata del 14% in trent'anni, con seri rischi per gli inverni miti in Europa.",
+          "Uno studio basato su rilevazioni satellitari ha osservato una riduzione dello scambio di calore tra le acque dell'Atlantico e l'atmosfera terrestre negli ultimi 40 anni.",
+          "L'AMOC il motivo della differenza di circa 11 C tra le temperature invernali medie di Roma e Chicago, che pure si trovano a latitudini simili.",
+          "Dopo aver stimato il flusso medio dell'AMOC per decennio, confrontando i dati del primo decennio con quelli successivi, i ricercatori hanno concluso che l'AMOC rallentata del 14% in 30 anni .",
+          "28 ottobre 2026 Elisabetta Intini Tag ambiente - amoc - capovolgimento meridionale della circolazione atlantica - oceano atlantico - groenlandia - fusione dei ghiacci - cambiamenti climatici - da satellite - clima - corrente del golfo - correnti oceaniche - emissioni di CO2",
+          "Questo sistema distribuisce calore in tutto il Pianeta ed un importante regolatore del clima terrestre: quando l'acqua si raffredda nell'Atlantico settentrionale, cede parte dell'energia termica all'atmosfera , mitigando il clima dell'Europa occidentale e settentrionale."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "AMOC",
+          "Atlantico",
+          "Europa",
+          "Roma",
+          "Chicago"
+        ],
+        "numbersAndDates": [
+          "Ecologia La corrente dell'Atlantico (AMOC) sta rallentando: la conferma arriva dai satelliti Uno studio condotto con dati satellitari dal 1985 al 2023 ha registrato un calo del calore rilasciato dall'oceano all'atmosfera: l'AMOC rallentata del 14% in trent'anni, con seri rischi per gli inverni miti in Europa.",
+          "Uno studio basato su rilevazioni satellitari ha osservato una riduzione dello scambio di calore tra le acque dell'Atlantico e l'atmosfera terrestre negli ultimi 40 anni.",
+          "L'AMOC il motivo della differenza di circa 11 C tra le temperature invernali medie di Roma e Chicago, che pure si trovano a latitudini simili.",
+          "Dopo aver stimato il flusso medio dell'AMOC per decennio, confrontando i dati del primo decennio con quelli successivi, i ricercatori hanno concluso che l'AMOC rallentata del 14% in 30 anni .",
+          "28 ottobre 2026 Elisabetta Intini Tag ambiente - amoc - capovolgimento meridionale della circolazione atlantica - oceano atlantico - groenlandia - fusione dei ghiacci - cambiamenti climatici - da satellite - clima - corrente del golfo - correnti oceaniche - emissioni di CO2"
+        ]
+      }
+    },
+    {
+      "id": "story-43dd91bfbf3eab06",
+      "title": "Il ghiaccio sporco della cometa interstellare 3I/Atlas",
+      "summary": "Un nuovo studio condotto con il telescopio spaziale James Webb analizza i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato. La combinazione tra ghiaccio d’acqua e polveri refrattarie rivela una parentela inaspettata con i corpi della Fascia di Kuiper e suggerisce un processo universale di formazione dei planetesimi",
+      "spokenText": "Il telescopio spaziale James Webb ha analizzato i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato, la cometa 3I/Atlas. L'osservazione ha messo in luce una composizione particolare, dove il ghiaccio d'acqua si mescola a polveri refrattarie. Questa combinazione rivela una parentela inaspettata con i corpi della Fascia di Kuiper e suggerisce un processo universale di formazione dei planetesimi.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "telescopio spaziale james webb",
+        "cometa interstellare 3i atlas",
+        "fascia di kuiper"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 24,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/10/28/il-ghiaccio-sporco-della-cometa-interstellare-3i-atlas/"
+      },
+      "analysis": {
+        "mainFact": "Un nuovo studio condotto con il telescopio spaziale James Webb analizza i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato.",
+        "whyItMatters": "La combinazione tra ghiaccio d’acqua e polveri refrattarie rivela una parentela inaspettata con i corpi della Fascia di Kuiper e suggerisce un processo universale di formazione dei planetesimi.",
+        "confirmedFacts": [
+          "Un nuovo studio condotto con il telescopio spaziale James Webb analizza i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato.",
+          "La combinazione tra ghiaccio d’acqua e polveri refrattarie rivela una parentela inaspettata con i corpi della Fascia di Kuiper e suggerisce un processo universale di formazione dei planetesimi.",
+          "Il ghiaccio sporco della cometa interstellare 3I/Atlas"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "telescopio spaziale James Webb",
+          "cometa interstellare 3I/Atlas",
+          "Fascia di Kuiper"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-dda228004541c9f2",
-      "title": "Un attacco automatico raccoglie migliaia di credenziali aziendali in meno di sei ore",
-      "summary": "Un attaccante con motivazione finanziaria ha compromesso un'infrastruttura cloud e, in meno di sei ore, ha pianificato, costruito ed eseguito da solo una campagna automatica di raccolta massiva di cre...",
-      "spokenText": "Immaginate un attaccante che compromette un’infrastruttura cloud e, nel giro di sei ore, mette in piedi una campagna automatica di raccolta massiva di credenziali usando un chatbot di coding AI come agente autonomo. È esattamente ciò che ha documentato il Google Threat Intelligence Group. Il rapporto segna il passaggio degli attaccanti dal prompting manuale a flussi di lavoro agentici, capaci di gestire da soli scansioni, troubleshooting e rotazione IP. Un framework collegato a quella campagna, chiamato Recon, ha organizzato oltre 23.800 credenziali raccolte in un’unica dashboard, comprese chiavi d’accesso a servizi cloud e AI. Ogni nuovo strato di autonomia, sia per chi attacca sia per chi difende, sposta il collo di bottiglia più a monte: non basta più controllare cosa fa un programma, bisogna controllare cosa può decidere di fare da solo un agente che lo scrive e lo distribuisce.",
+      "id": "story-c23c570f318d0862",
+      "title": "MacBook Pro, ecco il modello con Display touch PROLED XDR",
+      "summary": "Apple ha presentato il nuovo MacBook Pro, un modello che segna una svolta profonda nella storia dei portatili professionali del marchio. La novit&agrave; pi&ugrave; evidente riguarda lo schermo, ribat...",
+      "spokenText": "Apple ha presentato il nuovo MacBook Pro, un modello che segna una svolta profonda nella storia dei portatili professionali del marchio. Il dispositivo rappresenta un punto di svolta per l'azienda, ridefinendo gli standard della categoria professionale e consolidando ulteriormente la posizione di Apple nel settore dei computer portatili.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "google threat intelligence group"
+        "apple",
+        "macbook pro"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/hardware/macbook-pro-ecco-il-modello-con-display-touch-proled-xdr-2026-10-28"
+      },
+      "analysis": {
+        "mainFact": "Apple ha presentato il nuovo MacBook Pro, un modello che segna una svolta profonda nella storia dei portatili professionali del marchio.",
+        "whyItMatters": "Nuovo MacBook Pro con display innovativo, rilevante per tecnologia e industria.",
+        "confirmedFacts": [
+          "Apple ha presentato il nuovo MacBook Pro, un modello che segna una svolta profonda nella storia dei portatili professionali del marchio.",
+          "Nuovo MacBook Pro con display innovativo, rilevante per tecnologia e industria."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Apple",
+          "MacBook Pro"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-08b542ece514396c",
+      "title": "Reionizzazione: non supernove ma giovani stelle",
+      "summary": "Pare non siano stati i venti generati dalle supernove a favorire la reionizzazione dell’universo primordiale. Dati raccolti con Hubble mostrano infatti che le galassie con i venti più veloci lasciano sfuggire meno radiazione ionizzante. Secondo i risultati, pubblicati su Nature Astronomy, sarebbe la radiazione proveniente dalle stelle giovani a fuoriuscire prima delle esplosioni di supernova, e in maniera più efficace",
+      "spokenText": "Pare non siano stati i venti generati dalle supernove a favorire la reionizzazione dell'universo primordiale. Secondo i risultati pubblicati su Nature Astronomy, sarebbe invece la radiazione proveniente dalle giovani stelle a fuoriuscire prima delle esplosioni di supernova, in maniera più efficace. I dati raccolti con Hubble mostrano infatti che le galassie con i venti più veloci lasciano sfuggire meno radiazione ionizzante.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "supernove",
+        "giovani stelle",
+        "nature astronomy"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 25,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/10/28/reionizzazione-stelle-giovani-vs-supernove/"
+      },
+      "analysis": {
+        "mainFact": "Reionizzazione: non supernove ma giovani stelle",
+        "whyItMatters": "Dati raccolti con Hubble mostrano infatti che le galassie con i venti più veloci lasciano sfuggire meno radiazione ionizzante.",
+        "confirmedFacts": [
+          "Reionizzazione: non supernove ma giovani stelle",
+          "Dati raccolti con Hubble mostrano infatti che le galassie con i venti più veloci lasciano sfuggire meno radiazione ionizzante.",
+          "Pare non siano stati i venti generati dalle supernove a favorire la reionizzazione dell’universo primordiale."
+        ],
+        "uncertainties": [
+          "Secondo i risultati, pubblicati su Nature Astronomy, sarebbe la radiazione proveniente dalle stelle giovani a fuoriuscire prima delle esplosioni di supernova, e in maniera più efficace"
+        ],
+        "peopleAndOrganizations": [
+          "supernove",
+          "giovani stelle",
+          "Nature Astronomy"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-19af6f59895f3520",
+      "title": "L'IA di Google che funziona senza internet",
+      "summary": "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud: ecco come l'IA \"on-device\" (per ora solo su Mac) garantisce privacy e autonomia anche offline.",
+      "spokenText": "Google lancia Foresight, un'applicazione di intelligenza artificiale che funziona direttamente sul computer senza bisogno di connessione a internet. Per ora disponibile solo su Mac, l'app elabora riunioni, appunti e documenti personali in locale, evitando l'invio dei dati al cloud e garantendo maggiore privacy e autonomia anche offline. Il sistema è basato principalmente su Gemma 4 e, in particolare, su EmbeddingGemma 2, un modello Google da 740 milioni di parametri progettato per dispositivi relativamente piccoli. In pratica, mentre due o più persone parlano, l'applicazione crea una trascrizione sul computer e permette all'utente di prendere appunti sintetici in tempo reale: una nota come \"consegna venerdì\" può essere arricchita automaticamente con i dettagli recuperati da quanto detto pochi istanti prima. 28 ottobre 2026 Simone Valtieri Tag tecnologia - ia - google - intelligenza artificiale - computer - offline.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google",
+        "foresight",
+        "gemma 4",
+        "embeddinggemma 2",
+        "mac"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 54,
+      "source": {
+        "name": "Focus",
+        "url": "https://www.focus.it/tecnologia/innovazione/google-lancia-ia-che-funziona-senza-internet-come-lavora-foresight-direttamente-sul-computer"
+      },
+      "analysis": {
+        "mainFact": "L'IA di Google che funziona senza internet",
+        "whyItMatters": "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud, garantendo privacy e autonomia anche offline.",
+        "confirmedFacts": [
+          "L'IA di Google che funziona senza internet",
+          "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud, garantendo privacy e autonomia anche offline.",
+          "Innovazione Google lancia l'IA che funziona senza internet: l'app Foresight lavora direttamente sul computer Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud: ecco come l'IA \"on-device\" (per ora solo su Mac) garantisce privacy e autonomia anche offline.",
+          "28 ottobre 2026 Simone Valtieri Tag tecnologia - ia - google - intelligenza artificiale - computer - offline",
+          "Mentre due o pi persone parlano, l'app crea sul computer una trascrizione e permette all'utente di prendere velocemente appunti sintetici: una nota come \"consegna venerd \", per esempio, pu essere arricchita automaticamente con i dettagli recuperati da ci che stato detto pochi istanti prima.",
+          "Il lavoro viene svolto principalmente da Gemma 4 e, soprattutto, da EmbeddingGemma 2 , un modello Google da 740 milioni di parametri progettato proprio per funzionare su dispositivi relativamente piccoli."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Google",
+          "Foresight",
+          "Gemma 4",
+          "EmbeddingGemma 2",
+          "Mac"
+        ],
+        "numbersAndDates": [
+          "28 ottobre 2026 Simone Valtieri Tag tecnologia - ia - google - intelligenza artificiale - computer - offline",
+          "Il lavoro viene svolto principalmente da Gemma 4 e, soprattutto, da EmbeddingGemma 2 , un modello Google da 740 milioni di parametri progettato proprio per funzionare su dispositivi relativamente piccoli."
+        ]
+      }
+    },
+    {
+      "id": "story-54c1badf2dab2521",
+      "title": "Legge di bilancio da 26 miliardi",
+      "summary": "Legge di bilancio da 26 miliardi. Accordo nella maggioranza sul fisco. Da banche e assicurazioni contributo da 5 miliardi. Rinvio per il decreto bollette",
+      "spokenText": "La legge di bilancio vale 26 miliardi di euro. Si tratta della quinta manovra del governo Meloni, che si inserisce nel solco delle precedenti e concentra tutte le risorse sulle priorità indicate dal centrodestra: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, imprese e salute. Tra le misure previste, c'è un taglio Irpef fino a 55mila euro, con circa 500 euro l'anno per il ceto medio, e la flat tax per gli autonomi fino a 100mila euro. Salta invece lo sconto sulla tredicesima, mentre il bonus casa è confermato al 50%. Le misure verranno dettagliate durante la conversione in Parlamento. Tra i capitoli di spesa, il contributo da banche e assicurazioni ammonta a 5 miliardi, mentre la proposta leghista per il pensionamento a 64 anni costa 1,6 miliardi.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "governo meloni",
+        "banche",
+        "assicurazioni",
+        "parlamento"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 53,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/economia/2026/10/28/news/manovra_cdm_meloni_misure_taglio_irpef_banche_bonus-425681765/"
+      },
+      "analysis": {
+        "mainFact": "Legge di bilancio da 26 miliardi.",
+        "whyItMatters": "Manovra da 26 miliardi, taglio Irpef fino a 55mila euro.",
+        "confirmedFacts": [
+          "Legge di bilancio da 26 miliardi.",
+          "Manovra da 26 miliardi, taglio Irpef fino a 55mila euro.",
+          "La quinta manovra del governo Meloni mette insieme 26 miliardi e si inserisce nel solco delle precedenti, concentrando tutte le risorse su quelle che il centrodestra considera le priorità: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, imprese, salute.",
+          "Per approfondire Agenzia ANSA Al ceto medio 500 euro l'anno, flat tax per gli autonomi fino a 100mila euro - Notizie - Ansa. it Salta lo sconto sulla tredicesima, bonus casa confermato al 50% (ANSA) Il conto sale rispetto alle tabelle del Dpb che indicavano interventi per 23,5 miliardi.",
+          "le misure però verranno dettagliate durante la conversione in Parlamento e la proposta leghista di pensionamento 64 anni costa il doppio, 1,6 miliardi.",
+          "Da banche e assicurazioni contributo da 5 miliardi."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "governo Meloni",
+          "banche",
+          "assicurazioni",
+          "Parlamento"
+        ],
+        "numbersAndDates": [
+          "La quinta manovra del governo Meloni mette insieme 26 miliardi e si inserisce nel solco delle precedenti, concentrando tutte le risorse su quelle che il centrodestra considera le priorità: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, imprese, salute.",
+          "Per approfondire Agenzia ANSA Al ceto medio 500 euro l'anno, flat tax per gli autonomi fino a 100mila euro - Notizie - Ansa. it Salta lo sconto sulla tredicesima, bonus casa confermato al 50% (ANSA) Il conto sale rispetto alle tabelle del Dpb che indicavano interventi per 23,5 miliardi.",
+          "le misure però verranno dettagliate durante la conversione in Parlamento e la proposta leghista di pensionamento 64 anni costa il doppio, 1,6 miliardi.",
+          "Da banche e assicurazioni contributo da 5 miliardi.",
+          "26"
+        ]
+      }
+    },
+    {
+      "id": "story-6a5f05b9013b0743",
+      "title": "La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime",
+      "summary": "La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime. In Israele, manca una maggioranza chiara per il rinnovo della Knesset. Il petrolio è in rialzo e il gas supera i 100 euro per la prima volta dal 2022",
+      "spokenText": "La banca centrale americana ha lasciato i tassi d'interesse invariati al 3,75%-4%, in linea con le stime. La decisione è stata presa con 10 voti a favore e 2 contrari, mentre lo scorso 16 settembre l'istituto aveva alzato i tassi per la prima volta dal luglio 2023. Sul piano energetico, il gas supera i 100 euro al megawattora per la prima volta dal 2022, con il Brent che corre sui 116 dollari al barile. I timori di una crisi energetica, uniti all'attesa per la decisione della banca centrale americana e all'incertezza sul voto israeliano che si è concluso senza una maggioranza chiara per il rinnovo della Knesset, hanno suggerito prudenza ai listini del Vecchio Continente, che hanno chiuso in ordine sparso. Wall Street chiude invece positiva, mentre a Milano si registra un +0,4% con lo sprint di Stellantis.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "banca centrale americana",
+        "wall street",
+        "milano",
+        "stellantis",
+        "knesset"
       ],
       "importance": 95,
       "mustInclude": false,
       "estimatedSeconds": 56,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/un-attacco-automatico-raccoglie-migliaia-di-credenziali-aziendali-in-meno-di-sei-ore"
-      },
-      "analysis": {
-        "mainFact": "Un attaccante ha compromesso un'infrastruttura cloud e in meno di sei ore ha eseguito una campagna automatica di raccolta massiva di credenziali usando un chatbot di coding AI come agente autonomo.",
-        "whyItMatters": "Il rapporto segna il passaggio degli attaccanti dal prompting manuale a flussi di lavoro agentici capaci di gestire da soli scansioni, troubleshooting e rotazione IP.",
-        "confirmedFacts": [
-          "Un attaccante ha compromesso un'infrastruttura cloud e in meno di sei ore ha eseguito una campagna automatica di raccolta massiva di credenziali usando un chatbot di coding AI come agente autonomo.",
-          "Il rapporto segna il passaggio degli attaccanti dal prompting manuale a flussi di lavoro agentici capaci di gestire da soli scansioni, troubleshooting e rotazione IP.",
-          "Un framework collegato a quella campagna, chiamato Recon, ha organizzato oltre 23.800 credenziali raccolte in un'unica dashboard, comprese chiavi d'accesso a servizi cloud e AI.",
-          "Ogni nuovo strato di autonomia, sia per chi attacca sia per chi difende, sposta il collo di bottiglia più a monte: non basta più controllare cosa fa un programma, bisogna controllare cosa può decidere di fare da solo un agente che lo scrive e lo distribuisce."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google Threat Intelligence Group"
-        ],
-        "numbersAndDates": [
-          "Un framework collegato a quella campagna, chiamato Recon, ha organizzato oltre 23.800 credenziali raccolte in un'unica dashboard, comprese chiavi d'accesso a servizi cloud e AI."
-        ]
-      }
-    },
-    {
-      "id": "story-7a8b6ab898582bb4",
-      "title": "BepiColombo dopo la separazione dell’Mtm",
-      "summary": "È avvenuta con successo alla fine della scorsa settimana la separazione del modulo di trasferimento Mtm, che ha fornito propulsione ed energia ai due orbiter di BepiColombo, partita otto anni fa e diretta verso Mercurio. Per la missione Esa/Jaxa comincia una nuova fase, che vedrà fra gli eventi chiave i primi test sugli strumenti e l’inserimento in orbita attorno al pianeta",
-      "spokenText": "Dopo otto anni di viaggio nello spazio profondo, il modulo di trasferimento Mtm si è separato con successo dai due orbiter della missione, lasciandoli finalmente liberi di procedere da soli verso Mercurio. Da qui in avanti i riflettori sono puntati sui due orbiter, che ora inizieranno i primi test approfonditi sugli strumenti scientifici di bordo. L'obiettivo è avvicinarsi progressivamente al momento clou: l'inserimento in orbita attorno a Mercurio, un pianeta roccioso ancora in gran parte enigmatico che si prepara a svelare i suoi segreti più nascosti.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "bepicolombo",
-        "esa",
-        "jaxa",
-        "mercurio"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 35,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/08/bepicolombo-separazione-modulo-trasferimento/"
-      },
-      "analysis": {
-        "mainFact": "È avvenuta con successo la separazione del modulo di trasferimento Mtm, che ha fornito propulsione ed energia ai due orbiter di BepiColombo, partita otto anni fa e diretta verso Mercurio.",
-        "whyItMatters": "Per la missione Esa/Jaxa comincia una nuova fase, che vedrà fra gli eventi chiave i primi test sugli strumenti e l’inserimento in orbita attorno al pianeta.",
-        "confirmedFacts": [
-          "È avvenuta con successo la separazione del modulo di trasferimento Mtm, che ha fornito propulsione ed energia ai due orbiter di BepiColombo, partita otto anni fa e diretta verso Mercurio.",
-          "Per la missione Esa/Jaxa comincia una nuova fase, che vedrà fra gli eventi chiave i primi test sugli strumenti e l’inserimento in orbita attorno al pianeta.",
-          "È avvenuta con successo alla fine della scorsa settimana la separazione del modulo di trasferimento Mtm, che ha fornito propulsione ed energia ai due orbiter di BepiColombo, partita otto anni fa e diretta verso Mercurio."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "BepiColombo",
-          "Esa",
-          "Jaxa",
-          "Mercurio"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-b03c0b52d42fa178",
-      "title": "Bastano cinque ore per formare la Luna",
-      "summary": "Nuove simulazioni della collisione tra la Terra e Theia mostrano che la temperatura e la resistenza dei materiali dei due corpi potrebbero aver avuto un ruolo decisivo nella formazione della Luna. In alcuni scenari, il nostro satellite potrebbe essersi formato come corpo intatto in appena cinque ore dall’impatto. I risultati su ApJ Letters",
-      "spokenText": "Suggeriscono che la Luna potrebbe essersi formata come un corpo già intatto in appena cinque ore dall'impatto.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "terra",
-        "theia",
-        "luna"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 7,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/09/10/bastano-cinque-ore-per-formare-la-luna/"
-      },
-      "analysis": {
-        "mainFact": "Nuove simulazioni mostrano che la Luna potrebbe essersi formata come corpo intatto in appena cinque ore dall'impatto tra la Terra e Theia.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Nuove simulazioni mostrano che la Luna potrebbe essersi formata come corpo intatto in appena cinque ore dall'impatto tra la Terra e Theia."
-        ],
-        "uncertainties": [
-          "Nuove simulazioni della collisione tra la Terra e Theia mostrano che la temperatura e la resistenza dei materiali dei due corpi potrebbero aver avuto un ruolo decisivo nella formazione della Luna.",
-          "In alcuni scenari, il nostro satellite potrebbe essersi formato come corpo intatto in appena cinque ore dall’impatto."
-        ],
-        "peopleAndOrganizations": [
-          "Terra",
-          "Theia",
-          "Luna"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-327a5567f554e802",
-      "title": "Audio Intelligence: Siri AI ascolta tutto su Apple Watch",
-      "summary": "Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente. The post Audio Intelligence: Siri AI ascolta tutto su Apple Watch appeared first on Punto Informatico.",
-      "spokenText": "Apple ha presentato i nuovi Watch Series 12 e Ultra 4, e con loro arrivano le funzionalità di Audio Intelligence, che saranno disponibili con watchOS 27 dal 14 settembre. premendo due volte la corona digitale, si ottiene la trascrizione degli ultimi 15 secondi e si possono fare domande a Siri AI sul contenuto. La chiave è la privacy: tutto è opt-in, quindi va attivato esplicitamente dall’utente. Inoltre, i riassunti di Siri Recap vengono cancellati dopo 7 giorni, mentre le trascrizioni di Live Rewind spariscono 30 secondi dopo la visualizzazione, se non salvate.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "apple",
-        "apple watch",
-        "siri ai"
-      ],
-      "importance": 52,
-      "mustInclude": false,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/audio-intelligence-siri-ai-ascolta-tutto-apple-watch/"
-      },
-      "analysis": {
-        "mainFact": "Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente.",
-        "whyItMatters": "i riassunti di Siri Recap sono cancellati dopo 7 giorni. Mentre le trascrizioni di Live Rewind spariscono 30 secondi dopo la visualizzazione se non salvate.",
-        "confirmedFacts": [
-          "Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente.",
-          "i riassunti di Siri Recap sono cancellati dopo 7 giorni. Mentre le trascrizioni di Live Rewind spariscono 30 secondi dopo la visualizzazione se non salvate.",
-          "Apple ha svelato ieri sera i nuovi Watch Series 12 e Ultra 4 .",
-          "Con il rilascio di watchOS 27 (14 settembre) arriveranno anche Siri AI (non in Italia) e quattro nuove funzionalità che fanno parte di Audio Intelligence .",
-          "Premendo due volte la corona digitale viene mostrata la trascrizione degli ultimi 15 secondi di conversazione e l’utente può chiedere informazioni sul contenuto a Siri AI.",
-          "Audio Intelligence: Siri AI ascolta tutto su Apple Watch Apple ha evidenziato che le nuove funzionalità di Audio Intelligence rispettano la privacy e devono essere esplicitamente attivate dall'utente.",
-          "Innanzitutto sono opt-in , quindi devono essere attivate dall’utente."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Apple",
-          "Apple Watch",
-          "Siri AI"
-        ],
-        "numbersAndDates": [
-          "Apple ha svelato ieri sera i nuovi Watch Series 12 e Ultra 4 .",
-          "Con il rilascio di watchOS 27 (14 settembre) arriveranno anche Siri AI (non in Italia) e quattro nuove funzionalità che fanno parte di Audio Intelligence .",
-          "Premendo due volte la corona digitale viene mostrata la trascrizione degli ultimi 15 secondi di conversazione e l’utente può chiedere informazioni sul contenuto a Siri AI.",
-          "7",
-          "30"
-        ]
-      }
-    },
-    {
-      "id": "story-8fed0890a3595c64",
-      "title": "L'AI al posto di Google per gli acquisti, ma per pagare è un'altra storia",
-      "summary": "I consumatori usano già l'intelligenza artificiale per confrontare prodotti e restringere le proprie scelte d'acquisto, ma quando arriva il momento di pagare tornano sui siti dei venditori e completan...",
-      "spokenText": "L'intelligenza artificiale sta cambiando il modo in cui facciamo acquisti, ma non nel modo che molti si aspettavano. I consumatori usano già strumenti basati sull'IA per confrontare prodotti, leggere caratteristiche e restringere le proprie scelte. Eppure, quando arriva il momento di pagare, il comportamento cambia.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google"
-      ],
-      "importance": 52,
-      "mustInclude": false,
-      "estimatedSeconds": 18,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/lai-al-posto-di-google-per-gli-acquisti-ma-per-pagare-e-unaltra-storia"
-      },
-      "analysis": {
-        "mainFact": "I consumatori usano già l'intelligenza artificiale per confrontare prodotti e restringere le proprie scelte d'acquisto, ma quando arriva il momento di pagare tornano sui siti dei venditori e completano la transazione da soli.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "I consumatori usano già l'intelligenza artificiale per confrontare prodotti e restringere le proprie scelte d'acquisto, ma quando arriva il momento di pagare tornano sui siti dei venditori e completano la transazione da soli."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-e5b72bd6cae3371e",
-      "title": "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per",
-      "summary": "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa.",
-      "spokenText": "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa. L’accordo fornisce certezza finanziaria a lungo termine per l’impianto, che attualmente genera circa il 10% dell’elettricità della Finlandia. Alphabet, la holding che controlla Google, ha aumentato i suoi piani di spesa globale fino a 205 miliardi di dollari per espandere la capacità di calcolo destinata ai servizi di intelligenza artificiale.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google",
-        "alphabet",
-        "fortum",
-        "tiktok",
-        "kajaani",
-        "muhos",
-        "vaala",
-        "hamina",
-        "loviisa"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 30,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa.",
-          "L'accordo con Fortum fornisce certezza finanziaria a lungo termine per l'impianto di Loviisa, che attualmente genera circa il 10% dell'elettricità della Finlandia.",
-          "Alphabet, ha aumentato i suoi piani di spesa globale fino a 205 miliardi di dollari per espandere la capacità di calcolo per i servizi di IA."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google",
-          "Alphabet",
-          "Fortum",
-          "TikTok",
-          "Kajaani",
-          "Muhos",
-          "Vaala",
-          "Hamina",
-          "Loviisa"
-        ],
-        "numbersAndDates": [
-          "Google ha firmato un contratto di 22 anni con la società finlandese Fortum per acquistare fino al 50% della produzione della centrale nucleare di Loviisa.",
-          "L'accordo con Fortum fornisce certezza finanziaria a lungo termine per l'impianto di Loviisa, che attualmente genera circa il 10% dell'elettricità della Finlandia.",
-          "Alphabet, ha aumentato i suoi piani di spesa globale fino a 205 miliardi di dollari per espandere la capacità di calcolo per i servizi di IA.",
-          "22",
-          "50"
-        ]
-      }
-    },
-    {
-      "id": "story-26acc831061ec54d",
-      "title": "Dopo una missione di 10 giorni con i compagni di equipaggio",
-      "summary": "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima",
-      "spokenText": "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "nasa",
-        "victor glover",
-        "reid wiseman",
-        "artemis ii"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 21,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/"
-      },
-      "analysis": {
-        "mainFact": "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima",
-        "whyItMatters": "Transizione astronauti Artemis II. Implicazioni per il futuro dell'esplorazione spaziale e della tecnologia NASA.",
-        "confirmedFacts": [
-          "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima",
-          "Transizione astronauti Artemis II. Implicazioni per il futuro dell'esplorazione spaziale e della tecnologia NASA."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Victor Glover",
-          "Reid Wiseman",
-          "Artemis II"
-        ],
-        "numbersAndDates": [
-          "Dopo una missione di 10 giorni con i compagni di equipaggio, l'astronauta NASA Christina Koch e l'astronauta CSA (Canadian Space Agency) Jeremy Hansen, sono ammarati in sicurezza il 10 aprile come primi umani a viaggiare in orbita lunare in più di 50 anni, volando infine più lontano nello spazio di chiunque prima",
-          "10",
-          "50"
-        ]
-      }
-    },
-    {
-      "id": "story-817808c8a8ea795d",
-      "title": "Nella notte trasmessa la documentazione delle due offerte pubbliche di scambio",
-      "summary": "Nella notte trasmessa la documentazione delle due offerte pubbliche di scambio. Parte il conto alla rovescia per l’iter autorizzativo",
-      "spokenText": "Banca Montepaschi ha formalmente depositato in Consob la documentazione relativa alle due offerte pubbliche di scambio volontarie aventi a oggetto Banco Bpm e Banca Generali. L’istituto ha trasmesso i prospetti informativi e ha contestualmente presentato alle autorità competenti le richieste di autorizzazione necessarie per entrambe le operazioni. Nel quadro dell’offerta riguardante la banca del Leone, il corrispettivo previsto è fissato in 6,958 azioni ordinarie di nuova emissione di Mps per ogni azione portata in adesione.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "banca montepaschi",
-        "consob",
-        "banco bpm",
-        "banca generali"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 30,
-      "source": {
         "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/mps-depositati-consob-documenti-offerte-banca-generali-e-bancobpm-AJxbZz8"
+        "url": "https://www.ilsole24ore.com/art/borsa-indici-mercoledi-28-ottobre-2026-AJhzuSwB"
       },
       "analysis": {
-        "mainFact": "Banca Montepaschi ha depositato in Consob i documenti delle due offerte pubbliche di scambio su Banco Bpm e Banca Generali.",
-        "whyItMatters": "Sul tema di la banca del Leone, saranno invece corrisposte 6,958 azioni ordinarie di nuova emissione di Mps, che ha presentato le richieste di autorizzazione per entrambe le offerte alle autorità competenti.",
+        "mainFact": "La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime.",
+        "whyItMatters": "La banca centrale americana ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d'interesse al 3,75%-4%, mentre il gas supera i 100 euro al megawattora per la prima volta dal 2022.",
         "confirmedFacts": [
-          "Banca Montepaschi ha depositato in Consob i documenti delle due offerte pubbliche di scambio su Banco Bpm e Banca Generali.",
-          "Sul tema di la banca del Leone, saranno invece corrisposte 6,958 azioni ordinarie di nuova emissione di Mps, che ha presentato le richieste di autorizzazione per entrambe le offerte alle autorità competenti.",
-          "Per quanto riguarda la banca del Leone, saranno invece corrisposte 6,958 azioni ordinarie di nuova emissione di Mps, che ha presentato le richieste di autorizzazione per entrambe le offerte alle autorità competenti."
+          "La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime.",
+          "La banca centrale americana ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d'interesse al 3,75%-4%, mentre il gas supera i 100 euro al megawattora per la prima volta dal 2022.",
+          "Wall Street chiude positiva, a Milano (+0,4%) sprint Stellantis La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime.",
+          "Il petrolio è in rialzo e il gas supera i 100 euro per la prima volta dal 2022",
+          "Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
+          "I timori di una crisi energetica, testimoniati dal rally di gas e petrolio, uniti all’attesa per la decisione della banca centrale americana hanno suggerito prudenza ai listini del Vecchio Continente, che hanno chiuso in ordine sparso ma senza grandi sussulti.",
+          "Il gas è sopra i 100 euro al MWh , livello che non si vedeva dalla fine del 2022, il Brent corre sui 116 dollari al barile.",
+          "A pesare è anche l'incertezza sul voto israeliano che si è concluso senza una maggioranza chiara per il rinnovo della Knesset."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Banca Montepaschi",
-          "Consob",
-          "Banco Bpm",
-          "Banca Generali"
+          "banca centrale americana",
+          "Wall Street",
+          "Milano",
+          "Stellantis",
+          "Knesset"
         ],
         "numbersAndDates": [
-          "6,958"
+          "Wall Street chiude positiva, a Milano (+0,4%) sprint Stellantis La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime.",
+          "Il petrolio è in rialzo e il gas supera i 100 euro per la prima volta dal 2022",
+          "Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
+          "Il gas è sopra i 100 euro al MWh , livello che non si vedeva dalla fine del 2022, il Brent corre sui 116 dollari al barile.",
+          "3,75",
+          "4",
+          "10",
+          "2",
+          "100",
+          "2022"
         ]
       }
     },
     {
-      "id": "story-c4587df484ac39e2",
-      "title": "Questo include le persone nella comunità di Khan al-Ahmar",
-      "summary": "Questo include le persone nella comunità di Khan al-Ahmar, che le autorità israeliane hanno ordinato di evacuare a maggio 2026 in vista della costruzione del nuovo insediamento.",
-      "spokenText": "A Khan al-Ahmar, nella comunità situata in un’area strategica della Cisgiordania, le autorità israeliane hanno ordinato l’evacuazione entro maggio 2026 per fare spazio alla costruzione di un nuovo insediamento. L’operazione si inserisce in un quadro più ampio: secondo i dati documentati da Peace Now, dal 2022 sono stati approvati oltre 102 nuovi insediamenti, la maggior parte dei quali in profondità nel territorio cisgiordano. A settembre 2025, annunciando nuovi progressi sul corridoio E1, il Primo Ministro Benjamin Netanyahu ha dichiarato: 'Realizzeremo la nostra promessa che non ci sarà uno Stato palestinese'. Sulla stessa linea, il ministro delle finanze Bezalel Smotrich ha aggiunto che E1 'seppellirà l’idea di uno Stato palestinese'. L’avanzata del progetto E1 e l’accelerazione delle approvazioni insediative ridisegnano la geografia dell’area, mentre la scadenza per l’evacuazione di Khan al-Ahmar segna un passaggio concreto in questa direzione.",
-      "category": "diritti",
+      "id": "story-41db4dfb33833bae",
+      "title": "Manca lo spoglio di 650mila buste doppie che possono cambiare il quadro",
+      "summary": "Manca lo spoglio di 650mila buste doppie che possono cambiare il quadro",
+      "spokenText": "Il voto ai seggi rappresenta l'86% del totale e ora mancano circa 650mila 'buste doppie' ancora da scrutinare che possono cambiare il quadro.",
+      "category": "mondo",
       "tags": [
-        "diritti",
-        "e1",
-        "benjamin netanyahu",
-        "bezalel smotrich",
-        "peace now"
+        "mondo"
       ],
-      "importance": 75,
+      "importance": 70,
       "mustInclude": false,
-      "estimatedSeconds": 55,
+      "estimatedSeconds": 10,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/e1-the-illegal-settlement-at-the-heart-of-the-uks-west-bank-trade-ban-291591"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/scrutinio-delle-urne-terminato-53-seggi-al-blocco-netanyahu-48-a-blocco-eisenkot_f427c057-4c01-47df-a728-c0c16393e60e.html"
       },
       "analysis": {
-        "mainFact": "Questo include le persone nella comunità di Khan al-Ahmar, che le autorità israeliane hanno ordinato di evacuare a maggio 2026 in vista della costruzione del nuovo insediamento.",
-        "whyItMatters": "Insediamenti illegali in Cisgiordania e divieto commerciale UK. Implicazioni legali e diritti umani.",
+        "mainFact": "Il voto ai seggi rappresenta l'86% del totale e ora mancano circa 650mila 'buste doppie' ancora da scrutinare che possono cambiare il quadro.",
+        "whyItMatters": "Risultati elettorali israeliani con implicazioni geopolitiche sistemiche.",
         "confirmedFacts": [
-          "Questo include le persone nella comunità di Khan al-Ahmar, che le autorità israeliane hanno ordinato di evacuare a maggio 2026 in vista della costruzione del nuovo insediamento.",
-          "Insediamenti illegali in Cisgiordania e divieto commerciale UK. Implicazioni legali e diritti umani.",
-          "Nel settembre 2025, annunciando nuovi progressi su E1, il Primo Ministro Benjamin Netanyahu ha dichiarato: 'Realizzeremo la nostra promessa che non ci sarà uno Stato palestinese'. Il suo ministro delle finanze, Bezalel Smotrich, ha anche detto che E1 'seppellirà l'idea di uno Stato palestinese'.",
-          "Peace Now, riferisce che più di 102 nuovi insediamenti sono stati approvati dal 2022, la maggior parte in profondità nella Cisgiordania."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "E1",
-          "Benjamin Netanyahu",
-          "Bezalel Smotrich",
-          "Peace Now"
-        ],
-        "numbersAndDates": [
-          "Questo include le persone nella comunità di Khan al-Ahmar, che le autorità israeliane hanno ordinato di evacuare a maggio 2026 in vista della costruzione del nuovo insediamento.",
-          "Peace Now, riferisce che più di 102 nuovi insediamenti sono stati approvati dal 2022, la maggior parte in profondità nella Cisgiordania.",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-9f9eb5a5c42a39e5",
-      "title": "Una disputa online sulle ondate di calore di quest'estate indica un cambiamento più",
-      "summary": "Una disputa online sulle ondate di calore di quest'estate indica un cambiamento più ampio e preoccupante nella scienza del clima.",
-      "spokenText": "Una disputa online sulle ondate di calore di quest'estate sta segnalando un cambiamento più ampio e preoccupante nel modo in cui comunichiamo la scienza del clima. Questo slittamento è indicativo di una crisi di fiducia più profonda, che non coinvolge solo la climatologia.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 18,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Una disputa online sulle ondate di calore di quest'estate indica un cambiamento più ampio e preoccupante nella scienza del clima.",
-        "whyItMatters": "Analisi del paradosso climatico: la riduzione dell'inquinamento accelera il riscaldamento globale. Implicazioni scientifiche e politiche enormi.",
-        "confirmedFacts": [
-          "Una disputa online sulle ondate di calore di quest'estate indica un cambiamento più ampio e preoccupante nella scienza del clima.",
-          "Analisi del paradosso climatico: la riduzione dell'inquinamento accelera il riscaldamento globale. Implicazioni scientifiche e politiche enormi."
+          "Il voto ai seggi rappresenta l'86% del totale e ora mancano circa 650mila 'buste doppie' ancora da scrutinare che possono cambiare il quadro.",
+          "Risultati elettorali israeliani con implicazioni geopolitiche sistemiche."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-c10d4f43cdf8903d",
-      "title": "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021",
-      "summary": "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021, in modo tale da favorire l'AfD.",
-      "spokenText": "L'affluenza alle urne in Germania ha registrato un aumento sostanziale, raggiungendo quasi il 78%, un dato significativamente superiore a quello del 2021 che ha favorito Alternative für Deutschland. I sondaggi all'uscita dai seggi hanno rivelato come l'immigrazione sia stata una leva motivazionale decisiva per l'elettorato del partito: il 91% dei suoi sostenitori si è detto molto preoccupato per la presenza di troppe persone straniere nel Paese. Questo consenso ha mostrato una natura trasversale nella società. L'AfD ha ottenuto i risultati migliori in Sassonia-Anhalt tra gli elettori della classe lavoratrice, con il 59%, tra chi ha un livello di istruzione più basso, con il 57%, e tra coloro che percepiscono la propria situazione economica come negativa, arrivando al 65%. Tuttavia, il partito ha raccolto percentuali rispettabili anche tra i laureati, con il 30%, e tra gli elettori che considerano buona la propria condizione economica, con il 37%.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "alternative fur deutschland"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 59,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/germany-why-the-afd-won-in-saxony-anhalt-and-what-happens-next-291309"
-      },
-      "analysis": {
-        "mainFact": "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021, in modo tale da favorire l'AfD.",
-        "whyItMatters": "Analisi della vittoria dell'estrema destra in Germania. Conseguenze sistemiche per la politica europea.",
-        "confirmedFacts": [
-          "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021, in modo tale da favorire l'AfD.",
-          "Analisi della vittoria dell'estrema destra in Germania. Conseguenze sistemiche per la politica europea.",
-          "Sostegno trasversale nella società. L'AfD ha ottenuto i risultati migliori in Sassonia-Anhalt tra gli elettori della classe lavoratrice (59%), così come tra quelli con un livello di istruzione più basso (57%) e quelli che percepivano la loro situazione economica come cattiva (65%).",
-          "Ma anche tra i laureati (30%) e gli elettori che si consideravano in una buona situazione economica (37%), l'AfD ha ottenuto risultati rispettabili.",
-          "I sondaggi all'uscita dai seggi hanno rivelato che l'immigrazione è stata un fattore motivante per gli elettori dell'AfD, con il 91% di loro che concordava con l'affermazione di essere 'molto preoccupato che troppe persone straniere vivano in Germania'."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Alternative für Deutschland"
-        ],
         "numbersAndDates": [
-          "Con quasi il 78%, l'affluenza è aumentata sostanzialmente rispetto al 2021, in modo tale da favorire l'AfD.",
-          "Sostegno trasversale nella società. L'AfD ha ottenuto i risultati migliori in Sassonia-Anhalt tra gli elettori della classe lavoratrice (59%), così come tra quelli con un livello di istruzione più basso (57%) e quelli che percepivano la loro situazione economica come cattiva (65%).",
-          "Ma anche tra i laureati (30%) e gli elettori che si consideravano in una buona situazione economica (37%), l'AfD ha ottenuto risultati rispettabili.",
-          "I sondaggi all'uscita dai seggi hanno rivelato che l'immigrazione è stata un fattore motivante per gli elettori dell'AfD, con il 91% di loro che concordava con l'affermazione di essere 'molto preoccupato che troppe persone straniere vivano in Germania'.",
-          "78",
-          "2021"
+          "86"
         ]
       }
     }
