@@ -1,227 +1,182 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-10-28-d33adf1271d2",
-  "generatedAt": "2026-10-28T22:32:11.001Z",
+  "catalogId": "daily-quid-2026-10-29-bfb3b4cc7039",
+  "generatedAt": "2026-10-29T12:10:03.680Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-4fd138dcf3ac43a5",
-      "title": "Emissioni zero: l’Europa promette ma poi non mantiene",
-      "summary": "Fissare il traguardo ma cancellare la strada per raggiungerlo: come l'Europa sta allentando le regole sul clima.",
-      "spokenText": "Fissare il traguardo ma cancellare la strada per raggiungerlo: è questa la direzione che l'Europa sta prendendo sul clima, allentando le regole previste. La legge europea sul clima stabilisce una riduzione netta delle emissioni di gas serra del 55 per cento entro il 2030 rispetto ai livelli del 1990, del 90 per cento entro il 2040 e la neutralità climatica nel 2050. Tuttavia, emerge un cambio di passo tra la Commissione von der Leyen 1 e la Commissione von der Leyen 2. L'analisi evidenzia come l'Europa, pur promettendo emissioni zero, stia di fatto non mantenendo gli impegni presi.",
+      "id": "story-35c87ab165e89d06",
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "summary": "Serious pollution by water industry remains high despite £5bn investment",
+      "spokenText": "Serious pollution by water industry remains high despite £5bn investment.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "europa",
-        "commissione von der leyen 1",
-        "commissione von der leyen 2",
-        "ecco",
-        "valigia blu",
-        "marta lovisolo"
+        "environment agency",
+        "consumer council for water ccw"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 40,
+      "estimatedSeconds": 4,
       "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/europa-emissioni-zero-fallimento-green-deal/"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Fissare il traguardo ma cancellare la strada per raggiungerlo: come l'Europa sta allentando le regole sul clima.",
-        "whyItMatters": "La legge europea sul clima fissa una riduzione netta delle emissioni di gas serra del 55 per cento entro il 2030 rispetto ai livelli del 1990, del 90 per cento entro il 2040 e la neutralità climatica nel 2050.",
+        "mainFact": "Serious pollution by water industry remains high despite £5bn investment",
+        "whyItMatters": "Inquinamento idrico in Inghilterra nonostante investimenti, rilevante per ambiente.",
         "confirmedFacts": [
-          "Fissare il traguardo ma cancellare la strada per raggiungerlo: come l'Europa sta allentando le regole sul clima.",
-          "La legge europea sul clima fissa una riduzione netta delle emissioni di gas serra del 55 per cento entro il 2030 rispetto ai livelli del 1990, del 90 per cento entro il 2040 e la neutralità climatica nel 2050.",
-          "Emissioni zero: l’Europa promette ma poi non mantiene",
-          "“L’Europa ha chiaramente fatto un cambio di passo tra la Commissione von der Leyen 1 e la Commissione von der Leyen 2”, osserva a Valigia Blu Marta Lovisolo, Senior Advocacy Advisor del think tank ECCO , che si occupa di cambiamento climatico e transizione energetica."
+          "Serious pollution by water industry remains high despite £5bn investment",
+          "Inquinamento idrico in Inghilterra nonostante investimenti, rilevante per ambiente.",
+          "Serious pollution incidents in 2025 were a \"major concern\", the Environment Agency said, and remained at similarly high levels to those seen in previous years.",
+          "Overall, England's water companies were awarded 16 out of a possible 36 stars for environmental performance - the worst total on record.",
+          "Water companies have committed record levels of investment up to 2030 to upgrade their networks and sewage treatment works.",
+          "There has already been £5bn invested over the last five years to try and tackle environmental pollution.",
+          "In September, it was reported that the number of complaints made by households about water companies to the Consumer Council for Water (CCW) rose by 84% in a year - the highest in 20 years.",
+          "Water consumption fails to fall risking supplies The joint report, published on Thursday, also found that household consumption in England and Wales in 2025 remained similar to the previous year, at 137 litres per person per day.",
+          "15 October Mayors could be given powers to oversee water companies 16 September Five key takeaways from the landmark water sector review 21 July 2025"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Europa",
-          "Commissione von der Leyen 1",
-          "Commissione von der Leyen 2",
-          "ECCO",
-          "Valigia Blu",
-          "Marta Lovisolo"
+          "Environment Agency",
+          "Consumer Council for Water (CCW)"
         ],
-        "numbersAndDates": [
-          "“L’Europa ha chiaramente fatto un cambio di passo tra la Commissione von der Leyen 1 e la Commissione von der Leyen 2”, osserva a Valigia Blu Marta Lovisolo, Senior Advocacy Advisor del think tank ECCO , che si occupa di cambiamento climatico e transizione energetica.",
-          "55",
-          "2030",
-          "1990",
-          "90",
-          "2040",
-          "2050"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-c4c112d9e9b44214",
-      "title": "Piano Ue di resilienza, parametri armonizzati sul riscaldamento climatico",
-      "summary": "BRUXELLES – La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico. Tra le altre cose, Bruxelles ha proposto un...",
-      "spokenText": "Martedì 27 ottobre, la Commissione europea ha presentato un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico.",
-      "category": "ambiente",
+      "id": "story-2c7ba1286b39cd9a",
+      "title": "Tumore del polmone: una buona notizia",
+      "summary": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione.",
+      "spokenText": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione. L'associazione di due farmaci immunologici ha prolungato di 8,4 mesi la sopravvivenza mediana dei pazienti affetti da questa forma di cancro, tra le più aggressive e a più rapida diffusione, portandola da 12,7 a 21,1 mesi. Ma il 24 ottobre, stato un altro tipo di tumore del polmone a catalizzare l'attenzione degli oncologi della Societ Europea di Oncologia Medica (Esmo), riuniti in un congresso a Madrid: il microcitoma o carcinoma polmonare a piccole cellule , contro il quale forse stata trovata una svolta terapeutica. La strategia: evitare l'effetto rimbalzo Il microcitoma o tumore polmonare a piccole cellule (SCLC, dall'inglese small-cell lung cancer) responsabile del 10-15% dei casi di tumore del polmone e si presenta in genere nei fumatori . I due farmaci usati insieme hanno aumentato il tempo mediano in cui il tumore rimasto dormiente, passato da 1,9 mesi a 7,4 mesi, e migliorato la risposta alle cure, con il tumore che si ridotto ulteriormente nel 26,4% dei pazienti trattati con le due immunoterapie, contro il 4,1% dei pazienti del gruppo standard.",
+      "category": "salute",
       "tags": [
-        "ambiente",
-        "commissione europea",
-        "europa"
+        "salute",
+        "carcinoma polmonare a piccole cellule",
+        "microcitoma",
+        "madrid",
+        "due farmaci immunologici"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 8,
+      "estimatedSeconds": 78,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/piano-ue-resilienza-parametri-armonizzati-riscaldamento-climatico-AJNxE3vB"
+        "name": "Focus",
+        "url": "https://www.focus.it/scienza/salute/tumore-ai-polmoni-buone-notizie-anche-per-la-forma-piu-temuta"
       },
       "analysis": {
-        "mainFact": "La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico.",
-        "whyItMatters": "Piano Ue resilienza e parametri riscaldamento climatico.",
+        "mainFact": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione.",
+        "whyItMatters": "L'associazione di due farmaci immunologici ha prolungato di 8,4 mesi la sopravvivenza mediana dei pazienti affetti da questa forma di cancro, tra le più aggressive e a più rapida diffusione, portandola da 12,7 a 21,1 mesi.",
         "confirmedFacts": [
-          "La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico.",
-          "Piano Ue resilienza e parametri riscaldamento climatico.",
-          "BRUXELLES – La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico.",
-          "Si stima che tra il 2022 e il 2025 le perdite economiche provocate in Europa dal cambiamento climatico siano ammontate a 200 miliardi di euro."
+          "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione.",
+          "L'associazione di due farmaci immunologici ha prolungato di 8,4 mesi la sopravvivenza mediana dei pazienti affetti da questa forma di cancro, tra le più aggressive e a più rapida diffusione, portandola da 12,7 a 21,1 mesi.",
+          "Ma il 24 ottobre, stato un altro tipo di tumore del polmone a catalizzare l'attenzione degli oncologi della Societ Europea di Oncologia Medica (Esmo), riuniti in un congresso a Madrid: il microcitoma o carcinoma polmonare a piccole cellule , contro il quale forse stata trovata una svolta terapeutica.",
+          "La strategia: evitare l'effetto rimbalzo Il microcitoma o tumore polmonare a piccole cellule (SCLC, dall'inglese small-cell lung cancer) responsabile del 10-15% dei casi di tumore del polmone e si presenta in genere nei fumatori .",
+          "I due farmaci usati insieme hanno aumentato il tempo mediano in cui il tumore rimasto dormiente, passato da 1,9 mesi a 7,4 mesi, e migliorato la risposta alle cure, con il tumore che si ridotto ulteriormente nel 26,4% dei pazienti trattati con le due immunoterapie, contro il 4,1% dei pazienti del gruppo standard.",
+          "Salute Tumore del polmone: buone notizie anche per la forma più temuta Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore del polmone a rapida progressione."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Commissione europea",
-          "Europa"
+          "carcinoma polmonare a piccole cellule",
+          "microcitoma",
+          "Madrid",
+          "due farmaci immunologici"
         ],
         "numbersAndDates": [
-          "27"
+          "Ma il 24 ottobre, stato un altro tipo di tumore del polmone a catalizzare l'attenzione degli oncologi della Societ Europea di Oncologia Medica (Esmo), riuniti in un congresso a Madrid: il microcitoma o carcinoma polmonare a piccole cellule , contro il quale forse stata trovata una svolta terapeutica.",
+          "La strategia: evitare l'effetto rimbalzo Il microcitoma o tumore polmonare a piccole cellule (SCLC, dall'inglese small-cell lung cancer) responsabile del 10-15% dei casi di tumore del polmone e si presenta in genere nei fumatori .",
+          "I due farmaci usati insieme hanno aumentato il tempo mediano in cui il tumore rimasto dormiente, passato da 1,9 mesi a 7,4 mesi, e migliorato la risposta alle cure, con il tumore che si ridotto ulteriormente nel 26,4% dei pazienti trattati con le due immunoterapie, contro il 4,1% dei pazienti del gruppo standard.",
+          "8,4",
+          "12,7",
+          "21,1"
         ]
       }
     },
     {
-      "id": "story-f863d11646f8cda0",
-      "title": "Dal pancreas artificiale al caldo estremo, le nuove sfide del diabete in gravidanza",
-      "summary": "Il tema al congresso della Sid, focus anche sui nuovi farmaci anti-obesità",
-      "spokenText": "Dal pancreas artificiale al caldo estremo, le nuove sfide del diabete in gravidanza. Circa il 6-7% delle gravidanze in Italia è complicato da una forma di diabete. Ad ampliare la conversazione contribuiscono anche il riscaldamento globale, l'arrivo di farmaci rivoluzionari contro diabete e obesità (quelli basati sul Glp-1), i progressi del pancreas artificiale e le nuove conoscenze sui meccanismi biologici che influenzano la salute di mamma e bambino. Un ruolo crescente nella gestione del diabete in gravidanza è riconosciuto alle tecnologie. Tra queste, le linee guida Ese-Endocrine Society suggeriscono, nel diabete di tipo 1, l'impiego di sistemi ibridi di somministrazione automatizzata dell'insulina ('pancreas artificiale'), sotto la guida di equipe esperta. Un altro aspetto riguarda l'aumento del rischio di diabete gestazionale nelle donne esposte a temperature elevate, con alcuni studi osservazionali che suggeriscono un aumento del rischio 28% soprattutto in determinate fasi della gravidanza. \"Anche quando la glicemia torna normale dopo il parto, le donne con diabete gestazionale mantengono un rischio significativamente aumentato di sviluppare diabete tipo 2 negli anni successivi\", conclude Succurro.",
-      "category": "salute",
+      "id": "story-893d9a299214d3ac",
+      "title": "Lagarde si dimette dalla Bce dal 7 febbraio 2027",
+      "summary": "Lo ha annunciato il presidente del consiglio europeo Costa: 'Ha guidato la banca centrale con senso del dovere e responsabilità'. Standing ovation per lei dal consiglio direttivo. La presidente: 'Lascio una Bce pronta per il futuro'",
+      "spokenText": "Lagarde si dimette dalla Bce dal 7 febbraio 2027. Il Consiglio direttivo ha ringraziato calorosamente la presidente Lagarde tributandole una lunga standing ovation dopo l'annuncio delle dimissioni. Lo ha annunciato il presidente del consiglio europeo Costa: 'Ha guidato la banca centrale con senso del dovere e responsabilità'. \" Lascio questa istituzione con un senso di buon lavoro fatto e una Bce pronta per il futuro \", ha affermato la presidente dimissionaria in un breve video diffuso sui social, definendo l'istituto una \"roccia\". Per Lagarde «è stato un grande onore servire questa istituzione», ha detto ringraziando «tutti quelli che mi hanno sopportato in questo viaggio negli scorsi sette anni». L’annuncio della governatrice via social e la conferma del presidente del Consiglio europeo Costa. Lagarde lascerà il 7 febbraio.",
+      "category": "attualita",
       "tags": [
-        "salute",
-        "glp 1",
-        "ese endocrine society",
-        "succurro"
+        "attualita",
+        "antonio costa"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 69,
+      "estimatedSeconds": 51,
       "source": {
         "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/diabete/2026/10/28/dal-pancreas-artificiale-al-caldo-estremo-le-nuove-sfide-del-diabete-in-gravidanza_47f07aba-9b00-4524-b36f-42a2e4cd10fd.html"
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/lagarde-si-dimette-dalla-bce-dal-7-febbraio-2027_3100c924-edf9-44a1-9175-21f84dd04681.html"
       },
       "analysis": {
-        "mainFact": "Dal pancreas artificiale al caldo estremo, le nuove sfide del diabete in gravidanza.",
-        "whyItMatters": "Circa il 6-7% delle gravidanze in Italia è complicato da una forma di diabete.",
+        "mainFact": "Lagarde si dimette dalla Bce dal 7 febbraio 2027.",
+        "whyItMatters": "Il Consiglio direttivo ha ringraziato calorosamente la presidente Lagarde tributandole una lunga standing ovation dopo l'annuncio delle dimissioni.",
         "confirmedFacts": [
-          "Dal pancreas artificiale al caldo estremo, le nuove sfide del diabete in gravidanza.",
-          "Circa il 6-7% delle gravidanze in Italia è complicato da una forma di diabete.",
-          "ad ampliare la conversazione contribuiscono anche il riscaldamento globale, l'arrivo di farmaci rivoluzionari contro diabete e obesità (quelli basati sul Glp-1), i progressi del pancreas artificiale e le nuove conoscenze sui meccanismi biologici che influenzano la salute di mamma e bambino.",
-          "Un ruolo crescente nella gestione del diabete in gravidanza è riconosciuto alle tecnologie. Tra queste, le linee guida Ese-Endocrine Society suggeriscono, nel diabete di tipo 1, l'impiego di sistemi ibridi di somministrazione automatizzata dell'insulina ('pancreas artificiale'), sotto la guida di equipe esperta.",
-          "Un altro aspetto riguarda l'aumento del rischio di diabete gestazionale nelle donne esposte a temperature elevate, con alcuni studi osservazionali che suggeriscono un aumento del rischio 28% soprattutto in determinate fasi della gravidanza.",
-          "\"Anche quando la glicemia torna normale dopo il parto, le donne con diabete gestazionale mantengono un rischio significativamente aumentato di sviluppare diabete tipo 2 negli anni successivi\", conclude Succurro."
+          "Lagarde si dimette dalla Bce dal 7 febbraio 2027.",
+          "Il Consiglio direttivo ha ringraziato calorosamente la presidente Lagarde tributandole una lunga standing ovation dopo l'annuncio delle dimissioni.",
+          "Lo ha annunciato il presidente del consiglio europeo Costa: 'Ha guidato la banca centrale con senso del dovere e responsabilità'.",
+          "Lagarde: «Lascio la presidenza della Bce dal 7 febbraio 2027»",
+          "\" Lascio questa istituzione con un senso di buon lavoro fatto e una Bce pronta per il futuro \", ha affermato la presidente dimissionaria in un breve video diffuso sui social, definendo l'istituto una \"roccia\".",
+          "Per Lagarde «è stato un grande onore servire questa istituzione», ha detto ringraziando «tutti quelli che mi hanno sopportato in questo viaggio negli scorsi sette anni».",
+          "L’annuncio della governatrice via social e la conferma del presidente del Consiglio europeo Costa",
+          "Lagarde lascerà il 7 febbraio."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Glp-1",
-          "Ese-Endocrine Society",
-          "Succurro"
+          "Antonio Costa"
         ],
         "numbersAndDates": [
-          "ad ampliare la conversazione contribuiscono anche il riscaldamento globale, l'arrivo di farmaci rivoluzionari contro diabete e obesità (quelli basati sul Glp-1), i progressi del pancreas artificiale e le nuove conoscenze sui meccanismi biologici che influenzano la salute di mamma e bambino.",
-          "Un ruolo crescente nella gestione del diabete in gravidanza è riconosciuto alle tecnologie. Tra queste, le linee guida Ese-Endocrine Society suggeriscono, nel diabete di tipo 1, l'impiego di sistemi ibridi di somministrazione automatizzata dell'insulina ('pancreas artificiale'), sotto la guida di equipe esperta.",
-          "Un altro aspetto riguarda l'aumento del rischio di diabete gestazionale nelle donne esposte a temperature elevate, con alcuni studi osservazionali che suggeriscono un aumento del rischio 28% soprattutto in determinate fasi della gravidanza.",
-          "\"Anche quando la glicemia torna normale dopo il parto, le donne con diabete gestazionale mantengono un rischio significativamente aumentato di sviluppare diabete tipo 2 negli anni successivi\", conclude Succurro.",
-          "6",
-          "7"
+          "Lagarde lascerà il 7 febbraio.",
+          "7",
+          "2027"
         ]
       }
     },
     {
-      "id": "story-5ead1d971fff6e86",
-      "title": "Tumori del seno e della prostata, la solidarietà sostiene la ricerca del Gemelli",
-      "summary": "Terzo Charity Gala Dinner, raccolti 532mila euro per i due progetti oncologici",
-      "spokenText": "Il momento più atteso è stato l'annuncio della raccolta fondi: 532.000 euro destinati a sostenere i due progetti oncologici dei Gemelli.",
-      "category": "salute",
+      "id": "story-7e6630680532b334",
+      "title": "Airbus accelera sul caccia europeo di nuova generazione: Berlino guarda anche al GCAP",
+      "summary": "Airbus rafforza il proprio impegno nello sviluppo di un caccia di nuova generazione per l’Europa e conferma il dialogo con i governi di Germania e Spagna. A indicarlo è stato...",
+      "spokenText": "Airbus rafforza il proprio impegno nello sviluppo di un caccia di nuova generazione per l'Europa e conferma il dialogo con i governi di Germania e Spagna. Il gruppo aerospaziale collabora con i due paesi per definire le caratteristiche del futuro velivolo da combattimento europeo.",
+      "category": "altro",
       "tags": [
-        "salute",
-        "gemelli"
+        "altro",
+        "airbus",
+        "germania",
+        "spagna",
+        "gcap"
       ],
-      "importance": 82,
+      "importance": 75,
       "mustInclude": false,
-      "estimatedSeconds": 9,
+      "estimatedSeconds": 18,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/10/28/tumori-del-seno-e-della-prostata-la-solidarieta-sostiene-la-ricerca-del-gemelli_d1db1eef-a832-4c31-957d-191c0fe1df23.html"
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/airbus-accelera-caccia-europeo-nuova-generazione-berlino-guarda-anche-gcap-AJXcpFxB"
       },
       "analysis": {
-        "mainFact": "Il momento più atteso è stato l'annuncio della raccolta fondi: 532.000 euro destinati a sostenere i due progetti oncologici.",
-        "whyItMatters": "Raccolta fondi per ricerca oncologica, rilevante per salute e diritti.",
+        "mainFact": "Airbus rafforza il proprio impegno nello sviluppo di un caccia di nuova generazione per l’Europa e conferma il dialogo con i governi di Germania e Spagna.",
+        "whyItMatters": "Il gruppo aerospaziale lavora con Germania e Spagna allo sviluppo del futuro velivolo da combattimento europeo, mentre Berlino guarda anche al GCAP.",
         "confirmedFacts": [
-          "Il momento più atteso è stato l'annuncio della raccolta fondi: 532.000 euro destinati a sostenere i due progetti oncologici.",
-          "Raccolta fondi per ricerca oncologica, rilevante per salute e diritti.",
-          "Il momento pi atteso stato l'annuncio della raccolta fondi: 532.000 euro destinati a sostenere i due progetti oncologici."
+          "Airbus rafforza il proprio impegno nello sviluppo di un caccia di nuova generazione per l’Europa e conferma il dialogo con i governi di Germania e Spagna.",
+          "Il gruppo aerospaziale lavora con Germania e Spagna allo sviluppo del futuro velivolo da combattimento europeo, mentre Berlino guarda anche al GCAP.",
+          "Airbus accelera sul caccia europeo di nuova generazione: Berlino guarda anche al GCAP Il gruppo aerospaziale lavora con Germania e Spagna allo sviluppo del futuro velivolo da combattimento europeo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Gemelli"
+          "Airbus",
+          "Germania",
+          "Spagna",
+          "GCAP"
         ],
-        "numbersAndDates": [
-          "532.000"
-        ]
-      }
-    },
-    {
-      "id": "story-43e97d25beb5a650",
-      "title": "Serbia, gli studenti hanno vinto. Ora arriva la parte più difficile: cambiare il sistema",
-      "summary": "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne. Una vittoria storica, nata dalla richiesta di giustizia per le sedici vittime di Novi Sad. Ora la sfida sarà ricostruire le istituzioni di un paese segnato da quattordici anni di potere concentrato nelle mani di un solo uomo.",
-      "spokenText": "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne in Serbia. Tutto era cominciato come una richiesta di giustizia per le sedici persone morte a Novi Sad, ma si è trasformato in una mobilitazione capace di mettere fine a quattordici anni di potere concentrato nelle mani di un solo uomo. Alla chiusura dei seggi, alle otto di sera, l'affluenza sfiorava il 70 per cento, il livello più alto dalla dissoluzione della Jugoslavia. Per gli studenti, invece, quella vittoria rappresenta il risultato di quasi due anni di manifestazioni, occupazioni universitarie, marce e di una mobilitazione civile senza precedenti.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "aleksandar vucic",
-        "serbia",
-        "novi sad"
-      ],
-      "importance": 70,
-      "mustInclude": false,
-      "estimatedSeconds": 42,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/serbia-elezioni-studenti-sistema-vucic/"
-      },
-      "analysis": {
-        "mainFact": "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne.",
-        "whyItMatters": "Quello che era cominciato come una richiesta di giustizia per sedici persone morte a Novi Sad si è trasformato in un movimento capace di sconfiggere il partito che governava la Serbia dal 2012.",
-        "confirmedFacts": [
-          "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne.",
-          "Quello che era cominciato come una richiesta di giustizia per sedici persone morte a Novi Sad si è trasformato in un movimento capace di sconfiggere il partito che governava la Serbia dal 2012.",
-          "Ora la sfida sarà ricostruire le istituzioni di un paese segnato da quattordici anni di potere concentrato nelle mani di un solo uomo.",
-          "Dopo quasi due anni di proteste, tensioni e scontri, si temeva che la notte elettorale potesse trasformarsi in una nuova occasione di violenza.",
-          "Aleksandar Vučić, l'uomo che aveva dominato la politica serba per quattordici anni, è apparso davanti alle telecamere e ha ammesso la sconfitta.",
-          "Per gli studenti, invece, quella vittoria rappresenta il risultato di quasi due anni di manifestazioni, occupazioni universitarie, marce e di una mobilitazione civile senza precedenti.",
-          "Vučić ha ripetutamente sostenuto che dietro le proteste ci fossero interessi intenzionati a destabilizzare il paese.",
-          "Alla chiusura dei seggi, alle otto di sera, l'affluenza sfiorava il 70 per cento, il livello più alto dalla dissoluzione della Jugoslavia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Aleksandar Vučić",
-          "Serbia",
-          "Novi Sad"
-        ],
-        "numbersAndDates": [
-          "Alla chiusura dei seggi, alle otto di sera, l'affluenza sfiorava il 70 per cento, il livello più alto dalla dissoluzione della Jugoslavia.",
-          "2012"
-        ]
+        "numbersAndDates": []
       }
     },
     {
       "id": "story-0fc5f5ecf3edb9ab",
       "title": "Il PNRR ha effettivamente agevolato l’avvio della transizione ecologica",
       "summary": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane. Ne abbiamo parlato con uno degli autori dello studio &ldquo;Does the National Recovery and Resilience Plan Speed Up Firms&rsquo; Twin Transition? Empirical Evidence from Italy&rdquo; uscito sulla rivista della Società Italiana di Economia.",
-      "spokenText": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane. A spiegarlo è Giovanni Ferri, professore ordinario di economia all'Università LUMSA, che ha analizzato l'effetto del piano sull'avvio congiunto della transizione digitale e di quella verde, la cosiddetta twin transition. Le imprese impegnate nella twin transition hanno inoltre registrato una probabilità di resilienza, intesa come capacità di evitare cali di fatturato, superiore di quasi alcuni aspetti percentuali rispetto a quelle che non hanno fatto alcuna transizione, e una probabilità di crescita del fatturato superiore di circa alcuni aspetti. Ferri ha poi valutato la continuità, chiedendosi se il PNRR abbia aiutato le imprese già impegnate nella doppia transizione a proseguire nel percorso. L'avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un'impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, un risultato statisticamente significativo.",
+      "spokenText": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane. A spiegarlo è Giovanni Ferri, professore ordinario di economia all'Università LUMSA, che ha misurato l'effetto sull'avvio congiunto della transizione digitale e di quella verde, la cosiddetta twin transition. Ferri ha poi valutato la continuità, chiedendosi se il PNRR abbia aiutato le imprese già impegnate nella doppia transizione a proseguire. I risultati mostrano che, rispetto alle imprese che non hanno fatto alcuna transizione, quelle impegnate nella twin transition hanno registrato una probabilità di resilienza superiore di quasi alcuni aspetti percentuali e una probabilità di crescita del fatturato superiore di circa alcuni aspetti. L’avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un’impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, risultato statisticamente significativo.",
       "category": "attualita",
       "tags": [
         "attualita",
@@ -229,24 +184,23 @@
         "giovanni ferri",
         "universita lumsa"
       ],
-      "importance": 85,
+      "importance": 92,
       "mustInclude": false,
-      "estimatedSeconds": 62,
+      "estimatedSeconds": 57,
       "source": {
         "name": "Scienza in rete",
         "url": "https://www.scienzainrete.it/articoli/pnrr-effettivamente-agevolato-avvio-transizione-ecologica/"
       },
       "analysis": {
         "mainFact": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane.",
-        "whyItMatters": "L'avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un'impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, un risultato statisticamente significativo.",
+        "whyItMatters": "L’avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un’impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, risultato statisticamente significativo.",
         "confirmedFacts": [
           "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane.",
-          "L'avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un'impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, un risultato statisticamente significativo.",
-          "Il PNRR ha effettivamente agevolato l’avvio della transizione ecologica",
+          "L’avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un’impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, risultato statisticamente significativo.",
           "Giovanni Ferri, professore ordinario di economia all’Università LUMSA.",
           "Misura soprattutto l’effetto sull’avvio congiunto della transizione digitale e di quella verde, la cosiddetta twin transition .",
-          "Rispetto alle imprese che non hanno fatto alcuna transizione, quelle impegnate nella twin transition hanno registrato una probabilità di resilienza (cioè di evitare cali di fatturato, ecc. ) superiore di quasi alcuni aspetti percentuali e una probabilità di crescita del fatturato superiore di circa alcuni aspetti.",
-          "Poi abbiamo valutato la continuità: il PNRR ha aiutato a proseguire le imprese già impegnate nella doppia transizione?"
+          "Poi abbiamo valutato la continuità: il PNRR ha aiutato a proseguire le imprese già impegnate nella doppia transizione?",
+          "Rispetto alle imprese che non hanno fatto alcuna transizione, quelle impegnate nella twin transition hanno registrato una probabilità di resilienza (cioè di evitare cali di fatturato, ecc. ) superiore di quasi alcuni aspetti percentuali e una probabilità di crescita del fatturato superiore di circa alcuni aspetti."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
@@ -262,380 +216,446 @@
       }
     },
     {
-      "id": "story-b02aea2f9258ec64",
-      "title": "Stati Generali della Green Economy 2026",
-      "summary": "Gli Stati Generali della Green Economy, l’appuntamento annuale della green economy italiana, sono promossi dalla Fondazione per lo sviluppo sostenibile in collaborazione con il Ministero dell’Ambiente e della sicurezza energetica, con il patrocinio della Commissione europea e del Ministero delle Imprese e del Made in Italy . Sono il punto di riferimento per migliaia di imprese, e non solo. Tra il 2012 e il 2025 hanno coinvolto più di 9000 stakeholder. Giunti alla XV edizione, gli Stati Generali della Green Economy sono quest’anno dedicati al tema “I fattori internazionali di spinta alla Green Economy in un contesto geopolitico critico” e si terranno il 3 e 4 novembre 2026, ospitati all’interno di Italian Exhibition Group – Ecomondo – Rimini Expo Center.",
-      "spokenText": "Giunti alla XV edizione, gli Stati Generali della Green Economy sono quest'anno dedicati al tema 'I fattori internazionali di spinta alla Green Economy in un contesto geopolitico critico'. L'appuntamento è per il 3 e 4 novembre 2026, all'interno di Italian Exhibition Group – Ecomondo – Rimini Expo Center. Tra il 2012 e il 2025, l'evento ha coinvolto più di 9000 stakeholder, confermandosi punto di riferimento per migliaia di imprese. Il 4 novembre, alla sessione 'La geopolitica della green economy: una finestra sul mondo', è prevista la partecipazione della Presidente ISPRA, Maria Alessandra Gallone.",
-      "category": "ambiente",
+      "id": "story-ef2eb7d7030dbfb3",
+      "title": "La Fed mantiene i tassi invariati al 3,75%–4%, in linea con le stime",
+      "summary": "A pochi giorni dalle elezioni Usa di midterm, la Federal Reserve ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d’interesse al 3,75%-4%. Lo...",
+      "spokenText": "La Federal Reserve ha deciso di mantenere invariati i tassi d'interesse, con dieci voti a favore e due contrari. Il Federal Open Market Committee ha confermato il tasso overnight in un intervallo compreso tra il 3,75% e il 4%, livello al quale si trova da quando la Banca centrale ha approvato un aumento di un quarto di punto percentuale lo scorso 16 settembre. Due dei dodici membri votanti si sono espressi in disaccordo: la governatrice Lisa Cook e la presidente della Fed di Cleveland, Beth Hammack, entrambe favorevoli a un ulteriore rialzo. Per Cook, si tratta del primo dissenso da quando è entrata a far parte della Fed nel 2022, nominata da Joe Biden. I funzionari della Fed considerano l'indipendenza politica un pilastro della Banca centrale, sebbene alcuni osservatori abbiano ipotizzato che non si volessero aumentare i tassi a pochi giorni dalle elezioni di midterm. Al riguardo, Warsh ha precisato che l'imminenza del voto non ha giocato alcun ruolo nella decisione. Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
+      "category": "attualita",
       "tags": [
-        "ambiente",
-        "italian exhibition group ecomondo rimini expo ce"
+        "attualita",
+        "federal reserve",
+        "federal open market committee",
+        "lisa cook",
+        "beth hammack"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 72,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/la-fed-mantiene-tassi-invariati-375percento4percento-come-atteso-AJLve1wB"
+      },
+      "analysis": {
+        "mainFact": "La Federal Reserve ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d’interesse al 3,75%-4%.",
+        "whyItMatters": "I funzionari della Fed considerano l’indipendenza politica un pilastro della Banca centrale, ma alcuni osservatori hanno ipotizzato che i funzionari non volessero aumentare i tassi a pochi giorni dalle elezioni.",
+        "confirmedFacts": [
+          "La Federal Reserve ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d’interesse al 3,75%-4%.",
+          "I funzionari della Fed considerano l’indipendenza politica un pilastro della Banca centrale, ma alcuni osservatori hanno ipotizzato che i funzionari non volessero aumentare i tassi a pochi giorni dalle elezioni.",
+          "Warsh: «Nessun ruolo delle midterm sulle decisioni legate ai tassi» L’imminenza delle elezioni di midterm negli Stati Uniti non ha “giocato alcun ruolo” nella decisione della Fed di mantenere i tassi fermi.",
+          "Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
+          "Con una decisione ampiamente prevista, il Federal Open Market Committee (Fomc) ha mantenuto il tasso overnight in un intervallo compreso tra il 3,75% e il 4%, livello al quale si trova da quando la Banca centrale ha approvato un aumento di un quarto di punto percentuale a settembre.",
+          "Due voti contrari Due dei 12 membri votanti del Fomc si sono espressi in disaccordo con la decisione: la governatrice Lisa Cook e la presidente della Fed di Cleveland, Beth Hammack , entrambe favorevoli a un aumento dei tassi di un quarto di punto percentuale.",
+          "Per Cook, è il primo dissenso espresso da quando è entrata a far parte della Fed nel 2022, nominata da Joe Biden."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Federal Reserve",
+          "Federal Open Market Committee",
+          "Lisa Cook",
+          "Beth Hammack"
+        ],
+        "numbersAndDates": [
+          "Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
+          "Con una decisione ampiamente prevista, il Federal Open Market Committee (Fomc) ha mantenuto il tasso overnight in un intervallo compreso tra il 3,75% e il 4%, livello al quale si trova da quando la Banca centrale ha approvato un aumento di un quarto di punto percentuale a settembre.",
+          "Due voti contrari Due dei 12 membri votanti del Fomc si sono espressi in disaccordo con la decisione: la governatrice Lisa Cook e la presidente della Fed di Cleveland, Beth Hammack , entrambe favorevoli a un aumento dei tassi di un quarto di punto percentuale.",
+          "Per Cook, è il primo dissenso espresso da quando è entrata a far parte della Fed nel 2022, nominata da Joe Biden.",
+          "10",
+          "2",
+          "3,75",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "story-01ba30c187de61fd",
+      "title": "Agente Skynet installa cryptominer e ruba credenziali",
+      "summary": "Symantec ha scoperto un agente AI che sfrutta modelli non protetti per rubare credenziali e installare cryptominer tramite una modalità Skynet. The post Agente Skynet installa cryptominer e ruba credenziali appeared first on Punto Informatico.",
+      "spokenText": "Symantec ha scoperto un sistema di intelligenza artificiale che sfrutta modelli non protetti per rubare credenziali e installare cryptominer. Gli esperti hanno individuato un software che cerca in rete modelli esposti, attivando una modalità Skynet che permette di eseguire fino a centomila azioni senza supervisione umana. Il proprietario del modello esposto sostiene i costi elevati delle risorse di calcolo consumate dall'operazione. Dopo aver individuato un modello non protetto, l'agente in modalità Skynet esegue fino a 100.000 azioni senza supervisione umana e impone al modello di usare i tool indicati per trovare vulnerabilità e rubare credenziali, ordinando infine di installare in background XMRig, un cryptominer per Monero. L’esecuzione delle suddette attività tramite modelli AI ha un costo in termini di token per l’inferenza.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "symantec",
+        "agente ai",
+        "xmrig",
+        "monero"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 49,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/agente-skynet-installa-cryptominer-ruba-credenziali/"
+      },
+      "analysis": {
+        "mainFact": "Symantec ha scoperto un agente AI che sfrutta modelli non protetti per rubare credenziali e installare cryptominer tramite una modalità Skynet.",
+        "whyItMatters": "Dopo aver individuato un modello non protetto, l'agente in modalità Skynet esegue fino a 100.000 azioni senza supervisione umana e impone al modello di usare i tool indicati per trovare vulnerabilità e rubare credenziali, ordinando infine di installare in background XMRig, un cryptominer per Monero.",
+        "confirmedFacts": [
+          "Symantec ha scoperto un agente AI che sfrutta modelli non protetti per rubare credenziali e installare cryptominer tramite una modalità Skynet.",
+          "Dopo aver individuato un modello non protetto, l'agente in modalità Skynet esegue fino a 100.000 azioni senza supervisione umana e impone al modello di usare i tool indicati per trovare vulnerabilità e rubare credenziali, ordinando infine di installare in background XMRig, un cryptominer per Monero.",
+          "Gli esperti di Symantec hanno individuato un agente AI che cerca su Internet modelli non protetti, sfruttati per effettuare attacchi informatici tramite una modalità Skynet .",
+          "Lo scopo dei cybercriminali è rubare credenziali e installare cryptominer.",
+          "In questo caso è stata implementata una modalità Skynet che permette ad un agente AI di eseguire una scansione online alla ricerca di modelli non protetti.",
+          "Quando trovati, i modelli vengono sfruttati per rubare credenziali e installare cryptominer sul dispositivo.",
+          "L’esecuzione delle suddette attività tramite modelli AI ha un costo in termini di token per l’inferenza.",
+          "La prima è il proprietario del modello esposto che sostiene i costi delle risorse di calcolo consumate dall’agente (piuttosto elevati per 100.000 azioni)."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Symantec",
+          "agente AI",
+          "XMRig",
+          "Monero"
+        ],
+        "numbersAndDates": [
+          "La prima è il proprietario del modello esposto che sostiene i costi delle risorse di calcolo consumate dall’agente (piuttosto elevati per 100.000 azioni).",
+          "100.000"
+        ]
+      }
+    },
+    {
+      "id": "story-b4f72c21eddbb922",
+      "title": "La vita non piovve dalle comete",
+      "summary": "Secondo uno studio guidato dall’Università di Cambridge è altamente improbabile che la vita sulla Terra sia arrivata dalle comete. Qualora fossero sopravvissute all’impatto, le molecole organiche non sarebbero durate sufficientemente a lungo per consentire le reazioni chimiche che precederebbero la nascita della vita. Più probabile è che le molecole organiche si siano formate tramite altri canali",
+      "spokenText": "Secondo uno studio guidato dall'Università di Cambridge, è altamente improbabile che la vita sulla Terra sia arrivata dalle comete. Anche qualora le molecole organiche fossero sopravvissute all'impatto, non sarebbero durate abbastanza a lungo per consentire le reazioni chimiche che precedono la nascita della vita. È più probabile, quindi, che queste molecole si siano formate tramite altri canali.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "universita di cambridge",
+        "comete",
+        "molecole organiche",
+        "terra"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 23,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/10/28/la-vita-non-piovve-dalle-comete/"
+      },
+      "analysis": {
+        "mainFact": "Secondo uno studio guidato dall'Università di Cambridge è altamente improbabile che la vita sulla Terra sia arrivata dalle comete.",
+        "whyItMatters": "Qualora fossero sopravvissute all'impatto, le molecole organiche non sarebbero durate sufficientemente a lungo per consentire le reazioni chimiche che precederebbero la nascita della vita.",
+        "confirmedFacts": [
+          "Secondo uno studio guidato dall'Università di Cambridge è altamente improbabile che la vita sulla Terra sia arrivata dalle comete.",
+          "Qualora fossero sopravvissute all'impatto, le molecole organiche non sarebbero durate sufficientemente a lungo per consentire le reazioni chimiche che precederebbero la nascita della vita.",
+          "Più probabile è che le molecole organiche si siano formate tramite altri canali"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Università di Cambridge",
+          "comete",
+          "molecole organiche",
+          "Terra"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-937e6b08f1aa75dd",
+      "title": "Mammiferi 4.0: dietro le quinte della ricerca con il quarto episodio di DigitAP",
+      "summary": "Il 23 ottobre prende il via la diciassettesima edizione di M’ammalia 2026 – La Settimana dei Mammiferi , il cui tema quest'anno è “Mammiferi 4. 0: dietro le quinte della ricerca” . E' un'occasione per raccontare come la tecnologia e le nuove metodologie stiano trasformando lo studio, la tutela e la gestione della fauna selvatica e per lanciare il quarto episodio della nostra serie di documentari dedicati al monitoraggio della biodiversità, prodotta con fondi PNRR nell'ambito del progetto DigitAP , promosso e realizzato dal MASE con il supporto di ISPRA e finanziamento dell'Unione Europea - NextGenerationEU, nel quale ISPRA ha svolto un ruolo di regia scientifica.",
+      "spokenText": "Il 23 ottobre prende il via la diciassettesima edizione di M'ammalia 2026, la Settimana dei Mammiferi, con il tema 'Mammiferi 4. 0: dietro le quinte della ricerca'. L'iniziativa si inserisce nel solco del progetto DigitAP, concluso il 15 ottobre al Ministero dell'Ambiente e della Sicurezza Energetica con il supporto di ISPRA e il finanziamento dell'Unione Europea attraverso NextGenerationEU. Come sottolinea la Presidente dell'ISPRA Alessandra Gallone, l'Istituto ha contribuito a imprimere una svolta fondamentale nel monitoraggio della biodiversità delle aree protette, svolgendo un ruolo di coordinamento tecnico-scientifico all'interno della governance guidata dal MASE. I risultati del progetto fotografano la biodiversità delle Aree Protette italiane, a partire dal lavoro di monitoraggio della fauna selvatica nel Parco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna, con un primo episodio dedicato all'Orso bruno appenninico.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "m ammalia 2026 la settimana dei mammiferi",
+        "mase",
+        "ispra",
+        "digitap",
+        "unione europea nextgenerationeu",
+        "parco nazionale delle foreste casentinesi monte ",
+        "orso bruno appenninico"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 52,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/mammiferi-4-0-dietro-le-quinte-della-ricerca-con-il-quarto-episodio-di-digitap"
+      },
+      "analysis": {
+        "mainFact": "Il 23 ottobre prende il via la diciassettesima edizione di M'ammalia 2026 – La Settimana dei Mammiferi, il cui tema quest'anno è 'Mammiferi 4. 0: dietro le quinte della ricerca'.",
+        "whyItMatters": "Con DigitAP – spiega la Presidente dell'ISPRA Alessandra Gallone – l'Istituto ha contribuito a imprimere una svolta fondamentale nel monitoraggio della biodiversità delle nostre aree protette.",
+        "confirmedFacts": [
+          "Il 23 ottobre prende il via la diciassettesima edizione di M'ammalia 2026 – La Settimana dei Mammiferi, il cui tema quest'anno è 'Mammiferi 4. 0: dietro le quinte della ricerca'.",
+          "Con DigitAP – spiega la Presidente dell'ISPRA Alessandra Gallone – l'Istituto ha contribuito a imprimere una svolta fondamentale nel monitoraggio della biodiversità delle nostre aree protette.",
+          "si sono conclusi il 15 ottobre al Ministero dell’Ambiente e della Sicurezza Energetica (MASE) i lavori del progetto DigitAP , promosso e realizzato dal MASE con il supporto di ISPRA (Finanziamento dell’Unione Europea – NextGenerationEU).",
+          "I risultati del progetto DigitAP fotografano la biodiversità delle Aree Protette italiane",
+          "Questo episodio racconta il lavoro di monitoraggio della fauna selvatica condotto nel Parco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna .",
+          "Il primo episodio della serie è dedicato all' Orso bruno appenninico , uno dei simboli più preziosi e vulnerabili della nostra biodiversità.",
+          "All’interno della governance del progetto — guidata dal MASE con il coinvolgimento degli enti gestori delle Aree Protette e di operatori specializzati — l’ISPRA ha svolto un ruolo di coordinamento tecnico-scientifico.",
+          "Mammiferi 4."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "M'ammalia 2026 – La Settimana dei Mammiferi",
+          "MASE",
+          "ISPRA",
+          "DigitAP",
+          "Unione Europea - NextGenerationEU",
+          "Parco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna",
+          "Orso bruno appenninico"
+        ],
+        "numbersAndDates": [
+          "si sono conclusi il 15 ottobre al Ministero dell’Ambiente e della Sicurezza Energetica (MASE) i lavori del progetto DigitAP , promosso e realizzato dal MASE con il supporto di ISPRA (Finanziamento dell’Unione Europea – NextGenerationEU).",
+          "Mammiferi 4.",
+          "23",
+          "2026",
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "story-b3ba0e03b696b5a3",
+      "title": "Namirial e tracking pixel via email: come disattivare il tracciamento",
+      "summary": "Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel: anche Namirial permette di disattivarli. The post Namirial e tracking pixel via email: come disattivare il tracciamento appeared first on Punto Informatico.",
+      "spokenText": "Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel. Namirial permette di disattivarli, così come stanno facendo tutte le realtà che utilizzano questi strumenti nelle proprie comunicazioni. I clienti di MediaWorld stanno ricevendo un'email che spiega come funziona il sistema e come bloccare il tracciamento. È bene chiarire che disattivare il solo tracciamento non interrompe l'invio delle email. EU KIDS Act: protezione minori senza sacrificare la privacy Libero Mail invia i tracking pixel: come disattivarli Smart TV di Samsung tracciano sempre l'utente?",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "namirial",
+        "garante privacy",
+        "mediaworld"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 35,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/namirial-tracking-pixel/"
+      },
+      "analysis": {
+        "mainFact": "Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel e Namirial permette di disattivarli.",
+        "whyItMatters": "Namirial e tracking pixel via email: come disattivare il tracciamento Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel: anche Namirial permette di disattivarli.",
+        "confirmedFacts": [
+          "Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel e Namirial permette di disattivarli.",
+          "Namirial e tracking pixel via email: come disattivare il tracciamento Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel: anche Namirial permette di disattivarli.",
+          "I clienti di MediaWorld stanno ricevendo un'email relativa ai tracking pixel: vediamo di cosa si tratta e come bloccare il tracciamento.",
+          "Come disattivare i tracking pixel di Namirial Il messaggio prosegue spiegando di cosa si tratta e come funziona il sistema.",
+          "È bene chiarire che disattivare il solo tracciamento non interrompe l’invio delle email.",
+          "Lo stanno facendo tutte le aziende che utilizzano i pixel di tracciamento nelle loro comunicazioni.",
+          "EU KIDS Act: protezione minori senza sacrificare la privacy Libero Mail invia i tracking pixel: come disattivarli Smart TV di Samsung tracciano sempre l'utente?"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Namirial",
+          "Garante Privacy",
+          "MediaWorld"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-3cf0ebce046aee4c",
+      "title": "Airbus: ordini in crescita, confermata la guidance 2026",
+      "summary": "Airbus archivia i primi nove mesi del 2026 con ricavi in crescita, una redditività in miglioramento e un portafoglio ordini che continua ad ampliarsi. Il gruppo europeo dell’aerospazio ha registrato...",
+      "spokenText": "Airbus ha archiviato i primi nove mesi del 2026 con ricavi consolidati pari a 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi registrati nello stesso periodo del 2025. Le consegne sono state 547, contro le 507 dell'anno precedente. Tra gennaio e settembre, il gruppo ha registrato 1.174 ordini lordi di aeromobili commerciali, rispetto ai 610 del 2025; al netto delle cancellazioni, gli ordini sono stati 1.105, più del doppio rispetto ai 514 dell'anno precedente. Alla fine di settembre, il portafoglio ordini del comparto commerciale contava 9.310 aeromobili. La capacità di trasformare questo portafoglio in consegne effettive rimane uno dei principali fattori di attenzione per il gruppo europeo dell'aerospazio. I ricavi delle attività commerciali sono aumentati dell’8%, a 36,7 miliardi di euro.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "airbus"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 50,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/airbus-ordini-crescita-confermata-guidance-2026-AJuw3xwB"
+      },
+      "analysis": {
+        "mainFact": "Airbus ha archiviato i primi nove mesi del 2026 con ricavi consolidati per 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi dello stesso periodo del 2025.",
+        "whyItMatters": "Nei primi nove mesi dell’anno le consegne sono state 547, rispetto alle 507 dello stesso periodo del 2025.",
+        "confirmedFacts": [
+          "Airbus ha archiviato i primi nove mesi del 2026 con ricavi consolidati per 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi dello stesso periodo del 2025.",
+          "Nei primi nove mesi dell’anno le consegne sono state 547, rispetto alle 507 dello stesso periodo del 2025.",
+          "I ricavi delle attività commerciali sono aumentati dell’8%, a 36,7 miliardi di euro.",
+          "Tra gennaio e settembre Airbus ha registrato 1.174 ordini lordi di aeromobili commerciali, contro i 610 dello stesso periodo dell’anno precedente.",
+          "Al netto delle cancellazioni, gli ordini sono stati 1.105, più del doppio rispetto ai 514 del 2025.",
+          "La capacità di trasformare il portafoglio ordini in consegne effettive rimane uno dei principali fattori di attenzione per il gruppo.",
+          "Il gruppo europeo dell’aerospazio ha registrato ricavi consolidati per 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi dello stesso periodo del 2025.",
+          "Alla fine di settembre il portafoglio ordini del comparto commerciale contava 9.310 aeromobili."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Airbus"
+        ],
+        "numbersAndDates": [
+          "I ricavi delle attività commerciali sono aumentati dell’8%, a 36,7 miliardi di euro.",
+          "Tra gennaio e settembre Airbus ha registrato 1.174 ordini lordi di aeromobili commerciali, contro i 610 dello stesso periodo dell’anno precedente.",
+          "Al netto delle cancellazioni, gli ordini sono stati 1.105, più del doppio rispetto ai 514 del 2025.",
+          "Il gruppo europeo dell’aerospazio ha registrato ricavi consolidati per 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi dello stesso periodo del 2025.",
+          "Alla fine di settembre il portafoglio ordini del comparto commerciale contava 9.310 aeromobili.",
+          "2026",
+          "50,6",
+          "7",
+          "47,4",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "story-4489a983a8bf61d1",
+      "title": "Adolescenti dietro le sbarre: che cosa dicono gli studi sul carcere minorile",
+      "summary": "Mentre il governo annuncia nuovi posti negli istituti penali per minorenni, un commento su The Lancet Child &amp; Adolescent Health ricostruisce le evidenze sugli effetti della detenzione in adolescenza: più disturbi psichiatrici, più psicofarmaci, più recidiva. E ricorda che l’Italia, per anni, aveva indicato all’Europa una strada diversa.",
+      "spokenText": "Un commento su The Lancet Child & Adolescent Health ricostruisce le evidenze sugli effetti della detenzione in adolescenza: più disturbi psichiatrici, più psicofarmaci, più recidiva. In Italia il decreto Caivano del 2023 ha ampliato i presupposti della custodia cautelare e il pacchetto sicurezza estende ai minori il fermo preventivo amministrativo; alcune proposte di legge prevedono inoltre una presunzione automatica di capacità per gli adolescenti tra 14 e 17 anni. E ricorda che l’Italia, per anni, aveva indicato all’Europa una strada diversa. Il codice del processo penale minorile del 1988 (DPR 448/1988) aveva posto al centro il recupero educativo dei ragazzi e le ragazze: la sospensione del processo con messa alla prova, l’irrilevanza del fatto, il carcere come misura di ultima istanza. Il titolo di un lavoro pubblicato nel 2025 sulla rivista Epidemiologia & Prevenzione sintetizza il cambiamento avvenuto da allora: la detenzione minorile in Italia sarebbe passata da modello di protezione ammirato in Europa a luogo criminalizzante e patogeno.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "the lancet child adolescent health",
+        "italia",
+        "dpr 448 1988",
+        "decreto caivano del 2023",
+        "northwestern juvenile project"
       ],
       "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 38,
+      "estimatedSeconds": 64,
       "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/stati-generali-della-green-economy-2026"
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/carcere-minorile-adolescenti-evidenze/"
       },
       "analysis": {
-        "mainFact": "Giunti alla XV edizione, gli Stati Generali della Green Economy sono quest’anno dedicati al tema “I fattori internazionali di spinta alla Green Economy in un contesto geopolitico critico” e si terranno il 3 e 4 novembre 2026, ospitati all’interno di Italian Exhibition Group – Ecomondo – Rimini Expo Center.",
-        "whyItMatters": "Tra il 2012 e il 2025 hanno coinvolto più di 9000 stakeholder.",
+        "mainFact": "Un commento su The Lancet Child & Adolescent Health ricostruisce le evidenze sugli effetti della detenzione in adolescenza: più disturbi psichiatrici, più psicofarmaci, più recidiva.",
+        "whyItMatters": "In Italia il decreto Caivano del 2023 ha ampliato i presupposti della custodia cautelare e il pacchetto sicurezza estende ai minori il fermo preventivo amministrativo; alcune proposte di legge prevedono inoltre una presunzione automatica di capacità per gli adolescenti tra 14 e 17 anni.",
         "confirmedFacts": [
-          "Giunti alla XV edizione, gli Stati Generali della Green Economy sono quest’anno dedicati al tema “I fattori internazionali di spinta alla Green Economy in un contesto geopolitico critico” e si terranno il 3 e 4 novembre 2026, ospitati all’interno di Italian Exhibition Group – Ecomondo – Rimini Expo Center.",
-          "Tra il 2012 e il 2025 hanno coinvolto più di 9000 stakeholder.",
-          "Sono il punto di riferimento per migliaia di imprese, e non solo.",
-          "Quando dal 03/11/2026 al 04/11/2026 (Europe/Berlin / UTC100) Dove Rimini Aggiungi l'evento al calendario iCal Il 4 novembre alla sessione \" La geopolitica della green economy: una finestra sul mondo\" è prevista la partecipazione della Presidente ISPRA, Maria Alessandra Gallone Programma"
+          "Un commento su The Lancet Child & Adolescent Health ricostruisce le evidenze sugli effetti della detenzione in adolescenza: più disturbi psichiatrici, più psicofarmaci, più recidiva.",
+          "In Italia il decreto Caivano del 2023 ha ampliato i presupposti della custodia cautelare e il pacchetto sicurezza estende ai minori il fermo preventivo amministrativo; alcune proposte di legge prevedono inoltre una presunzione automatica di capacità per gli adolescenti tra 14 e 17 anni.",
+          "E ricorda che l’Italia, per anni, aveva indicato all’Europa una strada diversa.",
+          "Il codice del processo penale minorile del 1988 (DPR 448/1988) aveva posto al centro il recupero educativo dei ragazzi e le ragazze: la sospensione del processo con messa alla prova, l’irrilevanza del fatto, il carcere come misura di ultima istanza.",
+          "Il titolo di un lavoro pubblicato nel 2025 sulla rivista Epidemiologia & Prevenzione sintetizza il cambiamento avvenuto da allora: la detenzione minorile in Italia sarebbe passata da modello di protezione ammirato in Europa a luogo criminalizzante e patogeno.",
+          "Gli autori, richiamando una revisione del 2020 , definiscono il carcere un ambiente strutturalmente incompatibile con uno sviluppo adolescenziale sano.",
+          "Il Northwestern Juvenile Project , che ha seguito per 15 anni giovani entrati nel circuito della giustizia minorile negli Stati Uniti, ha mostrato che questi disturbi tendono a persistere in età adulta."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Italian Exhibition Group – Ecomondo – Rimini Expo Center"
+          "The Lancet Child & Adolescent Health",
+          "Italia",
+          "DPR 448/1988",
+          "decreto Caivano del 2023",
+          "Northwestern Juvenile Project"
         ],
         "numbersAndDates": [
-          "Quando dal 03/11/2026 al 04/11/2026 (Europe/Berlin / UTC100) Dove Rimini Aggiungi l'evento al calendario iCal Il 4 novembre alla sessione \" La geopolitica della green economy: una finestra sul mondo\" è prevista la partecipazione della Presidente ISPRA, Maria Alessandra Gallone Programma",
-          "3",
-          "4",
-          "2026",
-          "2012",
-          "2025",
-          "9000"
+          "Il codice del processo penale minorile del 1988 (DPR 448/1988) aveva posto al centro il recupero educativo dei ragazzi e le ragazze: la sospensione del processo con messa alla prova, l’irrilevanza del fatto, il carcere come misura di ultima istanza.",
+          "Il titolo di un lavoro pubblicato nel 2025 sulla rivista Epidemiologia & Prevenzione sintetizza il cambiamento avvenuto da allora: la detenzione minorile in Italia sarebbe passata da modello di protezione ammirato in Europa a luogo criminalizzante e patogeno.",
+          "Gli autori, richiamando una revisione del 2020 , definiscono il carcere un ambiente strutturalmente incompatibile con uno sviluppo adolescenziale sano.",
+          "Il Northwestern Juvenile Project , che ha seguito per 15 anni giovani entrati nel circuito della giustizia minorile negli Stati Uniti, ha mostrato che questi disturbi tendono a persistere in età adulta.",
+          "2023",
+          "14",
+          "17"
         ]
       }
     },
     {
-      "id": "story-9ab9cbf54ad5572a",
-      "title": "L'AMOC rallenta: si \"vede\" da satellite",
-      "summary": "Diminuisce lo scambio di calore tra oceano e atmosfera nell'Atlantico: un indizio dell'indebolimento dell'AMOC, che mitiga il clima europeo.",
-      "spokenText": "L'AMOC rallenta e lo si vede dallo spazio. Uno studio basato su rilevazioni satellitari dal 1985 al 2023 ha documentato un calo dello scambio di calore tra le acque dell'Atlantico e l'atmosfera terrestre. I ricercatori, stimando il flusso medio della corrente per decennio e confrontando i dati del primo periodo con quelli successivi, hanno concluso che l'AMOC è rallentata del 14% in trent'anni. Questo sistema distribuisce calore in tutto il Pianeta: quando l'acqua si raffredda nell'Atlantico settentrionale, cede parte dell'energia termica all'atmosfera, mitigando il clima dell'Europa occidentale e settentrionale. È proprio grazie a questa dinamica che esiste una differenza di circa 11 gradi tra le temperature invernali medie di Roma e Chicago, sebbene le due città si trovino a latitudini simili. La riduzione del calore rilasciato dall'oceano all'atmosfera rappresenta quindi un indizio concreto dell'indebolimento dell'AMOC, con possibili conseguenze per gli inverni miti in Europa. 28 ottobre 2026 Elisabetta Intini Tag ambiente - amoc - capovolgimento meridionale della circolazione atlantica - oceano atlantico - groenlandia - fusione dei ghiacci - cambiamenti climatici - da satellite - clima - corrente del golfo - correnti oceaniche - emissioni di CO2.",
-      "category": "scienza",
+      "id": "story-a8c0a0eaa5c0629c",
+      "title": "Jorgensen (Ue): riscaldamento a rischio per 50 milioni di europei",
+      "summary": "Il prossimo inverno sarà “duro” per molti cittadini europei, oltre 50 milioni dei quali non saranno in grado di “riscaldare adeguatamente” le proprie abitazioni. Lo prevede il commissario europeo all’Energia...",
+      "spokenText": "Il prossimo inverno sarà duro per molti cittadini europei. Secondo le previsioni del commissario europeo per l'Energia e l'Edilizia abitativa, Dan Jorgensen, oltre 50 milioni di persone non saranno in grado di riscaldare adeguatamente le proprie abitazioni. epa13336426 Il commissario europeo per l’Energia e l’Edilizia abitativa, Dan Jorgensen, partecipa a una conferenza stampa al termine del Dialogo di alto livello sulle raffinerie dell’UE a Bruxelles, in Belgio, il 28 ottobre 2026.",
+      "category": "ambiente",
       "tags": [
-        "scienza",
-        "amoc",
-        "atlantico",
-        "europa",
-        "roma",
-        "chicago"
+        "ambiente",
+        "dan jorgensen",
+        "50 milioni di europei"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 75,
+      "estimatedSeconds": 29,
       "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/ambiente/ecologia/rallenta-il-sistema-di-correnti-oceaniche-amoc-dai-satelliti-la-prova-piu-convincente"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/jorgensen-ue-riscaldamento-rischio-50-milioni-europei-vaglio-ulteriori-misure-AJMCprxB"
       },
       "analysis": {
-        "mainFact": "L'AMOC rallenta: si \"vede\" da satellite",
-        "whyItMatters": "Diminuisce lo scambio di calore tra oceano e atmosfera nell'Atlantico: un indizio dell'indebolimento dell'AMOC, che mitiga il clima europeo.",
+        "mainFact": "Il prossimo inverno sarà “duro” per molti cittadini europei, oltre 50 milioni dei quali non saranno in grado di “riscaldare adeguatamente” le proprie abitazioni.",
+        "whyItMatters": "Lo prevede il commissario europeo all’Energia e l’Edilizia abitativa Dan Jorgensen , a Lussemburgo a margine del Consiglio Ue.",
         "confirmedFacts": [
-          "L'AMOC rallenta: si \"vede\" da satellite",
-          "Diminuisce lo scambio di calore tra oceano e atmosfera nell'Atlantico: un indizio dell'indebolimento dell'AMOC, che mitiga il clima europeo.",
-          "Ecologia La corrente dell'Atlantico (AMOC) sta rallentando: la conferma arriva dai satelliti Uno studio condotto con dati satellitari dal 1985 al 2023 ha registrato un calo del calore rilasciato dall'oceano all'atmosfera: l'AMOC rallentata del 14% in trent'anni, con seri rischi per gli inverni miti in Europa.",
-          "Uno studio basato su rilevazioni satellitari ha osservato una riduzione dello scambio di calore tra le acque dell'Atlantico e l'atmosfera terrestre negli ultimi 40 anni.",
-          "L'AMOC il motivo della differenza di circa 11 C tra le temperature invernali medie di Roma e Chicago, che pure si trovano a latitudini simili.",
-          "Dopo aver stimato il flusso medio dell'AMOC per decennio, confrontando i dati del primo decennio con quelli successivi, i ricercatori hanno concluso che l'AMOC rallentata del 14% in 30 anni .",
-          "28 ottobre 2026 Elisabetta Intini Tag ambiente - amoc - capovolgimento meridionale della circolazione atlantica - oceano atlantico - groenlandia - fusione dei ghiacci - cambiamenti climatici - da satellite - clima - corrente del golfo - correnti oceaniche - emissioni di CO2",
-          "Questo sistema distribuisce calore in tutto il Pianeta ed un importante regolatore del clima terrestre: quando l'acqua si raffredda nell'Atlantico settentrionale, cede parte dell'energia termica all'atmosfera , mitigando il clima dell'Europa occidentale e settentrionale."
+          "Il prossimo inverno sarà “duro” per molti cittadini europei, oltre 50 milioni dei quali non saranno in grado di “riscaldare adeguatamente” le proprie abitazioni.",
+          "Lo prevede il commissario europeo all’Energia e l’Edilizia abitativa Dan Jorgensen , a Lussemburgo a margine del Consiglio Ue.",
+          "epa13336426 Il commissario europeo per l’Energia e l’Edilizia abitativa, Dan Jorgensen, partecipa a una conferenza stampa al termine del Dialogo di alto livello sulle raffinerie dell’UE a Bruxelles, in Belgio, il 28 ottobre 2026.",
+          "Jorgensen (Ue): riscaldamento a rischio per 50 milioni di europei"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "AMOC",
-          "Atlantico",
-          "Europa",
-          "Roma",
-          "Chicago"
+          "Dan Jorgensen",
+          "50 milioni di europei"
         ],
         "numbersAndDates": [
-          "Ecologia La corrente dell'Atlantico (AMOC) sta rallentando: la conferma arriva dai satelliti Uno studio condotto con dati satellitari dal 1985 al 2023 ha registrato un calo del calore rilasciato dall'oceano all'atmosfera: l'AMOC rallentata del 14% in trent'anni, con seri rischi per gli inverni miti in Europa.",
-          "Uno studio basato su rilevazioni satellitari ha osservato una riduzione dello scambio di calore tra le acque dell'Atlantico e l'atmosfera terrestre negli ultimi 40 anni.",
-          "L'AMOC il motivo della differenza di circa 11 C tra le temperature invernali medie di Roma e Chicago, che pure si trovano a latitudini simili.",
-          "Dopo aver stimato il flusso medio dell'AMOC per decennio, confrontando i dati del primo decennio con quelli successivi, i ricercatori hanno concluso che l'AMOC rallentata del 14% in 30 anni .",
-          "28 ottobre 2026 Elisabetta Intini Tag ambiente - amoc - capovolgimento meridionale della circolazione atlantica - oceano atlantico - groenlandia - fusione dei ghiacci - cambiamenti climatici - da satellite - clima - corrente del golfo - correnti oceaniche - emissioni di CO2"
+          "epa13336426 Il commissario europeo per l’Energia e l’Edilizia abitativa, Dan Jorgensen, partecipa a una conferenza stampa al termine del Dialogo di alto livello sulle raffinerie dell’UE a Bruxelles, in Belgio, il 28 ottobre 2026.",
+          "Jorgensen (Ue): riscaldamento a rischio per 50 milioni di europei",
+          "50"
         ]
       }
     },
     {
-      "id": "story-43dd91bfbf3eab06",
-      "title": "Il ghiaccio sporco della cometa interstellare 3I/Atlas",
-      "summary": "Un nuovo studio condotto con il telescopio spaziale James Webb analizza i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato. La combinazione tra ghiaccio d’acqua e polveri refrattarie rivela una parentela inaspettata con i corpi della Fascia di Kuiper e suggerisce un processo universale di formazione dei planetesimi",
-      "spokenText": "Il telescopio spaziale James Webb ha analizzato i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato, la cometa 3I/Atlas. L'osservazione ha messo in luce una composizione particolare, dove il ghiaccio d'acqua si mescola a polveri refrattarie. Questa combinazione rivela una parentela inaspettata con i corpi della Fascia di Kuiper e suggerisce un processo universale di formazione dei planetesimi.",
-      "category": "scienza",
+      "id": "story-0f4668c3a7ebb9d7",
+      "title": "Manovra, dai 100 euro per i bebè alla carta per le spese sanitarie degli anziani",
+      "summary": "Climatizzatori nelle scuole, addio al bollo auto, cedolare secca per l’affitto degli immobili commerciali: sono solo alcuni punti del disegno della legge di bilancio varato ieri da Palazzo Chigi",
+      "spokenText": "Palazzo Chigi ha varato ieri il disegno della legge di bilancio, che include misure come i climatizzatori nelle scuole, l'addio al bollo auto e la cedolare secca per l'affitto degli immobili commerciali. La manovra prevede inoltre 100 euro per i bebè e una carta per le spese sanitarie degli anziani.",
+      "category": "attualita",
       "tags": [
-        "scienza",
-        "telescopio spaziale james webb",
-        "cometa interstellare 3i atlas",
-        "fascia di kuiper"
+        "attualita",
+        "palazzo chigi"
       ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 24,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/10/28/il-ghiaccio-sporco-della-cometa-interstellare-3i-atlas/"
-      },
-      "analysis": {
-        "mainFact": "Un nuovo studio condotto con il telescopio spaziale James Webb analizza i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato.",
-        "whyItMatters": "La combinazione tra ghiaccio d’acqua e polveri refrattarie rivela una parentela inaspettata con i corpi della Fascia di Kuiper e suggerisce un processo universale di formazione dei planetesimi.",
-        "confirmedFacts": [
-          "Un nuovo studio condotto con il telescopio spaziale James Webb analizza i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato.",
-          "La combinazione tra ghiaccio d’acqua e polveri refrattarie rivela una parentela inaspettata con i corpi della Fascia di Kuiper e suggerisce un processo universale di formazione dei planetesimi.",
-          "Il ghiaccio sporco della cometa interstellare 3I/Atlas"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "telescopio spaziale James Webb",
-          "cometa interstellare 3I/Atlas",
-          "Fascia di Kuiper"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-c23c570f318d0862",
-      "title": "MacBook Pro, ecco il modello con Display touch PROLED XDR",
-      "summary": "Apple ha presentato il nuovo MacBook Pro, un modello che segna una svolta profonda nella storia dei portatili professionali del marchio. La novit&agrave; pi&ugrave; evidente riguarda lo schermo, ribat...",
-      "spokenText": "Apple ha presentato il nuovo MacBook Pro, un modello che segna una svolta profonda nella storia dei portatili professionali del marchio. Il dispositivo rappresenta un punto di svolta per l'azienda, ridefinendo gli standard della categoria professionale e consolidando ulteriormente la posizione di Apple nel settore dei computer portatili.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "apple",
-        "macbook pro"
-      ],
-      "importance": 95,
+      "importance": 85,
       "mustInclude": false,
       "estimatedSeconds": 20,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/hardware/macbook-pro-ecco-il-modello-con-display-touch-proled-xdr-2026-10-28"
-      },
-      "analysis": {
-        "mainFact": "Apple ha presentato il nuovo MacBook Pro, un modello che segna una svolta profonda nella storia dei portatili professionali del marchio.",
-        "whyItMatters": "Nuovo MacBook Pro con display innovativo, rilevante per tecnologia e industria.",
-        "confirmedFacts": [
-          "Apple ha presentato il nuovo MacBook Pro, un modello che segna una svolta profonda nella storia dei portatili professionali del marchio.",
-          "Nuovo MacBook Pro con display innovativo, rilevante per tecnologia e industria."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Apple",
-          "MacBook Pro"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-08b542ece514396c",
-      "title": "Reionizzazione: non supernove ma giovani stelle",
-      "summary": "Pare non siano stati i venti generati dalle supernove a favorire la reionizzazione dell’universo primordiale. Dati raccolti con Hubble mostrano infatti che le galassie con i venti più veloci lasciano sfuggire meno radiazione ionizzante. Secondo i risultati, pubblicati su Nature Astronomy, sarebbe la radiazione proveniente dalle stelle giovani a fuoriuscire prima delle esplosioni di supernova, e in maniera più efficace",
-      "spokenText": "Pare non siano stati i venti generati dalle supernove a favorire la reionizzazione dell'universo primordiale. Secondo i risultati pubblicati su Nature Astronomy, sarebbe invece la radiazione proveniente dalle giovani stelle a fuoriuscire prima delle esplosioni di supernova, in maniera più efficace. I dati raccolti con Hubble mostrano infatti che le galassie con i venti più veloci lasciano sfuggire meno radiazione ionizzante.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "supernove",
-        "giovani stelle",
-        "nature astronomy"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 25,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/10/28/reionizzazione-stelle-giovani-vs-supernove/"
-      },
-      "analysis": {
-        "mainFact": "Reionizzazione: non supernove ma giovani stelle",
-        "whyItMatters": "Dati raccolti con Hubble mostrano infatti che le galassie con i venti più veloci lasciano sfuggire meno radiazione ionizzante.",
-        "confirmedFacts": [
-          "Reionizzazione: non supernove ma giovani stelle",
-          "Dati raccolti con Hubble mostrano infatti che le galassie con i venti più veloci lasciano sfuggire meno radiazione ionizzante.",
-          "Pare non siano stati i venti generati dalle supernove a favorire la reionizzazione dell’universo primordiale."
-        ],
-        "uncertainties": [
-          "Secondo i risultati, pubblicati su Nature Astronomy, sarebbe la radiazione proveniente dalle stelle giovani a fuoriuscire prima delle esplosioni di supernova, e in maniera più efficace"
-        ],
-        "peopleAndOrganizations": [
-          "supernove",
-          "giovani stelle",
-          "Nature Astronomy"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-19af6f59895f3520",
-      "title": "L'IA di Google che funziona senza internet",
-      "summary": "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud: ecco come l'IA \"on-device\" (per ora solo su Mac) garantisce privacy e autonomia anche offline.",
-      "spokenText": "Google lancia Foresight, un'applicazione di intelligenza artificiale che funziona direttamente sul computer senza bisogno di connessione a internet. Per ora disponibile solo su Mac, l'app elabora riunioni, appunti e documenti personali in locale, evitando l'invio dei dati al cloud e garantendo maggiore privacy e autonomia anche offline. Il sistema è basato principalmente su Gemma 4 e, in particolare, su EmbeddingGemma 2, un modello Google da 740 milioni di parametri progettato per dispositivi relativamente piccoli. In pratica, mentre due o più persone parlano, l'applicazione crea una trascrizione sul computer e permette all'utente di prendere appunti sintetici in tempo reale: una nota come \"consegna venerdì\" può essere arricchita automaticamente con i dettagli recuperati da quanto detto pochi istanti prima. 28 ottobre 2026 Simone Valtieri Tag tecnologia - ia - google - intelligenza artificiale - computer - offline.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google",
-        "foresight",
-        "gemma 4",
-        "embeddinggemma 2",
-        "mac"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 54,
-      "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/tecnologia/innovazione/google-lancia-ia-che-funziona-senza-internet-come-lavora-foresight-direttamente-sul-computer"
-      },
-      "analysis": {
-        "mainFact": "L'IA di Google che funziona senza internet",
-        "whyItMatters": "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud, garantendo privacy e autonomia anche offline.",
-        "confirmedFacts": [
-          "L'IA di Google che funziona senza internet",
-          "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud, garantendo privacy e autonomia anche offline.",
-          "Innovazione Google lancia l'IA che funziona senza internet: l'app Foresight lavora direttamente sul computer Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud: ecco come l'IA \"on-device\" (per ora solo su Mac) garantisce privacy e autonomia anche offline.",
-          "28 ottobre 2026 Simone Valtieri Tag tecnologia - ia - google - intelligenza artificiale - computer - offline",
-          "Mentre due o pi persone parlano, l'app crea sul computer una trascrizione e permette all'utente di prendere velocemente appunti sintetici: una nota come \"consegna venerd \", per esempio, pu essere arricchita automaticamente con i dettagli recuperati da ci che stato detto pochi istanti prima.",
-          "Il lavoro viene svolto principalmente da Gemma 4 e, soprattutto, da EmbeddingGemma 2 , un modello Google da 740 milioni di parametri progettato proprio per funzionare su dispositivi relativamente piccoli."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google",
-          "Foresight",
-          "Gemma 4",
-          "EmbeddingGemma 2",
-          "Mac"
-        ],
-        "numbersAndDates": [
-          "28 ottobre 2026 Simone Valtieri Tag tecnologia - ia - google - intelligenza artificiale - computer - offline",
-          "Il lavoro viene svolto principalmente da Gemma 4 e, soprattutto, da EmbeddingGemma 2 , un modello Google da 740 milioni di parametri progettato proprio per funzionare su dispositivi relativamente piccoli."
-        ]
-      }
-    },
-    {
-      "id": "story-54c1badf2dab2521",
-      "title": "Legge di bilancio da 26 miliardi",
-      "summary": "Legge di bilancio da 26 miliardi. Accordo nella maggioranza sul fisco. Da banche e assicurazioni contributo da 5 miliardi. Rinvio per il decreto bollette",
-      "spokenText": "La legge di bilancio vale 26 miliardi di euro. Si tratta della quinta manovra del governo Meloni, che si inserisce nel solco delle precedenti e concentra tutte le risorse sulle priorità indicate dal centrodestra: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, imprese e salute. Tra le misure previste, c'è un taglio Irpef fino a 55mila euro, con circa 500 euro l'anno per il ceto medio, e la flat tax per gli autonomi fino a 100mila euro. Salta invece lo sconto sulla tredicesima, mentre il bonus casa è confermato al 50%. Le misure verranno dettagliate durante la conversione in Parlamento. Tra i capitoli di spesa, il contributo da banche e assicurazioni ammonta a 5 miliardi, mentre la proposta leghista per il pensionamento a 64 anni costa 1,6 miliardi.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "governo meloni",
-        "banche",
-        "assicurazioni",
-        "parlamento"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 53,
-      "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/10/28/news/manovra_cdm_meloni_misure_taglio_irpef_banche_bonus-425681765/"
+        "url": "https://www.repubblica.it/economia/2026/10/29/news/manovra_misure_governo_meloni_inps_bollo_pensioni-425682960/"
       },
       "analysis": {
-        "mainFact": "Legge di bilancio da 26 miliardi.",
-        "whyItMatters": "Manovra da 26 miliardi, taglio Irpef fino a 55mila euro.",
+        "mainFact": "Climatizzatori nelle scuole, addio al bollo auto, cedolare secca per l’affitto degli immobili commerciali: sono solo alcuni punti del disegno della legge di bilancio varato ieri da Palazzo Chigi.",
+        "whyItMatters": "Manovra, dai 100 euro per i bebè alla carta per le spese sanitarie degli anziani",
         "confirmedFacts": [
-          "Legge di bilancio da 26 miliardi.",
-          "Manovra da 26 miliardi, taglio Irpef fino a 55mila euro.",
-          "La quinta manovra del governo Meloni mette insieme 26 miliardi e si inserisce nel solco delle precedenti, concentrando tutte le risorse su quelle che il centrodestra considera le priorità: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, imprese, salute.",
-          "Per approfondire Agenzia ANSA Al ceto medio 500 euro l'anno, flat tax per gli autonomi fino a 100mila euro - Notizie - Ansa. it Salta lo sconto sulla tredicesima, bonus casa confermato al 50% (ANSA) Il conto sale rispetto alle tabelle del Dpb che indicavano interventi per 23,5 miliardi.",
-          "le misure però verranno dettagliate durante la conversione in Parlamento e la proposta leghista di pensionamento 64 anni costa il doppio, 1,6 miliardi.",
-          "Da banche e assicurazioni contributo da 5 miliardi."
+          "Climatizzatori nelle scuole, addio al bollo auto, cedolare secca per l’affitto degli immobili commerciali: sono solo alcuni punti del disegno della legge di bilancio varato ieri da Palazzo Chigi.",
+          "Manovra, dai 100 euro per i bebè alla carta per le spese sanitarie degli anziani"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "governo Meloni",
-          "banche",
-          "assicurazioni",
-          "Parlamento"
+          "Palazzo Chigi"
         ],
         "numbersAndDates": [
-          "La quinta manovra del governo Meloni mette insieme 26 miliardi e si inserisce nel solco delle precedenti, concentrando tutte le risorse su quelle che il centrodestra considera le priorità: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, imprese, salute.",
-          "Per approfondire Agenzia ANSA Al ceto medio 500 euro l'anno, flat tax per gli autonomi fino a 100mila euro - Notizie - Ansa. it Salta lo sconto sulla tredicesima, bonus casa confermato al 50% (ANSA) Il conto sale rispetto alle tabelle del Dpb che indicavano interventi per 23,5 miliardi.",
-          "le misure però verranno dettagliate durante la conversione in Parlamento e la proposta leghista di pensionamento 64 anni costa il doppio, 1,6 miliardi.",
-          "Da banche e assicurazioni contributo da 5 miliardi.",
-          "26"
+          "100"
         ]
       }
     },
     {
-      "id": "story-6a5f05b9013b0743",
-      "title": "La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime",
-      "summary": "La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime. In Israele, manca una maggioranza chiara per il rinnovo della Knesset. Il petrolio è in rialzo e il gas supera i 100 euro per la prima volta dal 2022",
-      "spokenText": "La banca centrale americana ha lasciato i tassi d'interesse invariati al 3,75%-4%, in linea con le stime. La decisione è stata presa con 10 voti a favore e 2 contrari, mentre lo scorso 16 settembre l'istituto aveva alzato i tassi per la prima volta dal luglio 2023. Sul piano energetico, il gas supera i 100 euro al megawattora per la prima volta dal 2022, con il Brent che corre sui 116 dollari al barile. I timori di una crisi energetica, uniti all'attesa per la decisione della banca centrale americana e all'incertezza sul voto israeliano che si è concluso senza una maggioranza chiara per il rinnovo della Knesset, hanno suggerito prudenza ai listini del Vecchio Continente, che hanno chiuso in ordine sparso. Wall Street chiude invece positiva, mentre a Milano si registra un +0,4% con lo sprint di Stellantis.",
-      "category": "attualita",
+      "id": "story-10f9a6f2eec3d9f5",
+      "title": "CC BY-ND Tre volte a settimana",
+      "summary": "CC BY-ND Tre volte a settimana, Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone.",
+      "spokenText": "Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone. La coppia ha iniziato a prendere metadone, un farmaco che cura la dipendenza da oppioidi, all'inizio del 2025. Titus deve prendere la sua dose di metadone e arrivare al lavoro a Bisbee prima che il suo turno inizi alle 9 del mattino. La clinica apre nei giorni feriali alle 4:30 del mattino ma chiude prima di mezzogiorno.",
+      "category": "salute",
       "tags": [
-        "attualita",
-        "banca centrale americana",
-        "wall street",
-        "milano",
-        "stellantis",
-        "knesset"
+        "salute",
+        "amber titus"
       ],
-      "importance": 95,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 56,
+      "estimatedSeconds": 32,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/borsa-indici-mercoledi-28-ottobre-2026-AJhzuSwB"
+        "name": "The Conversation",
+        "url": "https://theconversation.com/private-equity-is-buying-up-more-methadone-clinics-access-to-the-lifesaving-drug-isnt-getting-easier-286927"
       },
       "analysis": {
-        "mainFact": "La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime.",
-        "whyItMatters": "La banca centrale americana ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d'interesse al 3,75%-4%, mentre il gas supera i 100 euro al megawattora per la prima volta dal 2022.",
+        "mainFact": "CC BY-ND Tre volte a settimana, Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone.",
+        "whyItMatters": "Impatto del private equity sull'accesso alle cure per metadone, tema salute e diritti.",
         "confirmedFacts": [
-          "La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime.",
-          "La banca centrale americana ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d'interesse al 3,75%-4%, mentre il gas supera i 100 euro al megawattora per la prima volta dal 2022.",
-          "Wall Street chiude positiva, a Milano (+0,4%) sprint Stellantis La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime.",
-          "Il petrolio è in rialzo e il gas supera i 100 euro per la prima volta dal 2022",
-          "Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
-          "I timori di una crisi energetica, testimoniati dal rally di gas e petrolio, uniti all’attesa per la decisione della banca centrale americana hanno suggerito prudenza ai listini del Vecchio Continente, che hanno chiuso in ordine sparso ma senza grandi sussulti.",
-          "Il gas è sopra i 100 euro al MWh , livello che non si vedeva dalla fine del 2022, il Brent corre sui 116 dollari al barile.",
-          "A pesare è anche l'incertezza sul voto israeliano che si è concluso senza una maggioranza chiara per il rinnovo della Knesset."
+          "CC BY-ND Tre volte a settimana, Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone.",
+          "Impatto del private equity sull'accesso alle cure per metadone, tema salute e diritti.",
+          "La coppia ha iniziato a prendere metadone, un farmaco che cura la dipendenza da oppioidi, all'inizio del 2025.",
+          "Titus deve prendere la sua dose di metadone e arrivare al lavoro a Bisbee prima che il suo turno inizi alle 9 del mattino.",
+          "La clinica apre nei giorni feriali alle 4:30 del mattino ma chiude prima di mezzogiorno."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "banca centrale americana",
-          "Wall Street",
-          "Milano",
-          "Stellantis",
-          "Knesset"
+          "Amber Titus"
         ],
         "numbersAndDates": [
-          "Wall Street chiude positiva, a Milano (+0,4%) sprint Stellantis La banca centrale americana ha lasciato i tassi al 3,75%-4%, in linea con le stime.",
-          "Il petrolio è in rialzo e il gas supera i 100 euro per la prima volta dal 2022",
-          "Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
-          "Il gas è sopra i 100 euro al MWh , livello che non si vedeva dalla fine del 2022, il Brent corre sui 116 dollari al barile.",
-          "3,75",
-          "4",
-          "10",
-          "2",
-          "100",
-          "2022"
-        ]
-      }
-    },
-    {
-      "id": "story-41db4dfb33833bae",
-      "title": "Manca lo spoglio di 650mila buste doppie che possono cambiare il quadro",
-      "summary": "Manca lo spoglio di 650mila buste doppie che possono cambiare il quadro",
-      "spokenText": "Il voto ai seggi rappresenta l'86% del totale e ora mancano circa 650mila 'buste doppie' ancora da scrutinare che possono cambiare il quadro.",
-      "category": "mondo",
-      "tags": [
-        "mondo"
-      ],
-      "importance": 70,
-      "mustInclude": false,
-      "estimatedSeconds": 10,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/scrutinio-delle-urne-terminato-53-seggi-al-blocco-netanyahu-48-a-blocco-eisenkot_f427c057-4c01-47df-a728-c0c16393e60e.html"
-      },
-      "analysis": {
-        "mainFact": "Il voto ai seggi rappresenta l'86% del totale e ora mancano circa 650mila 'buste doppie' ancora da scrutinare che possono cambiare il quadro.",
-        "whyItMatters": "Risultati elettorali israeliani con implicazioni geopolitiche sistemiche.",
-        "confirmedFacts": [
-          "Il voto ai seggi rappresenta l'86% del totale e ora mancano circa 650mila 'buste doppie' ancora da scrutinare che possono cambiare il quadro.",
-          "Risultati elettorali israeliani con implicazioni geopolitiche sistemiche."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "86"
+          "CC BY-ND Tre volte a settimana, Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone.",
+          "La coppia ha iniziato a prendere metadone, un farmaco che cura la dipendenza da oppioidi, all'inizio del 2025.",
+          "Titus deve prendere la sua dose di metadone e arrivare al lavoro a Bisbee prima che il suo turno inizi alle 9 del mattino.",
+          "La clinica apre nei giorni feriali alle 4:30 del mattino ma chiude prima di mezzogiorno.",
+          "5",
+          "45"
         ]
       }
     }
