@@ -1,661 +1,605 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-10-29-bfb3b4cc7039",
-  "generatedAt": "2026-10-29T12:10:03.680Z",
+  "catalogId": "daily-quid-2026-10-30-b618469eaaeb",
+  "generatedAt": "2026-10-30T12:00:44.908Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-35c87ab165e89d06",
-      "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "summary": "Serious pollution by water industry remains high despite £5bn investment",
-      "spokenText": "Serious pollution by water industry remains high despite £5bn investment.",
+      "id": "story-072286e9f17538bc",
+      "title": "\"Protecting Blue Corridors”",
+      "summary": "ISPRA nella ricerca internazionale: le orche antartiche e la mappa globale dei corridoi migratori L’Antartide e la rete globale dei mari: l'impegno di ISPRA nel progetto \"Protecting Blue Corridors\" L’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA) consolida ulteriormente il proprio ruolo di primo piano nel panorama scientifico internazionale partecipando all'iniziativa globale Protecting Blue Corridors una rete d'eccellenza che unisce esperti di scienza marina, conservazione, tecnologia e politiche ambientali per mappare le rotte migratorie dei mammiferi marini a livello planetario.",
+      "spokenText": "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito Protecting Blue Corridors.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "environment agency",
-        "consumer council for water ccw"
+        "protecting blue corridors"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 4,
+      "estimatedSeconds": 8,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/protecting-blue-corridors"
       },
       "analysis": {
-        "mainFact": "Serious pollution by water industry remains high despite £5bn investment",
-        "whyItMatters": "Inquinamento idrico in Inghilterra nonostante investimenti, rilevante per ambiente.",
+        "mainFact": "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito",
+        "whyItMatters": "Corridoi migratori orche antartiche: tutela ambientale e ricerca ISPRA su scala globale.",
         "confirmedFacts": [
-          "Serious pollution by water industry remains high despite £5bn investment",
-          "Inquinamento idrico in Inghilterra nonostante investimenti, rilevante per ambiente.",
-          "Serious pollution incidents in 2025 were a \"major concern\", the Environment Agency said, and remained at similarly high levels to those seen in previous years.",
-          "Overall, England's water companies were awarded 16 out of a possible 36 stars for environmental performance - the worst total on record.",
-          "Water companies have committed record levels of investment up to 2030 to upgrade their networks and sewage treatment works.",
-          "There has already been £5bn invested over the last five years to try and tackle environmental pollution.",
-          "In September, it was reported that the number of complaints made by households about water companies to the Consumer Council for Water (CCW) rose by 84% in a year - the highest in 20 years.",
-          "Water consumption fails to fall risking supplies The joint report, published on Thursday, also found that household consumption in England and Wales in 2025 remained similar to the previous year, at 137 litres per person per day.",
-          "15 October Mayors could be given powers to oversee water companies 16 September Five key takeaways from the landmark water sector review 21 July 2025"
+          "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito",
+          "Corridoi migratori orche antartiche: tutela ambientale e ricerca ISPRA su scala globale.",
+          "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito https://bluecorridors.org/sources"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Environment Agency",
-          "Consumer Council for Water (CCW)"
+          "Protecting Blue Corridors"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-2c7ba1286b39cd9a",
-      "title": "Tumore del polmone: una buona notizia",
-      "summary": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione.",
-      "spokenText": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione. L'associazione di due farmaci immunologici ha prolungato di 8,4 mesi la sopravvivenza mediana dei pazienti affetti da questa forma di cancro, tra le più aggressive e a più rapida diffusione, portandola da 12,7 a 21,1 mesi. Ma il 24 ottobre, stato un altro tipo di tumore del polmone a catalizzare l'attenzione degli oncologi della Societ Europea di Oncologia Medica (Esmo), riuniti in un congresso a Madrid: il microcitoma o carcinoma polmonare a piccole cellule , contro il quale forse stata trovata una svolta terapeutica. La strategia: evitare l'effetto rimbalzo Il microcitoma o tumore polmonare a piccole cellule (SCLC, dall'inglese small-cell lung cancer) responsabile del 10-15% dei casi di tumore del polmone e si presenta in genere nei fumatori . I due farmaci usati insieme hanno aumentato il tempo mediano in cui il tumore rimasto dormiente, passato da 1,9 mesi a 7,4 mesi, e migliorato la risposta alle cure, con il tumore che si ridotto ulteriormente nel 26,4% dei pazienti trattati con le due immunoterapie, contro il 4,1% dei pazienti del gruppo standard.",
+      "id": "story-9be9922ef55a351f",
+      "title": "Il paradosso dell’ansia: perché combatterla può renderla più forte",
+      "summary": "Il controllo di pensieri ed emozioni può alimentare l’ansia e rafforzare la paura, limitando progressivamente la libertà personale L'articolo Il paradosso dell’ansia: perché combatterla può renderla più forte proviene da State of Mind.",
+      "spokenText": "Il controllo di pensieri ed emozioni può alimentare l'ansia e rafforzare la paura, limitando progressivamente la libertà personale. Questo è il punto centrale dell'episodio intitolato \"Come si supera la paura del futuro? \", in cui Sandra Sassaroli è ospite del videopodcast \"Oggi per Domani\", disponibile su State of Mind.",
       "category": "salute",
       "tags": [
         "salute",
-        "carcinoma polmonare a piccole cellule",
-        "microcitoma",
-        "madrid",
-        "due farmaci immunologici"
+        "ansia",
+        "state of mind",
+        "sandra sassaroli"
       ],
-      "importance": 95,
+      "importance": 92,
       "mustInclude": false,
-      "estimatedSeconds": 78,
+      "estimatedSeconds": 20,
       "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/scienza/salute/tumore-ai-polmoni-buone-notizie-anche-per-la-forma-piu-temuta"
+        "name": "State of Mind (Psicologia)",
+        "url": "https://www.stateofmind.it/2026/10/ansia-controllo-paradosso/?utm_source=rss&utm_medium=rss&utm_campaign=ansia-controllo-paradosso"
       },
       "analysis": {
-        "mainFact": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione.",
-        "whyItMatters": "L'associazione di due farmaci immunologici ha prolungato di 8,4 mesi la sopravvivenza mediana dei pazienti affetti da questa forma di cancro, tra le più aggressive e a più rapida diffusione, portandola da 12,7 a 21,1 mesi.",
+        "mainFact": "Il controllo di pensieri ed emozioni può alimentare l'ansia e rafforzare la paura, limitando progressivamente la libertà personale.",
+        "whyItMatters": "Titolo dell'episodio è \"Come si supera la paura del futuro? – Sandra Sassaroli ospite del videopodcast “Oggi per Domani” proviene da State of Mind.",
         "confirmedFacts": [
-          "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione.",
-          "L'associazione di due farmaci immunologici ha prolungato di 8,4 mesi la sopravvivenza mediana dei pazienti affetti da questa forma di cancro, tra le più aggressive e a più rapida diffusione, portandola da 12,7 a 21,1 mesi.",
-          "Ma il 24 ottobre, stato un altro tipo di tumore del polmone a catalizzare l'attenzione degli oncologi della Societ Europea di Oncologia Medica (Esmo), riuniti in un congresso a Madrid: il microcitoma o carcinoma polmonare a piccole cellule , contro il quale forse stata trovata una svolta terapeutica.",
-          "La strategia: evitare l'effetto rimbalzo Il microcitoma o tumore polmonare a piccole cellule (SCLC, dall'inglese small-cell lung cancer) responsabile del 10-15% dei casi di tumore del polmone e si presenta in genere nei fumatori .",
-          "I due farmaci usati insieme hanno aumentato il tempo mediano in cui il tumore rimasto dormiente, passato da 1,9 mesi a 7,4 mesi, e migliorato la risposta alle cure, con il tumore che si ridotto ulteriormente nel 26,4% dei pazienti trattati con le due immunoterapie, contro il 4,1% dei pazienti del gruppo standard.",
-          "Salute Tumore del polmone: buone notizie anche per la forma più temuta Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore del polmone a rapida progressione."
+          "Il controllo di pensieri ed emozioni può alimentare l'ansia e rafforzare la paura, limitando progressivamente la libertà personale.",
+          "Titolo dell'episodio è \"Come si supera la paura del futuro? – Sandra Sassaroli ospite del videopodcast “Oggi per Domani” proviene da State of Mind.",
+          "Il controllo di pensieri ed emozioni può alimentare l’ansia e rafforzare la paura, limitando progressivamente la libertà personale L'articolo Il paradosso dell’ansia: perché combatterla può renderla più forte proviene da State of Mind.",
+          "Titolo dell'episodio è \"Come si supera la paura del futuro?\" L'articolo Come si supera la paura del futuro? – Sandra Sassaroli ospite del videopodcast “Oggi per Domani” proviene da State of Mind."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "carcinoma polmonare a piccole cellule",
-          "microcitoma",
-          "Madrid",
-          "due farmaci immunologici"
-        ],
-        "numbersAndDates": [
-          "Ma il 24 ottobre, stato un altro tipo di tumore del polmone a catalizzare l'attenzione degli oncologi della Societ Europea di Oncologia Medica (Esmo), riuniti in un congresso a Madrid: il microcitoma o carcinoma polmonare a piccole cellule , contro il quale forse stata trovata una svolta terapeutica.",
-          "La strategia: evitare l'effetto rimbalzo Il microcitoma o tumore polmonare a piccole cellule (SCLC, dall'inglese small-cell lung cancer) responsabile del 10-15% dei casi di tumore del polmone e si presenta in genere nei fumatori .",
-          "I due farmaci usati insieme hanno aumentato il tempo mediano in cui il tumore rimasto dormiente, passato da 1,9 mesi a 7,4 mesi, e migliorato la risposta alle cure, con il tumore che si ridotto ulteriormente nel 26,4% dei pazienti trattati con le due immunoterapie, contro il 4,1% dei pazienti del gruppo standard.",
-          "8,4",
-          "12,7",
-          "21,1"
-        ]
-      }
-    },
-    {
-      "id": "story-893d9a299214d3ac",
-      "title": "Lagarde si dimette dalla Bce dal 7 febbraio 2027",
-      "summary": "Lo ha annunciato il presidente del consiglio europeo Costa: 'Ha guidato la banca centrale con senso del dovere e responsabilità'. Standing ovation per lei dal consiglio direttivo. La presidente: 'Lascio una Bce pronta per il futuro'",
-      "spokenText": "Lagarde si dimette dalla Bce dal 7 febbraio 2027. Il Consiglio direttivo ha ringraziato calorosamente la presidente Lagarde tributandole una lunga standing ovation dopo l'annuncio delle dimissioni. Lo ha annunciato il presidente del consiglio europeo Costa: 'Ha guidato la banca centrale con senso del dovere e responsabilità'. \" Lascio questa istituzione con un senso di buon lavoro fatto e una Bce pronta per il futuro \", ha affermato la presidente dimissionaria in un breve video diffuso sui social, definendo l'istituto una \"roccia\". Per Lagarde «è stato un grande onore servire questa istituzione», ha detto ringraziando «tutti quelli che mi hanno sopportato in questo viaggio negli scorsi sette anni». L’annuncio della governatrice via social e la conferma del presidente del Consiglio europeo Costa. Lagarde lascerà il 7 febbraio.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "antonio costa"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 51,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/lagarde-si-dimette-dalla-bce-dal-7-febbraio-2027_3100c924-edf9-44a1-9175-21f84dd04681.html"
-      },
-      "analysis": {
-        "mainFact": "Lagarde si dimette dalla Bce dal 7 febbraio 2027.",
-        "whyItMatters": "Il Consiglio direttivo ha ringraziato calorosamente la presidente Lagarde tributandole una lunga standing ovation dopo l'annuncio delle dimissioni.",
-        "confirmedFacts": [
-          "Lagarde si dimette dalla Bce dal 7 febbraio 2027.",
-          "Il Consiglio direttivo ha ringraziato calorosamente la presidente Lagarde tributandole una lunga standing ovation dopo l'annuncio delle dimissioni.",
-          "Lo ha annunciato il presidente del consiglio europeo Costa: 'Ha guidato la banca centrale con senso del dovere e responsabilità'.",
-          "Lagarde: «Lascio la presidenza della Bce dal 7 febbraio 2027»",
-          "\" Lascio questa istituzione con un senso di buon lavoro fatto e una Bce pronta per il futuro \", ha affermato la presidente dimissionaria in un breve video diffuso sui social, definendo l'istituto una \"roccia\".",
-          "Per Lagarde «è stato un grande onore servire questa istituzione», ha detto ringraziando «tutti quelli che mi hanno sopportato in questo viaggio negli scorsi sette anni».",
-          "L’annuncio della governatrice via social e la conferma del presidente del Consiglio europeo Costa",
-          "Lagarde lascerà il 7 febbraio."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Antonio Costa"
-        ],
-        "numbersAndDates": [
-          "Lagarde lascerà il 7 febbraio.",
-          "7",
-          "2027"
-        ]
-      }
-    },
-    {
-      "id": "story-7e6630680532b334",
-      "title": "Airbus accelera sul caccia europeo di nuova generazione: Berlino guarda anche al GCAP",
-      "summary": "Airbus rafforza il proprio impegno nello sviluppo di un caccia di nuova generazione per l’Europa e conferma il dialogo con i governi di Germania e Spagna. A indicarlo è stato...",
-      "spokenText": "Airbus rafforza il proprio impegno nello sviluppo di un caccia di nuova generazione per l'Europa e conferma il dialogo con i governi di Germania e Spagna. Il gruppo aerospaziale collabora con i due paesi per definire le caratteristiche del futuro velivolo da combattimento europeo.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "airbus",
-        "germania",
-        "spagna",
-        "gcap"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 18,
-      "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/airbus-accelera-caccia-europeo-nuova-generazione-berlino-guarda-anche-gcap-AJXcpFxB"
-      },
-      "analysis": {
-        "mainFact": "Airbus rafforza il proprio impegno nello sviluppo di un caccia di nuova generazione per l’Europa e conferma il dialogo con i governi di Germania e Spagna.",
-        "whyItMatters": "Il gruppo aerospaziale lavora con Germania e Spagna allo sviluppo del futuro velivolo da combattimento europeo, mentre Berlino guarda anche al GCAP.",
-        "confirmedFacts": [
-          "Airbus rafforza il proprio impegno nello sviluppo di un caccia di nuova generazione per l’Europa e conferma il dialogo con i governi di Germania e Spagna.",
-          "Il gruppo aerospaziale lavora con Germania e Spagna allo sviluppo del futuro velivolo da combattimento europeo, mentre Berlino guarda anche al GCAP.",
-          "Airbus accelera sul caccia europeo di nuova generazione: Berlino guarda anche al GCAP Il gruppo aerospaziale lavora con Germania e Spagna allo sviluppo del futuro velivolo da combattimento europeo."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Airbus",
-          "Germania",
-          "Spagna",
-          "GCAP"
+          "ansia",
+          "State of Mind",
+          "Sandra Sassaroli"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-0fc5f5ecf3edb9ab",
-      "title": "Il PNRR ha effettivamente agevolato l’avvio della transizione ecologica",
-      "summary": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane. Ne abbiamo parlato con uno degli autori dello studio &ldquo;Does the National Recovery and Resilience Plan Speed Up Firms&rsquo; Twin Transition? Empirical Evidence from Italy&rdquo; uscito sulla rivista della Società Italiana di Economia.",
-      "spokenText": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane. A spiegarlo è Giovanni Ferri, professore ordinario di economia all'Università LUMSA, che ha misurato l'effetto sull'avvio congiunto della transizione digitale e di quella verde, la cosiddetta twin transition. Ferri ha poi valutato la continuità, chiedendosi se il PNRR abbia aiutato le imprese già impegnate nella doppia transizione a proseguire. I risultati mostrano che, rispetto alle imprese che non hanno fatto alcuna transizione, quelle impegnate nella twin transition hanno registrato una probabilità di resilienza superiore di quasi alcuni aspetti percentuali e una probabilità di crescita del fatturato superiore di circa alcuni aspetti. L’avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un’impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, risultato statisticamente significativo.",
+      "id": "story-d788fbe3344f1337",
+      "title": "L'effetto Google punisce i tech, Borse Ue in rosso. Il petrolio torna sopra i 100 dollari",
+      "summary": "A Piazza Affari maglia nera ad Amplifon dopo la trimestrale. Focus sulle banche, il risultato dell'assemblea Mps spiana la strada a Intesa Sanpaolo. Salgono i rendimenti dei titoli di Stato e lo spread",
+      "spokenText": "Ieri a Wall Street il titolo Alphabet ha lasciato sul terreno il 12,6%, bruciando 500 miliardi di dollari di capitalizzazione, con il trend discendente che si è esteso nella notte all'Asia. Sul piano europeo, salgono i rendimenti dei titoli di Stato e lo spread. Focus sulle banche dopo che l'assemblea di Banca Monte Paschi Siena ha bocciato le Ops su Banco Bpm e Banca Generali, spianando così definitivamente la strada all'offerta di Intesa Sanpaolo. A Piazza Affari maglia nera ad Amplifon dopo la trimestrale. Il petrolio torna sopra i 100 dollari. Petrolio in rialzo, euro/dollaro verso quota 1,12 Sul piano energetico torna a correre il petrolio con il Brent a 117,55 dollari al barile (+2,32%) e il Wti a 104,07 dollari (+2,03%).",
       "category": "attualita",
       "tags": [
         "attualita",
-        "pnrr",
-        "giovanni ferri",
-        "universita lumsa"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 57,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/pnrr-effettivamente-agevolato-avvio-transizione-ecologica/"
-      },
-      "analysis": {
-        "mainFact": "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane.",
-        "whyItMatters": "L’avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un’impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, risultato statisticamente significativo.",
-        "confirmedFacts": [
-          "Il PNRR ha effettivamente aiutato ad avviare la transizione ecologica e digitale per gran parte delle aziende italiane.",
-          "L’avvio di un progetto collegato al PNRR si associa a un aumento tra 5,6 e 6,alcuni aspetti percentuali della probabilità che un’impresa diventi contemporaneamente investitrice nel digitale e nella sostenibilità, risultato statisticamente significativo.",
-          "Giovanni Ferri, professore ordinario di economia all’Università LUMSA.",
-          "Misura soprattutto l’effetto sull’avvio congiunto della transizione digitale e di quella verde, la cosiddetta twin transition .",
-          "Poi abbiamo valutato la continuità: il PNRR ha aiutato a proseguire le imprese già impegnate nella doppia transizione?",
-          "Rispetto alle imprese che non hanno fatto alcuna transizione, quelle impegnate nella twin transition hanno registrato una probabilità di resilienza (cioè di evitare cali di fatturato, ecc. ) superiore di quasi alcuni aspetti percentuali e una probabilità di crescita del fatturato superiore di circa alcuni aspetti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "PNRR",
-          "Giovanni Ferri",
-          "Università LUMSA"
-        ],
-        "numbersAndDates": [
-          "Rispetto alle imprese che non hanno fatto alcuna transizione, quelle impegnate nella twin transition hanno registrato una probabilità di resilienza (cioè di evitare cali di fatturato, ecc. ) superiore di quasi alcuni aspetti percentuali e una probabilità di crescita del fatturato superiore di circa alcuni aspetti.",
-          "5,6",
-          "6,"
-        ]
-      }
-    },
-    {
-      "id": "story-ef2eb7d7030dbfb3",
-      "title": "La Fed mantiene i tassi invariati al 3,75%–4%, in linea con le stime",
-      "summary": "A pochi giorni dalle elezioni Usa di midterm, la Federal Reserve ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d’interesse al 3,75%-4%. Lo...",
-      "spokenText": "La Federal Reserve ha deciso di mantenere invariati i tassi d'interesse, con dieci voti a favore e due contrari. Il Federal Open Market Committee ha confermato il tasso overnight in un intervallo compreso tra il 3,75% e il 4%, livello al quale si trova da quando la Banca centrale ha approvato un aumento di un quarto di punto percentuale lo scorso 16 settembre. Due dei dodici membri votanti si sono espressi in disaccordo: la governatrice Lisa Cook e la presidente della Fed di Cleveland, Beth Hammack, entrambe favorevoli a un ulteriore rialzo. Per Cook, si tratta del primo dissenso da quando è entrata a far parte della Fed nel 2022, nominata da Joe Biden. I funzionari della Fed considerano l'indipendenza politica un pilastro della Banca centrale, sebbene alcuni osservatori abbiano ipotizzato che non si volessero aumentare i tassi a pochi giorni dalle elezioni di midterm. Al riguardo, Warsh ha precisato che l'imminenza del voto non ha giocato alcun ruolo nella decisione. Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "federal reserve",
-        "federal open market committee",
-        "lisa cook",
-        "beth hammack"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 72,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/la-fed-mantiene-tassi-invariati-375percento4percento-come-atteso-AJLve1wB"
-      },
-      "analysis": {
-        "mainFact": "La Federal Reserve ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d’interesse al 3,75%-4%.",
-        "whyItMatters": "I funzionari della Fed considerano l’indipendenza politica un pilastro della Banca centrale, ma alcuni osservatori hanno ipotizzato che i funzionari non volessero aumentare i tassi a pochi giorni dalle elezioni.",
-        "confirmedFacts": [
-          "La Federal Reserve ha deciso, con 10 voti a favore e 2 contrari, di mantenere invariati i tassi d’interesse al 3,75%-4%.",
-          "I funzionari della Fed considerano l’indipendenza politica un pilastro della Banca centrale, ma alcuni osservatori hanno ipotizzato che i funzionari non volessero aumentare i tassi a pochi giorni dalle elezioni.",
-          "Warsh: «Nessun ruolo delle midterm sulle decisioni legate ai tassi» L’imminenza delle elezioni di midterm negli Stati Uniti non ha “giocato alcun ruolo” nella decisione della Fed di mantenere i tassi fermi.",
-          "Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
-          "Con una decisione ampiamente prevista, il Federal Open Market Committee (Fomc) ha mantenuto il tasso overnight in un intervallo compreso tra il 3,75% e il 4%, livello al quale si trova da quando la Banca centrale ha approvato un aumento di un quarto di punto percentuale a settembre.",
-          "Due voti contrari Due dei 12 membri votanti del Fomc si sono espressi in disaccordo con la decisione: la governatrice Lisa Cook e la presidente della Fed di Cleveland, Beth Hammack , entrambe favorevoli a un aumento dei tassi di un quarto di punto percentuale.",
-          "Per Cook, è il primo dissenso espresso da quando è entrata a far parte della Fed nel 2022, nominata da Joe Biden."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Federal Reserve",
-          "Federal Open Market Committee",
-          "Lisa Cook",
-          "Beth Hammack"
-        ],
-        "numbersAndDates": [
-          "Lo scorso 16 settembre, aveva alzato i tassi (di alcuni aspetti base) per la prima volta dal luglio 2023.",
-          "Con una decisione ampiamente prevista, il Federal Open Market Committee (Fomc) ha mantenuto il tasso overnight in un intervallo compreso tra il 3,75% e il 4%, livello al quale si trova da quando la Banca centrale ha approvato un aumento di un quarto di punto percentuale a settembre.",
-          "Due voti contrari Due dei 12 membri votanti del Fomc si sono espressi in disaccordo con la decisione: la governatrice Lisa Cook e la presidente della Fed di Cleveland, Beth Hammack , entrambe favorevoli a un aumento dei tassi di un quarto di punto percentuale.",
-          "Per Cook, è il primo dissenso espresso da quando è entrata a far parte della Fed nel 2022, nominata da Joe Biden.",
-          "10",
-          "2",
-          "3,75",
-          "4"
-        ]
-      }
-    },
-    {
-      "id": "story-01ba30c187de61fd",
-      "title": "Agente Skynet installa cryptominer e ruba credenziali",
-      "summary": "Symantec ha scoperto un agente AI che sfrutta modelli non protetti per rubare credenziali e installare cryptominer tramite una modalità Skynet. The post Agente Skynet installa cryptominer e ruba credenziali appeared first on Punto Informatico.",
-      "spokenText": "Symantec ha scoperto un sistema di intelligenza artificiale che sfrutta modelli non protetti per rubare credenziali e installare cryptominer. Gli esperti hanno individuato un software che cerca in rete modelli esposti, attivando una modalità Skynet che permette di eseguire fino a centomila azioni senza supervisione umana. Il proprietario del modello esposto sostiene i costi elevati delle risorse di calcolo consumate dall'operazione. Dopo aver individuato un modello non protetto, l'agente in modalità Skynet esegue fino a 100.000 azioni senza supervisione umana e impone al modello di usare i tool indicati per trovare vulnerabilità e rubare credenziali, ordinando infine di installare in background XMRig, un cryptominer per Monero. L’esecuzione delle suddette attività tramite modelli AI ha un costo in termini di token per l’inferenza.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "symantec",
-        "agente ai",
-        "xmrig",
-        "monero"
+        "google",
+        "alphabet",
+        "borse ue",
+        "piazza affari",
+        "amplifon",
+        "mps",
+        "intesa sanpaolo",
+        "banco bpm",
+        "banca generali"
       ],
       "importance": 85,
       "mustInclude": false,
       "estimatedSeconds": 49,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/agente-skynet-installa-cryptominer-ruba-credenziali/"
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/borsa-indici-venerdi-30-ottobre-2026-AJD2hvyB"
       },
       "analysis": {
-        "mainFact": "Symantec ha scoperto un agente AI che sfrutta modelli non protetti per rubare credenziali e installare cryptominer tramite una modalità Skynet.",
-        "whyItMatters": "Dopo aver individuato un modello non protetto, l'agente in modalità Skynet esegue fino a 100.000 azioni senza supervisione umana e impone al modello di usare i tool indicati per trovare vulnerabilità e rubare credenziali, ordinando infine di installare in background XMRig, un cryptominer per Monero.",
+        "mainFact": "Ieri a Wall Street il titolo Alphabet ha lasciato sul terreno il 12,6% bruciando 500 miliardi di dollari di capitalizzazione e il trend discendente si è esteso nella notte all'Asia.",
+        "whyItMatters": "Focus sulle banche, il risultato dell'assemblea Mps spiana la strada a Intesa Sanpaolo.",
         "confirmedFacts": [
-          "Symantec ha scoperto un agente AI che sfrutta modelli non protetti per rubare credenziali e installare cryptominer tramite una modalità Skynet.",
-          "Dopo aver individuato un modello non protetto, l'agente in modalità Skynet esegue fino a 100.000 azioni senza supervisione umana e impone al modello di usare i tool indicati per trovare vulnerabilità e rubare credenziali, ordinando infine di installare in background XMRig, un cryptominer per Monero.",
-          "Gli esperti di Symantec hanno individuato un agente AI che cerca su Internet modelli non protetti, sfruttati per effettuare attacchi informatici tramite una modalità Skynet .",
-          "Lo scopo dei cybercriminali è rubare credenziali e installare cryptominer.",
-          "In questo caso è stata implementata una modalità Skynet che permette ad un agente AI di eseguire una scansione online alla ricerca di modelli non protetti.",
-          "Quando trovati, i modelli vengono sfruttati per rubare credenziali e installare cryptominer sul dispositivo.",
-          "L’esecuzione delle suddette attività tramite modelli AI ha un costo in termini di token per l’inferenza.",
-          "La prima è il proprietario del modello esposto che sostiene i costi delle risorse di calcolo consumate dall’agente (piuttosto elevati per 100.000 azioni)."
+          "Ieri a Wall Street il titolo Alphabet ha lasciato sul terreno il 12,6% bruciando 500 miliardi di dollari di capitalizzazione e il trend discendente si è esteso nella notte all'Asia.",
+          "Focus sulle banche, il risultato dell'assemblea Mps spiana la strada a Intesa Sanpaolo.",
+          "Salgono i rendimenti dei titoli di Stato e lo spread",
+          "Focus sulle banche dopo che l'assemblea di Banca Monte Paschi Siena ha bocciato le Ops su Banco Bpm e Banca Generali , spianando così definitivamente la strada all'offerta di Intesa Sanpaolo .",
+          "Il petrolio torna sopra i 100 dollari",
+          "Il petrolio torna sopra i 100 dollari A Piazza Affari maglia nera ad Amplifon dopo la trimestrale.",
+          "Petrolio in rialzo, euro/dollaro verso quota 1,12 Sul piano energetico torna a correre il petrolio con il Brent a 117,55 dollari al barile (+2,32%) e il Wti a 104,07 dollari (+2,03%)."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Symantec",
-          "agente AI",
-          "XMRig",
-          "Monero"
+          "Google",
+          "Alphabet",
+          "Borse Ue",
+          "Piazza Affari",
+          "Amplifon",
+          "Mps",
+          "Intesa Sanpaolo",
+          "Banco Bpm",
+          "Banca Generali",
+          "petrolio",
+          "Brent",
+          "Wti"
         ],
         "numbersAndDates": [
-          "La prima è il proprietario del modello esposto che sostiene i costi delle risorse di calcolo consumate dall’agente (piuttosto elevati per 100.000 azioni).",
-          "100.000"
+          "Il petrolio torna sopra i 100 dollari",
+          "Il petrolio torna sopra i 100 dollari A Piazza Affari maglia nera ad Amplifon dopo la trimestrale.",
+          "Petrolio in rialzo, euro/dollaro verso quota 1,12 Sul piano energetico torna a correre il petrolio con il Brent a 117,55 dollari al barile (+2,32%) e il Wti a 104,07 dollari (+2,03%).",
+          "12,6",
+          "500"
         ]
       }
     },
     {
-      "id": "story-b4f72c21eddbb922",
-      "title": "La vita non piovve dalle comete",
-      "summary": "Secondo uno studio guidato dall’Università di Cambridge è altamente improbabile che la vita sulla Terra sia arrivata dalle comete. Qualora fossero sopravvissute all’impatto, le molecole organiche non sarebbero durate sufficientemente a lungo per consentire le reazioni chimiche che precederebbero la nascita della vita. Più probabile è che le molecole organiche si siano formate tramite altri canali",
-      "spokenText": "Secondo uno studio guidato dall'Università di Cambridge, è altamente improbabile che la vita sulla Terra sia arrivata dalle comete. Anche qualora le molecole organiche fossero sopravvissute all'impatto, non sarebbero durate abbastanza a lungo per consentire le reazioni chimiche che precedono la nascita della vita. È più probabile, quindi, che queste molecole si siano formate tramite altri canali.",
+      "id": "story-a0d5d1928f71039b",
+      "title": "La Bank of Japan si allinea a Fed e Bce: tassi invariati all’1,25 per cento",
+      "summary": "La decisione era ampiamente prevista, ma le stime sull’inflazione aprono la porta a una stretta nei prossimi mesi",
+      "spokenText": "La Bank of Japan ha deciso di mantenere i tassi di interesse invariati all'1,25 per cento. Le stime sull'inflazione aprono ora la porta a una possibile stretta monetaria nei prossimi mesi.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "bank of japan",
+        "fed",
+        "bce"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 13,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/la-bank-of-japan-si-allinea-fed-e-bce-tassi-invariati-all-125-cento-AJh3pryB"
+      },
+      "analysis": {
+        "mainFact": "La Bank of Japan ha mantenuto i tassi invariati all'1,25 per cento.",
+        "whyItMatters": "Le stime sull'inflazione aprono la porta a una stretta nei prossimi mesi.",
+        "confirmedFacts": [
+          "La Bank of Japan ha mantenuto i tassi invariati all'1,25 per cento.",
+          "Le stime sull'inflazione aprono la porta a una stretta nei prossimi mesi.",
+          "La decisione era ampiamente prevista, ma le stime sull’inflazione aprono la porta a una stretta nei prossimi mesi",
+          "Al termine dei consueti due giorni di consultazioni, venerdì la BoJ ha mantenuto i tassi all’1,25 per cento, ma non l’ha fatto all’unanimità, perché uno dei nove membri del board ha votato per un rialzo di 25 punti base."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Bank of Japan",
+          "Fed",
+          "Bce"
+        ],
+        "numbersAndDates": [
+          "1,25"
+        ]
+      }
+    },
+    {
+      "id": "story-7c04b049935321a8",
+      "title": "Von der Leyen, 'con il Canada Alleanza per il futuro e spazio comune'",
+      "summary": "'In un mondo con crescenti rivalità agire insieme per una maggiore indipendenza'",
+      "spokenText": "Von der Leyen ha annunciato un'alleanza con il Canada per il futuro e lo spazio comune. In un mondo caratterizzato da crescenti rivalità, sovranità e indipendenza non sono più solo la libertà di agire da soli, ma la capacità di agire insieme. Agire insieme permette una maggiore indipendenza.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "von der leyen",
+        "canada"
+      ],
+      "importance": 65,
+      "mustInclude": false,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/29/von-der-leyen-con-il-canada-alleanza-per-il-futuro-e-spazio-comune_4768e547-0fe4-436e-a301-429b413cddaa.html"
+      },
+      "analysis": {
+        "mainFact": "Von der Leyen annuncia un'alleanza con il Canada per il futuro e lo spazio comune.",
+        "whyItMatters": "In un mondo con crescenti rivalità, agire insieme permette una maggiore indipendenza.",
+        "confirmedFacts": [
+          "Von der Leyen annuncia un'alleanza con il Canada per il futuro e lo spazio comune.",
+          "In un mondo con crescenti rivalità, agire insieme permette una maggiore indipendenza.",
+          "In un mondo caratterizzato da crescenti rivalit , sovranit e indipendenza non sono pi solo la libert di agire da soli, ma la capacit di agire insieme."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Von der Leyen",
+          "Canada"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-9fbc7c104b066100",
+      "title": "Il Pil degli Stati Uniti accelera con gli investimenti in AI",
+      "summary": "L’economia Usa è cresciuta del 3,4% (annualizzato) nel terzo trimestre nonostante le guerre. Per le imprese tecnologiche aumento del 12,7% della spesa. Balzo al 3,6% dell’inflazione Pce",
+      "spokenText": "L'economia Usa è cresciuta del 3,4% annualizzato nel terzo trimestre nonostante le guerre. Per le imprese tecnologiche aumento del 12,7% della spesa. Balzo al 3,6% dell’inflazione Pce. «I dati mostrano un’economia che sta andando piuttosto bene sotto la superficie», ha affermato Andrew Husby, economista senior per gli Stati Uniti presso Bnp Paribas. Le esportazioni nette hanno invece sottratto 3,alcuni aspetti percentuali al calcolo del Pil del terzo trimestre. La spesa delle famiglie si è dimostrata robusta, con un aumento annualizzato del 3,8% per il secondo trimestre consecutivo, nonostante la continua erosione del potere d’acquisto e il calo della fiducia dei consumatori. Tra luglio e settembre - secondo i dati preliminari del dipartimento del Commercio diffusi ieri - il Pil americano è cresciuto del 3,4% annualizzato, dopo il +2,2% del secondo trimestre. Gli investimenti delle imprese, soprattutto tecnologiche, sono cresciuti del 12,7% annualizzato: è il dato più alto dal 2020. Segnala un contributo all’aumento del Pil superiore a qualsiasi altro periodo dal 2011 (escludendo la ripresa successiva al Covid).",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "stati uniti",
+        "imprese tecnologiche",
+        "dipartimento del commercio",
+        "bnp paribas"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 68,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/il-pil-stati-uniti-accelera-gli-investimenti-ai-AJN29AyB"
+      },
+      "analysis": {
+        "mainFact": "L'economia Usa è cresciuta del 3,4% annualizzato nel terzo trimestre nonostante le guerre.",
+        "whyItMatters": "Per le imprese tecnologiche aumento del 12,7% della spesa.",
+        "confirmedFacts": [
+          "L'economia Usa è cresciuta del 3,4% annualizzato nel terzo trimestre nonostante le guerre.",
+          "Per le imprese tecnologiche aumento del 12,7% della spesa.",
+          "Balzo al 3,6% dell’inflazione Pce",
+          "«I dati mostrano un’economia che sta andando piuttosto bene sotto la superficie», ha affermato Andrew Husby, economista senior per gli Stati Uniti presso Bnp Paribas.",
+          "Le esportazioni nette hanno invece sottratto 3,alcuni aspetti percentuali al calcolo del Pil del terzo trimestre.",
+          "La spesa delle famiglie si è dimostrata robusta, con un aumento annualizzato del 3,8% per il secondo trimestre consecutivo, nonostante la continua erosione del potere d’acquisto e il calo della fiducia dei consumatori.",
+          "Tra luglio e settembre - secondo i dati preliminari del dipartimento del Commercio diffusi ieri - il Pil americano è cresciuto del 3,4% annualizzato, dopo il +2,2% del secondo trimestre.",
+          "Gli investimenti delle imprese, soprattutto tecnologiche, sono cresciuti del 12,7% annualizzato: è il dato più alto dal 2020 e segnala un contributo all’aumento del Pil superiore a qualsiasi altro periodo dal 2011 (escludendo la ripresa successiva al Covid)."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stati Uniti",
+          "imprese tecnologiche",
+          "dipartimento del Commercio",
+          "Bnp Paribas"
+        ],
+        "numbersAndDates": [
+          "Balzo al 3,6% dell’inflazione Pce",
+          "Le esportazioni nette hanno invece sottratto 3,alcuni aspetti percentuali al calcolo del Pil del terzo trimestre.",
+          "La spesa delle famiglie si è dimostrata robusta, con un aumento annualizzato del 3,8% per il secondo trimestre consecutivo, nonostante la continua erosione del potere d’acquisto e il calo della fiducia dei consumatori.",
+          "Tra luglio e settembre - secondo i dati preliminari del dipartimento del Commercio diffusi ieri - il Pil americano è cresciuto del 3,4% annualizzato, dopo il +2,2% del secondo trimestre.",
+          "Gli investimenti delle imprese, soprattutto tecnologiche, sono cresciuti del 12,7% annualizzato: è il dato più alto dal 2020 e segnala un contributo all’aumento del Pil superiore a qualsiasi altro periodo dal 2011 (escludendo la ripresa successiva al Covid).",
+          "3,4",
+          "12,7"
+        ]
+      }
+    },
+    {
+      "id": "story-64f73619d02ff0ab",
+      "title": "Binance, furto hacker da 6,3 miliardi di dollari. Sospetti sulla Corea del Nord",
+      "summary": "L’attacco informatico è il più grande mai sferrato contro una società del settore delle criptovalute. Sospesi depositi e prelievi",
+      "spokenText": "Binance ha subito un furto hacker da 6,3 miliardi di dollari, l'attacco più grande mai sferrato contro una società del settore delle criptovalute. Trm Labs ha attribuito l'operazione alla Corea del Nord, definendolo il più grande furto di criptovalute mai registrato. A seguito dell'evento, Binance ha temporaneamente sospeso tutti i depositi e i prelievi, annunciando che conta di sbloccare i conti dei suoi clienti nel giro di 48 ore.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "binance",
+        "corea del nord",
+        "trm labs",
+        "bybit"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 28,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/binance-furto-hacker-63-miliardi-dollari-sospetti-corea-nord-AJJfbryB"
+      },
+      "analysis": {
+        "mainFact": "Binance ha subito un furto hacker da 6,3 miliardi di dollari.",
+        "whyItMatters": "L'attacco è il più grande mai sferrato contro una società del settore delle criptovalute e Trm Labs lo ha attribuito alla Corea del Nord, definendolo il più grande furto di criptovalute mai registrato.",
+        "confirmedFacts": [
+          "Binance ha subito un furto hacker da 6,3 miliardi di dollari.",
+          "L'attacco è il più grande mai sferrato contro una società del settore delle criptovalute e Trm Labs lo ha attribuito alla Corea del Nord, definendolo il più grande furto di criptovalute mai registrato.",
+          "Sospesi depositi e prelievi",
+          "Binance ha temporaneamente sospeso tutti i depositi e i prelievi e ha annunciato che conta di sbloccare i conti dei suoi clienti nel giro di 48 ore.",
+          "Binance bucata per 6,3 miliardi di dollari"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Binance",
+          "Corea del Nord",
+          "Trm Labs",
+          "Bybit"
+        ],
+        "numbersAndDates": [
+          "Binance ha temporaneamente sospeso tutti i depositi e i prelievi e ha annunciato che conta di sbloccare i conti dei suoi clienti nel giro di 48 ore.",
+          "Binance bucata per 6,3 miliardi di dollari",
+          "6,3"
+        ]
+      }
+    },
+    {
+      "id": "story-800bf7767d3b9549",
+      "title": "Simulare l’universo primordiale con Lumina",
+      "summary": "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell’universo primordiale più grandi e dettagliate mai realizzate. La simulazione ricostruisce i primi due miliardi di anni dell’universo, fornendo un nuovo strumento per verificare le teorie sull’evoluzione del cosmo. Lo studio è stato pubblicato questa settimana su Monthly Notices of the Royal Astronomical Society",
+      "spokenText": "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell'universo primordiale più grandi e dettagliate mai realizzate. Lo studio è stato pubblicato questa settimana su Monthly Notices of the Royal Astronomical Society. La simulazione ricostruisce i primi due miliardi di anni dell'universo, fornendo un nuovo strumento per verificare le teorie sull'evoluzione del cosmo.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "universita di cambridge",
-        "comete",
-        "molecole organiche",
-        "terra"
+        "cfa",
+        "lumina",
+        "monthly notices of the royal astronomical societ"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": false,
       "estimatedSeconds": 23,
       "source": {
         "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/10/28/la-vita-non-piovve-dalle-comete/"
+        "url": "https://www.media.inaf.it/2026/10/29/simulazione-universo-primordiale-lumina/"
       },
       "analysis": {
-        "mainFact": "Secondo uno studio guidato dall'Università di Cambridge è altamente improbabile che la vita sulla Terra sia arrivata dalle comete.",
-        "whyItMatters": "Qualora fossero sopravvissute all'impatto, le molecole organiche non sarebbero durate sufficientemente a lungo per consentire le reazioni chimiche che precederebbero la nascita della vita.",
+        "mainFact": "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell'universo primordiale più grandi e dettagliate mai realizzate.",
+        "whyItMatters": "La simulazione ricostruisce i primi due miliardi di anni dell'universo, fornendo un nuovo strumento per verificare le teorie sull'evoluzione del cosmo.",
         "confirmedFacts": [
-          "Secondo uno studio guidato dall'Università di Cambridge è altamente improbabile che la vita sulla Terra sia arrivata dalle comete.",
-          "Qualora fossero sopravvissute all'impatto, le molecole organiche non sarebbero durate sufficientemente a lungo per consentire le reazioni chimiche che precederebbero la nascita della vita.",
-          "Più probabile è che le molecole organiche si siano formate tramite altri canali"
+          "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell'universo primordiale più grandi e dettagliate mai realizzate.",
+          "La simulazione ricostruisce i primi due miliardi di anni dell'universo, fornendo un nuovo strumento per verificare le teorie sull'evoluzione del cosmo.",
+          "Lo studio è stato pubblicato questa settimana su Monthly Notices of the Royal Astronomical Society"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Università di Cambridge",
-          "comete",
-          "molecole organiche",
-          "Terra"
+          "CfA",
+          "Lumina",
+          "Monthly Notices of the Royal Astronomical Society"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-937e6b08f1aa75dd",
-      "title": "Mammiferi 4.0: dietro le quinte della ricerca con il quarto episodio di DigitAP",
-      "summary": "Il 23 ottobre prende il via la diciassettesima edizione di M’ammalia 2026 – La Settimana dei Mammiferi , il cui tema quest'anno è “Mammiferi 4. 0: dietro le quinte della ricerca” . E' un'occasione per raccontare come la tecnologia e le nuove metodologie stiano trasformando lo studio, la tutela e la gestione della fauna selvatica e per lanciare il quarto episodio della nostra serie di documentari dedicati al monitoraggio della biodiversità, prodotta con fondi PNRR nell'ambito del progetto DigitAP , promosso e realizzato dal MASE con il supporto di ISPRA e finanziamento dell'Unione Europea - NextGenerationEU, nel quale ISPRA ha svolto un ruolo di regia scientifica.",
-      "spokenText": "Il 23 ottobre prende il via la diciassettesima edizione di M'ammalia 2026, la Settimana dei Mammiferi, con il tema 'Mammiferi 4. 0: dietro le quinte della ricerca'. L'iniziativa si inserisce nel solco del progetto DigitAP, concluso il 15 ottobre al Ministero dell'Ambiente e della Sicurezza Energetica con il supporto di ISPRA e il finanziamento dell'Unione Europea attraverso NextGenerationEU. Come sottolinea la Presidente dell'ISPRA Alessandra Gallone, l'Istituto ha contribuito a imprimere una svolta fondamentale nel monitoraggio della biodiversità delle aree protette, svolgendo un ruolo di coordinamento tecnico-scientifico all'interno della governance guidata dal MASE. I risultati del progetto fotografano la biodiversità delle Aree Protette italiane, a partire dal lavoro di monitoraggio della fauna selvatica nel Parco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna, con un primo episodio dedicato all'Orso bruno appenninico.",
+      "id": "story-9ff1491fe0b852cc",
+      "title": "Scoperto doppio anello intorno a una stella morta",
+      "summary": "Il telescopio VLT ha trovato i resti di un sistema planetario attorno a una stella morta, il disco di detriti appare alterato da due corpi planetari, uno grande come Plutone. È questo il futuro del Sistema Solare?",
+      "spokenText": "Un gruppo internazionale di astronomi, guidato dalle Università di Trieste e di Warwick, ha scoperto che la nana bianca J1328−1450, il nucleo morto di un astro simile al nostro Sole, è circondata da due anelli di gas separati da uno spazio vuoto. Il telescopio VLT ha individuato i resti di un sistema planetario attorno a questo oggetto: il disco di detriti appare alterato da due corpi planetari, uno grande come Plutone. Si sospetta che questi asteroidi e corpi rocciosi, sopravvissuti perché si trovavano a distanze dove l'espansione dell'astro non li ha raggiunti, possano essersi spezzati formando un disco di detriti attorno alla stella morta. La scoperta mostra che, anche dopo la fine di un astro, i resti dei suoi pianeti possono continuare a esistere in forme sorprendentemente ordinate, offrendo uno sguardo su quale potrebbe essere il futuro del Sistema Solare.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "m ammalia 2026 la settimana dei mammiferi",
-        "mase",
-        "ispra",
-        "digitap",
-        "unione europea nextgenerationeu",
-        "parco nazionale delle foreste casentinesi monte ",
-        "orso bruno appenninico"
+        "telescopio vlt",
+        "j1328 1450",
+        "sistema solare"
       ],
-      "importance": 82,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 52,
+      "estimatedSeconds": 56,
       "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/mammiferi-4-0-dietro-le-quinte-della-ricerca-con-il-quarto-episodio-di-digitap"
+        "name": "Focus",
+        "url": "https://www.focus.it/scienza/spazio/i-pianeti-possono-sopravvivere-alla-morte-della-loro-stella"
       },
       "analysis": {
-        "mainFact": "Il 23 ottobre prende il via la diciassettesima edizione di M'ammalia 2026 – La Settimana dei Mammiferi, il cui tema quest'anno è 'Mammiferi 4. 0: dietro le quinte della ricerca'.",
-        "whyItMatters": "Con DigitAP – spiega la Presidente dell'ISPRA Alessandra Gallone – l'Istituto ha contribuito a imprimere una svolta fondamentale nel monitoraggio della biodiversità delle nostre aree protette.",
+        "mainFact": "Un gruppo internazionale di astronomi, guidato dalle Università di Trieste e di Warwick, ha scoperto una stella morta circondata da due anelli di gas separati da uno spazio vuoto.",
+        "whyItMatters": "Questa scoperta mostra che, anche dopo la fine di una stella, i resti dei suoi pianeti possono continuare a esistere in forme sorprendentemente ordinate.",
         "confirmedFacts": [
-          "Il 23 ottobre prende il via la diciassettesima edizione di M'ammalia 2026 – La Settimana dei Mammiferi, il cui tema quest'anno è 'Mammiferi 4. 0: dietro le quinte della ricerca'.",
-          "Con DigitAP – spiega la Presidente dell'ISPRA Alessandra Gallone – l'Istituto ha contribuito a imprimere una svolta fondamentale nel monitoraggio della biodiversità delle nostre aree protette.",
-          "si sono conclusi il 15 ottobre al Ministero dell’Ambiente e della Sicurezza Energetica (MASE) i lavori del progetto DigitAP , promosso e realizzato dal MASE con il supporto di ISPRA (Finanziamento dell’Unione Europea – NextGenerationEU).",
-          "I risultati del progetto DigitAP fotografano la biodiversità delle Aree Protette italiane",
-          "Questo episodio racconta il lavoro di monitoraggio della fauna selvatica condotto nel Parco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna .",
-          "Il primo episodio della serie è dedicato all' Orso bruno appenninico , uno dei simboli più preziosi e vulnerabili della nostra biodiversità.",
-          "All’interno della governance del progetto — guidata dal MASE con il coinvolgimento degli enti gestori delle Aree Protette e di operatori specializzati — l’ISPRA ha svolto un ruolo di coordinamento tecnico-scientifico.",
-          "Mammiferi 4."
+          "Un gruppo internazionale di astronomi, guidato dalle Università di Trieste e di Warwick, ha scoperto una stella morta circondata da due anelli di gas separati da uno spazio vuoto.",
+          "Questa scoperta mostra che, anche dopo la fine di una stella, i resti dei suoi pianeti possono continuare a esistere in forme sorprendentemente ordinate.",
+          "Il telescopio VLT ha trovato i resti di un sistema planetario attorno a una stella morta, il disco di detriti appare alterato da due corpi planetari, uno grande come Plutone. Questo il futuro del Sistema Solare?",
+          "Si sospetta che la stella avesse un sistema planetario che è stato vaporizzato in detriti durante la sua morte e questi detriti si sono poi disposti in un disco come quello mostrato qui.",
+          "Questa illustrazione mostra un disco di detriti attorno alla nana bianca J1328−1450, il nucleo morto di una stella simile al nostro Sole che ha espulso i suoi strati esterni alla fine della sua vita.",
+          "Asteroidi e altri corpi rocciosi sopravvissuti perch a distanze dove l'espansione della stella non li ha raggiunti, possono spezzarsi e formare un disco di detriti attorno alla stella morta."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "M'ammalia 2026 – La Settimana dei Mammiferi",
-          "MASE",
-          "ISPRA",
-          "DigitAP",
-          "Unione Europea - NextGenerationEU",
-          "Parco Nazionale delle Foreste Casentinesi, Monte Falterona e Campigna",
-          "Orso bruno appenninico"
+          "telescopio VLT",
+          "J1328−1450",
+          "Sistema Solare"
         ],
         "numbersAndDates": [
-          "si sono conclusi il 15 ottobre al Ministero dell’Ambiente e della Sicurezza Energetica (MASE) i lavori del progetto DigitAP , promosso e realizzato dal MASE con il supporto di ISPRA (Finanziamento dell’Unione Europea – NextGenerationEU).",
-          "Mammiferi 4.",
-          "23",
-          "2026",
-          "4",
-          "0"
+          "Questa illustrazione mostra un disco di detriti attorno alla nana bianca J1328−1450, il nucleo morto di una stella simile al nostro Sole che ha espulso i suoi strati esterni alla fine della sua vita."
         ]
       }
     },
     {
-      "id": "story-b3ba0e03b696b5a3",
-      "title": "Namirial e tracking pixel via email: come disattivare il tracciamento",
-      "summary": "Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel: anche Namirial permette di disattivarli. The post Namirial e tracking pixel via email: come disattivare il tracciamento appeared first on Punto Informatico.",
-      "spokenText": "Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel. Namirial permette di disattivarli, così come stanno facendo tutte le realtà che utilizzano questi strumenti nelle proprie comunicazioni. I clienti di MediaWorld stanno ricevendo un'email che spiega come funziona il sistema e come bloccare il tracciamento. È bene chiarire che disattivare il solo tracciamento non interrompe l'invio delle email. EU KIDS Act: protezione minori senza sacrificare la privacy Libero Mail invia i tracking pixel: come disattivarli Smart TV di Samsung tracciano sempre l'utente?",
-      "category": "tecnologia",
+      "id": "story-40e2edc3a47e277f",
+      "title": "La NASA approva il telescopio UVEX: cosa vedrà nell'ultravioletto",
+      "summary": "La NASA ha dato il via libera alla costruzione di UVEX, il telescopio spaziale che mapperà il cielo nell’ultravioletto e inseguirà i bagliori delle esplosioni stellari. La missione, guidata dal Caltec...",
+      "spokenText": "La NASA ha dato il via libera alla costruzione di UVEX, il telescopio spaziale progettato per mappare il cielo nell'ultravioletto e seguire i bagliori delle esplosioni stellari.",
+      "category": "scienza",
       "tags": [
-        "tecnologia",
-        "namirial",
-        "garante privacy",
-        "mediaworld"
+        "scienza",
+        "nasa",
+        "uvex"
       ],
-      "importance": 82,
+      "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 35,
+      "estimatedSeconds": 11,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/namirial-tracking-pixel/"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/la-nasa-approva-il-telescopio-uvex-cosa-vedra-nellultravioletto"
       },
       "analysis": {
-        "mainFact": "Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel e Namirial permette di disattivarli.",
-        "whyItMatters": "Namirial e tracking pixel via email: come disattivare il tracciamento Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel: anche Namirial permette di disattivarli.",
+        "mainFact": "La NASA ha dato il via libera alla costruzione di UVEX, il telescopio spaziale che mapperà il cielo nell'ultravioletto e inseguirà i bagliori delle esplosioni stellari.",
+        "whyItMatters": "Approvazione NASA del telescopio UVEX per l'osservazione ultravioletta.",
         "confirmedFacts": [
-          "Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel e Namirial permette di disattivarli.",
-          "Namirial e tracking pixel via email: come disattivare il tracciamento Entro oggi le aziende devono adeguarsi alle indicazioni del Garante Privacy sui tracking pixel: anche Namirial permette di disattivarli.",
-          "I clienti di MediaWorld stanno ricevendo un'email relativa ai tracking pixel: vediamo di cosa si tratta e come bloccare il tracciamento.",
-          "Come disattivare i tracking pixel di Namirial Il messaggio prosegue spiegando di cosa si tratta e come funziona il sistema.",
-          "È bene chiarire che disattivare il solo tracciamento non interrompe l’invio delle email.",
-          "Lo stanno facendo tutte le aziende che utilizzano i pixel di tracciamento nelle loro comunicazioni.",
-          "EU KIDS Act: protezione minori senza sacrificare la privacy Libero Mail invia i tracking pixel: come disattivarli Smart TV di Samsung tracciano sempre l'utente?"
+          "La NASA ha dato il via libera alla costruzione di UVEX, il telescopio spaziale che mapperà il cielo nell'ultravioletto e inseguirà i bagliori delle esplosioni stellari.",
+          "Approvazione NASA del telescopio UVEX per l'osservazione ultravioletta."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Namirial",
-          "Garante Privacy",
-          "MediaWorld"
+          "NASA",
+          "UVEX"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-3cf0ebce046aee4c",
-      "title": "Airbus: ordini in crescita, confermata la guidance 2026",
-      "summary": "Airbus archivia i primi nove mesi del 2026 con ricavi in crescita, una redditività in miglioramento e un portafoglio ordini che continua ad ampliarsi. Il gruppo europeo dell’aerospazio ha registrato...",
-      "spokenText": "Airbus ha archiviato i primi nove mesi del 2026 con ricavi consolidati pari a 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi registrati nello stesso periodo del 2025. Le consegne sono state 547, contro le 507 dell'anno precedente. Tra gennaio e settembre, il gruppo ha registrato 1.174 ordini lordi di aeromobili commerciali, rispetto ai 610 del 2025; al netto delle cancellazioni, gli ordini sono stati 1.105, più del doppio rispetto ai 514 dell'anno precedente. Alla fine di settembre, il portafoglio ordini del comparto commerciale contava 9.310 aeromobili. La capacità di trasformare questo portafoglio in consegne effettive rimane uno dei principali fattori di attenzione per il gruppo europeo dell'aerospazio. I ricavi delle attività commerciali sono aumentati dell’8%, a 36,7 miliardi di euro.",
-      "category": "altro",
+      "id": "story-20be729ab486ea3e",
+      "title": "Agli agenti AI piace Supabase come backend, ma non si capisce bene perché",
+      "summary": "Quando un agente AI scrive l'applicazione, spesso sceglie anche il database, e per molti modelli la scelta cade su Supabase. È uno di quei casi in cui deleghiamo all'AI una decisione su cui sarebbe me...",
+      "spokenText": "Quando un agente AI scrive l'applicazione, spesso sceglie anche il database, e per molti modelli la scelta cade su Supabase.",
+      "category": "tecnologia",
       "tags": [
-        "altro",
-        "airbus"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 50,
-      "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/airbus-ordini-crescita-confermata-guidance-2026-AJuw3xwB"
-      },
-      "analysis": {
-        "mainFact": "Airbus ha archiviato i primi nove mesi del 2026 con ricavi consolidati per 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi dello stesso periodo del 2025.",
-        "whyItMatters": "Nei primi nove mesi dell’anno le consegne sono state 547, rispetto alle 507 dello stesso periodo del 2025.",
-        "confirmedFacts": [
-          "Airbus ha archiviato i primi nove mesi del 2026 con ricavi consolidati per 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi dello stesso periodo del 2025.",
-          "Nei primi nove mesi dell’anno le consegne sono state 547, rispetto alle 507 dello stesso periodo del 2025.",
-          "I ricavi delle attività commerciali sono aumentati dell’8%, a 36,7 miliardi di euro.",
-          "Tra gennaio e settembre Airbus ha registrato 1.174 ordini lordi di aeromobili commerciali, contro i 610 dello stesso periodo dell’anno precedente.",
-          "Al netto delle cancellazioni, gli ordini sono stati 1.105, più del doppio rispetto ai 514 del 2025.",
-          "La capacità di trasformare il portafoglio ordini in consegne effettive rimane uno dei principali fattori di attenzione per il gruppo.",
-          "Il gruppo europeo dell’aerospazio ha registrato ricavi consolidati per 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi dello stesso periodo del 2025.",
-          "Alla fine di settembre il portafoglio ordini del comparto commerciale contava 9.310 aeromobili."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Airbus"
-        ],
-        "numbersAndDates": [
-          "I ricavi delle attività commerciali sono aumentati dell’8%, a 36,7 miliardi di euro.",
-          "Tra gennaio e settembre Airbus ha registrato 1.174 ordini lordi di aeromobili commerciali, contro i 610 dello stesso periodo dell’anno precedente.",
-          "Al netto delle cancellazioni, gli ordini sono stati 1.105, più del doppio rispetto ai 514 del 2025.",
-          "Il gruppo europeo dell’aerospazio ha registrato ricavi consolidati per 50,6 miliardi di euro, in aumento del 7% rispetto ai 47,4 miliardi dello stesso periodo del 2025.",
-          "Alla fine di settembre il portafoglio ordini del comparto commerciale contava 9.310 aeromobili.",
-          "2026",
-          "50,6",
-          "7",
-          "47,4",
-          "2025"
-        ]
-      }
-    },
-    {
-      "id": "story-4489a983a8bf61d1",
-      "title": "Adolescenti dietro le sbarre: che cosa dicono gli studi sul carcere minorile",
-      "summary": "Mentre il governo annuncia nuovi posti negli istituti penali per minorenni, un commento su The Lancet Child &amp; Adolescent Health ricostruisce le evidenze sugli effetti della detenzione in adolescenza: più disturbi psichiatrici, più psicofarmaci, più recidiva. E ricorda che l’Italia, per anni, aveva indicato all’Europa una strada diversa.",
-      "spokenText": "Un commento su The Lancet Child & Adolescent Health ricostruisce le evidenze sugli effetti della detenzione in adolescenza: più disturbi psichiatrici, più psicofarmaci, più recidiva. In Italia il decreto Caivano del 2023 ha ampliato i presupposti della custodia cautelare e il pacchetto sicurezza estende ai minori il fermo preventivo amministrativo; alcune proposte di legge prevedono inoltre una presunzione automatica di capacità per gli adolescenti tra 14 e 17 anni. E ricorda che l’Italia, per anni, aveva indicato all’Europa una strada diversa. Il codice del processo penale minorile del 1988 (DPR 448/1988) aveva posto al centro il recupero educativo dei ragazzi e le ragazze: la sospensione del processo con messa alla prova, l’irrilevanza del fatto, il carcere come misura di ultima istanza. Il titolo di un lavoro pubblicato nel 2025 sulla rivista Epidemiologia & Prevenzione sintetizza il cambiamento avvenuto da allora: la detenzione minorile in Italia sarebbe passata da modello di protezione ammirato in Europa a luogo criminalizzante e patogeno.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "the lancet child adolescent health",
-        "italia",
-        "dpr 448 1988",
-        "decreto caivano del 2023",
-        "northwestern juvenile project"
+        "tecnologia",
+        "agenti ai",
+        "supabase"
       ],
       "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 64,
+      "estimatedSeconds": 8,
       "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/carcere-minorile-adolescenti-evidenze/"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/agli-agenti-ai-piace-supabase-come-backend-ma-non-si-capisce-bene-perche"
       },
       "analysis": {
-        "mainFact": "Un commento su The Lancet Child & Adolescent Health ricostruisce le evidenze sugli effetti della detenzione in adolescenza: più disturbi psichiatrici, più psicofarmaci, più recidiva.",
-        "whyItMatters": "In Italia il decreto Caivano del 2023 ha ampliato i presupposti della custodia cautelare e il pacchetto sicurezza estende ai minori il fermo preventivo amministrativo; alcune proposte di legge prevedono inoltre una presunzione automatica di capacità per gli adolescenti tra 14 e 17 anni.",
+        "mainFact": "Quando un agente AI scrive l'applicazione, spesso sceglie anche il database, e per molti modelli la scelta cade su Supabase.",
+        "whyItMatters": "",
         "confirmedFacts": [
-          "Un commento su The Lancet Child & Adolescent Health ricostruisce le evidenze sugli effetti della detenzione in adolescenza: più disturbi psichiatrici, più psicofarmaci, più recidiva.",
-          "In Italia il decreto Caivano del 2023 ha ampliato i presupposti della custodia cautelare e il pacchetto sicurezza estende ai minori il fermo preventivo amministrativo; alcune proposte di legge prevedono inoltre una presunzione automatica di capacità per gli adolescenti tra 14 e 17 anni.",
-          "E ricorda che l’Italia, per anni, aveva indicato all’Europa una strada diversa.",
-          "Il codice del processo penale minorile del 1988 (DPR 448/1988) aveva posto al centro il recupero educativo dei ragazzi e le ragazze: la sospensione del processo con messa alla prova, l’irrilevanza del fatto, il carcere come misura di ultima istanza.",
-          "Il titolo di un lavoro pubblicato nel 2025 sulla rivista Epidemiologia & Prevenzione sintetizza il cambiamento avvenuto da allora: la detenzione minorile in Italia sarebbe passata da modello di protezione ammirato in Europa a luogo criminalizzante e patogeno.",
-          "Gli autori, richiamando una revisione del 2020 , definiscono il carcere un ambiente strutturalmente incompatibile con uno sviluppo adolescenziale sano.",
-          "Il Northwestern Juvenile Project , che ha seguito per 15 anni giovani entrati nel circuito della giustizia minorile negli Stati Uniti, ha mostrato che questi disturbi tendono a persistere in età adulta."
+          "Quando un agente AI scrive l'applicazione, spesso sceglie anche il database, e per molti modelli la scelta cade su Supabase."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "The Lancet Child & Adolescent Health",
-          "Italia",
-          "DPR 448/1988",
-          "decreto Caivano del 2023",
-          "Northwestern Juvenile Project"
+          "agenti AI",
+          "Supabase"
         ],
-        "numbersAndDates": [
-          "Il codice del processo penale minorile del 1988 (DPR 448/1988) aveva posto al centro il recupero educativo dei ragazzi e le ragazze: la sospensione del processo con messa alla prova, l’irrilevanza del fatto, il carcere come misura di ultima istanza.",
-          "Il titolo di un lavoro pubblicato nel 2025 sulla rivista Epidemiologia & Prevenzione sintetizza il cambiamento avvenuto da allora: la detenzione minorile in Italia sarebbe passata da modello di protezione ammirato in Europa a luogo criminalizzante e patogeno.",
-          "Gli autori, richiamando una revisione del 2020 , definiscono il carcere un ambiente strutturalmente incompatibile con uno sviluppo adolescenziale sano.",
-          "Il Northwestern Juvenile Project , che ha seguito per 15 anni giovani entrati nel circuito della giustizia minorile negli Stati Uniti, ha mostrato che questi disturbi tendono a persistere in età adulta.",
-          "2023",
-          "14",
-          "17"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-a8c0a0eaa5c0629c",
-      "title": "Jorgensen (Ue): riscaldamento a rischio per 50 milioni di europei",
-      "summary": "Il prossimo inverno sarà “duro” per molti cittadini europei, oltre 50 milioni dei quali non saranno in grado di “riscaldare adeguatamente” le proprie abitazioni. Lo prevede il commissario europeo all’Energia...",
-      "spokenText": "Il prossimo inverno sarà duro per molti cittadini europei. Secondo le previsioni del commissario europeo per l'Energia e l'Edilizia abitativa, Dan Jorgensen, oltre 50 milioni di persone non saranno in grado di riscaldare adeguatamente le proprie abitazioni. epa13336426 Il commissario europeo per l’Energia e l’Edilizia abitativa, Dan Jorgensen, partecipa a una conferenza stampa al termine del Dialogo di alto livello sulle raffinerie dell’UE a Bruxelles, in Belgio, il 28 ottobre 2026.",
-      "category": "ambiente",
+      "id": "story-e623b76d633ded47",
+      "title": "La verità scomoda sulle auto elettriche in Norvegia",
+      "summary": "Avrete sicuramente letto questa notizia, rimbalzata innumerevoli volte sulle testate di tutto il mondo: la Norvegia vende quasi esclusivamente auto elettriche, sfiorando quote del 95% o addirittura de...",
+      "spokenText": "La verità scomoda sulle auto elettriche in Norvegia riguarda un dato documentato che merita attenzione.",
+      "category": "altro",
       "tags": [
-        "ambiente",
-        "dan jorgensen",
-        "50 milioni di europei"
+        "altro",
+        "norvegia",
+        "auto elettriche"
+      ],
+      "importance": 92,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/automotive/la-verita-scomoda-sulle-auto-elettriche-in-norvegia"
+      },
+      "analysis": {
+        "mainFact": "La verità scomoda sulle auto elettriche in Norvegia",
+        "whyItMatters": "Impatto sistemico delle auto elettriche in Norvegia su industria ed energia.",
+        "confirmedFacts": [
+          "La verità scomoda sulle auto elettriche in Norvegia",
+          "Impatto sistemico delle auto elettriche in Norvegia su industria ed energia."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Norvegia",
+          "auto elettriche"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-f768bae7453dfefc",
+      "title": "È stato sostenuto dal successo continuo di Google Cloud",
+      "summary": "È stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari.",
+      "spokenText": "Il risultato trimestrale di Alphabet è stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari. Complessivamente, le vendite sono aumentate dell'11%, raggiungendo 201 miliardi di dollari, mentre l'azienda ha registrato un flusso di cassa negativo pari a 42 miliardi di dollari. Google value plunges by $500bn as AI search hits ad sales.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google",
+        "alphabet",
+        "wall street",
+        "google cloud"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 29,
+      "estimatedSeconds": 26,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/jorgensen-ue-riscaldamento-rischio-50-milioni-europei-vaglio-ulteriori-misure-AJMCprxB"
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Il prossimo inverno sarà “duro” per molti cittadini europei, oltre 50 milioni dei quali non saranno in grado di “riscaldare adeguatamente” le proprie abitazioni.",
-        "whyItMatters": "Lo prevede il commissario europeo all’Energia e l’Edilizia abitativa Dan Jorgensen , a Lussemburgo a margine del Consiglio Ue.",
+        "mainFact": "È stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari.",
+        "whyItMatters": "Impatto sistemico sull'IA e sull'economia digitale con conseguenze concrete sul mercato.",
         "confirmedFacts": [
-          "Il prossimo inverno sarà “duro” per molti cittadini europei, oltre 50 milioni dei quali non saranno in grado di “riscaldare adeguatamente” le proprie abitazioni.",
-          "Lo prevede il commissario europeo all’Energia e l’Edilizia abitativa Dan Jorgensen , a Lussemburgo a margine del Consiglio Ue.",
-          "epa13336426 Il commissario europeo per l’Energia e l’Edilizia abitativa, Dan Jorgensen, partecipa a una conferenza stampa al termine del Dialogo di alto livello sulle raffinerie dell’UE a Bruxelles, in Belgio, il 28 ottobre 2026.",
-          "Jorgensen (Ue): riscaldamento a rischio per 50 milioni di europei"
+          "È stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari.",
+          "Impatto sistemico sull'IA e sull'economia digitale con conseguenze concrete sul mercato.",
+          "Insieme alla crescita delle vendite trimestrali dell'11%, che hanno raggiunto 201 miliardi di dollari, l'azienda ha condiviso una cifra sbalorditiva di flusso di cassa negativo pari a 42 miliardi di dollari.",
+          "Google value plunges by $500bn as AI search hits ad sales"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Dan Jorgensen",
-          "50 milioni di europei"
+          "Google",
+          "Alphabet",
+          "Wall Street",
+          "Google Cloud"
         ],
         "numbersAndDates": [
-          "epa13336426 Il commissario europeo per l’Energia e l’Edilizia abitativa, Dan Jorgensen, partecipa a una conferenza stampa al termine del Dialogo di alto livello sulle raffinerie dell’UE a Bruxelles, in Belgio, il 28 ottobre 2026.",
-          "Jorgensen (Ue): riscaldamento a rischio per 50 milioni di europei",
-          "50"
+          "È stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari.",
+          "Insieme alla crescita delle vendite trimestrali dell'11%, che hanno raggiunto 201 miliardi di dollari, l'azienda ha condiviso una cifra sbalorditiva di flusso di cassa negativo pari a 42 miliardi di dollari.",
+          "Google value plunges by $500bn as AI search hits ad sales",
+          "103",
+          "31"
         ]
       }
     },
     {
-      "id": "story-0f4668c3a7ebb9d7",
-      "title": "Manovra, dai 100 euro per i bebè alla carta per le spese sanitarie degli anziani",
-      "summary": "Climatizzatori nelle scuole, addio al bollo auto, cedolare secca per l’affitto degli immobili commerciali: sono solo alcuni punti del disegno della legge di bilancio varato ieri da Palazzo Chigi",
-      "spokenText": "Palazzo Chigi ha varato ieri il disegno della legge di bilancio, che include misure come i climatizzatori nelle scuole, l'addio al bollo auto e la cedolare secca per l'affitto degli immobili commerciali. La manovra prevede inoltre 100 euro per i bebè e una carta per le spese sanitarie degli anziani.",
+      "id": "story-5f46347d7f7f6f26",
+      "title": "Al Copasir gli aiuti per Kiev, Guido Crosetto avvisa gli alleati",
+      "summary": "Il ministro pronto a illustrare il pacchetto al comitato ma resta il nodo della firma di Giorgetti: “In manovra annunci ma per la difesa non un euro in più”",
+      "spokenText": "Il ministro Crosetto è pronto a illustrare il pacchetto di aiuti per Kiev al Copasir, ma resta il nodo della firma di Giorgetti. Tajani, il prossimo pacchetto di aiuti all'Ucraina è quasi pronto.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "palazzo chigi"
+        "guido crosetto",
+        "giorgetti",
+        "copasir",
+        "alleati",
+        "kiev"
       ],
-      "importance": 85,
+      "importance": 65,
       "mustInclude": false,
-      "estimatedSeconds": 20,
+      "estimatedSeconds": 14,
       "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/10/29/news/manovra_misure_governo_meloni_inps_bollo_pensioni-425682960/"
+        "url": "https://www.repubblica.it/politica/2026/10/30/news/guido_crosetto_copasir_aiuti_ucraina-425685635/"
       },
       "analysis": {
-        "mainFact": "Climatizzatori nelle scuole, addio al bollo auto, cedolare secca per l’affitto degli immobili commerciali: sono solo alcuni punti del disegno della legge di bilancio varato ieri da Palazzo Chigi.",
-        "whyItMatters": "Manovra, dai 100 euro per i bebè alla carta per le spese sanitarie degli anziani",
+        "mainFact": "Il ministro Crosetto è pronto a illustrare il pacchetto di aiuti per Kiev al Copasir, ma resta il nodo della firma di Giorgetti.",
+        "whyItMatters": "Tajani, il prossimo pacchetto di aiuti all'Ucraina è quasi pronto",
         "confirmedFacts": [
-          "Climatizzatori nelle scuole, addio al bollo auto, cedolare secca per l’affitto degli immobili commerciali: sono solo alcuni punti del disegno della legge di bilancio varato ieri da Palazzo Chigi.",
-          "Manovra, dai 100 euro per i bebè alla carta per le spese sanitarie degli anziani"
+          "Il ministro Crosetto è pronto a illustrare il pacchetto di aiuti per Kiev al Copasir, ma resta il nodo della firma di Giorgetti.",
+          "Tajani, il prossimo pacchetto di aiuti all'Ucraina è quasi pronto",
+          "Il ministro pronto a illustrare il pacchetto al comitato ma resta il nodo della firma di Giorgetti: “In manovra annunci ma per la difesa non un euro in più”"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Palazzo Chigi"
+          "Guido Crosetto",
+          "Giorgetti",
+          "Copasir",
+          "alleati",
+          "Kiev"
         ],
-        "numbersAndDates": [
-          "100"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-10f9a6f2eec3d9f5",
-      "title": "CC BY-ND Tre volte a settimana",
-      "summary": "CC BY-ND Tre volte a settimana, Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone.",
-      "spokenText": "Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone. La coppia ha iniziato a prendere metadone, un farmaco che cura la dipendenza da oppioidi, all'inizio del 2025. Titus deve prendere la sua dose di metadone e arrivare al lavoro a Bisbee prima che il suo turno inizi alle 9 del mattino. La clinica apre nei giorni feriali alle 4:30 del mattino ma chiude prima di mezzogiorno.",
-      "category": "salute",
+      "id": "story-811e465f050dd4e4",
+      "title": "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175",
+      "summary": "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della",
+      "spokenText": "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della. È difficile spegnere gli incendi di torba sotterranei una volta che si sono radicati, e il 2026 El Niño è proiettato per intensificarsi fino alla fine dell'anno.",
+      "category": "ambiente",
       "tags": [
-        "salute",
-        "amber titus"
+        "ambiente",
+        "indonesia",
+        "el nino",
+        "who"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 32,
+      "estimatedSeconds": 31,
       "source": {
         "name": "The Conversation",
-        "url": "https://theconversation.com/private-equity-is-buying-up-more-methadone-clinics-access-to-the-lifesaving-drug-isnt-getting-easier-286927"
+        "url": "https://theconversation.com/indonesias-el-nino-driven-peat-fires-are-choking-the-region-and-releasing-centuries-of-stored-carbon-294838"
       },
       "analysis": {
-        "mainFact": "CC BY-ND Tre volte a settimana, Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone.",
-        "whyItMatters": "Impatto del private equity sull'accesso alle cure per metadone, tema salute e diritti.",
+        "mainFact": "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della",
+        "whyItMatters": "Incendi di torbiere in Indonesia e rilascio di carbonio stoccato.",
         "confirmedFacts": [
-          "CC BY-ND Tre volte a settimana, Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone.",
-          "Impatto del private equity sull'accesso alle cure per metadone, tema salute e diritti.",
-          "La coppia ha iniziato a prendere metadone, un farmaco che cura la dipendenza da oppioidi, all'inizio del 2025.",
-          "Titus deve prendere la sua dose di metadone e arrivare al lavoro a Bisbee prima che il suo turno inizi alle 9 del mattino.",
-          "La clinica apre nei giorni feriali alle 4:30 del mattino ma chiude prima di mezzogiorno."
+          "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della",
+          "Incendi di torbiere in Indonesia e rilascio di carbonio stoccato.",
+          "È difficile spegnere gli incendi di torba sotterranei una volta che si sono radicati, e il 2026 El Niño è proiettato per intensificarsi fino alla fine dell'anno."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Amber Titus"
+          "Indonesia",
+          "El Niño",
+          "WHO"
         ],
         "numbersAndDates": [
-          "CC BY-ND Tre volte a settimana, Amber Titus si sveglia alle 5 del mattino per prepararsi al tragitto di 45 minuti verso la clinica per il metadone.",
-          "La coppia ha iniziato a prendere metadone, un farmaco che cura la dipendenza da oppioidi, all'inizio del 2025.",
-          "Titus deve prendere la sua dose di metadone e arrivare al lavoro a Bisbee prima che il suo turno inizi alle 9 del mattino.",
-          "La clinica apre nei giorni feriali alle 4:30 del mattino ma chiude prima di mezzogiorno.",
-          "5",
-          "45"
+          "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della",
+          "È difficile spegnere gli incendi di torba sotterranei una volta che si sono radicati, e il 2026 El Niño è proiettato per intensificarsi fino alla fine dell'anno.",
+          "175"
         ]
       }
     }
