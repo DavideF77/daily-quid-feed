@@ -1,605 +1,666 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-10-30-b618469eaaeb",
-  "generatedAt": "2026-10-30T12:00:44.908Z",
+  "catalogId": "daily-quid-2026-10-31-970793540892",
+  "generatedAt": "2026-10-31T11:35:50.853Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-072286e9f17538bc",
-      "title": "\"Protecting Blue Corridors”",
-      "summary": "ISPRA nella ricerca internazionale: le orche antartiche e la mappa globale dei corridoi migratori L’Antartide e la rete globale dei mari: l'impegno di ISPRA nel progetto \"Protecting Blue Corridors\" L’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA) consolida ulteriormente il proprio ruolo di primo piano nel panorama scientifico internazionale partecipando all'iniziativa globale Protecting Blue Corridors una rete d'eccellenza che unisce esperti di scienza marina, conservazione, tecnologia e politiche ambientali per mappare le rotte migratorie dei mammiferi marini a livello planetario.",
-      "spokenText": "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito Protecting Blue Corridors.",
+      "id": "story-cc42e4b7be1d8529",
+      "title": "COP17: l’Italia aderisce al Fungal Conservation Pledge",
+      "summary": "Il 27 ottobre 2026 l ’Italia ha annunciato la propria adesione al Fungal Conservation Pledge , iniziativa internazionale finalizzata a promuovere il riconoscimento e la conservazione della diversità fungina nell’ambito delle politiche per la biodiversità. L’annuncio è stato dato dal Sottosegretario di Stato al Ministero dell’Ambiente e della Sicurezza Energetica, Claudio Barbaro, nel corso di un evento dedicato all’iniziativa, organizzato a margine della 17ª Conferenza delle Parti (COP17) della Convenzione sulla Diversità Biologica , a Yerevan, in Armenia.",
+      "spokenText": "Il 27 ottobre 2026 l'Italia ha annunciato la propria adesione al Fungal Conservation Pledge, l'iniziativa internazionale per il riconoscimento e la conservazione della varietà fungina nelle politiche per la biodiversità. L'annuncio è stato dato dal Sottosegretario di Stato al Ministero dell'Ambiente e della Sicurezza Energetica, Claudio Barbaro, durante un evento dedicato all'iniziativa, organizzato a margine della 17ª Conferenza delle Parti della Convenzione sulla Diversità Biologica, a Yerevan, in Armenia. Queste attività offrono un contributo conoscitivo utile a sostenere il riconoscimento e la conservazione della varietà fungina nell'ambito delle politiche per la biodiversità. L'adesione contribuisce agli obiettivi di integrazione di tale varietà nelle strategie di conservazione, anche nell'attuazione del Quadro globale per la biodiversità di Kunming-Montreal.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "protecting blue corridors"
+        "italia",
+        "fungal conservation pledge",
+        "claudio barbaro",
+        "ministero dell ambiente e della sicurezza energe",
+        "cop17",
+        "convenzione sulla diversita biologica",
+        "yerevan",
+        "armenia",
+        "quadro globale per la biodiversita di kunming mo"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 8,
+      "estimatedSeconds": 46,
       "source": {
         "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/protecting-blue-corridors"
+        "url": "https://www.isprambiente.gov.it/it/news/cop17-l-italia-aderisce-al-fungal-conservation-pledge"
       },
       "analysis": {
-        "mainFact": "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito",
-        "whyItMatters": "Corridoi migratori orche antartiche: tutela ambientale e ricerca ISPRA su scala globale.",
+        "mainFact": "Il 27 ottobre 2026 l'Italia ha annunciato la propria adesione al Fungal Conservation Pledge, iniziativa internazionale finalizzata a promuovere il riconoscimento e la conservazione della diversità fungina nell'ambito delle politiche per la biodiversità.",
+        "whyItMatters": "L'adesione contribuisce agli obiettivi di integrazione della diversità fungina nelle strategie e nelle politiche di conservazione, anche nell'ambito dell'attuazione del Quadro globale per la biodiversità di Kunming-Montreal.",
         "confirmedFacts": [
-          "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito",
-          "Corridoi migratori orche antartiche: tutela ambientale e ricerca ISPRA su scala globale.",
-          "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito https://bluecorridors.org/sources"
+          "Il 27 ottobre 2026 l'Italia ha annunciato la propria adesione al Fungal Conservation Pledge, iniziativa internazionale finalizzata a promuovere il riconoscimento e la conservazione della diversità fungina nell'ambito delle politiche per la biodiversità.",
+          "L'adesione contribuisce agli obiettivi di integrazione della diversità fungina nelle strategie e nelle politiche di conservazione, anche nell'ambito dell'attuazione del Quadro globale per la biodiversità di Kunming-Montreal.",
+          "L’annuncio è stato dato dal Sottosegretario di Stato al Ministero dell’Ambiente e della Sicurezza Energetica, Claudio Barbaro, nel corso di un evento dedicato all’iniziativa, organizzato a margine della 17ª Conferenza delle Parti (COP17) della Convenzione sulla Diversità Biologica , a Yerevan, in Armenia.",
+          "Tali attività costituiscono un contributo conoscitivo utile a sostenere il riconoscimento e la conservazione della diversità fungina nell’ambito delle politiche per la biodiversità."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Protecting Blue Corridors"
+          "Italia",
+          "Fungal Conservation Pledge",
+          "Claudio Barbaro",
+          "Ministero dell'Ambiente e della Sicurezza Energetica",
+          "COP17",
+          "Convenzione sulla Diversità Biologica",
+          "Yerevan",
+          "Armenia",
+          "Quadro globale per la biodiversità di Kunming-Montreal"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "L’annuncio è stato dato dal Sottosegretario di Stato al Ministero dell’Ambiente e della Sicurezza Energetica, Claudio Barbaro, nel corso di un evento dedicato all’iniziativa, organizzato a margine della 17ª Conferenza delle Parti (COP17) della Convenzione sulla Diversità Biologica , a Yerevan, in Armenia.",
+          "27",
+          "2026"
+        ]
       }
     },
     {
-      "id": "story-9be9922ef55a351f",
-      "title": "Il paradosso dell’ansia: perché combatterla può renderla più forte",
-      "summary": "Il controllo di pensieri ed emozioni può alimentare l’ansia e rafforzare la paura, limitando progressivamente la libertà personale L'articolo Il paradosso dell’ansia: perché combatterla può renderla più forte proviene da State of Mind.",
-      "spokenText": "Il controllo di pensieri ed emozioni può alimentare l'ansia e rafforzare la paura, limitando progressivamente la libertà personale. Questo è il punto centrale dell'episodio intitolato \"Come si supera la paura del futuro? \", in cui Sandra Sassaroli è ospite del videopodcast \"Oggi per Domani\", disponibile su State of Mind.",
+      "id": "story-591cb5fd3afca06d",
+      "title": "Fegato grasso, 2 milioni di italiani potrebbero non sapere di averlo",
+      "summary": "Può evolvere in infiammazione e fibrosi del fegato, fino a cirrosi e tumore epatico",
+      "spokenText": "Due milioni di italiani potrebbero convivere con una malattia del fegato senza saperlo: si tratta del fegato grasso. La Masld comprende infatti un ampio spettro di condizioni caratterizzate da accumulo di grasso in presenza di fattori di rischio metabolici, come diabete di tipo 2, obesità, ipertensione e alterazioni dei lipidi. Questa condizione può evolvere in infiammazione e fibrosi, fino a cirrosi e tumore epatico. Nei casi più avanzati si può arrivare alla cirrosi e alle sue complicanze, come insufficienza epatica e tumore.",
       "category": "salute",
       "tags": [
         "salute",
-        "ansia",
-        "state of mind",
-        "sandra sassaroli"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "State of Mind (Psicologia)",
-        "url": "https://www.stateofmind.it/2026/10/ansia-controllo-paradosso/?utm_source=rss&utm_medium=rss&utm_campaign=ansia-controllo-paradosso"
-      },
-      "analysis": {
-        "mainFact": "Il controllo di pensieri ed emozioni può alimentare l'ansia e rafforzare la paura, limitando progressivamente la libertà personale.",
-        "whyItMatters": "Titolo dell'episodio è \"Come si supera la paura del futuro? – Sandra Sassaroli ospite del videopodcast “Oggi per Domani” proviene da State of Mind.",
-        "confirmedFacts": [
-          "Il controllo di pensieri ed emozioni può alimentare l'ansia e rafforzare la paura, limitando progressivamente la libertà personale.",
-          "Titolo dell'episodio è \"Come si supera la paura del futuro? – Sandra Sassaroli ospite del videopodcast “Oggi per Domani” proviene da State of Mind.",
-          "Il controllo di pensieri ed emozioni può alimentare l’ansia e rafforzare la paura, limitando progressivamente la libertà personale L'articolo Il paradosso dell’ansia: perché combatterla può renderla più forte proviene da State of Mind.",
-          "Titolo dell'episodio è \"Come si supera la paura del futuro?\" L'articolo Come si supera la paura del futuro? – Sandra Sassaroli ospite del videopodcast “Oggi per Domani” proviene da State of Mind."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ansia",
-          "State of Mind",
-          "Sandra Sassaroli"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-d788fbe3344f1337",
-      "title": "L'effetto Google punisce i tech, Borse Ue in rosso. Il petrolio torna sopra i 100 dollari",
-      "summary": "A Piazza Affari maglia nera ad Amplifon dopo la trimestrale. Focus sulle banche, il risultato dell'assemblea Mps spiana la strada a Intesa Sanpaolo. Salgono i rendimenti dei titoli di Stato e lo spread",
-      "spokenText": "Ieri a Wall Street il titolo Alphabet ha lasciato sul terreno il 12,6%, bruciando 500 miliardi di dollari di capitalizzazione, con il trend discendente che si è esteso nella notte all'Asia. Sul piano europeo, salgono i rendimenti dei titoli di Stato e lo spread. Focus sulle banche dopo che l'assemblea di Banca Monte Paschi Siena ha bocciato le Ops su Banco Bpm e Banca Generali, spianando così definitivamente la strada all'offerta di Intesa Sanpaolo. A Piazza Affari maglia nera ad Amplifon dopo la trimestrale. Il petrolio torna sopra i 100 dollari. Petrolio in rialzo, euro/dollaro verso quota 1,12 Sul piano energetico torna a correre il petrolio con il Brent a 117,55 dollari al barile (+2,32%) e il Wti a 104,07 dollari (+2,03%).",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "google",
-        "alphabet",
-        "borse ue",
-        "piazza affari",
-        "amplifon",
-        "mps",
-        "intesa sanpaolo",
-        "banco bpm",
-        "banca generali"
+        "2 milioni di italiani",
+        "diabete di tipo 2",
+        "masld"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 49,
+      "estimatedSeconds": 33,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/borsa-indici-venerdi-30-ottobre-2026-AJD2hvyB"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/29/fegato-grasso-2-milioni-di-italiani-potrebbero-non-sapere-di-averlo_5783e5b0-91f2-4a80-a758-9484875a8d69.html"
       },
       "analysis": {
-        "mainFact": "Ieri a Wall Street il titolo Alphabet ha lasciato sul terreno il 12,6% bruciando 500 miliardi di dollari di capitalizzazione e il trend discendente si è esteso nella notte all'Asia.",
-        "whyItMatters": "Focus sulle banche, il risultato dell'assemblea Mps spiana la strada a Intesa Sanpaolo.",
+        "mainFact": "2 milioni di italiani potrebbero convivere con una malattia del fegato senza saperlo: si tratta del fegato grasso.",
+        "whyItMatters": "Il fegato grasso può evolvere in infiammazione e fibrosi del fegato, fino a cirrosi e tumore epatico.",
         "confirmedFacts": [
-          "Ieri a Wall Street il titolo Alphabet ha lasciato sul terreno il 12,6% bruciando 500 miliardi di dollari di capitalizzazione e il trend discendente si è esteso nella notte all'Asia.",
-          "Focus sulle banche, il risultato dell'assemblea Mps spiana la strada a Intesa Sanpaolo.",
-          "Salgono i rendimenti dei titoli di Stato e lo spread",
-          "Focus sulle banche dopo che l'assemblea di Banca Monte Paschi Siena ha bocciato le Ops su Banco Bpm e Banca Generali , spianando così definitivamente la strada all'offerta di Intesa Sanpaolo .",
-          "Il petrolio torna sopra i 100 dollari",
-          "Il petrolio torna sopra i 100 dollari A Piazza Affari maglia nera ad Amplifon dopo la trimestrale.",
-          "Petrolio in rialzo, euro/dollaro verso quota 1,12 Sul piano energetico torna a correre il petrolio con il Brent a 117,55 dollari al barile (+2,32%) e il Wti a 104,07 dollari (+2,03%)."
+          "2 milioni di italiani potrebbero convivere con una malattia del fegato senza saperlo: si tratta del fegato grasso.",
+          "Il fegato grasso può evolvere in infiammazione e fibrosi del fegato, fino a cirrosi e tumore epatico.",
+          "La Masld comprende infatti un ampio spettro di condizioni caratterizzate da accumulo di grasso nel fegato in presenza di fattori di rischio metabolici, come diabete di tipo 2, obesit , ipertensione e alterazioni dei lipidi.",
+          "Nei casi pi avanzati si pu arrivare alla cirrosi e alle sue complicanze (insufficienza epatica, tumore)."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Google",
-          "Alphabet",
-          "Borse Ue",
-          "Piazza Affari",
-          "Amplifon",
-          "Mps",
-          "Intesa Sanpaolo",
-          "Banco Bpm",
-          "Banca Generali",
-          "petrolio",
-          "Brent",
-          "Wti"
+          "2 milioni di italiani",
+          "diabete di tipo 2",
+          "Masld"
         ],
         "numbersAndDates": [
-          "Il petrolio torna sopra i 100 dollari",
-          "Il petrolio torna sopra i 100 dollari A Piazza Affari maglia nera ad Amplifon dopo la trimestrale.",
-          "Petrolio in rialzo, euro/dollaro verso quota 1,12 Sul piano energetico torna a correre il petrolio con il Brent a 117,55 dollari al barile (+2,32%) e il Wti a 104,07 dollari (+2,03%).",
-          "12,6",
-          "500"
+          "La Masld comprende infatti un ampio spettro di condizioni caratterizzate da accumulo di grasso nel fegato in presenza di fattori di rischio metabolici, come diabete di tipo 2, obesit , ipertensione e alterazioni dei lipidi.",
+          "2"
         ]
       }
     },
     {
-      "id": "story-a0d5d1928f71039b",
-      "title": "La Bank of Japan si allinea a Fed e Bce: tassi invariati all’1,25 per cento",
-      "summary": "La decisione era ampiamente prevista, ma le stime sull’inflazione aprono la porta a una stretta nei prossimi mesi",
-      "spokenText": "La Bank of Japan ha deciso di mantenere i tassi di interesse invariati all'1,25 per cento. Le stime sull'inflazione aprono ora la porta a una possibile stretta monetaria nei prossimi mesi.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "bank of japan",
-        "fed",
-        "bce"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 13,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/la-bank-of-japan-si-allinea-fed-e-bce-tassi-invariati-all-125-cento-AJh3pryB"
-      },
-      "analysis": {
-        "mainFact": "La Bank of Japan ha mantenuto i tassi invariati all'1,25 per cento.",
-        "whyItMatters": "Le stime sull'inflazione aprono la porta a una stretta nei prossimi mesi.",
-        "confirmedFacts": [
-          "La Bank of Japan ha mantenuto i tassi invariati all'1,25 per cento.",
-          "Le stime sull'inflazione aprono la porta a una stretta nei prossimi mesi.",
-          "La decisione era ampiamente prevista, ma le stime sull’inflazione aprono la porta a una stretta nei prossimi mesi",
-          "Al termine dei consueti due giorni di consultazioni, venerdì la BoJ ha mantenuto i tassi all’1,25 per cento, ma non l’ha fatto all’unanimità, perché uno dei nove membri del board ha votato per un rialzo di 25 punti base."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Bank of Japan",
-          "Fed",
-          "Bce"
-        ],
-        "numbersAndDates": [
-          "1,25"
-        ]
-      }
-    },
-    {
-      "id": "story-7c04b049935321a8",
-      "title": "Von der Leyen, 'con il Canada Alleanza per il futuro e spazio comune'",
-      "summary": "'In un mondo con crescenti rivalità agire insieme per una maggiore indipendenza'",
-      "spokenText": "Von der Leyen ha annunciato un'alleanza con il Canada per il futuro e lo spazio comune. In un mondo caratterizzato da crescenti rivalità, sovranità e indipendenza non sono più solo la libertà di agire da soli, ma la capacità di agire insieme. Agire insieme permette una maggiore indipendenza.",
+      "id": "story-18b19f68fb7d893d",
+      "title": "Zelensky: \"I 500 Patriot Usa tra qualche anno, ma dobbiamo difenderci questo inverno\"",
+      "summary": "\"Chiediamo agli Stati Uniti di trovare una soluzione per l'immediato\". Kiev: 'Abbattuti 105 su 134 droni russi, un morto in raid sul Dnipropetrovsk'",
+      "spokenText": "Zelensky ha ricordato che i cinquecento sistemi Patriot statunitensi arriveranno fra anni, ma che Kiev deve difendersi già questo inverno. Nelle ultime ore, secondo Kiev, sono stati abbattuti centocinque droni russi su centotrentaquattro lanciati, con impatti registrati in venti località e un morto in un raid sul Dnipropetrovsk. Zelensky: 'i 500 Patriot Usa fra anni. Dobbiamo difenderci questo inverno'. \"Chiediamo agli Stati Uniti di trovare una soluzione per l'immediato\". Zelensky ha ricordato che gli Stati Uniti, i Paesi europei e altri partner internazionali dispongono di scorte sufficienti di intercettori PAC-3.",
       "category": "mondo",
       "tags": [
         "mondo",
-        "von der leyen",
-        "canada"
-      ],
-      "importance": 65,
-      "mustInclude": false,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/29/von-der-leyen-con-il-canada-alleanza-per-il-futuro-e-spazio-comune_4768e547-0fe4-436e-a301-429b413cddaa.html"
-      },
-      "analysis": {
-        "mainFact": "Von der Leyen annuncia un'alleanza con il Canada per il futuro e lo spazio comune.",
-        "whyItMatters": "In un mondo con crescenti rivalità, agire insieme permette una maggiore indipendenza.",
-        "confirmedFacts": [
-          "Von der Leyen annuncia un'alleanza con il Canada per il futuro e lo spazio comune.",
-          "In un mondo con crescenti rivalità, agire insieme permette una maggiore indipendenza.",
-          "In un mondo caratterizzato da crescenti rivalit , sovranit e indipendenza non sono pi solo la libert di agire da soli, ma la capacit di agire insieme."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Von der Leyen",
-          "Canada"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-9fbc7c104b066100",
-      "title": "Il Pil degli Stati Uniti accelera con gli investimenti in AI",
-      "summary": "L’economia Usa è cresciuta del 3,4% (annualizzato) nel terzo trimestre nonostante le guerre. Per le imprese tecnologiche aumento del 12,7% della spesa. Balzo al 3,6% dell’inflazione Pce",
-      "spokenText": "L'economia Usa è cresciuta del 3,4% annualizzato nel terzo trimestre nonostante le guerre. Per le imprese tecnologiche aumento del 12,7% della spesa. Balzo al 3,6% dell’inflazione Pce. «I dati mostrano un’economia che sta andando piuttosto bene sotto la superficie», ha affermato Andrew Husby, economista senior per gli Stati Uniti presso Bnp Paribas. Le esportazioni nette hanno invece sottratto 3,alcuni aspetti percentuali al calcolo del Pil del terzo trimestre. La spesa delle famiglie si è dimostrata robusta, con un aumento annualizzato del 3,8% per il secondo trimestre consecutivo, nonostante la continua erosione del potere d’acquisto e il calo della fiducia dei consumatori. Tra luglio e settembre - secondo i dati preliminari del dipartimento del Commercio diffusi ieri - il Pil americano è cresciuto del 3,4% annualizzato, dopo il +2,2% del secondo trimestre. Gli investimenti delle imprese, soprattutto tecnologiche, sono cresciuti del 12,7% annualizzato: è il dato più alto dal 2020. Segnala un contributo all’aumento del Pil superiore a qualsiasi altro periodo dal 2011 (escludendo la ripresa successiva al Covid).",
-      "category": "attualita",
-      "tags": [
-        "attualita",
+        "zelensky",
         "stati uniti",
-        "imprese tecnologiche",
-        "dipartimento del commercio",
-        "bnp paribas"
+        "kiev",
+        "dnipropetrovsk"
       ],
-      "importance": 75,
+      "importance": 62,
       "mustInclude": false,
-      "estimatedSeconds": 68,
+      "estimatedSeconds": 36,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/il-pil-stati-uniti-accelera-gli-investimenti-ai-AJN29AyB"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/zelensky-i-500-patriot-usa-tra-qualche-anno-ma-dobbiamo-difenderci-questo_bae448a2-c0d3-44e5-9cdd-029b563447d2.html"
       },
       "analysis": {
-        "mainFact": "L'economia Usa è cresciuta del 3,4% annualizzato nel terzo trimestre nonostante le guerre.",
-        "whyItMatters": "Per le imprese tecnologiche aumento del 12,7% della spesa.",
+        "mainFact": "Zelensky: 'i 500 Patriot Usa fra anni, ma dobbiamo difenderci questo inverno'.",
+        "whyItMatters": "Kiev: 'Abbattuti 105 su 134 droni russi, un morto in raid sul Dnipropetrovsk'.",
         "confirmedFacts": [
-          "L'economia Usa è cresciuta del 3,4% annualizzato nel terzo trimestre nonostante le guerre.",
-          "Per le imprese tecnologiche aumento del 12,7% della spesa.",
-          "Balzo al 3,6% dell’inflazione Pce",
-          "«I dati mostrano un’economia che sta andando piuttosto bene sotto la superficie», ha affermato Andrew Husby, economista senior per gli Stati Uniti presso Bnp Paribas.",
-          "Le esportazioni nette hanno invece sottratto 3,alcuni aspetti percentuali al calcolo del Pil del terzo trimestre.",
-          "La spesa delle famiglie si è dimostrata robusta, con un aumento annualizzato del 3,8% per il secondo trimestre consecutivo, nonostante la continua erosione del potere d’acquisto e il calo della fiducia dei consumatori.",
-          "Tra luglio e settembre - secondo i dati preliminari del dipartimento del Commercio diffusi ieri - il Pil americano è cresciuto del 3,4% annualizzato, dopo il +2,2% del secondo trimestre.",
-          "Gli investimenti delle imprese, soprattutto tecnologiche, sono cresciuti del 12,7% annualizzato: è il dato più alto dal 2020 e segnala un contributo all’aumento del Pil superiore a qualsiasi altro periodo dal 2011 (escludendo la ripresa successiva al Covid)."
+          "Zelensky: 'i 500 Patriot Usa fra anni, ma dobbiamo difenderci questo inverno'.",
+          "Kiev: 'Abbattuti 105 su 134 droni russi, un morto in raid sul Dnipropetrovsk'.",
+          "\"Chiediamo agli Stati Uniti di trovare una soluzione per l'immediato\".",
+          "Sono stati registrati impatti di droni in 20 località, mentre i detriti dei velivoli abbattuti sono caduti in alcuni aspetti diversi.",
+          "Zelensky ha ricordato che gli Stati Uniti, i Paesi europei e altri partner internazionali dispongono di scorte sufficienti di intercettori PAC-3."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
+          "Zelensky",
           "Stati Uniti",
-          "imprese tecnologiche",
-          "dipartimento del Commercio",
-          "Bnp Paribas"
+          "Kiev",
+          "Dnipropetrovsk"
         ],
         "numbersAndDates": [
-          "Balzo al 3,6% dell’inflazione Pce",
-          "Le esportazioni nette hanno invece sottratto 3,alcuni aspetti percentuali al calcolo del Pil del terzo trimestre.",
-          "La spesa delle famiglie si è dimostrata robusta, con un aumento annualizzato del 3,8% per il secondo trimestre consecutivo, nonostante la continua erosione del potere d’acquisto e il calo della fiducia dei consumatori.",
-          "Tra luglio e settembre - secondo i dati preliminari del dipartimento del Commercio diffusi ieri - il Pil americano è cresciuto del 3,4% annualizzato, dopo il +2,2% del secondo trimestre.",
-          "Gli investimenti delle imprese, soprattutto tecnologiche, sono cresciuti del 12,7% annualizzato: è il dato più alto dal 2020 e segnala un contributo all’aumento del Pil superiore a qualsiasi altro periodo dal 2011 (escludendo la ripresa successiva al Covid).",
-          "3,4",
-          "12,7"
+          "Sono stati registrati impatti di droni in 20 località, mentre i detriti dei velivoli abbattuti sono caduti in alcuni aspetti diversi.",
+          "Zelensky ha ricordato che gli Stati Uniti, i Paesi europei e altri partner internazionali dispongono di scorte sufficienti di intercettori PAC-3.",
+          "500",
+          "105",
+          "134"
         ]
       }
     },
     {
-      "id": "story-64f73619d02ff0ab",
-      "title": "Binance, furto hacker da 6,3 miliardi di dollari. Sospetti sulla Corea del Nord",
-      "summary": "L’attacco informatico è il più grande mai sferrato contro una società del settore delle criptovalute. Sospesi depositi e prelievi",
-      "spokenText": "Binance ha subito un furto hacker da 6,3 miliardi di dollari, l'attacco più grande mai sferrato contro una società del settore delle criptovalute. Trm Labs ha attribuito l'operazione alla Corea del Nord, definendolo il più grande furto di criptovalute mai registrato. A seguito dell'evento, Binance ha temporaneamente sospeso tutti i depositi e i prelievi, annunciando che conta di sbloccare i conti dei suoi clienti nel giro di 48 ore.",
-      "category": "tecnologia",
+      "id": "story-5e9b70ee75339bb5",
+      "title": "Cosa insegna il caso dei Cornell 7",
+      "summary": "Il caso dei “Cornell 7”, sette studenti accusati di violenza sessuale in una delle più prestigiose università americane, ha riacceso i riflettori sul lato oscuro delle confraternite studentesche, quello fatto di abusi, omertà e solidarietà maschile, e di una cultura che troppo spesso antepone la fedeltà al gruppo al rispetto delle donne. La vicenda solleva però anche una questione ancora più profonda: il consenso basta a distinguere ciò che è giusto da ciò che è sbagliato? Oltre le responsabilità penali, emerge l&rsquo;urgenza di recuperare un&rsquo;etica delle relazioni fondata sul rispetto, sulla responsabilità individuale e sul coraggio di intervenire",
+      "spokenText": "Il caso dei Cornell 7, sette studenti accusati di violenza sessuale in una delle più prestigiose università americane, ha riacceso i riflettori sul lato oscuro delle confraternite studentesche. Un rapporto ufficiale pubblicato proprio dalla Cornell in marzo segnala che il 52% delle studentesse coinvolte con organizzazioni studentesche greche dichiara di aver subito violenza sessuale, mentre tra le non coinvolte la quota scende al 29%. I tempi, però, sono cambiati: proprio nel picco del movimento MeToo, quando gli studenti accusati alla Cornell erano adolescenti, paradossalmente un candidato presidenziale, parlando delle donne e della loro libertà di accedere ai loro genitali, diceva: «Se sei una star puoi fare qualsiasi cosa». La vicenda solleva una questione ancora più profonda: il consenso basta a distinguere ciò che è giusto da ciò che è sbagliato? Oltre le responsabilità penali, emerge l'urgenza di recuperare un'etica delle relazioni fondata sul rispetto, sulla responsabilità individuale e sul coraggio di intervenire. Un rapporto sessuale non consensuale è sempre sbagliato; tuttavia, un rapporto consensuale non è sempre giusto.",
+      "category": "diritti",
       "tags": [
-        "tecnologia",
-        "binance",
-        "corea del nord",
-        "trm labs",
-        "bybit"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 28,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/binance-furto-hacker-63-miliardi-dollari-sospetti-corea-nord-AJJfbryB"
-      },
-      "analysis": {
-        "mainFact": "Binance ha subito un furto hacker da 6,3 miliardi di dollari.",
-        "whyItMatters": "L'attacco è il più grande mai sferrato contro una società del settore delle criptovalute e Trm Labs lo ha attribuito alla Corea del Nord, definendolo il più grande furto di criptovalute mai registrato.",
-        "confirmedFacts": [
-          "Binance ha subito un furto hacker da 6,3 miliardi di dollari.",
-          "L'attacco è il più grande mai sferrato contro una società del settore delle criptovalute e Trm Labs lo ha attribuito alla Corea del Nord, definendolo il più grande furto di criptovalute mai registrato.",
-          "Sospesi depositi e prelievi",
-          "Binance ha temporaneamente sospeso tutti i depositi e i prelievi e ha annunciato che conta di sbloccare i conti dei suoi clienti nel giro di 48 ore.",
-          "Binance bucata per 6,3 miliardi di dollari"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Binance",
-          "Corea del Nord",
-          "Trm Labs",
-          "Bybit"
-        ],
-        "numbersAndDates": [
-          "Binance ha temporaneamente sospeso tutti i depositi e i prelievi e ha annunciato che conta di sbloccare i conti dei suoi clienti nel giro di 48 ore.",
-          "Binance bucata per 6,3 miliardi di dollari",
-          "6,3"
-        ]
-      }
-    },
-    {
-      "id": "story-800bf7767d3b9549",
-      "title": "Simulare l’universo primordiale con Lumina",
-      "summary": "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell’universo primordiale più grandi e dettagliate mai realizzate. La simulazione ricostruisce i primi due miliardi di anni dell’universo, fornendo un nuovo strumento per verificare le teorie sull’evoluzione del cosmo. Lo studio è stato pubblicato questa settimana su Monthly Notices of the Royal Astronomical Society",
-      "spokenText": "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell'universo primordiale più grandi e dettagliate mai realizzate. Lo studio è stato pubblicato questa settimana su Monthly Notices of the Royal Astronomical Society. La simulazione ricostruisce i primi due miliardi di anni dell'universo, fornendo un nuovo strumento per verificare le teorie sull'evoluzione del cosmo.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "cfa",
-        "lumina",
-        "monthly notices of the royal astronomical societ"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/10/29/simulazione-universo-primordiale-lumina/"
-      },
-      "analysis": {
-        "mainFact": "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell'universo primordiale più grandi e dettagliate mai realizzate.",
-        "whyItMatters": "La simulazione ricostruisce i primi due miliardi di anni dell'universo, fornendo un nuovo strumento per verificare le teorie sull'evoluzione del cosmo.",
-        "confirmedFacts": [
-          "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell'universo primordiale più grandi e dettagliate mai realizzate.",
-          "La simulazione ricostruisce i primi due miliardi di anni dell'universo, fornendo un nuovo strumento per verificare le teorie sull'evoluzione del cosmo.",
-          "Lo studio è stato pubblicato questa settimana su Monthly Notices of the Royal Astronomical Society"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "CfA",
-          "Lumina",
-          "Monthly Notices of the Royal Astronomical Society"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-9ff1491fe0b852cc",
-      "title": "Scoperto doppio anello intorno a una stella morta",
-      "summary": "Il telescopio VLT ha trovato i resti di un sistema planetario attorno a una stella morta, il disco di detriti appare alterato da due corpi planetari, uno grande come Plutone. È questo il futuro del Sistema Solare?",
-      "spokenText": "Un gruppo internazionale di astronomi, guidato dalle Università di Trieste e di Warwick, ha scoperto che la nana bianca J1328−1450, il nucleo morto di un astro simile al nostro Sole, è circondata da due anelli di gas separati da uno spazio vuoto. Il telescopio VLT ha individuato i resti di un sistema planetario attorno a questo oggetto: il disco di detriti appare alterato da due corpi planetari, uno grande come Plutone. Si sospetta che questi asteroidi e corpi rocciosi, sopravvissuti perché si trovavano a distanze dove l'espansione dell'astro non li ha raggiunti, possano essersi spezzati formando un disco di detriti attorno alla stella morta. La scoperta mostra che, anche dopo la fine di un astro, i resti dei suoi pianeti possono continuare a esistere in forme sorprendentemente ordinate, offrendo uno sguardo su quale potrebbe essere il futuro del Sistema Solare.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "telescopio vlt",
-        "j1328 1450",
-        "sistema solare"
+        "diritti",
+        "cornell 7",
+        "cornell",
+        "chi phi",
+        "metoo"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 56,
+      "estimatedSeconds": 68,
       "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/scienza/spazio/i-pianeti-possono-sopravvivere-alla-morte-della-loro-stella"
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/cosa-insegna-caso-cornell-7/"
       },
       "analysis": {
-        "mainFact": "Un gruppo internazionale di astronomi, guidato dalle Università di Trieste e di Warwick, ha scoperto una stella morta circondata da due anelli di gas separati da uno spazio vuoto.",
-        "whyItMatters": "Questa scoperta mostra che, anche dopo la fine di una stella, i resti dei suoi pianeti possono continuare a esistere in forme sorprendentemente ordinate.",
+        "mainFact": "Il caso dei Cornell 7, sette studenti accusati di violenza sessuale in una delle più prestigiose università americane, ha riacceso i riflettori sul lato oscuro delle confraternite studentesche.",
+        "whyItMatters": "Un rapporto ufficiale pubblicato proprio dalla Cornell in marzo segnala che il 52% delle studentesse dell'università coinvolte con organizzazioni studentesche greche dichiara di aver subito violenza sessuale, mentre tra le non coinvolte la quota scende al 29%.",
         "confirmedFacts": [
-          "Un gruppo internazionale di astronomi, guidato dalle Università di Trieste e di Warwick, ha scoperto una stella morta circondata da due anelli di gas separati da uno spazio vuoto.",
-          "Questa scoperta mostra che, anche dopo la fine di una stella, i resti dei suoi pianeti possono continuare a esistere in forme sorprendentemente ordinate.",
-          "Il telescopio VLT ha trovato i resti di un sistema planetario attorno a una stella morta, il disco di detriti appare alterato da due corpi planetari, uno grande come Plutone. Questo il futuro del Sistema Solare?",
-          "Si sospetta che la stella avesse un sistema planetario che è stato vaporizzato in detriti durante la sua morte e questi detriti si sono poi disposti in un disco come quello mostrato qui.",
-          "Questa illustrazione mostra un disco di detriti attorno alla nana bianca J1328−1450, il nucleo morto di una stella simile al nostro Sole che ha espulso i suoi strati esterni alla fine della sua vita.",
-          "Asteroidi e altri corpi rocciosi sopravvissuti perch a distanze dove l'espansione della stella non li ha raggiunti, possono spezzarsi e formare un disco di detriti attorno alla stella morta."
+          "Il caso dei Cornell 7, sette studenti accusati di violenza sessuale in una delle più prestigiose università americane, ha riacceso i riflettori sul lato oscuro delle confraternite studentesche.",
+          "Un rapporto ufficiale pubblicato proprio dalla Cornell in marzo segnala che il 52% delle studentesse dell'università coinvolte con organizzazioni studentesche greche dichiara di aver subito violenza sessuale, mentre tra le non coinvolte la quota scende al 29%.",
+          "I tempi, però, sono cambiati: proprio nel picco del movimento MeToo (quando gli studenti accusati alla Cornell erano adolescenti) paradossalmente un candidato presidenziale, parlando delle donne e della sua libertà di accedere ai loro genitali, diceva: «Se sei una star puoi fare qualsiasi cosa».",
+          "La vicenda solleva però anche una questione ancora più profonda: il consenso basta a distinguere ciò che è giusto da ciò che è sbagliato?",
+          "Oltre le responsabilità penali, emerge l&rsquo;urgenza di recuperare un&rsquo;etica delle relazioni fondata sul rispetto, sulla responsabilità individuale e sul coraggio di intervenire",
+          "Un rapporto sessuale non consensuale è sempre sbagliato; tuttavia, un rapporto consensuale non è sempre giusto."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "telescopio VLT",
-          "J1328−1450",
-          "Sistema Solare"
+          "Cornell 7",
+          "Cornell",
+          "ΧΦ (Chi Phi)",
+          "MeToo"
         ],
         "numbersAndDates": [
-          "Questa illustrazione mostra un disco di detriti attorno alla nana bianca J1328−1450, il nucleo morto di una stella simile al nostro Sole che ha espulso i suoi strati esterni alla fine della sua vita."
+          "7",
+          "52",
+          "29"
         ]
       }
     },
     {
-      "id": "story-40e2edc3a47e277f",
-      "title": "La NASA approva il telescopio UVEX: cosa vedrà nell'ultravioletto",
-      "summary": "La NASA ha dato il via libera alla costruzione di UVEX, il telescopio spaziale che mapperà il cielo nell’ultravioletto e inseguirà i bagliori delle esplosioni stellari. La missione, guidata dal Caltec...",
-      "spokenText": "La NASA ha dato il via libera alla costruzione di UVEX, il telescopio spaziale progettato per mappare il cielo nell'ultravioletto e seguire i bagliori delle esplosioni stellari.",
+      "id": "story-7f2544d1e4f3674f",
+      "title": "Pensioni, torna la stretta sulla rivalutazione. Stangata da 14 miliardi in dieci anni",
+      "summary": "La manovra ripristina le sei fasce del 2023. Tagli agli assegni sopra 2.450 euro lordi. Fino a 1.350 euro persi in un anno. Gli esempi e le cifre della relazione tecnica",
+      "spokenText": "La manovra ripristina le sei fasce del 2023 e introduce tagli agli assegni pensionistici sopra 2.450 euro lordi. Secondo la relazione tecnica, l'impatto può arrivare fino a 1.350 euro persi in un anno per gli interessati. Gli esempi e le cifre della relazione tecnica.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "manovra",
+        "pensioni",
+        "assegni sopra 2 450 euro lordi"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/31/news/pensioni_manovra_2027_stretta_rivalutazione_inflazione-425689339/"
+      },
+      "analysis": {
+        "mainFact": "La manovra ripristina le sei fasce del 2023 e introduce tagli agli assegni pensionistici sopra 2.450 euro lordi.",
+        "whyItMatters": "Gli esempi e le cifre della relazione tecnica",
+        "confirmedFacts": [
+          "La manovra ripristina le sei fasce del 2023 e introduce tagli agli assegni pensionistici sopra 2.450 euro lordi.",
+          "Gli esempi e le cifre della relazione tecnica",
+          "Fino a 1.350 euro persi in un anno."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Manovra",
+          "pensioni",
+          "assegni sopra 2.450 euro lordi"
+        ],
+        "numbersAndDates": [
+          "Fino a 1.350 euro persi in un anno.",
+          "2023",
+          "2.450"
+        ]
+      }
+    },
+    {
+      "id": "story-8a89818e03f73ddf",
+      "title": "Manovra: giù l'Irpef per 3,2 milioni di persone, dalle banche 5,8 miliardi",
+      "summary": "Manovra bollinata, 157 articoli. Exit tax estesa ai privati, 1000 euro per le targhe. Sulle società energetiche 5 punti di Irap in più dal 2027. Lotto e Superenalotto, arriva la quinta estrazione settimanale",
+      "spokenText": "Tra le misure principali, un taglio dell'Irpef per circa 3,2 milioni di persone: la seconda aliquota al 33% viene estesa oltre i 50mila euro, fino a 55mila euro. L'intervento comporta una riduzione del gettito di circa 1,43 miliardi, ma è limitato solo al 2027. Secondo le stime della Relazione tecnica, da banche e assicurazioni arriveranno 5,8 miliardi nel 2027 tra Ires, Irap e Tobin Tax. Sulle società energetiche sono previsti alcuni aspetti di Irap in più, sempre dal 2027. Per i privati, la novità delle targhe personalizzate costerà fino a 1000 euro da marzo, mentre per le imprese l'importo sarà di 10mila euro; da giugno gli importi si dimezzeranno. Infine, per Lotto e Superenalotto arriva la quinta estrazione settimanale. La manovra è stata bollinata con 157 articoli e prevede un taglio dell'Irpef per 3,2 milioni di persone, con 5,8 miliardi attesi da banche e assicurazioni.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "manovra",
+        "banche",
+        "assicurazioni",
+        "societa energetiche",
+        "lotto",
+        "superenalotto"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 58,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/manovra-giu-lirpef-per-32-milioni-di-persone-dalle-banche-58-miliardi_a2553a3a-6200-46b4-bebd-ed940ffd56e8.html"
+      },
+      "analysis": {
+        "mainFact": "La manovra è stata bollinata con 157 articoli e prevede un taglio dell'Irpef per 3,2 milioni di persone, con 5,8 miliardi attesi da banche e assicurazioni.",
+        "whyItMatters": "L'intervento, che comporta una riduzione del gettito di circa 1,43 miliardi, è però limitato solo al 2027.",
+        "confirmedFacts": [
+          "La manovra è stata bollinata con 157 articoli e prevede un taglio dell'Irpef per 3,2 milioni di persone, con 5,8 miliardi attesi da banche e assicurazioni.",
+          "L'intervento, che comporta una riduzione del gettito di circa 1,43 miliardi, è però limitato solo al 2027.",
+          "Exit tax estesa ai privati, 1000 euro per le targhe.",
+          "Sulle società energetiche alcuni aspetti di Irap in più dal 2027.",
+          "Lotto e Superenalotto, arriva la quinta estrazione settimanale",
+          "Inoltre la novità delle targhe personalizzate sarà più cara di quanto inizialmente ventilato: da marzo serviranno fino a 1000 euro per i privati e 10mila per le imprese; poi da giugno gli importi si dimezzeranno.",
+          "Ires, Irap, Tobin Tax, da banche e assicurazioni, secondo le stime della Relazione tecnica, arriveranno 5,8 miliardi nel 2027.",
+          "Prende dunque forma, dopo una difficile genesi, il nuovo step per il taglio dell'Irpef al ceto medio: la seconda aliquota al 33% viene estesa oltre i 50mila euro, fino a 55mila euro, andando a coinvolgere una platea di circa 3,2 milioni di contribuenti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Manovra",
+          "banche",
+          "assicurazioni",
+          "società energetiche",
+          "Lotto",
+          "Superenalotto"
+        ],
+        "numbersAndDates": [
+          "Exit tax estesa ai privati, 1000 euro per le targhe.",
+          "Sulle società energetiche alcuni aspetti di Irap in più dal 2027.",
+          "Inoltre la novità delle targhe personalizzate sarà più cara di quanto inizialmente ventilato: da marzo serviranno fino a 1000 euro per i privati e 10mila per le imprese; poi da giugno gli importi si dimezzeranno.",
+          "Ires, Irap, Tobin Tax, da banche e assicurazioni, secondo le stime della Relazione tecnica, arriveranno 5,8 miliardi nel 2027.",
+          "Prende dunque forma, dopo una difficile genesi, il nuovo step per il taglio dell'Irpef al ceto medio: la seconda aliquota al 33% viene estesa oltre i 50mila euro, fino a 55mila euro, andando a coinvolgere una platea di circa 3,2 milioni di contribuenti.",
+          "157",
+          "3,2",
+          "5,8",
+          "1,43",
+          "2027"
+        ]
+      }
+    },
+    {
+      "id": "story-f5dc6f83e12095cf",
+      "title": "Il controllo qualità dei neuroni anomali",
+      "summary": "Neuroni con duplicazioni o delezioni di segmenti di DNA sono molto comuni durante lo sviluppo fetale: la maggior parte è eliminata in modo selettivo.",
+      "spokenText": "Gli autori dello studio hanno scoperto che queste varianti coinvolgevano in media il 25,9% dei neuroni della corteccia prenatale, una percentuale che scende a una media del 6,2% dopo la nascita. Questo meccanismo di selezione potrebbe spiegare l'insorgenza di alcune malattie del cervello, poiché queste varianti potrebbero influire negativamente sulla funzionalità cerebrale o contribuire allo sviluppo di patologie. Getty Images Un meccanismo di \"controllo qualit \" dei neuroni fa in modo che cellule nervose con genomi anomali, prodotte in quantit importanti durante lo sviluppo fetale, vengano per la maggior parte eliminate poco prima e subito dopo la nascita.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "neuroni",
+        "dna",
+        "sviluppo fetale",
+        "corteccia prenatale"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 40,
+      "source": {
+        "name": "Focus",
+        "url": "https://www.focus.it/scienza/salute/il-processo-di-controllo-qualita-dei-neuroni-che-potrebbe-spiegare-alcune-malattie-del-cervello"
+      },
+      "analysis": {
+        "mainFact": "Il controllo qualità dei neuroni anomali",
+        "whyItMatters": "Queste varianti potrebbero influire negativamente sulla funzionalità cerebrale o contribuire allo sviluppo di malattie.",
+        "confirmedFacts": [
+          "Il controllo qualità dei neuroni anomali",
+          "Queste varianti potrebbero influire negativamente sulla funzionalità cerebrale o contribuire allo sviluppo di malattie.",
+          "Neuroni con duplicazioni o delezioni di segmenti di DNA sono molto comuni durante lo sviluppo fetale: la maggior parte è eliminata in modo selettivo.",
+          "Getty Images Un meccanismo di \"controllo qualit \" dei neuroni fa in modo che cellule nervose con genomi anomali, prodotte in quantit importanti durante lo sviluppo fetale, vengano per la maggior parte eliminate poco prima e subito dopo la nascita.",
+          "Gli autori hanno scoperto che queste varianti coinvolgevano in media il 25,9% dei neuroni della corteccia prenatale, ma che questa percentuale diminuiva a una media del 6,2% dopo la nascita."
+        ],
+        "uncertainties": [
+          "Salute Il processo di \"controllo qualità\" dei neuroni che potrebbe spiegare alcune malattie del cervello Neuroni con duplicazioni o delezioni di segmenti di DNA sono molto comuni durante lo sviluppo fetale: la maggior parte eliminata in modo selettivo."
+        ],
+        "peopleAndOrganizations": [
+          "Neuroni",
+          "DNA",
+          "Sviluppo fetale",
+          "Corteccia prenatale"
+        ],
+        "numbersAndDates": [
+          "Gli autori hanno scoperto che queste varianti coinvolgevano in media il 25,9% dei neuroni della corteccia prenatale, ma che questa percentuale diminuiva a una media del 6,2% dopo la nascita."
+        ]
+      }
+    },
+    {
+      "id": "story-0c007d89b1c23401",
+      "title": "Hera: le prime immagini di Didymos e Dimorphos",
+      "summary": "L’immagine è stata scattata lo scorso 18 ottobre e pubblicata un paio di giorni fa. A una distanza di oltre mille chilometri, la missione Hera dell’Esa finalmente riesce a distinguere il suo obiettivo scientifico: il piccolo asteroide Dimorphos, che appare come un puntino luminoso finalmente distinto dal suo compagno maggiore, l’asteroide Didymos. Con un commento di Ernesto Palomba dell’Inaf di Roma",
+      "spokenText": "L'immagine è stata scattata lo scorso 18 ottobre e pubblicata un paio di giorni fa.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "hera",
+        "didymos",
+        "dimorphos"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/10/30/hera-risolve-didymos-dimorphos/"
+      },
+      "analysis": {
+        "mainFact": "L'immagine è stata scattata lo scorso 18 ottobre e pubblicata un paio di giorni fa.",
+        "whyItMatters": "Missione spaziale ESA su asteroidi, alta rilevanza scientifica.",
+        "confirmedFacts": [
+          "L'immagine è stata scattata lo scorso 18 ottobre e pubblicata un paio di giorni fa.",
+          "Missione spaziale ESA su asteroidi, alta rilevanza scientifica."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Hera",
+          "Didymos",
+          "Dimorphos"
+        ],
+        "numbersAndDates": [
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "story-3c169af50a48c653",
+      "title": "Il tuo nome a bordo di Dragonfly",
+      "summary": "Parte l'iniziativa di coinvolgimento del pubblico “send my name” legata alla missione Dragonfly, il drone della Nasa progettato per studiare l'abitabilità e la chimica prebiotica di Titano. Compilando un modulo online, potrete inviare il vostro nome sulla luna di Saturno, inciso su un microchip che viaggerà a bordo del velivolo",
+      "spokenText": "Parte l'iniziativa di coinvolgimento del pubblico 'send my name' legata alla missione Dragonfly, il drone della Nasa progettato per studiare l'abitabilità e la chimica prebiotica di Titano. Compilando un modulo online, potrete inviare il vostro nome sulla luna di Saturno, inciso su un microchip che viaggerà a bordo del velivolo.",
       "category": "scienza",
       "tags": [
         "scienza",
         "nasa",
-        "uvex"
+        "titano",
+        "saturno"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 11,
+      "estimatedSeconds": 20,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/la-nasa-approva-il-telescopio-uvex-cosa-vedra-nellultravioletto"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/10/30/il-tuo-nome-a-bordo-di-dragonfly/"
       },
       "analysis": {
-        "mainFact": "La NASA ha dato il via libera alla costruzione di UVEX, il telescopio spaziale che mapperà il cielo nell'ultravioletto e inseguirà i bagliori delle esplosioni stellari.",
-        "whyItMatters": "Approvazione NASA del telescopio UVEX per l'osservazione ultravioletta.",
+        "mainFact": "Parte l'iniziativa di coinvolgimento del pubblico 'send my name' legata alla missione Dragonfly, il drone della Nasa progettato per studiare l'abitabilità e la chimica prebiotica di Titano.",
+        "whyItMatters": "Compilando un modulo online, potrete inviare il vostro nome sulla luna di Saturno, inciso su un microchip che viaggerà a bordo del velivolo.",
         "confirmedFacts": [
-          "La NASA ha dato il via libera alla costruzione di UVEX, il telescopio spaziale che mapperà il cielo nell'ultravioletto e inseguirà i bagliori delle esplosioni stellari.",
-          "Approvazione NASA del telescopio UVEX per l'osservazione ultravioletta."
+          "Parte l'iniziativa di coinvolgimento del pubblico 'send my name' legata alla missione Dragonfly, il drone della Nasa progettato per studiare l'abitabilità e la chimica prebiotica di Titano.",
+          "Compilando un modulo online, potrete inviare il vostro nome sulla luna di Saturno, inciso su un microchip che viaggerà a bordo del velivolo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "NASA",
-          "UVEX"
+          "Titano",
+          "Saturno"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-20be729ab486ea3e",
-      "title": "Agli agenti AI piace Supabase come backend, ma non si capisce bene perché",
-      "summary": "Quando un agente AI scrive l'applicazione, spesso sceglie anche il database, e per molti modelli la scelta cade su Supabase. È uno di quei casi in cui deleghiamo all'AI una decisione su cui sarebbe me...",
-      "spokenText": "Quando un agente AI scrive l'applicazione, spesso sceglie anche il database, e per molti modelli la scelta cade su Supabase.",
+      "id": "story-a32c5030818309b4",
+      "title": "Donald Trump vieta anche i robot industriali stranieri",
+      "summary": "Donald Trump vuole limitare l'importazione dei robot industriali stranieri che potrebbero rappresentare una minaccia per la sicurezza nazionale. appeared first on Punto Informatico.",
+      "spokenText": "Donald Trump vuole limitare l'importazione dei robot industriali stranieri che potrebbero rappresentare una minaccia per la sicurezza nazionale. Gli Stati Uniti sono attualmente il secondo mercato mondiale per l'uso di robot industriali con circa 38.500 installazioni (dato del 2025). Il Dipartimento del Commercio ha confermato che i robot industriali stranieri possono rappresentare un pericolo per la sicurezza nazionale , in particolare quelli usati nei sistemi di difesa.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "agenti ai",
-        "supabase"
+        "donald trump",
+        "stati uniti",
+        "dipartimento del commercio"
       ],
       "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 8,
+      "estimatedSeconds": 27,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/agli-agenti-ai-piace-supabase-come-backend-ma-non-si-capisce-bene-perche"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/donald-trump-vieta-anche-robot-industriali-stranieri/"
       },
       "analysis": {
-        "mainFact": "Quando un agente AI scrive l'applicazione, spesso sceglie anche il database, e per molti modelli la scelta cade su Supabase.",
-        "whyItMatters": "",
+        "mainFact": "Donald Trump vuole limitare l'importazione dei robot industriali stranieri che potrebbero rappresentare una minaccia per la sicurezza nazionale.",
+        "whyItMatters": "Gli Stati Uniti sono attualmente il secondo mercato mondiale per l'uso di robot industriali con circa 38.500 installazioni (dato del 2025).",
         "confirmedFacts": [
-          "Quando un agente AI scrive l'applicazione, spesso sceglie anche il database, e per molti modelli la scelta cade su Supabase."
+          "Donald Trump vuole limitare l'importazione dei robot industriali stranieri che potrebbero rappresentare una minaccia per la sicurezza nazionale.",
+          "Gli Stati Uniti sono attualmente il secondo mercato mondiale per l'uso di robot industriali con circa 38.500 installazioni (dato del 2025).",
+          "Dopo i robot umanoidi è il turno dei robot industriali stranieri .",
+          "Donald Trump ha dichiarato che rappresentano una minaccia per la sicurezza nazionale, quindi deve essere limitata la loro importazione.",
+          "Il Dipartimento del Commercio ha confermato che i robot industriali stranieri possono rappresentare un pericolo per la sicurezza nazionale , in particolare quelli usati nei sistemi di difesa."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "agenti AI",
-          "Supabase"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-e623b76d633ded47",
-      "title": "La verità scomoda sulle auto elettriche in Norvegia",
-      "summary": "Avrete sicuramente letto questa notizia, rimbalzata innumerevoli volte sulle testate di tutto il mondo: la Norvegia vende quasi esclusivamente auto elettriche, sfiorando quote del 95% o addirittura de...",
-      "spokenText": "La verità scomoda sulle auto elettriche in Norvegia riguarda un dato documentato che merita attenzione.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "norvegia",
-        "auto elettriche"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/automotive/la-verita-scomoda-sulle-auto-elettriche-in-norvegia"
-      },
-      "analysis": {
-        "mainFact": "La verità scomoda sulle auto elettriche in Norvegia",
-        "whyItMatters": "Impatto sistemico delle auto elettriche in Norvegia su industria ed energia.",
-        "confirmedFacts": [
-          "La verità scomoda sulle auto elettriche in Norvegia",
-          "Impatto sistemico delle auto elettriche in Norvegia su industria ed energia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Norvegia",
-          "auto elettriche"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f768bae7453dfefc",
-      "title": "È stato sostenuto dal successo continuo di Google Cloud",
-      "summary": "È stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari.",
-      "spokenText": "Il risultato trimestrale di Alphabet è stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari. Complessivamente, le vendite sono aumentate dell'11%, raggiungendo 201 miliardi di dollari, mentre l'azienda ha registrato un flusso di cassa negativo pari a 42 miliardi di dollari. Google value plunges by $500bn as AI search hits ad sales.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google",
-        "alphabet",
-        "wall street",
-        "google cloud"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 26,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "È stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari.",
-        "whyItMatters": "Impatto sistemico sull'IA e sull'economia digitale con conseguenze concrete sul mercato.",
-        "confirmedFacts": [
-          "È stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari.",
-          "Impatto sistemico sull'IA e sull'economia digitale con conseguenze concrete sul mercato.",
-          "Insieme alla crescita delle vendite trimestrali dell'11%, che hanno raggiunto 201 miliardi di dollari, l'azienda ha condiviso una cifra sbalorditiva di flusso di cassa negativo pari a 42 miliardi di dollari.",
-          "Google value plunges by $500bn as AI search hits ad sales"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google",
-          "Alphabet",
-          "Wall Street",
-          "Google Cloud"
+          "Donald Trump",
+          "Stati Uniti",
+          "Dipartimento del Commercio"
         ],
         "numbersAndDates": [
-          "È stato sostenuto dal successo continuo di Google Cloud, dove i ricavi sono cresciuti del 103% fino a quasi 31 miliardi di dollari.",
-          "Insieme alla crescita delle vendite trimestrali dell'11%, che hanno raggiunto 201 miliardi di dollari, l'azienda ha condiviso una cifra sbalorditiva di flusso di cassa negativo pari a 42 miliardi di dollari.",
-          "Google value plunges by $500bn as AI search hits ad sales",
-          "103",
-          "31"
+          "38.500",
+          "2025"
         ]
       }
     },
     {
-      "id": "story-5f46347d7f7f6f26",
-      "title": "Al Copasir gli aiuti per Kiev, Guido Crosetto avvisa gli alleati",
-      "summary": "Il ministro pronto a illustrare il pacchetto al comitato ma resta il nodo della firma di Giorgetti: “In manovra annunci ma per la difesa non un euro in più”",
-      "spokenText": "Il ministro Crosetto è pronto a illustrare il pacchetto di aiuti per Kiev al Copasir, ma resta il nodo della firma di Giorgetti. Tajani, il prossimo pacchetto di aiuti all'Ucraina è quasi pronto.",
+      "id": "story-3d7212973929e917",
+      "title": "Altri titoli tech, inclusi Reddit e Amazon, sono scesi",
+      "summary": "Altri titoli tech, inclusi Reddit e Amazon, sono scesi, mentre l'indice Nasdaq delle maggiori società tech quotate negli USA ha chiuso ottobre con il peggior calo mensile da marzo 2025.",
+      "spokenText": "Altri titoli tech, inclusi Reddit e Amazon, sono scesi, mentre l'indice Nasdaq delle maggiori società tech quotate negli USA ha chiuso ottobre con il peggior calo mensile da marzo 2025. Le principali società tecnologiche hanno intanto intensificato la spesa per l'intelligenza artificiale, con Meta, Alphabet, Oracle, Amazon e Microsoft che si sono impegnate a spendere 800 miliardi di dollari tra loro nel 2026. Tra queste, l'azienda si è impegnata a spendere 220 miliardi di dollari quest'anno, destinando le risorse a investimenti come data center AI, apparecchiature di rete e server.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "guido crosetto",
-        "giorgetti",
-        "copasir",
-        "alleati",
-        "kiev"
-      ],
-      "importance": 65,
-      "mustInclude": false,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/politica/2026/10/30/news/guido_crosetto_copasir_aiuti_ucraina-425685635/"
-      },
-      "analysis": {
-        "mainFact": "Il ministro Crosetto è pronto a illustrare il pacchetto di aiuti per Kiev al Copasir, ma resta il nodo della firma di Giorgetti.",
-        "whyItMatters": "Tajani, il prossimo pacchetto di aiuti all'Ucraina è quasi pronto",
-        "confirmedFacts": [
-          "Il ministro Crosetto è pronto a illustrare il pacchetto di aiuti per Kiev al Copasir, ma resta il nodo della firma di Giorgetti.",
-          "Tajani, il prossimo pacchetto di aiuti all'Ucraina è quasi pronto",
-          "Il ministro pronto a illustrare il pacchetto al comitato ma resta il nodo della firma di Giorgetti: “In manovra annunci ma per la difesa non un euro in più”"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Guido Crosetto",
-          "Giorgetti",
-          "Copasir",
-          "alleati",
-          "Kiev"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-811e465f050dd4e4",
-      "title": "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175",
-      "summary": "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della",
-      "spokenText": "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della. È difficile spegnere gli incendi di torba sotterranei una volta che si sono radicati, e il 2026 El Niño è proiettato per intensificarsi fino alla fine dell'anno.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "indonesia",
-        "el nino",
-        "who"
+        "intel",
+        "alphabet",
+        "amazon",
+        "reddit",
+        "meta",
+        "oracle",
+        "microsoft",
+        "nasdaq"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 31,
+      "estimatedSeconds": 36,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/indonesias-el-nino-driven-peat-fires-are-choking-the-region-and-releasing-centuries-of-stored-carbon-294838"
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della",
-        "whyItMatters": "Incendi di torbiere in Indonesia e rilascio di carbonio stoccato.",
+        "mainFact": "Altri titoli tech, inclusi Reddit e Amazon, sono scesi, mentre l'indice Nasdaq delle maggiori società tech quotate negli USA ha chiuso ottobre con il peggior calo mensile da marzo 2025.",
+        "whyItMatters": "Crollo titoli tech USA e spesa AI vicino a 1 trilione, impatto economico sistemico.",
         "confirmedFacts": [
-          "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della",
-          "Incendi di torbiere in Indonesia e rilascio di carbonio stoccato.",
-          "È difficile spegnere gli incendi di torba sotterranei una volta che si sono radicati, e il 2026 El Niño è proiettato per intensificarsi fino alla fine dell'anno."
+          "Altri titoli tech, inclusi Reddit e Amazon, sono scesi, mentre l'indice Nasdaq delle maggiori società tech quotate negli USA ha chiuso ottobre con il peggior calo mensile da marzo 2025.",
+          "Crollo titoli tech USA e spesa AI vicino a 1 trilione, impatto economico sistemico.",
+          "Le principali società tecnologiche hanno intensificato la spesa per l'intelligenza artificiale, con Meta, Alphabet, Oracle, Amazon e Microsoft che si sono impegnate a spendere 800 miliardi di dollari tra loro nel 2026.",
+          "L'azienda si è impegnata a spendere 220 miliardi di dollari quest'anno, destinando il denaro a investimenti come data center AI, apparecchiature di rete e server."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Indonesia",
-          "El Niño",
-          "WHO"
+          "Intel",
+          "Alphabet",
+          "Amazon",
+          "Reddit",
+          "Meta",
+          "Oracle",
+          "Microsoft",
+          "Nasdaq"
         ],
         "numbersAndDates": [
-          "Quest'anno da solo, gli incendi in Indonesia hanno rilasciato una stima di 175 milioni di tonnellate di carbonio, equivalente a tre quarti delle emissioni annuali di CO₂ da combustibili fossili del paese e superiori alle emissioni annuali combinate di CO₂ da combustibili fossili e industria del Regno Unito e della",
-          "È difficile spegnere gli incendi di torba sotterranei una volta che si sono radicati, e il 2026 El Niño è proiettato per intensificarsi fino alla fine dell'anno.",
-          "175"
+          "Altri titoli tech, inclusi Reddit e Amazon, sono scesi, mentre l'indice Nasdaq delle maggiori società tech quotate negli USA ha chiuso ottobre con il peggior calo mensile da marzo 2025.",
+          "Le principali società tecnologiche hanno intensificato la spesa per l'intelligenza artificiale, con Meta, Alphabet, Oracle, Amazon e Microsoft che si sono impegnate a spendere 800 miliardi di dollari tra loro nel 2026.",
+          "L'azienda si è impegnata a spendere 220 miliardi di dollari quest'anno, destinando il denaro a investimenti come data center AI, apparecchiature di rete e server.",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "story-a75ff6f708c0dacd",
+      "title": "Il ritorno alla routine: l’attività fisica costante e regolare può contribuire a",
+      "summary": "Una recente ricerca mostra i benefici dell’esercizio fisico regolare sul riposo notturno. Perché mantenere un’abitudine sportiva nel tempo fa la differenza? L'articolo Il ritorno alla routine: l’attività fisica costante e regolare può contribuire a migliorare l’umore e la qualità del sonno proviene da State of Mind.",
+      "spokenText": "Una ricerca mostra i benefici dell'esercizio fisico regolare sul riposo notturno. A fare la differenza, nel tempo, è proprio la costanza dell'abitudine sportiva, come dimostra uno studio giapponese di Miyagi e colleghi del 2026 sull'attività fisica praticata con regolarità per mesi. Un ulteriore riscontro arriva da un lavoro pubblicato sul Journal of Clinical Medicine, firmato da Hryniewicz e altri, che ha seguito oltre trecento giovani adulti analizzando il legame tra movimento, sintomi depressivi e qualità del sonno. I dati indicano che non basta l'attività fisica generica, come camminare occasionalmente: è lo sport strutturato, costante e regolare a correlarsi significativamente con una migliore sensazione di riposo. Qualit del sonno (Hryniewicz et al. 2026). Invece, ci che fa veramente la differenza sembra essere l’intensit e la frequenza dell’allenamento. Qualit del sonno (Hryniewicz et al.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "state of mind",
+        "hryniewicz et al 2026",
+        "journal of clinical medicine"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 53,
+      "source": {
+        "name": "State of Mind (Psicologia)",
+        "url": "https://www.stateofmind.it/2026/10/attivita-fisica-regolare-sonno/?utm_source=rss&utm_medium=rss&utm_campaign=attivita-fisica-regolare-sonno"
+      },
+      "analysis": {
+        "mainFact": "Una ricerca mostra i benefici dell'esercizio fisico regolare sul riposo notturno.",
+        "whyItMatters": "Mantenere un'abitudine sportiva nel tempo fa la differenza, come dimostrato da una ricerca giapponese (Miyagi et al. , 2026) sull'effetto benefico dell'attività fisica praticata con regolarità per mesi.",
+        "confirmedFacts": [
+          "Una ricerca mostra i benefici dell'esercizio fisico regolare sul riposo notturno.",
+          "Mantenere un'abitudine sportiva nel tempo fa la differenza, come dimostrato da una ricerca giapponese (Miyagi et al. , 2026) sull'effetto benefico dell'attività fisica praticata con regolarità per mesi.",
+          "Uno studio pubblicato sul Journal of Clinical Medicine ha seguito pi di 300 giovani adulti esaminando il rapporto tra attivit fisica , sintomi depressivi e qualit del sonno (Hryniewicz et al. , 2026).",
+          "L'articolo Il ritorno alla routine: l’attività fisica costante e regolare può contribuire a migliorare l’umore e la qualità del sonno proviene da State of Mind.",
+          "Invece, ci che fa veramente la differenza sembra essere l’intensit e la frequenza dell’allenamento.",
+          "Scopri il nostro metodo CONSIGLIATO DALLA REDAZIONE L’effetto benefico dell’esercizio fisico su attenzione, memoria e funzionamento cognitivo L'attivit fisica apporta benefici a mente e cervello:"
+        ],
+        "uncertainties": [
+          "E di nuovo l’ attivit sportiva strutturata, costante e regolare, non semplicemente l’ attivit fisica quotidiana generica come camminare occasionalmente a mostrare una correlazione significativa con una migliore sensazione di riposo."
+        ],
+        "peopleAndOrganizations": [
+          "State of Mind",
+          "Hryniewicz et al., 2026",
+          "Journal of Clinical Medicine"
+        ],
+        "numbersAndDates": [
+          "Uno studio pubblicato sul Journal of Clinical Medicine ha seguito pi di 300 giovani adulti esaminando il rapporto tra attivit fisica , sintomi depressivi e qualit del sonno (Hryniewicz et al. , 2026).",
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-93fb8c710f53ac9f",
+      "title": "Gli scienziati hanno utilizzato i dati del Mars Reconnaissance Orbiter della NASA",
+      "summary": "Gli scienziati hanno utilizzato i dati del Mars Reconnaissance Orbiter della NASA per identificare aree della mappa (segnate con cerchi bianchi) che hanno una mineralogia e una chimica simili a quelle di Teghaza 001.",
+      "spokenText": "Gli scienziati hanno utilizzato i dati del Mars Reconnaissance Orbiter della NASA per identificare aree della mappa, segnate con cerchi bianchi, che presentano una mineralogia e una chimica simili a quelle di Teghaza 001. Il plagioclaso scioccato (grigio più scuro) è creato da pressioni estreme durante gli impatti, incluso quello che ha lanciato Teghaza 001 nello spazio verso la Terra.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "teghaza 001",
+        "nasa s mars reconnaissance orbiter"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 24,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/"
+      },
+      "analysis": {
+        "mainFact": "Gli scienziati hanno utilizzato i dati del Mars Reconnaissance Orbiter della NASA per identificare aree della mappa (segnate con cerchi bianchi) che hanno una mineralogia e una chimica simili a quelle di Teghaza 001.",
+        "whyItMatters": "Studio su meteorite marziano, trend emergente e scienza.",
+        "confirmedFacts": [
+          "Gli scienziati hanno utilizzato i dati del Mars Reconnaissance Orbiter della NASA per identificare aree della mappa (segnate con cerchi bianchi) che hanno una mineralogia e una chimica simili a quelle di Teghaza 001.",
+          "Studio su meteorite marziano, trend emergente e scienza.",
+          "Il plagioclaso scioccato (grigio più scuro) è creato da pressioni estreme durante gli impatti, incluso quello che ha lanciato Teghaza 001 nello spazio verso la Terra."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Teghaza 001",
+          "NASA's Mars Reconnaissance Orbiter"
+        ],
+        "numbersAndDates": [
+          "Gli scienziati hanno utilizzato i dati del Mars Reconnaissance Orbiter della NASA per identificare aree della mappa (segnate con cerchi bianchi) che hanno una mineralogia e una chimica simili a quelle di Teghaza 001.",
+          "Il plagioclaso scioccato (grigio più scuro) è creato da pressioni estreme durante gli impatti, incluso quello che ha lanciato Teghaza 001 nello spazio verso la Terra.",
+          "001"
+        ]
+      }
+    },
+    {
+      "id": "story-2f789ba6e6eee0e8",
+      "title": "Tecnologia, sovranità, sicurezza",
+      "summary": "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici: come l'azienda USA conquista i governi e perché è un errore evitabile.",
+      "spokenText": "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "europa",
+        "palantir"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 5,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/palantir-europa-sicurezza-dati-sovranita/"
+      },
+      "analysis": {
+        "mainFact": "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici.",
+        "whyItMatters": "Sovranità digitale europea e sicurezza dati strategici, tema centrale per tecnologia e industria.",
+        "confirmedFacts": [
+          "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici.",
+          "Sovranità digitale europea e sicurezza dati strategici, tema centrale per tecnologia e industria.",
+          "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici: come l'azienda USA conquista i governi e perché è un errore evitabile."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Europa",
+          "Palantir"
+        ],
+        "numbersAndDates": [
+          "1,4"
+        ]
+      }
+    },
+    {
+      "id": "story-534a241b35dce5e0",
+      "title": "Il caso Siher: perché le accuse della Procura non hanno retto al vaglio della",
+      "summary": "Perché la Procura di Milano aveva arrestato Youssef Siher, su quali basi giuridiche la Giudice non ha convalidato il fermo, l'attacco del governo ai giudici al limite dell'eversività.",
+      "spokenText": "Il giorno successivo al fermo, la giudice per le indagini preliminari Tiziana Landoni non ha convalidato il provvedimento e ha respinto la richiesta di custodia cautelare, disponendo la scarcerazione immediata di Youssef Siher. Il ricercatore trentenne era stato arrestato il 24 ottobre dalla Procura di Milano, che lo ritiene amministratore di due canali utilizzati per organizzare nuove proteste violente dopo i disordini del 17 e 18 ottobre, quando il centro della città fu teatro di scontri durante manifestazioni contro il carovita e le difficoltà economiche. Il 27 ottobre Siher si è avvalso della facoltà di non rispondere davanti alla giudice. L'ordinanza, lunga 37 pagine, non si limita a escludere il pericolo di fuga, necessario per convalidare il fermo. Per comprenderne le ragioni occorre partire dagli elementi sui quali la Procura aveva fondato il fermo.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "procura di milano",
+        "youssef siher",
+        "giudice per le indagini preliminari tiziana land",
+        "milano"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 54,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/youssef-siher-scarcerazione-gip-procura-meloni/"
+      },
+      "analysis": {
+        "mainFact": "Il giorno successivo, la giudice non ha convalidato il fermo e ha respinto la richiesta di custodia cautelare, disponendo la scarcerazione immediata dell'indagato.",
+        "whyItMatters": "È la vicenda di Youssef Siher, accusato dalla Procura di Milano di aver organizzato nuove proteste violente dopo i disordini del 17 e 18 ottobre.",
+        "confirmedFacts": [
+          "Il giorno successivo, la giudice non ha convalidato il fermo e ha respinto la richiesta di custodia cautelare, disponendo la scarcerazione immediata dell'indagato.",
+          "È la vicenda di Youssef Siher, accusato dalla Procura di Milano di aver organizzato nuove proteste violente dopo i disordini del 17 e 18 ottobre.",
+          "Di cosa parliamo in questo articolo: I fatti: dai disordini di Milano al fermo di Siher Il 17 e 18 ottobre, durante alcune manifestazioni contro il carovita, i bassi salari e le difficoltà economiche e sociali, il centro di Milano è stato teatro di gravi disordini.",
+          "Il 24 ottobre la Procura di Milano ha disposto il fermo di Youssef Siher, ricercatore trentenne, ritenuto amministratore dei due canali.",
+          "Il 27 ottobre Siher si è avvalso della facoltà di non rispondere davanti alla giudice per le indagini preliminari Tiziana Landoni, chiamata a decidere sulla convalida del fermo e sulla richiesta di custodia cautelare in carcere avanzata dalla Procura.",
+          "L’ordinanza, lunga 37 pagine, non si limita a escludere il pericolo di fuga, necessario per convalidare il fermo.",
+          "Perché la Procura di Milano aveva arrestato Youssef Siher, su quali basi giuridiche la Giudice non ha convalidato il fermo, l'attacco del governo ai giudici al limite dell'eversività.",
+          "Per comprenderne le ragioni occorre partire dagli elementi sui quali la Procura aveva fondato il fermo."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Procura di Milano",
+          "Youssef Siher",
+          "Giudice per le indagini preliminari Tiziana Landoni",
+          "Milano"
+        ],
+        "numbersAndDates": [
+          "Di cosa parliamo in questo articolo: I fatti: dai disordini di Milano al fermo di Siher Il 17 e 18 ottobre, durante alcune manifestazioni contro il carovita, i bassi salari e le difficoltà economiche e sociali, il centro di Milano è stato teatro di gravi disordini.",
+          "Il 24 ottobre la Procura di Milano ha disposto il fermo di Youssef Siher, ricercatore trentenne, ritenuto amministratore dei due canali.",
+          "Il 27 ottobre Siher si è avvalso della facoltà di non rispondere davanti alla giudice per le indagini preliminari Tiziana Landoni, chiamata a decidere sulla convalida del fermo e sulla richiesta di custodia cautelare in carcere avanzata dalla Procura.",
+          "L’ordinanza, lunga 37 pagine, non si limita a escludere il pericolo di fuga, necessario per convalidare il fermo.",
+          "17",
+          "18"
         ]
       }
     }
