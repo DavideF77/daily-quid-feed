@@ -1,620 +1,602 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-01-02f49e9318d9",
-  "generatedAt": "2026-11-01T12:33:07.017Z",
+  "catalogId": "daily-quid-2026-11-02-ebdaf3793c39",
+  "generatedAt": "2026-11-02T14:36:10.678Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-207e07989c827615",
-      "title": "Gas serra: nuovi record",
-      "summary": "La concentrazione media globale di CO2 è ora superiore del 53% rispetto ai livelli preindustriali, e non è l'unico gas serra a preoccupare.",
-      "spokenText": "La concentrazione media globale di CO2 è ora superiore del 53% rispetto ai livelli preindustriali, e non è l'unico gas serra a preoccupare. Dal 1990 al 2025, l' effetto di riscaldamento sul clima dovuto ai gas serra aumentato del 56% , e l'81% di questo effetto dipende dalla CO2. Una crescita destinata a continuare La concentrazione media globale di CO2 ora di 426,8 parti per milione , quella di metano (CH4) a 1.948 parti per miliardo , il protossido di azoto (N20) a 339,1 parti per miliardo . Dal 2024 al 2025, la concentrazione media globale di CO2 aumentata di 2,8 ppm, un valore superiore alla media decennale ma leggermente inferiore all'impennata del 2023/2024 (quando era cresciuta di 3,5 parti per milione). La doccia fredda arriva dall' ultimo bollettino sui gas serra dell'Organizzazione Meteorologica Mondiale, pubblicato per fornire informazioni scientifiche ai negoziatori della Conferenza delle Parti sul clima (COP31) che si terr ad Antalya, in Turchia, dal 9 al 20 novembre. Il primo l' idrogeno molecolare (H2), un gas usato per lo stoccaggio di energia, la cui concentrazione aumentata del 5,3% tra il 2010 e il 2024.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "co2",
-        "metano ch4",
-        "idrogeno molecolare h2",
-        "organizzazione meteorologica mondiale",
-        "cop31",
-        "antalya"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 75,
-      "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/ambiente/ecologia/livelli-tre-gas-serra-in-atmosfera-raggiunto-nuovi-record"
-      },
-      "analysis": {
-        "mainFact": "La concentrazione media globale di CO2 è ora superiore del 53% rispetto ai livelli preindustriali, e non è l'unico gas serra a preoccupare.",
-        "whyItMatters": "Dal 1990 al 2025, l' effetto di riscaldamento sul clima dovuto ai gas serra aumentato del 56% , e l'81% di questo effetto dipende dalla CO2.",
-        "confirmedFacts": [
-          "La concentrazione media globale di CO2 è ora superiore del 53% rispetto ai livelli preindustriali, e non è l'unico gas serra a preoccupare.",
-          "Dal 1990 al 2025, l' effetto di riscaldamento sul clima dovuto ai gas serra aumentato del 56% , e l'81% di questo effetto dipende dalla CO2.",
-          "Una crescita destinata a continuare La concentrazione media globale di CO2 ora di 426,8 parti per milione , quella di metano (CH4) a 1.948 parti per miliardo , il protossido di azoto (N20) a 339,1 parti per miliardo .",
-          "Dal 2024 al 2025, la concentrazione media globale di CO2 aumentata di 2,8 ppm, un valore superiore alla media decennale ma leggermente inferiore all'impennata del 2023/2024 (quando era cresciuta di 3,5 parti per milione).",
-          "La doccia fredda arriva dall' ultimo bollettino sui gas serra dell'Organizzazione Meteorologica Mondiale, pubblicato per fornire informazioni scientifiche ai negoziatori della Conferenza delle Parti sul clima (COP31) che si terr ad Antalya, in Turchia, dal 9 al 20 novembre.",
-          "Il primo l' idrogeno molecolare (H2), un gas usato per lo stoccaggio di energia, la cui concentrazione aumentata del 5,3% tra il 2010 e il 2024.",
-          "Ecologia I livelli di tre gas serra in atmosfera hanno raggiunto nuovi record La concentrazione media globale di CO2 ora superiore del 53% rispetto ai livelli preindustriali, e non l'unico gas serra a preoccupare."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "CO2",
-          "metano (CH4)",
-          "idrogeno molecolare (H2)",
-          "Organizzazione Meteorologica Mondiale",
-          "COP31",
-          "Antalya"
-        ],
-        "numbersAndDates": [
-          "Una crescita destinata a continuare La concentrazione media globale di CO2 ora di 426,8 parti per milione , quella di metano (CH4) a 1.948 parti per miliardo , il protossido di azoto (N20) a 339,1 parti per miliardo .",
-          "Dal 2024 al 2025, la concentrazione media globale di CO2 aumentata di 2,8 ppm, un valore superiore alla media decennale ma leggermente inferiore all'impennata del 2023/2024 (quando era cresciuta di 3,5 parti per milione).",
-          "La doccia fredda arriva dall' ultimo bollettino sui gas serra dell'Organizzazione Meteorologica Mondiale, pubblicato per fornire informazioni scientifiche ai negoziatori della Conferenza delle Parti sul clima (COP31) che si terr ad Antalya, in Turchia, dal 9 al 20 novembre.",
-          "Il primo l' idrogeno molecolare (H2), un gas usato per lo stoccaggio di energia, la cui concentrazione aumentata del 5,3% tra il 2010 e il 2024.",
-          "Ecologia I livelli di tre gas serra in atmosfera hanno raggiunto nuovi record La concentrazione media globale di CO2 ora superiore del 53% rispetto ai livelli preindustriali, e non l'unico gas serra a preoccupare.",
-          "53",
-          "1990",
-          "2025",
-          "56",
-          "81"
-        ]
-      }
-    },
-    {
-      "id": "story-ae0e49c953b95a84",
-      "title": "COP31 di Antalya",
-      "summary": "La 31ª Conferenza delle Nazioni Unite sui cambiamenti climatici e si terrà ad Antalya dal 9 al 20 novembre 2026. Dal 1995, questi vertici annuali rappresentano la principale piattaforma globale per negoziare e promuovere azioni collettive contro i cambiamenti climatici. La COP31 costituisce una tappa fondamentale in cui i Paesi sono chiamati a rafforzare i propri impegni in materia di clima e ad accelerare la transizione verso un futuro a basse emissioni di carbonio. Il Padiglione Italia, spazio realizzato dal Ministero dell’Ambiente e della Sicurezza Energetica , celebra la sua decima presenza ufficiale con 55 eventi e oltre 150 soggetti tra promotori, co-organizzatori e partner.",
-      "spokenText": "La trentunesima Conferenza delle Nazioni Unite sui cambiamenti climatici si terrà ad Antalya dal 9 al 20 novembre 2026. La COP31 rappresenta una tappa fondamentale per i Paesi, chiamati a rafforzare i propri impegni in materia di clima e ad accelerare la transizione verso un futuro a basse emissioni di carbonio. In questo contesto, il Padiglione Italia, spazio realizzato dal Ministero dell'Ambiente e della Sicurezza Energetica, celebra la sua decima presenza ufficiale con 55 eventi e oltre 150 soggetti tra promotori, co-organizzatori e partner.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "cop31",
-        "antalya",
-        "ministero dell ambiente e della sicurezza energe",
-        "padiglione italia",
-        "ispra"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/cop31-di-antalya"
-      },
-      "analysis": {
-        "mainFact": "La 31ª Conferenza delle Nazioni Unite sui cambiamenti climatici si terrà ad Antalya dal 9 al 20 novembre 2026.",
-        "whyItMatters": "La COP31 costituisce una tappa fondamentale in cui i Paesi sono chiamati a rafforzare i propri impegni in materia di clima e ad accelerare la transizione verso un futuro a basse emissioni di carbonio.",
-        "confirmedFacts": [
-          "La 31ª Conferenza delle Nazioni Unite sui cambiamenti climatici si terrà ad Antalya dal 9 al 20 novembre 2026.",
-          "La COP31 costituisce una tappa fondamentale in cui i Paesi sono chiamati a rafforzare i propri impegni in materia di clima e ad accelerare la transizione verso un futuro a basse emissioni di carbonio.",
-          "Il Padiglione Italia, spazio realizzato dal Ministero dell’Ambiente e della Sicurezza Energetica , celebra la sua decima presenza ufficiale con 55 eventi e oltre 150 soggetti tra promotori, co-organizzatori e partner.",
-          "COP31 di Antalya 2026-11-09T00:00:00+01:00 2026-11-16T23:59:59+01:00 La 31ª Conferenza delle Nazioni Unite sui cambiamenti climatici e si terrà ad Antalya dal 9 al 20 novembre 2026."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "COP31",
-          "Antalya",
-          "Ministero dell’Ambiente e della Sicurezza Energetica",
-          "Padiglione Italia",
-          "ISPRA"
-        ],
-        "numbersAndDates": [
-          "Il Padiglione Italia, spazio realizzato dal Ministero dell’Ambiente e della Sicurezza Energetica , celebra la sua decima presenza ufficiale con 55 eventi e oltre 150 soggetti tra promotori, co-organizzatori e partner.",
-          "COP31 di Antalya 2026-11-09T00:00:00+01:00 2026-11-16T23:59:59+01:00 La 31ª Conferenza delle Nazioni Unite sui cambiamenti climatici e si terrà ad Antalya dal 9 al 20 novembre 2026.",
-          "31",
-          "9",
-          "20",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-af1ab53a35aaf86e",
-      "title": "Il tumore gastrointestinale 'consuma' il grasso prima che il peso cali",
-      "summary": "I meccanismi attivi già alla diagnosi, perdita della fame legata a una molecola nel sangue",
-      "spokenText": "Nei tumori gastrointestinali, i meccanismi che consumano il tessuto adiposo sono già attivi al momento della diagnosi, anche nei pazienti che non hanno ancora sviluppato cachessia. Questo processo sembra legato a livelli più elevati di miR-155, un microRNA riscontrato in quantità maggiore negli oncologici, e della molecola GDF-15. Prodotta in condizioni di stress, la GDF-15 agisce sui centri cerebrali della sazietà e, in uno studio condotto su 59 pazienti con tumore, i suoi livelli sono risultati più alti proprio nei pazienti oncologici. Si tratta di un bersaglio attualmente sotto sperimentazione per nuovi farmaci.",
+      "id": "story-444890d4ae51fbc1",
+      "title": "Malattia rara che raddoppia rischio tumori, nuova cura per una di queste neoplasie",
+      "summary": "Da Aifa rimborsabilità farmaco per un cancro che colpisce fino alla metà dei pazienti",
+      "spokenText": "L'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia a base di mirdametinib per pazienti pediatrici sopra i due anni e adulti affetti da tumori associati alla neurofibromatosi di tipo 1. Questa condizione genetica rara, ereditaria nel cinquanta per cento dei casi, espone i pazienti a un rischio di neoplasie doppio rispetto alla popolazione generale. Tra le manifestazioni più critiche figurano i neurofibromi plessiformi, tumori che provocano dolore cronico nel settantasette per cento dei casi, deturpazione e limitazioni fisiche, riducendo significativamente la qualità di vita. La gestione di queste lesioni risulta particolarmente complessa quando l'intervento chirurgico non è possibile e, anche dopo l'operazione, si registra un tasso di ricrescita compreso tra il venti e il sessantotto per cento. La decisione dell'Aifa si fonda sui risultati dello studio multicentrico di fase 2 ReNeu, che ha coinvolto centootto pazienti pediatrici e adulti.",
       "category": "salute",
       "tags": [
         "salute",
-        "mir 155",
-        "gdf 15"
+        "aifa",
+        "mirdametinib",
+        "neurofibromatosi di tipo 1",
+        "neurofibromi plessiformi"
       ],
-      "importance": 95,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 38,
+      "estimatedSeconds": 57,
       "source": {
         "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/10/31/il-tumore-gastrointestinale-consuma-il-grasso-prima-che-il-peso-cali_1302e49e-6280-40d0-b5ce-4a6b8fbec9b8.html"
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/02/malattia-rara-che-raddoppia-rischio-tumori-nuova-cura-per-una_9b8a9341-09c7-4407-b7eb-ec3be2285cca.html"
       },
       "analysis": {
-        "mainFact": "Nei tumori gastrointestinali, i meccanismi che consumano il tessuto adiposo sono attivi già alla diagnosi, anche nei pazienti che non hanno ancora sviluppato cachessia.",
-        "whyItMatters": "Negli oncologici i livelli di alcuni microRNA, in particolare miR-155, erano più alti, e in uno studio su 59 pazienti con tumore i livelli di GDF-15 erano più alti nei pazienti oncologici.",
+        "mainFact": "L'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia con principio attivo mirdametinib per il trattamento di pazienti pediatrici con più di 2 anni e adulti contro tumori associati alla malattia rara.",
+        "whyItMatters": "In particolare, i pazienti presentano un rischio doppio di neoplasie rispetto alla popolazione generale.",
         "confirmedFacts": [
-          "Nei tumori gastrointestinali, i meccanismi che consumano il tessuto adiposo sono attivi già alla diagnosi, anche nei pazienti che non hanno ancora sviluppato cachessia.",
-          "Negli oncologici i livelli di alcuni microRNA, in particolare miR-155, erano più alti, e in uno studio su 59 pazienti con tumore i livelli di GDF-15 erano più alti nei pazienti oncologici.",
-          "In uno studio condotto su 59 pazienti con tumore, sono stati misurati i livelli di GDF-15, una molecola (bersaglio di nuovi farmaci in sperimentazione) prodotta in condizioni di stress che agisce sui centri cerebrali della saziet : i livelli erano pi alti nei pazienti oncologici."
+          "L'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia con principio attivo mirdametinib per il trattamento di pazienti pediatrici con più di 2 anni e adulti contro tumori associati alla malattia rara.",
+          "In particolare, i pazienti presentano un rischio doppio di neoplasie rispetto alla popolazione generale.",
+          "E proprio contro questi tumori associati alla malattia rara, adesso, l'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia con principio attivo mirdametinib per il trattamento di pazienti pediatrici con più di 2 anni e adulti.",
+          "La rimborsabilità si basa sui risultati dello studio multicentrico di fase 2 ReNeu, che ha coinvolto 114 pazienti pediatrici e adulti.",
+          "La neurofibromatosi di tipo 1 è una condizione genetica rara, ereditaria nel 50% dei casi.",
+          "I neurofibromi plessiformi sono tumori che causano dolore cronico nel 77% dei pazienti, deturpazione, limitazioni fisiche e riducono la qualità di vita.",
+          "La gestione di queste lesioni è complessa specie se non è possibile operare e anche a seguito dell'intervento, si osserva un tasso di ricrescita dei tumori dal 20% al 68%."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "miR-155",
-          "GDF-15"
+          "Aifa",
+          "mirdametinib",
+          "neurofibromatosi di tipo 1",
+          "neurofibromi plessiformi"
         ],
         "numbersAndDates": [
-          "In uno studio condotto su 59 pazienti con tumore, sono stati misurati i livelli di GDF-15, una molecola (bersaglio di nuovi farmaci in sperimentazione) prodotta in condizioni di stress che agisce sui centri cerebrali della saziet : i livelli erano pi alti nei pazienti oncologici.",
-          "155",
-          "59",
-          "15"
-        ]
-      }
-    },
-    {
-      "id": "story-3f0c5ba24be9437b",
-      "title": "Diabete di tipo 2, una dieta intensiva porta risultati sorprendenti",
-      "summary": "Un gruppo guidato da Kaberi Dasgupta della McGill University e Thomas Yates della University of Leicester ha ottenuto la remissione del diabete di tipo 2 nel 54% dei partecipanti assegnati a un progra...",
-      "spokenText": "Una dieta intensiva sta portando risultati sorprendenti nel trattamento del diabete di tipo 2.",
-      "category": "salute",
-      "tags": [
-        "salute"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/il-diabete-di-tipo-2-va-in-remissione-nel-54-leffetto-durera"
-      },
-      "analysis": {
-        "mainFact": "Diabete di tipo 2, una dieta intensiva porta risultati sorprendenti",
-        "whyItMatters": "Dieta intensiva per diabete tipo 2 con risultati significativi e trend Growing.",
-        "confirmedFacts": [
-          "Diabete di tipo 2, una dieta intensiva porta risultati sorprendenti",
-          "Dieta intensiva per diabete tipo 2 con risultati significativi e trend Growing."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
+          "E proprio contro questi tumori associati alla malattia rara, adesso, l'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia con principio attivo mirdametinib per il trattamento di pazienti pediatrici con più di 2 anni e adulti.",
+          "La rimborsabilità si basa sui risultati dello studio multicentrico di fase 2 ReNeu, che ha coinvolto 114 pazienti pediatrici e adulti.",
+          "La neurofibromatosi di tipo 1 è una condizione genetica rara, ereditaria nel 50% dei casi.",
+          "I neurofibromi plessiformi sono tumori che causano dolore cronico nel 77% dei pazienti, deturpazione, limitazioni fisiche e riducono la qualità di vita.",
+          "La gestione di queste lesioni è complessa specie se non è possibile operare e anche a seguito dell'intervento, si osserva un tasso di ricrescita dei tumori dal 20% al 68%.",
           "2"
         ]
       }
     },
     {
-      "id": "story-32267b2d8e62e671",
-      "title": "Sanità, alle Regioni niente fondi per screening e salute mentale",
-      "summary": "La manovra stanzia la metà delle risorse sollecitate da Schillaci. Salta l’acquisto di apparecchiature e l’assunzione di nuovi medici",
-      "spokenText": "La manovra stanzia la metà delle risorse sollecitate da Schillaci. Salta l’acquisto di apparecchiature e l’assunzione di nuovi medici.",
+      "id": "story-b596dd05a35a90ba",
+      "title": "Manovra: medici, 'Carta sanitaria senza ministero della Salute, scelta sconcertante'",
+      "summary": "Anelli (Fnomceo): \"ora affidata a decreto del ministro del Lavoro, di concerto con il Mef\"",
+      "spokenText": "La Carta sanitaria, prevista dal disegno di legge di bilancio e finanziata con 1,645 miliardi di euro per il solo 2027, sarà attuata tramite un decreto del ministro del Lavoro, di concerto con il Mef, senza il concerto del Ministero della Salute.",
       "category": "salute",
       "tags": [
         "salute",
-        "regioni",
-        "schillaci"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/politica/2026/11/01/news/sanita_manovra_regioni_niente_fondi_screening_salute_mentale-425690520/"
-      },
-      "analysis": {
-        "mainFact": "La manovra stanzia la metà delle risorse sollecitate da Schillaci.",
-        "whyItMatters": "Salta l’acquisto di apparecchiature e l’assunzione di nuovi medici.",
-        "confirmedFacts": [
-          "La manovra stanzia la metà delle risorse sollecitate da Schillaci.",
-          "Salta l’acquisto di apparecchiature e l’assunzione di nuovi medici."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Regioni",
-          "Schillaci"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-8028d668081afe2c",
-      "title": "Pacchi cinesi: addio alla tassa di 2 euro, ma c’è quella europea",
-      "summary": "La legge di bilancio 2027 cancella il contributo di 2 euro sui pacchi, ma da oggi viene applicata la commissione di gestione di 2 euro a livello europeo. The post Pacchi cinesi: addio alla tassa di 2 euro, ma c’è quella europea appeared first on Punto Informatico.",
-      "spokenText": "La legge di bilancio 2027 cancella il contributo di 2 euro sui pacchi provenienti da paesi extra UE con valore fino a 150 euro, abrogando i commi 126, 127 e 128 dell'articolo 30 della stessa legge. La misura era stata introdotta dalla legge di bilancio 2026 per coprire le spese amministrative correlate agli adempimenti doganali. In Italia il contributo non verrà più applicato in quanto rappresentava un doppione della commissione di gestione prevista dal nuovo codice doganale dell'Unione europea, che ha introdotto un dazio di 3 euro dal 1 luglio 2026 e una commissione di gestione di 2 euro a partire da oggi.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "legge di bilancio 2027",
-        "unione europea",
-        "italia"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 42,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/pacchi-cinesi-addio-tassa-2-euro-europea/"
-      },
-      "analysis": {
-        "mainFact": "La legge di bilancio 2027 cancella il contributo di 2 euro sui pacchi, ma da oggi viene applicata la commissione di gestione di 2 euro a livello europeo.",
-        "whyItMatters": "In Italia non verrà più applicato il contributo di 2 euro, in quanto era un “doppione” della commissione di gestione prevista dal nuovo codice doganale europeo.",
-        "confirmedFacts": [
-          "La legge di bilancio 2027 cancella il contributo di 2 euro sui pacchi, ma da oggi viene applicata la commissione di gestione di 2 euro a livello europeo.",
-          "In Italia non verrà più applicato il contributo di 2 euro, in quanto era un “doppione” della commissione di gestione prevista dal nuovo codice doganale europeo.",
-          "La legge di bilancio 2027 ha cancellato il contributo di 2 euro per ogni pacco in arrivo da paesi extra UE con valore fino a 150 euro.",
-          "La decisione è dovuta all’entrata in vigore del nuovo codice doganale dell’Unione europea che ha introdotto un dazio di 3 euro dal 1 luglio 2026 e la commissione di gestione di 2 euro da oggi .",
-          "30 della legge di bilancio 2027 ( PDF ) ha abrogato i commi 126, 127 e 128 dell’art.",
-          "Pacchi più costosi a partire dal 1 novembre 2026 La legge di bilancio 2026 aveva introdotto un contributo di 2 euro per la copertura delle spese amministrative correlate agli adempimenti doganali relativi alle spedizioni provenienti da paesi terzi.",
-          "Pacchi cinesi: addio alla tassa di 2 euro, ma c'è quella europea La legge di bilancio 2027 cancella il contributo di 2 euro sui pacchi, ma da oggi viene applicata la commissione di gestione di 2 euro a livello europeo."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "legge di bilancio 2027",
-          "Unione europea",
-          "Italia"
-        ],
-        "numbersAndDates": [
-          "La legge di bilancio 2027 ha cancellato il contributo di 2 euro per ogni pacco in arrivo da paesi extra UE con valore fino a 150 euro.",
-          "La decisione è dovuta all’entrata in vigore del nuovo codice doganale dell’Unione europea che ha introdotto un dazio di 3 euro dal 1 luglio 2026 e la commissione di gestione di 2 euro da oggi .",
-          "30 della legge di bilancio 2027 ( PDF ) ha abrogato i commi 126, 127 e 128 dell’art.",
-          "Pacchi più costosi a partire dal 1 novembre 2026 La legge di bilancio 2026 aveva introdotto un contributo di 2 euro per la copertura delle spese amministrative correlate agli adempimenti doganali relativi alle spedizioni provenienti da paesi terzi.",
-          "Pacchi cinesi: addio alla tassa di 2 euro, ma c'è quella europea La legge di bilancio 2027 cancella il contributo di 2 euro sui pacchi, ma da oggi viene applicata la commissione di gestione di 2 euro a livello europeo.",
-          "2027",
-          "2"
-        ]
-      }
-    },
-    {
-      "id": "story-1f0e2c8a93ac006a",
-      "title": "Ucraina e Russia si preparano alla battaglia decisiva nel Donbas",
-      "summary": "La battaglia nel Donbas verso il suo culmine: la tenuta della \"cintura delle fortezze\", le manovre di Kyiv contro le infiltrazioni russe e le incognite dell'inverno.",
-      "spokenText": "Ucraina e Russia si preparano alla battaglia decisiva nel Donbas. La tenuta della cintura delle fortezze, le manovre di Kyiv contro le infiltrazioni russe e le incognite dell'inverno segnano il culmine dello scontro. Le direttrici d'accesso sono state affidate all'11° e al 19° Corpo d'Armata, mentre il 1° Corpo Azov della Guardia Nazionale, guidato da Denys Prokopenko, è stato ridispiegato nel settore dopo l'infiltrazione di massa di soldati russi nell'agosto 2025, penetrata fino a 20 chilometri dietro le linee ucraine.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "ucraina",
-        "russia",
-        "donbas",
-        "druzhkivka",
-        "19 corpo d armata",
-        "1 corpo azov della guardia nazionale",
-        "denys prokopenko",
-        "mariupol"
-      ],
-      "importance": 60,
-      "mustInclude": false,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/ucraina-russia-battaglia-donbas/"
-      },
-      "analysis": {
-        "mainFact": "Ucraina e Russia si preparano alla battaglia decisiva nel Donbas.",
-        "whyItMatters": "Nel corso del 2026, i progressi marginali sul terreno, uniti a miglioramenti tecnologici che hanno esteso il raggio d'azione dei droni, hanno reso la logistica Ucraina nell'intera area sensibilmente più ardua, costringendo gran parte dei residenti rimasti ad abbandonare le proprie case.",
-        "confirmedFacts": [
-          "Ucraina e Russia si preparano alla battaglia decisiva nel Donbas.",
-          "Nel corso del 2026, i progressi marginali sul terreno, uniti a miglioramenti tecnologici che hanno esteso il raggio d'azione dei droni, hanno reso la logistica Ucraina nell'intera area sensibilmente più ardua, costringendo gran parte dei residenti rimasti ad abbandonare le proprie case.",
-          "La battaglia nel Donbas verso il suo culmine: la tenuta della \"cintura delle fortezze\", le manovre di Kyiv contro le infiltrazioni russe e le incognite dell'inverno.",
-          "A seguito della riforma dei corpi d'armata varata lo scorso anno dall’esercito ucraino, le direttrici d'accesso alla cintura delle fortezze sono state affidate all'11° e al 19° Corpo d'Armata.",
-          "Dopo che un’infiltrazione di massa di soldati russi nell'agosto 2025 era penetrata fino a 20 chilometri dietro le linee ucraine, Kyiv ha ridispiegato nel settore il 1° Corpo Azov della Guardia Nazionale, guidato da Denys Prokopenko (già al comando della guarnigione di Mariupol), tuttora trincerato sul posto.",
-          "Mentre le forze russe tentano di spingersi in avanti verso Druzhkivka, i reparti ucraini restano trincerati nel centro urbano e persino lungo la periferia orientale, compiendo manovre e avvicendamenti a intermittenza che impediscono a Mosca di dispiegare stabilmente le proprie squadre di droni dentro la città."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Ucraina",
-          "Russia",
-          "Donbas",
-          "Druzhkivka",
-          "19° Corpo d'Armata",
-          "1° Corpo Azov della Guardia Nazionale",
-          "Denys Prokopenko",
-          "Mariupol"
-        ],
-        "numbersAndDates": [
-          "A seguito della riforma dei corpi d'armata varata lo scorso anno dall’esercito ucraino, le direttrici d'accesso alla cintura delle fortezze sono state affidate all'11° e al 19° Corpo d'Armata.",
-          "Dopo che un’infiltrazione di massa di soldati russi nell'agosto 2025 era penetrata fino a 20 chilometri dietro le linee ucraine, Kyiv ha ridispiegato nel settore il 1° Corpo Azov della Guardia Nazionale, guidato da Denys Prokopenko (già al comando della guarnigione di Mariupol), tuttora trincerato sul posto.",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-651576922e642a10",
-      "title": "I raggi X raggiungono nuove energie grazie a un trucco quantistico",
-      "summary": "Un gruppo di ricercatori della TU Wien e della University of California San Diego ha prodotto raggi X con energie superiori al limite previsto dal modello convenzionale di emissione a singolo elettron...",
-      "spokenText": "I raggi X raggiungono nuove energie grazie a un trucco quantistico.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 5,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/i-raggi-x-hanno-piu-energia-del-previsto-gli-elettroni-fanno-squadra"
-      },
-      "analysis": {
-        "mainFact": "I raggi X raggiungono nuove energie grazie a un trucco quantistico",
-        "whyItMatters": "Raggi X a nuove energie tramite trucco quantistico, storia emergente con molte fonti e alto impatto scientifico.",
-        "confirmedFacts": [
-          "I raggi X raggiungono nuove energie grazie a un trucco quantistico",
-          "Raggi X a nuove energie tramite trucco quantistico, storia emergente con molte fonti e alto impatto scientifico."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-6af04b84ec8d7467",
-      "title": "Una stanza è un forno e l'altra è gelida? Le valvole smart risolvono il problema",
-      "summary": "Ti sar&agrave; capitato sicuramente: ti sposti in soggiorno e l'ambiente sembra un tropico surriscaldato, poi passi in camera da letto o nello studio e vieni accolto da un clima polare. Questo fenomen...",
-      "spokenText": "Ti sarà capitato sicuramente: ti sposti in soggiorno e l'ambiente sembra un tropico surriscaldato, poi passi in camera da letto o nello studio e vieni accolto da un clima polare.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "valvole smart",
-        "soggiorno",
-        "camera da letto",
-        "studio"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/offerte/una-stanza-e-un-forno-e-laltra-e-gelida-le-valvole-smart-risolvono-il-problema"
-      },
-      "analysis": {
-        "mainFact": "Ti sarà capitato sicuramente: ti sposti in soggiorno e l'ambiente sembra un tropico surriscaldato, poi passi in camera da letto o nello studio e vieni accolto da un clima polare.",
-        "whyItMatters": "Domotica smart per efficienza energetica domestica, utile e concreta.",
-        "confirmedFacts": [
-          "Ti sarà capitato sicuramente: ti sposti in soggiorno e l'ambiente sembra un tropico surriscaldato, poi passi in camera da letto o nello studio e vieni accolto da un clima polare.",
-          "Domotica smart per efficienza energetica domestica, utile e concreta.",
-          "Ti sar&agrave; capitato sicuramente: ti sposti in soggiorno e l'ambiente sembra un tropico surriscaldato, poi passi in camera da letto o nello studio e vieni accolto da un clima polare."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "valvole smart",
-          "soggiorno",
-          "camera da letto",
-          "studio"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-c1fbc71f454fd506",
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "summary": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "spokenText": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "james webb space telescope",
-        "cat s head nebula"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 4,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
-      },
-      "analysis": {
-        "mainFact": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-        "whyItMatters": "Osservazione scientifica del James Webb su Cat's Head Nebula, rilevanza astronomica.",
-        "confirmedFacts": [
-          "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-          "Osservazione scientifica del James Webb su Cat's Head Nebula, rilevanza astronomica.",
-          "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "James Webb Space Telescope",
-          "Cat's Head Nebula"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f5d49e3e20d45671",
-      "title": "Israele, allearsi con i cittadini palestinesi per liberarsi di Netanyahu",
-      "summary": "Un'affluenza record e 19 seggi arabi: i numeri per voltare pagina ci sono, ma il rifiuto dell'opposizione di contare i cittadini palestinesi rischia di salvare Netanyahu.",
-      "spokenText": "Il blocco di Netanyahu si attesta a 53 seggi, contro i 48 di Eisenkot, mentre i due partiti arabi raggiungono insieme il record storico di 19 seggi. Sulla carta, i 67 deputati contrari al primo ministro, arabi compresi, potrebbero raccomandare Eisenkot al presidente Isaac Herzog e dargli la fiducia. Alla vigilia del voto, dopo che circa settantamila residenti all'estero erano tornati in Israele per votare, si sperava in un piccolo miracolo. Secondo un sondaggio dell'Università Ebraica, il sessantuno per cento degli elettori dei quattro partiti di opposizione preferirebbe un governo Eisenkot con Ra'am, mentre appena il dodici per cento appoggerebbe una rotazione con Netanyahu. In questa prospettiva, i palestinesi del '48, ovvero i cittadini israeliani di origine palestinese, assumono un ruolo quasi salvifico e potrebbero essere proprio loro a preservare la fragile democrazia israeliana.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "israele",
-        "netanyahu",
-        "eisenkot",
-        "isaac herzog",
-        "ra am",
-        "universita ebraica",
-        "palestinesi del 48"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 54,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/elezioni-israele-netanyahu-opposizione-arabi/"
-      },
-      "analysis": {
-        "mainFact": "Il blocco di Netanyahu si attesta a 53 seggi, quello di Eisenkot a 48, mentre i due partiti arabi raggiungono insieme il record storico di 19 seggi.",
-        "whyItMatters": "Sulla carta, i 67 deputati contrari a Netanyahu, arabi compresi, potrebbero raccomandare Eisenkot al presidente Isaac Herzog e dargli la fiducia.",
-        "confirmedFacts": [
-          "Il blocco di Netanyahu si attesta a 53 seggi, quello di Eisenkot a 48, mentre i due partiti arabi raggiungono insieme il record storico di 19 seggi.",
-          "Sulla carta, i 67 deputati contrari a Netanyahu, arabi compresi, potrebbero raccomandare Eisenkot al presidente Isaac Herzog e dargli la fiducia.",
-          "Alla vigilia delle elezioni , dopo che circa 70.000 residenti all’estero avevano preso l’aereo per tornare a votare, in Israele si sperava in un piccolo miracolo.",
-          "Secondo un sondaggio dell’Università Ebraica, infatti, il 61% degli elettori dei quattro partiti dell’opposizione preferirebbe un governo Eisenkot con Ra’am, mentre appena il 12% appoggerebbe una rotazione con Netanyahu.",
-          "In questa prospettiva, i palestinesi del ’48, ovvero quelli che detengono la cittadinanza, assumono un ruolo quasi salvifico e potrebbero essere proprio loro a preservare la fragile democrazia israeliana."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Israele",
-          "Netanyahu",
-          "Eisenkot",
-          "Isaac Herzog",
-          "Ra'am",
-          "Università Ebraica",
-          "palestinesi del '48"
-        ],
-        "numbersAndDates": [
-          "Alla vigilia delle elezioni , dopo che circa 70.000 residenti all’estero avevano preso l’aereo per tornare a votare, in Israele si sperava in un piccolo miracolo.",
-          "Secondo un sondaggio dell’Università Ebraica, infatti, il 61% degli elettori dei quattro partiti dell’opposizione preferirebbe un governo Eisenkot con Ra’am, mentre appena il 12% appoggerebbe una rotazione con Netanyahu.",
-          "In questa prospettiva, i palestinesi del ’48, ovvero quelli che detengono la cittadinanza, assumono un ruolo quasi salvifico e potrebbero essere proprio loro a preservare la fragile democrazia israeliana.",
-          "53",
-          "48",
-          "19",
-          "67"
-        ]
-      }
-    },
-    {
-      "id": "story-34a17551a6546a86",
-      "title": "Kiev, 'quella di Oleshky la più lunga tregua tra russi e ucraini dal 2022'",
-      "summary": "'La missione umanitaria è stata completata, vogliamo che non resti un caso isolato'",
-      "spokenText": "Si tratta del periodo di cessate il fuoco più lungo rispettato da entrambe le parti dal 2022. La tregua di Oleshky ha permesso il completamento della missione umanitaria, un risultato che Kiev e le forze russe intendono non resti un caso isolato.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "kiev",
-        "oleshky",
-        "russi",
-        "ucraini"
+        "fnomceo",
+        "anelli",
+        "mef",
+        "ministero della salute"
       ],
       "importance": 72,
       "mustInclude": false,
       "estimatedSeconds": 17,
       "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/kiev-quella-di-oleshky-la-piu-lunga-tregua-tra-russi-e-ucraini-dal_04dac3ac-26a7-49bb-8bab-92f87405e90c.html"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/01/manovra-medici-carta-sanitaria-senza-ministero-salute-scelta-sconcertante_7e75025a-bc6e-44c9-8806-c9fd260437b2.html"
       },
       "analysis": {
-        "mainFact": "Si tratta del periodo di cessate il fuoco più lungo rispettato da entrambe le parti dal 2022.",
-        "whyItMatters": "La missione umanitaria è stata completata e si vuole che non resti un caso isolato.",
+        "mainFact": "La Carta sanitaria nella manovra è affidata a un decreto del ministro del Lavoro, di concerto con il Mef, senza prevedere il concerto del ministro della Salute.",
+        "whyItMatters": "L'attuazione della Carta sanitaria, prevista dal disegno di legge di bilancio e finanziata con 1,645 miliardi di euro per il solo 2027, è affidata a un decreto del ministro del Lavoro, di concerto con il ministro dell'Economia, senza prevedere il concerto del ministro della Salute.",
         "confirmedFacts": [
-          "Si tratta del periodo di cessate il fuoco più lungo rispettato da entrambe le parti dal 2022.",
-          "La missione umanitaria è stata completata e si vuole che non resti un caso isolato.",
-          "'La missione umanitaria è stata completata, vogliamo che non resti un caso isolato'",
-          "Si tratta del periodo di cessate il fuoco pi lungo rispettato da entrambe le parti dal 2022."
+          "La Carta sanitaria nella manovra è affidata a un decreto del ministro del Lavoro, di concerto con il Mef, senza prevedere il concerto del ministro della Salute.",
+          "L'attuazione della Carta sanitaria, prevista dal disegno di legge di bilancio e finanziata con 1,645 miliardi di euro per il solo 2027, è affidata a un decreto del ministro del Lavoro, di concerto con il ministro dell'Economia, senza prevedere il concerto del ministro della Salute.",
+          "Anelli (Fnomceo): \"ora affidata a decreto del ministro del Lavoro, di concerto con il Mef\""
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Kiev",
-          "Oleshky",
-          "russi",
-          "ucraini"
+          "Fnomceo",
+          "Anelli",
+          "Mef",
+          "ministero della Salute"
         ],
         "numbersAndDates": [
-          "2022"
+          "1,645",
+          "2027"
         ]
       }
     },
     {
-      "id": "story-5c84e36c96d58879",
-      "title": "Polonia, Tusk: attacco a Corte è una violazione dello stato di diritto da parte",
-      "summary": "“L’attacco al tribunale è un’altra parte del processo di distruzione dello Stato di diritto in Polonia da parte del Pis dei presidenti Duda e Narowcki. Un politico non può entrare...",
-      "spokenText": "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'. Nella serata di ieri la polizia ha circondato la sede dell’alta corte, oggetto della rabbia di manifestanti vicini al partito Pis che gridano al colpo di Stato.",
-      "category": "diritti",
+      "id": "story-7f310417cba787cd",
+      "title": "Ryanair, il costo del jet fuel a 2 miliardi di dollari nel 2027. Utili in calo del 15%",
+      "summary": "Ryanair mette mano alla riduzione dei costi di tutta la compagnia con un piano che punta a compensare un aumento di 2 miliardi di euro del costo del carburante per...",
+      "spokenText": "Il costo del jet fuel di Ryanair è previsto a 2 miliardi di dollari nel 2027 e gli utili sono in calo del 15%. I ricavi complessivi sono aumentati del 3%, a 10,08 miliardi di euro, mentre i costi operativi hanno registrato un’accelerazione del 10%, salendo a 7,69 miliardi. Secondo la società, il prezzo del carburante non coperto dalle operazioni di hedging è raddoppiato, raggiungendo circa 130 dollari al barile. Il gruppo ha protetto circa l’80% del fabbisogno per l’esercizio in corso a un prezzo di circa 67 dollari al barile, limitando così l’impatto della volatilità energetica sui conti, ma dal prossimo marzo questa copertura scenderà al 25% a circa 95 dollari al barile. In assenza di una rapida soluzione del conflitto in Medio Oriente, il gruppo si aspetta che i prezzi del jet fuel restino elevati anche nel 2027.",
+      "category": "attualita",
       "tags": [
-        "diritti",
-        "tusk",
-        "pis",
-        "corte",
-        "polonia"
+        "attualita",
+        "ryanair"
       ],
-      "importance": 75,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 16,
+      "estimatedSeconds": 56,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/polonia-presidente-nawrocki-convoca-colloqui-straordinari-risolvere-crisi-istituzionale-AJOMdN0B"
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/ryanair-costo-jet-fuel-2-miliardi-dollari-2027-utili-calo-15percento-AJ0RfX1B"
       },
       "analysis": {
-        "mainFact": "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'.",
-        "whyItMatters": "Nella serata di ieri la polizia ha circondato la sede dell’alta corte, oggetto della rabbia di manifestanti vicini al partito Pis che gridano al colpo di Stato.",
+        "mainFact": "Il costo del jet fuel di Ryanair è previsto a 2 miliardi di dollari nel 2027 e gli utili sono in calo del 15%.",
+        "whyItMatters": "I ricavi complessivi sono aumentati del 3%, a 10,08 miliardi di euro, mentre i costi operativi hanno registrato un’accelerazione del 10%, salendo a 7,69 miliardi.",
         "confirmedFacts": [
-          "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'.",
-          "Nella serata di ieri la polizia ha circondato la sede dell’alta corte, oggetto della rabbia di manifestanti vicini al partito Pis che gridano al colpo di Stato.",
-          "Tusk: attacco a Corte è una violazione dello stato di diritto da parte"
+          "Il costo del jet fuel di Ryanair è previsto a 2 miliardi di dollari nel 2027 e gli utili sono in calo del 15%.",
+          "I ricavi complessivi sono aumentati del 3%, a 10,08 miliardi di euro, mentre i costi operativi hanno registrato un’accelerazione del 10%, salendo a 7,69 miliardi.",
+          "Secondo la società, il prezzo del carburante non coperto dalle operazioni di hedging è raddoppiato, raggiungendo circa 130 dollari al barile.",
+          "Il gruppo ha protetto circa l’80% del fabbisogno per l’esercizio in corso a un prezzo di circa 67 dollari al barile, limitando così l’impatto della volatilità energetica sui conti, ma dal prossimo marzo questa copertura scenderà al 25% a circa 95 dollari al barile.",
+          "In assenza di una rapida soluzione del conflitto in Medio Oriente, il gruppo si aspetta che i prezzi del jet fuel restino elevati anche nel 2027.",
+          "Sul piano commerciale, i ricavi da voli di linea sono saliti appena dell’1%, a circa 7 miliardi di euro, a fronte di una crescita del traffico del 6%."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Tusk",
-          "Pis",
-          "Corte",
-          "Polonia"
+          "Ryanair"
         ],
+        "numbersAndDates": [
+          "Secondo la società, il prezzo del carburante non coperto dalle operazioni di hedging è raddoppiato, raggiungendo circa 130 dollari al barile.",
+          "Il gruppo ha protetto circa l’80% del fabbisogno per l’esercizio in corso a un prezzo di circa 67 dollari al barile, limitando così l’impatto della volatilità energetica sui conti, ma dal prossimo marzo questa copertura scenderà al 25% a circa 95 dollari al barile.",
+          "In assenza di una rapida soluzione del conflitto in Medio Oriente, il gruppo si aspetta che i prezzi del jet fuel restino elevati anche nel 2027.",
+          "Sul piano commerciale, i ricavi da voli di linea sono saliti appena dell’1%, a circa 7 miliardi di euro, a fronte di una crescita del traffico del 6%.",
+          "2",
+          "2027",
+          "15",
+          "3",
+          "10,08",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "story-943788c90ab1edd3",
+      "title": "Belgio: il premier De Wever rassegna le dimissioni, re Filippo I avvia consultazioni",
+      "summary": "Crisi di Governo in Belgio. «Il re Filippo I ha ricevuto Bart De Wever in udienza. Il primo ministro ha rassegnato le dimissioni a seguito del fallimento dei negoziati sul...",
+      "spokenText": "Il primo ministro belga ha rassegnato le dimissioni dopo il fallimento dei negoziati sul bilancio federale per il 2027. La coalizione Arizona si è infatti spaccata sulla manovra anti-deficit, senza riuscire a trovare un accordo sull'obiettivo di risanamento da dieci miliardi di euro entro il 2029. Il consiglio dei ministri ristretto, noto come kern, non ha raggiunto l'intesa necessaria in nottata. In questo scenario, il re Filippo I ha congelato le dimissioni del premier De Wever e ha avviato le consultazioni.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "re filippo i",
+        "belgio",
+        "coalizione arizona"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/belgio-premier-de-wever-rassegna-dimissioni-re-filippo-avvia-consultazioni-AJeg8k1B"
+      },
+      "analysis": {
+        "mainFact": "Il primo ministro ha rassegnato le dimissioni a seguito del fallimento dei negoziati sul bilancio.",
+        "whyItMatters": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni.",
+        "confirmedFacts": [
+          "Il primo ministro ha rassegnato le dimissioni a seguito del fallimento dei negoziati sul bilancio.",
+          "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni.",
+          "Il governo del Belgio si spacca sulla manovra, il premier si dimette",
+          "La coalizione Arizona spaccata sulla manovra anti-deficit Il consiglio dei ministri ristretto (\"kern\") in Belgio non è riuscito in nottata a raggiungere un accordo sul bilancio federale 2027, né sull'obiettivo di un risanamento da 10 miliardi di euro entro il 2029."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "re Filippo I",
+          "Belgio",
+          "coalizione Arizona"
+        ],
+        "numbersAndDates": [
+          "La coalizione Arizona spaccata sulla manovra anti-deficit Il consiglio dei ministri ristretto (\"kern\") in Belgio non è riuscito in nottata a raggiungere un accordo sul bilancio federale 2027, né sull'obiettivo di un risanamento da 10 miliardi di euro entro il 2029."
+        ]
+      }
+    },
+    {
+      "id": "story-86c2946aa94f18ca",
+      "title": "SMS of Death, il messaggio che blocca gli smartphone Android",
+      "summary": "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza. The post SMS of Death, il messaggio che blocca gli smartphone Android appeared first on Punto Informatico.",
+      "spokenText": "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza. In gergo tecnico, la vulnerabilità è identificata come CVE-2026-58882, ma il nome attribuito dai ricercatori che l’hanno scoperta e documentata è SMS of Death , per rendere bene l’idea di ciò che è in grado di fare. 01 06 88 80 80 80 00 BE → sent as a data SMS to port 2948 Quando il software prova a convertire la prima parte, il valore assegnato è negativo ( -2.147.483.648 ) e, durante l’allocazione della memoria, genera un’eccezione che si traduce nell’ interruzione improvvisa delle comunicazioni .",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "android",
+        "cve 2026 58882",
+        "sms of death",
+        "ricercatori"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 44,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/sms-of-death-messaggio-blocca-smartphone-android/"
+      },
+      "analysis": {
+        "mainFact": "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza.",
+        "whyItMatters": "SMS of Death, il messaggio che blocca gli smartphone Android Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza.",
+        "confirmedFacts": [
+          "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza.",
+          "SMS of Death, il messaggio che blocca gli smartphone Android Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza.",
+          "In gergo tecnico, la vulnerabilità è identificata come CVE-2026-58882, ma il nome attribuito dai ricercatori che l’hanno scoperta e documentata è SMS of Death , per rendere bene l’idea di ciò che è in grado di fare.",
+          "01 06 88 80 80 80 00 BE → sent as a data SMS to port 2948 Quando il software prova a convertire la prima parte, il valore assegnato è negativo ( -2.147.483.648 ) e, durante l’allocazione della memoria, genera un’eccezione che si traduce nell’ interruzione improvvisa delle comunicazioni ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Android",
+          "CVE-2026-58882",
+          "SMS of Death",
+          "ricercatori"
+        ],
+        "numbersAndDates": [
+          "In gergo tecnico, la vulnerabilità è identificata come CVE-2026-58882, ma il nome attribuito dai ricercatori che l’hanno scoperta e documentata è SMS of Death , per rendere bene l’idea di ciò che è in grado di fare.",
+          "01 06 88 80 80 80 00 BE → sent as a data SMS to port 2948 Quando il software prova a convertire la prima parte, il valore assegnato è negativo ( -2.147.483.648 ) e, durante l’allocazione della memoria, genera un’eccezione che si traduce nell’ interruzione improvvisa delle comunicazioni ."
+        ]
+      }
+    },
+    {
+      "id": "story-d5d6c94bb9c300f4",
+      "title": "Dal cielo piovono detriti. Il telescopio della Nasa in caduta libera sulla Terra",
+      "summary": "In 22 anni Swift ha osservato le esplosioni più violente dell’universo. Ma le tempeste solari gli hanno fatto perdere quota. La missione per riportarlo nell’orbita prevista è fallita. Precipiterà entro la fine della settimana",
+      "spokenText": "Il telescopio Swift della Nasa precipiterà sulla Terra entro la fine della settimana. Per oltre due decenni, lo strumento ha osservato le esplosioni più violente dell'universo. Nonostante i tentativi dell'agenzia spaziale, la missione per riportarlo nell'orbita prevista è fallita, rendendo inevitabile il rientro dell'osservatorio. Ma le tempeste solari gli hanno fatto perdere quota.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "swift",
+        "nasa",
+        "terra"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/cronaca/2026/11/02/news/telescopio_nasa_swift_caduta_terra_detriti_spaziali-425692673/"
+      },
+      "analysis": {
+        "mainFact": "Il telescopio Swift della Nasa precipiterà sulla Terra entro la fine della settimana.",
+        "whyItMatters": "La missione per riportarlo nell’orbita prevista è fallita.",
+        "confirmedFacts": [
+          "Il telescopio Swift della Nasa precipiterà sulla Terra entro la fine della settimana.",
+          "La missione per riportarlo nell’orbita prevista è fallita.",
+          "In 22 anni Swift ha osservato le esplosioni più violente dell’universo.",
+          "Ma le tempeste solari gli hanno fatto perdere quota."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Swift",
+          "Nasa",
+          "Terra"
+        ],
+        "numbersAndDates": [
+          "In 22 anni Swift ha osservato le esplosioni più violente dell’universo."
+        ]
+      }
+    },
+    {
+      "id": "story-35595687ad2045f8",
+      "title": "Gli hacker hanno trovato un nuovo alleato e si chiama Cursor",
+      "summary": "La banda ransomware Aur0ra ha impiegato agenti di intelligenza artificiale per condurre parte delle intrusioni nelle reti delle vittime, presentando le operazioni come verifiche di sicurezza autorizza...",
+      "spokenText": "Gli hacker hanno trovato un nuovo alleato e si chiama Cursor.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 5,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/hardware/la-banda-aur0ra-usa-agenti-ia-li-inganna-con-falsi-test-di-sicurezza"
+      },
+      "analysis": {
+        "mainFact": "Gli hacker hanno trovato un nuovo alleato e si chiama Cursor",
+        "whyItMatters": "Uso emergente di agenti IA da parte di hacker, rilevanza concreta per sicurezza informatica.",
+        "confirmedFacts": [
+          "Gli hacker hanno trovato un nuovo alleato e si chiama Cursor",
+          "Uso emergente di agenti IA da parte di hacker, rilevanza concreta per sicurezza informatica."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-3e249d70da7e5d3a",
-      "title": "Il coleottero Short-Necked Oil Beetle è stato ritrovato in Galles dopo 60 anni",
-      "summary": "Il coleottero Short-Necked Oil Beetle è stato ritrovato in Galles dopo 60 anni.",
-      "spokenText": "Il coleottero Short-Necked Oil Beetle è stato ritrovato in Galles dopo sessant'anni di assenza.",
+      "id": "story-69c3bc46f45cc57d",
+      "title": "Toi-561 b, un oceano di lava sotto un cielo di nuvole",
+      "summary": "Un pianeta ricoperto da un oceano di magma, con temperature di migliaia di gradi, eppure più freddo del previsto. Ora un gruppo di ricerca della University of Waterloo ha scoperto che Toi-561 b potrebbe riflettere circa tre quarti della luce ricevuta dalla sua stella. A spiegare questa insolita riflettività sarebbero nubi di silicati, che potrebbero contribuire anche alla sopravvivenza dell'atmosfera del pianeta",
+      "spokenText": "Un gruppo di ricerca della University of Waterloo ha scoperto che Toi-561 b potrebbe riflettere circa tre quarti della luce ricevuta dalla sua stella. La sua insolita riflettività potrebbe essere spiegata da nubi di silicati che potrebbero contribuire alla sopravvivenza dell'atmosfera del pianeta. Toi-561 b, un oceano di lava sotto un cielo di nuvole.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "wales"
+        "toi 561 b",
+        "university of waterloo",
+        "nubi di silicati"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/02/toi-561-b-lava-nuvole/"
+      },
+      "analysis": {
+        "mainFact": "Un gruppo di ricerca della University of Waterloo ha scoperto che Toi-561 b potrebbe riflettere circa tre quarti della luce ricevuta dalla sua stella.",
+        "whyItMatters": "la sua insolita riflettività potrebbe essere spiegata da nubi di silicati che potrebbero contribuire alla sopravvivenza dell'atmosfera del pianeta.",
+        "confirmedFacts": [
+          "Un gruppo di ricerca della University of Waterloo ha scoperto che Toi-561 b potrebbe riflettere circa tre quarti della luce ricevuta dalla sua stella.",
+          "la sua insolita riflettività potrebbe essere spiegata da nubi di silicati che potrebbero contribuire alla sopravvivenza dell'atmosfera del pianeta.",
+          "Toi-561 b, un oceano di lava sotto un cielo di nuvole"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Toi-561 b",
+          "University of Waterloo",
+          "nubi di silicati"
+        ],
+        "numbersAndDates": [
+          "Toi-561 b, un oceano di lava sotto un cielo di nuvole",
+          "561"
+        ]
+      }
+    },
+    {
+      "id": "story-d4172d8bb0e32d4d",
+      "title": "Googlebook avrà lo schermo staccabile: il software è già pronto",
+      "summary": "Google ha confermato l’arrivo di un Googlebook con tastiera staccabile durante l’Android Dev Summit 2026. La piattaforma si prepara così a uscire dal perimetro dei portatili tradizionali e dei convert...",
+      "spokenText": "Google ha confermato l'arrivo di un Googlebook con tastiera staccabile durante l'Android Dev Summit 2026.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "google",
+        "googlebook",
+        "android dev summit 2026"
       ],
       "importance": 82,
       "mustInclude": false,
       "estimatedSeconds": 6,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/hardware/googlebook-avra-lo-schermo-staccabile-il-software-e-gia-pronto"
       },
       "analysis": {
-        "mainFact": "Il coleottero Short-Necked Oil Beetle è stato ritrovato in Galles dopo 60 anni.",
-        "whyItMatters": "Riscoperta specie rara, valore scientifico e ambientale coerente.",
+        "mainFact": "Google ha confermato l'arrivo di un Googlebook con tastiera staccabile durante l'Android Dev Summit 2026.",
+        "whyItMatters": "Googlebook con schermo staccabile, novità tecnologica emergente di interesse diretto.",
         "confirmedFacts": [
-          "Il coleottero Short-Necked Oil Beetle è stato ritrovato in Galles dopo 60 anni.",
-          "Riscoperta specie rara, valore scientifico e ambientale coerente.",
-          "They were not reported in the UK for almost 60 years after 1948 as habitat loss brought the species to the brink of extinction."
+          "Google ha confermato l'arrivo di un Googlebook con tastiera staccabile durante l'Android Dev Summit 2026.",
+          "Googlebook con schermo staccabile, novità tecnologica emergente di interesse diretto."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Wales"
+          "Google",
+          "Googlebook",
+          "Android Dev Summit 2026"
         ],
         "numbersAndDates": [
-          "60"
+          "2026"
         ]
       }
     },
     {
-      "id": "story-2f789ba6e6eee0e8",
-      "title": "Tecnologia, sovranità, sicurezza",
-      "summary": "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici: come l'azienda USA conquista i governi e perché è un errore evitabile.",
-      "spokenText": "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici.",
+      "id": "story-9f0a37a2596e99ec",
+      "title": "Papa Leone XIV: l’intelligenza artificiale deve essere disarmata",
+      "summary": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome.",
+      "spokenText": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, non potendo quindi essere utilizzata per lo sviluppo di armi autonome.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "europa",
-        "palantir"
+        "papa leone xiv"
       ],
-      "importance": 82,
+      "importance": 62,
       "mustInclude": false,
-      "estimatedSeconds": 5,
+      "estimatedSeconds": 9,
       "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/palantir-europa-sicurezza-dati-sovranita/"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/papa-leone-xiv-intelligenza-artificiale-deve-essere-disarmata/"
       },
       "analysis": {
-        "mainFact": "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici.",
-        "whyItMatters": "Sovranità tecnologica e sicurezza dati, tema centrale per il profilo utente.",
+        "mainFact": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome.",
+        "whyItMatters": "Per questa ragione l'intelligenza artificiale deve essere disarmata.",
         "confirmedFacts": [
-          "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici.",
-          "Sovranità tecnologica e sicurezza dati, tema centrale per il profilo utente.",
-          "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici: come l'azienda USA conquista i governi e perché è un errore evitabile."
+          "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome.",
+          "Per questa ragione l'intelligenza artificiale deve essere disarmata.",
+          "L’intelligenza artificiale deve essere disarmata Papa Leone XIV ha ricordato che le questioni sono state descritte in maniera più dettagliata nell’enciclica."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Europa",
-          "Palantir"
+          "Papa Leone XIV"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-cc95cd36adfdebec",
+      "title": "L’auto europea ha perso la leadership dell’innovazione. Ce lo dice Stellantis",
+      "summary": "Tra il 2006 e il 2023 gli utili dei costruttori del Vecchio Continente sono cresciuti di sette volte e gli investimenti solo del 18%. I cinesi hanno scelto un’altra via",
+      "spokenText": "Tra il 2006 e il 2023 gli utili dei costruttori europei sono cresciuti di sette volte e gli investimenti solo del 18%. I cinesi hanno scelto un'altra via.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "stellantis",
+        "cinesi"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 12,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/11/02/news/l_auto_europea_ha_perso_la_leadership_dell_innovazione_ce_lo_dice_stellantis-425688040/"
+      },
+      "analysis": {
+        "mainFact": "Tra il 2006 e il 2023 gli utili dei costruttori europei sono cresciuti di sette volte e gli investimenti solo del 18%.",
+        "whyItMatters": "Tra il 2006 e il 2023 gli utili dei costruttori del Vecchio Continente sono cresciuti di sette volte e gli investimenti solo del 18%. I cinesi hanno scelto un'altra via.",
+        "confirmedFacts": [
+          "Tra il 2006 e il 2023 gli utili dei costruttori europei sono cresciuti di sette volte e gli investimenti solo del 18%.",
+          "Tra il 2006 e il 2023 gli utili dei costruttori del Vecchio Continente sono cresciuti di sette volte e gli investimenti solo del 18%. I cinesi hanno scelto un'altra via.",
+          "Tra il 2006 e il 2023 gli utili dei costruttori del Vecchio Continente sono cresciuti di sette volte e gli investimenti solo del 18%.",
+          "I cinesi hanno scelto un’altra via"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stellantis",
+          "cinesi"
         ],
         "numbersAndDates": [
-          "1,4"
+          "2006",
+          "2023",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "story-21ae8deed6ea91dc",
+      "title": "Xiaomi vende 50.000 auto elettriche in un mese: nuovo record",
+      "summary": "Le auto elettriche di Xiaomi accelerano: record di consegne nel mese di ottobre, con la prospettiva di un'ulteriore crescita entro fine l'anno. The post Xiaomi vende 50.000 auto elettriche in un mese: nuovo record appeared first on Punto Informatico.",
+      "spokenText": "Le auto elettriche di Xiaomi accelerano: il marchio ha distribuito 50.000 unità nel mese di ottobre, stabilendo un nuovo record mensile. Il dato conferma una crescita costante, dopo le 40.000 consegne di settembre e le 30.000 di agosto. Da inizio anno il totale raggiunge circa 336.000 veicoli, con l'obiettivo di arrivare a 550.000 entro fine 2026.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "xiaomi"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 23,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/xiaomi-vende-50000-auto-elettriche-un-mese-nuovo-record/"
+      },
+      "analysis": {
+        "mainFact": "Xiaomi ha distribuito 50.000 auto elettriche nel mese di ottobre, nuovo record mensile.",
+        "whyItMatters": "Xiaomi ha distribuito 50.000 unità solo nel mese di ottobre, facendo registrare il proprio nuovo record, dopo le 40.000 di settembre e le 30.000 di agosto. Sono circa 336.000 in totale da gennaio e l’obiettivo è quello di raggiungere la soglia delle 550.000 entro fine 2026.",
+        "confirmedFacts": [
+          "Xiaomi ha distribuito 50.000 auto elettriche nel mese di ottobre, nuovo record mensile.",
+          "Xiaomi ha distribuito 50.000 unità solo nel mese di ottobre, facendo registrare il proprio nuovo record, dopo le 40.000 di settembre e le 30.000 di agosto. Sono circa 336.000 in totale da gennaio e l’obiettivo è quello di raggiungere la soglia delle 550.000 entro fine 2026.",
+          "Le auto elettriche di Xiaomi accelerano: record di consegne nel mese di ottobre, con la prospettiva di un'ulteriore crescita entro fine l'anno."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Xiaomi"
+        ],
+        "numbersAndDates": [
+          "50.000",
+          "40.000",
+          "30.000",
+          "336.000",
+          "550.000",
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-e7b4f688198816ea",
+      "title": "La festa è finita: i nuovi limiti di Claude Code bloccano reverse engineering e",
+      "summary": "Anthropic ha confermato di aver modificato il comportamento di Claude Code, il suo assistente da riga di comando per la programmazione, per impedire la ricostruzione di videogiochi gi&agrave; esistent...",
+      "spokenText": "La festa è finita: i nuovi limiti di Claude Code bloccano il reverse engineering.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "claude code"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/hardware/la-festa-e-finita-i-nuovi-limiti-di-claude-code-bloccano-reverse-engineering-e-giochi-clonati"
+      },
+      "analysis": {
+        "mainFact": "La festa è finita: i nuovi limiti di Claude Code bloccano reverse engineering e",
+        "whyItMatters": "Nuovi limiti su Claude Code rilevanti per tecnologia e industria.",
+        "confirmedFacts": [
+          "La festa è finita: i nuovi limiti di Claude Code bloccano reverse engineering e",
+          "Nuovi limiti su Claude Code rilevanti per tecnologia e industria."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Claude Code"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-fad5a1f28eaabfe4",
+      "title": "Cooperazione tra Italia ed Estonia su cambiamenti climatici",
+      "summary": "Rappresentanti dell’Agenzia per l’Ambiente e del Ministero per il Clima dell’Estonia sono stati ospiti di ISPRA nella settimana dal 19 al 23 ottobre nell’ambito del Programma PACE (Public Administration Exchange) della Commissione Europea, per attività di capacity- building sul tema comunicazione e transizione ecologica con un focus sull’ adattamento climatico.",
+      "spokenText": "La cooperazione tra Italia ed Estonia sui cambiamenti climatici si è concretizzata in una settimana di scambio tra esperti. Partendo dai rispettivi piani nazionali di adattamento, sono stati presentati il Piano del 2023, la piattaforma CLIMADAT per l'esperienza utente e alcuni casi di studio sulla comunicazione della Green Transition. Insieme al Ministero dell'Ambiente e della Sicurezza energetica e al Centro Euromediterraneo per i cambiamenti climatici, ISPRA ha organizzato un programma dedicato a esperti di comunicazione e coinvolgimento delle comunità. Il CMCC ha illustrato i risultati del primo Festival di adattamento ai cambiamenti climatici del progetto DesirMED. La delegazione estone ha inoltre visitato l'Area Marina Protetta Secche di Tor Paterno e osservato le attività di educazione e coinvolgimento dei giovani sul tema.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "italia",
+        "estonia",
+        "ispra",
+        "mase",
+        "cmcc"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 49,
+      "source": {
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/cooperazione-tra-italia-ed-estonia-su-cambiamenti-climatici-transizione-ecologica-e-comunicazione"
+      },
+      "analysis": {
+        "mainFact": "Cooperazione tra Italia ed Estonia su cambiamenti climatici",
+        "whyItMatters": "Partendo dal quadro delle politiche di adattamento dei rispettivi Paesi, sono stati introdotti il Piano Nazionale di adattamento ai cambiamenti climatici del 2023, la piattaforma CLIMADAT anche dal punto di vista dell'user experience e casi di studio nazionali di comunicazione sulla Green Transition.",
+        "confirmedFacts": [
+          "Cooperazione tra Italia ed Estonia su cambiamenti climatici",
+          "Partendo dal quadro delle politiche di adattamento dei rispettivi Paesi, sono stati introdotti il Piano Nazionale di adattamento ai cambiamenti climatici del 2023, la piattaforma CLIMADAT anche dal punto di vista dell'user experience e casi di studio nazionali di comunicazione sulla Green Transition.",
+          "Insieme al Ministero dell’Ambiente e della Sicurezza energetica (MASE) e il Centro Euromediterraneo per i cambiamenti clamatici (CMCC), ISPRA ha organizzato un programma ad hoc coinvolgendo esperti di adattamento ai cambiamenti climatici, comunicazione e processi di engagement delle comunità.",
+          "Il CMCC ha presentato i risultati del primo Festival di adattamento ai cambiamenti climatici organizzato nell’ambito del progetto DesirMED.",
+          "La delegazione estone ha potuto assistere anche alle attività di educazione e di coinvolgimento dei giovani sul tema dell’adattamento ai cambiamenti climatici."
+        ],
+        "uncertainties": [
+          "La settimana di scambio ha previsto anche un'esperienza sul campo organizzata dal MASE con il supporto dell’Ente Regione Natura Roma presso l’Area Marina Protetta Secche di Tor Paterno."
+        ],
+        "peopleAndOrganizations": [
+          "Italia",
+          "Estonia",
+          "ISPRA",
+          "MASE",
+          "CMCC"
+        ],
+        "numbersAndDates": [
+          "2023"
+        ]
+      }
+    },
+    {
+      "id": "story-42cacdd58fef53a5",
+      "title": "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna",
+      "summary": "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'aria intorno alla Terra.",
+      "spokenText": "L'ultima immagine cattura l'eclissi lunare totale del luglio 2018, quando la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'atmosfera. Si tratta di uno scatto firmato da Marcella Giulia Pace, con crediti e copyright relativi al primo novembre 2026. Il progetto vede autori e redattori come Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti e Keighley Rockcliffe, ed è un servizio di APOD, NASA, GSFC, NASA Science Activation e Michigan Tech, con il coinvolgimento di entità come ESA, DLR e FU Berlin.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "apod",
+        "nasa",
+        "gsfc",
+        "michigan tech",
+        "esa",
+        "dlr",
+        "fu berlin"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 35,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
+      },
+      "analysis": {
+        "mainFact": "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'aria intorno alla Terra.",
+        "whyItMatters": "APOD sulla Luna, tema scientifico emergente e di interesse diretto per l'utente.",
+        "confirmedFacts": [
+          "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'aria intorno alla Terra.",
+          "APOD sulla Luna, tema scientifico emergente e di interesse diretto per l'utente.",
+          "Immagine di domani: open space. Data: 1 novembre 2026. Crediti e copyright: Marcella Giulia Pace. Autori e redattori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD at NASA / GSFC, NASA Science Activation e Michigan Tech."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "APOD",
+          "Nasa",
+          "GSFC",
+          "Michigan Tech",
+          "ESA",
+          "DLR",
+          "FU Berlin"
+        ],
+        "numbersAndDates": [
+          "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'aria intorno alla Terra.",
+          "Immagine di domani: open space. Data: 1 novembre 2026. Crediti e copyright: Marcella Giulia Pace. Autori e redattori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD at NASA / GSFC, NASA Science Activation e Michigan Tech.",
+          "2018"
         ]
       }
     }
