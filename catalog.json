@@ -1,602 +1,666 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-02-ebdaf3793c39",
-  "generatedAt": "2026-11-02T14:36:10.678Z",
+  "catalogId": "daily-quid-2026-11-03-7cf6a1b71029",
+  "generatedAt": "2026-11-03T13:29:53.436Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-444890d4ae51fbc1",
-      "title": "Malattia rara che raddoppia rischio tumori, nuova cura per una di queste neoplasie",
-      "summary": "Da Aifa rimborsabilità farmaco per un cancro che colpisce fino alla metà dei pazienti",
-      "spokenText": "L'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia a base di mirdametinib per pazienti pediatrici sopra i due anni e adulti affetti da tumori associati alla neurofibromatosi di tipo 1. Questa condizione genetica rara, ereditaria nel cinquanta per cento dei casi, espone i pazienti a un rischio di neoplasie doppio rispetto alla popolazione generale. Tra le manifestazioni più critiche figurano i neurofibromi plessiformi, tumori che provocano dolore cronico nel settantasette per cento dei casi, deturpazione e limitazioni fisiche, riducendo significativamente la qualità di vita. La gestione di queste lesioni risulta particolarmente complessa quando l'intervento chirurgico non è possibile e, anche dopo l'operazione, si registra un tasso di ricrescita compreso tra il venti e il sessantotto per cento. La decisione dell'Aifa si fonda sui risultati dello studio multicentrico di fase 2 ReNeu, che ha coinvolto centootto pazienti pediatrici e adulti.",
-      "category": "salute",
+      "id": "story-61c367379038d6cc",
+      "title": "ISPRA a Ecomondo 2026: la ricerca incontra la sostenibilità",
+      "summary": "Al via la Fiera internazionale di Rimini dal 3 al 6 novembre 2026 Una presenza ormai consolidata quella di ISPRA a Ecomondo . Insieme al Sistema nazionale per la protezione ambientale, l’Istituto è partner della manifestazione di riferimento in Europa per la green e circular economy. Una presenza che testimonia il ruolo di Ispra nel panorama della ricerca e delle competenze ambientali e il suo impegno nel promuovere la conoscenza scientifica a supporto della transizione ecologica. ISPRA ed Snpa sono presenti a Rimini con un proprio spazio espositivo presso la Hall Sud, dove si svolgeranno talk e incontri. Gli esperti dell’Istituto, inoltre, prenderanno parte ad oltre 30 panel organizzati in Fiera. Tra i temi su cui si dibatterà, l’economia circolare, la gestione dei rifiuti, le bonifiche, il consumo di suolo e il dissesto, le risorse idriche, la finanza sostenibile e il green washing, il contrasto agli illeciti ambientali. Il 4 novembre alle ore 11 presso lo Spazio Talk dello stand ISPRA/SNPA, sarà presentato il rapporto “Attivazioni in emergenza – Dati 2025”, seconda edizione dello studio che analizza gli interventi delle Arpa e di ISPRA nelle situazioni di emergenza caratterizzate da potenziali ricadute sull’ambiente. Spazio anche alla campagna di comunicazione “Facciamo circolare”, realizzata dall’Istituto in collaborazione con il Ministero delle Imprese e del Made in Italy, che ne ha sostenuto il finanziamento. Presente a Ecomondo sin dai primi anni della manifestazione – che nel 2027 ne compirà 30 – ISPRA contribuisce con il proprio know-how al confronto con istituzioni, imprese, mondo della ricerca e operatori del settore, per condividere esperienze e contribuire al dibattito sulle principali sfide ambientali. “Ecomondo è per ISPRA e l’intero Sistema un appuntamento irrinunciabile, particolarmente quest’anno il cui filo conduttore ci trova oltremodo impegnati: trasformare la sostenibilità in risultati concreti - ha detto Maria Alessandra Gallone presidente dell’ISPRA e di Snpa - Rigenerare il suolo consumato, ripristinare la natura, applicare strumenti e piattaforme in grado di prevenire il rischio idrogeologico. Solo attraverso una forte collaborazione tra ricerca, istituzioni, mondo produttivo e territori possiamo lavorare nella stessa direzione della sostenibilità”. Galleria fotografica Eventi a cui partecipa ISPRA Eventi presso l'Area talk dello stand ISPRA-SNPA e dello stand MASE (Hall Sud Stand 109-a)",
+      "spokenText": "ISPRA è presente a Ecomondo 2026, la fiera internazionale di Rimini in programma dal 3 al 6 novembre, con uno spazio espositivo nella Hall Sud dove si terranno talk e incontri. L'Istituto partecipa all'evento insieme al Sistema nazionale per la protezione ambientale, confermando un legame che risale ai primi anni della manifestazione, che nel 2027 compirà trent'anni. Il 4 novembre alle 11, presso lo Spazio Talk dello stand ISPRA/SNPA, verrà presentato il rapporto “Attivazioni in emergenza – Dati 2025”, seconda edizione dello studio sugli interventi delle Arpa e di ISPRA in situazioni di emergenza con potenziali ricadute sull'ambiente. Gli esperti dell'Istituto prenderanno parte a oltre trenta panel organizzati in Fiera, contribuendo al confronto tra istituzioni, imprese, mondo della ricerca e operatori del settore sulle principali sfide ambientali. La presenza a Rimini testimonia il ruolo dell'Istituto nel panorama della ricerca e delle competenze ambientali e il suo impegno a promuovere la conoscenza scientifica a supporto della transizione ecologica.",
+      "category": "ambiente",
       "tags": [
-        "salute",
-        "aifa",
-        "mirdametinib",
-        "neurofibromatosi di tipo 1",
-        "neurofibromi plessiformi"
+        "ambiente",
+        "ispra",
+        "snpa",
+        "ecomondo",
+        "rimini"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 57,
+      "estimatedSeconds": 63,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/02/malattia-rara-che-raddoppia-rischio-tumori-nuova-cura-per-una_9b8a9341-09c7-4407-b7eb-ec3be2285cca.html"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/ispra-a-ecomondo-2026"
       },
       "analysis": {
-        "mainFact": "L'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia con principio attivo mirdametinib per il trattamento di pazienti pediatrici con più di 2 anni e adulti contro tumori associati alla malattia rara.",
-        "whyItMatters": "In particolare, i pazienti presentano un rischio doppio di neoplasie rispetto alla popolazione generale.",
+        "mainFact": "ISPRA a Ecomondo 2026: la ricerca incontra la sostenibilità",
+        "whyItMatters": "ISPRA ed Snpa sono presenti a Rimini con un proprio spazio espositivo presso la Hall Sud, dove si svolgeranno talk e incontri.",
         "confirmedFacts": [
-          "L'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia con principio attivo mirdametinib per il trattamento di pazienti pediatrici con più di 2 anni e adulti contro tumori associati alla malattia rara.",
-          "In particolare, i pazienti presentano un rischio doppio di neoplasie rispetto alla popolazione generale.",
-          "E proprio contro questi tumori associati alla malattia rara, adesso, l'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia con principio attivo mirdametinib per il trattamento di pazienti pediatrici con più di 2 anni e adulti.",
-          "La rimborsabilità si basa sui risultati dello studio multicentrico di fase 2 ReNeu, che ha coinvolto 114 pazienti pediatrici e adulti.",
-          "La neurofibromatosi di tipo 1 è una condizione genetica rara, ereditaria nel 50% dei casi.",
-          "I neurofibromi plessiformi sono tumori che causano dolore cronico nel 77% dei pazienti, deturpazione, limitazioni fisiche e riducono la qualità di vita.",
-          "La gestione di queste lesioni è complessa specie se non è possibile operare e anche a seguito dell'intervento, si osserva un tasso di ricrescita dei tumori dal 20% al 68%."
+          "ISPRA a Ecomondo 2026: la ricerca incontra la sostenibilità",
+          "ISPRA ed Snpa sono presenti a Rimini con un proprio spazio espositivo presso la Hall Sud, dove si svolgeranno talk e incontri.",
+          "Al via la Fiera internazionale di Rimini dal 3 al 6 novembre 2026 Una presenza ormai consolidata quella di ISPRA a Ecomondo .",
+          "Il 4 novembre alle ore 11 presso lo Spazio Talk dello stand ISPRA/SNPA, sarà presentato il rapporto “Attivazioni in emergenza – Dati 2025”, seconda edizione dello studio che analizza gli interventi delle Arpa e di ISPRA nelle situazioni di emergenza caratterizzate da potenziali ricadute sull’ambiente.",
+          "Gli esperti dell’Istituto, inoltre, prenderanno parte ad oltre 30 panel organizzati in Fiera.",
+          "Presente a Ecomondo sin dai primi anni della manifestazione – che nel 2027 ne compirà 30 – ISPRA contribuisce con il proprio know-how al confronto con istituzioni, imprese, mondo della ricerca e operatori del settore, per condividere esperienze e contribuire al dibattito sulle principali sfide ambientali.",
+          "Insieme al Sistema nazionale per la protezione ambientale, l’Istituto è partner della manifestazione di riferimento in Europa per la green e circular economy.",
+          "Una presenza che testimonia il ruolo di Ispra nel panorama della ricerca e delle competenze ambientali e il suo impegno nel promuovere la conoscenza scientifica a supporto della transizione ecologica."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Aifa",
-          "mirdametinib",
-          "neurofibromatosi di tipo 1",
-          "neurofibromi plessiformi"
+          "ISPRA",
+          "SNPA",
+          "Ecomondo",
+          "Rimini"
         ],
         "numbersAndDates": [
-          "E proprio contro questi tumori associati alla malattia rara, adesso, l'Agenzia Italiana del Farmaco ha approvato la rimborsabilità della terapia con principio attivo mirdametinib per il trattamento di pazienti pediatrici con più di 2 anni e adulti.",
-          "La rimborsabilità si basa sui risultati dello studio multicentrico di fase 2 ReNeu, che ha coinvolto 114 pazienti pediatrici e adulti.",
-          "La neurofibromatosi di tipo 1 è una condizione genetica rara, ereditaria nel 50% dei casi.",
-          "I neurofibromi plessiformi sono tumori che causano dolore cronico nel 77% dei pazienti, deturpazione, limitazioni fisiche e riducono la qualità di vita.",
-          "La gestione di queste lesioni è complessa specie se non è possibile operare e anche a seguito dell'intervento, si osserva un tasso di ricrescita dei tumori dal 20% al 68%.",
-          "2"
+          "Al via la Fiera internazionale di Rimini dal 3 al 6 novembre 2026 Una presenza ormai consolidata quella di ISPRA a Ecomondo .",
+          "Il 4 novembre alle ore 11 presso lo Spazio Talk dello stand ISPRA/SNPA, sarà presentato il rapporto “Attivazioni in emergenza – Dati 2025”, seconda edizione dello studio che analizza gli interventi delle Arpa e di ISPRA nelle situazioni di emergenza caratterizzate da potenziali ricadute sull’ambiente.",
+          "Gli esperti dell’Istituto, inoltre, prenderanno parte ad oltre 30 panel organizzati in Fiera.",
+          "Presente a Ecomondo sin dai primi anni della manifestazione – che nel 2027 ne compirà 30 – ISPRA contribuisce con il proprio know-how al confronto con istituzioni, imprese, mondo della ricerca e operatori del settore, per condividere esperienze e contribuire al dibattito sulle principali sfide ambientali.",
+          "2026"
         ]
       }
     },
     {
-      "id": "story-b596dd05a35a90ba",
-      "title": "Manovra: medici, 'Carta sanitaria senza ministero della Salute, scelta sconcertante'",
-      "summary": "Anelli (Fnomceo): \"ora affidata a decreto del ministro del Lavoro, di concerto con il Mef\"",
-      "spokenText": "La Carta sanitaria, prevista dal disegno di legge di bilancio e finanziata con 1,645 miliardi di euro per il solo 2027, sarà attuata tramite un decreto del ministro del Lavoro, di concerto con il Mef, senza il concerto del Ministero della Salute.",
+      "id": "story-3487b8d6b77b6bac",
+      "title": "Bimbo muore di morbillo negli Stati Uniti, polemica sulla politica sulle vaccinazioni",
+      "summary": "Primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni",
+      "spokenText": "Un bambino delle zone rurali del nord dello Stato di New York è morto dopo aver contratto il morbillo: si tratta del primo decesso causato da questa malattia nello Stato negli ultimi 30 anni, hanno annunciato funzionari statali citati dal Guardian. Gli Stati Uniti hanno fermato la diffusione interna del morbillo nel 2000 mantenendo alti i tassi di vaccinazione, ma negli ultimi anni questi sono scesi al di sotto della copertura del 95% necessaria per prevenire focolai della malattia virale. Sebbene rari, i decessi si verificano in circa uno-tre pazienti ogni 1.000 casi. Secondo i Centers for Disease Control and Prevention, dal primo gennaio al 30 ottobre 2026 sono stati registrati 4.852 casi totali, con un tasso di ospedalizzazione dell'11% e 3 decessi complessivi. Si tratta del primo decesso correlato al morbillo registrato a New York negli ultimi 30 anni, un promemoria devastante di ciò che è in gioco quando Washington erode deliberatamente decenni di progressi nella protezione degli americani dalle malattie prevenibili.",
       "category": "salute",
       "tags": [
         "salute",
-        "fnomceo",
-        "anelli",
-        "mef",
-        "ministero della salute"
+        "stato di new york",
+        "guardian",
+        "washington",
+        "centers for disease control and prevention"
       ],
-      "importance": 72,
+      "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 17,
+      "estimatedSeconds": 66,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/01/manovra-medici-carta-sanitaria-senza-ministero-salute-scelta-sconcertante_7e75025a-bc6e-44c9-8806-c9fd260437b2.html"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bimbo-muore-di-morbillo-negli-stati-uniti-polemica-sulla-politica-sulle_49b959bf-f831-4076-8162-eaa6807a342f.html"
       },
       "analysis": {
-        "mainFact": "La Carta sanitaria nella manovra è affidata a un decreto del ministro del Lavoro, di concerto con il Mef, senza prevedere il concerto del ministro della Salute.",
-        "whyItMatters": "L'attuazione della Carta sanitaria, prevista dal disegno di legge di bilancio e finanziata con 1,645 miliardi di euro per il solo 2027, è affidata a un decreto del ministro del Lavoro, di concerto con il ministro dell'Economia, senza prevedere il concerto del ministro della Salute.",
+        "mainFact": "Un bambino delle zone rurali del nord dello Stato di New York è morto dopo aver contratto il morbillo: si tratta del primo decesso causato da questa malattia nello Stato negli ultimi 30 anni, hanno annunciato funzionari statali citati dal Guardian.",
+        "whyItMatters": "Si tratta del primo decesso correlato al morbillo registrato a New York negli ultimi 30 anni, un promemoria devastante di ciò che è in gioco quando Washington erode deliberatamente decenni di progressi nella protezione degli americani dalle malattie prevenibili.",
         "confirmedFacts": [
-          "La Carta sanitaria nella manovra è affidata a un decreto del ministro del Lavoro, di concerto con il Mef, senza prevedere il concerto del ministro della Salute.",
-          "L'attuazione della Carta sanitaria, prevista dal disegno di legge di bilancio e finanziata con 1,645 miliardi di euro per il solo 2027, è affidata a un decreto del ministro del Lavoro, di concerto con il ministro dell'Economia, senza prevedere il concerto del ministro della Salute.",
-          "Anelli (Fnomceo): \"ora affidata a decreto del ministro del Lavoro, di concerto con il Mef\""
+          "Un bambino delle zone rurali del nord dello Stato di New York è morto dopo aver contratto il morbillo: si tratta del primo decesso causato da questa malattia nello Stato negli ultimi 30 anni, hanno annunciato funzionari statali citati dal Guardian.",
+          "Si tratta del primo decesso correlato al morbillo registrato a New York negli ultimi 30 anni, un promemoria devastante di ciò che è in gioco quando Washington erode deliberatamente decenni di progressi nella protezione degli americani dalle malattie prevenibili.",
+          "Gli Stati Uniti hanno fermato la diffusione interna del morbillo nel 2000 mantenendo alti i tassi di vaccinazione, ma negli ultimi anni questi sono scesi al di sotto della copertura del 95% necessaria per prevenire focolai della malattia virale.",
+          "Sebbene rari, i decessi per morbillo si verificano in circa uno-tre pazienti ogni 1.000 casi.",
+          "Secondo i Centers for Disease Control and Prevention, dal primo gennaio al 30 ottobre 2026 sono stati registrati 4.852 casi totali di morbillo, con un tasso di ospedalizzazione dell'11% e 3 decessi complessivi."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Fnomceo",
-          "Anelli",
-          "Mef",
-          "ministero della Salute"
+          "Stato di New York",
+          "Guardian",
+          "Washington",
+          "Centers for Disease Control and Prevention"
         ],
         "numbersAndDates": [
-          "1,645",
-          "2027"
+          "Gli Stati Uniti hanno fermato la diffusione interna del morbillo nel 2000 mantenendo alti i tassi di vaccinazione, ma negli ultimi anni questi sono scesi al di sotto della copertura del 95% necessaria per prevenire focolai della malattia virale.",
+          "Sebbene rari, i decessi per morbillo si verificano in circa uno-tre pazienti ogni 1.000 casi.",
+          "Secondo i Centers for Disease Control and Prevention, dal primo gennaio al 30 ottobre 2026 sono stati registrati 4.852 casi totali di morbillo, con un tasso di ospedalizzazione dell'11% e 3 decessi complessivi.",
+          "30"
         ]
       }
     },
     {
-      "id": "story-7f310417cba787cd",
-      "title": "Ryanair, il costo del jet fuel a 2 miliardi di dollari nel 2027. Utili in calo del 15%",
-      "summary": "Ryanair mette mano alla riduzione dei costi di tutta la compagnia con un piano che punta a compensare un aumento di 2 miliardi di euro del costo del carburante per...",
-      "spokenText": "Il costo del jet fuel di Ryanair è previsto a 2 miliardi di dollari nel 2027 e gli utili sono in calo del 15%. I ricavi complessivi sono aumentati del 3%, a 10,08 miliardi di euro, mentre i costi operativi hanno registrato un’accelerazione del 10%, salendo a 7,69 miliardi. Secondo la società, il prezzo del carburante non coperto dalle operazioni di hedging è raddoppiato, raggiungendo circa 130 dollari al barile. Il gruppo ha protetto circa l’80% del fabbisogno per l’esercizio in corso a un prezzo di circa 67 dollari al barile, limitando così l’impatto della volatilità energetica sui conti, ma dal prossimo marzo questa copertura scenderà al 25% a circa 95 dollari al barile. In assenza di una rapida soluzione del conflitto in Medio Oriente, il gruppo si aspetta che i prezzi del jet fuel restino elevati anche nel 2027.",
+      "id": "story-e346be17dc1e0334",
+      "title": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»",
+      "summary": "Nelle elezioni di metà mandato per il rinnovo del Congresso, i candidati democratici secondo gli ultimi sondaggi sono avanti in cinque degli Stati chiave per il Senato",
+      "spokenText": "Il voto di oggi riguarda il rinnovo della Camera e di un terzo del Senato, oltre all'elezione di 36 governatori e di molte cariche statali. Secondo gli ultimi sondaggi, i democratici sono avanti in cinque degli Stati chiave per il Senato. «Per El-Sayed gli Stati Uniti sono la casa di Satana, vi rendete conto». Trump ha quindi chiesto un ultimo sforzo ai suoi sostenitori per contenere le perdite, affermando: «Non possiamo consentire a gente che odia questo paese di vincere», per poi ammettere che i presidenti perdono sempre le elezioni di Midterm. In molti Stati, anche in quelli tradizionalmente conservatori e oggi in bilico, una parte forse decisiva di chi ha votato per Trump nel 2024 sembra delusa e potrebbe decidere di non andare a votare. avrebbe ben alcuni aspetti di vantaggio rispetto al repubblicano Mike Rogers, il 53% contro il 42%. Anche in Texas, uno Stato fortemente conservatore che non elegge un senatore democratico dal 1988, il democratico James Talarico - sempre secondo i sondaggi del New York Times - avrebbe preso forza contro Ken Paxton, arrivando al 50% contro il 43% del candidato imposto da Trump.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "stati uniti",
+        "abdul el sayed",
+        "mike rogers",
+        "james talarico",
+        "ken paxton"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 76,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/trump-candidati-dem-pericolosi-voto-midterm-piu-importante-storia-usa-AJ6HLE2B"
+      },
+      "analysis": {
+        "mainFact": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»",
+        "whyItMatters": "Nelle elezioni di metà mandato per il rinnovo del Congresso, i candidati democratici secondo gli ultimi sondaggi sono avanti in cinque degli Stati chiave per il Senato",
+        "confirmedFacts": [
+          "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»",
+          "Nelle elezioni di metà mandato per il rinnovo del Congresso, i candidati democratici secondo gli ultimi sondaggi sono avanti in cinque degli Stati chiave per il Senato",
+          "In particolare viene segnalato un aumento consistente delle intenzioni di voto in Michigan per Abdul El-Sayed , il candidato progressista, musulmano e ProPal odiatissimo da Trump: avrebbe ben alcuni aspetti di vantaggio rispetto al repubblicano Mike Rogers, il 53% contro il 42%.",
+          "«Per El-Sayed gli Stati Uniti sono la casa di Satana, vi rendete conto», ha detto ieri Trump.",
+          "Anche in Texas, uno Stato fortemente conservatore che non elegge un senatore democratico dal 1988, il democratico James Talarico - sempre secondo i sondaggi del New York Times - avrebbe preso forza contro Ken Paxton, arrivando al 50% contro il 43% del candidato imposto da Trump.",
+          "Trump ha poi chiesto un ultimo sforzo ai suoi sostenitori per contenere le perdite: «Non possiamo consentire a gente che odia questo paese di vincere», ha riaffermato per poi ammettere: «Per qualche motivo i presidenti perdono sempre le elezioni di Midterm, ma ci abbiamo comunque provato sul serio».",
+          "In molti Stati - anche in quelli tradizionalmente conservatori e oggi in bilico - una parte forse decisiva di chi ha votato per Trump alla Casa Bianca nel 2024 sembra delusa: forse non arriverà a preferire i democratici ma potrebbe decidere di non andare a votare.",
+          "Oggi gli americani votano per rinnovare la Camera e un terzo del Senato , oltre che per eleggere 36 governatori e molte cariche statali, ma il voto di metà mandato si è trasformato da tempo in un referendum sull’azione del presidente:"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Stati Uniti",
+          "Abdul El-Sayed",
+          "Mike Rogers",
+          "James Talarico",
+          "Ken Paxton"
+        ],
+        "numbersAndDates": [
+          "In particolare viene segnalato un aumento consistente delle intenzioni di voto in Michigan per Abdul El-Sayed , il candidato progressista, musulmano e ProPal odiatissimo da Trump: avrebbe ben alcuni aspetti di vantaggio rispetto al repubblicano Mike Rogers, il 53% contro il 42%.",
+          "Anche in Texas, uno Stato fortemente conservatore che non elegge un senatore democratico dal 1988, il democratico James Talarico - sempre secondo i sondaggi del New York Times - avrebbe preso forza contro Ken Paxton, arrivando al 50% contro il 43% del candidato imposto da Trump.",
+          "In molti Stati - anche in quelli tradizionalmente conservatori e oggi in bilico - una parte forse decisiva di chi ha votato per Trump alla Casa Bianca nel 2024 sembra delusa: forse non arriverà a preferire i democratici ma potrebbe decidere di non andare a votare.",
+          "Oggi gli americani votano per rinnovare la Camera e un terzo del Senato , oltre che per eleggere 36 governatori e molte cariche statali, ma il voto di metà mandato si è trasformato da tempo in un referendum sull’azione del presidente:"
+        ]
+      }
+    },
+    {
+      "id": "story-d03fd4d2d73377b6",
+      "title": "Nobel: addio a William Nordhaus, l’economista che teorizzò la carbon tax",
+      "summary": "L’economista statunitense William Dawbney Nordhaus, che ha contribuito a portare il cambiamento climatico al centro dell’analisi economica, quando ancora il tema era lontano dall’essere una priorità per gran parte della...",
+      "spokenText": "Addio a William Nordhaus, l'economista che teorizzò la carbon tax e che ha ricevuto il Nobel per i suoi studi. Il contributo fondamentale dell'economia, aveva affermato nel discorso pronunciato in occasione del premio, è riconoscere che il cambiamento climatico è un effetto collaterale dannoso e involontario della crescita economica.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "ryanair"
+        "nobel"
       ],
-      "importance": 82,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 56,
+      "estimatedSeconds": 20,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/ryanair-costo-jet-fuel-2-miliardi-dollari-2027-utili-calo-15percento-AJ0RfX1B"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/nobel-addio-william-nordhaus-l-economista-che-teorizzo-carbon-tax-AJaB6r2B"
       },
       "analysis": {
-        "mainFact": "Il costo del jet fuel di Ryanair è previsto a 2 miliardi di dollari nel 2027 e gli utili sono in calo del 15%.",
-        "whyItMatters": "I ricavi complessivi sono aumentati del 3%, a 10,08 miliardi di euro, mentre i costi operativi hanno registrato un’accelerazione del 10%, salendo a 7,69 miliardi.",
+        "mainFact": "Nobel: addio a William Nordhaus, l'economista che teorizzò la carbon tax",
+        "whyItMatters": "“Il contributo fondamentale dell’economia”, aveva affermato nel discorso pronunciato in occasione del Nobel, “è riconoscere che il cambiamento climatico è un effetto collaterale dannoso e involontario della crescita economica”.",
         "confirmedFacts": [
-          "Il costo del jet fuel di Ryanair è previsto a 2 miliardi di dollari nel 2027 e gli utili sono in calo del 15%.",
-          "I ricavi complessivi sono aumentati del 3%, a 10,08 miliardi di euro, mentre i costi operativi hanno registrato un’accelerazione del 10%, salendo a 7,69 miliardi.",
-          "Secondo la società, il prezzo del carburante non coperto dalle operazioni di hedging è raddoppiato, raggiungendo circa 130 dollari al barile.",
-          "Il gruppo ha protetto circa l’80% del fabbisogno per l’esercizio in corso a un prezzo di circa 67 dollari al barile, limitando così l’impatto della volatilità energetica sui conti, ma dal prossimo marzo questa copertura scenderà al 25% a circa 95 dollari al barile.",
-          "In assenza di una rapida soluzione del conflitto in Medio Oriente, il gruppo si aspetta che i prezzi del jet fuel restino elevati anche nel 2027.",
-          "Sul piano commerciale, i ricavi da voli di linea sono saliti appena dell’1%, a circa 7 miliardi di euro, a fronte di una crescita del traffico del 6%."
+          "Nobel: addio a William Nordhaus, l'economista che teorizzò la carbon tax",
+          "“Il contributo fondamentale dell’economia”, aveva affermato nel discorso pronunciato in occasione del Nobel, “è riconoscere che il cambiamento climatico è un effetto collaterale dannoso e involontario della crescita economica”."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ryanair"
+          "Nobel"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-0923996150fb983e",
+      "title": "DNA e malattie: il legame che mancava",
+      "summary": "Individuate le cellule immunitarie la cui attività è direttamente influenzata da varianti genetiche: l'anello mancante per lo sviluppo di malattie.",
+      "spokenText": "Tre nuovi studi di recente pubblicati su Nature hanno mappato, con una precisione mai raggiunta prima d'ora, come le variazioni del DNA influenzano l'attività genica delle singole cellule immunitarie, contribuendo così allo sviluppo di malattie. Le tre ricerche contribuiscono a spiegare attraverso quali cellule e mediante quali meccanismi biologici certe varianti genetiche influenzano il rischio di patologie, e aprono la strada allo sviluppo di nuovi farmaci. 3 novembre 2026 Elisabetta Intini Tag scienza - genetica - varianti genetiche - cancro - malattie autoimmuni - cellule immunitarie - dna - sistema immunitario - diversità genetica - malattie genetiche - espressione genica - attività genica. Gli scienziati hanno sequenziato i genomi di quasi 2000 persone e misurato l'attivit genica di quasi 5 milioni delle loro cellule immunitarie , creando la mappa pi dettagliata al mondo di come il DNA regola le cellule immunitarie a livello delle singole cellule.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nature",
+        "cellule immunitarie",
+        "dna"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 59,
+      "source": {
+        "name": "Focus",
+        "url": "https://www.focus.it/scienza/salute/scoperto-il-collegamento-nascosto-tra-varianti-genetiche-e-malattie"
+      },
+      "analysis": {
+        "mainFact": "Tre nuovi studi di recente pubblicati su Nature hanno mappato, con una precisione mai raggiunta prima d'ora, come le variazioni del DNA influenzano l'attività genica delle singole cellule immunitarie, contribuendo così allo sviluppo di malattie.",
+        "whyItMatters": "Le tre ricerche contribuiscono a spiegare attraverso quali cellule e mediante quali meccanismi biologici certe varianti genetiche influenzano il rischio di patologie, e aprono la strada allo sviluppo di nuovi farmaci.",
+        "confirmedFacts": [
+          "Tre nuovi studi di recente pubblicati su Nature hanno mappato, con una precisione mai raggiunta prima d'ora, come le variazioni del DNA influenzano l'attività genica delle singole cellule immunitarie, contribuendo così allo sviluppo di malattie.",
+          "Le tre ricerche contribuiscono a spiegare attraverso quali cellule e mediante quali meccanismi biologici certe varianti genetiche influenzano il rischio di patologie, e aprono la strada allo sviluppo di nuovi farmaci.",
+          "3 novembre 2026 Elisabetta Intini Tag scienza - genetica - varianti genetiche - cancro - malattie autoimmuni - cellule immunitarie - dna - sistema immunitario - diversità genetica - malattie genetiche - espressione genica - attività genica",
+          "Gli scienziati hanno sequenziato i genomi di quasi 2000 persone e misurato l'attivit genica di quasi 5 milioni delle loro cellule immunitarie , creando la mappa pi dettagliata al mondo di come il DNA regola le cellule immunitarie a livello delle singole cellule."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Nature",
+          "cellule immunitarie",
+          "DNA"
         ],
         "numbersAndDates": [
-          "Secondo la società, il prezzo del carburante non coperto dalle operazioni di hedging è raddoppiato, raggiungendo circa 130 dollari al barile.",
-          "Il gruppo ha protetto circa l’80% del fabbisogno per l’esercizio in corso a un prezzo di circa 67 dollari al barile, limitando così l’impatto della volatilità energetica sui conti, ma dal prossimo marzo questa copertura scenderà al 25% a circa 95 dollari al barile.",
-          "In assenza di una rapida soluzione del conflitto in Medio Oriente, il gruppo si aspetta che i prezzi del jet fuel restino elevati anche nel 2027.",
-          "Sul piano commerciale, i ricavi da voli di linea sono saliti appena dell’1%, a circa 7 miliardi di euro, a fronte di una crescita del traffico del 6%.",
-          "2",
-          "2027",
-          "15",
-          "3",
-          "10,08",
+          "3 novembre 2026 Elisabetta Intini Tag scienza - genetica - varianti genetiche - cancro - malattie autoimmuni - cellule immunitarie - dna - sistema immunitario - diversità genetica - malattie genetiche - espressione genica - attività genica",
+          "Gli scienziati hanno sequenziato i genomi di quasi 2000 persone e misurato l'attivit genica di quasi 5 milioni delle loro cellule immunitarie , creando la mappa pi dettagliata al mondo di come il DNA regola le cellule immunitarie a livello delle singole cellule."
+        ]
+      }
+    },
+    {
+      "id": "story-a47cd54c66adb614",
+      "title": "Su Minecraft esiste una biblioteca segreta che aggira la censura",
+      "summary": "The Uncensored Library è stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengono bloccati, Minecraft continua a funzionare.",
+      "spokenText": "Minecraft sembra il posto meno adatto per il giornalismo investigativo, essendo un videogioco fatto di blocchi, picconi e costruzioni pixelate. Eppure, dal 2020 ospita The Uncensored Library, una gigantesca biblioteca virtuale creata da Reporters Without Borders (RSF) insieme al collettivo BlockWorks per rendere nuovamente accessibili articoli censurati nei Paesi d'origine. L'idea sfrutta una caratteristica molto semplice: anche dove giornali, siti internet e social network vengono bloccati, Minecraft spesso continua a funzionare, così i testi proibiti sul web possono ricomparire all'interno del gioco sotto forma di libri virtuali. Oggi la biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti. I testi censurati vengono infatti trascritti nei veri \"libri\" di Minecraft, oggetti che nel gioco possono contenere fino a 100 pagine e che i visitatori aprono e leggono di continuo. La biblioteca è stata visitata più di un milione di volte e i suoi libri sono stati letti complessivamente circa dieci volte tanto.",
+      "category": "cultura",
+      "tags": [
+        "cultura",
+        "the uncensored library",
+        "reporters without borders rsf",
+        "blockworks",
+        "minecraft"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 62,
+      "source": {
+        "name": "Focus",
+        "url": "https://www.focus.it/tecnologia/innovazione/su-minecraft-esiste-una-biblioteca-segreta-che-aggira-la-censura"
+      },
+      "analysis": {
+        "mainFact": "The Uncensored Library è stata creata da Reporters without borders (RSF) su Minecraft perché, anche dove giornali, siti internet e social network vengono bloccati, il gioco continua spesso a funzionare, permettendo ai testi proibiti di ricomparire come libri virtuali.",
+        "whyItMatters": "La biblioteca comprende circa 300 volumi, è stata visitata più di un milione di volte dal 2020 e i suoi libri sono stati letti complessivamente circa 10 volte tanto.",
+        "confirmedFacts": [
+          "The Uncensored Library è stata creata da Reporters without borders (RSF) su Minecraft perché, anche dove giornali, siti internet e social network vengono bloccati, il gioco continua spesso a funzionare, permettendo ai testi proibiti di ricomparire come libri virtuali.",
+          "La biblioteca comprende circa 300 volumi, è stata visitata più di un milione di volte dal 2020 e i suoi libri sono stati letti complessivamente circa 10 volte tanto.",
+          "L'idea sfrutta una caratteristica molto semplice: anche dove giornali, siti internet e social network vengono bloccati, Minecraft spesso continua a funzionare , e cos testi proibiti sul web possono ricomparire all'interno del gioco sotto forma di libri virtuali.",
+          "Eppure, dal 2020 ospita The Uncensored Library, una gigantesca biblioteca virtuale creata da Reporters Without Borders (RSF) insieme al collettivo BlockWorks per rendere nuovamente accessibili articoli censurati nei Paesi d'origine .",
+          "Oggi la biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti.",
+          "I testi censurati vengono infatti trascritti nei veri \"libri\" di Minecraft, oggetti che nel gioco possono contenere fino a 100 pagine e che i visitatori aprono e leggono di continuo.",
+          "La biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti. Uncensoredlibrary. com A prima vista, Minecraft sembra il posto meno adatto per il giornalismo investigativo, essendo un videogioco fatto di blocchi, picconi e costruzioni pixelate."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "The Uncensored Library",
+          "Reporters without borders (RSF)",
+          "BlockWorks",
+          "Minecraft"
+        ],
+        "numbersAndDates": [
+          "Eppure, dal 2020 ospita The Uncensored Library, una gigantesca biblioteca virtuale creata da Reporters Without Borders (RSF) insieme al collettivo BlockWorks per rendere nuovamente accessibili articoli censurati nei Paesi d'origine .",
+          "Oggi la biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti.",
+          "I testi censurati vengono infatti trascritti nei veri \"libri\" di Minecraft, oggetti che nel gioco possono contenere fino a 100 pagine e che i visitatori aprono e leggono di continuo.",
+          "La biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti. Uncensoredlibrary. com A prima vista, Minecraft sembra il posto meno adatto per il giornalismo investigativo, essendo un videogioco fatto di blocchi, picconi e costruzioni pixelate.",
+          "300",
+          "2020",
           "10"
         ]
       }
     },
     {
-      "id": "story-943788c90ab1edd3",
-      "title": "Belgio: il premier De Wever rassegna le dimissioni, re Filippo I avvia consultazioni",
-      "summary": "Crisi di Governo in Belgio. «Il re Filippo I ha ricevuto Bart De Wever in udienza. Il primo ministro ha rassegnato le dimissioni a seguito del fallimento dei negoziati sul...",
-      "spokenText": "Il primo ministro belga ha rassegnato le dimissioni dopo il fallimento dei negoziati sul bilancio federale per il 2027. La coalizione Arizona si è infatti spaccata sulla manovra anti-deficit, senza riuscire a trovare un accordo sull'obiettivo di risanamento da dieci miliardi di euro entro il 2029. Il consiglio dei ministri ristretto, noto come kern, non ha raggiunto l'intesa necessaria in nottata. In questo scenario, il re Filippo I ha congelato le dimissioni del premier De Wever e ha avviato le consultazioni.",
-      "category": "attualita",
+      "id": "story-4aeceb5d0c616c51",
+      "title": "5 cosa dire a chi inizia a meditare: le controindicazioni della meditazione",
+      "summary": "La meditazione può avere effetti indesiderati su sonno, umore e ansia. Quali sono i rischi e le controindicazioni da conoscere prima di iniziare? L'articolo 5 cosa dire a chi inizia a meditare: le controindicazioni della meditazione, raccontate da chi la propone proviene da State of Mind.",
+      "spokenText": "La meditazione può avere effetti indesiderati su sonno, umore e ansia. L'esperienza dei partecipanti con la meditazione era per lo più limitata, secondo Goldberg et al. L'articolo di State of Mind racconta le controindicazioni della meditazione, spiegando quali sono i rischi da conoscere prima di iniziare. 2022). Oggi a capo di un’organizzazione che assiste coloro che hanno subito danni a causa della meditazione (Khazan, 2026).",
+      "category": "salute",
       "tags": [
-        "attualita",
-        "re filippo i",
-        "belgio",
-        "coalizione arizona"
+        "salute",
+        "state of mind",
+        "goldberg et al 2022",
+        "khazan 2026"
       ],
-      "importance": 75,
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 26,
+      "source": {
+        "name": "State of Mind (Psicologia)",
+        "url": "https://www.stateofmind.it/2026/11/meditazione-controindicazioni/?utm_source=rss&utm_medium=rss&utm_campaign=meditazione-controindicazioni"
+      },
+      "analysis": {
+        "mainFact": "La meditazione può avere effetti indesiderati su sonno, umore e ansia.",
+        "whyItMatters": "L'articolo 5 cosa dire a chi inizia a meditare: le controindicazioni della meditazione, raccontate da chi la propone proviene da State of Mind.",
+        "confirmedFacts": [
+          "La meditazione può avere effetti indesiderati su sonno, umore e ansia.",
+          "L'articolo 5 cosa dire a chi inizia a meditare: le controindicazioni della meditazione, raccontate da chi la propone proviene da State of Mind.",
+          "l’esperienza dei partecipanti con la meditazione era per lo pi limitata (Goldberg et al. , 2022).",
+          "Oggi a capo di un’organizzazione che assiste coloro che hanno subito danni a causa della meditazione (Khazan, 2026).",
+          "Quali sono i rischi e le controindicazioni da conoscere prima di iniziare?"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "State of Mind",
+          "Goldberg et al., 2022",
+          "Khazan, 2026"
+        ],
+        "numbersAndDates": [
+          "l’esperienza dei partecipanti con la meditazione era per lo pi limitata (Goldberg et al. , 2022).",
+          "Oggi a capo di un’organizzazione che assiste coloro che hanno subito danni a causa della meditazione (Khazan, 2026).",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "story-aef7c44af532154a",
+      "title": "Il governo del Regno Unito sta lanciando il primo studio per misurare i PFAS nella",
+      "summary": "Il governo del Regno Unito sta lanciando il primo studio per misurare i PFAS nella popolazione britannica per comprendere i rischi.",
+      "spokenText": "Il governo del Regno Unito ha avviato il primo studio nazionale per misurare i PFAS nella popolazione britannica, con l'obiettivo di comprendere i rischi associati a queste sostanze.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "world health organization",
+        "bbc",
+        "pfoa",
+        "pfos"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 12,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Il governo del Regno Unito sta lanciando il primo studio per misurare i PFAS nella popolazione britannica per comprendere i rischi.",
+        "whyItMatters": "Studio governativo su PFAS nella popolazione, diretto su salute e ambiente.",
+        "confirmedFacts": [
+          "Il governo del Regno Unito sta lanciando il primo studio per misurare i PFAS nella popolazione britannica per comprendere i rischi.",
+          "Studio governativo su PFAS nella popolazione, diretto su salute e ambiente.",
+          "Two are already banned in the UK - PFOA and PFOS - because prolonged exposure to them can increase the risk of cancer, according to the World Health Organization. , external But the study of PFAS is an emerging field with more than 15,000 types to research.",
+          "Listen to more of the BBC's reporting on PFAS in File on 4 Investigates: Firefighting's forever chemical legacy."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "World Health Organization",
+          "BBC",
+          "PFOA",
+          "PFOS"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-dc31a573bcbc3210",
+      "title": "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero",
+      "summary": "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet.",
+      "spokenText": "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet. Un episodio che anticipa scenari più recenti, come l'attacco ransomware di maggio 2025 che ha colpito M&S e Co-op, costringendo i retailer britannici a faticare nel rifornire alcuni scaffali dei negozi con consegne fresche. Tra le entità coinvolte figurano UK Cyber Defence, M&S, Co-op e Samsung, a testimonianza di come la sicurezza informatica non riguardi più solo i computer.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "uk cyber defence",
+        "m s",
+        "co op",
+        "samsung"
+      ],
+      "importance": 85,
       "mustInclude": false,
       "estimatedSeconds": 33,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/belgio-premier-de-wever-rassegna-dimissioni-re-filippo-avvia-consultazioni-AJeg8k1B"
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Il primo ministro ha rassegnato le dimissioni a seguito del fallimento dei negoziati sul bilancio.",
-        "whyItMatters": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni.",
+        "mainFact": "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet.",
+        "whyItMatters": "Attacco informatico a sistemi di refrigerazione commerciale con implicazioni sistemiche per infrastrutture critiche.",
         "confirmedFacts": [
-          "Il primo ministro ha rassegnato le dimissioni a seguito del fallimento dei negoziati sul bilancio.",
-          "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni.",
-          "Il governo del Belgio si spacca sulla manovra, il premier si dimette",
-          "La coalizione Arizona spaccata sulla manovra anti-deficit Il consiglio dei ministri ristretto (\"kern\") in Belgio non è riuscito in nottata a raggiungere un accordo sul bilancio federale 2027, né sull'obiettivo di un risanamento da 10 miliardi di euro entro il 2029."
+          "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet.",
+          "Attacco informatico a sistemi di refrigerazione commerciale con implicazioni sistemiche per infrastrutture critiche.",
+          "Quando i supermercati britannici M&S e la Co-op sono stati presi di mira da hacker ransomware nel maggio 2025, i retailer hanno faticato a rifornire alcuni scaffali dei negozi con consegne fresche."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "re Filippo I",
-          "Belgio",
-          "coalizione Arizona"
+          "UK Cyber Defence",
+          "M&S",
+          "Co-op",
+          "Samsung"
         ],
         "numbersAndDates": [
-          "La coalizione Arizona spaccata sulla manovra anti-deficit Il consiglio dei ministri ristretto (\"kern\") in Belgio non è riuscito in nottata a raggiungere un accordo sul bilancio federale 2027, né sull'obiettivo di un risanamento da 10 miliardi di euro entro il 2029."
+          "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet.",
+          "Quando i supermercati britannici M&S e la Co-op sono stati presi di mira da hacker ransomware nel maggio 2025, i retailer hanno faticato a rifornire alcuni scaffali dei negozi con consegne fresche.",
+          "2015"
         ]
       }
     },
     {
-      "id": "story-86c2946aa94f18ca",
-      "title": "SMS of Death, il messaggio che blocca gli smartphone Android",
-      "summary": "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza. The post SMS of Death, il messaggio che blocca gli smartphone Android appeared first on Punto Informatico.",
-      "spokenText": "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza. In gergo tecnico, la vulnerabilità è identificata come CVE-2026-58882, ma il nome attribuito dai ricercatori che l’hanno scoperta e documentata è SMS of Death , per rendere bene l’idea di ciò che è in grado di fare. 01 06 88 80 80 80 00 BE → sent as a data SMS to port 2948 Quando il software prova a convertire la prima parte, il valore assegnato è negativo ( -2.147.483.648 ) e, durante l’allocazione della memoria, genera un’eccezione che si traduce nell’ interruzione improvvisa delle comunicazioni .",
-      "category": "tecnologia",
+      "id": "story-e15b845ebe552f71",
+      "title": "Boom anche per il mercato immobiliare",
+      "summary": "Boom anche per il mercato immobiliare. Se i volumi di vendita di molte agenzie sono aumentati del 50%, i prezzi degli appartamenti di fascia alta vanno dai 15 mila ai 20 mila euro al metro quadro",
+      "spokenText": "Il mercato immobiliare registra un nuovo boom. I volumi di vendita di molte agenzie sono infatti aumentati del 50%, mentre i prezzi degli appartamenti di fascia alta si collocano tra i 15 mila e i 20 mila euro al metro quadro.",
+      "category": "attualita",
       "tags": [
-        "tecnologia",
-        "android",
-        "cve 2026 58882",
-        "sms of death",
-        "ricercatori"
+        "attualita",
+        "mercato immobiliare",
+        "agenzie",
+        "appartamenti di fascia alta"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 44,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/sms-of-death-messaggio-blocca-smartphone-android/"
-      },
-      "analysis": {
-        "mainFact": "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza.",
-        "whyItMatters": "SMS of Death, il messaggio che blocca gli smartphone Android Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza.",
-        "confirmedFacts": [
-          "Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza.",
-          "SMS of Death, il messaggio che blocca gli smartphone Android Scoperta una falla critica in Android: un SMS manipolato può mandare in crash il telefono e interrompere anche le chiamate di emergenza.",
-          "In gergo tecnico, la vulnerabilità è identificata come CVE-2026-58882, ma il nome attribuito dai ricercatori che l’hanno scoperta e documentata è SMS of Death , per rendere bene l’idea di ciò che è in grado di fare.",
-          "01 06 88 80 80 80 00 BE → sent as a data SMS to port 2948 Quando il software prova a convertire la prima parte, il valore assegnato è negativo ( -2.147.483.648 ) e, durante l’allocazione della memoria, genera un’eccezione che si traduce nell’ interruzione improvvisa delle comunicazioni ."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Android",
-          "CVE-2026-58882",
-          "SMS of Death",
-          "ricercatori"
-        ],
-        "numbersAndDates": [
-          "In gergo tecnico, la vulnerabilità è identificata come CVE-2026-58882, ma il nome attribuito dai ricercatori che l’hanno scoperta e documentata è SMS of Death , per rendere bene l’idea di ciò che è in grado di fare.",
-          "01 06 88 80 80 80 00 BE → sent as a data SMS to port 2948 Quando il software prova a convertire la prima parte, il valore assegnato è negativo ( -2.147.483.648 ) e, durante l’allocazione della memoria, genera un’eccezione che si traduce nell’ interruzione improvvisa delle comunicazioni ."
-        ]
-      }
-    },
-    {
-      "id": "story-d5d6c94bb9c300f4",
-      "title": "Dal cielo piovono detriti. Il telescopio della Nasa in caduta libera sulla Terra",
-      "summary": "In 22 anni Swift ha osservato le esplosioni più violente dell’universo. Ma le tempeste solari gli hanno fatto perdere quota. La missione per riportarlo nell’orbita prevista è fallita. Precipiterà entro la fine della settimana",
-      "spokenText": "Il telescopio Swift della Nasa precipiterà sulla Terra entro la fine della settimana. Per oltre due decenni, lo strumento ha osservato le esplosioni più violente dell'universo. Nonostante i tentativi dell'agenzia spaziale, la missione per riportarlo nell'orbita prevista è fallita, rendendo inevitabile il rientro dell'osservatorio. Ma le tempeste solari gli hanno fatto perdere quota.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "swift",
-        "nasa",
-        "terra"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 22,
+      "estimatedSeconds": 17,
       "source": {
         "name": "La Repubblica",
-        "url": "https://www.repubblica.it/cronaca/2026/11/02/news/telescopio_nasa_swift_caduta_terra_detriti_spaziali-425692673/"
+        "url": "https://www.repubblica.it/economia/2026/11/03/news/grecia_pensionati_perche_conviene-425695347/"
       },
       "analysis": {
-        "mainFact": "Il telescopio Swift della Nasa precipiterà sulla Terra entro la fine della settimana.",
-        "whyItMatters": "La missione per riportarlo nell’orbita prevista è fallita.",
+        "mainFact": "Boom anche per il mercato immobiliare",
+        "whyItMatters": "I volumi di vendita di molte agenzie sono aumentati del 50% e i prezzi degli appartamenti di fascia alta vanno dai 15 mila ai 20 mila euro al metro quadro",
         "confirmedFacts": [
-          "Il telescopio Swift della Nasa precipiterà sulla Terra entro la fine della settimana.",
-          "La missione per riportarlo nell’orbita prevista è fallita.",
-          "In 22 anni Swift ha osservato le esplosioni più violente dell’universo.",
-          "Ma le tempeste solari gli hanno fatto perdere quota."
+          "Boom anche per il mercato immobiliare",
+          "I volumi di vendita di molte agenzie sono aumentati del 50% e i prezzi degli appartamenti di fascia alta vanno dai 15 mila ai 20 mila euro al metro quadro",
+          "Se i volumi di vendita di molte agenzie sono aumentati del 50%, i prezzi degli appartamenti di fascia alta vanno dai 15 mila ai 20 mila euro al metro quadro"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Swift",
-          "Nasa",
-          "Terra"
+          "mercato immobiliare",
+          "agenzie",
+          "appartamenti di fascia alta"
         ],
         "numbersAndDates": [
-          "In 22 anni Swift ha osservato le esplosioni più violente dell’universo."
+          "50",
+          "15",
+          "20"
         ]
       }
     },
     {
-      "id": "story-35595687ad2045f8",
-      "title": "Gli hacker hanno trovato un nuovo alleato e si chiama Cursor",
-      "summary": "La banda ransomware Aur0ra ha impiegato agenti di intelligenza artificiale per condurre parte delle intrusioni nelle reti delle vittime, presentando le operazioni come verifiche di sicurezza autorizza...",
-      "spokenText": "Gli hacker hanno trovato un nuovo alleato e si chiama Cursor.",
-      "category": "tecnologia",
+      "id": "story-db39cc2f0e47bc31",
+      "title": "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e",
+      "summary": "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e leadership, ma è chiaro che c'è ancora più lavoro da fare'.",
+      "spokenText": "L'ambizione collettiva non richiede che ogni ente pubblico raggiunga il net zero individualmente entro il 2030, ma intende fornire una direzione di viaggio condivisa e l'aspettativa che tutti gli enti pubblici contribuiscano a ridurre le emissioni. Gli enti pubblici hanno riferito che le loro pressioni finanziarie complessive rendono difficile investire nella decarbonizzazione, criticando il governo gallese per non aver definito l'ambizione collettiva per il net zero entro il 2030 come un obiettivo. È stato stimato che costerebbe almeno £2. 3bn per decarbonizzare da soli gli edifici dei consigli comunali gallesi.",
+      "category": "ambiente",
       "tags": [
-        "tecnologia"
+        "ambiente",
+        "audit wales",
+        "wales"
       ],
-      "importance": 85,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 5,
+      "estimatedSeconds": 36,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/hardware/la-banda-aur0ra-usa-agenti-ia-li-inganna-con-falsi-test-di-sicurezza"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Gli hacker hanno trovato un nuovo alleato e si chiama Cursor",
-        "whyItMatters": "Uso emergente di agenti IA da parte di hacker, rilevanza concreta per sicurezza informatica.",
+        "mainFact": "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e leadership, ma è chiaro che c'è ancora più lavoro da fare'.",
+        "whyItMatters": "Ritardi obiettivi net zero settore pubblico gallese.",
         "confirmedFacts": [
-          "Gli hacker hanno trovato un nuovo alleato e si chiama Cursor",
-          "Uso emergente di agenti IA da parte di hacker, rilevanza concreta per sicurezza informatica."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-69c3bc46f45cc57d",
-      "title": "Toi-561 b, un oceano di lava sotto un cielo di nuvole",
-      "summary": "Un pianeta ricoperto da un oceano di magma, con temperature di migliaia di gradi, eppure più freddo del previsto. Ora un gruppo di ricerca della University of Waterloo ha scoperto che Toi-561 b potrebbe riflettere circa tre quarti della luce ricevuta dalla sua stella. A spiegare questa insolita riflettività sarebbero nubi di silicati, che potrebbero contribuire anche alla sopravvivenza dell'atmosfera del pianeta",
-      "spokenText": "Un gruppo di ricerca della University of Waterloo ha scoperto che Toi-561 b potrebbe riflettere circa tre quarti della luce ricevuta dalla sua stella. La sua insolita riflettività potrebbe essere spiegata da nubi di silicati che potrebbero contribuire alla sopravvivenza dell'atmosfera del pianeta. Toi-561 b, un oceano di lava sotto un cielo di nuvole.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "toi 561 b",
-        "university of waterloo",
-        "nubi di silicati"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/02/toi-561-b-lava-nuvole/"
-      },
-      "analysis": {
-        "mainFact": "Un gruppo di ricerca della University of Waterloo ha scoperto che Toi-561 b potrebbe riflettere circa tre quarti della luce ricevuta dalla sua stella.",
-        "whyItMatters": "la sua insolita riflettività potrebbe essere spiegata da nubi di silicati che potrebbero contribuire alla sopravvivenza dell'atmosfera del pianeta.",
-        "confirmedFacts": [
-          "Un gruppo di ricerca della University of Waterloo ha scoperto che Toi-561 b potrebbe riflettere circa tre quarti della luce ricevuta dalla sua stella.",
-          "la sua insolita riflettività potrebbe essere spiegata da nubi di silicati che potrebbero contribuire alla sopravvivenza dell'atmosfera del pianeta.",
-          "Toi-561 b, un oceano di lava sotto un cielo di nuvole"
+          "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e leadership, ma è chiaro che c'è ancora più lavoro da fare'.",
+          "Ritardi obiettivi net zero settore pubblico gallese.",
+          "L''ambizione collettiva' non richiede che ogni ente pubblico raggiunga il net zero individualmente entro il 2030 ma è intesa per fornire una direzione di viaggio condivisa e l'aspettativa che tutti gli enti pubblici contribuiscano a ridurre le emissioni.",
+          "È stato stimato che costerebbe almeno £2. 3bn per decarbonizzare da soli gli edifici dei consigli comunali gallesi.",
+          "Gli enti pubblici ci hanno detto che le loro pressioni finanziarie complessive significano che faticano a investire nella decarbonizzazione. Ha criticato il governo gallese per non aver definito l''ambizione collettiva' per il net zero entro il 2030 come un 'obiettivo'."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Toi-561 b",
-          "University of Waterloo",
-          "nubi di silicati"
+          "Audit Wales",
+          "Wales"
         ],
         "numbersAndDates": [
-          "Toi-561 b, un oceano di lava sotto un cielo di nuvole",
-          "561"
+          "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e leadership, ma è chiaro che c'è ancora più lavoro da fare'.",
+          "L''ambizione collettiva' non richiede che ogni ente pubblico raggiunga il net zero individualmente entro il 2030 ma è intesa per fornire una direzione di viaggio condivisa e l'aspettativa che tutti gli enti pubblici contribuiscano a ridurre le emissioni.",
+          "È stato stimato che costerebbe almeno £2. 3bn per decarbonizzare da soli gli edifici dei consigli comunali gallesi.",
+          "Gli enti pubblici ci hanno detto che le loro pressioni finanziarie complessive significano che faticano a investire nella decarbonizzazione. Ha criticato il governo gallese per non aver definito l''ambizione collettiva' per il net zero entro il 2030 come un 'obiettivo'.",
+          "2030"
         ]
       }
     },
     {
-      "id": "story-d4172d8bb0e32d4d",
-      "title": "Googlebook avrà lo schermo staccabile: il software è già pronto",
-      "summary": "Google ha confermato l’arrivo di un Googlebook con tastiera staccabile durante l’Android Dev Summit 2026. La piattaforma si prepara così a uscire dal perimetro dei portatili tradizionali e dei convert...",
-      "spokenText": "Google ha confermato l'arrivo di un Googlebook con tastiera staccabile durante l'Android Dev Summit 2026.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "google",
-        "googlebook",
-        "android dev summit 2026"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/hardware/googlebook-avra-lo-schermo-staccabile-il-software-e-gia-pronto"
-      },
-      "analysis": {
-        "mainFact": "Google ha confermato l'arrivo di un Googlebook con tastiera staccabile durante l'Android Dev Summit 2026.",
-        "whyItMatters": "Googlebook con schermo staccabile, novità tecnologica emergente di interesse diretto.",
-        "confirmedFacts": [
-          "Google ha confermato l'arrivo di un Googlebook con tastiera staccabile durante l'Android Dev Summit 2026.",
-          "Googlebook con schermo staccabile, novità tecnologica emergente di interesse diretto."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Google",
-          "Googlebook",
-          "Android Dev Summit 2026"
-        ],
-        "numbersAndDates": [
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-9f0a37a2596e99ec",
-      "title": "Papa Leone XIV: l’intelligenza artificiale deve essere disarmata",
-      "summary": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome.",
-      "spokenText": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, non potendo quindi essere utilizzata per lo sviluppo di armi autonome.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "papa leone xiv"
-      ],
-      "importance": 62,
-      "mustInclude": false,
-      "estimatedSeconds": 9,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/papa-leone-xiv-intelligenza-artificiale-deve-essere-disarmata/"
-      },
-      "analysis": {
-        "mainFact": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome.",
-        "whyItMatters": "Per questa ragione l'intelligenza artificiale deve essere disarmata.",
-        "confirmedFacts": [
-          "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome.",
-          "Per questa ragione l'intelligenza artificiale deve essere disarmata.",
-          "L’intelligenza artificiale deve essere disarmata Papa Leone XIV ha ricordato che le questioni sono state descritte in maniera più dettagliata nell’enciclica."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Papa Leone XIV"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-cc95cd36adfdebec",
-      "title": "L’auto europea ha perso la leadership dell’innovazione. Ce lo dice Stellantis",
-      "summary": "Tra il 2006 e il 2023 gli utili dei costruttori del Vecchio Continente sono cresciuti di sette volte e gli investimenti solo del 18%. I cinesi hanno scelto un’altra via",
-      "spokenText": "Tra il 2006 e il 2023 gli utili dei costruttori europei sono cresciuti di sette volte e gli investimenti solo del 18%. I cinesi hanno scelto un'altra via.",
+      "id": "story-91b46b4e3d8f8317",
+      "title": "Vendite su Stellantis, pesa il calo delle immatricolazioni di ottobre in Francia e",
+      "summary": "In Francia, a fronte di una crescita di mercato del 3%, la casa automobilistica ha registrato un calo del 5% a 46mila veicoli, mentre in Italia è calata del 9,5%, a fronte di un mercato auto in crescita del 5%",
+      "spokenText": "A ottobre Stellantis ha registrato un calo delle immatricolazioni del 5% in Francia, a 46mila veicoli, e del 9,5% in Italia, nonostante entrambi i mercati siano cresciuti, rispettivamente del 3% e del 5%. In Italia, che rappresenta il 9% dei volumi del gruppo, l'unico marchio in crescita è stato Fiat, con un più 6%. Considerando anche le immatricolazioni di Leapmotor, marchio cinese partner di Stellantis, il calo del gruppo si riduce al 6%, a circa 32mila unità. Banca Akros evidenzia una performance debole a ottobre, nonostante la crescita positiva dei volumi da inizio anno sostenuta dal forte slancio di Leapmotor, confermando tuttavia il rating Neutral e il target price a 4,50 euro.",
       "category": "altro",
       "tags": [
         "altro",
         "stellantis",
-        "cinesi"
+        "francia",
+        "italia",
+        "fiat",
+        "leapmotor",
+        "banca akros"
       ],
-      "importance": 82,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 12,
+      "estimatedSeconds": 45,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/11/02/news/l_auto_europea_ha_perso_la_leadership_dell_innovazione_ce_lo_dice_stellantis-425688040/"
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/vendite-stellantis-pesa-calo-immatricolazioni-ottobre-francia-e-italia-AJmirx2B"
       },
       "analysis": {
-        "mainFact": "Tra il 2006 e il 2023 gli utili dei costruttori europei sono cresciuti di sette volte e gli investimenti solo del 18%.",
-        "whyItMatters": "Tra il 2006 e il 2023 gli utili dei costruttori del Vecchio Continente sono cresciuti di sette volte e gli investimenti solo del 18%. I cinesi hanno scelto un'altra via.",
+        "mainFact": "A ottobre Stellantis ha registrato un calo delle immatricolazioni del 5% in Francia a 46mila veicoli e del 9,5% in Italia, nonostante entrambi i mercati auto siano cresciuti (rispettivamente del 3% e del 5%).",
+        "whyItMatters": "In Italia (che rappresenta il 9% dei volumi del gruppo) Stellantis è calata del 9,5% Sul tema di i veicoli (a fronte di un mercato auto in crescita del 5%) con il solo marchio Fiat in crescita (+6%).",
         "confirmedFacts": [
-          "Tra il 2006 e il 2023 gli utili dei costruttori europei sono cresciuti di sette volte e gli investimenti solo del 18%.",
-          "Tra il 2006 e il 2023 gli utili dei costruttori del Vecchio Continente sono cresciuti di sette volte e gli investimenti solo del 18%. I cinesi hanno scelto un'altra via.",
-          "Tra il 2006 e il 2023 gli utili dei costruttori del Vecchio Continente sono cresciuti di sette volte e gli investimenti solo del 18%.",
-          "I cinesi hanno scelto un’altra via"
+          "A ottobre Stellantis ha registrato un calo delle immatricolazioni del 5% in Francia a 46mila veicoli e del 9,5% in Italia, nonostante entrambi i mercati auto siano cresciuti (rispettivamente del 3% e del 5%).",
+          "In Italia (che rappresenta il 9% dei volumi del gruppo) Stellantis è calata del 9,5% Sul tema di i veicoli (a fronte di un mercato auto in crescita del 5%) con il solo marchio Fiat in crescita (+6%).",
+          "Nel dettaglio, il mese scorso Stellantis ha registrato un calo di immatricolazioni sia in Francia che in Italia , sottoperformando entrambi i mercati cresciuti rispettivamente del 3% e del 5% annuo.",
+          "Considerando anche le immatricolazioni di Leapmotor, marchio cinese partner di Stellantis, il calo del gruppo si riduce al 6%, a circa 32mila unità.",
+          "Anche Banca Akros evidenzia una «performance debole a ottobre, nonostante la crescita positiva dei volumi da inizio anno, sostenuta dal forte slancio di Leapmotor», tuttavia la banca conferma il rating ‘Neutral’ e il target price a 4,50 euro."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Stellantis",
-          "cinesi"
-        ],
-        "numbersAndDates": [
-          "2006",
-          "2023",
-          "18"
-        ]
-      }
-    },
-    {
-      "id": "story-21ae8deed6ea91dc",
-      "title": "Xiaomi vende 50.000 auto elettriche in un mese: nuovo record",
-      "summary": "Le auto elettriche di Xiaomi accelerano: record di consegne nel mese di ottobre, con la prospettiva di un'ulteriore crescita entro fine l'anno. The post Xiaomi vende 50.000 auto elettriche in un mese: nuovo record appeared first on Punto Informatico.",
-      "spokenText": "Le auto elettriche di Xiaomi accelerano: il marchio ha distribuito 50.000 unità nel mese di ottobre, stabilendo un nuovo record mensile. Il dato conferma una crescita costante, dopo le 40.000 consegne di settembre e le 30.000 di agosto. Da inizio anno il totale raggiunge circa 336.000 veicoli, con l'obiettivo di arrivare a 550.000 entro fine 2026.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "xiaomi"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/xiaomi-vende-50000-auto-elettriche-un-mese-nuovo-record/"
-      },
-      "analysis": {
-        "mainFact": "Xiaomi ha distribuito 50.000 auto elettriche nel mese di ottobre, nuovo record mensile.",
-        "whyItMatters": "Xiaomi ha distribuito 50.000 unità solo nel mese di ottobre, facendo registrare il proprio nuovo record, dopo le 40.000 di settembre e le 30.000 di agosto. Sono circa 336.000 in totale da gennaio e l’obiettivo è quello di raggiungere la soglia delle 550.000 entro fine 2026.",
-        "confirmedFacts": [
-          "Xiaomi ha distribuito 50.000 auto elettriche nel mese di ottobre, nuovo record mensile.",
-          "Xiaomi ha distribuito 50.000 unità solo nel mese di ottobre, facendo registrare il proprio nuovo record, dopo le 40.000 di settembre e le 30.000 di agosto. Sono circa 336.000 in totale da gennaio e l’obiettivo è quello di raggiungere la soglia delle 550.000 entro fine 2026.",
-          "Le auto elettriche di Xiaomi accelerano: record di consegne nel mese di ottobre, con la prospettiva di un'ulteriore crescita entro fine l'anno."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Xiaomi"
-        ],
-        "numbersAndDates": [
-          "50.000",
-          "40.000",
-          "30.000",
-          "336.000",
-          "550.000",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-e7b4f688198816ea",
-      "title": "La festa è finita: i nuovi limiti di Claude Code bloccano reverse engineering e",
-      "summary": "Anthropic ha confermato di aver modificato il comportamento di Claude Code, il suo assistente da riga di comando per la programmazione, per impedire la ricostruzione di videogiochi gi&agrave; esistent...",
-      "spokenText": "La festa è finita: i nuovi limiti di Claude Code bloccano il reverse engineering.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "claude code"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/hardware/la-festa-e-finita-i-nuovi-limiti-di-claude-code-bloccano-reverse-engineering-e-giochi-clonati"
-      },
-      "analysis": {
-        "mainFact": "La festa è finita: i nuovi limiti di Claude Code bloccano reverse engineering e",
-        "whyItMatters": "Nuovi limiti su Claude Code rilevanti per tecnologia e industria.",
-        "confirmedFacts": [
-          "La festa è finita: i nuovi limiti di Claude Code bloccano reverse engineering e",
-          "Nuovi limiti su Claude Code rilevanti per tecnologia e industria."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Claude Code"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-fad5a1f28eaabfe4",
-      "title": "Cooperazione tra Italia ed Estonia su cambiamenti climatici",
-      "summary": "Rappresentanti dell’Agenzia per l’Ambiente e del Ministero per il Clima dell’Estonia sono stati ospiti di ISPRA nella settimana dal 19 al 23 ottobre nell’ambito del Programma PACE (Public Administration Exchange) della Commissione Europea, per attività di capacity- building sul tema comunicazione e transizione ecologica con un focus sull’ adattamento climatico.",
-      "spokenText": "La cooperazione tra Italia ed Estonia sui cambiamenti climatici si è concretizzata in una settimana di scambio tra esperti. Partendo dai rispettivi piani nazionali di adattamento, sono stati presentati il Piano del 2023, la piattaforma CLIMADAT per l'esperienza utente e alcuni casi di studio sulla comunicazione della Green Transition. Insieme al Ministero dell'Ambiente e della Sicurezza energetica e al Centro Euromediterraneo per i cambiamenti climatici, ISPRA ha organizzato un programma dedicato a esperti di comunicazione e coinvolgimento delle comunità. Il CMCC ha illustrato i risultati del primo Festival di adattamento ai cambiamenti climatici del progetto DesirMED. La delegazione estone ha inoltre visitato l'Area Marina Protetta Secche di Tor Paterno e osservato le attività di educazione e coinvolgimento dei giovani sul tema.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "italia",
-        "estonia",
-        "ispra",
-        "mase",
-        "cmcc"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 49,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/cooperazione-tra-italia-ed-estonia-su-cambiamenti-climatici-transizione-ecologica-e-comunicazione"
-      },
-      "analysis": {
-        "mainFact": "Cooperazione tra Italia ed Estonia su cambiamenti climatici",
-        "whyItMatters": "Partendo dal quadro delle politiche di adattamento dei rispettivi Paesi, sono stati introdotti il Piano Nazionale di adattamento ai cambiamenti climatici del 2023, la piattaforma CLIMADAT anche dal punto di vista dell'user experience e casi di studio nazionali di comunicazione sulla Green Transition.",
-        "confirmedFacts": [
-          "Cooperazione tra Italia ed Estonia su cambiamenti climatici",
-          "Partendo dal quadro delle politiche di adattamento dei rispettivi Paesi, sono stati introdotti il Piano Nazionale di adattamento ai cambiamenti climatici del 2023, la piattaforma CLIMADAT anche dal punto di vista dell'user experience e casi di studio nazionali di comunicazione sulla Green Transition.",
-          "Insieme al Ministero dell’Ambiente e della Sicurezza energetica (MASE) e il Centro Euromediterraneo per i cambiamenti clamatici (CMCC), ISPRA ha organizzato un programma ad hoc coinvolgendo esperti di adattamento ai cambiamenti climatici, comunicazione e processi di engagement delle comunità.",
-          "Il CMCC ha presentato i risultati del primo Festival di adattamento ai cambiamenti climatici organizzato nell’ambito del progetto DesirMED.",
-          "La delegazione estone ha potuto assistere anche alle attività di educazione e di coinvolgimento dei giovani sul tema dell’adattamento ai cambiamenti climatici."
-        ],
-        "uncertainties": [
-          "La settimana di scambio ha previsto anche un'esperienza sul campo organizzata dal MASE con il supporto dell’Ente Regione Natura Roma presso l’Area Marina Protetta Secche di Tor Paterno."
-        ],
-        "peopleAndOrganizations": [
+          "Francia",
           "Italia",
-          "Estonia",
-          "ISPRA",
-          "MASE",
-          "CMCC"
+          "Fiat",
+          "Leapmotor",
+          "Banca Akros"
         ],
         "numbersAndDates": [
-          "2023"
+          "Nel dettaglio, il mese scorso Stellantis ha registrato un calo di immatricolazioni sia in Francia che in Italia , sottoperformando entrambi i mercati cresciuti rispettivamente del 3% e del 5% annuo.",
+          "Considerando anche le immatricolazioni di Leapmotor, marchio cinese partner di Stellantis, il calo del gruppo si riduce al 6%, a circa 32mila unità.",
+          "Anche Banca Akros evidenzia una «performance debole a ottobre, nonostante la crescita positiva dei volumi da inizio anno, sostenuta dal forte slancio di Leapmotor», tuttavia la banca conferma il rating ‘Neutral’ e il target price a 4,50 euro.",
+          "5",
+          "9,5",
+          "3",
+          "9",
+          "6"
         ]
       }
     },
     {
-      "id": "story-42cacdd58fef53a5",
-      "title": "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna",
-      "summary": "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'aria intorno alla Terra.",
-      "spokenText": "L'ultima immagine cattura l'eclissi lunare totale del luglio 2018, quando la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'atmosfera. Si tratta di uno scatto firmato da Marcella Giulia Pace, con crediti e copyright relativi al primo novembre 2026. Il progetto vede autori e redattori come Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti e Keighley Rockcliffe, ed è un servizio di APOD, NASA, GSFC, NASA Science Activation e Michigan Tech, con il coinvolgimento di entità come ESA, DLR e FU Berlin.",
+      "id": "story-a0a16f3fd60a3cc6",
+      "title": "Musk ha deciso lo stop a Starlink al fronte in Ucraina",
+      "summary": "Lo stop a Starlink al fronte mostra il vero rischio della guerra moderna: la difesa trasformata in abbonamento privato in balìa di Elon Musk e Washington.",
+      "spokenText": "Elon Musk ha deciso lo stop a Starlink al fronte in Ucraina. La decisione arriva mentre Washington osserva gli sviluppi del conflitto. Musk ha inoltre investito 443 milioni di dollari a sostegno dei candidati repubblicani alle elezioni di medio termine.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "elon musk",
+        "starlink",
+        "ucraina",
+        "washington"
+      ],
+      "importance": 80,
+      "mustInclude": false,
+      "estimatedSeconds": 16,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/starlink-ucraina-musk-silicon-valley-usa-europa/"
+      },
+      "analysis": {
+        "mainFact": "Musk ha deciso lo stop a Starlink al fronte in Ucraina.",
+        "whyItMatters": "Musk ha investito 443 milioni di dollari a sostegno dei candidati repubblicani alle elezioni di medio termine.",
+        "confirmedFacts": [
+          "Musk ha deciso lo stop a Starlink al fronte in Ucraina.",
+          "Musk ha investito 443 milioni di dollari a sostegno dei candidati repubblicani alle elezioni di medio termine.",
+          "Lo stop a Starlink al fronte mostra il vero rischio della guerra moderna: la difesa trasformata in abbonamento privato in balìa di Elon Musk e Washington.",
+          "In concomitanza con la sua decisione su Starlink, Musk ha investito 443 milioni di dollari a sostegno dei candidati repubblicani alle elezioni di medio termine."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Elon Musk",
+          "Starlink",
+          "Ucraina",
+          "Washington"
+        ],
+        "numbersAndDates": [
+          "443"
+        ]
+      }
+    },
+    {
+      "id": "story-ebc8e369d79d69cc",
+      "title": "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F",
+      "summary": "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F.",
+      "spokenText": "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F. Il 19 settembre dello stesso anno, dopo aver valutato diversi siti in tutto il paese, la NASA annunciò che il nuovo Manned Spacecraft Center sarebbe stato costruito vicino a Houston, in Texas. Nel 1973, la struttura è diventata ufficialmente il NASA Lyndon B. Johnson Space Center. Per accogliere le dimensioni maggiori della stiva del payload dello shuttle, l'addestramento alle passeggiate spaziali si è trasferito al Weightless Environment Training Facility nel 1980.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "apod",
         "nasa",
-        "gsfc",
-        "michigan tech",
-        "esa",
-        "dlr",
-        "fu berlin"
+        "johnson space center",
+        "houston"
       ],
       "importance": 82,
       "mustInclude": false,
       "estimatedSeconds": 35,
       "source": {
         "name": "NASA Releases",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/"
       },
       "analysis": {
-        "mainFact": "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'aria intorno alla Terra.",
-        "whyItMatters": "APOD sulla Luna, tema scientifico emergente e di interesse diretto per l'utente.",
+        "mainFact": "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F.",
+        "whyItMatters": "Storia istituzionale NASA rilevante per scienza e tecnologia spaziale.",
         "confirmedFacts": [
-          "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'aria intorno alla Terra.",
-          "APOD sulla Luna, tema scientifico emergente e di interesse diretto per l'utente.",
-          "Immagine di domani: open space. Data: 1 novembre 2026. Crediti e copyright: Marcella Giulia Pace. Autori e redattori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD at NASA / GSFC, NASA Science Activation e Michigan Tech."
+          "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F.",
+          "Storia istituzionale NASA rilevante per scienza e tecnologia spaziale.",
+          "Il 19 settembre 1961, dopo aver valutato diversi siti in tutto il paese, la NASA annunciò che il nuovo Manned Spacecraft Center sarebbe stato costruito vicino a Houston, Texas.",
+          "Nel 1973, è diventato ufficialmente il NASA Lyndon B. Johnson Space Center.",
+          "Per accogliere le dimensioni maggiori della stiva del payload dello shuttle, l'addestramento alle passeggiate spaziali si è trasferito al Weightless Environment Training Facility nel 1980."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "APOD",
-          "Nasa",
-          "GSFC",
-          "Michigan Tech",
-          "ESA",
-          "DLR",
-          "FU Berlin"
+          "NASA",
+          "Johnson Space Center",
+          "Houston"
         ],
         "numbersAndDates": [
-          "L'ultima immagine cattura l'eclissi lunare totale del 2018 luglio, dove la luna, nell'ombra della Terra, appariva di un rosso tenue a causa della luce rifratta attraverso l'aria intorno alla Terra.",
-          "Immagine di domani: open space. Data: 1 novembre 2026. Crediti e copyright: Marcella Giulia Pace. Autori e redattori: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe. Un servizio di: ASD at NASA / GSFC, NASA Science Activation e Michigan Tech.",
-          "2018"
+          "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F.",
+          "Il 19 settembre 1961, dopo aver valutato diversi siti in tutto il paese, la NASA annunciò che il nuovo Manned Spacecraft Center sarebbe stato costruito vicino a Houston, Texas.",
+          "Nel 1973, è diventato ufficialmente il NASA Lyndon B. Johnson Space Center.",
+          "Per accogliere le dimensioni maggiori della stiva del payload dello shuttle, l'addestramento alle passeggiate spaziali si è trasferito al Weightless Environment Training Facility nel 1980.",
+          "25",
+          "1961"
+        ]
+      }
+    },
+    {
+      "id": "story-6f73b1bd5bd131c6",
+      "title": "La battaglia per l’indipendenza dei giudici e lo Stato di diritto",
+      "summary": "Perché è scoppiata la resa dei conti sul Tribunale Costituzionale in Polonia: scontro aperto tra Tusk e il presidente Nawrocki tra accuse di golpe e difesa dello Stato di diritto. Cosa sta succedendo a Varsavia.",
+      "spokenText": "È scoppiato uno scontro aperto tra il governo di Donald Tusk e il presidente della Repubblica Nawrocki sul Tribunale Costituzionale in Polonia, con reciproche accuse di golpe e difesa dello Stato di diritto. Venerdì 30 ottobre, verso le sei di sera, sul sito del Tribunale Costituzionale polacco è comparso un comunicato che sospende momentaneamente le funzioni del presidente Bogdan Święczkowski e del suo vice Bartłomiej Sochański. Nel corso del 2026 il Sejm ha eletto otto giudici costituzionali per coprire altrettanti posti vacanti. Per capire come si sia arrivati a questi fatti bisogna tornare all'ottobre 2015, alla vigilia delle elezioni parlamentari che portarono alla vittoria di Diritto e Giustizia, dando inizio a undici anni di conflitto.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "donald tusk",
+        "nawrocki",
+        "tribunale costituzionale polacco",
+        "bogdan swieczkowski",
+        "bart omiej sochanski",
+        "sejm",
+        "diritto e giustizia"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 46,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/crisi-polonia-giudici-tribunale-costituzionale/"
+      },
+      "analysis": {
+        "mainFact": "È scoppiato uno scontro aperto tra il governo di Donald Tusk e il presidente della Repubblica Nawrocki sul Tribunale Costituzionale in Polonia, con accuse di golpe e difesa dello Stato di diritto.",
+        "whyItMatters": "Venerdì 30 ottobre, verso le sei di sera, sul sito del Tribunale Costituzionale polacco è comparso un comunicato che sospende momentaneamente le funzioni del presidente Bogdan Święczkowski e del suo vice Bartłomiej Sochański.",
+        "confirmedFacts": [
+          "È scoppiato uno scontro aperto tra il governo di Donald Tusk e il presidente della Repubblica Nawrocki sul Tribunale Costituzionale in Polonia, con accuse di golpe e difesa dello Stato di diritto.",
+          "Venerdì 30 ottobre, verso le sei di sera, sul sito del Tribunale Costituzionale polacco è comparso un comunicato che sospende momentaneamente le funzioni del presidente Bogdan Święczkowski e del suo vice Bartłomiej Sochański.",
+          "Nel corso del 2026 il Sejm ha eletto - come da sua prerogativa - otto giudici costituzionali, destinati a coprire altrettanti posti vacanti.",
+          "Undici anni di conflitto Per capire come si sia arrivati ai fatti di questo fine settimana bisogna tornare all’ottobre 2015 , alla vigilia delle elezioni parlamentari che avrebbero portato alla vittoria travolgente di Diritto e Giustizia.",
+          "Di cosa parliamo in questo articolo: La causa della crisi All’origine di questa crisi c’è lo scontro sempre più aspro tra il governo di Donald Tusk e il presidente della Repubblica Nawrocki."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Donald Tusk",
+          "Nawrocki",
+          "Tribunale Costituzionale polacco",
+          "Bogdan Święczkowski",
+          "Bartłomiej Sochański",
+          "Sejm",
+          "Diritto e Giustizia"
+        ],
+        "numbersAndDates": [
+          "Nel corso del 2026 il Sejm ha eletto - come da sua prerogativa - otto giudici costituzionali, destinati a coprire altrettanti posti vacanti.",
+          "Undici anni di conflitto Per capire come si sia arrivati ai fatti di questo fine settimana bisogna tornare all’ottobre 2015 , alla vigilia delle elezioni parlamentari che avrebbero portato alla vittoria travolgente di Diritto e Giustizia.",
+          "30"
         ]
       }
     }
