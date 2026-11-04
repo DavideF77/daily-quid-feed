@@ -1,616 +1,612 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-03-7cf6a1b71029",
-  "generatedAt": "2026-11-03T13:29:53.436Z",
+  "catalogId": "daily-quid-2026-11-04-b44b55079a53",
+  "generatedAt": "2026-11-04T13:40:49.133Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-61c367379038d6cc",
-      "title": "ISPRA a Ecomondo 2026: la ricerca incontra la sostenibilità",
-      "summary": "Al via la Fiera internazionale di Rimini dal 3 al 6 novembre 2026 Una presenza ormai consolidata quella di ISPRA a Ecomondo . Insieme al Sistema nazionale per la protezione ambientale, l’Istituto è partner della manifestazione di riferimento in Europa per la green e circular economy. Una presenza che testimonia il ruolo di Ispra nel panorama della ricerca e delle competenze ambientali e il suo impegno nel promuovere la conoscenza scientifica a supporto della transizione ecologica. ISPRA ed Snpa sono presenti a Rimini con un proprio spazio espositivo presso la Hall Sud, dove si svolgeranno talk e incontri. Gli esperti dell’Istituto, inoltre, prenderanno parte ad oltre 30 panel organizzati in Fiera. Tra i temi su cui si dibatterà, l’economia circolare, la gestione dei rifiuti, le bonifiche, il consumo di suolo e il dissesto, le risorse idriche, la finanza sostenibile e il green washing, il contrasto agli illeciti ambientali. Il 4 novembre alle ore 11 presso lo Spazio Talk dello stand ISPRA/SNPA, sarà presentato il rapporto “Attivazioni in emergenza – Dati 2025”, seconda edizione dello studio che analizza gli interventi delle Arpa e di ISPRA nelle situazioni di emergenza caratterizzate da potenziali ricadute sull’ambiente. Spazio anche alla campagna di comunicazione “Facciamo circolare”, realizzata dall’Istituto in collaborazione con il Ministero delle Imprese e del Made in Italy, che ne ha sostenuto il finanziamento. Presente a Ecomondo sin dai primi anni della manifestazione – che nel 2027 ne compirà 30 – ISPRA contribuisce con il proprio know-how al confronto con istituzioni, imprese, mondo della ricerca e operatori del settore, per condividere esperienze e contribuire al dibattito sulle principali sfide ambientali. “Ecomondo è per ISPRA e l’intero Sistema un appuntamento irrinunciabile, particolarmente quest’anno il cui filo conduttore ci trova oltremodo impegnati: trasformare la sostenibilità in risultati concreti - ha detto Maria Alessandra Gallone presidente dell’ISPRA e di Snpa - Rigenerare il suolo consumato, ripristinare la natura, applicare strumenti e piattaforme in grado di prevenire il rischio idrogeologico. Solo attraverso una forte collaborazione tra ricerca, istituzioni, mondo produttivo e territori possiamo lavorare nella stessa direzione della sostenibilità”. Galleria fotografica Eventi a cui partecipa ISPRA Eventi presso l'Area talk dello stand ISPRA-SNPA e dello stand MASE (Hall Sud Stand 109-a)",
-      "spokenText": "ISPRA è presente a Ecomondo 2026, la fiera internazionale di Rimini in programma dal 3 al 6 novembre, con uno spazio espositivo nella Hall Sud dove si terranno talk e incontri. L'Istituto partecipa all'evento insieme al Sistema nazionale per la protezione ambientale, confermando un legame che risale ai primi anni della manifestazione, che nel 2027 compirà trent'anni. Il 4 novembre alle 11, presso lo Spazio Talk dello stand ISPRA/SNPA, verrà presentato il rapporto “Attivazioni in emergenza – Dati 2025”, seconda edizione dello studio sugli interventi delle Arpa e di ISPRA in situazioni di emergenza con potenziali ricadute sull'ambiente. Gli esperti dell'Istituto prenderanno parte a oltre trenta panel organizzati in Fiera, contribuendo al confronto tra istituzioni, imprese, mondo della ricerca e operatori del settore sulle principali sfide ambientali. La presenza a Rimini testimonia il ruolo dell'Istituto nel panorama della ricerca e delle competenze ambientali e il suo impegno a promuovere la conoscenza scientifica a supporto della transizione ecologica.",
+      "id": "story-072286e9f17538bc",
+      "title": "\"Protecting Blue Corridors”",
+      "summary": "ISPRA nella ricerca internazionale: le orche antartiche e la mappa globale dei corridoi migratori L’Antartide e la rete globale dei mari: l'impegno di ISPRA nel progetto \"Protecting Blue Corridors\" L’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA) consolida ulteriormente il proprio ruolo di primo piano nel panorama scientifico internazionale partecipando all'iniziativa globale Protecting Blue Corridors una rete d'eccellenza che unisce esperti di scienza marina, conservazione, tecnologia e politiche ambientali per mappare le rotte migratorie dei mammiferi marini a livello planetario.",
+      "spokenText": "I dettagli del progetto Protecting Blue Corridors e le mappe interattive delle rotte migratorie sono consultabili al sito ufficiale.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "ispra",
-        "snpa",
-        "ecomondo",
-        "rimini"
+        "protecting blue corridors"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 63,
+      "estimatedSeconds": 8,
       "source": {
         "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/ispra-a-ecomondo-2026"
+        "url": "https://www.isprambiente.gov.it/it/news/protecting-blue-corridors"
       },
       "analysis": {
-        "mainFact": "ISPRA a Ecomondo 2026: la ricerca incontra la sostenibilità",
-        "whyItMatters": "ISPRA ed Snpa sono presenti a Rimini con un proprio spazio espositivo presso la Hall Sud, dove si svolgeranno talk e incontri.",
+        "mainFact": "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito",
+        "whyItMatters": "Progetto internazionale per corridoi migratori marini e tutela biodiversità.",
         "confirmedFacts": [
-          "ISPRA a Ecomondo 2026: la ricerca incontra la sostenibilità",
-          "ISPRA ed Snpa sono presenti a Rimini con un proprio spazio espositivo presso la Hall Sud, dove si svolgeranno talk e incontri.",
-          "Al via la Fiera internazionale di Rimini dal 3 al 6 novembre 2026 Una presenza ormai consolidata quella di ISPRA a Ecomondo .",
-          "Il 4 novembre alle ore 11 presso lo Spazio Talk dello stand ISPRA/SNPA, sarà presentato il rapporto “Attivazioni in emergenza – Dati 2025”, seconda edizione dello studio che analizza gli interventi delle Arpa e di ISPRA nelle situazioni di emergenza caratterizzate da potenziali ricadute sull’ambiente.",
-          "Gli esperti dell’Istituto, inoltre, prenderanno parte ad oltre 30 panel organizzati in Fiera.",
-          "Presente a Ecomondo sin dai primi anni della manifestazione – che nel 2027 ne compirà 30 – ISPRA contribuisce con il proprio know-how al confronto con istituzioni, imprese, mondo della ricerca e operatori del settore, per condividere esperienze e contribuire al dibattito sulle principali sfide ambientali.",
-          "Insieme al Sistema nazionale per la protezione ambientale, l’Istituto è partner della manifestazione di riferimento in Europa per la green e circular economy.",
-          "Una presenza che testimonia il ruolo di Ispra nel panorama della ricerca e delle competenze ambientali e il suo impegno nel promuovere la conoscenza scientifica a supporto della transizione ecologica."
+          "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito",
+          "Progetto internazionale per corridoi migratori marini e tutela biodiversità.",
+          "I dettagli del progetto e le mappe interattive delle rotte migratorie sono consultabili al sito https://bluecorridors.org/sources"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "ISPRA",
-          "SNPA",
-          "Ecomondo",
-          "Rimini"
-        ],
-        "numbersAndDates": [
-          "Al via la Fiera internazionale di Rimini dal 3 al 6 novembre 2026 Una presenza ormai consolidata quella di ISPRA a Ecomondo .",
-          "Il 4 novembre alle ore 11 presso lo Spazio Talk dello stand ISPRA/SNPA, sarà presentato il rapporto “Attivazioni in emergenza – Dati 2025”, seconda edizione dello studio che analizza gli interventi delle Arpa e di ISPRA nelle situazioni di emergenza caratterizzate da potenziali ricadute sull’ambiente.",
-          "Gli esperti dell’Istituto, inoltre, prenderanno parte ad oltre 30 panel organizzati in Fiera.",
-          "Presente a Ecomondo sin dai primi anni della manifestazione – che nel 2027 ne compirà 30 – ISPRA contribuisce con il proprio know-how al confronto con istituzioni, imprese, mondo della ricerca e operatori del settore, per condividere esperienze e contribuire al dibattito sulle principali sfide ambientali.",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-3487b8d6b77b6bac",
-      "title": "Bimbo muore di morbillo negli Stati Uniti, polemica sulla politica sulle vaccinazioni",
-      "summary": "Primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni",
-      "spokenText": "Un bambino delle zone rurali del nord dello Stato di New York è morto dopo aver contratto il morbillo: si tratta del primo decesso causato da questa malattia nello Stato negli ultimi 30 anni, hanno annunciato funzionari statali citati dal Guardian. Gli Stati Uniti hanno fermato la diffusione interna del morbillo nel 2000 mantenendo alti i tassi di vaccinazione, ma negli ultimi anni questi sono scesi al di sotto della copertura del 95% necessaria per prevenire focolai della malattia virale. Sebbene rari, i decessi si verificano in circa uno-tre pazienti ogni 1.000 casi. Secondo i Centers for Disease Control and Prevention, dal primo gennaio al 30 ottobre 2026 sono stati registrati 4.852 casi totali, con un tasso di ospedalizzazione dell'11% e 3 decessi complessivi. Si tratta del primo decesso correlato al morbillo registrato a New York negli ultimi 30 anni, un promemoria devastante di ciò che è in gioco quando Washington erode deliberatamente decenni di progressi nella protezione degli americani dalle malattie prevenibili.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "stato di new york",
-        "guardian",
-        "washington",
-        "centers for disease control and prevention"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 66,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bimbo-muore-di-morbillo-negli-stati-uniti-polemica-sulla-politica-sulle_49b959bf-f831-4076-8162-eaa6807a342f.html"
-      },
-      "analysis": {
-        "mainFact": "Un bambino delle zone rurali del nord dello Stato di New York è morto dopo aver contratto il morbillo: si tratta del primo decesso causato da questa malattia nello Stato negli ultimi 30 anni, hanno annunciato funzionari statali citati dal Guardian.",
-        "whyItMatters": "Si tratta del primo decesso correlato al morbillo registrato a New York negli ultimi 30 anni, un promemoria devastante di ciò che è in gioco quando Washington erode deliberatamente decenni di progressi nella protezione degli americani dalle malattie prevenibili.",
-        "confirmedFacts": [
-          "Un bambino delle zone rurali del nord dello Stato di New York è morto dopo aver contratto il morbillo: si tratta del primo decesso causato da questa malattia nello Stato negli ultimi 30 anni, hanno annunciato funzionari statali citati dal Guardian.",
-          "Si tratta del primo decesso correlato al morbillo registrato a New York negli ultimi 30 anni, un promemoria devastante di ciò che è in gioco quando Washington erode deliberatamente decenni di progressi nella protezione degli americani dalle malattie prevenibili.",
-          "Gli Stati Uniti hanno fermato la diffusione interna del morbillo nel 2000 mantenendo alti i tassi di vaccinazione, ma negli ultimi anni questi sono scesi al di sotto della copertura del 95% necessaria per prevenire focolai della malattia virale.",
-          "Sebbene rari, i decessi per morbillo si verificano in circa uno-tre pazienti ogni 1.000 casi.",
-          "Secondo i Centers for Disease Control and Prevention, dal primo gennaio al 30 ottobre 2026 sono stati registrati 4.852 casi totali di morbillo, con un tasso di ospedalizzazione dell'11% e 3 decessi complessivi."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Stato di New York",
-          "Guardian",
-          "Washington",
-          "Centers for Disease Control and Prevention"
-        ],
-        "numbersAndDates": [
-          "Gli Stati Uniti hanno fermato la diffusione interna del morbillo nel 2000 mantenendo alti i tassi di vaccinazione, ma negli ultimi anni questi sono scesi al di sotto della copertura del 95% necessaria per prevenire focolai della malattia virale.",
-          "Sebbene rari, i decessi per morbillo si verificano in circa uno-tre pazienti ogni 1.000 casi.",
-          "Secondo i Centers for Disease Control and Prevention, dal primo gennaio al 30 ottobre 2026 sono stati registrati 4.852 casi totali di morbillo, con un tasso di ospedalizzazione dell'11% e 3 decessi complessivi.",
-          "30"
-        ]
-      }
-    },
-    {
-      "id": "story-e346be17dc1e0334",
-      "title": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»",
-      "summary": "Nelle elezioni di metà mandato per il rinnovo del Congresso, i candidati democratici secondo gli ultimi sondaggi sono avanti in cinque degli Stati chiave per il Senato",
-      "spokenText": "Il voto di oggi riguarda il rinnovo della Camera e di un terzo del Senato, oltre all'elezione di 36 governatori e di molte cariche statali. Secondo gli ultimi sondaggi, i democratici sono avanti in cinque degli Stati chiave per il Senato. «Per El-Sayed gli Stati Uniti sono la casa di Satana, vi rendete conto». Trump ha quindi chiesto un ultimo sforzo ai suoi sostenitori per contenere le perdite, affermando: «Non possiamo consentire a gente che odia questo paese di vincere», per poi ammettere che i presidenti perdono sempre le elezioni di Midterm. In molti Stati, anche in quelli tradizionalmente conservatori e oggi in bilico, una parte forse decisiva di chi ha votato per Trump nel 2024 sembra delusa e potrebbe decidere di non andare a votare. avrebbe ben alcuni aspetti di vantaggio rispetto al repubblicano Mike Rogers, il 53% contro il 42%. Anche in Texas, uno Stato fortemente conservatore che non elegge un senatore democratico dal 1988, il democratico James Talarico - sempre secondo i sondaggi del New York Times - avrebbe preso forza contro Ken Paxton, arrivando al 50% contro il 43% del candidato imposto da Trump.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "stati uniti",
-        "abdul el sayed",
-        "mike rogers",
-        "james talarico",
-        "ken paxton"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 76,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/trump-candidati-dem-pericolosi-voto-midterm-piu-importante-storia-usa-AJ6HLE2B"
-      },
-      "analysis": {
-        "mainFact": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»",
-        "whyItMatters": "Nelle elezioni di metà mandato per il rinnovo del Congresso, i candidati democratici secondo gli ultimi sondaggi sono avanti in cinque degli Stati chiave per il Senato",
-        "confirmedFacts": [
-          "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»",
-          "Nelle elezioni di metà mandato per il rinnovo del Congresso, i candidati democratici secondo gli ultimi sondaggi sono avanti in cinque degli Stati chiave per il Senato",
-          "In particolare viene segnalato un aumento consistente delle intenzioni di voto in Michigan per Abdul El-Sayed , il candidato progressista, musulmano e ProPal odiatissimo da Trump: avrebbe ben alcuni aspetti di vantaggio rispetto al repubblicano Mike Rogers, il 53% contro il 42%.",
-          "«Per El-Sayed gli Stati Uniti sono la casa di Satana, vi rendete conto», ha detto ieri Trump.",
-          "Anche in Texas, uno Stato fortemente conservatore che non elegge un senatore democratico dal 1988, il democratico James Talarico - sempre secondo i sondaggi del New York Times - avrebbe preso forza contro Ken Paxton, arrivando al 50% contro il 43% del candidato imposto da Trump.",
-          "Trump ha poi chiesto un ultimo sforzo ai suoi sostenitori per contenere le perdite: «Non possiamo consentire a gente che odia questo paese di vincere», ha riaffermato per poi ammettere: «Per qualche motivo i presidenti perdono sempre le elezioni di Midterm, ma ci abbiamo comunque provato sul serio».",
-          "In molti Stati - anche in quelli tradizionalmente conservatori e oggi in bilico - una parte forse decisiva di chi ha votato per Trump alla Casa Bianca nel 2024 sembra delusa: forse non arriverà a preferire i democratici ma potrebbe decidere di non andare a votare.",
-          "Oggi gli americani votano per rinnovare la Camera e un terzo del Senato , oltre che per eleggere 36 governatori e molte cariche statali, ma il voto di metà mandato si è trasformato da tempo in un referendum sull’azione del presidente:"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Stati Uniti",
-          "Abdul El-Sayed",
-          "Mike Rogers",
-          "James Talarico",
-          "Ken Paxton"
-        ],
-        "numbersAndDates": [
-          "In particolare viene segnalato un aumento consistente delle intenzioni di voto in Michigan per Abdul El-Sayed , il candidato progressista, musulmano e ProPal odiatissimo da Trump: avrebbe ben alcuni aspetti di vantaggio rispetto al repubblicano Mike Rogers, il 53% contro il 42%.",
-          "Anche in Texas, uno Stato fortemente conservatore che non elegge un senatore democratico dal 1988, il democratico James Talarico - sempre secondo i sondaggi del New York Times - avrebbe preso forza contro Ken Paxton, arrivando al 50% contro il 43% del candidato imposto da Trump.",
-          "In molti Stati - anche in quelli tradizionalmente conservatori e oggi in bilico - una parte forse decisiva di chi ha votato per Trump alla Casa Bianca nel 2024 sembra delusa: forse non arriverà a preferire i democratici ma potrebbe decidere di non andare a votare.",
-          "Oggi gli americani votano per rinnovare la Camera e un terzo del Senato , oltre che per eleggere 36 governatori e molte cariche statali, ma il voto di metà mandato si è trasformato da tempo in un referendum sull’azione del presidente:"
-        ]
-      }
-    },
-    {
-      "id": "story-d03fd4d2d73377b6",
-      "title": "Nobel: addio a William Nordhaus, l’economista che teorizzò la carbon tax",
-      "summary": "L’economista statunitense William Dawbney Nordhaus, che ha contribuito a portare il cambiamento climatico al centro dell’analisi economica, quando ancora il tema era lontano dall’essere una priorità per gran parte della...",
-      "spokenText": "Addio a William Nordhaus, l'economista che teorizzò la carbon tax e che ha ricevuto il Nobel per i suoi studi. Il contributo fondamentale dell'economia, aveva affermato nel discorso pronunciato in occasione del premio, è riconoscere che il cambiamento climatico è un effetto collaterale dannoso e involontario della crescita economica.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "nobel"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/nobel-addio-william-nordhaus-l-economista-che-teorizzo-carbon-tax-AJaB6r2B"
-      },
-      "analysis": {
-        "mainFact": "Nobel: addio a William Nordhaus, l'economista che teorizzò la carbon tax",
-        "whyItMatters": "“Il contributo fondamentale dell’economia”, aveva affermato nel discorso pronunciato in occasione del Nobel, “è riconoscere che il cambiamento climatico è un effetto collaterale dannoso e involontario della crescita economica”.",
-        "confirmedFacts": [
-          "Nobel: addio a William Nordhaus, l'economista che teorizzò la carbon tax",
-          "“Il contributo fondamentale dell’economia”, aveva affermato nel discorso pronunciato in occasione del Nobel, “è riconoscere che il cambiamento climatico è un effetto collaterale dannoso e involontario della crescita economica”."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Nobel"
+          "Protecting Blue Corridors"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-0923996150fb983e",
-      "title": "DNA e malattie: il legame che mancava",
-      "summary": "Individuate le cellule immunitarie la cui attività è direttamente influenzata da varianti genetiche: l'anello mancante per lo sviluppo di malattie.",
-      "spokenText": "Tre nuovi studi di recente pubblicati su Nature hanno mappato, con una precisione mai raggiunta prima d'ora, come le variazioni del DNA influenzano l'attività genica delle singole cellule immunitarie, contribuendo così allo sviluppo di malattie. Le tre ricerche contribuiscono a spiegare attraverso quali cellule e mediante quali meccanismi biologici certe varianti genetiche influenzano il rischio di patologie, e aprono la strada allo sviluppo di nuovi farmaci. 3 novembre 2026 Elisabetta Intini Tag scienza - genetica - varianti genetiche - cancro - malattie autoimmuni - cellule immunitarie - dna - sistema immunitario - diversità genetica - malattie genetiche - espressione genica - attività genica. Gli scienziati hanno sequenziato i genomi di quasi 2000 persone e misurato l'attivit genica di quasi 5 milioni delle loro cellule immunitarie , creando la mappa pi dettagliata al mondo di come il DNA regola le cellule immunitarie a livello delle singole cellule.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nature",
-        "cellule immunitarie",
-        "dna"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 59,
-      "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/scienza/salute/scoperto-il-collegamento-nascosto-tra-varianti-genetiche-e-malattie"
-      },
-      "analysis": {
-        "mainFact": "Tre nuovi studi di recente pubblicati su Nature hanno mappato, con una precisione mai raggiunta prima d'ora, come le variazioni del DNA influenzano l'attività genica delle singole cellule immunitarie, contribuendo così allo sviluppo di malattie.",
-        "whyItMatters": "Le tre ricerche contribuiscono a spiegare attraverso quali cellule e mediante quali meccanismi biologici certe varianti genetiche influenzano il rischio di patologie, e aprono la strada allo sviluppo di nuovi farmaci.",
-        "confirmedFacts": [
-          "Tre nuovi studi di recente pubblicati su Nature hanno mappato, con una precisione mai raggiunta prima d'ora, come le variazioni del DNA influenzano l'attività genica delle singole cellule immunitarie, contribuendo così allo sviluppo di malattie.",
-          "Le tre ricerche contribuiscono a spiegare attraverso quali cellule e mediante quali meccanismi biologici certe varianti genetiche influenzano il rischio di patologie, e aprono la strada allo sviluppo di nuovi farmaci.",
-          "3 novembre 2026 Elisabetta Intini Tag scienza - genetica - varianti genetiche - cancro - malattie autoimmuni - cellule immunitarie - dna - sistema immunitario - diversità genetica - malattie genetiche - espressione genica - attività genica",
-          "Gli scienziati hanno sequenziato i genomi di quasi 2000 persone e misurato l'attivit genica di quasi 5 milioni delle loro cellule immunitarie , creando la mappa pi dettagliata al mondo di come il DNA regola le cellule immunitarie a livello delle singole cellule."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Nature",
-          "cellule immunitarie",
-          "DNA"
-        ],
-        "numbersAndDates": [
-          "3 novembre 2026 Elisabetta Intini Tag scienza - genetica - varianti genetiche - cancro - malattie autoimmuni - cellule immunitarie - dna - sistema immunitario - diversità genetica - malattie genetiche - espressione genica - attività genica",
-          "Gli scienziati hanno sequenziato i genomi di quasi 2000 persone e misurato l'attivit genica di quasi 5 milioni delle loro cellule immunitarie , creando la mappa pi dettagliata al mondo di come il DNA regola le cellule immunitarie a livello delle singole cellule."
-        ]
-      }
-    },
-    {
-      "id": "story-a47cd54c66adb614",
-      "title": "Su Minecraft esiste una biblioteca segreta che aggira la censura",
-      "summary": "The Uncensored Library è stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengono bloccati, Minecraft continua a funzionare.",
-      "spokenText": "Minecraft sembra il posto meno adatto per il giornalismo investigativo, essendo un videogioco fatto di blocchi, picconi e costruzioni pixelate. Eppure, dal 2020 ospita The Uncensored Library, una gigantesca biblioteca virtuale creata da Reporters Without Borders (RSF) insieme al collettivo BlockWorks per rendere nuovamente accessibili articoli censurati nei Paesi d'origine. L'idea sfrutta una caratteristica molto semplice: anche dove giornali, siti internet e social network vengono bloccati, Minecraft spesso continua a funzionare, così i testi proibiti sul web possono ricomparire all'interno del gioco sotto forma di libri virtuali. Oggi la biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti. I testi censurati vengono infatti trascritti nei veri \"libri\" di Minecraft, oggetti che nel gioco possono contenere fino a 100 pagine e che i visitatori aprono e leggono di continuo. La biblioteca è stata visitata più di un milione di volte e i suoi libri sono stati letti complessivamente circa dieci volte tanto.",
-      "category": "cultura",
-      "tags": [
-        "cultura",
-        "the uncensored library",
-        "reporters without borders rsf",
-        "blockworks",
-        "minecraft"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 62,
-      "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/tecnologia/innovazione/su-minecraft-esiste-una-biblioteca-segreta-che-aggira-la-censura"
-      },
-      "analysis": {
-        "mainFact": "The Uncensored Library è stata creata da Reporters without borders (RSF) su Minecraft perché, anche dove giornali, siti internet e social network vengono bloccati, il gioco continua spesso a funzionare, permettendo ai testi proibiti di ricomparire come libri virtuali.",
-        "whyItMatters": "La biblioteca comprende circa 300 volumi, è stata visitata più di un milione di volte dal 2020 e i suoi libri sono stati letti complessivamente circa 10 volte tanto.",
-        "confirmedFacts": [
-          "The Uncensored Library è stata creata da Reporters without borders (RSF) su Minecraft perché, anche dove giornali, siti internet e social network vengono bloccati, il gioco continua spesso a funzionare, permettendo ai testi proibiti di ricomparire come libri virtuali.",
-          "La biblioteca comprende circa 300 volumi, è stata visitata più di un milione di volte dal 2020 e i suoi libri sono stati letti complessivamente circa 10 volte tanto.",
-          "L'idea sfrutta una caratteristica molto semplice: anche dove giornali, siti internet e social network vengono bloccati, Minecraft spesso continua a funzionare , e cos testi proibiti sul web possono ricomparire all'interno del gioco sotto forma di libri virtuali.",
-          "Eppure, dal 2020 ospita The Uncensored Library, una gigantesca biblioteca virtuale creata da Reporters Without Borders (RSF) insieme al collettivo BlockWorks per rendere nuovamente accessibili articoli censurati nei Paesi d'origine .",
-          "Oggi la biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti.",
-          "I testi censurati vengono infatti trascritti nei veri \"libri\" di Minecraft, oggetti che nel gioco possono contenere fino a 100 pagine e che i visitatori aprono e leggono di continuo.",
-          "La biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti. Uncensoredlibrary. com A prima vista, Minecraft sembra il posto meno adatto per il giornalismo investigativo, essendo un videogioco fatto di blocchi, picconi e costruzioni pixelate."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "The Uncensored Library",
-          "Reporters without borders (RSF)",
-          "BlockWorks",
-          "Minecraft"
-        ],
-        "numbersAndDates": [
-          "Eppure, dal 2020 ospita The Uncensored Library, una gigantesca biblioteca virtuale creata da Reporters Without Borders (RSF) insieme al collettivo BlockWorks per rendere nuovamente accessibili articoli censurati nei Paesi d'origine .",
-          "Oggi la biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti.",
-          "I testi censurati vengono infatti trascritti nei veri \"libri\" di Minecraft, oggetti che nel gioco possono contenere fino a 100 pagine e che i visitatori aprono e leggono di continuo.",
-          "La biblioteca comprende circa 300 volumi e viene continuamente aggiornata con nuovi contenuti. Uncensoredlibrary. com A prima vista, Minecraft sembra il posto meno adatto per il giornalismo investigativo, essendo un videogioco fatto di blocchi, picconi e costruzioni pixelate.",
-          "300",
-          "2020",
-          "10"
-        ]
-      }
-    },
-    {
-      "id": "story-4aeceb5d0c616c51",
-      "title": "5 cosa dire a chi inizia a meditare: le controindicazioni della meditazione",
-      "summary": "La meditazione può avere effetti indesiderati su sonno, umore e ansia. Quali sono i rischi e le controindicazioni da conoscere prima di iniziare? L'articolo 5 cosa dire a chi inizia a meditare: le controindicazioni della meditazione, raccontate da chi la propone proviene da State of Mind.",
-      "spokenText": "La meditazione può avere effetti indesiderati su sonno, umore e ansia. L'esperienza dei partecipanti con la meditazione era per lo più limitata, secondo Goldberg et al. L'articolo di State of Mind racconta le controindicazioni della meditazione, spiegando quali sono i rischi da conoscere prima di iniziare. 2022). Oggi a capo di un’organizzazione che assiste coloro che hanno subito danni a causa della meditazione (Khazan, 2026).",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "state of mind",
-        "goldberg et al 2022",
-        "khazan 2026"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 26,
-      "source": {
-        "name": "State of Mind (Psicologia)",
-        "url": "https://www.stateofmind.it/2026/11/meditazione-controindicazioni/?utm_source=rss&utm_medium=rss&utm_campaign=meditazione-controindicazioni"
-      },
-      "analysis": {
-        "mainFact": "La meditazione può avere effetti indesiderati su sonno, umore e ansia.",
-        "whyItMatters": "L'articolo 5 cosa dire a chi inizia a meditare: le controindicazioni della meditazione, raccontate da chi la propone proviene da State of Mind.",
-        "confirmedFacts": [
-          "La meditazione può avere effetti indesiderati su sonno, umore e ansia.",
-          "L'articolo 5 cosa dire a chi inizia a meditare: le controindicazioni della meditazione, raccontate da chi la propone proviene da State of Mind.",
-          "l’esperienza dei partecipanti con la meditazione era per lo pi limitata (Goldberg et al. , 2022).",
-          "Oggi a capo di un’organizzazione che assiste coloro che hanno subito danni a causa della meditazione (Khazan, 2026).",
-          "Quali sono i rischi e le controindicazioni da conoscere prima di iniziare?"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "State of Mind",
-          "Goldberg et al., 2022",
-          "Khazan, 2026"
-        ],
-        "numbersAndDates": [
-          "l’esperienza dei partecipanti con la meditazione era per lo pi limitata (Goldberg et al. , 2022).",
-          "Oggi a capo di un’organizzazione che assiste coloro che hanno subito danni a causa della meditazione (Khazan, 2026).",
-          "5"
-        ]
-      }
-    },
-    {
-      "id": "story-aef7c44af532154a",
-      "title": "Il governo del Regno Unito sta lanciando il primo studio per misurare i PFAS nella",
-      "summary": "Il governo del Regno Unito sta lanciando il primo studio per misurare i PFAS nella popolazione britannica per comprendere i rischi.",
-      "spokenText": "Il governo del Regno Unito ha avviato il primo studio nazionale per misurare i PFAS nella popolazione britannica, con l'obiettivo di comprendere i rischi associati a queste sostanze.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "world health organization",
-        "bbc",
-        "pfoa",
-        "pfos"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Il governo del Regno Unito sta lanciando il primo studio per misurare i PFAS nella popolazione britannica per comprendere i rischi.",
-        "whyItMatters": "Studio governativo su PFAS nella popolazione, diretto su salute e ambiente.",
-        "confirmedFacts": [
-          "Il governo del Regno Unito sta lanciando il primo studio per misurare i PFAS nella popolazione britannica per comprendere i rischi.",
-          "Studio governativo su PFAS nella popolazione, diretto su salute e ambiente.",
-          "Two are already banned in the UK - PFOA and PFOS - because prolonged exposure to them can increase the risk of cancer, according to the World Health Organization. , external But the study of PFAS is an emerging field with more than 15,000 types to research.",
-          "Listen to more of the BBC's reporting on PFAS in File on 4 Investigates: Firefighting's forever chemical legacy."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "World Health Organization",
-          "BBC",
-          "PFOA",
-          "PFOS"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-dc31a573bcbc3210",
-      "title": "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero",
-      "summary": "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet.",
-      "spokenText": "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet. Un episodio che anticipa scenari più recenti, come l'attacco ransomware di maggio 2025 che ha colpito M&S e Co-op, costringendo i retailer britannici a faticare nel rifornire alcuni scaffali dei negozi con consegne fresche. Tra le entità coinvolte figurano UK Cyber Defence, M&S, Co-op e Samsung, a testimonianza di come la sicurezza informatica non riguardi più solo i computer.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "uk cyber defence",
-        "m s",
-        "co op",
-        "samsung"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 33,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet.",
-        "whyItMatters": "Attacco informatico a sistemi di refrigerazione commerciale con implicazioni sistemiche per infrastrutture critiche.",
-        "confirmedFacts": [
-          "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet.",
-          "Attacco informatico a sistemi di refrigerazione commerciale con implicazioni sistemiche per infrastrutture critiche.",
-          "Quando i supermercati britannici M&S e la Co-op sono stati presi di mira da hacker ransomware nel maggio 2025, i retailer hanno faticato a rifornire alcuni scaffali dei negozi con consegne fresche."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "UK Cyber Defence",
-          "M&S",
-          "Co-op",
-          "Samsung"
-        ],
-        "numbersAndDates": [
-          "Nel 2015, i ricercatori hanno dimostrato come una vulnerabilità in un frigorifero smart Samsung potesse permettere loro di intercettare il traffico internet.",
-          "Quando i supermercati britannici M&S e la Co-op sono stati presi di mira da hacker ransomware nel maggio 2025, i retailer hanno faticato a rifornire alcuni scaffali dei negozi con consegne fresche.",
-          "2015"
-        ]
-      }
-    },
-    {
-      "id": "story-e15b845ebe552f71",
-      "title": "Boom anche per il mercato immobiliare",
-      "summary": "Boom anche per il mercato immobiliare. Se i volumi di vendita di molte agenzie sono aumentati del 50%, i prezzi degli appartamenti di fascia alta vanno dai 15 mila ai 20 mila euro al metro quadro",
-      "spokenText": "Il mercato immobiliare registra un nuovo boom. I volumi di vendita di molte agenzie sono infatti aumentati del 50%, mentre i prezzi degli appartamenti di fascia alta si collocano tra i 15 mila e i 20 mila euro al metro quadro.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "mercato immobiliare",
-        "agenzie",
-        "appartamenti di fascia alta"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 17,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/11/03/news/grecia_pensionati_perche_conviene-425695347/"
-      },
-      "analysis": {
-        "mainFact": "Boom anche per il mercato immobiliare",
-        "whyItMatters": "I volumi di vendita di molte agenzie sono aumentati del 50% e i prezzi degli appartamenti di fascia alta vanno dai 15 mila ai 20 mila euro al metro quadro",
-        "confirmedFacts": [
-          "Boom anche per il mercato immobiliare",
-          "I volumi di vendita di molte agenzie sono aumentati del 50% e i prezzi degli appartamenti di fascia alta vanno dai 15 mila ai 20 mila euro al metro quadro",
-          "Se i volumi di vendita di molte agenzie sono aumentati del 50%, i prezzi degli appartamenti di fascia alta vanno dai 15 mila ai 20 mila euro al metro quadro"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "mercato immobiliare",
-          "agenzie",
-          "appartamenti di fascia alta"
-        ],
-        "numbersAndDates": [
-          "50",
-          "15",
-          "20"
-        ]
-      }
-    },
-    {
-      "id": "story-db39cc2f0e47bc31",
-      "title": "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e",
-      "summary": "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e leadership, ma è chiaro che c'è ancora più lavoro da fare'.",
-      "spokenText": "L'ambizione collettiva non richiede che ogni ente pubblico raggiunga il net zero individualmente entro il 2030, ma intende fornire una direzione di viaggio condivisa e l'aspettativa che tutti gli enti pubblici contribuiscano a ridurre le emissioni. Gli enti pubblici hanno riferito che le loro pressioni finanziarie complessive rendono difficile investire nella decarbonizzazione, criticando il governo gallese per non aver definito l'ambizione collettiva per il net zero entro il 2030 come un obiettivo. È stato stimato che costerebbe almeno £2. 3bn per decarbonizzare da soli gli edifici dei consigli comunali gallesi.",
+      "id": "story-e79a16ab3ec3df58",
+      "title": "SOS impollinatori: i parchi nazionali in prima linea per contrastare il loro declino",
+      "summary": "Dal 5 al 7 novembre 2026, il Lago Sirino, nel territorio di Nemoli (PZ), ospiterà NAIADI 2026, l'iniziativa dedicata alle politiche ambientali per le aree interne, promossa dal Parco Nazionale dell'Appennino Lucano Val d'Agri Lagonegrese, Ambiente Basilicata e Federparchi. Il 6 novembre si terrà il convegno \" SOS impollinatori: i parchi nazionali in prima linea per contrastare il loro declino \"",
+      "spokenText": "Dal 5 al 7 novembre 2026, il Lago Sirino, nel territorio di Nemoli (PZ), ospiterà NAIADI 2026, l'iniziativa dedicata alle politiche ambientali per le aree interne, promossa dal Parco Nazionale dell'Appennino Lucano Val d'Agri Lagonegrese, Ambiente Basilicata e Federparchi. Il 6 novembre si terrà il convegno 'SOS impollinatori: i parchi nazionali in prima linea per contrastare il loro declino'.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "audit wales",
-        "wales"
+        "parco nazionale dell appennino lucano val d agri",
+        "ambiente basilicata",
+        "federparchi",
+        "lago sirino",
+        "nemoli",
+        "pz"
       ],
-      "importance": 72,
+      "importance": 80,
       "mustInclude": false,
-      "estimatedSeconds": 36,
+      "estimatedSeconds": 24,
       "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/sos-impollinatori-i-parchi-nazionali-in-prima-linea-per-contrastare-il-loro-declino"
       },
       "analysis": {
-        "mainFact": "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e leadership, ma è chiaro che c'è ancora più lavoro da fare'.",
-        "whyItMatters": "Ritardi obiettivi net zero settore pubblico gallese.",
+        "mainFact": "Dal 5 al 7 novembre 2026, il Lago Sirino, nel territorio di Nemoli (PZ), ospiterà NAIADI 2026, l'iniziativa dedicata alle politiche ambientali per le aree interne, promossa dal Parco Nazionale dell'Appennino Lucano Val d'Agri Lagonegrese, Ambiente Basilicata e Federparchi.",
+        "whyItMatters": "Il 6 novembre si terrà il convegno 'SOS impollinatori: i parchi nazionali in prima linea per contrastare il loro declino'.",
         "confirmedFacts": [
-          "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e leadership, ma è chiaro che c'è ancora più lavoro da fare'.",
-          "Ritardi obiettivi net zero settore pubblico gallese.",
-          "L''ambizione collettiva' non richiede che ogni ente pubblico raggiunga il net zero individualmente entro il 2030 ma è intesa per fornire una direzione di viaggio condivisa e l'aspettativa che tutti gli enti pubblici contribuiscano a ridurre le emissioni.",
-          "È stato stimato che costerebbe almeno £2. 3bn per decarbonizzare da soli gli edifici dei consigli comunali gallesi.",
-          "Gli enti pubblici ci hanno detto che le loro pressioni finanziarie complessive significano che faticano a investire nella decarbonizzazione. Ha criticato il governo gallese per non aver definito l''ambizione collettiva' per il net zero entro il 2030 come un 'obiettivo'."
+          "Dal 5 al 7 novembre 2026, il Lago Sirino, nel territorio di Nemoli (PZ), ospiterà NAIADI 2026, l'iniziativa dedicata alle politiche ambientali per le aree interne, promossa dal Parco Nazionale dell'Appennino Lucano Val d'Agri Lagonegrese, Ambiente Basilicata e Federparchi.",
+          "Il 6 novembre si terrà il convegno 'SOS impollinatori: i parchi nazionali in prima linea per contrastare il loro declino'."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Audit Wales",
-          "Wales"
+          "Parco Nazionale dell'Appennino Lucano Val d'Agri Lagonegrese",
+          "Ambiente Basilicata",
+          "Federparchi",
+          "Lago Sirino",
+          "Nemoli",
+          "PZ"
         ],
         "numbersAndDates": [
-          "Il governo gallese ha detto che la sua ambizione per il 2030 ha 'guidato azione e leadership, ma è chiaro che c'è ancora più lavoro da fare'.",
-          "L''ambizione collettiva' non richiede che ogni ente pubblico raggiunga il net zero individualmente entro il 2030 ma è intesa per fornire una direzione di viaggio condivisa e l'aspettativa che tutti gli enti pubblici contribuiscano a ridurre le emissioni.",
-          "È stato stimato che costerebbe almeno £2. 3bn per decarbonizzare da soli gli edifici dei consigli comunali gallesi.",
-          "Gli enti pubblici ci hanno detto che le loro pressioni finanziarie complessive significano che faticano a investire nella decarbonizzazione. Ha criticato il governo gallese per non aver definito l''ambizione collettiva' per il net zero entro il 2030 come un 'obiettivo'.",
-          "2030"
-        ]
-      }
-    },
-    {
-      "id": "story-91b46b4e3d8f8317",
-      "title": "Vendite su Stellantis, pesa il calo delle immatricolazioni di ottobre in Francia e",
-      "summary": "In Francia, a fronte di una crescita di mercato del 3%, la casa automobilistica ha registrato un calo del 5% a 46mila veicoli, mentre in Italia è calata del 9,5%, a fronte di un mercato auto in crescita del 5%",
-      "spokenText": "A ottobre Stellantis ha registrato un calo delle immatricolazioni del 5% in Francia, a 46mila veicoli, e del 9,5% in Italia, nonostante entrambi i mercati siano cresciuti, rispettivamente del 3% e del 5%. In Italia, che rappresenta il 9% dei volumi del gruppo, l'unico marchio in crescita è stato Fiat, con un più 6%. Considerando anche le immatricolazioni di Leapmotor, marchio cinese partner di Stellantis, il calo del gruppo si riduce al 6%, a circa 32mila unità. Banca Akros evidenzia una performance debole a ottobre, nonostante la crescita positiva dei volumi da inizio anno sostenuta dal forte slancio di Leapmotor, confermando tuttavia il rating Neutral e il target price a 4,50 euro.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "stellantis",
-        "francia",
-        "italia",
-        "fiat",
-        "leapmotor",
-        "banca akros"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 45,
-      "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/vendite-stellantis-pesa-calo-immatricolazioni-ottobre-francia-e-italia-AJmirx2B"
-      },
-      "analysis": {
-        "mainFact": "A ottobre Stellantis ha registrato un calo delle immatricolazioni del 5% in Francia a 46mila veicoli e del 9,5% in Italia, nonostante entrambi i mercati auto siano cresciuti (rispettivamente del 3% e del 5%).",
-        "whyItMatters": "In Italia (che rappresenta il 9% dei volumi del gruppo) Stellantis è calata del 9,5% Sul tema di i veicoli (a fronte di un mercato auto in crescita del 5%) con il solo marchio Fiat in crescita (+6%).",
-        "confirmedFacts": [
-          "A ottobre Stellantis ha registrato un calo delle immatricolazioni del 5% in Francia a 46mila veicoli e del 9,5% in Italia, nonostante entrambi i mercati auto siano cresciuti (rispettivamente del 3% e del 5%).",
-          "In Italia (che rappresenta il 9% dei volumi del gruppo) Stellantis è calata del 9,5% Sul tema di i veicoli (a fronte di un mercato auto in crescita del 5%) con il solo marchio Fiat in crescita (+6%).",
-          "Nel dettaglio, il mese scorso Stellantis ha registrato un calo di immatricolazioni sia in Francia che in Italia , sottoperformando entrambi i mercati cresciuti rispettivamente del 3% e del 5% annuo.",
-          "Considerando anche le immatricolazioni di Leapmotor, marchio cinese partner di Stellantis, il calo del gruppo si riduce al 6%, a circa 32mila unità.",
-          "Anche Banca Akros evidenzia una «performance debole a ottobre, nonostante la crescita positiva dei volumi da inizio anno, sostenuta dal forte slancio di Leapmotor», tuttavia la banca conferma il rating ‘Neutral’ e il target price a 4,50 euro."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Stellantis",
-          "Francia",
-          "Italia",
-          "Fiat",
-          "Leapmotor",
-          "Banca Akros"
-        ],
-        "numbersAndDates": [
-          "Nel dettaglio, il mese scorso Stellantis ha registrato un calo di immatricolazioni sia in Francia che in Italia , sottoperformando entrambi i mercati cresciuti rispettivamente del 3% e del 5% annuo.",
-          "Considerando anche le immatricolazioni di Leapmotor, marchio cinese partner di Stellantis, il calo del gruppo si riduce al 6%, a circa 32mila unità.",
-          "Anche Banca Akros evidenzia una «performance debole a ottobre, nonostante la crescita positiva dei volumi da inizio anno, sostenuta dal forte slancio di Leapmotor», tuttavia la banca conferma il rating ‘Neutral’ e il target price a 4,50 euro.",
           "5",
-          "9,5",
-          "3",
-          "9",
+          "7",
+          "2026",
           "6"
         ]
       }
     },
     {
-      "id": "story-a0a16f3fd60a3cc6",
-      "title": "Musk ha deciso lo stop a Starlink al fronte in Ucraina",
-      "summary": "Lo stop a Starlink al fronte mostra il vero rischio della guerra moderna: la difesa trasformata in abbonamento privato in balìa di Elon Musk e Washington.",
-      "spokenText": "Elon Musk ha deciso lo stop a Starlink al fronte in Ucraina. La decisione arriva mentre Washington osserva gli sviluppi del conflitto. Musk ha inoltre investito 443 milioni di dollari a sostegno dei candidati repubblicani alle elezioni di medio termine.",
-      "category": "mondo",
+      "id": "story-a421e34e802a1e6e",
+      "title": "Stop ai controlli sull’export agroalimentare, bozza di intesa Ue-Londra",
+      "summary": "LONDRA - Fine dei controlli sull’export di prodotti agroalimentari al confine tra Regno Unito e Paesi dell’Unione Europea: Londra e Bruxelles hanno raggiunto ieri una bozza di accordo per eliminare...",
+      "spokenText": "Stop ai controlli sull’export agroalimentare, bozza di intesa Ue-Londra. In seguito all'accordo raggiunto ieri sarà di nuovo consentito l'export di prodotti come salsicce, hamburger e molluschi nella Ue, in cambio di una garanzia di 'allineamento dinamico' con le regole Ue in materia fitosanitaria. Per le merci in entrata e in uscita dall’Unione spariranno i certificati sanitari per l’export da 200 sterline, quelli fitosanitari da 25 sterline, i costi delle ispezioni veterinarie, le certificazioni biologiche, parte delle tasse portuali e i costi dei controlli di qualità.",
+      "category": "attualita",
       "tags": [
-        "mondo",
-        "elon musk",
-        "starlink",
-        "ucraina",
-        "washington"
+        "attualita",
+        "londra"
       ],
-      "importance": 80,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 16,
+      "estimatedSeconds": 34,
       "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/starlink-ucraina-musk-silicon-valley-usa-europa/"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/stop-controlli-sull-export-agroalimentare-bozza-intesa-ue-londra-AJcTeR3B"
       },
       "analysis": {
-        "mainFact": "Musk ha deciso lo stop a Starlink al fronte in Ucraina.",
-        "whyItMatters": "Musk ha investito 443 milioni di dollari a sostegno dei candidati repubblicani alle elezioni di medio termine.",
+        "mainFact": "Stop ai controlli sull’export agroalimentare, bozza di intesa Ue-Londra",
+        "whyItMatters": "In seguito all'accordo raggiunto ieri sarà di nuovo consentito l'export di prodotti come salsicce, hamburger e molluschi nella Ue, in cambio di una garanzia di 'allineamento dinamico' con le regole Ue in materia fitosanitaria.",
         "confirmedFacts": [
-          "Musk ha deciso lo stop a Starlink al fronte in Ucraina.",
-          "Musk ha investito 443 milioni di dollari a sostegno dei candidati repubblicani alle elezioni di medio termine.",
-          "Lo stop a Starlink al fronte mostra il vero rischio della guerra moderna: la difesa trasformata in abbonamento privato in balìa di Elon Musk e Washington.",
-          "In concomitanza con la sua decisione su Starlink, Musk ha investito 443 milioni di dollari a sostegno dei candidati repubblicani alle elezioni di medio termine."
+          "Stop ai controlli sull’export agroalimentare, bozza di intesa Ue-Londra",
+          "In seguito all'accordo raggiunto ieri sarà di nuovo consentito l'export di prodotti come salsicce, hamburger e molluschi nella Ue, in cambio di una garanzia di 'allineamento dinamico' con le regole Ue in materia fitosanitaria.",
+          "Per le merci in entrata e in uscita dall’Unione spariranno i certificati sanitari per l’export da 200 sterline, quelli fitosanitari da 25 sterline, i costi delle ispezioni veterinarie, le certificazioni biologiche, parte delle tasse portuali e i costi dei controlli di qualità."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Elon Musk",
-          "Starlink",
-          "Ucraina",
-          "Washington"
+          "Londra"
         ],
         "numbersAndDates": [
-          "443"
+          "Per le merci in entrata e in uscita dall’Unione spariranno i certificati sanitari per l’export da 200 sterline, quelli fitosanitari da 25 sterline, i costi delle ispezioni veterinarie, le certificazioni biologiche, parte delle tasse portuali e i costi dei controlli di qualità."
         ]
       }
     },
     {
-      "id": "story-ebc8e369d79d69cc",
-      "title": "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F",
-      "summary": "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F.",
-      "spokenText": "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F. Il 19 settembre dello stesso anno, dopo aver valutato diversi siti in tutto il paese, la NASA annunciò che il nuovo Manned Spacecraft Center sarebbe stato costruito vicino a Houston, in Texas. Nel 1973, la struttura è diventata ufficialmente il NASA Lyndon B. Johnson Space Center. Per accogliere le dimensioni maggiori della stiva del payload dello shuttle, l'addestramento alle passeggiate spaziali si è trasferito al Weightless Environment Training Facility nel 1980.",
-      "category": "scienza",
+      "id": "story-29e7e4bb3b10229b",
+      "title": "Investimenti truffa: sequestrati oltre 100 server",
+      "summary": "Le autorità di sette paesi hanno smantellato l'infrastruttura usata per truffe finanziarie che hanno causato perdite per oltre 4 milioni di euro. The post Investimenti truffa: sequestrati oltre 100 server appeared first on Punto Informatico.",
+      "spokenText": "Le autorità di sette paesi hanno smantellato l'infrastruttura utilizzata per truffe finanziarie, sequestrando oltre 100 server. L'operazione, coordinata da Europol e Eurojust, ha coinvolto Cipro, Finlandia, Germania, Israele, Kosovo e Macedonia del Nord. Le vittime, ignare e residenti in circa 50 paesi, hanno perso oltre 4 milioni di euro attraverso investimenti effettuati su falsi siti di trading.",
+      "category": "attualita",
       "tags": [
-        "scienza",
-        "nasa",
-        "johnson space center",
-        "houston"
+        "attualita",
+        "europol",
+        "eurojust",
+        "albania",
+        "cipro",
+        "finlandia",
+        "germania",
+        "israele",
+        "kosovo",
+        "macedonia del nord"
       ],
-      "importance": 82,
+      "importance": 65,
       "mustInclude": false,
-      "estimatedSeconds": 35,
+      "estimatedSeconds": 23,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/investimenti-truffa-sequestrati-oltre-100-server/"
       },
       "analysis": {
-        "mainFact": "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F.",
-        "whyItMatters": "Storia istituzionale NASA rilevante per scienza e tecnologia spaziale.",
+        "mainFact": "Le autorità di sette paesi hanno smantellato l'infrastruttura usata per truffe finanziarie sequestrando oltre 100 server.",
+        "whyItMatters": "Le ignare vittime in circa 50 paesi hanno perso oltre 4 milioni di euro con investimenti effettuati tramite falsi siti di trading .",
         "confirmedFacts": [
-          "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F.",
-          "Storia istituzionale NASA rilevante per scienza e tecnologia spaziale.",
-          "Il 19 settembre 1961, dopo aver valutato diversi siti in tutto il paese, la NASA annunciò che il nuovo Manned Spacecraft Center sarebbe stato costruito vicino a Houston, Texas.",
-          "Nel 1973, è diventato ufficialmente il NASA Lyndon B. Johnson Space Center.",
-          "Per accogliere le dimensioni maggiori della stiva del payload dello shuttle, l'addestramento alle passeggiate spaziali si è trasferito al Weightless Environment Training Facility nel 1980."
+          "Le autorità di sette paesi hanno smantellato l'infrastruttura usata per truffe finanziarie sequestrando oltre 100 server.",
+          "Le ignare vittime in circa 50 paesi hanno perso oltre 4 milioni di euro con investimenti effettuati tramite falsi siti di trading .",
+          "Cipro, Finlandia, Germania, Israele, Kosovo e Macedonia del Nord, coordinati da Europol e Eurojust, hanno smantellato un’infrastruttura utilizzata per truffe finanziarie, sequestrando oltre 100 server .",
+          "Investimenti truffa: sequestrati oltre 100 server Le autorità di sette paesi hanno smantellato l'infrastruttura usata per truffe finanziarie che hanno causato perdite per oltre 4 milioni di euro."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "NASA",
-          "Johnson Space Center",
-          "Houston"
+          "Europol",
+          "Eurojust",
+          "Albania",
+          "Cipro",
+          "Finlandia",
+          "Germania",
+          "Israele",
+          "Kosovo",
+          "Macedonia del Nord"
         ],
         "numbersAndDates": [
-          "Il 25 maggio 1961, la storia del centro è iniziata quando il Presidente John F.",
-          "Il 19 settembre 1961, dopo aver valutato diversi siti in tutto il paese, la NASA annunciò che il nuovo Manned Spacecraft Center sarebbe stato costruito vicino a Houston, Texas.",
-          "Nel 1973, è diventato ufficialmente il NASA Lyndon B. Johnson Space Center.",
-          "Per accogliere le dimensioni maggiori della stiva del payload dello shuttle, l'addestramento alle passeggiate spaziali si è trasferito al Weightless Environment Training Facility nel 1980.",
-          "25",
-          "1961"
+          "Cipro, Finlandia, Germania, Israele, Kosovo e Macedonia del Nord, coordinati da Europol e Eurojust, hanno smantellato un’infrastruttura utilizzata per truffe finanziarie, sequestrando oltre 100 server .",
+          "Investimenti truffa: sequestrati oltre 100 server Le autorità di sette paesi hanno smantellato l'infrastruttura usata per truffe finanziarie che hanno causato perdite per oltre 4 milioni di euro.",
+          "100",
+          "50",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "story-232ee95233612913",
+      "title": "Crans-Montana, la Svizzera cambia idea: “Pagheremo le fatture dei feriti italiani”",
+      "summary": "Il caso aveva provocato uno scontro con l’Italia. Ora la decisione: le spese mediche (1,5 milioni di franchi) saranno a carico del Paese elvetico. Informata la premier Meloni",
+      "spokenText": "La Svizzera pagherà le fatture mediche dei feriti italiani di Crans-Montana. Il governo elvetico ha deciso oggi di rinunciare a titolo eccezionale al rimborso delle spese sostenute per la cura dei feriti nell'incendio di Capodanno, ammontanti a 1,5 milioni di franchi. La decisione chiude uno scontro con l'Italia. Il padre di Elsa ha definito il gesto una specie di ammissione di colpa da parte della Svizzera, mentre la giovane racconta ai compagni la tragedia vissuta, spiegando di vivere ora per chi non c'è più. Il caso aveva provocato uno scontro con l’Italia.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "svizzera",
+        "italia",
+        "crans montana"
+      ],
+      "importance": 60,
+      "mustInclude": false,
+      "estimatedSeconds": 37,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://milano.repubblica.it/cronaca/2026/11/04/news/crans-montana_svizzera_cambia_idea_paga_fatture_feriti_italiani-425698555/"
+      },
+      "analysis": {
+        "mainFact": "La Svizzera pagherà le fatture mediche dei feriti italiani di Crans-Montana.",
+        "whyItMatters": "Il caso aveva provocato uno scontro con l’Italia.",
+        "confirmedFacts": [
+          "La Svizzera pagherà le fatture mediche dei feriti italiani di Crans-Montana.",
+          "Il caso aveva provocato uno scontro con l’Italia.",
+          "Ora la decisione: le spese mediche (1,5 milioni di franchi) saranno a carico del Paese elvetico.",
+          "Crans-Montana, il padre di Elsa: “Dalla Svizzera una specie di ammissione di colpa”",
+          "«Nel senso che a me sembra anche una specie di ammissione di colpa per la Svizzera fare questo tipo di azione ammissiva», spiega.",
+          "Elsa racconta ai compagni la tragedia vissuta a Crans: “Ora vivo per chi non c’è più” di Giada Lo Porto 22 Settembre 2026",
+          "Il governo svizzero ha deciso oggi di \"rinunciare a titolo eccezionale al rimborso\" delle spese mediche sostenute per la cura dei feriti italiani nell'incendio di Capodanno a Crans-Montana che ammontano a 1,5 milioni di franchi."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Svizzera",
+          "Italia",
+          "Crans-Montana"
+        ],
+        "numbersAndDates": [
+          "Ora la decisione: le spese mediche (1,5 milioni di franchi) saranno a carico del Paese elvetico.",
+          "Il governo svizzero ha deciso oggi di \"rinunciare a titolo eccezionale al rimborso\" delle spese mediche sostenute per la cura dei feriti italiani nell'incendio di Capodanno a Crans-Montana che ammontano a 1,5 milioni di franchi."
+        ]
+      }
+    },
+    {
+      "id": "story-6bccb5dc5d84aa22",
+      "title": "Midterm: i Democratici conquistano il Congresso e strappano governatori chiave - LIVEBLOG",
+      "summary": "Trump: 'Accetto il voto'. Poi posta il cappello 'Mr Veto'. Alla Camera la maggioranza ai Dem. E al Senato ottengono 54 seggi, i repubblicani 43. Le Borse corrono. Tajani: 'Rispettiamo la volontà degli americani, il rapporto con gli Usa non cambia'",
+      "spokenText": "I Democratici conquistano il Congresso e strappano governatori chiave nelle elezioni di midterm. Il voto del 4 novembre 2026 segna un argine sollevato dagli americani contro Trump, ridefinendo gli equilibri di potere negli Stati Uniti.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "trump",
+        "democratici",
+        "stati uniti"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 14,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-i-democratici-conquistano-il-congresso-e-strappano-governatori-chiave-liveblog_9fe187a6-3703-47e5-aef0-0d50b44ec158.html"
+      },
+      "analysis": {
+        "mainFact": "Midterm: i Democratici conquistano il Congresso e strappano governatori chiave - LIVEBLOG",
+        "whyItMatters": "Midterm, gli americani alzano un argine contro Trump. 4 Novembre 2026.",
+        "confirmedFacts": [
+          "Midterm: i Democratici conquistano il Congresso e strappano governatori chiave - LIVEBLOG",
+          "Midterm, gli americani alzano un argine contro Trump. 4 Novembre 2026.",
+          "Midterm, gli americani alzano un argine contro Trumpelisabetta.tola Mer, 11/04/2026 - 13:44 4 Novembre 2026 Language Italian Andrea Gaiardoni Un’enorme onda blu ha sommerso gli Stati Uniti."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Trump",
+          "Democratici",
+          "Stati Uniti"
+        ],
+        "numbersAndDates": [
+          "4",
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-d0642e4c7e3807d8",
+      "title": "Quanto ci costa dipendere dai combustibili fossili",
+      "summary": "Il 74 per cento dell’energia che usiamo arriva dall’estero, e il conto si paga anche senza disastri climatici: nei prezzi del cibo spinti da caldo e siccità, in bollette e carburanti che pesano di più sulle famiglie con meno reddito, negli investimenti frenati e nel costo del debito pubblico. Chi ci perde e chi ci guadagna negli shock energetici, perché uno sconto alla pompa non basta e come si confrontano i costi della transizione con quelli del sistema attuale.",
+      "spokenText": "Il 74 per cento dell’energia che usiamo in Italia arriva dall’estero. Chi ci perde e chi ci guadagna negli shock energetici, perché uno sconto alla pompa non basta e come si confrontano i costi della transizione con quelli del sistema attuale. L’inflazione di fondo, al netto dell’energia e degli alimentari freschi, si è fermata all’1,6 per cento. Ci sono però costi meno immediati. Dove la copertura assicurativa manca, il costo ricade sulle famiglie, sulle imprese o sul bilancio pubblico. Chi dedica gran parte del reddito a cibo, bollette e carburanti ha meno margine per assorbire i rincari; spesso ha anche meno risorse per isolare l’abitazione, installare il fotovoltaico o sostituire un veicolo energivoro.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "italia",
+        "ocse",
+        "famiglie con meno reddito",
+        "debito pubblico"
+      ],
+      "importance": 92,
+      "mustInclude": false,
+      "estimatedSeconds": 46,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/costo-dipendenza-combustibili-fossili/"
+      },
+      "analysis": {
+        "mainFact": "Il 74 per cento dell’energia che usiamo in Italia arriva dall’estero.",
+        "whyItMatters": "Chi ci perde e chi ci guadagna negli shock energetici, perché uno sconto alla pompa non basta e come si confrontano i costi della transizione con quelli del sistema attuale.",
+        "confirmedFacts": [
+          "Il 74 per cento dell’energia che usiamo in Italia arriva dall’estero.",
+          "Chi ci perde e chi ci guadagna negli shock energetici, perché uno sconto alla pompa non basta e come si confrontano i costi della transizione con quelli del sistema attuale.",
+          "L’inflazione di fondo, al netto dell’energia e degli alimentari freschi, si è fermata all’1,6 per cento.",
+          "Secondo l’OCSE, nel 2024 il 74 per cento dell’energia consumata in Italia proveniva dall’estero .",
+          "Ci sono però costi meno immediati.",
+          "Dove la copertura assicurativa manca, il costo ricade sulle famiglie, sulle imprese o sul bilancio pubblico.",
+          "Chi dedica gran parte del reddito a cibo, bollette e carburanti ha meno margine per assorbire i rincari; spesso ha anche meno risorse per isolare l’abitazione, installare il fotovoltaico o sostituire un veicolo energivoro."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Italia",
+          "OCSE",
+          "famiglie con meno reddito",
+          "debito pubblico"
+        ],
+        "numbersAndDates": [
+          "L’inflazione di fondo, al netto dell’energia e degli alimentari freschi, si è fermata all’1,6 per cento.",
+          "Secondo l’OCSE, nel 2024 il 74 per cento dell’energia consumata in Italia proveniva dall’estero .",
+          "74"
+        ]
+      }
+    },
+    {
+      "id": "story-c1ff98e5b3bf5749",
+      "title": "I data center e quella bilancia da raddrizzare",
+      "summary": "In Lombardia come in Scozia, in Finlandia e negli Stati Uniti, cittadini e comitati si mobilitano contro i data center: consumo di suolo, energia e acqua, e poco ritorno per i territori. La protesta ha già spinto la Regione a nuovi vincoli, ma mancano ancora programmazione, valutazione degli impatti cumulativi e soprattutto dialogo. Ne parliamo con il sociologo Giorgio Pirina.",
+      "spokenText": "I data center e quella bilancia da raddrizzare. Il tema è al centro di un dibattito pubblico sempre più acceso, con comuni e comitati protagonisti di un confronto complesso. In Scozia, a settembre, centinaia di persone si sono radunate davanti al Parlamento di Edimburgo chiedendo una moratoria nazionale contro il boom di queste infrastrutture. la Camera ha dato il via libera alla legge delega DDL S. 1821, che riconosce i progetti di data center come opere di pubblica utilità, indifferibili e urgenti, mentre al Senato l'esame è ancora in corso. Un aspetto chiave riguarda il tentativo di disincentivare il consumo di suolo, aumentando fino al 200% gli oneri di urbanizzazione per chi realizza data center su greenfield, ovvero terreni agricoli e naturali mai edificati, rispetto ai brownfield. Le proteste hanno già spinto la Regione a introdurre nuovi vincoli, ma mancano ancora programmazione, valutazione degli impatti cumulativi e dialogo. Come spiega Pirina, la Regione ha percepito, ascoltato e annusato le tensioni dei cittadini organizzati in comitati, proprio perché stava emergendo una questione di concorrenzialità e di non cooperazione tra diversi interessi. Un quadro che si intreccia con esperienze internazionali, come quella di Google a Muhos, in Finlandia, documentata tra luglio 2025 e ottobre 2026 con dati Copernicus Sentinel.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "lombardia",
+        "scozia",
+        "finlandia",
+        "stati uniti",
+        "regione",
+        "google",
+        "muhos",
+        "camera",
+        "senato"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 83,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/data-center-lombardia-comitati/"
+      },
+      "analysis": {
+        "mainFact": "I data center e quella bilancia da raddrizzare",
+        "whyItMatters": "La protesta ha già spinto la Regione a nuovi vincoli, ma mancano ancora programmazione, valutazione degli impatti cumulativi e soprattutto dialogo.",
+        "confirmedFacts": [
+          "I data center e quella bilancia da raddrizzare",
+          "La protesta ha già spinto la Regione a nuovi vincoli, ma mancano ancora programmazione, valutazione degli impatti cumulativi e soprattutto dialogo.",
+          "Luglio 2025 Ottobre 2026 L’area del data center di Google a Muhos, in Finlandia, nel luglio 2025 e nell’ottobre 2026.",
+          "Contiene dati Copernicus Sentinel modificati (2025, 2026) In Scozia, a settembre, centinaia di persone si sono radunate davanti al Parlamento a Edimburgo chiedendo una moratoria nazionale contro il boom dei data center.",
+          "Sempre a febbraio il governo ha incassato il via libera della Camera alla legge delega DDL S. 1821 , ancora all’esame del Senato, che riconosce i progetti di data center come opere di “pubblica utilità, indifferibili e urgenti”.",
+          "Un aspetto riguarda il tentativo di disincentivazione al consumo di suolo attraverso l’aumento fino al 200% degli oneri di urbanizzazione per la realizzazione di data center su greenfield (terreni agricoli e naturali, mai edificati) anziché su brownfield (aree industriali e capannoni dismessi).",
+          "Comuni, comitati: chi decide Sono tanti i protagonisti del movimentato dibattito pubblico italiano sui data center.",
+          "«La Regione ha percepito, ascoltato e annusato le tensioni dei cittadini organizzati in comitati» spiega Pirina «proprio perché stava emergendo sempre di più una questione di concorrenzialità, di non cooperazione, tra diversi interessi»."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Lombardia",
+          "Scozia",
+          "Finlandia",
+          "Stati Uniti",
+          "Regione",
+          "Google",
+          "Muhos",
+          "Camera",
+          "Senato"
+        ],
+        "numbersAndDates": [
+          "Luglio 2025 Ottobre 2026 L’area del data center di Google a Muhos, in Finlandia, nel luglio 2025 e nell’ottobre 2026.",
+          "Contiene dati Copernicus Sentinel modificati (2025, 2026) In Scozia, a settembre, centinaia di persone si sono radunate davanti al Parlamento a Edimburgo chiedendo una moratoria nazionale contro il boom dei data center.",
+          "Sempre a febbraio il governo ha incassato il via libera della Camera alla legge delega DDL S. 1821 , ancora all’esame del Senato, che riconosce i progetti di data center come opere di “pubblica utilità, indifferibili e urgenti”.",
+          "Un aspetto riguarda il tentativo di disincentivazione al consumo di suolo attraverso l’aumento fino al 200% degli oneri di urbanizzazione per la realizzazione di data center su greenfield (terreni agricoli e naturali, mai edificati) anziché su brownfield (aree industriali e capannoni dismessi)."
+        ]
+      }
+    },
+    {
+      "id": "story-ce7c87dbbd02a05c",
+      "title": "Einstein Telescope: un altro passo avanti",
+      "summary": "La visita dei ministri italiano e sassone al sito di Sos Enattos rafforza la candidatura congiunta di Sardegna e Sassonia a ospitare l’Einstein Telescope, il futuro osservatorio europeo di onde gravitazionali. La proposta prevede due interferometri nei rispettivi territori, secondo una configurazione a doppia L, che un recente studio di oltre 200 esperti indica come vantaggiosa rispetto a quella triangolare",
+      "spokenText": "La visita dei ministri italiano e sassone al sito di Sos Enattos rafforza la candidatura congiunta di Sardegna e Sassonia per ospitare l'Einstein Telescope, il futuro osservatorio europeo di onde gravitazionali. La proposta prevede l'installazione di due interferometri nei rispettivi territori, secondo una configurazione a doppia L. Un recente studio di oltre 200 esperti indica che questa soluzione risulta vantaggiosa rispetto a quella triangolare.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "italia",
+        "sassonia",
+        "sardegna",
+        "sos enattos",
+        "einstein telescope"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 26,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/03/einstein-telescope-un-altro-passo-avanti/"
+      },
+      "analysis": {
+        "mainFact": "La visita dei ministri italiano e sassone al sito di Sos Enattos rafforza la candidatura congiunta di Sardegna e Sassonia a ospitare l'Einstein Telescope, il futuro osservatorio europeo di onde gravitazionali.",
+        "whyItMatters": "La proposta prevede due interferometri nei rispettivi territori, secondo una configurazione a doppia L, che un recente studio di oltre 200 esperti indica come vantaggiosa rispetto a quella triangolare.",
+        "confirmedFacts": [
+          "La visita dei ministri italiano e sassone al sito di Sos Enattos rafforza la candidatura congiunta di Sardegna e Sassonia a ospitare l'Einstein Telescope, il futuro osservatorio europeo di onde gravitazionali.",
+          "La proposta prevede due interferometri nei rispettivi territori, secondo una configurazione a doppia L, che un recente studio di oltre 200 esperti indica come vantaggiosa rispetto a quella triangolare."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Italia",
+          "Sassonia",
+          "Sardegna",
+          "Sos Enattos",
+          "Einstein Telescope"
+        ],
+        "numbersAndDates": [
+          "200"
+        ]
+      }
+    },
+    {
+      "id": "story-54634ebe3f1e93c7",
+      "title": "Due satelliti che ci mancavano",
+      "summary": "Scoperti due nuovi satelliti della Via Lattea. Si tratta di una piccola galassia e di un ammasso globulare, ribattezzati rispettivamente Acquarius IV e Rubin-Gc1. La scoperta è stata compiuta con il Vera Rubin Observatory nell'ambito della Large Survey of Space and Time. In futuro l'osservatorio potrebbe scoprire nuovi oggetti con caratteristiche simili, che fornirebbero importanti dettagli sulla materia oscura",
+      "spokenText": "Sono stati scoperti due nuovi satelliti della Via Lattea. Si tratta di una piccola galassia e di un ammasso globulare, ribattezzati rispettivamente Acquarius IV e Rubin-Gc1. La scoperta è stata compiuta grazie al Vera Rubin Observatory nell'ambito della Large Survey of Space and Time. In futuro, l'osservatorio potrebbe individuare nuovi oggetti con caratteristiche simili, fornendo dettagli utili sulla materia oscura.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "via lattea",
+        "acquarius iv",
+        "rubin gc1",
+        "vera rubin observatory",
+        "large survey of space and time"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 24,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/03/satelliti-acquarius-iv-rubin-gc1/"
+      },
+      "analysis": {
+        "mainFact": "Scoperti due nuovi satelliti della Via Lattea.",
+        "whyItMatters": "Si tratta di una piccola galassia e di un ammasso globulare, ribattezzati rispettivamente Acquarius IV e Rubin-Gc1.",
+        "confirmedFacts": [
+          "Scoperti due nuovi satelliti della Via Lattea.",
+          "Si tratta di una piccola galassia e di un ammasso globulare, ribattezzati rispettivamente Acquarius IV e Rubin-Gc1.",
+          "La scoperta è stata compiuta con il Vera Rubin Observatory nell'ambito della Large Survey of Space and Time."
+        ],
+        "uncertainties": [
+          "In futuro l'osservatorio potrebbe scoprire nuovi oggetti con caratteristiche simili, che fornirebbero importanti dettagli sulla materia oscura"
+        ],
+        "peopleAndOrganizations": [
+          "Via Lattea",
+          "Acquarius IV",
+          "Rubin-Gc1",
+          "Vera Rubin Observatory",
+          "Large Survey of Space and Time"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-d73fcec2ed1dcc54",
+      "title": "“L’AI provocherà la fine del mondo?” è la domanda sbagliata",
+      "summary": "Il dibattito sulle minacce potenziali rappresentate dall’AI ha assunto toni apocalittici: estinguerà la vita sulla Terra? Distruggerà l’umanità? La risposta è no. Ma l’intelligenza artificiale pone ri...",
+      "spokenText": "Il dibattito sulle minacce potenziali rappresentate dall’AI ha assunto toni apocalittici. Distruggerà l’umanità?",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "umanita"
+      ],
+      "importance": 92,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/lai-provochera-la-fine-del-mondo-e-la-domanda-sbagliata"
+      },
+      "analysis": {
+        "mainFact": "Il dibattito sulle minacce potenziali rappresentate dall’AI ha assunto toni apocalittici.",
+        "whyItMatters": "Distruggerà l’umanità?",
+        "confirmedFacts": [
+          "Il dibattito sulle minacce potenziali rappresentate dall’AI ha assunto toni apocalittici.",
+          "Distruggerà l’umanità?",
+          "Il dibattito sulle minacce potenziali rappresentate dall’AI ha assunto toni apocalittici: estinguerà la vita sulla Terra?"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "umanità"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-ab50f711f0791f7f",
+      "title": "Windows 11 renderizzato da una NPU: il progetto funziona, ma c'è un problema",
+      "summary": "Il gruppo di sviluppatori labscommunity ha pubblicato su GitHub npu-render, un driver sperimentale che fa renderizzare il desktop di Windows 11 alla NPU invece che alla GPU integrata. Il codice &egrav...",
+      "spokenText": "Il gruppo di sviluppatori labscommunity ha pubblicato su GitHub npu-render, un driver sperimentale che fa renderizzare il desktop di Windows 11 alla NPU invece che alla GPU integrata. Windows 11 renderizzato da una NPU: il progetto funziona, ma c'è un problema.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "labscommunity",
+        "github",
+        "windows 11",
+        "npu",
+        "gpu integrata"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 17,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/hardware/windows-11-renderizzato-da-una-npu-il-progetto-funziona-ma-ce-un-problema"
+      },
+      "analysis": {
+        "mainFact": "Il gruppo di sviluppatori labscommunity ha pubblicato su GitHub npu-render, un driver sperimentale che fa renderizzare il desktop di Windows 11 alla NPU invece che alla GPU integrata.",
+        "whyItMatters": "Windows 11 renderizzato da una NPU: il progetto funziona, ma c'è un problema",
+        "confirmedFacts": [
+          "Il gruppo di sviluppatori labscommunity ha pubblicato su GitHub npu-render, un driver sperimentale che fa renderizzare il desktop di Windows 11 alla NPU invece che alla GPU integrata.",
+          "Windows 11 renderizzato da una NPU: il progetto funziona, ma c'è un problema"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "labscommunity",
+          "GitHub",
+          "Windows 11",
+          "NPU",
+          "GPU integrata"
+        ],
+        "numbersAndDates": [
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "story-597c93bb9a8baef1",
+      "title": "Ha detto che i petardi potevano essere fatti esplodere solo tra le 06:00 e le 07:00",
+      "summary": "Ha detto che i petardi potevano essere fatti esplodere solo tra le 06:00 e le 07:00 ora locale (00:30-01:30 GMT) e tra le 20:00 e le 22:00 (14:30-16:30 GMT) il 7 e l'8 novembre, durante il weekend di Diwali.",
+      "spokenText": "Durante il weekend di Diwali, il 7 e l'8 novembre, i petardi potevano essere fatti esplodere solo tra le 06:00 e le 07:00 ora locale e tra le 20:00 e le 22:00. Per gestire la situazione, la Delhi Metro ha introdotto 20 viaggi ferroviari aggiuntivi nei giorni feriali e le autorità hanno invitato a scaglionare gli orari degli uffici governativi per alleviare la congestione del traffico. Il 24 ottobre, l'AQI di Mumbai aveva raggiunto 322, collocandosi nella categoria 'very poor'.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "delhi",
+        "mumbai",
+        "diwali",
+        "delhi metro"
+      ],
+      "importance": 62,
+      "mustInclude": false,
+      "estimatedSeconds": 32,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Ha detto che i petardi potevano essere fatti esplodere solo tra le 06:00 e le 07:00 ora locale (00:30-01:30 GMT) e tra le 20:00 e le 22:00 (14:30-16:30 GMT) il 7 e l'8 novembre, durante il weekend di Diwali.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Ha detto che i petardi potevano essere fatti esplodere solo tra le 06:00 e le 07:00 ora locale (00:30-01:30 GMT) e tra le 20:00 e le 22:00 (14:30-16:30 GMT) il 7 e l'8 novembre, durante il weekend di Diwali.",
+          "La Delhi Metro ha introdotto 20 viaggi ferroviari aggiuntivi nei giorni feriali, mentre le autorità sono state invitate a scaglionare gli orari degli uffici governativi per alleviare la congestione del traffico.",
+          "Il 24 ottobre, l'AQI di Mumbai aveva raggiunto 322, collocandosi nella categoria 'very poor'."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Delhi",
+          "Mumbai",
+          "Diwali",
+          "Delhi Metro"
+        ],
+        "numbersAndDates": [
+          "Ha detto che i petardi potevano essere fatti esplodere solo tra le 06:00 e le 07:00 ora locale (00:30-01:30 GMT) e tra le 20:00 e le 22:00 (14:30-16:30 GMT) il 7 e l'8 novembre, durante il weekend di Diwali.",
+          "La Delhi Metro ha introdotto 20 viaggi ferroviari aggiuntivi nei giorni feriali, mentre le autorità sono state invitate a scaglionare gli orari degli uffici governativi per alleviare la congestione del traffico.",
+          "Il 24 ottobre, l'AQI di Mumbai aveva raggiunto 322, collocandosi nella categoria 'very poor'.",
+          "06",
+          "00",
+          "07",
+          "30",
+          "01",
+          "20",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "story-cf2bc3efb329cf18",
+      "title": "L’inflazione nella zona euro ha raggiunto il livello più alto degli ultimi tre anni",
+      "summary": "L’inflazione nella zona euro ha raggiunto il livello più alto degli ultimi tre anni il mese scorso (ottobre), a causa dell’aumento dei prezzi dell’energia, ed è...",
+      "spokenText": "L'inflazione nella zona euro ha raggiunto il livello più alto degli ultimi tre anni il mese scorso (ottobre), a causa dell'aumento dei prezzi dell'energia. L'inflazione è salita rapidamente al di sopra dell'obiettivo del 2% fissato dalla Bce quest'anno, poiché la guerra degli Stati Uniti in Iran ha spinto al rialzo i costi dell'energia, con conseguenti ripercussioni sui prezzi al dettaglio in un blocco che importa la stragrande maggioranza del suo fabbisogno energetico. L’inflazione “core”, un dato più attentamente monitorato che esclude i prezzi volatili di cibo ed energia, è rimasta stabile al 2,5%, in linea con le aspettative. I mercati finanziari prevedono tra due e tre rialzi del tasso di interesse sui depositi della Bce, attualmente al 2,5%, nel corso del prossimo anno, con aspettative che cambiano frequentemente, in parallelo con l’andamento dei prezzi del petrolio. L’ inflazione alimentare ha continuato ad accelerare, con i prezzi dei prodotti alimentari non trasformati in aumento del 4,6% rispetto all’anno precedente. La Bce prevede ora che l’inflazione si mantenga al di sopra del 4% per gran parte della prima metà del 2027, prima di scendere rapidamente verso valori intorno al 2%, quando i dati più elevati dell’anno precedente verranno eliminati.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "zona euro",
+        "bce",
+        "stati uniti",
+        "iran"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 79,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/eurozona-stima-inflazione-4percento-annuo-ottobre-crescita-38percento-AJ8ecI4B"
+      },
+      "analysis": {
+        "mainFact": "L'inflazione nella zona euro ha raggiunto il livello più alto degli ultimi tre anni il mese scorso (ottobre), a causa dell'aumento dei prezzi dell'energia.",
+        "whyItMatters": "L'inflazione è salita rapidamente al di sopra dell'obiettivo del 2% fissato dalla Bce quest'anno, poiché la guerra degli Stati Uniti in Iran ha spinto al rialzo i costi dell'energia, con conseguenti ripercussioni sui prezzi al dettaglio in un blocco che importa la stragrande maggioranza del suo fabbisogno energetico.",
+        "confirmedFacts": [
+          "L'inflazione nella zona euro ha raggiunto il livello più alto degli ultimi tre anni il mese scorso (ottobre), a causa dell'aumento dei prezzi dell'energia.",
+          "L'inflazione è salita rapidamente al di sopra dell'obiettivo del 2% fissato dalla Bce quest'anno, poiché la guerra degli Stati Uniti in Iran ha spinto al rialzo i costi dell'energia, con conseguenti ripercussioni sui prezzi al dettaglio in un blocco che importa la stragrande maggioranza del suo fabbisogno energetico.",
+          "L’inflazione “core”, un dato più attentamente monitorato che esclude i prezzi volatili di cibo ed energia, è rimasta stabile al 2,5%, in linea con le aspettative.",
+          "I mercati finanziari prevedono tra due e tre rialzi del tasso di interesse sui depositi della Bce, attualmente al 2,5%, nel corso del prossimo anno, con aspettative che cambiano frequentemente, in parallelo con l’andamento dei prezzi del petrolio.",
+          "L’ inflazione alimentare ha continuato ad accelerare, con i prezzi dei prodotti alimentari non trasformati in aumento del 4,6% rispetto all’anno precedente.",
+          "La Bce prevede ora che l’inflazione si mantenga al di sopra del 4% per gran parte della prima metà del 2027, prima di scendere rapidamente verso valori intorno al 2%, quando i dati più elevati dell’anno precedente verranno eliminati."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "zona euro",
+          "Bce",
+          "Stati Uniti",
+          "Iran"
+        ],
+        "numbersAndDates": [
+          "L’inflazione “core”, un dato più attentamente monitorato che esclude i prezzi volatili di cibo ed energia, è rimasta stabile al 2,5%, in linea con le aspettative.",
+          "I mercati finanziari prevedono tra due e tre rialzi del tasso di interesse sui depositi della Bce, attualmente al 2,5%, nel corso del prossimo anno, con aspettative che cambiano frequentemente, in parallelo con l’andamento dei prezzi del petrolio.",
+          "L’ inflazione alimentare ha continuato ad accelerare, con i prezzi dei prodotti alimentari non trasformati in aumento del 4,6% rispetto all’anno precedente.",
+          "La Bce prevede ora che l’inflazione si mantenga al di sopra del 4% per gran parte della prima metà del 2027, prima di scendere rapidamente verso valori intorno al 2%, quando i dati più elevati dell’anno precedente verranno eliminati.",
+          "2"
         ]
       }
     },
@@ -618,49 +614,48 @@
       "id": "story-6f73b1bd5bd131c6",
       "title": "La battaglia per l’indipendenza dei giudici e lo Stato di diritto",
       "summary": "Perché è scoppiata la resa dei conti sul Tribunale Costituzionale in Polonia: scontro aperto tra Tusk e il presidente Nawrocki tra accuse di golpe e difesa dello Stato di diritto. Cosa sta succedendo a Varsavia.",
-      "spokenText": "È scoppiato uno scontro aperto tra il governo di Donald Tusk e il presidente della Repubblica Nawrocki sul Tribunale Costituzionale in Polonia, con reciproche accuse di golpe e difesa dello Stato di diritto. Venerdì 30 ottobre, verso le sei di sera, sul sito del Tribunale Costituzionale polacco è comparso un comunicato che sospende momentaneamente le funzioni del presidente Bogdan Święczkowski e del suo vice Bartłomiej Sochański. Nel corso del 2026 il Sejm ha eletto otto giudici costituzionali per coprire altrettanti posti vacanti. Per capire come si sia arrivati a questi fatti bisogna tornare all'ottobre 2015, alla vigilia delle elezioni parlamentari che portarono alla vittoria di Diritto e Giustizia, dando inizio a undici anni di conflitto.",
+      "spokenText": "Scontro aperto tra il governo di Donald Tusk e il presidente Nawrocki sul Tribunale Costituzionale in Polonia. Venerdì 30 ottobre, verso le sei di sera, sul sito del Tribunale Costituzionale polacco è comparso il seguente comunicato: “Le funzioni del presidente Bogdan Święczkowski e del suo vice Bartłomiej Sochański sono momentaneamente sospese”. Nel corso del 2026 il Sejm ha eletto - come da sua prerogativa - otto giudici costituzionali, destinati a coprire altrettanti posti vacanti. Undici anni di conflitto Per capire come si sia arrivati ai fatti di questo fine settimana bisogna tornare all’ottobre 2015 , alla vigilia delle elezioni parlamentari che avrebbero portato alla vittoria travolgente di Diritto e Giustizia.",
       "category": "diritti",
       "tags": [
         "diritti",
+        "polonia",
         "donald tusk",
         "nawrocki",
         "tribunale costituzionale polacco",
         "bogdan swieczkowski",
         "bart omiej sochanski",
-        "sejm",
         "diritto e giustizia"
       ],
-      "importance": 82,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 46,
+      "estimatedSeconds": 44,
       "source": {
         "name": "Valigia Blu",
         "url": "https://www.valigiablu.it/crisi-polonia-giudici-tribunale-costituzionale/"
       },
       "analysis": {
-        "mainFact": "È scoppiato uno scontro aperto tra il governo di Donald Tusk e il presidente della Repubblica Nawrocki sul Tribunale Costituzionale in Polonia, con accuse di golpe e difesa dello Stato di diritto.",
-        "whyItMatters": "Venerdì 30 ottobre, verso le sei di sera, sul sito del Tribunale Costituzionale polacco è comparso un comunicato che sospende momentaneamente le funzioni del presidente Bogdan Święczkowski e del suo vice Bartłomiej Sochański.",
+        "mainFact": "Scontro aperto tra il governo di Donald Tusk e il presidente Nawrocki sul Tribunale Costituzionale in Polonia.",
+        "whyItMatters": "Scontro sull'indipendenza giudiziaria e Stato di diritto in Polonia.",
         "confirmedFacts": [
-          "È scoppiato uno scontro aperto tra il governo di Donald Tusk e il presidente della Repubblica Nawrocki sul Tribunale Costituzionale in Polonia, con accuse di golpe e difesa dello Stato di diritto.",
-          "Venerdì 30 ottobre, verso le sei di sera, sul sito del Tribunale Costituzionale polacco è comparso un comunicato che sospende momentaneamente le funzioni del presidente Bogdan Święczkowski e del suo vice Bartłomiej Sochański.",
+          "Scontro aperto tra il governo di Donald Tusk e il presidente Nawrocki sul Tribunale Costituzionale in Polonia.",
+          "Scontro sull'indipendenza giudiziaria e Stato di diritto in Polonia.",
+          "Venerdì 30 ottobre, verso le sei di sera, sul sito del Tribunale Costituzionale polacco è comparso il seguente comunicato: “Le funzioni del presidente Bogdan Święczkowski e del suo vice Bartłomiej Sochański sono momentaneamente sospese”.",
           "Nel corso del 2026 il Sejm ha eletto - come da sua prerogativa - otto giudici costituzionali, destinati a coprire altrettanti posti vacanti.",
-          "Undici anni di conflitto Per capire come si sia arrivati ai fatti di questo fine settimana bisogna tornare all’ottobre 2015 , alla vigilia delle elezioni parlamentari che avrebbero portato alla vittoria travolgente di Diritto e Giustizia.",
-          "Di cosa parliamo in questo articolo: La causa della crisi All’origine di questa crisi c’è lo scontro sempre più aspro tra il governo di Donald Tusk e il presidente della Repubblica Nawrocki."
+          "Undici anni di conflitto Per capire come si sia arrivati ai fatti di questo fine settimana bisogna tornare all’ottobre 2015 , alla vigilia delle elezioni parlamentari che avrebbero portato alla vittoria travolgente di Diritto e Giustizia."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
+          "Polonia",
           "Donald Tusk",
           "Nawrocki",
           "Tribunale Costituzionale polacco",
           "Bogdan Święczkowski",
           "Bartłomiej Sochański",
-          "Sejm",
           "Diritto e Giustizia"
         ],
         "numbersAndDates": [
           "Nel corso del 2026 il Sejm ha eletto - come da sua prerogativa - otto giudici costituzionali, destinati a coprire altrettanti posti vacanti.",
-          "Undici anni di conflitto Per capire come si sia arrivati ai fatti di questo fine settimana bisogna tornare all’ottobre 2015 , alla vigilia delle elezioni parlamentari che avrebbero portato alla vittoria travolgente di Diritto e Giustizia.",
-          "30"
+          "Undici anni di conflitto Per capire come si sia arrivati ai fatti di questo fine settimana bisogna tornare all’ottobre 2015 , alla vigilia delle elezioni parlamentari che avrebbero portato alla vittoria travolgente di Diritto e Giustizia."
         ]
       }
     }
