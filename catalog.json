@@ -1,634 +1,668 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-05-4ab942800c5b",
-  "generatedAt": "2026-11-05T13:53:15.326Z",
+  "catalogId": "daily-quid-2026-11-08-dc672871ed7c",
+  "generatedAt": "2026-11-08T12:39:10.774Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-770fd34a5fa58de2",
-      "title": "Tumori ginecologici, test del Dna svela alterazioni dalla nascita in 10% delle pazienti",
-      "summary": "Studio al Gemelli, individuata una condizione di predisposizione a uno o più neoplasie. Scoperta porta a cure di precisione",
-      "spokenText": "Uno studio pubblicato sulla rivista Genome Medicine ha analizzato, nei primi due anni del programma, circa duemilasettecento campioni di pazienti con tumori, prevalentemente dell'endometrio e dell'ovaio. Tracciando l'identikit genetico delle pazienti con un test su oltre cinquecento geni, i ricercatori del Gemelli hanno individuato alterazioni predisponenti ai tumori ginecologici presenti sin dalla nascita in una paziente su dieci. Queste mutazioni si trovano anche nel Dna delle cellule sane, segno di una condizione ereditaria. In circa un terzo dei casi, questa predisposizione genetica non sarebbe stata riconosciuta con il percorso diagnostico standard.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "genome medicine"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/05/tumori-ginecologici-test-dna-svela-alterazioni-dalla-nascita-in-10-pazienti_85ad2ac0-a976-474e-9db1-6377820791f8.html"
-      },
-      "analysis": {
-        "mainFact": "Uno studio al Gemelli ha individuato, tramite test del DNA su oltre 500 geni, alterazioni genetiche predisponenti ai tumori ginecologici presenti dalla nascita in una paziente su 10.",
-        "whyItMatters": "Si può dunque dire che in una paziente su 10 è stata individuata una condizione di predisposizione a uno o più tumori su base genetica, un terzo dei quali probabilmente non sarebbe stato riconosciuto con il percorso diagnostico standard.",
-        "confirmedFacts": [
-          "Uno studio al Gemelli ha individuato, tramite test del DNA su oltre 500 geni, alterazioni genetiche predisponenti ai tumori ginecologici presenti dalla nascita in una paziente su 10.",
-          "Si può dunque dire che in una paziente su 10 è stata individuata una condizione di predisposizione a uno o più tumori su base genetica, un terzo dei quali probabilmente non sarebbe stato riconosciuto con il percorso diagnostico standard.",
-          "Tracciando l'identikit genetico di pazienti con tumori ginecologici con un test su oltre 500 geni, è emerso che una su dieci tra le pazienti esaminate presenta sin dalla nascita alterazioni genetiche (mutazioni) predisponenti il tumore, infatti queste mutazioni si trovano anche nel Dna delle cellule sane del paziente.",
-          "Pubblicato sulla rivista Genome Medicine, il lavoro si basa sul sequenziamento di oltre 500 geni delle pazienti coinvolte.",
-          "Nei primi due anni del programma i clinici hanno analizzato circa 2700 campioni di pazienti con tumori in maggioranza ginecologici (endometrio e ovaio)."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Genome Medicine"
-        ],
-        "numbersAndDates": [
-          "Tracciando l'identikit genetico di pazienti con tumori ginecologici con un test su oltre 500 geni, è emerso che una su dieci tra le pazienti esaminate presenta sin dalla nascita alterazioni genetiche (mutazioni) predisponenti il tumore, infatti queste mutazioni si trovano anche nel Dna delle cellule sane del paziente.",
-          "Pubblicato sulla rivista Genome Medicine, il lavoro si basa sul sequenziamento di oltre 500 geni delle pazienti coinvolte.",
-          "Nei primi due anni del programma i clinici hanno analizzato circa 2700 campioni di pazienti con tumori in maggioranza ginecologici (endometrio e ovaio).",
-          "500",
-          "10"
-        ]
-      }
-    },
-    {
-      "id": "story-613e7c2474a76b6a",
-      "title": "Mamma con tumore al pancreas, impegno della Lombardia per farle arrivare la cura dagli Usa",
-      "summary": "Mamma con tumore al pancreas, impegno della Lombardia per farle arrivare la cura dagli Usa",
-      "spokenText": "Mamma con tumore al pancreas, impegno della Lombardia per farle arrivare la cura dagli Usa.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "bertolaso"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_a72d25b1-51f3-4072-abca-3910d48b3625.html"
-      },
-      "analysis": {
-        "mainFact": "Mamma con tumore al pancreas, impegno della Lombardia per farle arrivare la cura dagli Usa",
-        "whyItMatters": "Cura per tumore al pancreas con intervento istituzionale, alta utilità sanitaria.",
-        "confirmedFacts": [
-          "Mamma con tumore al pancreas, impegno della Lombardia per farle arrivare la cura dagli Usa",
-          "Cura per tumore al pancreas con intervento istituzionale, alta utilità sanitaria.",
-          "Bertolaso: 'Doveroso essere impegnati per dare risposte a chi è in questa situazione'"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Bertolaso"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-d0642e4c7e3807d8",
-      "title": "Quanto ci costa dipendere dai combustibili fossili",
-      "summary": "Il 74 per cento dell’energia che usiamo arriva dall’estero, e il conto si paga anche senza disastri climatici: nei prezzi del cibo spinti da caldo e siccità, in bollette e carburanti che pesano di più sulle famiglie con meno reddito, negli investimenti frenati e nel costo del debito pubblico. Chi ci perde e chi ci guadagna negli shock energetici, perché uno sconto alla pompa non basta e come si confrontano i costi della transizione con quelli del sistema attuale.",
-      "spokenText": "Il 74 per cento dell'energia che usiamo arriva dall'estero, e il conto si paga anche senza disastri climatici. I prezzi dell'energia sono cresciuti del 22,6 per cento rispetto a un anno prima a settembre 2026, mentre l'inflazione di fondo si è fermata all'1,6 per cento. Secondo l’OCSE, nel 2024 il 74 per cento dell’energia consumata in Italia proveniva dall’estero . Chi dedica gran parte del reddito a cibo, bollette e carburanti ha meno margine per assorbire i rincari; spesso ha anche meno risorse per isolare l’abitazione, installare il fotovoltaico o sostituire un veicolo energivoro. Chi ci perde e chi ci guadagna negli shock energetici, perché uno sconto alla pompa non basta e come si confrontano i costi della transizione con quelli del sistema attuale. Ci sono però costi meno immediati. Dove la copertura assicurativa manca, il costo ricade sulle famiglie, sulle imprese o sul bilancio pubblico.",
+      "id": "story-047dcb0c4e21c85d",
+      "title": "Alluvione Misa 2022, quattro anni dopo: cosa si è capito e cosa manca",
+      "summary": "Ieri si è tenuto un convegno a quattro anni dall’alluvione del Misa, nelle Marche, che ha fatto il punto su quanto fatto da ricerca e istituzioni. Molto del lavoro è stato fatto su base volontaristica, e già questo dovrebbe bastare per apprezzare gli studi fatti e accelerare su ricostruzione e messa in sicurezza. Il discorso vale per tutti gli eventi analoghi che capiteranno in Italia nel prossimo futuro.",
+      "spokenText": "Ieri si è tenuto un convegno a quattro anni dall'alluvione del Misa, nelle Marche, per fare il punto su quanto fatto da ricerca e istituzioni. Molto del lavoro è stato svolto su base volontaristica, un dato che dovrebbe spingere ad apprezzare gli studi realizzati e ad accelerare su ricostruzione e messa in sicurezza. Per ripercorrere l'evento, è disponibile il sito dedicato all'alluvione del 2022 sviluppato da Zadig, che raccoglie tutto ciò che si sa sul Misa, comprese interviste agli esperti e database con i dati disponibili. Sul comportamento dei sedimenti, è stato ricordato il raro fenomeno per cui anche i massi sono entrati in sospensione durante l'alluvione, tema approfondito in un articolo pubblicato su Scienza in rete. Il rilievo si è svolto tra ottobre e novembre 2022, prima che i lavori di ripristino cancellassero le tracce, attraverso tre fasi: preparazione di schede e mappe, rilievo sul campo e creazione del database. Nel bacino del Misa è stato ispezionato circa il 68 per cento dei ponti esposti, danneggiati e integri, per garantire significatività statistica.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "italia",
-        "ocse"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 59,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/costo-dipendenza-combustibili-fossili/"
-      },
-      "analysis": {
-        "mainFact": "Il 74 per cento dell'energia che usiamo arriva dall'estero, e il conto si paga anche senza disastri climatici",
-        "whyItMatters": "I prezzi dell'energia sono cresciuti del 22,6 per cento rispetto a un anno prima a settembre 2026, mentre l'inflazione di fondo si è fermata all'1,6 per cento.",
-        "confirmedFacts": [
-          "Il 74 per cento dell'energia che usiamo arriva dall'estero, e il conto si paga anche senza disastri climatici",
-          "I prezzi dell'energia sono cresciuti del 22,6 per cento rispetto a un anno prima a settembre 2026, mentre l'inflazione di fondo si è fermata all'1,6 per cento.",
-          "Secondo l’OCSE, nel 2024 il 74 per cento dell’energia consumata in Italia proveniva dall’estero .",
-          "Chi dedica gran parte del reddito a cibo, bollette e carburanti ha meno margine per assorbire i rincari; spesso ha anche meno risorse per isolare l’abitazione, installare il fotovoltaico o sostituire un veicolo energivoro.",
-          "Chi ci perde e chi ci guadagna negli shock energetici, perché uno sconto alla pompa non basta e come si confrontano i costi della transizione con quelli del sistema attuale.",
-          "Ci sono però costi meno immediati.",
-          "Dove la copertura assicurativa manca, il costo ricade sulle famiglie, sulle imprese o sul bilancio pubblico."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Italia",
-          "OCSE"
-        ],
-        "numbersAndDates": [
-          "Secondo l’OCSE, nel 2024 il 74 per cento dell’energia consumata in Italia proveniva dall’estero .",
-          "74",
-          "22,6",
-          "2026",
-          "1,6"
-        ]
-      }
-    },
-    {
-      "id": "story-63895b66391ff7c1",
-      "title": "AMD pagherà 2,9 miliardi di dollari per Taalas: cosa cambia nell'AI",
-      "summary": "AMD ha reso noto il valore dell'acquisizione di Taalas: 2,9 miliardi di dollari, attraverso un pagamento in contanti e azioni. Il prezzo emerge da un documento depositato presso le autorità di vigilan...",
-      "spokenText": "AMD pagherà 2,9 miliardi di dollari per Taalas.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "amd",
-        "taalas"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 4,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/hardware/amd-paghera-29-miliardi-di-dollari-per-taalas-cosa-cambia-nellai"
-      },
-      "analysis": {
-        "mainFact": "AMD pagherà 2,9 miliardi di dollari per Taalas",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "AMD pagherà 2,9 miliardi di dollari per Taalas",
-          "AMD ha reso noto il valore dell'acquisizione di Taalas: 2,9 miliardi di dollari, attraverso un pagamento in contanti e azioni."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "AMD",
-          "Taalas"
-        ],
-        "numbersAndDates": [
-          "2,9"
-        ]
-      }
-    },
-    {
-      "id": "story-c1f2dc7fc50f9879",
-      "title": "Attento a ciò che desideri: l'oracolo dell'IA e il futuro della matematica",
-      "summary": "L&rsquo;intelligenza artificiale risolve problemi matematici rimasti aperti per decenni, ma chi è in grado di verificare e comprendere le sue dimostrazioni? Mentre le grandi aziende tecnologiche annunciano risultati sempre più spettacolari, la comunità matematica si interroga sul futuro della propria disciplina. Non è in gioco soltanto la capacità di distinguere una soluzione corretta da una sbagliata, ma il significato stesso della conoscenza, la formazione delle nuove generazioni e l&rsquo;indipendenza della ricerca. La matematica è il canarino nella miniera: quello che le accade oggi potrebbe presto riguardare tutti i saperi.",
-      "spokenText": "Ma chi è in grado di verificare e comprendere le sue dimostrazioni? Non è in gioco soltanto la capacità di distinguere una soluzione corretta da una sbagliata, ma il significato stesso della conoscenza, la formazione delle nuove generazioni e l'indipendenza della ricerca. L’11 settembre, tre giorni dopo l’annuncio su Navier-Stokes, venticinque medaglie Fields hanno firmato una lettera aperta intitolata “Un grave disallineamento dell’IA in matematica”. Giorgio Venturi, docente di Filosofia della matematica all’Università di Pisa, individua una fonte dell’equivoco: «Queste nuove intelligenze artificiali sono basate su analisi statistiche del linguaggio che hanno poco a che fare con la deduzione logica come i logici l’hanno formalizzata». Mentre le grandi aziende tecnologiche annunciano risultati sempre più spettacolari, la comunità matematica si interroga sul futuro della propria disciplina. La matematica è il canarino nella miniera: quello che le accade oggi potrebbe presto riguardare tutti i saperi. “Attento a ciò che desideri, potresti rischiare di ottenerlo”, recita un vecchio detto.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "intelligenza artificiale",
-        "comunita matematica",
-        "giorgio venturi",
-        "medaglie fields"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 63,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/attento-cio-desideri-loracolo-dellia-futuro-matematica/"
-      },
-      "analysis": {
-        "mainFact": "ma chi è in grado di verificare e comprendere le sue dimostrazioni?",
-        "whyItMatters": "Non è in gioco soltanto la capacità di distinguere una soluzione corretta da una sbagliata, ma il significato stesso della conoscenza, la formazione delle nuove generazioni e l'indipendenza della ricerca.",
-        "confirmedFacts": [
-          "ma chi è in grado di verificare e comprendere le sue dimostrazioni?",
-          "Non è in gioco soltanto la capacità di distinguere una soluzione corretta da una sbagliata, ma il significato stesso della conoscenza, la formazione delle nuove generazioni e l'indipendenza della ricerca.",
-          "L’11 settembre, tre giorni dopo l’annuncio su Navier-Stokes, venticinque medaglie Fields hanno firmato una lettera aperta intitolata “Un grave disallineamento dell’IA in matematica”.",
-          "Giorgio Venturi, docente di Filosofia della matematica all’Università di Pisa, individua una fonte dell’equivoco: «Queste nuove intelligenze artificiali sono basate su analisi statistiche del linguaggio che hanno poco a che fare con la deduzione logica come i logici l’hanno formalizzata».",
-          "Mentre le grandi aziende tecnologiche annunciano risultati sempre più spettacolari, la comunità matematica si interroga sul futuro della propria disciplina.",
-          "“Attento a ciò che desideri, potresti rischiare di ottenerlo”, recita un vecchio detto."
-        ],
-        "uncertainties": [
-          "La matematica è il canarino nella miniera: quello che le accade oggi potrebbe presto riguardare tutti i saperi."
-        ],
-        "peopleAndOrganizations": [
-          "intelligenza artificiale",
-          "comunità matematica",
-          "Giorgio Venturi",
-          "medaglie Fields"
-        ],
-        "numbersAndDates": [
-          "L’11 settembre, tre giorni dopo l’annuncio su Navier-Stokes, venticinque medaglie Fields hanno firmato una lettera aperta intitolata “Un grave disallineamento dell’IA in matematica”."
-        ]
-      }
-    },
-    {
-      "id": "story-34147d642620e384",
-      "title": "Dove osa l’astrofisica: i Prin Inaf 2026",
-      "summary": "Dall’intelligenza artificiale applicata all’astrofisica e alle neuroscienze fino allo studio delle onde gravitazionali e alla cosmologia di precisione: sono i temi di cinque progetti con la partecipazione dell’Istituto nazionale di astrofisica ammessi al finanziamento nei bandi Prin 2026 e Prin Hybrid del Ministero dell’Università e della Ricerca per un totale di oltre cinque milioni di euro",
-      "spokenText": "Cinque progetti che vedono la partecipazione dell'Istituto nazionale di astrofisica sono stati ammessi al finanziamento nei bandi Prin 2026 e Prin Hybrid del Ministero dell'Università e della Ricerca, per un totale di oltre cinque milioni di euro. Le iniziative riguardano l'intelligenza artificiale applicata all'astrofisica e alle neuroscienze, le onde gravitazionali e la cosmologia di precisione.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "istituto nazionale di astrofisica",
-        "ministero dell universita e della ricerca",
-        "prin 2026",
-        "prin hybrid"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 22,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/05/prin-inaf-2026/"
-      },
-      "analysis": {
-        "mainFact": "Cinque progetti con la partecipazione dell'Istituto nazionale di astrofisica sono ammessi al finanziamento nei bandi Prin 2026 e Prin Hybrid del Ministero dell'Università e della Ricerca per un totale di oltre cinque milioni di euro.",
-        "whyItMatters": "I progetti riguardano intelligenza artificiale applicata all'astrofisica e alle neuroscienze, onde gravitazionali e cosmologia di precisione.",
-        "confirmedFacts": [
-          "Cinque progetti con la partecipazione dell'Istituto nazionale di astrofisica sono ammessi al finanziamento nei bandi Prin 2026 e Prin Hybrid del Ministero dell'Università e della Ricerca per un totale di oltre cinque milioni di euro.",
-          "I progetti riguardano intelligenza artificiale applicata all'astrofisica e alle neuroscienze, onde gravitazionali e cosmologia di precisione.",
-          "Dall’intelligenza artificiale applicata all’astrofisica e alle neuroscienze fino allo studio delle onde gravitazionali e alla cosmologia di precisione:",
-          "sono i temi di cinque progetti con la partecipazione dell’Istituto nazionale di astrofisica ammessi al finanziamento nei bandi Prin 2026 e Prin Hybrid del Ministero dell’Università e della Ricerca per un totale di oltre cinque milioni di euro"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Istituto nazionale di astrofisica",
-          "Ministero dell'Università e della Ricerca",
-          "Prin 2026",
-          "Prin Hybrid"
-        ],
-        "numbersAndDates": [
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-d410da73cbbc19bc",
-      "title": "I frigoriferi hackerati in Europa e l’ombra del Cremlino",
-      "summary": "Banchi frigo manomessi da remoto in tutta Europa: merci da buttare e falle di sicurezza banali. Nessuno ha ancora rivendicato gli attacchi ai frigoriferi europei, ma chi lo ha fatto in passato è legato all’intelligence militare russa.",
-      "spokenText": "Banchi frigo manomessi da remoto in tutta Europa: merci da buttare e falle di sicurezza banali. A raccontarlo all'ANSA è Giuseppe Spadaro, direttore generale del gruppo Radenza, che gestisce i negozi colpiti: i banchi si sono scaldati e la merce è andata persa. Dal gennaio 2026 Forescout ha documentato oltre 20 attacchi rivendicati contro impianti di refrigerazione, celle per la frutta, cantine vinicole e aziende agroalimentari, sempre agendo sulle interfacce esposte per alterare temperature e cicli di sbrinamento. Nessuno ha ancora rivendicato gli attacchi più recenti, ma chi ha agito in passato è legato all'intelligence militare russa. Per le indagini, l'operazione Eastwood ha visto, fra il 14 e il 17 luglio, la Germania emettere sei mandati di arresto per crimini informatici verso persone residenti in Russia. Il governo francese ha contato 700 supermercati colpiti: in circa 150 negozi del gruppo Intermarché i frigoriferi sono rimasti a 50 gradi per sei ore.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "banchi frigo",
-        "europa",
-        "intelligence militare russa",
-        "ansa",
-        "giuseppe spadaro",
-        "gruppo radenza",
-        "intermarche",
-        "governo francese",
-        "forescout"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 61,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/attacco-hacker-frigoriferi-europa-russia/"
-      },
-      "analysis": {
-        "mainFact": "Banchi frigo manomessi da remoto in tutta Europa: merci da buttare e falle di sicurezza banali.",
-        "whyItMatters": "I banchi si sono scaldati e la merce è da buttare, ha detto all’ ANSA Giuseppe Spadaro, direttore generale del gruppo Radenza che gestisce quei negozi.",
-        "confirmedFacts": [
-          "Banchi frigo manomessi da remoto in tutta Europa: merci da buttare e falle di sicurezza banali.",
-          "I banchi si sono scaldati e la merce è da buttare, ha detto all’ ANSA Giuseppe Spadaro, direttore generale del gruppo Radenza che gestisce quei negozi.",
-          "Nessuno ha ancora rivendicato gli attacchi ai frigoriferi europei, ma chi lo ha fatto in passato è legato all’intelligence militare russa.",
-          "Nessuno di questi attacchi in Francia o in mezza Europa il 2 novembre per ora è stato rivendicato né tantomeno in collegamento con quello che è accaduto in passato.",
-          "Il governo francese ha contato 700 supermercati colpiti: in circa 150 negozi del gruppo Intermarché i frigoriferi sono rimasti a 50 gradi per sei ore.",
-          "In Europa contro di loro c’è stata l’operazione Eastwood: fra il 14 e il 17 luglio la Germania ha emesso sei mandati di arresto per crimini informatici verso persone che vivono in Russia.",
-          "Dal gennaio 2026 Forescout ha contato oltre 20 attacchi rivendicati contro impianti di refrigerazione in Europa, celle per la frutta, cantine vinicole, supermercati e aziende agroalimentari, sempre cambiando temperature e cicli di sbrinamento dalle interfacce esposte."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "banchi frigo",
-          "Europa",
-          "intelligence militare russa",
-          "ANSA",
-          "Giuseppe Spadaro",
-          "gruppo Radenza",
-          "Intermarché",
-          "governo francese",
-          "Forescout",
-          "operazione Eastwood",
-          "Germania"
-        ],
-        "numbersAndDates": [
-          "Nessuno di questi attacchi in Francia o in mezza Europa il 2 novembre per ora è stato rivendicato né tantomeno in collegamento con quello che è accaduto in passato.",
-          "Il governo francese ha contato 700 supermercati colpiti: in circa 150 negozi del gruppo Intermarché i frigoriferi sono rimasti a 50 gradi per sei ore.",
-          "In Europa contro di loro c’è stata l’operazione Eastwood: fra il 14 e il 17 luglio la Germania ha emesso sei mandati di arresto per crimini informatici verso persone che vivono in Russia.",
-          "Dal gennaio 2026 Forescout ha contato oltre 20 attacchi rivendicati contro impianti di refrigerazione in Europa, celle per la frutta, cantine vinicole, supermercati e aziende agroalimentari, sempre cambiando temperature e cicli di sbrinamento dalle interfacce esposte."
-        ]
-      }
-    },
-    {
-      "id": "story-dfd9bdf524fad580",
-      "title": "Gemello digitale per svelare esopianeti nascosti",
-      "summary": "Un team di ricercatori guidati dalla Northwestern University ha sviluppato una tecnica computazionale per l'imaging diretto dei pianeti extrasolari in grado di eliminare il bagliore residuo delle stelle madri. Il metodo si basa su un concetto simile a quello del \"gemello digitale\" (la rappresentazione virtuale di un oggetto reale). Lo studio è pubblicato su Nature",
-      "spokenText": "Un team di ricercatori guidato dalla Northwestern University ha sviluppato una tecnica computazionale per l'imaging diretto degli esopianeti, capace di eliminare il bagliore residuo delle stelle madri. Lo studio è stato pubblicato su Nature e introduce l'uso di un gemello digitale per migliorare l'osservazione di questi mondi lontani.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "northwestern university",
-        "nature",
-        "esopianeti",
-        "gemello digitale"
+        "alluvione del misa",
+        "marche",
+        "convegno",
+        "zadig",
+        "scienza in rete"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 20,
+      "estimatedSeconds": 70,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/04/un-gemello-digitale-per-svelare-esopianeti-nascosti/"
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/alluvione-misa-quattro-anni-dopo-convegno-ostra/"
       },
       "analysis": {
-        "mainFact": "Un team di ricercatori guidati dalla Northwestern University ha sviluppato una tecnica computazionale per l'imaging diretto dei pianeti extrasolari in grado di eliminare il bagliore residuo delle stelle madri.",
-        "whyItMatters": "Lo studio è pubblicato su Nature",
+        "mainFact": "Ieri si è tenuto un convegno a quattro anni dall’alluvione del Misa, nelle Marche, che ha fatto il punto su quanto fatto da ricerca e istituzioni.",
+        "whyItMatters": "Molto del lavoro è stato fatto su base volontaristica, e già questo dovrebbe bastare per apprezzare gli studi fatti e accelerare su ricostruzione e messa in sicurezza.",
         "confirmedFacts": [
-          "Un team di ricercatori guidati dalla Northwestern University ha sviluppato una tecnica computazionale per l'imaging diretto dei pianeti extrasolari in grado di eliminare il bagliore residuo delle stelle madri.",
-          "Lo studio è pubblicato su Nature"
+          "Ieri si è tenuto un convegno a quattro anni dall’alluvione del Misa, nelle Marche, che ha fatto il punto su quanto fatto da ricerca e istituzioni.",
+          "Molto del lavoro è stato fatto su base volontaristica, e già questo dovrebbe bastare per apprezzare gli studi fatti e accelerare su ricostruzione e messa in sicurezza.",
+          "Segnaliamo che per ripercorrere l’evento può essere utile il sito dedicato all’alluvione del 2022 sviluppato da Zadig , che raccoglie tutto ciò che si sa sul Misa, comprese alcune interviste agli esperti ed esperte coinvolti e database con i dati al momento disponibili.",
+          "Sul comportamento dei sedimenti, nello specifico, avevamo pubblicato su Scienza in rete l’articolo Misa 2022: un’alluvione che ha spostato anche i sassi dove si racconta il raro fenomeno per cui anche i massi sono entrati in sospensione durante l’alluvione, come è stato ricordato anche durante il convegno.",
+          "Il rilievo si è svolto soprattutto tra ottobre e novembre 2022, prima che i lavori di ripristino cancellassero le tracce, in tre fasi: preparazione di schede e mappe, rilievo sul campo e creazione del database.",
+          "Nel bacino del Misa è stato ispezionato circa il 68 per cento dei ponti esposti, danneggiati e integri, per avere significatività statistica.",
+          "Alluvione Misa 2022, quattro anni dopo: cosa si è capito e cosa manca"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Northwestern University",
-          "Nature",
-          "esopianeti",
-          "gemello digitale"
+          "alluvione del Misa",
+          "Marche",
+          "convegno",
+          "Zadig",
+          "Scienza in rete"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "Segnaliamo che per ripercorrere l’evento può essere utile il sito dedicato all’alluvione del 2022 sviluppato da Zadig , che raccoglie tutto ciò che si sa sul Misa, comprese alcune interviste agli esperti ed esperte coinvolti e database con i dati al momento disponibili.",
+          "Sul comportamento dei sedimenti, nello specifico, avevamo pubblicato su Scienza in rete l’articolo Misa 2022: un’alluvione che ha spostato anche i sassi dove si racconta il raro fenomeno per cui anche i massi sono entrati in sospensione durante l’alluvione, come è stato ricordato anche durante il convegno.",
+          "Il rilievo si è svolto soprattutto tra ottobre e novembre 2022, prima che i lavori di ripristino cancellassero le tracce, in tre fasi: preparazione di schede e mappe, rilievo sul campo e creazione del database.",
+          "Nel bacino del Misa è stato ispezionato circa il 68 per cento dei ponti esposti, danneggiati e integri, per avere significatività statistica.",
+          "Alluvione Misa 2022, quattro anni dopo: cosa si è capito e cosa manca"
+        ]
       }
     },
     {
-      "id": "story-86b83ab5e9ab0d5b",
-      "title": "La NASA ha un piano per evitare gli ostacoli sulla Luna",
-      "summary": "La NASA ha fatto provare a un drone una tecnologia che sceglie dove atterrare dopo aver esaminato il terreno. A bordo di un Alta-X, il sistema SPLICE ha completato manovre che simulavano una discesa e...",
-      "spokenText": "La NASA ha fatto provare a un drone una tecnologia che sceglie dove atterrare dopo aver esaminato il terreno.",
+      "id": "story-8d7b7a7f970b36e9",
+      "title": "Teg 001, meteorite marziano di 4,1 miliardi di anni",
+      "summary": "Identificato un raro meteorite marziano di 4,1 miliardi di anni, chiamato Teghaza 001. Il campione fornisce nuove evidenze sul passato del Pianeta rosso, che un tempo potrebbe aver avuto un ambiente più umido e simile alla Terra. Lo studio, condotto da diversi centri di ricerca statunitensi e pubblicato la settimana scorsa su Science, potrebbe aiutare inoltre a guidare la futura esplorazione di Marte",
+      "spokenText": "Identificato un raro meteorite marziano di 4,1 miliardi di anni, chiamato Teghaza 001. Il campione fornisce nuove evidenze sul passato del Pianeta rosso, che un tempo potrebbe aver avuto un ambiente più umido e simile alla Terra. Lo studio, condotto da diversi centri di ricerca statunitensi e pubblicato la settimana scorsa su Science, potrebbe aiutare inoltre a guidare la futura esplorazione di Marte.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "nasa",
-        "luna"
+        "teghaza 001",
+        "marte",
+        "science",
+        "centri di ricerca statunitensi"
       ],
-      "importance": 80,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 8,
+      "estimatedSeconds": 26,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/un-drone-nasa-sceglie-dove-atterrare-allunaggi-piu-sicuri"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/06/teg-001-meteorite-marziano/"
       },
       "analysis": {
-        "mainFact": "La NASA ha fatto provare a un drone una tecnologia che sceglie dove atterrare dopo aver esaminato il terreno.",
-        "whyItMatters": "Tecnologia NASA per atterraggi sicuri su Luna, rilevante per scienza e spazio.",
+        "mainFact": "Identificato un raro meteorite marziano di 4,1 miliardi di anni, chiamato Teghaza 001.",
+        "whyItMatters": "Il campione fornisce nuove evidenze sul passato del Pianeta rosso, che un tempo potrebbe aver avuto un ambiente più umido e simile alla Terra.",
         "confirmedFacts": [
-          "La NASA ha fatto provare a un drone una tecnologia che sceglie dove atterrare dopo aver esaminato il terreno.",
-          "Tecnologia NASA per atterraggi sicuri su Luna, rilevante per scienza e spazio."
+          "Identificato un raro meteorite marziano di 4,1 miliardi di anni, chiamato Teghaza 001.",
+          "Il campione fornisce nuove evidenze sul passato del Pianeta rosso, che un tempo potrebbe aver avuto un ambiente più umido e simile alla Terra."
+        ],
+        "uncertainties": [
+          "Lo studio, condotto da diversi centri di ricerca statunitensi e pubblicato la settimana scorsa su Science, potrebbe aiutare inoltre a guidare la futura esplorazione di Marte"
+        ],
+        "peopleAndOrganizations": [
+          "Teghaza 001",
+          "Marte",
+          "Science",
+          "centri di ricerca statunitensi"
+        ],
+        "numbersAndDates": [
+          "4,1",
+          "001"
+        ]
+      }
+    },
+    {
+      "id": "story-2605f9803a94ae1a",
+      "title": "Quali sono i rifiuti più dispersi nell’ambiente",
+      "summary": "Ogni anno ne finiscono nell'ambiente 4.500 miliardi, di cui 14 solo in Italia: oltre a rilasciare piombo e arsenico, i filtri delle sigarette rappresentano oltre il 23% dei rifiuti trovati sui litorali europei.",
+      "spokenText": "Ogni anno finiscono nell'ambiente 4.500 miliardi di filtri delle sigarette, di cui 14 miliardi solo in Italia. I mozziconi di sigaretta sono i rifiuti più dispersi al mondo. Le sigarette tradizionali, oltre al filtro in plastica, contengono sostanze altamente inquinanti come arsenico, piombo e formaldeide. Questi filtri rilasciano piombo e arsenico e rappresentano oltre il 23% dei rifiuti trovati sui litorali europei, dove sulle coste italiane se ne trovano in media 77 ogni 100 metri di litorale. 8 novembre 2026 Barbara Merlo Tag ambiente - sigaretta - sigarette - mozziconi di sigaretta - arsenico - piombo - microplastiche - microplastica.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "filtri delle sigarette",
+        "mozziconi di sigaretta",
+        "italia",
+        "litorali europei"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 40,
+      "source": {
+        "name": "Focus",
+        "url": "https://www.focus.it/ambiente/ecologia/quali-sono-i-rifiuti-piu-dispersi-nell-ambiente-i-filtri-delle-sigarette"
+      },
+      "analysis": {
+        "mainFact": "Ogni anno finiscono nell'ambiente 4.500 miliardi di filtri delle sigarette, di cui 14 miliardi solo in Italia.",
+        "whyItMatters": "I filtri delle sigarette rilasciano piombo e arsenico e rappresentano oltre il 23% dei rifiuti trovati sui litorali europei; sulle coste italiane se ne trovano in media 77 ogni 100 metri di litorale.",
+        "confirmedFacts": [
+          "Ogni anno finiscono nell'ambiente 4.500 miliardi di filtri delle sigarette, di cui 14 miliardi solo in Italia.",
+          "I filtri delle sigarette rilasciano piombo e arsenico e rappresentano oltre il 23% dei rifiuti trovati sui litorali europei; sulle coste italiane se ne trovano in media 77 ogni 100 metri di litorale.",
+          "I mozziconi di sigaretta sono i rifiuti pi dispersi nell'ambiente: ogni anno se ne abbandonano circa 4.500 miliardi e, di questi, 14 miliardi in Italia .",
+          "Le sigarette tradizionali, oltre al filtro in plastica, contengono sostanze altamente inquinanti, come arsenico, piombo e formaldeide.",
+          "8 novembre 2026 Barbara Merlo Tag ambiente - sigaretta - sigarette - mozziconi di sigaretta - arsenico - piombo - microplastiche - microplastica",
+          "Ecologia Quali sono i rifiuti più dispersi nell’ambiente?"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "NASA",
-          "Luna"
+          "filtri delle sigarette",
+          "mozziconi di sigaretta",
+          "Italia",
+          "litorali europei"
+        ],
+        "numbersAndDates": [
+          "I mozziconi di sigaretta sono i rifiuti pi dispersi nell'ambiente: ogni anno se ne abbandonano circa 4.500 miliardi e, di questi, 14 miliardi in Italia .",
+          "8 novembre 2026 Barbara Merlo Tag ambiente - sigaretta - sigarette - mozziconi di sigaretta - arsenico - piombo - microplastiche - microplastica",
+          "4.500",
+          "14",
+          "23",
+          "77",
+          "100"
+        ]
+      }
+    },
+    {
+      "id": "story-5132cbfb92141ca4",
+      "title": "Terapia a 2 farmaci per il colesterolo riduce la placca di arterosclerosi",
+      "summary": "Nelle arterie che ossigenano il cuore, studio clinico di confronto con cura standard",
+      "spokenText": "Una terapia combinata a due farmaci per il colesterolo riduce la placca di arterosclerosi. Nelle arterie che ossigenano il cuore, uno studio clinico di confronto con la cura standard ha evidenziato che l'approccio più intensivo ha ridotto il colesterolo cattivo del 65%, a fronte del 38% ottenuto con il trattamento standard. A ciò è seguita la regressione della placca: il volume totale si è ridotto del 21,1% con la terapia combinata, contro il 13,6% del gruppo di riferimento. Le placche non calcificate sono regredite in 51 casi su 52, contro i 39 pazienti della terapia standard. Con questo approccio, il 90% dei pazienti ha riscontrato una diminuzione del volume della placca, contro il 75% di chi ha seguito il trattamento ordinario.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "terapia combinata",
+        "colesterolo",
+        "placca di arterosclerosi",
+        "studio clinico"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 49,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/terapia-a-2-farmaci-per-il-colesterolo-riduce-la-placca-di-arterosclerosi_4206384f-d12b-468b-81b3-2f247af67594.html"
+      },
+      "analysis": {
+        "mainFact": "Terapia a 2 farmaci per il colesterolo riduce la placca di arterosclerosi.",
+        "whyItMatters": "Con la terapia combinata, il 90% dei pazienti ha riscontrato una diminuzione del volume della placca, contro il 75% di quelli sottoposti al trattamento standard.",
+        "confirmedFacts": [
+          "Terapia a 2 farmaci per il colesterolo riduce la placca di arterosclerosi.",
+          "Con la terapia combinata, il 90% dei pazienti ha riscontrato una diminuzione del volume della placca, contro il 75% di quelli sottoposti al trattamento standard.",
+          "Nelle arterie che ossigenano il cuore, studio clinico di confronto con cura standard",
+          "È emerso che una terapia combinata più intensiva ha ridotto il colesterolo cattivo del 65%, a fronte di una riduzione del 38% ottenuta con la terapia intensiva standard.",
+          "A ciò è seguita la regressione della placca: il volume totale della placca si è ridotto del 21,1% con la terapia combinata, contro il 13,6% del trattamento standard.",
+          "La terapia combinata ha portato a una regressione delle placche non calcificate in 51 casi su 52, contro i 39 pazienti del gruppo della terapia standard."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "terapia combinata",
+          "colesterolo",
+          "placca di arterosclerosi",
+          "studio clinico"
+        ],
+        "numbersAndDates": [
+          "È emerso che una terapia combinata più intensiva ha ridotto il colesterolo cattivo del 65%, a fronte di una riduzione del 38% ottenuta con la terapia intensiva standard.",
+          "A ciò è seguita la regressione della placca: il volume totale della placca si è ridotto del 21,1% con la terapia combinata, contro il 13,6% del trattamento standard.",
+          "La terapia combinata ha portato a una regressione delle placche non calcificate in 51 casi su 52, contro i 39 pazienti del gruppo della terapia standard.",
+          "2",
+          "90",
+          "75"
+        ]
+      }
+    },
+    {
+      "id": "story-480d2aa745ac1df5",
+      "title": "Bevande vegetali? Meglio se \"arricchite\"",
+      "summary": "Le alternative vegetali a latte e derivati sono sempre più popolari per motivi etici e ambientali, ma meglio scegliere quelle addizionate di iodio.",
+      "spokenText": "Se stai sostituendo latte e derivati con bevande vegetali, meglio scegliere quelle addizionate di iodio. Questo perché, senza addizione in fase di produzione, lo iodio nelle alternative vegetali è presente in concentrazioni molto ridotte rispetto al latte vaccino, e questo potrebbe comportare carenze di micronutrienti importanti. Lo studio è pubblicato su Lancet Planetary Health.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "bevande vegetali",
+        "iodio",
+        "lancet planetary health"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "Focus",
+        "url": "https://www.focus.it/scienza/salute/bevande-vegetali-al-posto-del-latte-vaccino-attenti-alle-carenze-di-iodio"
+      },
+      "analysis": {
+        "mainFact": "ma meglio scegliere quelle addizionate di iodio.",
+        "whyItMatters": "Sostituire in parte o del tutto latte e derivati con alternative vegetali potrebbe comportare carenze di micronutrienti importanti, e in particolare di iodio.",
+        "confirmedFacts": [
+          "ma meglio scegliere quelle addizionate di iodio.",
+          "Sostituire in parte o del tutto latte e derivati con alternative vegetali potrebbe comportare carenze di micronutrienti importanti, e in particolare di iodio.",
+          "Nelle bevande vegetali, se non viene aggiunto in fase di produzione, lo iodio presente in concentrazioni molto ridotte rispetto a quelle del latte vaccino."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "bevande vegetali",
+          "iodio",
+          "Lancet Planetary Health"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-d30a859b69deeb33",
-      "title": "Icop lascia la partita per Trevi: «Crescita dei ricavi a 1 miliardo»",
-      "summary": "Parla l’’amministratore delegato, Piero Petrucco: occasione mancata per costruire il campione nazionale, indipendente e autonomo nell’ingegneria del sottosuolo",
-      "spokenText": "Icop lascia la partita per Trevi. A spiegarlo è l'amministratore delegato Piero Petrucco, che ha ricordato come il gruppo avesse riconosciuto a Trevi un valore corretto con il rilancio del 25 settembre, portando il corrispettivo a 5,165 euro per azione. Un'occasione mancata, secondo Petrucco, per costruire il campione nazionale, autonomo e indipendente nell'ingegneria del sottosuolo con la scala dei più grandi gruppi internazionali. Icop guarda ora al proprio futuro con il piano industriale 2026-2029, costruito senza l'Ops e senza l'ingresso in nuove geografie. L'obiettivo è raggiungere un fatturato intorno al miliardo di euro tra il 2029 e il 2030, con una marginalità al 19-20%, partendo dai 503 milioni pro-forma del 2025. Petrucco non esclude nuove acquisizioni, se si presenterà l'occasione.",
-      "category": "altro",
+      "id": "story-88dd25644bb39b73",
+      "title": "Berkshire Hathaway, cresce a 377 miliardi di dollari la montagna di liquidità",
+      "summary": "Il colosso fondato da Buffett ha annunciato un utile trimestrale in calo a 22,1 miliardi di dollari",
+      "spokenText": "La montagna di liquidità di Berkshire Hathaway cresce a 377 miliardi di dollari e il colosso fondato da Buffett ha annunciato un utile trimestrale in calo a 22,1 miliardi di dollari. L'utile netto è sceso rispetto ai 30,8 miliardi di dollari, ovvero 21.413 dollari per azione, registrati nel terzo trimestre dell'anno scorso, e rispetto ai 13,485 miliardi di dollari, pari a 9.376,15 dollari per azione di Classe A, registrati un anno fa; gli utili operativi sono diminuiti di quasi il 6%, attestandosi a 12,7 miliardi di dollari, ovvero 8.907 dollari per azione di Classe A. I conti del gruppo Sabato mattina Berkshire ha annunciato un utile di 22,1 miliardi di dollari, pari a 15.502 dollari per azione di Classe A.",
+      "category": "attualita",
       "tags": [
-        "altro",
-        "icop",
-        "trevi",
-        "piero petrucco"
+        "attualita",
+        "berkshire hathaway",
+        "buffett",
+        "geico"
       ],
-      "importance": 82,
+      "importance": 85,
       "mustInclude": false,
       "estimatedSeconds": 48,
       "source": {
         "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/icop-lascia-partita-trevi-crescita-ricavi-1-miliardo-AJzYBe5B"
+        "url": "https://www.ilsole24ore.com/art/berkshire-hathaway-cresce-377-miliardi-dollari-montagna-liquidita-AJc4sY8B"
       },
       "analysis": {
-        "mainFact": "Icop lascia la partita per Trevi",
-        "whyItMatters": "È un'occasione mancata per costruire il campione nazionale, autonomo e indipendente nell'ingegneria del sottosuolo con la scala dei più grandi gruppi internazionali.",
+        "mainFact": "La montagna di liquidità di Berkshire Hathaway cresce a 377 miliardi di dollari e il colosso fondato da Buffett ha annunciato un utile trimestrale in calo a 22,1 miliardi di dollari.",
+        "whyItMatters": "L'utile netto è sceso rispetto ai 30,8 miliardi di dollari, ovvero 21.413 dollari per azione, registrati nel terzo trimestre dell'anno scorso, e rispetto ai 13,485 miliardi di dollari, pari a 9.376,15 dollari per azione di Classe A, registrati un anno fa; gli utili operativi sono diminuiti di quasi il 6%, attestandosi a 12,7 miliardi di dollari, ovvero 8.907 dollari per azione di Classe A.",
         "confirmedFacts": [
-          "Icop lascia la partita per Trevi",
-          "È un'occasione mancata per costruire il campione nazionale, autonomo e indipendente nell'ingegneria del sottosuolo con la scala dei più grandi gruppi internazionali.",
-          "Abbiamo riconosciuto a Trevi quello che ritenevamo essere un valore corretto e lo abbiamo indicato con il rilancio del 25 settembre, portando il corrispettivo a 5,165 euro per azione.",
-          "Il piano punta a raggiungere un fatturato intorno al miliardo di euro tra il 2029 e il 2030, con una marginalità al 19-20%, partendo dai 503 milioni pro-forma del 2025 ed è costruito senza l’Ops e senza assumere l’ingresso in nuove geografie.",
-          "Piero Petrucco, che in futuro non esclude nuove acquisizioni, se si presenterà l’occasione.",
-          "Piero Petrucco: occasione mancata per costruire il campione nazionale, indipendente e autonomo nell’ingegneria del sottosuolo",
-          "Quali sono le direttrici strategiche del piano industriale di Icop 2026-2029?"
+          "La montagna di liquidità di Berkshire Hathaway cresce a 377 miliardi di dollari e il colosso fondato da Buffett ha annunciato un utile trimestrale in calo a 22,1 miliardi di dollari.",
+          "L'utile netto è sceso rispetto ai 30,8 miliardi di dollari, ovvero 21.413 dollari per azione, registrati nel terzo trimestre dell'anno scorso, e rispetto ai 13,485 miliardi di dollari, pari a 9.376,15 dollari per azione di Classe A, registrati un anno fa; gli utili operativi sono diminuiti di quasi il 6%, attestandosi a 12,7 miliardi di dollari, ovvero 8.907 dollari per azione di Classe A.",
+          "L’utile di Geico è sceso a 1,35 miliardi di dollari dai 2,37 miliardi dell’anno scorso.",
+          "I conti del gruppo Sabato mattina Berkshire ha annunciato un utile di 22,1 miliardi di dollari, pari a 15.502 dollari per azione di Classe A."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Icop",
-          "Trevi",
-          "Piero Petrucco"
+          "Berkshire Hathaway",
+          "Buffett",
+          "Geico"
         ],
         "numbersAndDates": [
-          "Abbiamo riconosciuto a Trevi quello che ritenevamo essere un valore corretto e lo abbiamo indicato con il rilancio del 25 settembre, portando il corrispettivo a 5,165 euro per azione.",
-          "Il piano punta a raggiungere un fatturato intorno al miliardo di euro tra il 2029 e il 2030, con una marginalità al 19-20%, partendo dai 503 milioni pro-forma del 2025 ed è costruito senza l’Ops e senza assumere l’ingresso in nuove geografie.",
-          "Piero Petrucco, che in futuro non esclude nuove acquisizioni, se si presenterà l’occasione.",
-          "Quali sono le direttrici strategiche del piano industriale di Icop 2026-2029?"
+          "L’utile di Geico è sceso a 1,35 miliardi di dollari dai 2,37 miliardi dell’anno scorso.",
+          "I conti del gruppo Sabato mattina Berkshire ha annunciato un utile di 22,1 miliardi di dollari, pari a 15.502 dollari per azione di Classe A.",
+          "377",
+          "22,1",
+          "30,8",
+          "21.413",
+          "13,485",
+          "9.376,15",
+          "6",
+          "12,7"
         ]
       }
     },
     {
-      "id": "story-90e116d4d57dcbc3",
-      "title": "Hong Kong, 10 anni di carcere a Joshua Wong, volto simbolo della lotta per la democrazia",
-      "summary": "Hong Kong, 10 anni di carcere a Joshua Wong, volto simbolo della lotta per la democrazia La sentenza giunge a soli due mesi dal giorno in cui Wong, che sta già scontando una condanna per sovversione, sarebbe tornato in libertà.",
-      "spokenText": "Hong Kong ha condannato Joshua Wong a dieci anni di carcere. L'attivista, volto simbolo della lotta per la democrazia, sta già scontando una pena per sovversione e sarebbe dovuto tornare in libertà tra soli due mesi. La sua condanna supera quella di Benny Tai e si avvicina ai venti anni inflitti all'ex magnate dei media Jimmy Lai. Wong divenne noto a livello internazionale nel 2014, quando a quindici anni guidò il Movimento degli ombrelli, suscitando l'ira di Pechino per i suoi incontri con politici statunitensi.",
-      "category": "diritti",
+      "id": "story-4f86508ac6132d24",
+      "title": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro",
+      "summary": "Osservatorio prezzi del Mimit: la benzina è venduta a 2 euro",
+      "spokenText": "I prezzi dei carburanti restano fermi nonostante lo stop al taglio delle accise, con il gasolio che si attesta a 2,23 euro. Secondo le rilevazioni dell'Osservatorio prezzi del Mimit, il prezzo medio in modalità self service lungo la rete stradale nazionale è di 2,000 euro al litro per la benzina e di 2,223 euro per il gasolio. Il ministero ricorda che, grazie al price cap a cui hanno aderito le principali compagnie, i prezzi self-service restano tuttavia sotto i 2 euro per la benzina e i 2,20 euro per il gasolio in gran parte della rete stradale.",
+      "category": "ambiente",
       "tags": [
-        "diritti",
-        "joshua wong",
-        "hong kong",
-        "jimmy lai",
-        "benny tai"
+        "ambiente",
+        "mimit",
+        "osservatorio prezzi",
+        "benzina",
+        "gasolio"
       ],
-      "importance": 90,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 34,
+      "estimatedSeconds": 39,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/hong-kong-10-anni-carcere-joshua-wong-volto-simbolo-lotta-la-democrazia-AJVvUO5B"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/mimit-prezzi-carburanti-fermi-malgrado-stop-taglio-accise-gasolio-a-223_3a4e4aa5-2d2a-4119-bd93-63dba8a9828c.html"
       },
       "analysis": {
-        "mainFact": "Hong Kong, 10 anni di carcere a Joshua Wong, volto simbolo della lotta per la democrazia",
-        "whyItMatters": "La sentenza giunge a soli due mesi dal giorno in cui Wong, che sta già scontando una condanna per sovversione, sarebbe tornato in libertà.",
+        "mainFact": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro.",
+        "whyItMatters": "Osservatorio prezzi del Mimit: la benzina è venduta a 2 euro",
         "confirmedFacts": [
-          "Hong Kong, 10 anni di carcere a Joshua Wong, volto simbolo della lotta per la democrazia",
-          "La sentenza giunge a soli due mesi dal giorno in cui Wong, che sta già scontando una condanna per sovversione, sarebbe tornato in libertà.",
-          "Hong Kong, altri 10 anni di carcere all'attivista pro-democrazia Joshua Wong",
-          "La supera solo quella a 20 anni inflitta dell’ex magnate dei media Jimmy Lai ed è identica a quella toccata all’ex docente di diritto Benny Tai.",
-          "Wong è diventato un attivista a soli 15 anni, raggiungendo la notorietà internazionale nel 2014, quando si mise alla testa del Movimento degli ombrelli, nato da una mobilitazione studentesca.",
-          "Joshua Wong, volto delle proteste pro-democrazia di Hong Kong, condannato a 10 anni di carcere",
-          "All’epoca delle proteste Wong aveva incontrato politici statunitensi e americani, provocando l’ira di Pechino.",
-          "Lai, fondatore del quotidiano ormai chiuso Apple Daily , ha ricevuto una condanna a 17 anni per ciascuno dei due capi d’imputazione per collusione, da scontare in gran parte contemporaneamente."
+          "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro.",
+          "Osservatorio prezzi del Mimit: la benzina è venduta a 2 euro",
+          "Secondo le rilevazioni dell'osservatorio prezzi del Mimit il prezzo medio dei carburanti in modalità 'self service' lungo la rete stradale nazionale è pari a 2,000 euro al litro per la benzina e 2,223 euro per il gasolio.",
+          "Sulla rete autostradale, invece, il prezzo medio self è di 2,029 euro per la benzina e 2,277 euro per il gasolio.",
+          "\"Grazie al price cap cui hanno aderito le principali compagnie, i prezzi self-service restano tuttavia sotto i 2 euro per la benzina e i 2,20 euro per il gasolio in gran parte della rete stradale\" ricorda il ministero."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Joshua Wong",
-          "Hong Kong",
-          "Jimmy Lai",
-          "Benny Tai"
+          "Mimit",
+          "Osservatorio prezzi",
+          "benzina",
+          "gasolio"
         ],
         "numbersAndDates": [
-          "Hong Kong, altri 10 anni di carcere all'attivista pro-democrazia Joshua Wong",
-          "La supera solo quella a 20 anni inflitta dell’ex magnate dei media Jimmy Lai ed è identica a quella toccata all’ex docente di diritto Benny Tai.",
-          "Wong è diventato un attivista a soli 15 anni, raggiungendo la notorietà internazionale nel 2014, quando si mise alla testa del Movimento degli ombrelli, nato da una mobilitazione studentesca.",
-          "Joshua Wong, volto delle proteste pro-democrazia di Hong Kong, condannato a 10 anni di carcere",
-          "Lai, fondatore del quotidiano ormai chiuso Apple Daily , ha ricevuto una condanna a 17 anni per ciascuno dei due capi d’imputazione per collusione, da scontare in gran parte contemporaneamente.",
-          "10"
-        ]
-      }
-    },
-    {
-      "id": "story-72f2303a9ed49d9c",
-      "title": "<img src=\"https://cdn",
-      "summary": "SpaceX punta a portare a circa 13 GW la capacità dei propri data center entro il 2027, con un piano che prevede 10 GW aggiuntivi nel solo 2027. Gli analisti giudicano raggiungibile il traguardo sulla...",
-      "spokenText": "SpaceX punta a portare a circa 13 gigawatt la capacità dei propri data center entro il 2027, con un piano che prevede l'aggiunta di 10 gigawatt nel solo anno 2027. Sempre nel 2027 è prevista l'uscita di Honkai Nexus Anima, titolo per il quale la beta partirà il 25 novembre.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "spacex"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/hardware/spacex-alza-lobiettivo-a-13-gw-puo-superare-google-nei-data-center"
-      },
-      "analysis": {
-        "mainFact": "SpaceX punta a portare a circa 13 GW la capacità dei propri data center entro il 2027, con un piano che prevede 10 GW aggiuntivi nel solo 2027.",
-        "whyItMatters": "Honkai Nexus Anima: uscita nel 2027 e beta dal 25 novembre",
-        "confirmedFacts": [
-          "SpaceX punta a portare a circa 13 GW la capacità dei propri data center entro il 2027, con un piano che prevede 10 GW aggiuntivi nel solo 2027.",
-          "Honkai Nexus Anima: uscita nel 2027 e beta dal 25 novembre"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "SpaceX"
-        ],
-        "numbersAndDates": [
-          "13",
-          "2027",
-          "10",
-          "25"
-        ]
-      }
-    },
-    {
-      "id": "story-40f62a0b0d199b12",
-      "title": "In piazza tra le 500mila e le 700mila persone",
-      "summary": "In piazza tra le 500mila e le 700mila persone. Alcuni individui appiccano il fuoco all’istituto Françoise de Tournefeuill con fuochi d’artificio",
-      "spokenText": "Secondo le stime delle autorità, tra le 500mila e le 700mila persone stanno protestando in tutto il paese, con una mobilitazione di circa 80mila persone a Parigi. A Tolosa, un liceo è stato incendiato. Alcuni individui sarebbero penetrati nell'istituto Françoise de Tournefeuill lanciando dall'interno fuochi d'artificio servendosi di appositi mortai.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "autorita",
-        "parigi",
-        "tolosa"
-      ],
-      "importance": 65,
-      "mustInclude": false,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/scuola-manifestazioni-tutta-francia-liceo-incendiato-tolosa-AJsXlp5B"
-      },
-      "analysis": {
-        "mainFact": "Secondo le stime delle autorità, tra le 500mila e le 700mila persone protestano in tutto il paese, mentre a Parigi la mobilitazione è di circa 80mila persone.",
-        "whyItMatters": "Alcuni individui appiccano il fuoco all’istituto Françoise de Tournefeuill con fuochi d’artificio",
-        "confirmedFacts": [
-          "Secondo le stime delle autorità, tra le 500mila e le 700mila persone protestano in tutto il paese, mentre a Parigi la mobilitazione è di circa 80mila persone.",
-          "Alcuni individui appiccano il fuoco all’istituto Françoise de Tournefeuill con fuochi d’artificio",
-          "Liceo incendiato a Tolosa In piazza tra le 500mila e le 700mila persone.",
-          "Sconosciuti entrano nell'istituto e sparano fuochi d'artificio.",
-          "Alcuni individui sarebbero penetrati nell’istituto lanciando poi dall’interno fuochi d’artificio servendosi di appositi mortai."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Autorità",
-          "Parigi",
-          "Tolosa"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f1dc5da25296ddbb",
-      "title": "Gli investitori sperano in una soluzione diplomatica dei conflitti",
-      "summary": "Gli investitori sperano in una soluzione diplomatica dei conflitti. Intanto la Bank of England ha portato i tassi al 4%. E' il primo rialzo da oltre tre anni",
-      "spokenText": "La Bank of England ha alzato i tassi di interesse dal 3,75% al 4%, primo rialzo da oltre tre anni. Il rialzo è il primo da oltre tre anni deciso dal Comitato di politica monetaria della banca centrale britannica, a fronte dell'inflazione arrivata al 3,5% rispetto al target del 2%. Gli investitori sperano in una soluzione diplomatica dei conflitti.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "bank of england",
-        "comitato di politica monetaria della banca centr",
-        "bce",
-        "federal reserve"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 24,
-      "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/borsa-indici-giovedi-5-novembre-2026-AJerTS5B"
-      },
-      "analysis": {
-        "mainFact": "La Bank of England ha alzato i tassi di interesse dal 3,75% al 4%, primo rialzo da oltre tre anni.",
-        "whyItMatters": "Il rialzo è il primo da oltre tre anni deciso dal Comitato di politica monetaria della banca centrale britannica, a fronte dell'inflazione arrivata al 3,5% rispetto al target del 2%.",
-        "confirmedFacts": [
-          "La Bank of England ha alzato i tassi di interesse dal 3,75% al 4%, primo rialzo da oltre tre anni.",
-          "Il rialzo è il primo da oltre tre anni deciso dal Comitato di politica monetaria della banca centrale britannica, a fronte dell'inflazione arrivata al 3,5% rispetto al target del 2%.",
-          "BoE porta i tassi al 4%, primo rialzo da oltre tre anni L'istituto centrale inglese ha alzato di un quarto di punto i tassi di interesse del Regno Unito portandoli dal 3,75% al 4%.",
-          "Gli investitori sperano in una soluzione diplomatica dei conflitti."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Bank of England",
-          "Comitato di politica monetaria della banca centrale britannica",
-          "Bce",
-          "Federal Reserve"
-        ],
-        "numbersAndDates": [
-          "BoE porta i tassi al 4%, primo rialzo da oltre tre anni L'istituto centrale inglese ha alzato di un quarto di punto i tassi di interesse del Regno Unito portandoli dal 3,75% al 4%.",
-          "3,75",
-          "4",
-          "3,5",
+          "Secondo le rilevazioni dell'osservatorio prezzi del Mimit il prezzo medio dei carburanti in modalità 'self service' lungo la rete stradale nazionale è pari a 2,000 euro al litro per la benzina e 2,223 euro per il gasolio.",
+          "Sulla rete autostradale, invece, il prezzo medio self è di 2,029 euro per la benzina e 2,277 euro per il gasolio.",
+          "\"Grazie al price cap cui hanno aderito le principali compagnie, i prezzi self-service restano tuttavia sotto i 2 euro per la benzina e i 2,20 euro per il gasolio in gran parte della rete stradale\" ricorda il ministero.",
+          "2,23",
           "2"
         ]
       }
     },
     {
-      "id": "story-f340beab59112d6a",
-      "title": "Ma a mezzanotte a Washington, il GOP stava affrontando quella che sembrava la sua",
-      "summary": "Ma a mezzanotte a Washington, il GOP stava affrontando quella che sembrava la sua peggiore sconfitta da 50 anni.",
-      "spokenText": "A mezzanotte a Washington, il GOP stava affrontando quella che sembrava la sua peggiore sconfitta da 50 anni. Un dato che acquista ulteriore peso se si guarda al Texas, dove l'ultima vittoria di un democratico alle elezioni senatorie risale al 1988, mentre per la presidenza manca un successo dal 1976, con Jimmy Carter. Nonostante questa battuta d'arresto elettorale, Donald Trump rimane presidente fino al 2028. La situazione potrebbe ora aprire un dibattito interno al partito, il primo dal 2016, sul superamento del nazionalismo aggressivo e del fanatismo del movimento Make America Great Again.",
-      "category": "mondo",
+      "id": "story-a7c5917c79aab17b",
+      "title": "Base lunare: NASA sceglie 8 aziende per missioni cargo",
+      "summary": "La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare. The post Base lunare: NASA sceglie 8 aziende per missioni cargo appeared first on Punto Informatico.",
+      "spokenText": "La NASA ha scelto otto aziende per trasportare carichi utili sulla superficie lunare, in supporto della futura base lunare. Le imprese selezionate forniranno servizi di trasporto per missioni cargo di natura scientifica, tecnologica o infrastrutturale. Tra i vettori previsti per alcuni di questi lanci figurano i razzi New Glenn di Blue Origin, Terran R di Relativity Space e Falcon 9 di SpaceX.",
+      "category": "tecnologia",
       "tags": [
-        "mondo",
-        "donald trump",
-        "texas",
-        "iran"
+        "tecnologia",
+        "nasa",
+        "blue origin",
+        "relativity space",
+        "spacex",
+        "luna"
       ],
       "importance": 75,
       "mustInclude": false,
-      "estimatedSeconds": 38,
+      "estimatedSeconds": 25,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/donald-trumps-republicans-suffer-landslide-defeat-what-this-means-for-the-world-295769"
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/base-lunare-nasa-sceglie-8-aziende-missioni-cargo/"
       },
       "analysis": {
-        "mainFact": "Ma a mezzanotte a Washington, il GOP stava affrontando quella che sembrava la sua peggiore sconfitta da 50 anni.",
-        "whyItMatters": "Esito elettorale USA con implicazioni geopolitiche globali e sistemiche.",
+        "mainFact": "La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare.",
+        "whyItMatters": "Sono state scelte 8 aziende che forniranno servizi di trasporto per carichi utili della NASA di natura scientifica, tecnologica o infrastrutturale.",
         "confirmedFacts": [
-          "Ma a mezzanotte a Washington, il GOP stava affrontando quella che sembrava la sua peggiore sconfitta da 50 anni.",
-          "Esito elettorale USA con implicazioni geopolitiche globali e sistemiche.",
-          "L'ultima volta che un democratico ha vinto le elezioni come senatore in Texas è stato nel 1988.",
-          "Nonostante il suo partito abbia subito questa battuta d'arresto elettorale, Trump rimane presidente fino al 2028.",
-          "Per la prima volta dal 2016, è probabile che ci sia un serio dibattito all'interno del partito su se andare oltre il nazionalismo aggressivo e il fanatismo del movimento 'Make America Great Again' di Trump.",
-          "I democratici non hanno vinto un'elezione presidenziale in Texas da Jimmy Carter nel 1976."
+          "La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare.",
+          "Sono state scelte 8 aziende che forniranno servizi di trasporto per carichi utili della NASA di natura scientifica, tecnologica o infrastrutturale.",
+          "Base lunare: NASA sceglie 8 aziende per missioni cargo",
+          "Base lunare: NASA sceglie 8 aziende per missioni cargo La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare.",
+          "La NASA ha annunciato i nomi delle 8 aziende scelte per le future missioni cargo sulla Luna .",
+          "Alcune missioni verranno lanciate con i razzi New Glenn di Blue Origin, Terran R di Relativity Space e Falcon 9 di SpaceX."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Donald Trump",
-          "Texas",
-          "Iran"
+          "NASA",
+          "Blue Origin",
+          "Relativity Space",
+          "SpaceX",
+          "Luna"
         ],
         "numbersAndDates": [
-          "Ma a mezzanotte a Washington, il GOP stava affrontando quella che sembrava la sua peggiore sconfitta da 50 anni.",
-          "L'ultima volta che un democratico ha vinto le elezioni come senatore in Texas è stato nel 1988.",
-          "Nonostante il suo partito abbia subito questa battuta d'arresto elettorale, Trump rimane presidente fino al 2028.",
-          "Per la prima volta dal 2016, è probabile che ci sia un serio dibattito all'interno del partito su se andare oltre il nazionalismo aggressivo e il fanatismo del movimento 'Make America Great Again' di Trump.",
-          "I democratici non hanno vinto un'elezione presidenziale in Texas da Jimmy Carter nel 1976.",
-          "50"
+          "Base lunare: NASA sceglie 8 aziende per missioni cargo",
+          "Base lunare: NASA sceglie 8 aziende per missioni cargo La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare.",
+          "La NASA ha annunciato i nomi delle 8 aziende scelte per le future missioni cargo sulla Luna .",
+          "Alcune missioni verranno lanciate con i razzi New Glenn di Blue Origin, Terran R di Relativity Space e Falcon 9 di SpaceX.",
+          "8"
         ]
+      }
+    },
+    {
+      "id": "story-83af587d036f7b3b",
+      "title": "OpenAI, un nuovo modello di IA scova falle in oggetti connessi",
+      "summary": "Scopre un bug in Linux, una base di server e infrastrutture che supervisionano celle frigorifere",
+      "spokenText": "Gpt-6 Cyber, il nuovo modello di OpenAI, è capace di scovare falle in oggetti connessi. Il sistema ha ottenuto un punteggio del 48,5% su un test che misura la capacità di sfruttare una vulnerabilità specifica, in crescita rispetto al 32,1% del modello precedente. Tra i bug individuati, Gpt-6 Cyber ne ha scoperto uno in Linux, il software che costituisce il cuore di server e data center, ma anche di molte infrastrutture che supervisionano le celle frigorifere utilizzate nella logistica alimentare e farmaceutica.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "openai",
+        "gpt 6 cyber",
+        "linux",
+        "celle frigorifere",
+        "logistica alimentare"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/11/06/openai-spinge-su-cybersicurezza-nuovo-modello-ia-scova-falle-in-oggetti-connessi_29d54132-cae2-4f2e-bb6f-d8cf789edb1a.html"
+      },
+      "analysis": {
+        "mainFact": "Gpt-6 Cyber, che scova falle in oggetti connessi.",
+        "whyItMatters": "Gpt-6 Cyber ha ottenuto un punteggio di 48,5% su un test che misura la capacità dei modelli di sfruttare una vulnerabilità specifica, in crescita rispetto al 32,1% registrato dal modello precedente.",
+        "confirmedFacts": [
+          "Gpt-6 Cyber, che scova falle in oggetti connessi.",
+          "Gpt-6 Cyber ha ottenuto un punteggio di 48,5% su un test che misura la capacità dei modelli di sfruttare una vulnerabilità specifica, in crescita rispetto al 32,1% registrato dal modello precedente.",
+          "Scopre un bug in Linux, una base di server e infrastrutture che supervisionano celle frigorifere",
+          "Linux costituisce il cuore-software non solo di server e data center , ma anche di molte infrastrutture che supervisionano le celle frigorifere nella logistica alimentare e farmaceutica."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "OpenAI",
+          "Gpt-6 Cyber",
+          "Linux",
+          "celle frigorifere",
+          "logistica alimentare"
+        ],
+        "numbersAndDates": [
+          "6",
+          "48,5",
+          "32,1"
+        ]
+      }
+    },
+    {
+      "id": "story-718ad0aea99ca18b",
+      "title": "<img src=\"https://cdn",
+      "summary": "Chi convive con un cane o un gatto sa bene quanto la routine alimentare sia fondamentale per il loro equilibrio fisico e comportamentale. Tuttavia, quando la giornata lavorativa &egrave; scandita da t...",
+      "spokenText": "Chi convive con un cane o un gatto sa bene quanto la routine alimentare sia fondamentale per il loro equilibrio fisico e comportamentale.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "cane",
+        "gatto"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 10,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/offerte/cane-o-gatto-resta-solo-in-casa-i-distributori-smart-pensano-ai-pasti-al-posto-vostro"
+      },
+      "analysis": {
+        "mainFact": "Chi convive con un cane o un gatto sa bene quanto la routine alimentare sia fondamentale per il loro equilibrio fisico e comportamentale.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Chi convive con un cane o un gatto sa bene quanto la routine alimentare sia fondamentale per il loro equilibrio fisico e comportamentale."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "cane",
+          "gatto"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-06e387cc3a0ab45f",
+      "title": "Lockheed Martin Space, Northrop Grumman Space Systems",
+      "summary": "Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno servizi di consegna lunare, inclusa la gestione, la costruzione e l'operatività di lander che trasportano carichi utili scientifici, tecnologici e infrastrutturali della NASA sulla Luna.",
+      "spokenText": "Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno i servizi di consegna lunare per la NASA, occupandosi della gestione, della costruzione e dell'operatività di lander destinati al trasporto di carichi utili scientifici, tecnologici e infrastrutturali. Tra i progetti chiave per lo sviluppo della base lunare, la NASA ha assegnato a Blue Origin un contratto base da 94 milioni di dollari, con un'opzione aggiuntiva di 140 milioni basata sulla performance, per consegnare il rover nucleare PROMISE al polo sud lunare. Blue Origin utilizzerà il suo lander Mark 1 per il dispiegamento del rover, inserito nella prima fase della Moon Base. Gli interventi rientrano nel più ampio programma di investimenti che include contratti di lancio, servizi di trasferimento orbitale e infrastrutture di superficie, con il coinvolgimento di entità come CLPS e CAPSTONE 02.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "nasa",
+        "promise",
+        "blue origin",
+        "mark 1 lander",
+        "clps",
+        "lockheed martin",
+        "northrop grumman",
+        "spacex",
+        "voyager technologies"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 53,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+      },
+      "analysis": {
+        "mainFact": "Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno servizi di consegna lunare, inclusa la gestione, la costruzione e l'operatività di lander che trasportano carichi utili scientifici, tecnologici e infrastrutturali della NASA sulla Luna.",
+        "whyItMatters": "Progetti NASA per trasporto, tecnologia e scienza della base lunare, rilevanza spaziale e industriale.",
+        "confirmedFacts": [
+          "Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno servizi di consegna lunare, inclusa la gestione, la costruzione e l'operatività di lander che trasportano carichi utili scientifici, tecnologici e infrastrutturali della NASA sulla Luna.",
+          "Progetti NASA per trasporto, tecnologia e scienza della base lunare, rilevanza spaziale e industriale.",
+          "La NASA ha assegnato a Blue Origin un contratto base da 94 milioni di dollari, con un periodo opzionale del valore aggiuntivo di 140 milioni di dollari basato sulla performance, per consegnare PROMISE al polo sud lunare.",
+          "Blue Origin utilizzerà il suo lander Mark 1 per consegnare e dispiegare il rover come parte della prima fase della Moon Base."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "PROMISE",
+          "Blue Origin",
+          "Mark 1 lander",
+          "CLPS",
+          "Lockheed Martin",
+          "Northrop Grumman",
+          "SpaceX",
+          "Voyager Technologies",
+          "CAPSTONE 02"
+        ],
+        "numbersAndDates": [
+          "Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno servizi di consegna lunare, inclusa la gestione, la costruzione e l'operatività di lander che trasportano carichi utili scientifici, tecnologici e infrastrutturali della NASA sulla Luna.",
+          "La NASA ha assegnato a Blue Origin un contratto base da 94 milioni di dollari, con un periodo opzionale del valore aggiuntivo di 140 milioni di dollari basato sulla performance, per consegnare PROMISE al polo sud lunare.",
+          "Blue Origin utilizzerà il suo lander Mark 1 per consegnare e dispiegare il rover come parte della prima fase della Moon Base."
+        ]
+      }
+    },
+    {
+      "id": "story-30773ed5e4b900b0",
+      "title": "Il 3, per inviare i materiali di candidatura completati all'indirizzo",
+      "summary": "Il 3, per inviare i materiali di candidatura completati all'indirizzo: \"Questo è un momento straordinario per unirsi al corpo astronautico della NASA\", ha detto l'amministratore della NASA Jared Isaacman.",
+      "spokenText": "Il 3 scade il termine per inviare i materiali di candidatura completati per unirsi al corpo astronautico della NASA. A sottolineare l'importanza dell'opportunità è stato l'amministratore Jared Isaacman, che ha definito questo un momento straordinario per entrare nell'agenzia. Attualmente la NASA conta 32 astronauti attivi, e i candidati selezionati si uniranno ai loro ranghi per studiare passeggiate spaziali, geologia lunare e operazioni di aeromobili ad alte prestazioni.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "astronaut corps",
+        "jared isaacman",
+        "luna"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 27,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+      },
+      "analysis": {
+        "mainFact": "Il 3, per inviare i materiali di candidatura completati all'indirizzo: \"Questo è un momento straordinario per unirsi al corpo astronautico della NASA\", ha detto l'amministratore della NASA Jared Isaacman.",
+        "whyItMatters": "Selezione nuovi astronauti NASA per missioni Luna e Marte",
+        "confirmedFacts": [
+          "Il 3, per inviare i materiali di candidatura completati all'indirizzo: \"Questo è un momento straordinario per unirsi al corpo astronautico della NASA\", ha detto l'amministratore della NASA Jared Isaacman.",
+          "Selezione nuovi astronauti NASA per missioni Luna e Marte",
+          "L'agenzia ha 32 astronauti attivi nel corpo astronautico, e i candidati selezionati si uniranno ai loro ranghi per studiare passeggiate spaziali, geologia lunare, operazioni di aeromobili ad alte prestazioni e altro."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "astronaut corps",
+          "Jared Isaacman",
+          "Luna"
+        ],
+        "numbersAndDates": [
+          "Il 3, per inviare i materiali di candidatura completati all'indirizzo: \"Questo è un momento straordinario per unirsi al corpo astronautico della NASA\", ha detto l'amministratore della NASA Jared Isaacman.",
+          "L'agenzia ha 32 astronauti attivi nel corpo astronautico, e i candidati selezionati si uniranno ai loro ranghi per studiare passeggiate spaziali, geologia lunare, operazioni di aeromobili ad alte prestazioni e altro.",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "story-84b610c80315cff3",
+      "title": "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima",
+      "summary": "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive.",
+      "spokenText": "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive. Tuttavia, le analisi di entrambi i turni delle elezioni 2026 hanno identificato centinaia di annunci a favore o contro candidati specifici circolati sulle piattaforme di Meta senza apparenti restrizioni. Il 23 settembre, il Partito dei Lavoratori di Lula ha riferito di essere stato bloccato dalla pubblicità sulle piattaforme di Meta. Il 16 ottobre, l'azienda ha respinto le accuse di interferenza elettorale, attribuendo la disattivazione temporanea a una errata revisione antifrode effettuata in base a un accordo con il governo federale per combattere le frodi riguardanti programmi pubblici. Sulla base dei dati rilasciati da Meta, si stima che per il primo turno la campagna di Lula possa aver pagato tra il 33% e il 43% in più rispetto alla campagna di Flávio Bolsonaro per raggiungere lo stesso numero di utenti sulle piattaforme di Meta.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "meta",
+        "netlab ufrj",
+        "lula",
+        "flavio bolsonaro",
+        "pt"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 61,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/we-need-to-talk-about-meta-political-interference-and-interests-in-the-brazilian-elections-296102"
+      },
+      "analysis": {
+        "mainFact": "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive.",
+        "whyItMatters": "Interferenza politica di Meta nelle elezioni brasiliane, rilevante per tecnologia, diritti e geopolitica.",
+        "confirmedFacts": [
+          "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive.",
+          "Interferenza politica di Meta nelle elezioni brasiliane, rilevante per tecnologia, diritti e geopolitica.",
+          "Tuttavia, le nostre analisi di entrambi i turni delle elezioni 2026 hanno identificato centinaia di annunci a favore o contro candidati specifici che circolavano sulle piattaforme di Meta senza apparenti restrizioni.",
+          "Il 23 settembre, il suo Partito dei Lavoratori (PT) ha riferito di essere stato bloccato dalla pubblicità sulle piattaforme di Meta.",
+          "In una dichiarazione rilasciata il 16 ottobre, l'azienda ha respinto le accuse di interferenza elettorale e ha attribuito la disattivazione temporanea a una \"errata revisione antifrode\" effettuata in base a un accordo con il governo federale per combattere le frodi riguardanti programmi pubblici.",
+          "Sulla base dei dati rilasciati da Meta, stimiamo che per il primo turno la campagna di Lula possa aver pagato tra il 33% e il 43% in più rispetto alla campagna del suo avversario di estrema destra Flávio Bolsonaro per raggiungere lo stesso numero di utenti sulle piattaforme di Meta."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Meta",
+          "NetLab UFRJ",
+          "Lula",
+          "Flávio Bolsonaro",
+          "PT"
+        ],
+        "numbersAndDates": [
+          "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive.",
+          "Tuttavia, le nostre analisi di entrambi i turni delle elezioni 2026 hanno identificato centinaia di annunci a favore o contro candidati specifici che circolavano sulle piattaforme di Meta senza apparenti restrizioni.",
+          "Il 23 settembre, il suo Partito dei Lavoratori (PT) ha riferito di essere stato bloccato dalla pubblicità sulle piattaforme di Meta.",
+          "In una dichiarazione rilasciata il 16 ottobre, l'azienda ha respinto le accuse di interferenza elettorale e ha attribuito la disattivazione temporanea a una \"errata revisione antifrode\" effettuata in base a un accordo con il governo federale per combattere le frodi riguardanti programmi pubblici.",
+          "Sulla base dei dati rilasciati da Meta, stimiamo che per il primo turno la campagna di Lula possa aver pagato tra il 33% e il 43% in più rispetto alla campagna del suo avversario di estrema destra Flávio Bolsonaro per raggiungere lo stesso numero di utenti sulle piattaforme di Meta.",
+          "48",
+          "24"
+        ]
+      }
+    },
+    {
+      "id": "story-fe1f628201dede05",
+      "title": "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del",
+      "summary": "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo, da aumentare gradualmente fino al 50% oppure 50 euro al chilo dal 2032",
+      "spokenText": "La presidenza irlandese della Ue propone un'imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "presidenza irlandese della ue",
+        "ue"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 8,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/tabacco-stretta-ue-acquisti-esteri-e-nuove-accise-ma-piu-tempo-italia-AJCjyb8B"
+      },
+      "analysis": {
+        "mainFact": "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo.",
+        "whyItMatters": "Stretta UE su acquisti esteri di tabacco e nuove accise, impatto economico e industriale concreto.",
+        "confirmedFacts": [
+          "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo.",
+          "Stretta UE su acquisti esteri di tabacco e nuove accise, impatto economico e industriale concreto.",
+          "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo, da aumentare gradualmente fino al 50% oppure 50 euro al chilo dal 2032"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "presidenza irlandese della Ue",
+          "UE"
+        ],
+        "numbersAndDates": [
+          "10",
+          "30"
+        ]
+      }
+    },
+    {
+      "id": "story-b285f384dd29a682",
+      "title": "What we anticipate shapes our actions, and what happens next updates our expectations",
+      "summary": "What we anticipate shapes our actions, and what happens next updates our expectations.",
+      "spokenText": "What we anticipate shapes our actions, and what happens next updates our expectations.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "world models"
+      ],
+      "importance": 92,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
+      },
+      "analysis": {
+        "mainFact": "What we anticipate shapes our actions, and what happens next updates our expectations.",
+        "whyItMatters": "Limiti cognitivi dell'IA rispetto al pensiero umano, centrale per scienza e tecnologia utile.",
+        "confirmedFacts": [
+          "What we anticipate shapes our actions, and what happens next updates our expectations.",
+          "Limiti cognitivi dell'IA rispetto al pensiero umano, centrale per scienza e tecnologia utile."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "world models"
+        ],
+        "numbersAndDates": []
       }
     }
   ]
