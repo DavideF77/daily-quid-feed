@@ -1,668 +1,631 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-08-dc672871ed7c",
-  "generatedAt": "2026-11-08T12:39:10.774Z",
+  "catalogId": "daily-quid-2026-11-09-1303a5eb675d",
+  "generatedAt": "2026-11-09T14:58:21.447Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-047dcb0c4e21c85d",
-      "title": "Alluvione Misa 2022, quattro anni dopo: cosa si è capito e cosa manca",
-      "summary": "Ieri si è tenuto un convegno a quattro anni dall’alluvione del Misa, nelle Marche, che ha fatto il punto su quanto fatto da ricerca e istituzioni. Molto del lavoro è stato fatto su base volontaristica, e già questo dovrebbe bastare per apprezzare gli studi fatti e accelerare su ricostruzione e messa in sicurezza. Il discorso vale per tutti gli eventi analoghi che capiteranno in Italia nel prossimo futuro.",
-      "spokenText": "Ieri si è tenuto un convegno a quattro anni dall'alluvione del Misa, nelle Marche, per fare il punto su quanto fatto da ricerca e istituzioni. Molto del lavoro è stato svolto su base volontaristica, un dato che dovrebbe spingere ad apprezzare gli studi realizzati e ad accelerare su ricostruzione e messa in sicurezza. Per ripercorrere l'evento, è disponibile il sito dedicato all'alluvione del 2022 sviluppato da Zadig, che raccoglie tutto ciò che si sa sul Misa, comprese interviste agli esperti e database con i dati disponibili. Sul comportamento dei sedimenti, è stato ricordato il raro fenomeno per cui anche i massi sono entrati in sospensione durante l'alluvione, tema approfondito in un articolo pubblicato su Scienza in rete. Il rilievo si è svolto tra ottobre e novembre 2022, prima che i lavori di ripristino cancellassero le tracce, attraverso tre fasi: preparazione di schede e mappe, rilievo sul campo e creazione del database. Nel bacino del Misa è stato ispezionato circa il 68 per cento dei ponti esposti, danneggiati e integri, per garantire significatività statistica.",
+      "id": "story-2dac7e80ffb16c8b",
+      "title": "Dalla Norvegia 57 milioni di euro al Fondo Amazzonia per la tutela della foresta",
+      "summary": "La donazione dopo i risultati ottenuti dal Brasile contro la deforestazione",
+      "spokenText": "L'ambasciata norvegese a Brasilia ha annunciato lunedì 9 novembre una donazione di circa 57 milioni di euro al Fondo Amazzonia. La Norvegia ha motivato la decisione con i risultati raggiunti dal Brasile nella protezione ambientale, in particolare per i progressi ottenuti nella lotta alla deforestazione.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "alluvione del misa",
-        "marche",
-        "convegno",
-        "zadig",
-        "scienza in rete"
+        "norvegia",
+        "brasile",
+        "fondo amazzonia",
+        "ambasciata norvegese a brasilia"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 70,
+      "estimatedSeconds": 18,
       "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/alluvione-misa-quattro-anni-dopo-convegno-ostra/"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/dalla-norvegia-57-milioni-di-euro-al-fondo-amazzonia-per-la-tutela-della-foresta_0f1acd92-fdac-42f2-af20-7ab19910df73.html"
       },
       "analysis": {
-        "mainFact": "Ieri si è tenuto un convegno a quattro anni dall’alluvione del Misa, nelle Marche, che ha fatto il punto su quanto fatto da ricerca e istituzioni.",
-        "whyItMatters": "Molto del lavoro è stato fatto su base volontaristica, e già questo dovrebbe bastare per apprezzare gli studi fatti e accelerare su ricostruzione e messa in sicurezza.",
+        "mainFact": "La Norvegia donerà circa 57 milioni di euro (350 milioni di real) al Fondo Amazzonia.",
+        "whyItMatters": "La donazione dopo i risultati ottenuti dal Brasile contro la deforestazione",
         "confirmedFacts": [
-          "Ieri si è tenuto un convegno a quattro anni dall’alluvione del Misa, nelle Marche, che ha fatto il punto su quanto fatto da ricerca e istituzioni.",
-          "Molto del lavoro è stato fatto su base volontaristica, e già questo dovrebbe bastare per apprezzare gli studi fatti e accelerare su ricostruzione e messa in sicurezza.",
-          "Segnaliamo che per ripercorrere l’evento può essere utile il sito dedicato all’alluvione del 2022 sviluppato da Zadig , che raccoglie tutto ciò che si sa sul Misa, comprese alcune interviste agli esperti ed esperte coinvolti e database con i dati al momento disponibili.",
-          "Sul comportamento dei sedimenti, nello specifico, avevamo pubblicato su Scienza in rete l’articolo Misa 2022: un’alluvione che ha spostato anche i sassi dove si racconta il raro fenomeno per cui anche i massi sono entrati in sospensione durante l’alluvione, come è stato ricordato anche durante il convegno.",
-          "Il rilievo si è svolto soprattutto tra ottobre e novembre 2022, prima che i lavori di ripristino cancellassero le tracce, in tre fasi: preparazione di schede e mappe, rilievo sul campo e creazione del database.",
-          "Nel bacino del Misa è stato ispezionato circa il 68 per cento dei ponti esposti, danneggiati e integri, per avere significatività statistica.",
-          "Alluvione Misa 2022, quattro anni dopo: cosa si è capito e cosa manca"
+          "La Norvegia donerà circa 57 milioni di euro (350 milioni di real) al Fondo Amazzonia.",
+          "La donazione dopo i risultati ottenuti dal Brasile contro la deforestazione",
+          "L'annuncio stato dato luned 9 novembre dall'ambasciata norvegese a Brasilia, che ha motivato la decisione con i \"risultati raggiunti dal Brasile\" nella protezione ambientale."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "alluvione del Misa",
-          "Marche",
-          "convegno",
-          "Zadig",
-          "Scienza in rete"
+          "Norvegia",
+          "Brasile",
+          "Fondo Amazzonia",
+          "ambasciata norvegese a Brasilia"
         ],
         "numbersAndDates": [
-          "Segnaliamo che per ripercorrere l’evento può essere utile il sito dedicato all’alluvione del 2022 sviluppato da Zadig , che raccoglie tutto ciò che si sa sul Misa, comprese alcune interviste agli esperti ed esperte coinvolti e database con i dati al momento disponibili.",
-          "Sul comportamento dei sedimenti, nello specifico, avevamo pubblicato su Scienza in rete l’articolo Misa 2022: un’alluvione che ha spostato anche i sassi dove si racconta il raro fenomeno per cui anche i massi sono entrati in sospensione durante l’alluvione, come è stato ricordato anche durante il convegno.",
-          "Il rilievo si è svolto soprattutto tra ottobre e novembre 2022, prima che i lavori di ripristino cancellassero le tracce, in tre fasi: preparazione di schede e mappe, rilievo sul campo e creazione del database.",
-          "Nel bacino del Misa è stato ispezionato circa il 68 per cento dei ponti esposti, danneggiati e integri, per avere significatività statistica.",
-          "Alluvione Misa 2022, quattro anni dopo: cosa si è capito e cosa manca"
+          "L'annuncio stato dato luned 9 novembre dall'ambasciata norvegese a Brasilia, che ha motivato la decisione con i \"risultati raggiunti dal Brasile\" nella protezione ambientale.",
+          "57",
+          "350"
         ]
       }
     },
     {
-      "id": "story-8d7b7a7f970b36e9",
-      "title": "Teg 001, meteorite marziano di 4,1 miliardi di anni",
-      "summary": "Identificato un raro meteorite marziano di 4,1 miliardi di anni, chiamato Teghaza 001. Il campione fornisce nuove evidenze sul passato del Pianeta rosso, che un tempo potrebbe aver avuto un ambiente più umido e simile alla Terra. Lo studio, condotto da diversi centri di ricerca statunitensi e pubblicato la settimana scorsa su Science, potrebbe aiutare inoltre a guidare la futura esplorazione di Marte",
-      "spokenText": "Identificato un raro meteorite marziano di 4,1 miliardi di anni, chiamato Teghaza 001. Il campione fornisce nuove evidenze sul passato del Pianeta rosso, che un tempo potrebbe aver avuto un ambiente più umido e simile alla Terra. Lo studio, condotto da diversi centri di ricerca statunitensi e pubblicato la settimana scorsa su Science, potrebbe aiutare inoltre a guidare la futura esplorazione di Marte.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "teghaza 001",
-        "marte",
-        "science",
-        "centri di ricerca statunitensi"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 26,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/06/teg-001-meteorite-marziano/"
-      },
-      "analysis": {
-        "mainFact": "Identificato un raro meteorite marziano di 4,1 miliardi di anni, chiamato Teghaza 001.",
-        "whyItMatters": "Il campione fornisce nuove evidenze sul passato del Pianeta rosso, che un tempo potrebbe aver avuto un ambiente più umido e simile alla Terra.",
-        "confirmedFacts": [
-          "Identificato un raro meteorite marziano di 4,1 miliardi di anni, chiamato Teghaza 001.",
-          "Il campione fornisce nuove evidenze sul passato del Pianeta rosso, che un tempo potrebbe aver avuto un ambiente più umido e simile alla Terra."
-        ],
-        "uncertainties": [
-          "Lo studio, condotto da diversi centri di ricerca statunitensi e pubblicato la settimana scorsa su Science, potrebbe aiutare inoltre a guidare la futura esplorazione di Marte"
-        ],
-        "peopleAndOrganizations": [
-          "Teghaza 001",
-          "Marte",
-          "Science",
-          "centri di ricerca statunitensi"
-        ],
-        "numbersAndDates": [
-          "4,1",
-          "001"
-        ]
-      }
-    },
-    {
-      "id": "story-2605f9803a94ae1a",
-      "title": "Quali sono i rifiuti più dispersi nell’ambiente",
-      "summary": "Ogni anno ne finiscono nell'ambiente 4.500 miliardi, di cui 14 solo in Italia: oltre a rilasciare piombo e arsenico, i filtri delle sigarette rappresentano oltre il 23% dei rifiuti trovati sui litorali europei.",
-      "spokenText": "Ogni anno finiscono nell'ambiente 4.500 miliardi di filtri delle sigarette, di cui 14 miliardi solo in Italia. I mozziconi di sigaretta sono i rifiuti più dispersi al mondo. Le sigarette tradizionali, oltre al filtro in plastica, contengono sostanze altamente inquinanti come arsenico, piombo e formaldeide. Questi filtri rilasciano piombo e arsenico e rappresentano oltre il 23% dei rifiuti trovati sui litorali europei, dove sulle coste italiane se ne trovano in media 77 ogni 100 metri di litorale. 8 novembre 2026 Barbara Merlo Tag ambiente - sigaretta - sigarette - mozziconi di sigaretta - arsenico - piombo - microplastiche - microplastica.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "filtri delle sigarette",
-        "mozziconi di sigaretta",
-        "italia",
-        "litorali europei"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 40,
-      "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/ambiente/ecologia/quali-sono-i-rifiuti-piu-dispersi-nell-ambiente-i-filtri-delle-sigarette"
-      },
-      "analysis": {
-        "mainFact": "Ogni anno finiscono nell'ambiente 4.500 miliardi di filtri delle sigarette, di cui 14 miliardi solo in Italia.",
-        "whyItMatters": "I filtri delle sigarette rilasciano piombo e arsenico e rappresentano oltre il 23% dei rifiuti trovati sui litorali europei; sulle coste italiane se ne trovano in media 77 ogni 100 metri di litorale.",
-        "confirmedFacts": [
-          "Ogni anno finiscono nell'ambiente 4.500 miliardi di filtri delle sigarette, di cui 14 miliardi solo in Italia.",
-          "I filtri delle sigarette rilasciano piombo e arsenico e rappresentano oltre il 23% dei rifiuti trovati sui litorali europei; sulle coste italiane se ne trovano in media 77 ogni 100 metri di litorale.",
-          "I mozziconi di sigaretta sono i rifiuti pi dispersi nell'ambiente: ogni anno se ne abbandonano circa 4.500 miliardi e, di questi, 14 miliardi in Italia .",
-          "Le sigarette tradizionali, oltre al filtro in plastica, contengono sostanze altamente inquinanti, come arsenico, piombo e formaldeide.",
-          "8 novembre 2026 Barbara Merlo Tag ambiente - sigaretta - sigarette - mozziconi di sigaretta - arsenico - piombo - microplastiche - microplastica",
-          "Ecologia Quali sono i rifiuti più dispersi nell’ambiente?"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "filtri delle sigarette",
-          "mozziconi di sigaretta",
-          "Italia",
-          "litorali europei"
-        ],
-        "numbersAndDates": [
-          "I mozziconi di sigaretta sono i rifiuti pi dispersi nell'ambiente: ogni anno se ne abbandonano circa 4.500 miliardi e, di questi, 14 miliardi in Italia .",
-          "8 novembre 2026 Barbara Merlo Tag ambiente - sigaretta - sigarette - mozziconi di sigaretta - arsenico - piombo - microplastiche - microplastica",
-          "4.500",
-          "14",
-          "23",
-          "77",
-          "100"
-        ]
-      }
-    },
-    {
-      "id": "story-5132cbfb92141ca4",
-      "title": "Terapia a 2 farmaci per il colesterolo riduce la placca di arterosclerosi",
-      "summary": "Nelle arterie che ossigenano il cuore, studio clinico di confronto con cura standard",
-      "spokenText": "Una terapia combinata a due farmaci per il colesterolo riduce la placca di arterosclerosi. Nelle arterie che ossigenano il cuore, uno studio clinico di confronto con la cura standard ha evidenziato che l'approccio più intensivo ha ridotto il colesterolo cattivo del 65%, a fronte del 38% ottenuto con il trattamento standard. A ciò è seguita la regressione della placca: il volume totale si è ridotto del 21,1% con la terapia combinata, contro il 13,6% del gruppo di riferimento. Le placche non calcificate sono regredite in 51 casi su 52, contro i 39 pazienti della terapia standard. Con questo approccio, il 90% dei pazienti ha riscontrato una diminuzione del volume della placca, contro il 75% di chi ha seguito il trattamento ordinario.",
+      "id": "story-8006470c3ccf3e86",
+      "title": "Cure palliative, servono anche in ospedale e nelle Rsa per un anziano su 2",
+      "summary": "Lo studio di geriatri e internisti, terapie assenti in più di un terzo delle strutture",
+      "spokenText": "Lo studio di geriatri e internisti, terapie assenti in più di un terzo delle strutture. Il 58% degli anziani ospedalizzati e il 48% dei residenti nelle Rsa ha bisogno di cure palliative, ma queste non sono disponibili in più di un terzo dei reparti ospedalieri e delle strutture residenziali a lungo termine. Condotto in 235 strutture italiane e coordinato da Dario Leosco, presidente della Sigg, insieme a Graziano Onder, professore di medicina e cure palliative dell'Università Cattolica del Sacro Cuore di Roma, lo studio è stato effettuato su circa 5400 anziani. Più di 3300 ricoverati nei reparti di medicina interna e geriatria, con un'età media di 81 anni, e quasi 2100 residenti in strutture di assistenza a lungo termine, con un'età media di 86 anni. Cure palliative, servono anche in ospedale.",
       "category": "salute",
       "tags": [
         "salute",
-        "terapia combinata",
-        "colesterolo",
-        "placca di arterosclerosi",
-        "studio clinico"
+        "dario leosco",
+        "graziano onder",
+        "sigg",
+        "universita cattolica del sacro cuore di roma"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 49,
+      "estimatedSeconds": 53,
       "source": {
         "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/terapia-a-2-farmaci-per-il-colesterolo-riduce-la-placca-di-arterosclerosi_4206384f-d12b-468b-81b3-2f247af67594.html"
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/09/cure-palliative-servono-anche-in-ospedale-e-nelle-rsa-per-un-anziano-su-due_636025d4-fcfc-4aa1-b33e-37c1b78ea8f3.html"
       },
       "analysis": {
-        "mainFact": "Terapia a 2 farmaci per il colesterolo riduce la placca di arterosclerosi.",
-        "whyItMatters": "Con la terapia combinata, il 90% dei pazienti ha riscontrato una diminuzione del volume della placca, contro il 75% di quelli sottoposti al trattamento standard.",
+        "mainFact": "Lo studio di geriatri e internisti, terapie assenti in più di un terzo delle strutture",
+        "whyItMatters": "Il 58% degli anziani ospedalizzati e il 48% dei residenti nelle Rsa ha bisogno di cure palliative, ma queste non sono disponibili in più di un terzo dei reparti ospedalieri e delle strutture residenziali a lungo termine.",
         "confirmedFacts": [
-          "Terapia a 2 farmaci per il colesterolo riduce la placca di arterosclerosi.",
-          "Con la terapia combinata, il 90% dei pazienti ha riscontrato una diminuzione del volume della placca, contro il 75% di quelli sottoposti al trattamento standard.",
-          "Nelle arterie che ossigenano il cuore, studio clinico di confronto con cura standard",
-          "È emerso che una terapia combinata più intensiva ha ridotto il colesterolo cattivo del 65%, a fronte di una riduzione del 38% ottenuta con la terapia intensiva standard.",
-          "A ciò è seguita la regressione della placca: il volume totale della placca si è ridotto del 21,1% con la terapia combinata, contro il 13,6% del trattamento standard.",
-          "La terapia combinata ha portato a una regressione delle placche non calcificate in 51 casi su 52, contro i 39 pazienti del gruppo della terapia standard."
+          "Lo studio di geriatri e internisti, terapie assenti in più di un terzo delle strutture",
+          "Il 58% degli anziani ospedalizzati e il 48% dei residenti nelle Rsa ha bisogno di cure palliative, ma queste non sono disponibili in più di un terzo dei reparti ospedalieri e delle strutture residenziali a lungo termine.",
+          "Condotto in 235 strutture italiane e coordinato da Dario Leosco, presidente della Sigg, insieme a Graziano Onder, professore di medicina e cure palliative dell'Università Cattolica del Sacro Cuore di Roma, lo studio è stato effettuato su circa 5400 anziani:",
+          "Coordinato da Dario Leosco, presidente della Sigg, insieme a Graziano Onder, professore di Medicina e cure palliative dell'Universit Cattolica di Roma, lo studio stato condotto su 5.400 anziani in 235 strutture.",
+          "più di 3300 ricoverati nei reparti di medicina interna e geriatria, con un'età media di 81 anni, e quasi 2100 residenti in strutture di assistenza a lungo termine, con un'età media di 86 anni.",
+          "Cure palliative, servono anche in ospedale e nelle Rsa per 1 anziano su 2"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "terapia combinata",
-          "colesterolo",
-          "placca di arterosclerosi",
-          "studio clinico"
+          "Dario Leosco",
+          "Graziano Onder",
+          "Sigg",
+          "Università Cattolica del Sacro Cuore di Roma"
         ],
         "numbersAndDates": [
-          "È emerso che una terapia combinata più intensiva ha ridotto il colesterolo cattivo del 65%, a fronte di una riduzione del 38% ottenuta con la terapia intensiva standard.",
-          "A ciò è seguita la regressione della placca: il volume totale della placca si è ridotto del 21,1% con la terapia combinata, contro il 13,6% del trattamento standard.",
-          "La terapia combinata ha portato a una regressione delle placche non calcificate in 51 casi su 52, contro i 39 pazienti del gruppo della terapia standard.",
-          "2",
-          "90",
-          "75"
+          "Condotto in 235 strutture italiane e coordinato da Dario Leosco, presidente della Sigg, insieme a Graziano Onder, professore di medicina e cure palliative dell'Università Cattolica del Sacro Cuore di Roma, lo studio è stato effettuato su circa 5400 anziani:",
+          "Coordinato da Dario Leosco, presidente della Sigg, insieme a Graziano Onder, professore di Medicina e cure palliative dell'Universit Cattolica di Roma, lo studio stato condotto su 5.400 anziani in 235 strutture.",
+          "più di 3300 ricoverati nei reparti di medicina interna e geriatria, con un'età media di 81 anni, e quasi 2100 residenti in strutture di assistenza a lungo termine, con un'età media di 86 anni.",
+          "Cure palliative, servono anche in ospedale e nelle Rsa per 1 anziano su 2",
+          "58",
+          "48"
         ]
       }
     },
     {
-      "id": "story-480d2aa745ac1df5",
-      "title": "Bevande vegetali? Meglio se \"arricchite\"",
-      "summary": "Le alternative vegetali a latte e derivati sono sempre più popolari per motivi etici e ambientali, ma meglio scegliere quelle addizionate di iodio.",
-      "spokenText": "Se stai sostituendo latte e derivati con bevande vegetali, meglio scegliere quelle addizionate di iodio. Questo perché, senza addizione in fase di produzione, lo iodio nelle alternative vegetali è presente in concentrazioni molto ridotte rispetto al latte vaccino, e questo potrebbe comportare carenze di micronutrienti importanti. Lo studio è pubblicato su Lancet Planetary Health.",
-      "category": "salute",
+      "id": "story-fc474d3412aeee6f",
+      "title": "India, cancellati 130 milioni di elettori: esplode la protesta contro Modi",
+      "summary": "Arresti di massa e capitale blindata a New Delhi: l'India protesta contro la revisione elettorale che esclude dal voto milioni di musulmani e Dalit.",
+      "spokenText": "Il 31 agosto la Commissione elettorale Indiana ha pubblicato le liste elettorali provvisorie, cancellando oltre 130 milioni di nomi. Il provvedimento segue una revisione intensiva speciale e colpisce un elettorato di quasi un miliardo di persone in una popolazione di 1,48 miliardi di abitanti. Per superare questa fase, gli elettori devono dimostrare di possedere documentazione stringente, come certificati di nascita e di proprietà terriera della famiglia, requisiti particolarmente difficili per chi è stato registrato dopo il 2003. L'impatto è stato rilevante in Bihar, dove l'elettorato è sceso di oltre 4,7 milioni di persone, quasi il 6% del totale, in larga parte appartenente a categorie vulnerabili come donne, Dalit e musulmani, concentrati nei distretti più poveri. Nel 2023 il governo Modi, un anno prima dalla sua riconferma per il terzo mandato , aveva approvato una legge per la selezione dei tre membri della Commissione Elettorale, garantendo all’esecutivo (quindi, al BJP) il controllo della maggioranza nel comitato di nomina.",
+      "category": "diritti",
       "tags": [
-        "salute",
-        "bevande vegetali",
-        "iodio",
-        "lancet planetary health"
+        "diritti",
+        "india",
+        "commissione elettorale indiana eci",
+        "modi",
+        "bjp",
+        "bihar",
+        "musulmani",
+        "dalit"
       ],
-      "importance": 72,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 22,
+      "estimatedSeconds": 63,
       "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/scienza/salute/bevande-vegetali-al-posto-del-latte-vaccino-attenti-alle-carenze-di-iodio"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/india-studenti-femministe-proteste-modi-elezioni/"
       },
       "analysis": {
-        "mainFact": "ma meglio scegliere quelle addizionate di iodio.",
-        "whyItMatters": "Sostituire in parte o del tutto latte e derivati con alternative vegetali potrebbe comportare carenze di micronutrienti importanti, e in particolare di iodio.",
+        "mainFact": "Il 31 agosto la Commissione elettorale Indiana ha pubblicato le liste elettorali provvisorie a seguito della revisione intensiva speciale, cancellando oltre 130 milioni di nomi dalle liste.",
+        "whyItMatters": "Per superare questa prima fase gli elettori devono dimostrare di avere la documentazione richiesta, come certificati di nascita e di proprietà terriera della famiglia, requisiti che possono essere molto stringenti per chi è stato registrato dopo il 2003.",
         "confirmedFacts": [
-          "ma meglio scegliere quelle addizionate di iodio.",
-          "Sostituire in parte o del tutto latte e derivati con alternative vegetali potrebbe comportare carenze di micronutrienti importanti, e in particolare di iodio.",
-          "Nelle bevande vegetali, se non viene aggiunto in fase di produzione, lo iodio presente in concentrazioni molto ridotte rispetto a quelle del latte vaccino."
+          "Il 31 agosto la Commissione elettorale Indiana ha pubblicato le liste elettorali provvisorie a seguito della revisione intensiva speciale, cancellando oltre 130 milioni di nomi dalle liste.",
+          "Per superare questa prima fase gli elettori devono dimostrare di avere la documentazione richiesta, come certificati di nascita e di proprietà terriera della famiglia, requisiti che possono essere molto stringenti per chi è stato registrato dopo il 2003.",
+          "Un processo dalle dimensioni mastodontiche se teniamo in considerazione che l’India ha una popolazione di 1,48 miliardi di abitanti, con quasi 1 miliardo di persone aventi diritto di voto.",
+          "Nel 2023 il governo Modi, un anno prima dalla sua riconferma per il terzo mandato , aveva approvato una legge per la selezione dei tre membri della Commissione Elettorale, garantendo all’esecutivo (quindi, al BJP) il controllo della maggioranza nel comitato di nomina.",
+          "Con la revisione dell’anno scorso, il Bihar ha visto scendere il suo elettorato di oltre 4,7 milioni di elettori , pari quasi al 6% del totale, in larga parte appartenente a categorie vulnerabili come donne , Dalit, musulmani e nei distretti più poveri.",
+          "Lo scorso 31 agosto con la pubblicazione dei registri provvisori, il nome di oltre 130 milioni di persone è stato cancellato dalle liste elettorali .",
+          "India, cancellati 130 milioni di elettori: esplode la protesta contro Modi"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "bevande vegetali",
-          "iodio",
-          "Lancet Planetary Health"
+          "India",
+          "Commissione elettorale Indiana (ECI)",
+          "Modi",
+          "BJP",
+          "Bihar",
+          "musulmani",
+          "Dalit"
         ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "Un processo dalle dimensioni mastodontiche se teniamo in considerazione che l’India ha una popolazione di 1,48 miliardi di abitanti, con quasi 1 miliardo di persone aventi diritto di voto.",
+          "Nel 2023 il governo Modi, un anno prima dalla sua riconferma per il terzo mandato , aveva approvato una legge per la selezione dei tre membri della Commissione Elettorale, garantendo all’esecutivo (quindi, al BJP) il controllo della maggioranza nel comitato di nomina.",
+          "Con la revisione dell’anno scorso, il Bihar ha visto scendere il suo elettorato di oltre 4,7 milioni di elettori , pari quasi al 6% del totale, in larga parte appartenente a categorie vulnerabili come donne , Dalit, musulmani e nei distretti più poveri.",
+          "Lo scorso 31 agosto con la pubblicazione dei registri provvisori, il nome di oltre 130 milioni di persone è stato cancellato dalle liste elettorali .",
+          "India, cancellati 130 milioni di elettori: esplode la protesta contro Modi",
+          "31",
+          "130",
+          "2003"
+        ]
       }
     },
     {
-      "id": "story-88dd25644bb39b73",
-      "title": "Berkshire Hathaway, cresce a 377 miliardi di dollari la montagna di liquidità",
-      "summary": "Il colosso fondato da Buffett ha annunciato un utile trimestrale in calo a 22,1 miliardi di dollari",
-      "spokenText": "La montagna di liquidità di Berkshire Hathaway cresce a 377 miliardi di dollari e il colosso fondato da Buffett ha annunciato un utile trimestrale in calo a 22,1 miliardi di dollari. L'utile netto è sceso rispetto ai 30,8 miliardi di dollari, ovvero 21.413 dollari per azione, registrati nel terzo trimestre dell'anno scorso, e rispetto ai 13,485 miliardi di dollari, pari a 9.376,15 dollari per azione di Classe A, registrati un anno fa; gli utili operativi sono diminuiti di quasi il 6%, attestandosi a 12,7 miliardi di dollari, ovvero 8.907 dollari per azione di Classe A. I conti del gruppo Sabato mattina Berkshire ha annunciato un utile di 22,1 miliardi di dollari, pari a 15.502 dollari per azione di Classe A.",
+      "id": "story-408e729cb1c32a8c",
+      "title": "Milano Santa Giulia, saltato l’accordo tra Bizzi e Lendlease",
+      "summary": "La società australiana rescinde l’accordo di vendita per Msg Nort e lo annuncia in una nota. Senza la conclusione di una transazione alternativa entro il 31 dicembre 2026, la società rischia di perdere 100 milioni di euro.",
+      "spokenText": "La società australiana Lendlease ha rescisso l'accordo di vendita per Msg Nort e ha annunciato l'annullamento del piano di vendita della sua quota del 17,6% nel progetto al costruttore italiano Bizzi & Partners. Lendlease rischia di perdere circa 100 milioni di euro e non riceverà più i proventi in contanti previsti di circa 90 milioni di dollari australiani (pari a circa 55 milioni di euro) per il primo semestre dell'anno fiscale 2027. «Qualora - si legge - non si giungesse a una conclusione di una transazione alternativa entro il 31 dicembre 2026, è probabile che Lendlease debba farsi carico degli obblighi relativi al progetto per un importo di circa 160 milioni di dollari nel primo semestre dell’anno fiscale 2027». Immobiliare Milano Santa Giulia, saltato l’accordo tra Bizzi e Lendlease La società australiana rescinde l’accordo di vendita per Msg Nort e lo annuncia in una nota. Lo indica la stessa società, in una nota.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "berkshire hathaway",
-        "buffett",
-        "geico"
+        "lendlease",
+        "bizzi partners",
+        "milano santa giulia",
+        "asx di sydney"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 48,
+      "estimatedSeconds": 62,
       "source": {
         "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/berkshire-hathaway-cresce-377-miliardi-dollari-montagna-liquidita-AJc4sY8B"
+        "url": "https://www.ilsole24ore.com/art/milano-santa-giulia-saltato-l-accordo-bizzi-e-lendlease-AJxGI09B"
       },
       "analysis": {
-        "mainFact": "La montagna di liquidità di Berkshire Hathaway cresce a 377 miliardi di dollari e il colosso fondato da Buffett ha annunciato un utile trimestrale in calo a 22,1 miliardi di dollari.",
-        "whyItMatters": "L'utile netto è sceso rispetto ai 30,8 miliardi di dollari, ovvero 21.413 dollari per azione, registrati nel terzo trimestre dell'anno scorso, e rispetto ai 13,485 miliardi di dollari, pari a 9.376,15 dollari per azione di Classe A, registrati un anno fa; gli utili operativi sono diminuiti di quasi il 6%, attestandosi a 12,7 miliardi di dollari, ovvero 8.907 dollari per azione di Classe A.",
+        "mainFact": "La società australiana Lendlease ha rescisso l'accordo di vendita per Msg Nort e ha annunciato l'annullamento del piano di vendita della sua quota del 17,6% nel progetto al costruttore italiano Bizzi & Partners.",
+        "whyItMatters": "Lendlease rischia di perdere circa 100 milioni di euro e non riceverà più i proventi in contanti previsti di circa 90 milioni di dollari australiani (pari a circa 55 milioni di euro) per il primo semestre dell'anno fiscale 2027.",
         "confirmedFacts": [
-          "La montagna di liquidità di Berkshire Hathaway cresce a 377 miliardi di dollari e il colosso fondato da Buffett ha annunciato un utile trimestrale in calo a 22,1 miliardi di dollari.",
-          "L'utile netto è sceso rispetto ai 30,8 miliardi di dollari, ovvero 21.413 dollari per azione, registrati nel terzo trimestre dell'anno scorso, e rispetto ai 13,485 miliardi di dollari, pari a 9.376,15 dollari per azione di Classe A, registrati un anno fa; gli utili operativi sono diminuiti di quasi il 6%, attestandosi a 12,7 miliardi di dollari, ovvero 8.907 dollari per azione di Classe A.",
-          "L’utile di Geico è sceso a 1,35 miliardi di dollari dai 2,37 miliardi dell’anno scorso.",
-          "I conti del gruppo Sabato mattina Berkshire ha annunciato un utile di 22,1 miliardi di dollari, pari a 15.502 dollari per azione di Classe A."
+          "La società australiana Lendlease ha rescisso l'accordo di vendita per Msg Nort e ha annunciato l'annullamento del piano di vendita della sua quota del 17,6% nel progetto al costruttore italiano Bizzi & Partners.",
+          "Lendlease rischia di perdere circa 100 milioni di euro e non riceverà più i proventi in contanti previsti di circa 90 milioni di dollari australiani (pari a circa 55 milioni di euro) per il primo semestre dell'anno fiscale 2027.",
+          "«Qualora - si legge - non si giungesse a una conclusione di una transazione alternativa entro il 31 dicembre 2026, è probabile che Lendlease debba farsi carico degli obblighi relativi al progetto per un importo di circa 160 milioni di dollari nel primo semestre dell’anno fiscale 2027».",
+          "In pratica, circa 100 milioni di euro.",
+          "immobiliare Milano Santa Giulia, saltato l’accordo tra Bizzi e Lendlease La società australiana rescinde l’accordo di vendita per Msg Nort e lo annuncia in una nota.",
+          "Lo indica la stessa società, in una nota.",
+          "Lendlease - società quotata all’ASX di Sydney - ha annunciato l’annullamento del piano di vendita della sua quota del 17,6% nel progetto al costruttore italiano Bizzi & Partners."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Berkshire Hathaway",
-          "Buffett",
-          "Geico"
+          "Lendlease",
+          "Bizzi & Partners",
+          "Milano Santa Giulia",
+          "ASX di Sydney"
         ],
         "numbersAndDates": [
-          "L’utile di Geico è sceso a 1,35 miliardi di dollari dai 2,37 miliardi dell’anno scorso.",
-          "I conti del gruppo Sabato mattina Berkshire ha annunciato un utile di 22,1 miliardi di dollari, pari a 15.502 dollari per azione di Classe A.",
-          "377",
-          "22,1",
-          "30,8",
-          "21.413",
-          "13,485",
-          "9.376,15",
-          "6",
-          "12,7"
+          "«Qualora - si legge - non si giungesse a una conclusione di una transazione alternativa entro il 31 dicembre 2026, è probabile che Lendlease debba farsi carico degli obblighi relativi al progetto per un importo di circa 160 milioni di dollari nel primo semestre dell’anno fiscale 2027».",
+          "In pratica, circa 100 milioni di euro.",
+          "Lendlease - società quotata all’ASX di Sydney - ha annunciato l’annullamento del piano di vendita della sua quota del 17,6% nel progetto al costruttore italiano Bizzi & Partners.",
+          "17,6",
+          "100",
+          "90",
+          "55",
+          "2027"
         ]
       }
     },
     {
-      "id": "story-4f86508ac6132d24",
-      "title": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro",
-      "summary": "Osservatorio prezzi del Mimit: la benzina è venduta a 2 euro",
-      "spokenText": "I prezzi dei carburanti restano fermi nonostante lo stop al taglio delle accise, con il gasolio che si attesta a 2,23 euro. Secondo le rilevazioni dell'Osservatorio prezzi del Mimit, il prezzo medio in modalità self service lungo la rete stradale nazionale è di 2,000 euro al litro per la benzina e di 2,223 euro per il gasolio. Il ministero ricorda che, grazie al price cap a cui hanno aderito le principali compagnie, i prezzi self-service restano tuttavia sotto i 2 euro per la benzina e i 2,20 euro per il gasolio in gran parte della rete stradale.",
-      "category": "ambiente",
+      "id": "story-7bb9b3b85a862612",
+      "title": "Arriva il bollino Ue anti-hacker: come saranno le nuove regole per i dispositivi digitali",
+      "summary": "Il regolamento europeo - i cui principali obblighi di conformità scatteranno in via definitiva a dicembre 2027 - stabilisce requisiti di cybersicurezza, cioè di protezione da attacchi informatici, accessi abusivi e malfunzionamenti, per i prodotti con elementi digitali",
+      "spokenText": "Il regolamento europeo introduce nuovi requisiti di cybersicurezza per i prodotti con elementi digitali, con l'obiettivo di proteggerli da attacchi informatici, accessi abusivi e malfunzionamenti. I produttori che non rispettano queste regole rischiano sanzioni fino a 15 milioni di euro o al 2,5% del fatturato mondiale annuo per le violazioni più gravi. Per altre inadempienze, le multe arrivano fino a 10 milioni di euro o al 2% del fatturato, mentre chi fornisce informazioni inesatte o fuorvianti alle autorità può essere sanzionato fino a 5 milioni di euro o all'1% del fatturato.",
+      "category": "tecnologia",
       "tags": [
-        "ambiente",
-        "mimit",
-        "osservatorio prezzi",
-        "benzina",
-        "gasolio"
+        "tecnologia"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 39,
+      "estimatedSeconds": 37,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/mimit-prezzi-carburanti-fermi-malgrado-stop-taglio-accise-gasolio-a-223_3a4e4aa5-2d2a-4119-bd93-63dba8a9828c.html"
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/arriva-bollino-ue-anti-hacker-come-saranno-nuove-regole-i-dispositivi-digitali-AJZm4R9B"
       },
       "analysis": {
-        "mainFact": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro.",
-        "whyItMatters": "Osservatorio prezzi del Mimit: la benzina è venduta a 2 euro",
+        "mainFact": "Il regolamento europeo stabilisce requisiti di cybersicurezza, cioè di protezione da attacchi informatici, accessi abusivi e malfunzionamenti, per i prodotti con elementi digitali.",
+        "whyItMatters": "Le sanzioni per i produttori che non rispettano le regole sono fino a 15 milioni di euro o al 2,5% del fatturato mondiale annuo per le violazioni più gravi, fino a 10 milioni o al 2% per altre inadempienze e fino a 5 milioni o all’1% per chi fornisce informazioni inesatte o fuorvianti alle autorità.",
         "confirmedFacts": [
-          "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro.",
-          "Osservatorio prezzi del Mimit: la benzina è venduta a 2 euro",
-          "Secondo le rilevazioni dell'osservatorio prezzi del Mimit il prezzo medio dei carburanti in modalità 'self service' lungo la rete stradale nazionale è pari a 2,000 euro al litro per la benzina e 2,223 euro per il gasolio.",
-          "Sulla rete autostradale, invece, il prezzo medio self è di 2,029 euro per la benzina e 2,277 euro per il gasolio.",
-          "\"Grazie al price cap cui hanno aderito le principali compagnie, i prezzi self-service restano tuttavia sotto i 2 euro per la benzina e i 2,20 euro per il gasolio in gran parte della rete stradale\" ricorda il ministero."
+          "Il regolamento europeo stabilisce requisiti di cybersicurezza, cioè di protezione da attacchi informatici, accessi abusivi e malfunzionamenti, per i prodotti con elementi digitali.",
+          "Le sanzioni per i produttori che non rispettano le regole sono fino a 15 milioni di euro o al 2,5% del fatturato mondiale annuo per le violazioni più gravi, fino a 10 milioni o al 2% per altre inadempienze e fino a 5 milioni o all’1% per chi fornisce informazioni inesatte o fuorvianti alle autorità.",
+          "Il regolamento europeo - i cui principali obblighi di conformità scatteranno in via definitiva a dicembre 2027 - stabilisce requisiti di cybersicurezza, cioè di protezione da attacchi informatici, accessi abusivi e malfunzionamenti, per i prodotti con elementi digitali"
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Mimit",
-          "Osservatorio prezzi",
-          "benzina",
-          "gasolio"
-        ],
+        "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "Secondo le rilevazioni dell'osservatorio prezzi del Mimit il prezzo medio dei carburanti in modalità 'self service' lungo la rete stradale nazionale è pari a 2,000 euro al litro per la benzina e 2,223 euro per il gasolio.",
-          "Sulla rete autostradale, invece, il prezzo medio self è di 2,029 euro per la benzina e 2,277 euro per il gasolio.",
-          "\"Grazie al price cap cui hanno aderito le principali compagnie, i prezzi self-service restano tuttavia sotto i 2 euro per la benzina e i 2,20 euro per il gasolio in gran parte della rete stradale\" ricorda il ministero.",
-          "2,23",
-          "2"
+          "15",
+          "2,5",
+          "10",
+          "2",
+          "5",
+          "1"
         ]
       }
     },
     {
-      "id": "story-a7c5917c79aab17b",
-      "title": "Base lunare: NASA sceglie 8 aziende per missioni cargo",
-      "summary": "La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare. The post Base lunare: NASA sceglie 8 aziende per missioni cargo appeared first on Punto Informatico.",
-      "spokenText": "La NASA ha scelto otto aziende per trasportare carichi utili sulla superficie lunare, in supporto della futura base lunare. Le imprese selezionate forniranno servizi di trasporto per missioni cargo di natura scientifica, tecnologica o infrastrutturale. Tra i vettori previsti per alcuni di questi lanci figurano i razzi New Glenn di Blue Origin, Terran R di Relativity Space e Falcon 9 di SpaceX.",
+      "id": "story-7925c39c8463fe20",
+      "title": "Un avvocato sfida il cloud con 8 schede NVIDIA usate: ecco cosa ottiene",
+      "summary": "Un avvocato ha realizzato un server privato con otto NVIDIA V100 usate per elaborare fascicoli legali senza inviare i documenti dei clienti ai servizi AI cloud. Il sistema è già impiegato quotidianame...",
+      "spokenText": "Un avvocato ha realizzato un server privato utilizzando otto schede NVIDIA V100 usate per elaborare i fascicoli legali dei propri clienti, evitando di inviare i documenti ai servizi di intelligenza artificiale cloud.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "nasa",
-        "blue origin",
-        "relativity space",
-        "spacex",
-        "luna"
+        "avvocato",
+        "nvidia v100"
       ],
-      "importance": 75,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 25,
+      "estimatedSeconds": 13,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/base-lunare-nasa-sceglie-8-aziende-missioni-cargo/"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/hardware/un-avvocato-crea-un-server-con-gpu-nvidia-v100-lai-resta-privata"
       },
       "analysis": {
-        "mainFact": "La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare.",
-        "whyItMatters": "Sono state scelte 8 aziende che forniranno servizi di trasporto per carichi utili della NASA di natura scientifica, tecnologica o infrastrutturale.",
+        "mainFact": "Un avvocato ha realizzato un server privato con otto NVIDIA V100 usate per elaborare fascicoli legali senza inviare i documenti dei clienti ai servizi AI cloud.",
+        "whyItMatters": "Un avvocato sfida il cloud con 8 schede NVIDIA usate: ecco cosa ottiene",
         "confirmedFacts": [
-          "La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare.",
-          "Sono state scelte 8 aziende che forniranno servizi di trasporto per carichi utili della NASA di natura scientifica, tecnologica o infrastrutturale.",
-          "Base lunare: NASA sceglie 8 aziende per missioni cargo",
-          "Base lunare: NASA sceglie 8 aziende per missioni cargo La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare.",
-          "La NASA ha annunciato i nomi delle 8 aziende scelte per le future missioni cargo sulla Luna .",
-          "Alcune missioni verranno lanciate con i razzi New Glenn di Blue Origin, Terran R di Relativity Space e Falcon 9 di SpaceX."
+          "Un avvocato ha realizzato un server privato con otto NVIDIA V100 usate per elaborare fascicoli legali senza inviare i documenti dei clienti ai servizi AI cloud.",
+          "Un avvocato sfida il cloud con 8 schede NVIDIA usate: ecco cosa ottiene"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "NASA",
-          "Blue Origin",
-          "Relativity Space",
-          "SpaceX",
-          "Luna"
+          "avvocato",
+          "NVIDIA V100"
         ],
         "numbersAndDates": [
-          "Base lunare: NASA sceglie 8 aziende per missioni cargo",
-          "Base lunare: NASA sceglie 8 aziende per missioni cargo La NASA ha scelto otto aziende per portare carichi utili sulla Luna e trasportarli sulla superficie a supporto della futura base lunare.",
-          "La NASA ha annunciato i nomi delle 8 aziende scelte per le future missioni cargo sulla Luna .",
-          "Alcune missioni verranno lanciate con i razzi New Glenn di Blue Origin, Terran R di Relativity Space e Falcon 9 di SpaceX.",
           "8"
         ]
       }
     },
     {
-      "id": "story-83af587d036f7b3b",
-      "title": "OpenAI, un nuovo modello di IA scova falle in oggetti connessi",
-      "summary": "Scopre un bug in Linux, una base di server e infrastrutture che supervisionano celle frigorifere",
-      "spokenText": "Gpt-6 Cyber, il nuovo modello di OpenAI, è capace di scovare falle in oggetti connessi. Il sistema ha ottenuto un punteggio del 48,5% su un test che misura la capacità di sfruttare una vulnerabilità specifica, in crescita rispetto al 32,1% del modello precedente. Tra i bug individuati, Gpt-6 Cyber ne ha scoperto uno in Linux, il software che costituisce il cuore di server e data center, ma anche di molte infrastrutture che supervisionano le celle frigorifere utilizzate nella logistica alimentare e farmaceutica.",
+      "id": "story-4445fcd619889f9a",
+      "title": "La fame di silicio continua a crescere e non riguarda solo i chip",
+      "summary": "SEMI ha comunicato che le spedizioni mondiali di wafer di silicio hanno raggiunto 3,756 miliardi di pollici quadrati nel terzo trimestre 2026, con una crescita del 13,4% su base annua. A sostenere l’a...",
+      "spokenText": "SEMI ha comunicato che le spedizioni mondiali di wafer di silicio hanno raggiunto 3,756 miliardi di pollici quadrati nel terzo trimestre del 2026, segnando una crescita del 13,4% su base annua.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "openai",
-        "gpt 6 cyber",
-        "linux",
-        "celle frigorifere",
-        "logistica alimentare"
+        "semi",
+        "wafer di silicio"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 33,
+      "estimatedSeconds": 13,
       "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/11/06/openai-spinge-su-cybersicurezza-nuovo-modello-ia-scova-falle-in-oggetti-connessi_29d54132-cae2-4f2e-bb6f-d8cf789edb1a.html"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/hardware/le-spedizioni-di-wafer-salgono-del-134-perche-lai-ne-vuole-di-piu"
       },
       "analysis": {
-        "mainFact": "Gpt-6 Cyber, che scova falle in oggetti connessi.",
-        "whyItMatters": "Gpt-6 Cyber ha ottenuto un punteggio di 48,5% su un test che misura la capacità dei modelli di sfruttare una vulnerabilità specifica, in crescita rispetto al 32,1% registrato dal modello precedente.",
+        "mainFact": "SEMI ha comunicato che le spedizioni mondiali di wafer di silicio hanno raggiunto 3,756 miliardi di pollici quadrati nel terzo trimestre 2026, con una crescita del 13,4% su base annua.",
+        "whyItMatters": "Spedizioni mondiali wafer di silicio in crescita per domanda AI, settore industria e tecnologia.",
         "confirmedFacts": [
-          "Gpt-6 Cyber, che scova falle in oggetti connessi.",
-          "Gpt-6 Cyber ha ottenuto un punteggio di 48,5% su un test che misura la capacità dei modelli di sfruttare una vulnerabilità specifica, in crescita rispetto al 32,1% registrato dal modello precedente.",
-          "Scopre un bug in Linux, una base di server e infrastrutture che supervisionano celle frigorifere",
-          "Linux costituisce il cuore-software non solo di server e data center , ma anche di molte infrastrutture che supervisionano le celle frigorifere nella logistica alimentare e farmaceutica."
+          "SEMI ha comunicato che le spedizioni mondiali di wafer di silicio hanno raggiunto 3,756 miliardi di pollici quadrati nel terzo trimestre 2026, con una crescita del 13,4% su base annua.",
+          "Spedizioni mondiali wafer di silicio in crescita per domanda AI, settore industria e tecnologia."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "OpenAI",
-          "Gpt-6 Cyber",
-          "Linux",
-          "celle frigorifere",
-          "logistica alimentare"
+          "SEMI",
+          "wafer di silicio"
         ],
         "numbersAndDates": [
-          "6",
-          "48,5",
-          "32,1"
+          "3,756",
+          "2026",
+          "13,4"
         ]
       }
     },
     {
-      "id": "story-718ad0aea99ca18b",
-      "title": "<img src=\"https://cdn",
-      "summary": "Chi convive con un cane o un gatto sa bene quanto la routine alimentare sia fondamentale per il loro equilibrio fisico e comportamentale. Tuttavia, quando la giornata lavorativa &egrave; scandita da t...",
-      "spokenText": "Chi convive con un cane o un gatto sa bene quanto la routine alimentare sia fondamentale per il loro equilibrio fisico e comportamentale.",
-      "category": "altro",
+      "id": "story-c6bbe5c9b02b46ad",
+      "title": "Elon Musk alimenta l’IA con vecchie turbine aeree, con enormi rischi ambientali",
+      "summary": "Nei depositi a cielo aperto dell'Arizona centinaia di aerei fuori servizio aspettano da anni di essere smantellati, con motori che non spingono pi&ugrave; nulla. Il boom dell'intelligenza artificiale...",
+      "spokenText": "Nei depositi a cielo aperto dell'Arizona centinaia di aerei fuori servizio aspettano da anni di essere smantellati, con motori che non spingono più nulla.",
+      "category": "tecnologia",
       "tags": [
-        "altro",
-        "cane",
-        "gatto"
+        "tecnologia",
+        "elon musk",
+        "arizona"
       ],
       "importance": 72,
       "mustInclude": false,
       "estimatedSeconds": 10,
       "source": {
         "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/offerte/cane-o-gatto-resta-solo-in-casa-i-distributori-smart-pensano-ai-pasti-al-posto-vostro"
+        "url": "https://www.tomshw.it/altro/elon-musk-alimenta-lia-con-vecchi-motori-aeronautici-con-conseguenze-per-lambiente"
       },
       "analysis": {
-        "mainFact": "Chi convive con un cane o un gatto sa bene quanto la routine alimentare sia fondamentale per il loro equilibrio fisico e comportamentale.",
+        "mainFact": "Nei depositi a cielo aperto dell'Arizona centinaia di aerei fuori servizio aspettano da anni di essere smantellati, con motori che non spingono più nulla.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Chi convive con un cane o un gatto sa bene quanto la routine alimentare sia fondamentale per il loro equilibrio fisico e comportamentale."
+          "Nei depositi a cielo aperto dell'Arizona centinaia di aerei fuori servizio aspettano da anni di essere smantellati, con motori che non spingono più nulla.",
+          "Nei depositi a cielo aperto dell'Arizona centinaia di aerei fuori servizio aspettano da anni di essere smantellati, con motori che non spingono pi&ugrave; nulla."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "cane",
-          "gatto"
+          "Elon Musk",
+          "Arizona"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-06e387cc3a0ab45f",
-      "title": "Lockheed Martin Space, Northrop Grumman Space Systems",
-      "summary": "Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno servizi di consegna lunare, inclusa la gestione, la costruzione e l'operatività di lander che trasportano carichi utili scientifici, tecnologici e infrastrutturali della NASA sulla Luna.",
-      "spokenText": "Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno i servizi di consegna lunare per la NASA, occupandosi della gestione, della costruzione e dell'operatività di lander destinati al trasporto di carichi utili scientifici, tecnologici e infrastrutturali. Tra i progetti chiave per lo sviluppo della base lunare, la NASA ha assegnato a Blue Origin un contratto base da 94 milioni di dollari, con un'opzione aggiuntiva di 140 milioni basata sulla performance, per consegnare il rover nucleare PROMISE al polo sud lunare. Blue Origin utilizzerà il suo lander Mark 1 per il dispiegamento del rover, inserito nella prima fase della Moon Base. Gli interventi rientrano nel più ampio programma di investimenti che include contratti di lancio, servizi di trasferimento orbitale e infrastrutture di superficie, con il coinvolgimento di entità come CLPS e CAPSTONE 02.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "nasa",
-        "promise",
-        "blue origin",
-        "mark 1 lander",
-        "clps",
-        "lockheed martin",
-        "northrop grumman",
-        "spacex",
-        "voyager technologies"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 53,
-      "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
-      },
-      "analysis": {
-        "mainFact": "Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno servizi di consegna lunare, inclusa la gestione, la costruzione e l'operatività di lander che trasportano carichi utili scientifici, tecnologici e infrastrutturali della NASA sulla Luna.",
-        "whyItMatters": "Progetti NASA per trasporto, tecnologia e scienza della base lunare, rilevanza spaziale e industriale.",
-        "confirmedFacts": [
-          "Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno servizi di consegna lunare, inclusa la gestione, la costruzione e l'operatività di lander che trasportano carichi utili scientifici, tecnologici e infrastrutturali della NASA sulla Luna.",
-          "Progetti NASA per trasporto, tecnologia e scienza della base lunare, rilevanza spaziale e industriale.",
-          "La NASA ha assegnato a Blue Origin un contratto base da 94 milioni di dollari, con un periodo opzionale del valore aggiuntivo di 140 milioni di dollari basato sulla performance, per consegnare PROMISE al polo sud lunare.",
-          "Blue Origin utilizzerà il suo lander Mark 1 per consegnare e dispiegare il rover come parte della prima fase della Moon Base."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "PROMISE",
-          "Blue Origin",
-          "Mark 1 lander",
-          "CLPS",
-          "Lockheed Martin",
-          "Northrop Grumman",
-          "SpaceX",
-          "Voyager Technologies",
-          "CAPSTONE 02"
-        ],
-        "numbersAndDates": [
-          "Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX e Voyager Technologies forniranno servizi di consegna lunare, inclusa la gestione, la costruzione e l'operatività di lander che trasportano carichi utili scientifici, tecnologici e infrastrutturali della NASA sulla Luna.",
-          "La NASA ha assegnato a Blue Origin un contratto base da 94 milioni di dollari, con un periodo opzionale del valore aggiuntivo di 140 milioni di dollari basato sulla performance, per consegnare PROMISE al polo sud lunare.",
-          "Blue Origin utilizzerà il suo lander Mark 1 per consegnare e dispiegare il rover come parte della prima fase della Moon Base."
-        ]
-      }
-    },
-    {
-      "id": "story-30773ed5e4b900b0",
-      "title": "Il 3, per inviare i materiali di candidatura completati all'indirizzo",
-      "summary": "Il 3, per inviare i materiali di candidatura completati all'indirizzo: \"Questo è un momento straordinario per unirsi al corpo astronautico della NASA\", ha detto l'amministratore della NASA Jared Isaacman.",
-      "spokenText": "Il 3 scade il termine per inviare i materiali di candidatura completati per unirsi al corpo astronautico della NASA. A sottolineare l'importanza dell'opportunità è stato l'amministratore Jared Isaacman, che ha definito questo un momento straordinario per entrare nell'agenzia. Attualmente la NASA conta 32 astronauti attivi, e i candidati selezionati si uniranno ai loro ranghi per studiare passeggiate spaziali, geologia lunare e operazioni di aeromobili ad alte prestazioni.",
+      "id": "story-7fbef1ef7a65b3a1",
+      "title": "Vulcanesimo di Marte: un fuoco ancora latente",
+      "summary": "Emissioni localizzate di acido cloridrico, un gas di origine magmatica, sono state osservate nell’atmosfera di Marte. Individuato anche un sistema di fratture di recente formazione, interpretate come potenziali vie di risalita del gas dalle profondità del sottosuolo. I risultati, pubblicati su Science Advances, suggeriscono che il Pianeta rosso ospiti ancora vulcani attivi, sebbene in uno stato di quiescenza",
+      "spokenText": "Nell'atmosfera di Marte sono state osservate emissioni localizzate di acido cloridrico, un gas di origine magmatica. La scoperta, pubblicata su Science Advances, suggerisce che il Pianeta rosso ospiti ancora vulcani attivi, sebbene in uno stato di quiescenza. Accanto a queste emissioni, è stato individuato un sistema di fratture di recente formazione, interpretato come potenziale via di risalita del gas dalle profondità del sottosuolo.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "nasa",
-        "astronaut corps",
-        "jared isaacman",
-        "luna"
+        "marte",
+        "science advances"
       ],
-      "importance": 95,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 27,
+      "estimatedSeconds": 26,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/09/vulcanesimo-marziano/"
       },
       "analysis": {
-        "mainFact": "Il 3, per inviare i materiali di candidatura completati all'indirizzo: \"Questo è un momento straordinario per unirsi al corpo astronautico della NASA\", ha detto l'amministratore della NASA Jared Isaacman.",
-        "whyItMatters": "Selezione nuovi astronauti NASA per missioni Luna e Marte",
+        "mainFact": "Emissioni localizzate di acido cloridrico, un gas di origine magmatica, sono state osservate nell'atmosfera di Marte.",
+        "whyItMatters": "I risultati, pubblicati su Science Advances, suggeriscono che il Pianeta rosso ospiti ancora vulcani attivi, sebbene in uno stato di quiescenza.",
         "confirmedFacts": [
-          "Il 3, per inviare i materiali di candidatura completati all'indirizzo: \"Questo è un momento straordinario per unirsi al corpo astronautico della NASA\", ha detto l'amministratore della NASA Jared Isaacman.",
-          "Selezione nuovi astronauti NASA per missioni Luna e Marte",
-          "L'agenzia ha 32 astronauti attivi nel corpo astronautico, e i candidati selezionati si uniranno ai loro ranghi per studiare passeggiate spaziali, geologia lunare, operazioni di aeromobili ad alte prestazioni e altro."
+          "Emissioni localizzate di acido cloridrico, un gas di origine magmatica, sono state osservate nell'atmosfera di Marte.",
+          "I risultati, pubblicati su Science Advances, suggeriscono che il Pianeta rosso ospiti ancora vulcani attivi, sebbene in uno stato di quiescenza.",
+          "Individuato anche un sistema di fratture di recente formazione, interpretate come potenziali vie di risalita del gas dalle profondità del sottosuolo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "NASA",
-          "astronaut corps",
-          "Jared Isaacman",
-          "Luna"
-        ],
-        "numbersAndDates": [
-          "Il 3, per inviare i materiali di candidatura completati all'indirizzo: \"Questo è un momento straordinario per unirsi al corpo astronautico della NASA\", ha detto l'amministratore della NASA Jared Isaacman.",
-          "L'agenzia ha 32 astronauti attivi nel corpo astronautico, e i candidati selezionati si uniranno ai loro ranghi per studiare passeggiate spaziali, geologia lunare, operazioni di aeromobili ad alte prestazioni e altro.",
-          "3"
-        ]
-      }
-    },
-    {
-      "id": "story-84b610c80315cff3",
-      "title": "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima",
-      "summary": "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive.",
-      "spokenText": "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive. Tuttavia, le analisi di entrambi i turni delle elezioni 2026 hanno identificato centinaia di annunci a favore o contro candidati specifici circolati sulle piattaforme di Meta senza apparenti restrizioni. Il 23 settembre, il Partito dei Lavoratori di Lula ha riferito di essere stato bloccato dalla pubblicità sulle piattaforme di Meta. Il 16 ottobre, l'azienda ha respinto le accuse di interferenza elettorale, attribuendo la disattivazione temporanea a una errata revisione antifrode effettuata in base a un accordo con il governo federale per combattere le frodi riguardanti programmi pubblici. Sulla base dei dati rilasciati da Meta, si stima che per il primo turno la campagna di Lula possa aver pagato tra il 33% e il 43% in più rispetto alla campagna di Flávio Bolsonaro per raggiungere lo stesso numero di utenti sulle piattaforme di Meta.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "meta",
-        "netlab ufrj",
-        "lula",
-        "flavio bolsonaro",
-        "pt"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 61,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/we-need-to-talk-about-meta-political-interference-and-interests-in-the-brazilian-elections-296102"
-      },
-      "analysis": {
-        "mainFact": "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive.",
-        "whyItMatters": "Interferenza politica di Meta nelle elezioni brasiliane, rilevante per tecnologia, diritti e geopolitica.",
-        "confirmedFacts": [
-          "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive.",
-          "Interferenza politica di Meta nelle elezioni brasiliane, rilevante per tecnologia, diritti e geopolitica.",
-          "Tuttavia, le nostre analisi di entrambi i turni delle elezioni 2026 hanno identificato centinaia di annunci a favore o contro candidati specifici che circolavano sulle piattaforme di Meta senza apparenti restrizioni.",
-          "Il 23 settembre, il suo Partito dei Lavoratori (PT) ha riferito di essere stato bloccato dalla pubblicità sulle piattaforme di Meta.",
-          "In una dichiarazione rilasciata il 16 ottobre, l'azienda ha respinto le accuse di interferenza elettorale e ha attribuito la disattivazione temporanea a una \"errata revisione antifrode\" effettuata in base a un accordo con il governo federale per combattere le frodi riguardanti programmi pubblici.",
-          "Sulla base dei dati rilasciati da Meta, stimiamo che per il primo turno la campagna di Lula possa aver pagato tra il 33% e il 43% in più rispetto alla campagna del suo avversario di estrema destra Flávio Bolsonaro per raggiungere lo stesso numero di utenti sulle piattaforme di Meta."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Meta",
-          "NetLab UFRJ",
-          "Lula",
-          "Flávio Bolsonaro",
-          "PT"
-        ],
-        "numbersAndDates": [
-          "Le regole elettorali brasiliane vietano la pubblicità elettorale dalle 48 ore prima delle urne alle 24 ore successive.",
-          "Tuttavia, le nostre analisi di entrambi i turni delle elezioni 2026 hanno identificato centinaia di annunci a favore o contro candidati specifici che circolavano sulle piattaforme di Meta senza apparenti restrizioni.",
-          "Il 23 settembre, il suo Partito dei Lavoratori (PT) ha riferito di essere stato bloccato dalla pubblicità sulle piattaforme di Meta.",
-          "In una dichiarazione rilasciata il 16 ottobre, l'azienda ha respinto le accuse di interferenza elettorale e ha attribuito la disattivazione temporanea a una \"errata revisione antifrode\" effettuata in base a un accordo con il governo federale per combattere le frodi riguardanti programmi pubblici.",
-          "Sulla base dei dati rilasciati da Meta, stimiamo che per il primo turno la campagna di Lula possa aver pagato tra il 33% e il 43% in più rispetto alla campagna del suo avversario di estrema destra Flávio Bolsonaro per raggiungere lo stesso numero di utenti sulle piattaforme di Meta.",
-          "48",
-          "24"
-        ]
-      }
-    },
-    {
-      "id": "story-fe1f628201dede05",
-      "title": "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del",
-      "summary": "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo, da aumentare gradualmente fino al 50% oppure 50 euro al chilo dal 2032",
-      "spokenText": "La presidenza irlandese della Ue propone un'imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "presidenza irlandese della ue",
-        "ue"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/tabacco-stretta-ue-acquisti-esteri-e-nuove-accise-ma-piu-tempo-italia-AJCjyb8B"
-      },
-      "analysis": {
-        "mainFact": "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo.",
-        "whyItMatters": "Stretta UE su acquisti esteri di tabacco e nuove accise, impatto economico e industriale concreto.",
-        "confirmedFacts": [
-          "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo.",
-          "Stretta UE su acquisti esteri di tabacco e nuove accise, impatto economico e industriale concreto.",
-          "La presidenza irlandese della Ue propone un’imposta minima iniziale del 10% del prezzo oppure 30 euro al chilo, da aumentare gradualmente fino al 50% oppure 50 euro al chilo dal 2032"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "presidenza irlandese della Ue",
-          "UE"
-        ],
-        "numbersAndDates": [
-          "10",
-          "30"
-        ]
-      }
-    },
-    {
-      "id": "story-b285f384dd29a682",
-      "title": "What we anticipate shapes our actions, and what happens next updates our expectations",
-      "summary": "What we anticipate shapes our actions, and what happens next updates our expectations.",
-      "spokenText": "What we anticipate shapes our actions, and what happens next updates our expectations.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "world models"
-      ],
-      "importance": 92,
-      "mustInclude": false,
-      "estimatedSeconds": 6,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
-      },
-      "analysis": {
-        "mainFact": "What we anticipate shapes our actions, and what happens next updates our expectations.",
-        "whyItMatters": "Limiti cognitivi dell'IA rispetto al pensiero umano, centrale per scienza e tecnologia utile.",
-        "confirmedFacts": [
-          "What we anticipate shapes our actions, and what happens next updates our expectations.",
-          "Limiti cognitivi dell'IA rispetto al pensiero umano, centrale per scienza e tecnologia utile."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "world models"
+          "Marte",
+          "Science Advances"
         ],
         "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-f5f5fed0dbef4790",
+      "title": "Gli scienziati sanno spiegare che cos'è la scienza",
+      "summary": "Non sempre chi fa scienza sa spiegarla. D’altra parte i cittadini non hanno le competenze per distinguere facilmente ciò che è scienza e ciò che non lo è. Per far questo bisogna mettere mano a una divulgazione che non punta ai contenuti, ma prima ancora ai metodi, all’epistemologia stessa. La cosiddetta alfabetizzazione epistemica è una sfida per chi fa scienza prima ancora che per chi la vuole capire.",
+      "spokenText": "I cittadini non hanno le competenze per distinguere facilmente ciò che è scienza e ciò che non lo è. Per questo l’attenzione va spostata da ciò che la scienza scopre a ciò che rende scientifico il modo in cui lo scopre. Per far questo bisogna mettere mano a una divulgazione che non punta ai contenuti, ma prima ancora ai metodi, all’epistemologia stessa. La cosiddetta alfabetizzazione epistemica è una sfida per chi fa scienza prima ancora che per chi la vuole capire. E, prima di tutte le altre: Che cosa rende “scientifica” la scienza?",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "scienziati",
+        "cittadini"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 38,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/scienziati-spiegare-scienza-alfabetizzazione-epistemica/"
+      },
+      "analysis": {
+        "mainFact": "I cittadini non hanno le competenze per distinguere facilmente ciò che è scienza e ciò che non lo è.",
+        "whyItMatters": "Per questo l’attenzione va spostata da ciò che la scienza scopre a ciò che rende scientifico il modo in cui lo scopre.",
+        "confirmedFacts": [
+          "I cittadini non hanno le competenze per distinguere facilmente ciò che è scienza e ciò che non lo è.",
+          "Per questo l’attenzione va spostata da ciò che la scienza scopre a ciò che rende scientifico il modo in cui lo scopre.",
+          "Per far questo bisogna mettere mano a una divulgazione che non punta ai contenuti, ma prima ancora ai metodi, all’epistemologia stessa.",
+          "La cosiddetta alfabetizzazione epistemica è una sfida per chi fa scienza prima ancora che per chi la vuole capire.",
+          "E, prima di tutte le altre: Che cosa rende “scientifica” la scienza?"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "scienziati",
+          "cittadini"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-a6a4973a5ad441d5",
+      "title": "Come la disinformazione russa ha “hackerato” l’ecosistema informativo italiano",
+      "summary": "La narrazione virale sulle \"camere delle torture di Zelensky» alle porte di Kyiv non ha riscontri: tra finti paramedici, immagini decontestualizzate e reti di propaganda russa, il fact-checking di una notizia manipolata rilanciata in Italia lungo tutta la catena dell'informazione.",
+      "spokenText": "Come la disinformazione russa ha \"hackerato\" l'ecosistema informativo italiano. ua, che spiega come in Ucraina la legge marziale, in vigore dall'invasione militare russa del febbraio 2022, consenta di disperdere il personale per evitare che concentrazioni di uomini in un'unica unità militare diventino bersaglio di attacchi.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "ucraina",
+        "pravda ua",
+        "italia"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/disinformazione-russia-kyiv-informazione-italia/"
+      },
+      "analysis": {
+        "mainFact": "Come la disinformazione russa ha “hackerato” l’ecosistema informativo italiano",
+        "whyItMatters": "La legge marziale, in vigore in Ucraina da dopo l’invasione militare russa del Paese nel febbraio 2022, consente questa pratica perché il personale viene disperso per evitare di concentrarlo in un’unica unità militare, che potrebbe diventare bersaglio di un attatto, precisa Pravda. ua.",
+        "confirmedFacts": [
+          "Come la disinformazione russa ha “hackerato” l’ecosistema informativo italiano",
+          "La legge marziale, in vigore in Ucraina da dopo l’invasione militare russa del Paese nel febbraio 2022, consente questa pratica perché il personale viene disperso per evitare di concentrarlo in un’unica unità militare, che potrebbe diventare bersaglio di un attatto, precisa Pravda. ua.",
+          "La legge marziale, in vigore in Ucraina da dopo l’invasione militare russa del Paese nel febbraio 2022, consente infatti questa pratica, perché in questo modo il personale viene disperso per evitare di concentrarlo in un’unica unità militare, che potrebbe diventare bersaglio di un attacco, precisa Pravda.ua ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Ucraina",
+          "Pravda.ua",
+          "Italia"
+        ],
+        "numbersAndDates": [
+          "2022"
+        ]
+      }
+    },
+    {
+      "id": "story-cc55879e9740c263",
+      "title": "<img src=\"https://cdn",
+      "summary": "La Direzione investigativa antimafia è al centro di accertamenti tecnici dopo la comparsa, su un forum del dark web, di un annuncio che promette la vendita di un archivio attribuito ai suoi sistemi. I...",
+      "spokenText": "La Direzione investigativa antimafia è al centro di accertamenti tecnici dopo la comparsa, su un forum del dark web, di un annuncio che promette la vendita di un archivio attribuito ai suoi sistemi. Si tratta di circa 222 MB di dati che sarebbero stati sottratti agli archivi dell'ente, anche se al momento non ci sono conferme ufficiali sull'effettiva provenienza del materiale.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "direzione investigativa antimafia"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 25,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/altro/attacco-hacker-alla-direzione-investigativa-antimafia-in-vendita-sul-dark-web-oltre-300-file-di-archivio"
+      },
+      "analysis": {
+        "mainFact": "La Direzione investigativa antimafia è al centro di accertamenti tecnici dopo la comparsa, su un forum del dark web, di un annuncio che promette la vendita di un archivio attribuito ai suoi sistemi.",
+        "whyItMatters": "Sul dark web sono in vendita circa 222 MB di dati che sarebbero stati rubati alla Direzione Investigativa Antimafia, ma al momento non ci sono conferme.",
+        "confirmedFacts": [
+          "La Direzione investigativa antimafia è al centro di accertamenti tecnici dopo la comparsa, su un forum del dark web, di un annuncio che promette la vendita di un archivio attribuito ai suoi sistemi.",
+          "Sul dark web sono in vendita circa 222 MB di dati che sarebbero stati rubati alla Direzione Investigativa Antimafia, ma al momento non ci sono conferme.",
+          "Dati della DIA in vendita sul dark web, archivio da 222 MB"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Direzione investigativa antimafia"
+        ],
+        "numbersAndDates": [
+          "Dati della DIA in vendita sul dark web, archivio da 222 MB",
+          "222"
+        ]
+      }
+    },
+    {
+      "id": "story-23f564138d8c8b24",
+      "title": "Annunciando l'impegno '35-by-35'",
+      "summary": "Annunciando l'impegno '35-by-35', il presidente del Cop31 Murat Kurum lo ha descritto come 'una delle caratteristiche distintive' della presidenza turca, evidenziando i rischi della continua dipendenza dai combustibili fossili importati.",
+      "spokenText": "Il presidente del Cop31 Murat Kurum ha presentato l'impegno '35-by-35' come una delle caratteristiche distintive della presidenza turca, sottolineando i rischi della dipendenza dai combustibili fossili importati. Sono serviti 26 anni per una risoluzione che menzionasse esplicitamente i combustibili fossili, avvenuta a Glasgow nel 2021. Intanto, il boom dei data center sta guidando l'uso di gas e carbone per l'elettricità, mentre l'Agenzia Internazionale per l'Energia definisce il presente come l'era dell'elettricità, con tassi di elettrificazione globali previsti al 31% entro il 2050.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "cop31",
+        "murat kurum",
+        "iea"
+      ],
+      "importance": 90,
+      "mustInclude": false,
+      "estimatedSeconds": 33,
+      "source": {
+        "name": "The Conversation",
+        "url": "https://theconversation.com/the-cop31-climate-summit-is-betting-on-electrification-but-still-needs-a-plan-to-ditch-fossil-fuels-295493"
+      },
+      "analysis": {
+        "mainFact": "Annunciando l'impegno '35-by-35', il presidente del Cop31 Murat Kurum lo ha descritto come 'una delle caratteristiche distintive' della presidenza turca, evidenziando i rischi della continua dipendenza dai combustibili fossili importati.",
+        "whyItMatters": "Vertice Cop31 su elettrificazione e abbandono combustibili fossili, trend Emerging e alta importanza.",
+        "confirmedFacts": [
+          "Annunciando l'impegno '35-by-35', il presidente del Cop31 Murat Kurum lo ha descritto come 'una delle caratteristiche distintive' della presidenza turca, evidenziando i rischi della continua dipendenza dai combustibili fossili importati.",
+          "Vertice Cop31 su elettrificazione e abbandono combustibili fossili, trend Emerging e alta importanza.",
+          "Sono serviti 26 anni per una risoluzione o un accordo formale che menzionasse esplicitamente i combustibili fossili, a Glasgow nel 2021.",
+          "Il boom dei data center negli Stati Uniti e oltre, per esempio, sta guidando l'uso di gas e carbone per generare elettricità.",
+          "L'Agenzia Internazionale per l'Energia (IEA) ha dichiarato che stiamo vivendo nell''era dell'elettricità', e se gli impegni politici dichiarati vengono mantenuti, i tassi di elettrificazione globali raggiungeranno il 31% entro il 2050."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Cop31",
+          "Murat Kurum",
+          "IEA"
+        ],
+        "numbersAndDates": [
+          "Annunciando l'impegno '35-by-35', il presidente del Cop31 Murat Kurum lo ha descritto come 'una delle caratteristiche distintive' della presidenza turca, evidenziando i rischi della continua dipendenza dai combustibili fossili importati.",
+          "Sono serviti 26 anni per una risoluzione o un accordo formale che menzionasse esplicitamente i combustibili fossili, a Glasgow nel 2021.",
+          "L'Agenzia Internazionale per l'Energia (IEA) ha dichiarato che stiamo vivendo nell''era dell'elettricità', e se gli impegni politici dichiarati vengono mantenuti, i tassi di elettrificazione globali raggiungeranno il 31% entro il 2050.",
+          "35"
+        ]
+      }
+    },
+    {
+      "id": "story-531aedc2ce614bc3",
+      "title": "31 ottobre, completando la seconda simulazione annuale di superficie marziana dell'agenzia",
+      "summary": "31 ottobre, completando la seconda simulazione annuale di superficie marziana dell'agenzia.",
+      "spokenText": "Il 31 ottobre si è conclusa la seconda simulazione annuale di superficie marziana dell'agenzia. All'interno dell'habitat, il comandante Ross Elder si è preparato per una simulata camminata marziana nell'airlock, mentre l'ufficiale medico Ellen Ellis si allenava su una cyclette. Parallelamente, l'astronauta NASA Jack Hathaway ha completato una missione di 237 giorni a bordo della stazione spaziale, offrendo un confronto sul tempo dell'equipaggio in isolamento. Tra i membri dell'equipaggio figurano anche James Spicer e Matthew Montgomery, con il Johnson Space Center coinvolto nelle operazioni.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "nasa",
+        "ross elder",
+        "ellen ellis",
+        "james spicer",
+        "matthew montgomery",
+        "jack hathaway",
+        "johnson space center"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/"
+      },
+      "analysis": {
+        "mainFact": "31 ottobre, completando la seconda simulazione annuale di superficie marziana dell'agenzia.",
+        "whyItMatters": "Simulazione marziana NASA di 378 giorni, rilevanza scientifica e esplorazione spaziale per il profilo.",
+        "confirmedFacts": [
+          "31 ottobre, completando la seconda simulazione annuale di superficie marziana dell'agenzia.",
+          "Simulazione marziana NASA di 378 giorni, rilevanza scientifica e esplorazione spaziale per il profilo.",
+          "L'astronauta NASA Jack Hathaway ha messo in prospettiva il tempo dell'equipaggio in isolamento: mentre erano dentro l'habitat, lui ha completato una missione di 237 giorni a bordo della stazione spaziale ed è tornato sulla Terra.",
+          "Ross Elder, comandante della CHAPEA Mission 2, si prepara per una simulata camminata marziana nell'airlock dell'habitat.",
+          "Ellen Ellis, ufficiale medico della CHAPEA Mission 2, si allena su una cyclette all'interno dell'habitat."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "NASA",
+          "Ross Elder",
+          "Ellen Ellis",
+          "James Spicer",
+          "Matthew Montgomery",
+          "Jack Hathaway",
+          "Johnson Space Center"
+        ],
+        "numbersAndDates": [
+          "31 ottobre, completando la seconda simulazione annuale di superficie marziana dell'agenzia.",
+          "L'astronauta NASA Jack Hathaway ha messo in prospettiva il tempo dell'equipaggio in isolamento: mentre erano dentro l'habitat, lui ha completato una missione di 237 giorni a bordo della stazione spaziale ed è tornato sulla Terra.",
+          "Ross Elder, comandante della CHAPEA Mission 2, si prepara per una simulata camminata marziana nell'airlock dell'habitat.",
+          "Ellen Ellis, ufficiale medico della CHAPEA Mission 2, si allena su una cyclette all'interno dell'habitat.",
+          "31"
+        ]
+      }
+    },
+    {
+      "id": "story-681902765a363a6a",
+      "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi",
+      "summary": "I numeri segreti di Putin rubati dai bielorussi di Cyber Partisans e dagli ucraini di Silent Crow, che sono entrati nei computer dell’agenzia di statistica di Mosca Rosstat. Perlopiù i reclutati venivano dalle aree asiatiche. L’analisi di Bloomberg",
+      "spokenText": "Dagli archivi rubati di Rosstat emerge un dato drammatico: almeno 400.000 soldati russi sono morti nella guerra in Ucraina. L'operazione, portata avanti da hacker bielorussi e ucraini, tra cui i gruppi Cyber Partisans e Silent Crow, ha svelato che la maggior parte dei reclutati proveniva dalle aree asiatiche della Russia.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "russia",
+        "putin",
+        "cyber partisans",
+        "silent crow",
+        "rosstat",
+        "ucraina"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/"
+      },
+      "analysis": {
+        "mainFact": "Secondo dati rubati dagli hacker, la Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina.",
+        "whyItMatters": "Perlopiù i reclutati venivano dalle aree asiatiche.",
+        "confirmedFacts": [
+          "Secondo dati rubati dagli hacker, la Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina.",
+          "Perlopiù i reclutati venivano dalle aree asiatiche.",
+          "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina', secondo dati rubati dagli hacker",
+          "I numeri segreti di Putin rubati dai bielorussi di Cyber Partisans e dagli ucraini di Silent Crow, che sono entrati nei computer dell’agenzia di statistica di Mosca Rosstat.",
+          "In campo, sino al 22 novembre, 2.800 soldati."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Russia",
+          "Putin",
+          "Cyber Partisans",
+          "Silent Crow",
+          "Rosstat",
+          "Ucraina"
+        ],
+        "numbersAndDates": [
+          "400.000"
+        ]
       }
     }
   ]
