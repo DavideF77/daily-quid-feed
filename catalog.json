@@ -1,240 +1,15 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-13-3022c05b7355",
-  "generatedAt": "2026-11-13T13:49:04.733Z",
+  "catalogId": "daily-quid-2026-11-14-032299abb1e2",
+  "generatedAt": "2026-11-14T12:52:53.339Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-c518e5192a0436e7",
-      "title": "Marsha Linehan (1943-2026): la cura e la testimonianza",
-      "summary": "È morta a Seattle il 10 novembre 2026 Marsha Linehan, la creatrice della terapia dialettico-comportamentale L'articolo Marsha Linehan (1943-2026): la cura e la testimonianza proviene da State of Mind.",
-      "spokenText": "È morta a Seattle il 10 novembre 2026 Marsha Linehan, la creatrice della terapia dialettico-comportamentale. Nata a Tulsa, in Oklahoma, il 5 maggio 1943, terza di sei figli di un dirigente dell'industria petrolifera e di una madre impegnata in parrocchia e nel volontariato, Linehan crebbe in una famiglia cattolica benestante e molto attenta all'immagine. A Seattle cominciò applicando la terapia comportamentale standard a donne con comportamenti suicidari cronici. Il report della giornata conclusiva del Congresso della Società di Terapia Comportamentale e Cognitiva 2026 sul tema della violenza ha affrontato l'articolo La violenza come oggetto clinico.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "marsha linehan",
-        "seattle",
-        "tulsa",
-        "oklahoma",
-        "societa di terapia comportamentale e cognitiva"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 38,
-      "source": {
-        "name": "State of Mind (Psicologia)",
-        "url": "https://www.stateofmind.it/2026/11/marsha-linehan-morte/?utm_source=rss&utm_medium=rss&utm_campaign=marsha-linehan-morte"
-      },
-      "analysis": {
-        "mainFact": "È morta a Seattle il 10 novembre 2026 Marsha Linehan, la creatrice della terapia dialettico-comportamentale.",
-        "whyItMatters": "La terapia dialettico-comportamentale A Seattle Linehan cominci applicando la terapia comportamentale standard a donne con comportamenti suicidari cronici.",
-        "confirmedFacts": [
-          "È morta a Seattle il 10 novembre 2026 Marsha Linehan, la creatrice della terapia dialettico-comportamentale.",
-          "La terapia dialettico-comportamentale A Seattle Linehan cominci applicando la terapia comportamentale standard a donne con comportamenti suicidari cronici.",
-          "Hartford, 1961-1963 Nata a Tulsa, in Oklahoma, il 5 maggio 1943, terza di sei figli di un dirigente dell’industria petrolifera e di una madre impegnata in parrocchia e nel volontariato, Linehan crebbe in una famiglia cattolica benestante e molto attenta all’immagine.",
-          "Report della giornata conclusiva del Congresso della Società di Terapia Comportamentale e Cognitiva 2026 sul tema della violenza L'articolo La violenza come oggetto clinico."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Marsha Linehan",
-          "Seattle",
-          "Tulsa",
-          "Oklahoma",
-          "Società di Terapia Comportamentale e Cognitiva"
-        ],
-        "numbersAndDates": [
-          "Hartford, 1961-1963 Nata a Tulsa, in Oklahoma, il 5 maggio 1943, terza di sei figli di un dirigente dell’industria petrolifera e di una madre impegnata in parrocchia e nel volontariato, Linehan crebbe in una famiglia cattolica benestante e molto attenta all’immagine.",
-          "Report della giornata conclusiva del Congresso della Società di Terapia Comportamentale e Cognitiva 2026 sul tema della violenza L'articolo La violenza come oggetto clinico.",
-          "10",
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-817e3580755c8535",
-      "title": "Basi russe in Libia e rotte verso il Sahel: la morsa di Mosca nel Mediterraneo",
-      "summary": "Armi russe a Tobruk, basi nel deserto e droni low cost: l'avanzata dell'Africa Corps tra Libia, Sahel e Sudan minaccia la sicurezza del Mediterraneo.",
-      "spokenText": "La Russia ha riattivato nel dicembre 2024 la base di Maaten al-Sarra, vicino ai confini con Ciad e Sudan, con soldati siriani, per rifornire direttamente Burkina Faso, Mali e Sudan. La stessa fonte documenta lavori russi in sei basi aeree libiche, con difese antiaeree, caccia MiG-29 e droni, e ricorda che già a metà 2023 la Wagner (il gruppo di mercenari poi assorbito nell’ Africa Corps ) usava la base di Tamanhint per facilitare spedizioni di armi verso il Sudan.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "russia",
-        "libia",
-        "sahel",
-        "africa corps",
-        "wagner",
-        "mediterraneo",
-        "tobruk",
-        "maaten al sarra"
-      ],
-      "importance": 60,
-      "mustInclude": false,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/basi-russe-libia-africa-corps-mediterraneo/"
-      },
-      "analysis": {
-        "mainFact": "La Russia ha riattivato nel dicembre 2024 la base di Maaten al-Sarra, vicino ai confini con Ciad e Sudan, con soldati siriani, per rifornire direttamente Burkina Faso, Mali e Sudan.",
-        "whyItMatters": "La stessa fonte documenta lavori russi in sei basi aeree libiche, con difese antiaeree, caccia MiG-29 e droni, e ricorda che già a metà 2023 la Wagner (il gruppo di mercenari poi assorbito nell’ Africa Corps ) usava la base di Tamanhint per facilitare spedizioni di armi verso il Sudan.",
-        "confirmedFacts": [
-          "La Russia ha riattivato nel dicembre 2024 la base di Maaten al-Sarra, vicino ai confini con Ciad e Sudan, con soldati siriani, per rifornire direttamente Burkina Faso, Mali e Sudan.",
-          "La stessa fonte documenta lavori russi in sei basi aeree libiche, con difese antiaeree, caccia MiG-29 e droni, e ricorda che già a metà 2023 la Wagner (il gruppo di mercenari poi assorbito nell’ Africa Corps ) usava la base di Tamanhint per facilitare spedizioni di armi verso il Sudan.",
-          "Fubini ha portato inoltre alla luce un annuncio comparso su un canale russo di Telegram: “Cercasi cittadini russi sotto i 45 anni da arruolare nell’ Africa Corps come operatori di droni d’attacco, compresi i Geran, ‘per servizio in Libia’”.",
-          "Il nome stesso della forza che ha preso il posto della Wagner non è privo di risonanze: Africa Corps richiama l' Afrika Korps del generale Erwin Rommel, sbarcato proprio in Libia nel 1941."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Russia",
-          "Libia",
-          "Sahel",
-          "Africa Corps",
-          "Wagner",
-          "Mediterraneo",
-          "Tobruk",
-          "Maaten al-Sarra"
-        ],
-        "numbersAndDates": [
-          "Il nome stesso della forza che ha preso il posto della Wagner non è privo di risonanze: Africa Corps richiama l' Afrika Korps del generale Erwin Rommel, sbarcato proprio in Libia nel 1941.",
-          "2024",
-          "29",
-          "2023"
-        ]
-      }
-    },
-    {
-      "id": "story-d9162416da092c47",
-      "title": "Raccolta delle olive in Cisgiordania, Israele espelle chi la documenta",
-      "summary": "Raccolta delle olive in Cisgiordania, Israele espelle chi la documentaelisabetta. tola Mer, 11/11/2026 - 15:54 12 Novembre 2026 Language Italian Elisabetta Tola “Ti mando le risposte alle tue domande, ma siamo nel mezzo di una nuova emergenza”. La voce di Ricardo Esteves Ribeiro, un collega giornalista, co-fondatore del media indipendente portoghese Fumaça, mi arriva via Signal, il sistema di messaggistica sicuro sempre più diffuso tra chi fa giornalismo indipendente. Qualche settimana fa ho visto un suo video su Instagram, in cui raccontava la sua deportazione da Israele mentre era lì, come fa ormai da anni, per aiutare gli agricoltori palestinesi della Cisgiordania a raccogliere le olive e a difendere i propri campi dagli attacchi sempre più violenti dei coloni israeliani. L’emergenza cui fa riferimento Ricardo è che mentre mi sta parlando, siamo a fine ottobre, un’altra giornalista portoghese è stata detenuta illegalmente dall’esercito israeliano, e per molte ore non si sono avute sue notizie. La collega si trovava nel villaggio di Al-Lubban Al-Gharbi, in Cisgiordania, per supportare la raccolta delle olive. Era chiaramente individuabile come giornalista, indossava il giubbotto con la scritta “PRESS” e un casco, e ha presentato la sua tessera professionale all’esercito prima di essere portata via dai soldati su un autobus. Assieme a lei sono stati arrestati altri quattordici attivisti internazionali. Ma non è, lo sappiamo bene, un fatto isolato. Infatti nei giorni scorsi anche diversi attivisti italiani sono stati trattenuti e poi espulsi esattamente nello stesso modo. E intanto si intensificano gli attacchi da parte dei coloni nei confronti degli agricoltori e di intere comunità palestinesi in Cisgiordania, con una violenza sempre maggiore. Anche diversi israeliani, tra cui alcuni molto attivi sui canali social come il giornalista indipendente Andrey Khrzhanovskiy, conosciuto come Andrey X, sono stati ripetutamente attaccati dai coloni senza che la polizia intervenisse in alcun modo. SOCIETÀ Anche Ricardo Ribeiro ha vissuto quest’esperienza, assieme a un altro giornalista, a inizio ottobre. L’accusa con cui è stato arrestato è quella di essere “in una zona militare chiusa”, una tattica sempre più utilizzata per restringere l’accesso dei palestinesi alle loro terre. Successivamente, i due giornalisti sono stati accusati di sostenere un’organizzazione terroristica. La detenzione, l’arresto e la deportazione di giornalisti e attivisti è un’altra forma di violenza contro il popolo palestinese. Abbiamo chiesto a Ricardo Ribeiro di raccontarci esattamente cos’è successo e com’è andata. E in prima battuta di spiegarci cosa è andato a fare in Palestina. “Sono arrivato in Palestina alla fine di settembre e pensavo di restare più o meno un mese e mezzo. Il viaggio si è interrotto prima, come ormai sai. Ero lì per tre motivi. Faccio giornalismo d’inchiesta in Palestina dal 2017, quindi da quasi dieci anni. Ci sono andato quasi ogni anno, tranne negli anni della pandemia, per raccontare l’espansione del progetto sionista, l’escalation della pulizia etnica in Cisgiordania e del regime di apartheid in tutta la Palestina, compresi i territori del ’48. Il secondo motivo era finire il lavoro sul campo per un libro che sto scrivendo sul mutuo aiuto in Cisgiordania, cioè su come comunità, villaggi e collettivi si aiutano a vicenda per restare sulla terra. Spero che esca l’anno prossimo, e mi serviva ancora del materiale. Infine, il terzo motivo era accompagnare e documentare la raccolta delle olive in Cisgiordania. Ogni anno c’è un appello a volontari e giornalisti internazionali perché vadano sul posto e stiano al fianco dei palestinesi. Soprattutto per accompagnarli negli uliveti vicini agli insediamenti, dove da soli non andrebbero perché probabilmente verrebbero attaccati, uccisi da coloni e soldati. Per questo chiedono agli stranieri, che hanno il privilegio del passaporto e del colore della pelle, di andare con loro, così da poter raccogliere le olive. Ci sono andato l’anno scorso con un paio di compagni portoghesi, e quest’anno di nuovo. Ero lì a documentare e a stare al fianco dei palestinesi mentre raccoglievano le loro olive. ” Com’è la quotidianità degli agricoltori palestinesi che cercano di raccogliere le olive? “È una routine di violenza imposta, ma anche di mutuo aiuto, di cura collettiva, di resistenza e di sumud. È una routine di violenza, perché ogni anno sono sempre di più i coloni e i soldati che impediscono ai palestinesi di raggiungere la propria terra per fare una cosa semplice come andare nei loro uliveti, raccogliere le olive e trasformarle in olio. L’olio è una parte centrale della cucina palestinese. È anche una fonte di sostentamento economico per chi lo produce, per le famiglie, per le comunità e i villaggi di cui fanno parte. Molti attacchi avvengono già nelle settimane che precedono la campagna di raccolta. Centinaia, migliaia di alberi vengono tagliati, gli uliveti vengono incendiati. I coloni portano le loro pecore, capre e mucche a mangiare le olive. Le rubano, perché i palestinesi non possano raccoglierle. Poi c’è la campagna vera e propria. L’anno scorso ho partecipato per circa due settimane e ogni giorno, tranne uno, ci hanno impedito di raccogliere. La scena più frequente era questa: arrivavamo con i contadini palestinesi in un uliveto e trovavamo già lì coloni e soldati. I coloni erano armati, molti in uniforme militare, con armi come M16 o AK-47 in mano. Attaccavano i palestinesi con le pietre, davano fuoco alle auto, e intanto chiamavano i soldati. E i soldati che cosa facevano? Proteggevano i coloni mentre attaccavano i palestinesi, e poi cacciavano tutti. Quasi ogni giorno arrivavano e dichiaravano l’area in cui ci trovavamo zona militare chiusa. Lo facevano con un telefono o un tablet, sul momento. Da quell’istante la presenza di chiunque diventava illegale. Portavano via le persone, a volte le arrestavano ed espellevano. Se la gente non se ne andava, ma spesso anche mentre stava già muovendosi, usavano gas lacrimogeni, granate stordenti, bombe sonore. A volte sparavano. Ci sono stati attacchi con proiettili di gomma e con proiettili veri. A volte c’erano cecchini, per costringere tutti ad andarsene o semplicemente per arrestare qualcuno. Gli arrestati erano soprattutto palestinesi, ma anche internazionali, che poi venivano espulsi. L’anno scorso decine di volontari internazionali sono stati deportati. Poi ci sono le persone che vengono uccise. L’anno scorso è toccato a un ragazzo di 14 anni, ammazzato dall’esercito israeliano. I soldati hanno lanciato lacrimogeni sulla sua famiglia e su tutte le persone che stavano raccogliendo le olive. È successo a Beita, un villaggio nel nord della Cisgiordania. Io ero lì e ho visto questo ragazzo crollare a terra. Abbiamo chiamato un’ambulanza, ma i soldati le hanno impedito di arrivare. Lo abbiamo visto a terra, in preda alle convulsioni, senza poter fare niente. Alla fine l’ambulanza è arrivata e lo ha portato in ospedale. È entrato in coma e dopo esattamente un mese è stato dichiarato morto. Lo hanno ucciso i soldati. Quest’anno, almeno un palestinese è già stato ucciso dai soldati durante la raccolta. Ma se la raccolta delle olive è una routine di violenza, è anche, allo stesso tempo, una routine di cura collettiva e di sumud. Sumud è una parola araba molto usata in Palestina e centrale nella cultura palestinese. Non ha una traduzione letterale: significa qualcosa come perseveranza, resistenza. Non andarsene, restare sulla terra. La campagna di raccolta mette insieme diversi collettivi: palestinesi da tutta la Palestina, internazionali, e anche alcuni israeliani antisionisti, che preferiscono definirsi «persone di lingua ebraica» piuttosto che usare il termine israeliani. Si uniscono per aiutarsi a vicenda a raggiungere questi luoghi, a restare sulla terra, a continuare a raccogliere le olive. Anche se questo comporta una violenza enorme, anche se possono essere uccisi. Restano lì. È una delle iniziative di mutuo aiuto più potenti che abbia mai visto. Ed è importante dirlo: anche se il progetto sionista si sta intensificando, i palestinesi non se ne andranno. Resteranno e continueranno a raccogliere le loro olive, qualunque cosa succeda. ” Visualizza questo post su Instagram Un post condiviso da Fumaça (@fumacapt) Cosa è successo a te direttamente, e alle altre persone che erano con te? “Eravamo a raccogliere olive nel villaggio di Rantis, nella parte centro-settentrionale della Cisgiordania, verso ovest. Abbiamo raccolto per quattro o cinque ore senza che succedesse niente. Questo era già strano di per sé, perché di solito i soldati e i coloni arrivano prima. Invece in questo caso, dopo alcune ore e decine e decine di chili di olive raccolte, sono arrivati i soldati. Prima abbiamo visto un drone sopra le nostre teste, poi sono arrivati loro. Hanno detto a tutti di andarsene. All’inizio il proprietario dell’uliveto, un palestinese, ha risposto più o meno: «Questa è la nostra terra, non ce ne andiamo». I soldati sono tornati indietro e hanno aspettato. Sembrava che aspettassero ordini dai superiori, perché erano al telefono. All’inizio erano in tre, poi è arrivata un’altra jeep dell’esercito con altri tre soldati. Avevano tutti il passamontagna o la sciarpa sul viso, per non essere identificati. A un certo punto sono tornati nell’uliveto, dove la gente stava ancora raccogliendo, e hanno ripetuto «dovete andarvene». Abbiamo cominciato ad allontanarci lungo una strada sterrata di circa due chilometri. Eravamo una trentina: circa quindici palestinesi, dieci persone di lingua ebraica e cinque portoghesi. Io ero uno dei cinque: tre di noi erano giornalisti, eravamo lì per raccontare. Mentre ci allontanavamo, eravamo scortati da due mezzi militari. A un certo punto si sono fermati e due soldati sono corsi verso uno degli altri portoghesi. Stava filmando con il telefono: ha un profilo Instagram, dove pubblica i suoi reportage. Lo hanno separato dagli altri. Lui continuava a chiedere perché lo stessero fermando, ma non arrivava alcuna risposta. Siamo rimasti lì molto, molto a lungo a chiedere spiegazioni, mentre identificavano tutti. Dopo circa un’ora è arrivata un’altra auto. Mi hanno indicato e detto che sarei stato fermato anch’io. Così ci hanno arrestati tutti e due. Alla fine ci hanno detto che eravamo in stato di fermo perché ci trovavamo in una zona militare chiusa. È una cosa del tutto normale, come ti dicevo: dichiarano zona militare chiusa l’area in cui le persone si trovano già, e così la loro presenza diventa illegale. Non c’era nessun cartello, niente. Lo decidono di punto in bianco, nominano una zona militare chiusa e dunque tutti i presenti finiscono in una posizione illegale e possono essere arrestati. Ci hanno portati in una base militare. Preferisco non parlare pubblicamente delle condizioni della nostra detenzione. È una scelta politica. Concentrarsi sulle nostre condizioni di detenzione sarebbe un cattivo servizio alla realtà della detenzione dei prigionieri palestinesi. Le condizioni delle carceri israeliane sono una storia importante, ma non è la nostra storia. È la storia dei palestinesi. L’unica cosa che secondo me è importante raccontare è questa. Quando siamo arrivati all’interrogatorio con un investigatore, un poliziotto, abbiamo capito che l’accusa non era di trovarci in una zona militare chiusa. Era un’altra: sostenere organizzazioni terroristiche e propagandare tale sostegno. A me hanno mostrato un fascicolo con decine e decine di screenshot di cose che avevo pubblicato come reporter: post su Instagram, interviste, estratti di interviste rilasciate ai media. Secondo loro, in quei contenuti dicevo o pubblicavo cose che minacciavano lo stato sionista. Il fascicolo esisteva già prima che arrivassi lì. Era datato fine 2025, novembre o dicembre. Vuol dire che sorvegliavano quello che pubblicavamo, anche come giornalisti, e che hanno usato quel materiale per incarcerarci ed espellerci. Siamo rimasti in carcere due giorni e mezzo, poi ci hanno deportati in Portogallo. Quello su cui vale la pena riflettere non è cosa è successo in quei tre giorni, ma perché lo hanno fatto. Il motivo è semplice: vogliono portare avanti nell’ombra il progetto di pulizia etnica in Cisgiordania. Non vogliono volontari internazionali, giornalisti, reporter che documentino quello che succede e lo mostrino al mondo. Preferiscono trovare ragioni immaginarie per legittimare quello che fanno e mandarli via. Così non c’è nessuno sul terreno a filmare o a scrivere quello che vede. Vogliono continuare il genocidio senza testimoni. ” Un’esperienza come la tua e quella dei tanti internazionali cui si impedisce di documentare rischia di scoraggiare altri che vorrebbero sostenere la popolazione palestinese. Che spazio c’è secondo te per un sostegno concreto da parte di giornalisti, attivisti, persone italiane e internazionali? “Questo è un punto cruciale. Quello che questa storia dimostra è che il regime sionista ha paura di noi. Ha paura degli internazionali, che hanno il privilegio del passaporto e del colore della pelle. Ha paura che vadano lì, vedano, documentino e mostrino al mondo ciò che sta facendo. Per questo li arresta e li deporta. Per me c’è una sola risposta alla deportazione di decine di persone, solo nelle ultime settimane. Io non sono un caso speciale: stanno deportando decine di persone anche oggi. Se hanno paura di noi, l’unica risposta è tornare, ancora e ancora. Invece di avere paura di loro, dobbiamo dire che, per ogni persona deportata, devono partire in decine per la Palestina. Questo è il mio appello. Se vedete che le persone vengono deportate, sappiate che hanno paura di noi. Se potete, se avete il privilegio di poter prendere un aereo e andare lì a stare accanto ai contadini palestinesi, fatelo adesso. La raccolta delle olive è ancora in corso. E anche fuori dalla stagione della raccolta, andate in luoghi come Masafer Yatta (il villaggio la cui storia è al centro del film No Other Land, vincitore del Premio Oscar 2025 come miglior documentario), dove l’esercito. Andate lì a stare accanto ai pastori palestinesi, accanto alle persone a cui demoliscono la casa ogni settimana, quasi ogni giorno. Non dobbiamo guardare le notizie e pensare: allora è meglio non andare. È il contrario. Questo è un invito a partire. ” SOCIETÀ 11 NOVEMBRE 2026 Israele, Eisenkot cerca una coalizione, ma Netanyahu resta in agguato SOCIETÀ 3 SETTEMBRE 2026 Empatia selettiva, tra ricerca psicologica e stringente attualità SOCIETÀ 20 MARZO 2026 Giornalisti uccisi nel 2025: record globale, Israele responsabile di due terzi delle morti NELLA STESSA CATEGORIA Soldati israeliani di pattuglia mentre attivisti stranieri e palestinesi raccolgono le olive durante la stagione del raccolto negli uliveti di proprietà palestinese vicino a Ramallah, nella Cisgiordania occupata da Israele - REUTERS/Ammar Awad 1 Off",
-      "spokenText": "Israele espelle chi documenta quanto accade nei territori occupati. Nei giorni scorsi è stata fermata una giornalista portoghese, chiaramente individuabile grazie al giubbotto con la scritta \"PRESS\" e al casco, e nonostante abbia presentato la tessera professionale all'esercito, è stata portata via dai soldati su un autobus. La stessa sorte è toccata a diversi attivisti italiani, trattenuti ed espulsi con le stesse modalità. Non si tratta di un episodio isolato, ma di un pattern che colpisce chi testimonia le violenze sul campo. Qualche settimana fa ho visto un suo video su Instagram , in cui raccontava la sua deportazione da Israele mentre era lì, come fa ormai da anni, per aiutare gli agricoltori palestinesi della Cisgiordania a raccogliere le olive e a difendere i propri campi dagli attacchi sempre più violenti dei coloni israeliani. Ma non è, lo sappiamo bene, un fatto isolato. Israele espelle chi la documentaelisabetta. tola Mer, 11/11/2026 - 15:54 12 Novembre 2026 Language Italian Elisabetta Tola “Ti mando le risposte alle tue domande, ma siamo nel mezzo di una nuova emergenza”.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "israele",
-        "cisgiordania",
-        "esercito israeliano",
-        "coloni israeliani",
-        "agricoltori palestinesi",
-        "attivisti internazionali"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 70,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/raccolta-olive-cisgiordania-israele-espelle-giornalisti-ribeiro"
-      },
-      "analysis": {
-        "mainFact": "Israele espelle chi la documenta",
-        "whyItMatters": "Qualche settimana fa ho visto un suo video su Instagram , in cui raccontava la sua deportazione da Israele mentre era lì, come fa ormai da anni, per aiutare gli agricoltori palestinesi della Cisgiordania a raccogliere le olive e a difendere i propri campi dagli attacchi sempre più violenti dei coloni israeliani.",
-        "confirmedFacts": [
-          "Israele espelle chi la documenta",
-          "Qualche settimana fa ho visto un suo video su Instagram , in cui raccontava la sua deportazione da Israele mentre era lì, come fa ormai da anni, per aiutare gli agricoltori palestinesi della Cisgiordania a raccogliere le olive e a difendere i propri campi dagli attacchi sempre più violenti dei coloni israeliani.",
-          "Era chiaramente individuabile come giornalista , indossava il giubbotto con la scritta “PRESS” e un casco , e ha presentato la sua tessera professionale all’esercito prima di essere portata via dai soldati su un autobus.",
-          "Infatti nei giorni scorsi anche diversi attivisti italiani sono stati trattenuti e poi espulsi esattamente nello stesso modo.",
-          "E intanto si intensificano gli attacchi da parte dei coloni nei confronti degli agricoltori e di intere comunità palestinesi in Cisgiordania, con una violenza sempre maggiore.",
-          "Ma non è, lo sappiamo bene, un fatto isolato.",
-          "Israele espelle chi la documentaelisabetta. tola Mer, 11/11/2026 - 15:54 12 Novembre 2026 Language Italian Elisabetta Tola “Ti mando le risposte alle tue domande, ma siamo nel mezzo di una nuova emergenza”.",
-          "L’emergenza cui fa riferimento Ricardo è che mentre mi sta parlando, siamo a fine ottobre, un’altra giornalista portoghese è stata detenuta illegalmente dall’esercito israeliano, e per molte ore non si sono avute sue notizie."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Israele",
-          "Cisgiordania",
-          "esercito israeliano",
-          "coloni israeliani",
-          "agricoltori palestinesi",
-          "attivisti internazionali"
-        ],
-        "numbersAndDates": [
-          "Israele espelle chi la documentaelisabetta. tola Mer, 11/11/2026 - 15:54 12 Novembre 2026 Language Italian Elisabetta Tola “Ti mando le risposte alle tue domande, ma siamo nel mezzo di una nuova emergenza”."
-        ]
-      }
-    },
-    {
-      "id": "story-3bd8aa3f13ef7c81",
-      "title": "Merz schiera la Germania a difesa del sistema Ets",
-      "summary": "Il cancelliere Friedrich Merz schiera la Germania a difesa del sistema Ets1, il meccanismo di scambio delle quote di emissione di anidride carbonica, pilastro dell’azione sul clima dell’Unione Europea. E...",
-      "spokenText": "Merz schiera la Germania a difesa del sistema Ets, il meccanismo di scambio delle quote di emissione di anidride carbonica. Dall'introduzione dell'Ets, le emissioni dei settori interessati sono diminuite del 50%. Secondo dati della Commissione, il sistema ha generato nel 2025 proventi per 43,2 miliardi (+11% sul 2024). Merz prende per la prima volta una posizione ufficiale e netta. «Le imprese europee dei settori dell’energia e dell’industria hanno basato i propri modelli di business sull’aspettativa di segnali affidabili sul prezzo della CO2», scrive Merz.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "germania",
-        "sole 24 ore"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/merz-schiera-germania-difesa-sistema-ets-AJgcJUEC"
-      },
-      "analysis": {
-        "mainFact": "Merz schiera la Germania a difesa del sistema Ets, il meccanismo di scambio delle quote di emissione di anidride carbonica.",
-        "whyItMatters": "Dall'introduzione dell'Ets, le emissioni dei settori interessati sono diminuite del 50%. Secondo dati della Commissione, il sistema ha generato nel 2025 proventi per 43,2 miliardi (+11% sul 2024).",
-        "confirmedFacts": [
-          "Merz schiera la Germania a difesa del sistema Ets, il meccanismo di scambio delle quote di emissione di anidride carbonica.",
-          "Dall'introduzione dell'Ets, le emissioni dei settori interessati sono diminuite del 50%. Secondo dati della Commissione, il sistema ha generato nel 2025 proventi per 43,2 miliardi (+11% sul 2024).",
-          "Merz prende per la prima volta una posizione ufficiale e netta.",
-          "«Le imprese europee dei settori dell’energia e dell’industria hanno basato i propri modelli di business sull’aspettativa di segnali affidabili sul prezzo della CO2», scrive Merz."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Germania",
-          "Sole 24 Ore"
-        ],
-        "numbersAndDates": [
-          "Merz prende per la prima volta una posizione ufficiale e netta.",
-          "50",
-          "2025",
-          "43,2",
-          "11",
-          "2024"
-        ]
-      }
-    },
-    {
-      "id": "story-bd3a615b4459481e",
-      "title": "Fmi, l’Italia compensi ogni nuova misura contro il caro energia",
-      "summary": "«L’Italia ha compiuto progressi impressionanti negli ultimi due anni nella lotta al suo eccessivo debito pubblico, riuscendo a ridurre il deficit al 3% del Pil quest’anno. Ma, data la situazione...",
-      "spokenText": "L'Fmi chiede di compensare ogni nuova misura contro il caro energia. A politiche invariate, secondo l'Fmi entro il 2040 il debito salirà di oltre alcuni aspetti di Pil nelle economie avanzate europee e di oltre alcuni aspetti nell'Europa centrale, orientale e sudorientale.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "fmi",
-        "italia"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 17,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/fmi-l-italia-compensi-ogni-nuova-misura-contro-caro-energia-AJXYkPEC"
-      },
-      "analysis": {
-        "mainFact": "ma l'Fmi chiede di compensare ogni nuova misura contro il caro energia.",
-        "whyItMatters": "A politiche invariate, secondo l'Fmi entro il 2040 il debito salirà di oltre alcuni aspetti di Pil nelle economie avanzate europee e di oltre alcuni aspetti nell'Europa centrale, orientale e sudorientale.",
-        "confirmedFacts": [
-          "ma l'Fmi chiede di compensare ogni nuova misura contro il caro energia.",
-          "A politiche invariate, secondo l'Fmi entro il 2040 il debito salirà di oltre alcuni aspetti di Pil nelle economie avanzate europee e di oltre alcuni aspetti nell'Europa centrale, orientale e sudorientale.",
-          "A politiche invariate, secondo l’Fmi entro il 2040 il debito salirà di oltre 50 punti di Pil nelle economie avanzate europee e di oltre 80 punti nell’Europa centrale, orientale e sudorientale."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Fmi",
-          "Italia"
-        ],
-        "numbersAndDates": [
-          "2040"
-        ]
-      }
-    },
-    {
       "id": "story-3f17deffaa74dda5",
       "title": "A che servono le conferenze sul clima se i governi ostacolano le soluzioni",
       "summary": "Mentre USA ed Europa frenano sul clima, alla COP31 di Antalya Guterres attacca le lobby del petrolio. E ora la svolta green potrebbe arrivare da Pechino.",
-      "spokenText": "Alla COP31 di Antalya Guterres attacca le lobby del petrolio mentre USA ed Europa frenano sul clima. La svolta green potrebbe arrivare da Pechino.",
+      "spokenText": "Il 9 novembre è iniziata ad Antalya, in Turchia, la COP 31, la Conferenza delle Nazioni Unite sul clima. Se alla COP28 di Dubai nel 2023 era stato concordato l'abbandono graduale di carbone, petrolio e gas, le successive conferenze in Azerbaigian e Brasile si erano concluse con accordi al ribasso. Ora, la possibile svolta green potrebbe arrivare da Pechino. «È ora di liberarsi da questa dipendenza e porre fine alla dipendenza dai combustibili fossili», ha detto, tra gli applausi, il Segretario Generale delle Nazioni Unite, Antonio Guterres , giunto al termine del suo mandato e, dunque, alla sua ultima COP.",
       "category": "ambiente",
       "tags": [
         "ambiente",
@@ -242,24 +17,26 @@
         "europa",
         "cop31",
         "antalya",
-        "guterres",
-        "pechino",
-        "lobby del petrolio"
+        "turchia",
+        "antonio guterres",
+        "lobby del petrolio",
+        "pechino"
       ],
       "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 10,
+      "estimatedSeconds": 40,
       "source": {
         "name": "Valigia Blu",
         "url": "https://www.valigiablu.it/conferenze-clima-cop31-turchia-usa-cina-europa/"
       },
       "analysis": {
-        "mainFact": "Alla COP31 di Antalya Guterres attacca le lobby del petrolio mentre USA ed Europa frenano sul clima.",
-        "whyItMatters": "La svolta green potrebbe arrivare da Pechino.",
+        "mainFact": "Mentre USA ed Europa frenano sul clima, alla COP31 di Antalya Guterres attacca le lobby del petrolio.",
+        "whyItMatters": "Il 9 novembre è iniziata ad Antalya, in Turchia, la COP 31, la Conferenza delle Nazioni Unite sul clima.",
         "confirmedFacts": [
-          "Alla COP31 di Antalya Guterres attacca le lobby del petrolio mentre USA ed Europa frenano sul clima.",
-          "La svolta green potrebbe arrivare da Pechino.",
-          "Mentre USA ed Europa frenano sul clima, alla COP31 di Antalya Guterres attacca le lobby del petrolio."
+          "Mentre USA ed Europa frenano sul clima, alla COP31 di Antalya Guterres attacca le lobby del petrolio.",
+          "Il 9 novembre è iniziata ad Antalya, in Turchia, la COP 31, la Conferenza delle Nazioni Unite sul clima.",
+          "Se alla COP28 di Dubai nel 2023 era stato concordato di abbandonare gradualmente carbone, petrolio e gas, le successive conferenze in Azerbaigian e in Brasile si sono concluse con accordi al ribasso.",
+          "«È ora di liberarsi da questa dipendenza e porre fine alla dipendenza dai combustibili fossili», ha detto, tra gli applausi, il Segretario Generale delle Nazioni Unite, Antonio Guterres , giunto al termine del suo mandato e, dunque, alla sua ultima COP."
         ],
         "uncertainties": [
           "E ora la svolta green potrebbe arrivare da Pechino."
@@ -269,323 +46,546 @@
           "Europa",
           "COP31",
           "Antalya",
-          "Guterres",
-          "Pechino",
-          "lobby del petrolio"
+          "Turchia",
+          "Antonio Guterres",
+          "lobby del petrolio",
+          "Pechino"
+        ],
+        "numbersAndDates": [
+          "Se alla COP28 di Dubai nel 2023 era stato concordato di abbandonare gradualmente carbone, petrolio e gas, le successive conferenze in Azerbaigian e in Brasile si sono concluse con accordi al ribasso.",
+          "9",
+          "31"
+        ]
+      }
+    },
+    {
+      "id": "story-26c01abe2c80ec5d",
+      "title": "Bolivia, riserve accertate di gas in calo del 48% in soli due anni",
+      "summary": "La Ypfb: è il livello più basso in vent'anni, servono nuovi investimenti",
+      "spokenText": "Le riserve accertate di gas in Bolivia sono calate del 48% in soli due anni, toccando il livello più basso degli ultimi vent'anni secondo la Ypfb. Considerando anche le riserve probabili, il volume sale a 78,2 miliardi di metri cubi, mentre includendo quelle possibili raggiunge complessivamente 91,7 miliardi. Le riserve di petrolio sono stimate in 57 milioni di barili, quelle di condensati in 67 milioni. Negli ultimi vent'anni sono stati investiti 11 miliardi di dollari nel settore, ma il 65% delle risorse è stato destinato allo sfruttamento dei giacimenti esistenti e soltanto il 35% all'esplorazione, come ha sottolineato Sebastian Daroca. Senza nuovi investimenti, la Bolivia potrebbe dover ricorrere alle importazioni di gas tra la fine del 2029 e l'inizio del 2030, con possibili ripercussioni anche sull'approvvigionamento interno.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "bolivia",
+        "ypfb",
+        "sebastian daroca"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 51,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/14/bolivia-riserve-accertate-di-gas-in-calo-del-48-in-soli-due-anni_4373f9ba-b9f9-493e-a6dd-c62f060de437.html"
+      },
+      "analysis": {
+        "mainFact": "Le riserve accertate di gas in Bolivia sono calate del 48% in soli due anni, toccando il livello più basso degli ultimi vent'anni secondo la Ypfb.",
+        "whyItMatters": "Senza nuovi investimenti, la Bolivia potrebbe dover ricorrere alle importazioni di gas tra la fine del 2029 e l'inizio del 2030, con possibili ripercussioni anche sull'approvvigionamento interno.",
+        "confirmedFacts": [
+          "Le riserve accertate di gas in Bolivia sono calate del 48% in soli due anni, toccando il livello più basso degli ultimi vent'anni secondo la Ypfb.",
+          "Senza nuovi investimenti, la Bolivia potrebbe dover ricorrere alle importazioni di gas tra la fine del 2029 e l'inizio del 2030, con possibili ripercussioni anche sull'approvvigionamento interno.",
+          "Considerando anche le riserve probabili, il volume sale a 78,2 miliardi di metri cubi, mentre includendo quelle possibili raggiunge complessivamente 91,7 miliardi.",
+          "Le riserve di petrolio sono stimate in 57 milioni di barili, quelle di condensati in 67 milioni.",
+          "Sebastian Daroca, negli ultimi vent'anni sono stati investiti 11 miliardi di dollari nel settore, ma il 65% delle risorse stato destinato allo sfruttamento dei giacimenti esistenti e soltanto il 35% all'esplorazione."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Bolivia",
+          "Ypfb",
+          "Sebastian Daroca"
+        ],
+        "numbersAndDates": [
+          "Considerando anche le riserve probabili, il volume sale a 78,2 miliardi di metri cubi, mentre includendo quelle possibili raggiunge complessivamente 91,7 miliardi.",
+          "Le riserve di petrolio sono stimate in 57 milioni di barili, quelle di condensati in 67 milioni.",
+          "Sebastian Daroca, negli ultimi vent'anni sono stati investiti 11 miliardi di dollari nel settore, ma il 65% delle risorse stato destinato allo sfruttamento dei giacimenti esistenti e soltanto il 35% all'esplorazione.",
+          "48",
+          "2029",
+          "2030"
+        ]
+      }
+    },
+    {
+      "id": "story-27c15cb708a34ee3",
+      "title": "Una stella esplode ogni 113 giorni, ma c'è qualcosa che non torna",
+      "summary": "Un gruppo guidato da Mojgan Aghakhanloo, dell’Università della Virginia, ha rilevato con il telescopio spaziale Chandra della NASA un’emissione di raggi X durante uno dei lampi di AT 2016blu, una stel...",
+      "spokenText": "Una stella esplode ogni 113 giorni, ma c'è qualcosa che non torna.",
+      "category": "scienza",
+      "tags": [
+        "scienza"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 5,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/una-stella-imita-una-supernova-un-buco-nero-le-ruba-materia"
+      },
+      "analysis": {
+        "mainFact": "Una stella esplode ogni 113 giorni, ma c'è qualcosa che non torna.",
+        "whyItMatters": "Stella che esplode ogni 113 giorni, scoperta scientifica emergente di alto valore.",
+        "confirmedFacts": [
+          "Una stella esplode ogni 113 giorni, ma c'è qualcosa che non torna.",
+          "Stella che esplode ogni 113 giorni, scoperta scientifica emergente di alto valore."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "113"
+        ]
+      }
+    },
+    {
+      "id": "story-87e025208cefc956",
+      "title": "Usa, l’affaire Nvidia si allarga: accuse al ministro Lutnick",
+      "summary": "Il segretario al Commercio sotto attacco per non aver messo nella black list Megaspeed. Anche Bessent lo scarica. Huang travolto dagli scandali: “Sono un pezzo di m...",
+      "spokenText": "L’affaire Nvidia si allarga con nuove accuse rivolte al ministro Lutnick. Il segretario al Commercio è sotto attacco per non aver inserito Megaspeed nella black list, una decisione che ha scatenato le critiche di Scott Bessent. Intanto cresce la pressione politica su Howard Lutnick, mentre Donald Trump, il 14 novembre 2026, gli conferma la fiducia. Sullo sfondo, Huang è travolto dagli scandali, con la dichiarazione: “Sono un pezzo di m. Donald Trump per ora gli conferma la fiducia 14 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Scott Bessent il 10 novembre. Il segretario al Commercio non avrebbe assunto un impegno immediato.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "howard lutnick",
+        "scott bessent",
+        "nvidia",
+        "megaspeed",
+        "donald trump",
+        "dipartimento del commercio"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 42,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/11/14/news/nvidia_accuse_ministro_howard_lutnick-425722273/"
+      },
+      "analysis": {
+        "mainFact": "Usa, l’affaire Nvidia si allarga: accuse al ministro Lutnick",
+        "whyItMatters": "Bessent accusa Lutnick: «Il Dipartimento del Commercio ha ritardato restrizioni su Megaspeed».",
+        "confirmedFacts": [
+          "Usa, l’affaire Nvidia si allarga: accuse al ministro Lutnick",
+          "Bessent accusa Lutnick: «Il Dipartimento del Commercio ha ritardato restrizioni su Megaspeed».",
+          "Il segretario al Commercio sotto attacco per non aver messo nella black list Megaspeed.",
+          "Intanto cresce la pressione politica su Howard Lutnick, mentre Donald Trump per ora gli conferma la fiducia 14 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Scott Bessent il 10 novembre.",
+          "Huang travolto dagli scandali: “Sono un pezzo di m.."
+        ],
+        "uncertainties": [
+          "Il segretario al Commercio non avrebbe assunto un impegno immediato."
+        ],
+        "peopleAndOrganizations": [
+          "Howard Lutnick",
+          "Scott Bessent",
+          "Nvidia",
+          "Megaspeed",
+          "Donald Trump",
+          "Dipartimento del Commercio"
+        ],
+        "numbersAndDates": [
+          "Intanto cresce la pressione politica su Howard Lutnick, mentre Donald Trump per ora gli conferma la fiducia 14 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Scott Bessent il 10 novembre."
+        ]
+      }
+    },
+    {
+      "id": "story-8be4710df119e000",
+      "title": "Il pianeta scomparso",
+      "summary": "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi. Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere transiti davanti alla propria stella. Ma, come viene mostrato in un nuovo studio, non è sparito nel nulla: è l’influenza gravitazionale di un pianeta vicino ad aver inclinato la sua orbita",
+      "spokenText": "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi. Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere transiti davanti alla propria stella. Ma, come viene mostrato in un nuovo studio, non è sparito nel nulla: è l’influenza gravitazionale di un pianeta vicino ad aver inclinato la sua orbita.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "toi 2535 b",
+        "gioviani caldi"
+      ],
+      "importance": 80,
+      "mustInclude": false,
+      "estimatedSeconds": 26,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/13/toi-2535-b-pianeta-scomparso/"
+      },
+      "analysis": {
+        "mainFact": "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi.",
+        "whyItMatters": "Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere transiti davanti alla propria stella.",
+        "confirmedFacts": [
+          "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi.",
+          "Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere transiti davanti alla propria stella.",
+          "Ma, come viene mostrato in un nuovo studio, non è sparito nel nulla: è l’influenza gravitazionale di un pianeta vicino ad aver inclinato la sua orbita"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Toi-2535 b",
+          "gioviani caldi"
+        ],
+        "numbersAndDates": [
+          "2535"
+        ]
+      }
+    },
+    {
+      "id": "story-833aac937d1e5c4b",
+      "title": "I manoscritti medievali conservano DNA del vaiolo ovino: ecco perché",
+      "summary": "Un gruppo internazionale guidato dallo University College Dublin ha identificato tracce genetiche del vaiolo ovino nelle pelli utilizzate per realizzare manoscritti medievali. La ricerca, pubblicata s...",
+      "spokenText": "Un gruppo internazionale guidato dallo University College Dublin ha identificato tracce genetiche del vaiolo ovino nelle pelli utilizzate per realizzare manoscritti medievali.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "university college dublin",
+        "manoscritti medievali",
+        "vaiolo ovino"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 9,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/i-manoscritti-medievali-conservano-dna-del-vaiolo-ovino-ecco-perche"
+      },
+      "analysis": {
+        "mainFact": "Un gruppo internazionale guidato dallo University College Dublin ha identificato tracce genetiche del vaiolo ovino nelle pelli utilizzate per realizzare manoscritti medievali.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Un gruppo internazionale guidato dallo University College Dublin ha identificato tracce genetiche del vaiolo ovino nelle pelli utilizzate per realizzare manoscritti medievali."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "University College Dublin",
+          "manoscritti medievali",
+          "vaiolo ovino"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-e3d2e629e6c4bb57",
-      "title": "Bpm: cda ad Agricole, «serve valutazione adeguata per perdita contendibilità»",
-      "summary": "Piazza Meda apre alla fusione ma sottolinea che i criteri proposti non tengono conto del fattore del controllo. Mandato a Castagna per trattare",
-      "spokenText": "Banco Bpm ha intanto smentito le indiscrezioni su una possibile vendita di Anima nell'ambito della fusione, dichiarando che non risulta fondata la notizia secondo cui Credit Agricole possa cedere Anima e che non è comunque intenzione della banca cederla. Post fusione, la Banque Verte salirebbe al 45% del nuovo conglomerato, una quota significativa che comporterebbe la perdita di contendibilità della banca. Agricole propone «un rapporto di cambio che riflette un premio del 20%» rispetto «al multiplo prezzo/utili atteso per il 2027 utilizzato per valorizzare le contribuzioni di Credit Agricole».",
-      "category": "attualita",
+      "id": "story-a00486cba77c17bf",
+      "title": "Usa, stop ai voli per 4 ore: “Colpa dei sistemi obsoleti”",
+      "summary": "“Non è stato un attacco hacker”, ha precisato il segretario ai Trasporti Sean Duffy. Cbs, blocco aereo causato da aggiornamento software",
+      "spokenText": "Negli Stati Uniti il traffico aereo si è fermato per circa quattro ore a causa di un aggiornamento software della rete di comunicazione privata del sistema di controllo del traffico aereo. Il blocco ha interessato oltre 15mila collegamenti e, nella mattina successiva, sono già stati registrati 3.374 voli cancellati e 1.008 in ritardo secondo i dati di FlightAware riportati da Abc. “Non è stato un attacco hacker”, ha precisato il segretario ai Trasporti Sean Duffy. Ci sarebbe l'aggiornamento di un software dietro al collasso delle comunicazioni che ha portato al blocco del traffico aereo per quasi cinque ore negli Stati Uniti. Il segretario alla Homeland Security Markwayne Mullin , che ha parlato con i giornalisti alla Casa Bianca, ha frenato il panico: \"Non è un altro 11 settembre\", e ha spiegato che non ci sono collegamenti con il blocco delle mail e dei servizi Microsoft delle ultime 48 ore. Non succedeva dal 2023, quando l’autorità americana dell’aviazione fermò i voli nazionali per un problema tecnico nel sistema di allerta per i piloti. Usa, stop ai voli per 4 ore: “Colpa dei sistemi obsoleti”.",
+      "category": "tecnologia",
       "tags": [
-        "attualita",
-        "banco bpm",
-        "credit agricole",
-        "credit agricole italia",
-        "anima",
-        "piazza meda"
+        "tecnologia",
+        "sean duffy",
+        "markwayne mullin",
+        "cbs",
+        "abc",
+        "flightaware",
+        "stati uniti"
       ],
       "importance": 75,
       "mustInclude": false,
-      "estimatedSeconds": 36,
+      "estimatedSeconds": 74,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/bpm-cda-ad-agricole-serve-valutazione-adeguata-perdita-contendibilita-AJL1mWEC"
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/11/14/diretta/voli_usa_cancellati_blocco_traffico_aereo-425722487/"
       },
       "analysis": {
-        "mainFact": "Il Credit Agricole ha messo sul tavolo una proposta di fusione amichevole tra Crédit Agricole Italia e Banco Bpm, di cui detiene il 29,6 per cento.",
-        "whyItMatters": "Post fusione, la Banque Verte salirebbe al 45% del nuovo conglomerato, una quota significativa che comporterebbe la perdita di contendibilità della banca.",
+        "mainFact": "Negli Stati Uniti il traffico aereo si è fermato per circa quattro ore a causa di un aggiornamento software della rete di comunicazione privata del sistema di controllo del traffico aereo.",
+        "whyItMatters": "Il blocco ha interessato oltre 15mila collegamenti e, nella mattina successiva, sono già stati registrati 3.374 voli cancellati e 1.008 in ritardo secondo i dati di FlightAware riportati da Abc.",
         "confirmedFacts": [
-          "Il Credit Agricole ha messo sul tavolo una proposta di fusione amichevole tra Crédit Agricole Italia e Banco Bpm, di cui detiene il 29,6 per cento.",
-          "Post fusione, la Banque Verte salirebbe al 45% del nuovo conglomerato, una quota significativa che comporterebbe la perdita di contendibilità della banca.",
-          "I francesi propongono un premio del 20% «nella valorizzazione di Banco Bpm ai fini del concambio».",
-          "Agricole propone «un rapporto di cambio che riflette un premio del 20%» rispetto «al multiplo prezzo/utili atteso per il 2027 utilizzato per valorizzare le contribuzioni di Credit Agricole».",
-          "Intanto Banco Bpm ha smentito le indiscrezioni su una possibile vendita di Anima nell’ambito della fusione allo studio: «Non ci risulta fondata la notizia che riporta la volontà o possibilità che Credit Agricole possa cedere Anima e non è comunque nostra intenzione cederla»."
+          "Negli Stati Uniti il traffico aereo si è fermato per circa quattro ore a causa di un aggiornamento software della rete di comunicazione privata del sistema di controllo del traffico aereo.",
+          "Il blocco ha interessato oltre 15mila collegamenti e, nella mattina successiva, sono già stati registrati 3.374 voli cancellati e 1.008 in ritardo secondo i dati di FlightAware riportati da Abc.",
+          "“Non è stato un attacco hacker”, ha precisato il segretario ai Trasporti Sean Duffy.",
+          "Ci sarebbe l'aggiornamento di un software dietro al collasso delle comunicazioni che ha portato al blocco del traffico aereo per quasi cinque ore negli Stati Uniti.",
+          "Il segretario alla Homeland Security Markwayne Mullin , che ha parlato con i giornalisti alla Casa Bianca, ha frenato il panico: \"Non è un altro 11 settembre\", e ha spiegato che non ci sono collegamenti con il blocco delle mail e dei servizi Microsoft delle ultime 48 ore.",
+          "Non succedeva dal 2023, quando l’autorità americana dell’aviazione fermò i voli nazionali per un problema tecnico nel sistema di allerta per i piloti.",
+          "Usa, stop ai voli per 4 ore: “Colpa dei sistemi obsoleti”"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Banco Bpm",
-          "Credit Agricole",
-          "Crédit Agricole Italia",
-          "Anima",
-          "Piazza Meda"
+          "Sean Duffy",
+          "Markwayne Mullin",
+          "CBS",
+          "ABC",
+          "FlightAware",
+          "Stati Uniti"
         ],
         "numbersAndDates": [
-          "I francesi propongono un premio del 20% «nella valorizzazione di Banco Bpm ai fini del concambio».",
-          "Agricole propone «un rapporto di cambio che riflette un premio del 20%» rispetto «al multiplo prezzo/utili atteso per il 2027 utilizzato per valorizzare le contribuzioni di Credit Agricole».",
-          "29,6",
-          "45"
+          "Non succedeva dal 2023, quando l’autorità americana dell’aviazione fermò i voli nazionali per un problema tecnico nel sistema di allerta per i piloti.",
+          "3.374",
+          "1.008"
         ]
       }
     },
     {
-      "id": "story-e688ac0ea67cc47d",
-      "title": "Onde gravitazionali a caccia di supernove fallite",
-      "summary": "L’analisi di 257 fusioni di buchi neri osservate da Ligo–Virgo–Kagra offre nuovi indizi sulle cosiddette “supernove fallite”, stelle che collassano silenziosamente, senza un’esplosione. Masse e spin dei buchi neri suggeriscono una popolazione distinta, forse nata attraverso questo processo. Lo studio, guidato dal Caltech, è pubblicato su Physical Review D",
-      "spokenText": "L'analisi di 257 fusioni di buchi neri osservate da Ligo–Virgo–Kagra offre nuovi indizi sulle cosiddette supernove fallite, stelle che collassano silenziosamente, senza un'esplosione. Lo studio, guidato dal Caltech e pubblicato su Physical Review D, suggerisce che masse e spin di questi buchi neri possano indicare una popolazione distinta, nata proprio attraverso questo processo di collasso silenzioso.",
+      "id": "story-cccdb46da670d774",
+      "title": "ChatGPT Wallet: gli agenti AI effettuano acquisti",
+      "summary": "ChatGPT Wallet consente agli agenti AI di OpenAI (dots) di effettuare acquisti per conto dell'utente (che deve sempre approvare la transazione). The post ChatGPT Wallet: gli agenti AI effettuano acquisti appeared first on Punto Informatico.",
+      "spokenText": "ChatGPT Wallet consente agli agenti AI di OpenAI di effettuare acquisti per conto dell'utente, che deve sempre approvare la transazione. La funzionalità permette agli agenti dell'azienda californiana di comprare per gli utenti maggiorenni senza accedere ai dati della carta di credito. OpenAI sottolinea che oltre 1,2 miliardi di persone usano ChatGPT ogni settimana.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "chatgpt wallet",
+        "openai",
+        "agenti ai",
+        "utenti"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 22,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chatgpt-wallet-agenti-ai-effettuano-acquisti/"
+      },
+      "analysis": {
+        "mainFact": "ChatGPT Wallet consente agli agenti AI di OpenAI di effettuare acquisti per conto dell'utente, che deve sempre approvare la transazione.",
+        "whyItMatters": "È una funzionalità che permette agli agenti AI ( dots ) dell’azienda californiana di effettuare acquisti per conto degli utenti (solo maggiorenni), senza accedere ai dati della carta di credito.",
+        "confirmedFacts": [
+          "ChatGPT Wallet consente agli agenti AI di OpenAI di effettuare acquisti per conto dell'utente, che deve sempre approvare la transazione.",
+          "È una funzionalità che permette agli agenti AI ( dots ) dell’azienda californiana di effettuare acquisti per conto degli utenti (solo maggiorenni), senza accedere ai dati della carta di credito.",
+          "OpenAI sottolinea che oltre 1,2 miliardi di persone usano ChatGPT ogni settimana."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "ChatGPT Wallet",
+          "OpenAI",
+          "agenti AI",
+          "utenti"
+        ],
+        "numbersAndDates": [
+          "OpenAI sottolinea che oltre 1,2 miliardi di persone usano ChatGPT ogni settimana."
+        ]
+      }
+    },
+    {
+      "id": "story-800dc74cf9cb8db6",
+      "title": "Giganti di ghiaccio: cosa racconta l’argon-40",
+      "summary": "Un nuovo studio condotto dal Southwest Research Institute ha indagato il potenziale dell’argon-40 come tracciante della componente rocciosa presente all’interno di Urano e Nettuno. I risultati indicano che la possibilità di utilizzare l’abbondanza atmosferica di questo isotopo come indicatore della roccia presente nei due pianeti dipende da quale delle due componenti prevale, primordiale o radiogenica",
+      "spokenText": "Un nuovo studio del Southwest Research Institute ha analizzato il potenziale dell'argon-40 come tracciante della componente rocciosa all'interno di Urano e Nettuno. La ricerca si concentra sull'uso di questo isotopo per capire cosa raccontano i giganti di ghiaccio sulla loro composizione interna. Secondo i risultati, la possibilità di utilizzare l'abbondanza atmosferica di argon-40 come indicatore della roccia presente nei due pianeti dipende dalla prevalenza di due componenti: quella primordiale o quella radiogenica.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "ligo virgo kagra",
-        "caltech",
-        "physical review d"
+        "southwest research institute",
+        "argon 40",
+        "urano",
+        "nettuno"
       ],
-      "importance": 95,
+      "importance": 65,
       "mustInclude": false,
-      "estimatedSeconds": 23,
+      "estimatedSeconds": 29,
       "source": {
         "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/13/onde-gravitazionali-a-caccia-di-supernove-fallite/"
+        "url": "https://www.media.inaf.it/2026/11/13/giganti-di-ghiaccio-cosa-racconta-largon-40/"
       },
       "analysis": {
-        "mainFact": "L'analisi di 257 fusioni di buchi neri osservate da Ligo–Virgo–Kagra offre nuovi indizi sulle cosiddette “supernove fallite”, stelle che collassano silenziosamente, senza un'esplosione.",
-        "whyItMatters": "Masse e spin dei buchi neri suggeriscono una popolazione distinta, forse nata attraverso questo processo.",
+        "mainFact": "Un nuovo studio condotto dal Southwest Research Institute ha indagato il potenziale dell’argon-40 come tracciante della componente rocciosa presente all’interno di Urano e Nettuno.",
+        "whyItMatters": "I risultati indicano che la possibilità di utilizzare l’abbondanza atmosferica di questo isotopo come indicatore della roccia presente nei due pianeti dipende da quale delle due componenti prevale, primordiale o radiogenica.",
         "confirmedFacts": [
-          "L'analisi di 257 fusioni di buchi neri osservate da Ligo–Virgo–Kagra offre nuovi indizi sulle cosiddette “supernove fallite”, stelle che collassano silenziosamente, senza un'esplosione.",
-          "Masse e spin dei buchi neri suggeriscono una popolazione distinta, forse nata attraverso questo processo.",
-          "Lo studio, guidato dal Caltech, è pubblicato su Physical Review D"
+          "Un nuovo studio condotto dal Southwest Research Institute ha indagato il potenziale dell’argon-40 come tracciante della componente rocciosa presente all’interno di Urano e Nettuno.",
+          "I risultati indicano che la possibilità di utilizzare l’abbondanza atmosferica di questo isotopo come indicatore della roccia presente nei due pianeti dipende da quale delle due componenti prevale, primordiale o radiogenica.",
+          "Giganti di ghiaccio: cosa racconta l’argon-40"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ligo–Virgo–Kagra",
-          "Caltech",
-          "Physical Review D"
+          "Southwest Research Institute",
+          "argon-40",
+          "Urano",
+          "Nettuno"
         ],
         "numbersAndDates": [
-          "257"
+          "Giganti di ghiaccio: cosa racconta l’argon-40",
+          "40"
         ]
       }
     },
     {
-      "id": "story-87b3f59e94ef6234",
-      "title": "Come il DNA sta cambiando ciò che sappiamo dei Neanderthal",
-      "summary": "La genetica molecolare, combinata allo studio del DNA antico, sta ricostruendo nuove pagine della nostra storia evolutiva, che comprende anche gli incroci con altre forme umane di cui ancora oggi possiamo riconoscere e seguire le tracce nel nostro genoma.",
-      "spokenText": "La genetica molecolare, combinata allo studio del DNA antico, sta ricostruendo nuove pagine della nostra storia evolutiva, che comprende anche gli incroci con altre forme umane di cui ancora oggi possiamo riconoscere e seguire le tracce nel nostro genoma. Negli ultimi quindici anni, però, la genetica molecolare ha reso questa storia molto meno lineare. Il sequenziamento del DNA estratto dai resti di Neanderthal ha mostrato, infatti, che i nostri antenati non si limitarono a convivere con altre forme umane, ma si incrociarono con esse e che di quegli antichi incontri conserviamo ancora oggi tracce nel nostro patrimonio genetico. Come conseguenza di questi incroci, avvenuti in Eurasia circa 47.000 anni fa, nelle attuali popolazioni non africane circa l’1-2 per cento del genoma deriva dai Neanderthal. In particolare, è stato estratto il DNA mitocondriale da denti appartenuti a sette Neanderthal vissuti circa 100.000 anni fa. Un articolo pubblicato sulla rivista scientifica Nature nei mesi scorsi ha analizzato il DNA proveniente da 27 resti neandertaliani rinvenuti in dieci siti del Belgio e della Francia e appartenenti a individui vissuti da circa 52.500 anni fa in poi, quindi poco prima della scomparsa dei Neanderthal dall’Europa.",
-      "category": "scienza",
+      "id": "story-e36aa050ddab88e8",
+      "title": "Migliori chiavi dinamometriche (2026)",
+      "summary": "VANPO Set di chiavi dinamometriche 47 pezzi è la scelta principale per chi mantiene auto, moto e biciclette: comprende tre chiavi con intervalli 1–25, 5–60 e 20–220 Nm, precisione dichiarata ±3% e sca...",
+      "spokenText": "Le migliori chiavi dinamometriche del 2026 rappresentano un punto di riferimento per chi cerca precisione e affidabilità negli strumenti di serraggio. Migliori lettiere autopulenti per gatti (2026).",
+      "category": "altro",
       "tags": [
-        "scienza",
-        "neanderthal",
-        "dna antico",
-        "nature"
+        "altro",
+        "chiavi dinamometriche"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 11,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/automotive/migliori-chiavi-dinamometriche"
+      },
+      "analysis": {
+        "mainFact": "Migliori chiavi dinamometriche (2026)",
+        "whyItMatters": "Migliori lettiere autopulenti per gatti (2026)",
+        "confirmedFacts": [
+          "Migliori chiavi dinamometriche (2026)",
+          "Migliori lettiere autopulenti per gatti (2026)"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "chiavi dinamometriche"
+        ],
+        "numbersAndDates": [
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-bc5b0557d98f996d",
+      "title": "Per garantire continuità terapie, sostenibilità e accesso equo a migliori opportunità cura",
+      "summary": "Per garantire continuità terapie, sostenibilità e accesso equo a migliori opportunità cura",
+      "spokenText": "La maggior parte delle terapie incluse nel Fondo sono oncologiche: si tratta di 31 delle 55 indicazioni previste per il 2025, per un valore di 353 milioni di euro, che rappresentano più della metà della spesa totale di 700 milioni. un nuovo modello di governo dell'innovazione, capace di rimuovere gli ostacoli burocratici e amministrativi locali per garantire l'immediata disponibilità dei nuovi farmaci. L'associazione chiede inoltre che, in alcuni casi, le terapie possano rimanere nel Fondo fino a cinque anni, superando l'attuale limite massimo di tre anni per il riconoscimento dell'innovatività terapeutica, senza possibilità di proroga neppure in assenza di trattamenti più efficaci.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "aiom"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 77,
+      "estimatedSeconds": 41,
       "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/neanderthal-dna-cambia-cosa-sappiamo/"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/berardi-permanenza-farmaci-in-fondo-innovativi-possa-essere-estesa-fino-a-5-anni_adbbc53b-f39c-452a-ad67-05fafadbf077.html"
       },
       "analysis": {
-        "mainFact": "La genetica molecolare, combinata allo studio del DNA antico, sta ricostruendo nuove pagine della nostra storia evolutiva, che comprende anche gli incroci con altre forme umane di cui ancora oggi possiamo riconoscere e seguire le tracce nel nostro genoma.",
-        "whyItMatters": "Negli ultimi quindici anni, però, la genetica molecolare ha reso questa storia molto meno lineare.",
+        "mainFact": "La maggior parte delle terapie incluse nel Fondo sono oncologiche: includono 31 delle 55 indicazioni del 2025, pari a 353 milioni di euro, più della metà della spesa (700 milioni).",
+        "whyItMatters": "Dall'Aiom arriva una richiesta precisa: un nuovo modello di governo dell'innovazione, che rimuova gli ostacoli burocratici e amministrativi locali alla immediata disponibilità dei nuovi farmaci e che consenta, in alcuni casi, la permanenza delle terapie nel Fondo fino a 5 anni.",
         "confirmedFacts": [
-          "La genetica molecolare, combinata allo studio del DNA antico, sta ricostruendo nuove pagine della nostra storia evolutiva, che comprende anche gli incroci con altre forme umane di cui ancora oggi possiamo riconoscere e seguire le tracce nel nostro genoma.",
-          "Negli ultimi quindici anni, però, la genetica molecolare ha reso questa storia molto meno lineare.",
-          "Il sequenziamento del DNA estratto dai resti di Neanderthal ha mostrato, infatti, che i nostri antenati non si limitarono a convivere con altre forme umane, ma si incrociarono con esse e che di quegli antichi incontri conserviamo ancora oggi tracce nel nostro patrimonio genetico.",
-          "Come conseguenza di questi incroci, avvenuti in Eurasia circa 47.000 anni fa, nelle attuali popolazioni non africane circa l’1-2 per cento del genoma deriva dai Neanderthal.",
-          "In particolare, è stato estratto il DNA mitocondriale da denti appartenuti a sette Neanderthal vissuti circa 100.000 anni fa.",
-          "Un articolo pubblicato sulla rivista scientifica Nature nei mesi scorsi ha analizzato il DNA proveniente da 27 resti neandertaliani rinvenuti in dieci siti del Belgio e della Francia e appartenenti a individui vissuti da circa 52.500 anni fa in poi, quindi poco prima della scomparsa dei Neanderthal dall’Europa."
+          "La maggior parte delle terapie incluse nel Fondo sono oncologiche: includono 31 delle 55 indicazioni del 2025, pari a 353 milioni di euro, più della metà della spesa (700 milioni).",
+          "Dall'Aiom arriva una richiesta precisa: un nuovo modello di governo dell'innovazione, che rimuova gli ostacoli burocratici e amministrativi locali alla immediata disponibilità dei nuovi farmaci e che consenta, in alcuni casi, la permanenza delle terapie nel Fondo fino a 5 anni.",
+          "La durata massima del riconoscimento dell'innovatività terapeutica è di 3 anni, senza possibilità di proroga, neppure in assenza di terapie più efficaci."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Neanderthal",
-          "DNA antico",
-          "Nature"
+          "Aiom"
         ],
         "numbersAndDates": [
-          "Come conseguenza di questi incroci, avvenuti in Eurasia circa 47.000 anni fa, nelle attuali popolazioni non africane circa l’1-2 per cento del genoma deriva dai Neanderthal.",
-          "In particolare, è stato estratto il DNA mitocondriale da denti appartenuti a sette Neanderthal vissuti circa 100.000 anni fa.",
-          "Un articolo pubblicato sulla rivista scientifica Nature nei mesi scorsi ha analizzato il DNA proveniente da 27 resti neandertaliani rinvenuti in dieci siti del Belgio e della Francia e appartenenti a individui vissuti da circa 52.500 anni fa in poi, quindi poco prima della scomparsa dei Neanderthal dall’Europa."
+          "La durata massima del riconoscimento dell'innovatività terapeutica è di 3 anni, senza possibilità di proroga, neppure in assenza di terapie più efficaci.",
+          "31",
+          "55",
+          "2025",
+          "353",
+          "700",
+          "5"
         ]
       }
     },
     {
-      "id": "story-b30e7a22c5cc5ecc",
-      "title": "Spettro, spettro delle mie brame",
-      "summary": "La prima grande data release del telescopio spaziale Euclid contiene 309 milioni di spettri, ricavati separando la luce delle loro sorgenti in tutti i suoi “colori”. Tra essi, 160 milioni saranno usati per cercare di stimare la distanza di una frazione importante delle galassie osservate dalla missione e ricostruire la struttura tridimensionale del cosmo. Ma come funziona Nisp, lo strumento che rende possibile tutto questo?",
-      "spokenText": "La prima grande data release del telescopio spaziale Euclid contiene 309 milioni di spettri, ottenuti separando la luce delle sorgenti osservate in tutti i suoi colori. Di questi, 160 milioni saranno utilizzati per stimare la distanza di una parte significativa delle galassie osservate dalla missione e ricostruire la struttura tridimensionale del cosmo.",
-      "category": "scienza",
+      "id": "story-0f0a33dbef1f13dc",
+      "title": "Guerra Ucraina - Russia. Zelensky",
+      "summary": "Sventato attacco per colpire Kiev. Summit Putin-Xi-Trump a margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
+      "spokenText": "Sventato attacco per colpire Kiev. Volodymyr Zelensky, parlando con i giornalisti, aggiungendo che il numero esatto è ancora in fase di definizione e che stima si aggiri fra 1.200 e 1.300. Summit Putin-Xi-Trump a margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi. Zelensky ha inoltre affermato che l'Ucraina ha bisogno di un numero di F-16 in volo due volte e mezzo superiore a quello attuale. La Russia ha lanciato 96 droni Shahed, tra cui i droni esca Gerbera e Parodiya.",
+      "category": "mondo",
       "tags": [
-        "scienza",
-        "telescopio spaziale euclid"
+        "mondo",
+        "volodymyr zelensky",
+        "putin",
+        "xi",
+        "trump",
+        "apec",
+        "kiev",
+        "russia",
+        "ucraina"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 34,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/11/14/diretta/guerra_ucraina_russia_news_oggi-425722502/"
+      },
+      "analysis": {
+        "mainFact": "Sventato attacco per colpire Kiev.",
+        "whyItMatters": "Volodymyr Zelensky, parlando con i giornalisti, aggiungendo che il numero esatto è ancora in fase di definizione e che stima si aggiri fra 1.200 e 1.300.",
+        "confirmedFacts": [
+          "Sventato attacco per colpire Kiev.",
+          "Volodymyr Zelensky, parlando con i giornalisti, aggiungendo che il numero esatto è ancora in fase di definizione e che stima si aggiri fra 1.200 e 1.300.",
+          "Summit Putin-Xi-Trump a margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
+          "Zelensky ha inoltre affermato che l'Ucraina ha bisogno di un numero di F-16 in volo due volte e mezzo superiore a quello attuale.",
+          "La Russia ha lanciato 96 droni Shahed, tra cui i droni esca Gerbera e Parodiya."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Volodymyr Zelensky",
+          "Putin",
+          "Xi",
+          "Trump",
+          "Apec",
+          "Kiev",
+          "Russia",
+          "Ucraina"
+        ],
+        "numbersAndDates": [
+          "Summit Putin-Xi-Trump a margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
+          "Zelensky ha inoltre affermato che l'Ucraina ha bisogno di un numero di F-16 in volo due volte e mezzo superiore a quello attuale.",
+          "La Russia ha lanciato 96 droni Shahed, tra cui i droni esca Gerbera e Parodiya.",
+          "1.200",
+          "1.300"
+        ]
+      }
+    },
+    {
+      "id": "story-7f21a428de9e255a",
+      "title": "Nuove norme e Piani di tutela urbana per l'incremento del patrimonio verde e della",
+      "summary": "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani. In questo senso, il piano del verde ( o piano della natura ) rappresenta lo strumento chiave per pianificare, valorizzare ed incrementare il patrimonio verde e la biodiversità urbana , e promuovere nella pianificazione urbanistica locale un equilibrio tra ambiente costruito e naturale, tra infrastrutture grigie e infrastrutture verdi e blu.",
+      "spokenText": "Nuove norme e piani di tutela urbana per l'incremento del patrimonio verde entrano in vigore in seguito all'applicazione del Regolamento (UE) 2024/1991 per il Ripristino della Natura, adottato dall'Unione Europea il 18 agosto 2024. Il provvedimento segna una svolta decisiva nella politica ambientale dell'Unione, introducendo obiettivi vincolanti anche per gli ecosistemi urbani.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "unione europea",
+        "regolamento ue 2024 1991"
       ],
       "importance": 85,
       "mustInclude": false,
       "estimatedSeconds": 21,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/13/spettri-euclid-scodeggio-sirignano-frailis/"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/nuove-norme-e-piani-di-tutela-urbana-per-lincremento-del-patrimonio-verde-e-della-biodiversita"
       },
       "analysis": {
-        "mainFact": "La prima grande data release del telescopio spaziale Euclid contiene 309 milioni di spettri, ricavati separando la luce delle loro sorgenti in tutti i suoi “colori”.",
-        "whyItMatters": "Tra essi, 160 milioni saranno usati per cercare di stimare la distanza di una frazione importante delle galassie osservate dalla missione e ricostruire la struttura tridimensionale del cosmo.",
+        "mainFact": "Nuove norme e Piani di tutela urbana per l'incremento del patrimonio verde e della",
+        "whyItMatters": "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani.",
         "confirmedFacts": [
-          "La prima grande data release del telescopio spaziale Euclid contiene 309 milioni di spettri, ricavati separando la luce delle loro sorgenti in tutti i suoi “colori”.",
-          "Tra essi, 160 milioni saranno usati per cercare di stimare la distanza di una frazione importante delle galassie osservate dalla missione e ricostruire la struttura tridimensionale del cosmo."
+          "Nuove norme e Piani di tutela urbana per l'incremento del patrimonio verde e della",
+          "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "telescopio spaziale Euclid"
+          "Unione Europea",
+          "Regolamento (UE) 2024/1991"
         ],
         "numbersAndDates": [
-          "309",
-          "160"
+          "2024",
+          "1991",
+          "18"
         ]
       }
     },
     {
-      "id": "story-5e6cebe1a0ec0a44",
-      "title": "Una strategia di virtualizzazione moderna richiede una gestione dei dati altrettanto",
-      "summary": "Il panorama attuale della virtualizzazione è giunto a un bivio cruciale. Gli sconvolgimenti del mercato hanno costretto le organizzazioni a guardare oltre gli shock di breve periodo e ad affrontare qu...",
-      "spokenText": "Una strategia di virtualizzazione moderna richiede una gestione dei dati altrettanto evoluta. Il panorama attuale della virtualizzazione è giunto a un bivio cruciale, rendendo indispensabile un approccio integrato per gestire le informazioni in modo efficace e coerente con le nuove infrastrutture.",
-      "category": "altro",
+      "id": "story-2e04966a4b812a0b",
+      "title": "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme",
+      "summary": "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove tartarughe verdi giovani nel 2019 e ha attaccato tag satellitari ai loro gusci usando una resina specialistica e innocua.",
+      "spokenText": "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove esemplari nel 2019, applicando sui loro gusci tag satellitari tramite una resina specialistica e innocua. In un nuovo studio, i ricercatori hanno tracciato questi animali in un wetland protetto a Sharjah, negli Emirati Arabi Uniti. I dati mostrano che le tartarughe rimanevano generalmente entro soli due miglia dall'ingresso del wetland e trascorrevano più dell'80% del tempo tracciato all'interno del confine dell'area marina protetta. Un dato particolarmente significativo riguarda un esemplare che, dopo essere rimasta nel wetland per 93 giorni, ha viaggiato per oltre 500 miglia fino all'isola di Masirah, in Oman.",
+      "category": "scienza",
       "tags": [
-        "altro"
+        "scienza",
+        "epaa",
+        "masirah island",
+        "oman"
       ],
-      "importance": 72,
+      "importance": 75,
       "mustInclude": false,
-      "estimatedSeconds": 17,
+      "estimatedSeconds": 47,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/una-strategia-di-virtualizzazione-moderna-richiede-una-gestione-dei-dati-altrettanto-moderna"
+        "name": "The Conversation",
+        "url": "https://theconversation.com/young-turtles-find-refuge-in-both-natural-and-artificial-wetlands-in-uae-new-study-295707"
       },
       "analysis": {
-        "mainFact": "Una strategia di virtualizzazione moderna richiede una gestione dei dati altrettanto",
-        "whyItMatters": "Il panorama attuale della virtualizzazione è giunto a un bivio cruciale.",
+        "mainFact": "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove tartarughe verdi giovani nel 2019 e ha attaccato tag satellitari ai loro gusci usando una resina specialistica e innocua.",
+        "whyItMatters": "Studio su tartarughe e zone umide, rilevanza ambiente e scienza.",
         "confirmedFacts": [
-          "Una strategia di virtualizzazione moderna richiede una gestione dei dati altrettanto",
-          "Il panorama attuale della virtualizzazione è giunto a un bivio cruciale."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-f59152322d147499",
-      "title": "Il ministero della Salute: 'Un italiano su 10 rinuncia a cure essenziali",
-      "summary": "Il Ministero della Salute segnala che un italiano su 10 rinuncia a cure essenziali. La rinuncia alle prestazioni sanitarie per motivi economici o difficoltà di accesso, comprese le liste d'attesa, raggiunge il 9,8% a livello nazionale, con forti differenze territoriali e regioni del Centro-Sud sotto la soglia di sufficienza.",
-      "spokenText": "Il Ministero della Salute segnala che un italiano su dieci rinuncia a cure essenziali. Il dato più elevato si registra in Sardegna. Nel 2024 quasi tutte le regioni italiane, ovvero 18 su 21, raggiungono la soglia di sufficienza nelle tre aree di valutazione dei Livelli essenziali di assistenza. Dalla relazione del Ministero della Salute sul monitoraggio dei Lea attraverso il Nuovo sistema di garanzia relativo al 2024 emerge, quindi, un divario significativo rispetto all'indicatore di recente introdotto. La rinuncia alle prestazioni sanitarie per motivi economici o difficoltà di accesso, comprese le liste d'attesa, raggiunge il 9,8% a livello nazionale, con forti differenze territoriali e regioni del Centro-Sud sotto la soglia di sufficienza. Da questo punto di vista le regioni migliori, ovvero quello con i valori più bassi di rinuncia alle cure, osservano invece nella Provincia autonoma di Bolzano (5,3%), nella Provincia autonoma di Trento (7,1%) e in Veneto (7,2%).",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "ministero della salute",
-        "sardegna",
-        "lazio",
-        "provincia autonoma di bolzano",
-        "provincia autonoma di trento",
-        "veneto"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 60,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/11/ministero-salute-un-italiano-su-10-rinuncia-a-cure-essenziali-divario-nord-sud_984b7425-3db7-4bc7-985d-74770233e3e9.html"
-      },
-      "analysis": {
-        "mainFact": "Il Ministero della Salute segnala che un italiano su 10 rinuncia a cure essenziali.",
-        "whyItMatters": "La rinuncia alle prestazioni sanitarie per motivi economici o difficoltà di accesso, comprese le liste d'attesa, raggiunge il 9,8% a livello nazionale, con forti differenze territoriali e regioni del Centro-Sud sotto la soglia di sufficienza.",
-        "confirmedFacts": [
-          "Il Ministero della Salute segnala che un italiano su 10 rinuncia a cure essenziali.",
-          "La rinuncia alle prestazioni sanitarie per motivi economici o difficoltà di accesso, comprese le liste d'attesa, raggiunge il 9,8% a livello nazionale, con forti differenze territoriali e regioni del Centro-Sud sotto la soglia di sufficienza.",
-          "Il dato più elevato si registra in Sardegna, dove la quota di cittadini che rinuncia alle cure arriva al 16%.",
-          "Da questo punto di vista le regioni migliori, ovvero quello con i valori più bassi di rinuncia alle cure, osservano invece nella Provincia autonoma di Bolzano (5,3%), nella Provincia autonoma di Trento (7,1%) e in Veneto (7,2%).",
-          "Nel 2024 quasi tutte le regioni italiane, ovvero 18 su 21, raggiungono la soglia di sufficienza, fissata a alcuni aspetti, nelle tre aree di valutazione dei Livelli essenziali di assistenza (Lea).",
-          "Dalla relazione del Ministero della Salute sul monitoraggio dei Livelli essenziali di assistenza (Lea) attraverso il Nuovo sistema di garanzia relativo al 2024 emerge, quindi, un divario significativo rispetto all'indicatore, di recente introdotto."
+          "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove tartarughe verdi giovani nel 2019 e ha attaccato tag satellitari ai loro gusci usando una resina specialistica e innocua.",
+          "Studio su tartarughe e zone umide, rilevanza ambiente e scienza.",
+          "In un nuovo studio, i miei colleghi e io abbiamo usato tag satellitari per tracciare tartarughe verdi giovani in un wetland protetto a Sharjah, negli Emirati Arabi Uniti.",
+          "Rimanevano generalmente entro soli 2 miglia dall'ingresso del wetland e trascorrevano più dell'80% del loro tempo tracciato all'interno del confine dell'area marina protetta.",
+          "Dopo essere rimasta nel wetland per 93 giorni, una tartaruga ha viaggiato per oltre 500 miglia fino all'isola di Masirah nel vicino Oman."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Ministero della Salute",
-          "Sardegna",
-          "Lazio",
-          "Provincia autonoma di Bolzano",
-          "Provincia autonoma di Trento",
-          "Veneto"
+          "EPAA",
+          "Masirah Island",
+          "Oman"
         ],
         "numbersAndDates": [
-          "Il dato più elevato si registra in Sardegna, dove la quota di cittadini che rinuncia alle cure arriva al 16%.",
-          "Da questo punto di vista le regioni migliori, ovvero quello con i valori più bassi di rinuncia alle cure, osservano invece nella Provincia autonoma di Bolzano (5,3%), nella Provincia autonoma di Trento (7,1%) e in Veneto (7,2%).",
-          "Nel 2024 quasi tutte le regioni italiane, ovvero 18 su 21, raggiungono la soglia di sufficienza, fissata a alcuni aspetti, nelle tre aree di valutazione dei Livelli essenziali di assistenza (Lea).",
-          "Dalla relazione del Ministero della Salute sul monitoraggio dei Livelli essenziali di assistenza (Lea) attraverso il Nuovo sistema di garanzia relativo al 2024 emerge, quindi, un divario significativo rispetto all'indicatore, di recente introdotto.",
-          "10",
-          "9,8"
-        ]
-      }
-    },
-    {
-      "id": "story-49bdba88d838cb67",
-      "title": "<img src=\"https://cdn",
-      "summary": "La rapida evoluzione dei modelli di Intelligenza Artificiale sta spingendo sempre più aziende a rivalutare il proprio approccio all’implementazione dei processi ed alla loro governance. Negli ultimi m...",
-      "spokenText": "La rapida evoluzione dei modelli di Intelligenza Artificiale sta spingendo sempre più aziende a rivalutare il proprio approccio all'implementazione dei processi e alla loro governance.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 10,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/ia-in-locale-e-knowledge-management-da-costo-operativo-ad-asset-aziendale"
-      },
-      "analysis": {
-        "mainFact": "La rapida evoluzione dei modelli di Intelligenza Artificiale sta spingendo sempre più aziende a rivalutare il proprio approccio all’implementazione dei processi ed alla loro governance.",
-        "whyItMatters": "IA locale e knowledge management come asset aziendale: trend emergente utile per tecnologia e industria.",
-        "confirmedFacts": [
-          "La rapida evoluzione dei modelli di Intelligenza Artificiale sta spingendo sempre più aziende a rivalutare il proprio approccio all’implementazione dei processi ed alla loro governance.",
-          "IA locale e knowledge management come asset aziendale: trend emergente utile per tecnologia e industria."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-d03eacf45e690da1",
-      "title": "Down mondiale di Microsoft, riprendono i primi servizi. L’azienda assicura",
-      "summary": "L’interruzione ha colpito non solo il servizio di posta elettronica ma anche prodotti come Teams e Copilot",
-      "spokenText": "L'interruzione ha colpito non solo il servizio di posta elettronica ma anche prodotti come Teams e Copilot. I prodotti Microsoft, inclusi Outlook, sono stati fuori servizio a livello globale il 13 novembre 2026.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "microsoft",
-        "outlook",
-        "teams",
-        "copilot"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/11/12/news/microsoft_down_in_tutto_il_mondo_disservizi_sulla_mail_negli_usa_130mila_segnalazioni-425719351/"
-      },
-      "analysis": {
-        "mainFact": "L'interruzione ha colpito non solo il servizio di posta elettronica ma anche prodotti come Teams e Copilot.",
-        "whyItMatters": "I prodotti Microsoft, inclusi Outlook, sono stati fuori servizio a livello globale il 13 novembre 2026.",
-        "confirmedFacts": [
-          "L'interruzione ha colpito non solo il servizio di posta elettronica ma anche prodotti come Teams e Copilot.",
-          "I prodotti Microsoft, inclusi Outlook, sono stati fuori servizio a livello globale il 13 novembre 2026.",
-          "Microsoft products including Outlook were out of action globally on November 13 2026.",
-          "Microsoft’s own 2026 sustainability report illustrates the tension.",
-          "Windows 10’s regular support ended in October 2025, although Microsoft offers extended security updates for eligible consumer devices through October 2027."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Microsoft",
-          "Outlook",
-          "Teams",
-          "Copilot"
-        ],
-        "numbersAndDates": [
-          "13",
-          "2026"
+          "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove tartarughe verdi giovani nel 2019 e ha attaccato tag satellitari ai loro gusci usando una resina specialistica e innocua.",
+          "Rimanevano generalmente entro soli 2 miglia dall'ingresso del wetland e trascorrevano più dell'80% del loro tempo tracciato all'interno del confine dell'area marina protetta.",
+          "Dopo essere rimasta nel wetland per 93 giorni, una tartaruga ha viaggiato per oltre 500 miglia fino all'isola di Masirah nel vicino Oman.",
+          "2019"
         ]
       }
     },
@@ -593,37 +593,33 @@
       "id": "story-5244b62085d44652",
       "title": "Oltre la soglia: cosa accade quando lo psicologo entra nella dimensione intima del",
       "summary": "Come cambia il lavoro dello psicologo a domicilio e nelle comunità terapeutiche? Una riflessione sulla relazione di cura oltre i confini dello studio L'articolo Oltre la soglia: cosa accade quando lo psicologo entra nella dimensione intima del paziente? proviene da State of Mind.",
-      "spokenText": "Cosa accade quando lo psicologo lascia la geometria protetta dello studio per entrare nella dimensione più intima del paziente? È il cuore di un'analisi di State of Mind che esplora la relazione terapeutica fuori dai contesti tradizionali, focalizzandosi su domicilio e comunità terapeutiche. Questo cambiamento incide direttamente sulla dinamica tra psicologo e paziente, ridefinendo i confini della cura e l'approccio terapeutico nei contesti domiciliari e comunitari.",
+      "spokenText": "Cosa accade quando lo psicologo esce dalla geometria protetta del suo studio per varcare la soglia della dimensione più intima del paziente? State of Mind esplora la relazione terapeutica fuori dal contesto tradizionale, analizzando cosa cambia nel lavoro del professionista a domicilio e nelle comunità terapeutiche. Un approfondimento che guarda alla cura nei contesti domiciliari e comunitari, senza trarre conclusioni definitive.",
       "category": "salute",
       "tags": [
         "salute",
         "psicologo",
-        "paziente",
-        "comunita terapeutiche",
-        "domicilio"
+        "state of mind"
       ],
       "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 27,
+      "estimatedSeconds": 25,
       "source": {
         "name": "State of Mind (Psicologia)",
         "url": "https://www.stateofmind.it/2026/11/psicologo-domicilio/?utm_source=rss&utm_medium=rss&utm_campaign=psicologo-domicilio"
       },
       "analysis": {
-        "mainFact": "L'articolo riflette su cosa accade quando lo psicologo esce dalla geometria protetta del suo studio per varcare la soglia della dimensione più intima del paziente.",
-        "whyItMatters": "Come cambia il lavoro dello psicologo a domicilio e nelle comunità terapeutiche?",
+        "mainFact": "Oltre la soglia: cosa accade quando lo psicologo entra nella dimensione intima del paziente.",
+        "whyItMatters": "Come cambia il lavoro dello psicologo a domicilio e nelle comunità terapeutiche.",
         "confirmedFacts": [
-          "L'articolo riflette su cosa accade quando lo psicologo esce dalla geometria protetta del suo studio per varcare la soglia della dimensione più intima del paziente.",
-          "Come cambia il lavoro dello psicologo a domicilio e nelle comunità terapeutiche?",
-          "L'articolo Genitori e algoritmi: che cosa cambia quando l’intelligenza artificiale entra nella relazione educativa – Psicologia Digitale proviene da State of Mind.",
-          "chat_bubble_outline Commenta (Adobe stock AI – Andy) La relazione terapeutica fuori dallo studio: la cura nei contesti domiciliari e comunitari Cosa accade quando lo psicologo esce dalla geometria protetta del suo studio per varcare la soglia della dimensione più intima del paziente?"
+          "Oltre la soglia: cosa accade quando lo psicologo entra nella dimensione intima del paziente.",
+          "Come cambia il lavoro dello psicologo a domicilio e nelle comunità terapeutiche.",
+          "chat_bubble_outline Commenta (Adobe stock AI – Andy) La relazione terapeutica fuori dallo studio: la cura nei contesti domiciliari e comunitari Cosa accade quando lo psicologo esce dalla geometria protetta del suo studio per varcare la soglia della dimensione più intima del paziente?",
+          "L'articolo Genitori e algoritmi: che cosa cambia quando l’intelligenza artificiale entra nella relazione educativa – Psicologia Digitale proviene da State of Mind."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "psicologo",
-          "paziente",
-          "comunità terapeutiche",
-          "domicilio"
+          "State of Mind"
         ],
         "numbersAndDates": []
       }
