@@ -1,15 +1,168 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-14-032299abb1e2",
-  "generatedAt": "2026-11-14T12:52:53.339Z",
+  "catalogId": "daily-quid-2026-11-15-043541df8926",
+  "generatedAt": "2026-11-15T13:20:18.388Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
+      "id": "story-e8da2bad4788df1a",
+      "title": "Il clima corre troppo: una soglia che temevamo nel 2045 è già vicina",
+      "summary": "Il servizio europeo Copernicus ha aggiornato la stima del raggiungimento della soglia di 1,5 °C di riscaldamento globale rispetto all'epoca preindustriale: prolungando l'andamento recente delle temper...",
+      "spokenText": "Il clima corre troppo: una soglia che temevamo nel 2045 è già vicina.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente"
+      ],
+      "importance": 90,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/la-terra-potrebbe-toccare-15c-a-breve-cosa-rischiamo"
+      },
+      "analysis": {
+        "mainFact": "Il clima corre troppo: una soglia che temevamo nel 2045 è già vicina",
+        "whyItMatters": "Soglia climatica 1,5 gradi anticipata, impatto ambientale diretto e sistemico.",
+        "confirmedFacts": [
+          "Il clima corre troppo: una soglia che temevamo nel 2045 è già vicina",
+          "Soglia climatica 1,5 gradi anticipata, impatto ambientale diretto e sistemico."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "2045"
+        ]
+      }
+    },
+    {
+      "id": "story-c3f6bd1d36091c1e",
+      "title": "La Danimarca ha trovato un modo per proteggere i neonati dall'RSV",
+      "summary": "Un gruppo di ricercatori del Nordsjællands Hospital di Hillerød, in Danimarca, ha documentato un netto calo dei ricoveri dei lattanti per RSV, il virus respiratorio sinciziale, dopo l'introduzione di...",
+      "spokenText": "La Danimarca ha trovato un modo per proteggere i neonati dall'RSV.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "danimarca"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 5,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/i-vaccini-contro-lrsv-riducono-i-ricoveri-chi-ne-beneficia-di-piu"
+      },
+      "analysis": {
+        "mainFact": "La Danimarca ha trovato un modo per proteggere i neonati dall'RSV.",
+        "whyItMatters": "Protezione neonati RSV, alta rilevanza salute e scienza.",
+        "confirmedFacts": [
+          "La Danimarca ha trovato un modo per proteggere i neonati dall'RSV.",
+          "Protezione neonati RSV, alta rilevanza salute e scienza."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Danimarca"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-df71bb94b925f794",
+      "title": "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli",
+      "summary": "43% non conosce terapie mirate e solo 32% sa cos'è biopsia liquida. Aiom, più informazione",
+      "spokenText": "Le cure per il tumore al seno stanno diventando sempre più personalizzate grazie all'oncologia di precisione, ma molte pazienti non ne sono consapevoli. È quanto emerge da un'indagine presentata al Congresso dell'Associazione Italiana di Oncologia Medica, l'Aiom, condotta su 752 pazienti e caregiver. Secondo il sondaggio, solo il 32% sa che la biopsia liquida è un esame del sangue per individuare cellule o molecole tumorali in circolo, mentre il 43% non conosce le terapie mirate anti-cancro. Ancora più basso è il dato sui Molecular Tumor Board, i gruppi di lavoro multidisciplinari che analizzano il profilo genetico dei tumori complessi per definire cure su misura: ne è a conoscenza appena il 24% delle persone coinvolte. Infine, al 29% delle pazienti è stato prescritto un esame molecolare, ma quasi la metà ha incontrato difficoltà nell'effettuarlo.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "aiom",
+        "associazione italiana di oncologia medica"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 54,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/tumore-seno-cure-su-misura-con-oncologia-di-precisione-ma-pazienti-poco-consapevoli_0f6baf4d-8176-4606-89c9-fcba651cf334.html"
+      },
+      "analysis": {
+        "mainFact": "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli.",
+        "whyItMatters": "43% non conosce terapie mirate e solo 32% sa cos'è biopsia liquida.",
+        "confirmedFacts": [
+          "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli.",
+          "43% non conosce terapie mirate e solo 32% sa cos'è biopsia liquida.",
+          "Solo il 32% sa che la biopsia liquida è un esame del sangue per scoprire la presenza di cellule o molecole tumorali in circolo.",
+          "Il 43% non conosce le terapie mirate anti-cancro e appena il 24% sa cosa sono i Molecular Tumor Board, i gruppi di lavoro multidisciplinari che analizzano il profilo genetico dei tumori più complessi per individuare terapie personalizzate.",
+          "Emerge da un'indagine presentata al Congresso dell'Associazione Italiana di Oncologia Medica (Aiom) e condotta, grazie anche alla collaborazione delle associazioni pazienti, su 752 pazienti e caregiver.",
+          "Sempre secondo il sondaggio, al 29% delle pazienti è stato prescritto un esame molecolare ma quasi la metà ha incontrato difficoltà nel farlo."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Aiom",
+          "Associazione Italiana di Oncologia Medica"
+        ],
+        "numbersAndDates": [
+          "Solo il 32% sa che la biopsia liquida è un esame del sangue per scoprire la presenza di cellule o molecole tumorali in circolo.",
+          "Il 43% non conosce le terapie mirate anti-cancro e appena il 24% sa cosa sono i Molecular Tumor Board, i gruppi di lavoro multidisciplinari che analizzano il profilo genetico dei tumori più complessi per individuare terapie personalizzate.",
+          "Emerge da un'indagine presentata al Congresso dell'Associazione Italiana di Oncologia Medica (Aiom) e condotta, grazie anche alla collaborazione delle associazioni pazienti, su 752 pazienti e caregiver.",
+          "Sempre secondo il sondaggio, al 29% delle pazienti è stato prescritto un esame molecolare ma quasi la metà ha incontrato difficoltà nel farlo.",
+          "43",
+          "32"
+        ]
+      }
+    },
+    {
+      "id": "story-47ed667228213435",
+      "title": "Ucraina, Mosca: 'Negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024'",
+      "summary": "Lavrov: 'Negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno. Capiscono che il convoglio sta partendo e vogliono prendere il vagone di coda'",
+      "spokenText": "Mosca, tramite Lavrov, dichiara che negozierà sull'Ucraina per raggiungere gli obiettivi fissati da Putin nel 2024. Tali obiettivi sono stati formulati dal presidente della Russia Vladimir Putin nel giugno 2024 e non sono mai cambiati da allora. Lavrov: 'Negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno. Capiscono che il convoglio sta partendo e vogliono prendere il vagone di coda'. Gli europei capiscono che il treno sta partendo e \"vogliono salire sull'ultimo treno\". Vogliono provare a saltare sui gradini dell'ultimo vagone \", ha detto. Lo ha affermato Lavrov , riportato dalla Tass, parlando della volontà dell'Ue di partecipare ai negoziati sull'Ucraina.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "mosca",
+        "lavrov",
+        "ue",
+        "ucraina",
+        "vladimir putin",
+        "tass"
+      ],
+      "importance": 60,
+      "mustInclude": false,
+      "estimatedSeconds": 40,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/ucraina-mosca-negozieremo-per-raggiungere-gli-obiettivi-fissati-da-putin-nel_b2d35761-af9c-44dd-964c-e157cfba1464.html"
+      },
+      "analysis": {
+        "mainFact": "Mosca, tramite Lavrov, dichiara che negozierà sull'Ucraina per raggiungere gli obiettivi fissati da Putin nel 2024.",
+        "whyItMatters": "Tali obiettivi sono stati formulati dal presidente della Russia Vladimir Putin nel giugno 2024 e non sono mai cambiati da allora.",
+        "confirmedFacts": [
+          "Mosca, tramite Lavrov, dichiara che negozierà sull'Ucraina per raggiungere gli obiettivi fissati da Putin nel 2024.",
+          "Tali obiettivi sono stati formulati dal presidente della Russia Vladimir Putin nel giugno 2024 e non sono mai cambiati da allora.",
+          "Lavrov: 'Negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno.",
+          "Capiscono che il convoglio sta partendo e vogliono prendere il vagone di coda'",
+          "Gli europei capiscono che il treno sta partendo e \"vogliono salire sull'ultimo treno\".",
+          "\"Probabilmente capiscono che il treno sta partendo e vogliono provare a saltare sui gradini dell'ultimo vagone \", ha detto.",
+          "Lo ha affermato Lavrov , riportato dalla Tass, parlando della volontà dell'Ue di partecipare ai negoziati sull'Ucraina."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Mosca",
+          "Lavrov",
+          "Ue",
+          "Ucraina",
+          "Vladimir Putin",
+          "Tass"
+        ],
+        "numbersAndDates": [
+          "2024"
+        ]
+      }
+    },
+    {
       "id": "story-3f17deffaa74dda5",
       "title": "A che servono le conferenze sul clima se i governi ostacolano le soluzioni",
       "summary": "Mentre USA ed Europa frenano sul clima, alla COP31 di Antalya Guterres attacca le lobby del petrolio. E ora la svolta green potrebbe arrivare da Pechino.",
-      "spokenText": "Il 9 novembre è iniziata ad Antalya, in Turchia, la COP 31, la Conferenza delle Nazioni Unite sul clima. Se alla COP28 di Dubai nel 2023 era stato concordato l'abbandono graduale di carbone, petrolio e gas, le successive conferenze in Azerbaigian e Brasile si erano concluse con accordi al ribasso. Ora, la possibile svolta green potrebbe arrivare da Pechino. «È ora di liberarsi da questa dipendenza e porre fine alla dipendenza dai combustibili fossili», ha detto, tra gli applausi, il Segretario Generale delle Nazioni Unite, Antonio Guterres , giunto al termine del suo mandato e, dunque, alla sua ultima COP.",
+      "spokenText": "Antonio Guterres attacca le lobby del petrolio mentre USA ed Europa frenano sul clima. Alla COP28 di Dubai nel 2023 era stato concordato di abbandonare gradualmente carbone, petrolio e gas, ma le successive conferenze in Azerbaigian e in Brasile si sono concluse con accordi al ribasso. E ora la svolta green potrebbe arrivare da Pechino. «È ora di liberarsi da questa dipendenza e porre fine alla dipendenza dai combustibili fossili», ha detto, tra gli applausi, il Segretario Generale delle Nazioni Unite, Antonio Guterres , giunto al termine del suo mandato e, dunque, alla sua ultima COP.",
       "category": "ambiente",
       "tags": [
         "ambiente",
@@ -20,22 +173,22 @@
         "turchia",
         "antonio guterres",
         "lobby del petrolio",
-        "pechino"
+        "pechino",
+        "cop28"
       ],
       "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 40,
+      "estimatedSeconds": 39,
       "source": {
         "name": "Valigia Blu",
         "url": "https://www.valigiablu.it/conferenze-clima-cop31-turchia-usa-cina-europa/"
       },
       "analysis": {
-        "mainFact": "Mentre USA ed Europa frenano sul clima, alla COP31 di Antalya Guterres attacca le lobby del petrolio.",
-        "whyItMatters": "Il 9 novembre è iniziata ad Antalya, in Turchia, la COP 31, la Conferenza delle Nazioni Unite sul clima.",
+        "mainFact": "Antonio Guterres attacca le lobby del petrolio mentre USA ed Europa frenano sul clima.",
+        "whyItMatters": "Alla COP28 di Dubai nel 2023 era stato concordato di abbandonare gradualmente carbone, petrolio e gas, ma le successive conferenze in Azerbaigian e in Brasile si sono concluse con accordi al ribasso.",
         "confirmedFacts": [
-          "Mentre USA ed Europa frenano sul clima, alla COP31 di Antalya Guterres attacca le lobby del petrolio.",
-          "Il 9 novembre è iniziata ad Antalya, in Turchia, la COP 31, la Conferenza delle Nazioni Unite sul clima.",
-          "Se alla COP28 di Dubai nel 2023 era stato concordato di abbandonare gradualmente carbone, petrolio e gas, le successive conferenze in Azerbaigian e in Brasile si sono concluse con accordi al ribasso.",
+          "Antonio Guterres attacca le lobby del petrolio mentre USA ed Europa frenano sul clima.",
+          "Alla COP28 di Dubai nel 2023 era stato concordato di abbandonare gradualmente carbone, petrolio e gas, ma le successive conferenze in Azerbaigian e in Brasile si sono concluse con accordi al ribasso.",
           "«È ora di liberarsi da questa dipendenza e porre fine alla dipendenza dai combustibili fossili», ha detto, tra gli applausi, il Segretario Generale delle Nazioni Unite, Antonio Guterres , giunto al termine del suo mandato e, dunque, alla sua ultima COP."
         ],
         "uncertainties": [
@@ -49,579 +202,455 @@
           "Turchia",
           "Antonio Guterres",
           "lobby del petrolio",
-          "Pechino"
+          "Pechino",
+          "COP28",
+          "Dubai",
+          "Azerbaigian",
+          "Brasile"
         ],
         "numbersAndDates": [
-          "Se alla COP28 di Dubai nel 2023 era stato concordato di abbandonare gradualmente carbone, petrolio e gas, le successive conferenze in Azerbaigian e in Brasile si sono concluse con accordi al ribasso.",
-          "9",
-          "31"
+          "2023"
         ]
       }
     },
     {
-      "id": "story-26c01abe2c80ec5d",
-      "title": "Bolivia, riserve accertate di gas in calo del 48% in soli due anni",
-      "summary": "La Ypfb: è il livello più basso in vent'anni, servono nuovi investimenti",
-      "spokenText": "Le riserve accertate di gas in Bolivia sono calate del 48% in soli due anni, toccando il livello più basso degli ultimi vent'anni secondo la Ypfb. Considerando anche le riserve probabili, il volume sale a 78,2 miliardi di metri cubi, mentre includendo quelle possibili raggiunge complessivamente 91,7 miliardi. Le riserve di petrolio sono stimate in 57 milioni di barili, quelle di condensati in 67 milioni. Negli ultimi vent'anni sono stati investiti 11 miliardi di dollari nel settore, ma il 65% delle risorse è stato destinato allo sfruttamento dei giacimenti esistenti e soltanto il 35% all'esplorazione, come ha sottolineato Sebastian Daroca. Senza nuovi investimenti, la Bolivia potrebbe dover ricorrere alle importazioni di gas tra la fine del 2029 e l'inizio del 2030, con possibili ripercussioni anche sull'approvvigionamento interno.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "bolivia",
-        "ypfb",
-        "sebastian daroca"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 51,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/14/bolivia-riserve-accertate-di-gas-in-calo-del-48-in-soli-due-anni_4373f9ba-b9f9-493e-a6dd-c62f060de437.html"
-      },
-      "analysis": {
-        "mainFact": "Le riserve accertate di gas in Bolivia sono calate del 48% in soli due anni, toccando il livello più basso degli ultimi vent'anni secondo la Ypfb.",
-        "whyItMatters": "Senza nuovi investimenti, la Bolivia potrebbe dover ricorrere alle importazioni di gas tra la fine del 2029 e l'inizio del 2030, con possibili ripercussioni anche sull'approvvigionamento interno.",
-        "confirmedFacts": [
-          "Le riserve accertate di gas in Bolivia sono calate del 48% in soli due anni, toccando il livello più basso degli ultimi vent'anni secondo la Ypfb.",
-          "Senza nuovi investimenti, la Bolivia potrebbe dover ricorrere alle importazioni di gas tra la fine del 2029 e l'inizio del 2030, con possibili ripercussioni anche sull'approvvigionamento interno.",
-          "Considerando anche le riserve probabili, il volume sale a 78,2 miliardi di metri cubi, mentre includendo quelle possibili raggiunge complessivamente 91,7 miliardi.",
-          "Le riserve di petrolio sono stimate in 57 milioni di barili, quelle di condensati in 67 milioni.",
-          "Sebastian Daroca, negli ultimi vent'anni sono stati investiti 11 miliardi di dollari nel settore, ma il 65% delle risorse stato destinato allo sfruttamento dei giacimenti esistenti e soltanto il 35% all'esplorazione."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Bolivia",
-          "Ypfb",
-          "Sebastian Daroca"
-        ],
-        "numbersAndDates": [
-          "Considerando anche le riserve probabili, il volume sale a 78,2 miliardi di metri cubi, mentre includendo quelle possibili raggiunge complessivamente 91,7 miliardi.",
-          "Le riserve di petrolio sono stimate in 57 milioni di barili, quelle di condensati in 67 milioni.",
-          "Sebastian Daroca, negli ultimi vent'anni sono stati investiti 11 miliardi di dollari nel settore, ma il 65% delle risorse stato destinato allo sfruttamento dei giacimenti esistenti e soltanto il 35% all'esplorazione.",
-          "48",
-          "2029",
-          "2030"
-        ]
-      }
-    },
-    {
-      "id": "story-27c15cb708a34ee3",
-      "title": "Una stella esplode ogni 113 giorni, ma c'è qualcosa che non torna",
-      "summary": "Un gruppo guidato da Mojgan Aghakhanloo, dell’Università della Virginia, ha rilevato con il telescopio spaziale Chandra della NASA un’emissione di raggi X durante uno dei lampi di AT 2016blu, una stel...",
-      "spokenText": "Una stella esplode ogni 113 giorni, ma c'è qualcosa che non torna.",
-      "category": "scienza",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 5,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/una-stella-imita-una-supernova-un-buco-nero-le-ruba-materia"
-      },
-      "analysis": {
-        "mainFact": "Una stella esplode ogni 113 giorni, ma c'è qualcosa che non torna.",
-        "whyItMatters": "Stella che esplode ogni 113 giorni, scoperta scientifica emergente di alto valore.",
-        "confirmedFacts": [
-          "Una stella esplode ogni 113 giorni, ma c'è qualcosa che non torna.",
-          "Stella che esplode ogni 113 giorni, scoperta scientifica emergente di alto valore."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "113"
-        ]
-      }
-    },
-    {
-      "id": "story-87e025208cefc956",
-      "title": "Usa, l’affaire Nvidia si allarga: accuse al ministro Lutnick",
-      "summary": "Il segretario al Commercio sotto attacco per non aver messo nella black list Megaspeed. Anche Bessent lo scarica. Huang travolto dagli scandali: “Sono un pezzo di m...",
-      "spokenText": "L’affaire Nvidia si allarga con nuove accuse rivolte al ministro Lutnick. Il segretario al Commercio è sotto attacco per non aver inserito Megaspeed nella black list, una decisione che ha scatenato le critiche di Scott Bessent. Intanto cresce la pressione politica su Howard Lutnick, mentre Donald Trump, il 14 novembre 2026, gli conferma la fiducia. Sullo sfondo, Huang è travolto dagli scandali, con la dichiarazione: “Sono un pezzo di m. Donald Trump per ora gli conferma la fiducia 14 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Scott Bessent il 10 novembre. Il segretario al Commercio non avrebbe assunto un impegno immediato.",
+      "id": "story-f9be308956ea7439",
+      "title": "SpaceX fa la storia, recupera per la prima volta un veicolo spaziale",
+      "summary": "Il capo della Nasa: 'Congratulazioni a Elon Musk. È stato magico. Più vicini alla Luna'",
+      "spokenText": "SpaceX ha catturato per la prima volta con la torre di lancio uno stadio superiore di Starship. La Ship 42 è tornata a Starbase dopo circa 22 ore e mezza in orbita. Il razzo più grande e potente del mondo, un colosso di 124 metri, era decollato nel tardo pomeriggio di venerdì dalla base di SpaceX vicino al confine tra Stati Uniti e Messico. È riapparso da un cielo nuvoloso al termine di una discesa che ha attraversato il continente, inserendosi con precisione tra i bracci meccanici, soprannominati bacchette, situati sopra la rampa di lancio numero 2. Un momento definito magico, che chiude uno dei più grandi traguardi ingegneristici della storia aerospaziale. È stato magico. Getty Images Sabato 14 novembre 2026, quando in Italia erano le 22.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "howard lutnick",
-        "scott bessent",
-        "nvidia",
-        "megaspeed",
-        "donald trump",
-        "dipartimento del commercio"
+        "spacex",
+        "starship",
+        "starbase"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 42,
+      "estimatedSeconds": 51,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/11/14/news/nvidia_accuse_ministro_howard_lutnick-425722273/"
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_d061a5b5-9f2d-4539-9b90-45189df72084.html"
       },
       "analysis": {
-        "mainFact": "Usa, l’affaire Nvidia si allarga: accuse al ministro Lutnick",
-        "whyItMatters": "Bessent accusa Lutnick: «Il Dipartimento del Commercio ha ritardato restrizioni su Megaspeed».",
+        "mainFact": "SpaceX ha recuperato per la prima volta un veicolo spaziale, catturando con la torre di lancio uno stadio superiore di Starship tornato a Starbase dopo circa 22 ore e mezza in orbita.",
+        "whyItMatters": "È stato magico.",
         "confirmedFacts": [
-          "Usa, l’affaire Nvidia si allarga: accuse al ministro Lutnick",
-          "Bessent accusa Lutnick: «Il Dipartimento del Commercio ha ritardato restrizioni su Megaspeed».",
-          "Il segretario al Commercio sotto attacco per non aver messo nella black list Megaspeed.",
-          "Intanto cresce la pressione politica su Howard Lutnick, mentre Donald Trump per ora gli conferma la fiducia 14 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Scott Bessent il 10 novembre.",
-          "Huang travolto dagli scandali: “Sono un pezzo di m.."
+          "SpaceX ha recuperato per la prima volta un veicolo spaziale, catturando con la torre di lancio uno stadio superiore di Starship tornato a Starbase dopo circa 22 ore e mezza in orbita.",
+          "È stato magico.",
+          "SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall'orbita dopo oltre 22 ore nello spazio.",
+          "E' riapparso da un cielo nuvoloso al termine di una discesa che ha attraversato il continente, inserendosi con precisione tra i bracci meccanici, soprannominati 'bacchette' (chopstick arms), situati sopra la rampa di lancio n. 2, a chiusura di uno dei più grandi traguardi ingegneristici della storia aerospaziale.",
+          "Il razzo più grande e potente del mondo, un colosso di 124 metri, era decollato nel tardo pomeriggio di venerdì dalla base di SpaceX vicino al confine tra Stati Uniti e Messico.",
+          "Getty Images Sabato 14 novembre 2026, quando in Italia erano le 22 e 20, SpaceX ha catturato per la prima volta con la torre di lancio uno stadio superiore di Starship : la Ship 42 tornata a Starbase dopo circa 22 ore e mezza in orbita .",
+          "Spazio Impresa storica per SpaceX: la torre afferra al volo la Starship 42, ma il Booster 22 esplode SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall'orbita dopo oltre 22 ore nello spazio."
         ],
-        "uncertainties": [
-          "Il segretario al Commercio non avrebbe assunto un impegno immediato."
-        ],
+        "uncertainties": [],
         "peopleAndOrganizations": [
-          "Howard Lutnick",
-          "Scott Bessent",
-          "Nvidia",
-          "Megaspeed",
-          "Donald Trump",
-          "Dipartimento del Commercio"
+          "SpaceX",
+          "Starship",
+          "Starbase"
         ],
         "numbersAndDates": [
-          "Intanto cresce la pressione politica su Howard Lutnick, mentre Donald Trump per ora gli conferma la fiducia 14 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Scott Bessent il 10 novembre."
+          "SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall'orbita dopo oltre 22 ore nello spazio.",
+          "E' riapparso da un cielo nuvoloso al termine di una discesa che ha attraversato il continente, inserendosi con precisione tra i bracci meccanici, soprannominati 'bacchette' (chopstick arms), situati sopra la rampa di lancio n. 2, a chiusura di uno dei più grandi traguardi ingegneristici della storia aerospaziale.",
+          "Il razzo più grande e potente del mondo, un colosso di 124 metri, era decollato nel tardo pomeriggio di venerdì dalla base di SpaceX vicino al confine tra Stati Uniti e Messico.",
+          "Getty Images Sabato 14 novembre 2026, quando in Italia erano le 22 e 20, SpaceX ha catturato per la prima volta con la torre di lancio uno stadio superiore di Starship : la Ship 42 tornata a Starbase dopo circa 22 ore e mezza in orbita .",
+          "Spazio Impresa storica per SpaceX: la torre afferra al volo la Starship 42, ma il Booster 22 esplode SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall'orbita dopo oltre 22 ore nello spazio.",
+          "22"
         ]
       }
     },
     {
-      "id": "story-8be4710df119e000",
-      "title": "Il pianeta scomparso",
-      "summary": "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi. Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere transiti davanti alla propria stella. Ma, come viene mostrato in un nuovo studio, non è sparito nel nulla: è l’influenza gravitazionale di un pianeta vicino ad aver inclinato la sua orbita",
-      "spokenText": "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi. Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere transiti davanti alla propria stella. Ma, come viene mostrato in un nuovo studio, non è sparito nel nulla: è l’influenza gravitazionale di un pianeta vicino ad aver inclinato la sua orbita.",
+      "id": "story-cd8b090a022a37d0",
+      "title": "Il magnetismo resiste in strati ultrasottili: l'IA consumerà meno",
+      "summary": "Un gruppo della Brown University guidato da Lucas Caretta ha realizzato film ultrasottili di ferrite di bismuto che conservano le proprie proprietà elettriche e magnetiche anche su scala atomica. Il r...",
+      "spokenText": "Un gruppo della Brown University guidato da Lucas Caretta ha realizzato film ultrasottili di ferrite di bismuto che conservano le proprie proprietà elettriche e magnetiche anche su scala atomica. Belkin BoostCharge Pro a 19,90€ su Amazon: il caricatore GaN da 100 W costa il 60% in meno rispetto al listino di 49,99€.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "brown university",
+        "lucas caretta",
+        "ferrite di bismuto"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 21,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/il-magnetismo-resiste-in-strati-ultrasottili-lia-consumera-meno"
+      },
+      "analysis": {
+        "mainFact": "Un gruppo della Brown University guidato da Lucas Caretta ha realizzato film ultrasottili di ferrite di bismuto che conservano le proprie proprietà elettriche e magnetiche anche su scala atomica.",
+        "whyItMatters": "Belkin BoostCharge Pro a 19,90€ su Amazon: il caricatore GaN da 100 W costa il 60% in meno rispetto al listino di 49,99€.",
+        "confirmedFacts": [
+          "Un gruppo della Brown University guidato da Lucas Caretta ha realizzato film ultrasottili di ferrite di bismuto che conservano le proprie proprietà elettriche e magnetiche anche su scala atomica.",
+          "Belkin BoostCharge Pro a 19,90€ su Amazon: il caricatore GaN da 100 W costa il 60% in meno rispetto al listino di 49,99€."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Brown University",
+          "Lucas Caretta",
+          "ferrite di bismuto"
+        ],
+        "numbersAndDates": [
+          "19,90",
+          "100",
+          "60",
+          "49,99"
+        ]
+      }
+    },
+    {
+      "id": "story-596921f3406ab1bc",
+      "title": "Agenzia Ue cyber: con l’AI vulnerabilità +300%",
+      "summary": "Il rapporto Enisa: la scoperta di falle avviene ormai su scala industriale. Attacchi DDoS al 51%, PA il settore più colpito. Un terzo delle imprese è impreparato sui rischi della filiera",
+      "spokenText": "Il rapporto 2026 sullo stato della cybersicurezza nell'Unione Europea, elaborato da ENISA in collaborazione con la Commissione e gli Stati membri, segnala vulnerabilità su scala industriale legate all'intelligenza artificiale. La pubblica amministrazione risulta il settore più colpito, con il 31,8% degli incidenti, seguita da servizi alle imprese, trasporti e manifatturiero. Oltre un terzo delle organizzazioni dichiara di sentirsi impreparata a fronteggiare i rischi informatici legati alle catene di fornitura. Il 55% delle organizzazioni intervistate indica il ransomware tra le principali minacce, mentre il 47% cita gli attacchi alle catene di approvvigionamento. Per ridurre questa esposizione, il Cyber Resilience Act introduce requisiti comuni di sicurezza per i prodotti digitali immessi sul mercato dell'UE, con obblighi fin dalla progettazione e piena applicabilità da dicembre 2027. Agenzia Ue cyber: con l’AI vulnerabilità +300%. PA il settore più colpito.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "enisa",
+        "agenzia europea per la cybersicurezza",
+        "unione europea"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 54,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/agenzia-ue-cyber-l-ai-vulnerabilita-300percento-AJLGAtGC"
+      },
+      "analysis": {
+        "mainFact": "Il rapporto 2026 sullo stato della cybersicurezza nell'Unione Europea, elaborato da ENISA in collaborazione con la Commissione e gli Stati membri, segnala vulnerabilità su scala industriale con l'AI.",
+        "whyItMatters": "La pubblica amministrazione è il settore più colpito con il 31,8% degli incidenti, seguita da servizi alle imprese (8,5%), trasporti (8%) e manifatturiero (6,9%); oltre un terzo delle organizzazioni dichiara di sentirsi impreparato a fronteggiare i rischi informatici legati alle catene di fornitura.",
+        "confirmedFacts": [
+          "Il rapporto 2026 sullo stato della cybersicurezza nell'Unione Europea, elaborato da ENISA in collaborazione con la Commissione e gli Stati membri, segnala vulnerabilità su scala industriale con l'AI.",
+          "La pubblica amministrazione è il settore più colpito con il 31,8% degli incidenti, seguita da servizi alle imprese (8,5%), trasporti (8%) e manifatturiero (6,9%); oltre un terzo delle organizzazioni dichiara di sentirsi impreparato a fronteggiare i rischi informatici legati alle catene di fornitura.",
+          "Agenzia Ue cyber: con l’AI vulnerabilità +300%",
+          "PA il settore più colpito.",
+          "Il 55% delle organizzazioni intervistate dall’Agenzia Europea indica il ransomware tra le principali minacce, il 47% gli attacchi alle catene di approvvigionamento.",
+          "Il Cyber Resilience Act , il regolamento europeo che introduce requisiti comuni di cybersecurity per i prodotti digitali immessi sul mercato dell’UE e che sarà pienamente applicabile da dicembre 2027, punta a ridurre questa esposizione introducendo obblighi di sicurezza fin dalla progettazione dei prodotti digitali."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "ENISA",
+          "Agenzia Europea per la cybersicurezza",
+          "Unione Europea"
+        ],
+        "numbersAndDates": [
+          "Agenzia Ue cyber: con l’AI vulnerabilità +300%",
+          "PA il settore più colpito.",
+          "Il 55% delle organizzazioni intervistate dall’Agenzia Europea indica il ransomware tra le principali minacce, il 47% gli attacchi alle catene di approvvigionamento.",
+          "Il Cyber Resilience Act , il regolamento europeo che introduce requisiti comuni di cybersecurity per i prodotti digitali immessi sul mercato dell’UE e che sarà pienamente applicabile da dicembre 2027, punta a ridurre questa esposizione introducendo obblighi di sicurezza fin dalla progettazione dei prodotti digitali.",
+          "2026",
+          "31,8",
+          "8,5",
+          "8",
+          "6,9"
+        ]
+      }
+    },
+    {
+      "id": "story-7e840ed0e242719f",
+      "title": "Una proteina e molti futuri: Georg Nagel a Città della Scienza",
+      "summary": "Una proteina che permette a un’alga di orientarsi verso la luce è diventata lo strumento con cui oggi si accendono e si spengono gruppi di neuroni. A Città della Scienza l’ha raccontata Georg Nagel, premio Nobel per la fisiologia o la medicina 2026 con Karl Deisseroth e Peter Hegemann, insieme ai risvolti che non aveva immaginato. Lo abbiamo incontrato.",
+      "spokenText": "Lo abbiamo incontrato a Città della Scienza: Georg Nagel, premio Nobel per la fisiologia o la medicina 2026 insieme a Karl Deisseroth e Peter Hegemann. Nagel ha raccontato come una proteina di un'alga verde, la Chlamydomonas reinhardtii, che permette di orientarsi verso la luce, sia diventata lo strumento per accendere e spegnere gruppi di neuroni. Tutto parte dal 1991, quando Hegemann e Hartmann Harz misurarono le correnti elettriche prodotte dalla luce nelle cellule dell'alga, ipotizzando che una sola proteina, la canalrodopsina, ricevesse la luce e facesse passare le cariche. «Il Nobel è stato una sorpresa», afferma Nagel.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "toi 2535 b",
-        "gioviani caldi"
+        "georg nagel",
+        "karl deisseroth",
+        "peter hegemann",
+        "citta della scienza",
+        "chlamydomonas reinhardtii",
+        "canalrodopsina",
+        "scienza in rete"
       ],
       "importance": 80,
       "mustInclude": false,
-      "estimatedSeconds": 26,
+      "estimatedSeconds": 39,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/13/toi-2535-b-pianeta-scomparso/"
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/georg-nagel-optogenetica-citta-della-scienza/"
       },
       "analysis": {
-        "mainFact": "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi.",
-        "whyItMatters": "Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere transiti davanti alla propria stella.",
+        "mainFact": "Georg Nagel, premio Nobel per la fisiologia o la medicina 2026 con Karl Deisseroth e Peter Hegemann, ha raccontato a Città della Scienza come una proteina di un'alga che permette di orientarsi verso la luce sia diventata lo strumento per accendere e spegnere gruppi di neuroni.",
+        "whyItMatters": "Nel 1991 Hegemann, oggi premio Nobel con Nagel e Deisseroth, ha misurato con Hartmann Harz le correnti elettriche prodotte dalla luce nelle cellule dell'alga e, dai tempi brevissimi con cui compaiono, i due hanno ipotizzato che a ricevere la luce e a far passare le cariche sia una sola proteina.",
         "confirmedFacts": [
-          "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi.",
-          "Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere transiti davanti alla propria stella.",
-          "Ma, come viene mostrato in un nuovo studio, non è sparito nel nulla: è l’influenza gravitazionale di un pianeta vicino ad aver inclinato la sua orbita"
+          "Georg Nagel, premio Nobel per la fisiologia o la medicina 2026 con Karl Deisseroth e Peter Hegemann, ha raccontato a Città della Scienza come una proteina di un'alga che permette di orientarsi verso la luce sia diventata lo strumento per accendere e spegnere gruppi di neuroni.",
+          "Nel 1991 Hegemann, oggi premio Nobel con Nagel e Deisseroth, ha misurato con Hartmann Harz le correnti elettriche prodotte dalla luce nelle cellule dell'alga e, dai tempi brevissimi con cui compaiono, i due hanno ipotizzato che a ricevere la luce e a far passare le cariche sia una sola proteina.",
+          "Una proteina che permette a un’alga di orientarsi verso la luce è diventata lo strumento con cui oggi si accendono e si spengono gruppi di neuroni.",
+          "La storia della proteina Alla base dell’identificazione della canalrodopsina c’è una curiosità: come fa un’alga verde, la Chlamydomonas reinhardtii , a muoversi e orientarsi verso la luce?",
+          "Mattias Karlén «La grande fortuna, per noi, è stata che la canalrodopsina fosse davvero facile da usare», spiega Nagel a Scienza in rete.",
+          "«Il Nobel è stato una sorpresa», afferma Nagel.",
+          "Lo abbiamo incontrato."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Toi-2535 b",
-          "gioviani caldi"
+          "Georg Nagel",
+          "Karl Deisseroth",
+          "Peter Hegemann",
+          "Città della Scienza",
+          "Chlamydomonas reinhardtii",
+          "canalrodopsina",
+          "Scienza in rete"
         ],
         "numbersAndDates": [
-          "2535"
+          "2026",
+          "1991"
         ]
       }
     },
     {
-      "id": "story-833aac937d1e5c4b",
-      "title": "I manoscritti medievali conservano DNA del vaiolo ovino: ecco perché",
-      "summary": "Un gruppo internazionale guidato dallo University College Dublin ha identificato tracce genetiche del vaiolo ovino nelle pelli utilizzate per realizzare manoscritti medievali. La ricerca, pubblicata s...",
-      "spokenText": "Un gruppo internazionale guidato dallo University College Dublin ha identificato tracce genetiche del vaiolo ovino nelle pelli utilizzate per realizzare manoscritti medievali.",
+      "id": "story-a4cb3c50e03c8597",
+      "title": "Vivere senza predatori non è sempre un paradiso",
+      "summary": "Un’isola in Kenya è rimasta tagliata fuori dalla terraferma per cinque anni: l’assenza di predatori non ha portato solo benefici agli erbivori che la abitano.",
+      "spokenText": "Un'isola in Kenya è rimasta tagliata fuori dalla terraferma per cinque anni e l'assenza di predatori non ha portato solo benefici agli erbivori che la abitano. Dal 2020 l'innalzamento delle acque del lago Naivasha ha trasformato Crescent Island in un rifugio sicuro per giraffe, zebre e antilopi. Animali che sembravano aver trovato un paradiso senza predatori. Dopo essere rimasta tagliata fuori dalla terraferma, l'isola ha visto una crescita esponenziale di impala, antilopi d'acqua, zebre, persino giraffe e ippopotami. Crescent Island fa fede al suo nome ormai da sei anni, e nel 2025 un gruppo di ricercatori della St.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "university college dublin",
-        "manoscritti medievali",
-        "vaiolo ovino"
+        "crescent island",
+        "kenya",
+        "lago naivasha",
+        "canada",
+        "impala",
+        "antilopi d acqua",
+        "zebre",
+        "giraffe",
+        "ippopotami"
       ],
-      "importance": 72,
+      "importance": 75,
       "mustInclude": false,
-      "estimatedSeconds": 9,
+      "estimatedSeconds": 40,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/i-manoscritti-medievali-conservano-dna-del-vaiolo-ovino-ecco-perche"
+        "name": "Focus",
+        "url": "https://www.focus.it/ambiente/animali/vivere-senza-predatori-non-e-sempre-un-paradiso"
       },
       "analysis": {
-        "mainFact": "Un gruppo internazionale guidato dallo University College Dublin ha identificato tracce genetiche del vaiolo ovino nelle pelli utilizzate per realizzare manoscritti medievali.",
-        "whyItMatters": "",
+        "mainFact": "Un'isola in Kenya è rimasta tagliata fuori dalla terraferma per cinque anni e l'assenza di predatori non ha portato solo benefici agli erbivori che la abitano.",
+        "whyItMatters": "Dal 2020 l'innalzamento delle acque del lago Naivasha ha trasformato un'isola del Kenya in un rifugio sicuro per giraffe, zebre e antilopi. Animali Sembrava un paradiso senza predatori.",
         "confirmedFacts": [
-          "Un gruppo internazionale guidato dallo University College Dublin ha identificato tracce genetiche del vaiolo ovino nelle pelli utilizzate per realizzare manoscritti medievali."
+          "Un'isola in Kenya è rimasta tagliata fuori dalla terraferma per cinque anni e l'assenza di predatori non ha portato solo benefici agli erbivori che la abitano.",
+          "Dal 2020 l'innalzamento delle acque del lago Naivasha ha trasformato un'isola del Kenya in un rifugio sicuro per giraffe, zebre e antilopi. Animali Sembrava un paradiso senza predatori.",
+          "Ecco perch questi animali si sono moltiplicati negli ultimi anni: dopo essere rimasta tagliata fuori dalla terraferma, Crescent Island ha visto una crescita esponenziale di impala, antilopi d'acqua, zebre , persino giraffe e ippopotami .",
+          "L'isola che non sempre un'isola Crescent Island fa fede al suo nome ormai da sei anni, e nel 2025 un gruppo di ricercatori della St."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "University College Dublin",
-          "manoscritti medievali",
-          "vaiolo ovino"
+          "Crescent Island",
+          "Kenya",
+          "lago Naivasha",
+          "Canada",
+          "impala",
+          "antilopi d'acqua",
+          "zebre",
+          "giraffe",
+          "ippopotami"
+        ],
+        "numbersAndDates": [
+          "L'isola che non sempre un'isola Crescent Island fa fede al suo nome ormai da sei anni, e nel 2025 un gruppo di ricercatori della St.",
+          "2020"
+        ]
+      }
+    },
+    {
+      "id": "story-4e96a9049d9f1a53",
+      "title": "Nisticò (Aifa), al lavoro per rendere accessibile il nuovo farmaco per il tumore al",
+      "summary": "'Impegno ogni giorno per far sì che questo avvenga nei tempi più brevi'",
+      "spokenText": "L'Aifa è al lavoro per rendere accessibile il nuovo farmaco per il tumore al pancreas.",
+      "category": "salute",
+      "tags": [
+        "salute",
+        "nistico",
+        "aifa"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 6,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/nistico-aifa-al-lavoro-per-rendere-accessibile-farmaco-per-tumore-pancreas_c4e556cf-13bc-4df8-b8ec-08e32074719e.html"
+      },
+      "analysis": {
+        "mainFact": "Nisticò (Aifa), al lavoro per rendere accessibile il nuovo farmaco per il tumore al pancreas.",
+        "whyItMatters": "Accessibilità nuovo farmaco per tumore al pancreas.",
+        "confirmedFacts": [
+          "Nisticò (Aifa), al lavoro per rendere accessibile il nuovo farmaco per il tumore al pancreas.",
+          "Accessibilità nuovo farmaco per tumore al pancreas."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Nisticò",
+          "Aifa"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-a00486cba77c17bf",
-      "title": "Usa, stop ai voli per 4 ore: “Colpa dei sistemi obsoleti”",
-      "summary": "“Non è stato un attacco hacker”, ha precisato il segretario ai Trasporti Sean Duffy. Cbs, blocco aereo causato da aggiornamento software",
-      "spokenText": "Negli Stati Uniti il traffico aereo si è fermato per circa quattro ore a causa di un aggiornamento software della rete di comunicazione privata del sistema di controllo del traffico aereo. Il blocco ha interessato oltre 15mila collegamenti e, nella mattina successiva, sono già stati registrati 3.374 voli cancellati e 1.008 in ritardo secondo i dati di FlightAware riportati da Abc. “Non è stato un attacco hacker”, ha precisato il segretario ai Trasporti Sean Duffy. Ci sarebbe l'aggiornamento di un software dietro al collasso delle comunicazioni che ha portato al blocco del traffico aereo per quasi cinque ore negli Stati Uniti. Il segretario alla Homeland Security Markwayne Mullin , che ha parlato con i giornalisti alla Casa Bianca, ha frenato il panico: \"Non è un altro 11 settembre\", e ha spiegato che non ci sono collegamenti con il blocco delle mail e dei servizi Microsoft delle ultime 48 ore. Non succedeva dal 2023, quando l’autorità americana dell’aviazione fermò i voli nazionali per un problema tecnico nel sistema di allerta per i piloti. Usa, stop ai voli per 4 ore: “Colpa dei sistemi obsoleti”.",
-      "category": "tecnologia",
+      "id": "story-cccb37404337e6a3",
+      "title": "Dal clima globale ai corsi d'acqua dei Parchi",
+      "summary": "In occasione della 31ª Conferenza delle Parti della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (COP31), che si svolge ad Antalya dal 9 al 20 novembre, pubblichiamo il sesto e ultimo episodio della serie di documentari dedicati al monitoraggio della biodiversità, sulle attività di monitoraggio delle popolazioni ittiche e delle sostanze inquinanti nei Parchi.",
+      "spokenText": "Dal clima globale ai corsi d'acqua dei Parchi Nazionali. Nei corsi d'acqua di 11 Parchi Nazionali sono stati effettuati campionamenti in 80 stazioni per rilevare i residui di prodotti fitosanitari, considerati una minaccia per i pesci.",
+      "category": "ambiente",
       "tags": [
-        "tecnologia",
-        "sean duffy",
-        "markwayne mullin",
-        "cbs",
-        "abc",
-        "flightaware",
-        "stati uniti"
+        "ambiente",
+        "parchi nazionali"
       ],
-      "importance": 75,
+      "importance": 62,
       "mustInclude": false,
-      "estimatedSeconds": 74,
+      "estimatedSeconds": 15,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/11/14/diretta/voli_usa_cancellati_blocco_traffico_aereo-425722487/"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/sesto-documentario-digitap"
       },
       "analysis": {
-        "mainFact": "Negli Stati Uniti il traffico aereo si è fermato per circa quattro ore a causa di un aggiornamento software della rete di comunicazione privata del sistema di controllo del traffico aereo.",
-        "whyItMatters": "Il blocco ha interessato oltre 15mila collegamenti e, nella mattina successiva, sono già stati registrati 3.374 voli cancellati e 1.008 in ritardo secondo i dati di FlightAware riportati da Abc.",
+        "mainFact": "Dal clima globale ai corsi d'acqua dei Parchi",
+        "whyItMatters": "Nei corsi d'acqua di 11 Parchi Nazionali sono stati effettuati campionamenti in 80 stazioni dei residui di prodotti fitosanitari, in quanto sono una minaccia per i pesci.",
         "confirmedFacts": [
-          "Negli Stati Uniti il traffico aereo si è fermato per circa quattro ore a causa di un aggiornamento software della rete di comunicazione privata del sistema di controllo del traffico aereo.",
-          "Il blocco ha interessato oltre 15mila collegamenti e, nella mattina successiva, sono già stati registrati 3.374 voli cancellati e 1.008 in ritardo secondo i dati di FlightAware riportati da Abc.",
-          "“Non è stato un attacco hacker”, ha precisato il segretario ai Trasporti Sean Duffy.",
-          "Ci sarebbe l'aggiornamento di un software dietro al collasso delle comunicazioni che ha portato al blocco del traffico aereo per quasi cinque ore negli Stati Uniti.",
-          "Il segretario alla Homeland Security Markwayne Mullin , che ha parlato con i giornalisti alla Casa Bianca, ha frenato il panico: \"Non è un altro 11 settembre\", e ha spiegato che non ci sono collegamenti con il blocco delle mail e dei servizi Microsoft delle ultime 48 ore.",
-          "Non succedeva dal 2023, quando l’autorità americana dell’aviazione fermò i voli nazionali per un problema tecnico nel sistema di allerta per i piloti.",
-          "Usa, stop ai voli per 4 ore: “Colpa dei sistemi obsoleti”"
+          "Dal clima globale ai corsi d'acqua dei Parchi",
+          "Nei corsi d'acqua di 11 Parchi Nazionali sono stati effettuati campionamenti in 80 stazioni dei residui di prodotti fitosanitari, in quanto sono una minaccia per i pesci.",
+          "Inoltre, nei corsi d’acqua di 11 Parchi Nazionali sono stati effettuati campionamenti in 80 stazioni dei residui di prodotti fitosanitari, in quanto sono una minaccia per i pesci."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Sean Duffy",
-          "Markwayne Mullin",
-          "CBS",
-          "ABC",
-          "FlightAware",
-          "Stati Uniti"
+          "Parchi Nazionali"
         ],
         "numbersAndDates": [
-          "Non succedeva dal 2023, quando l’autorità americana dell’aviazione fermò i voli nazionali per un problema tecnico nel sistema di allerta per i piloti.",
-          "3.374",
-          "1.008"
+          "11",
+          "80"
         ]
       }
     },
     {
-      "id": "story-cccdb46da670d774",
-      "title": "ChatGPT Wallet: gli agenti AI effettuano acquisti",
-      "summary": "ChatGPT Wallet consente agli agenti AI di OpenAI (dots) di effettuare acquisti per conto dell'utente (che deve sempre approvare la transazione). The post ChatGPT Wallet: gli agenti AI effettuano acquisti appeared first on Punto Informatico.",
-      "spokenText": "ChatGPT Wallet consente agli agenti AI di OpenAI di effettuare acquisti per conto dell'utente, che deve sempre approvare la transazione. La funzionalità permette agli agenti dell'azienda californiana di comprare per gli utenti maggiorenni senza accedere ai dati della carta di credito. OpenAI sottolinea che oltre 1,2 miliardi di persone usano ChatGPT ogni settimana.",
+      "id": "story-b8232168aecaf700",
+      "title": "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per",
+      "summary": "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per l'accesso a foto e video senza consenso con l'app Facebook. The post Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update) appeared first on Punto Informatico.",
+      "spokenText": "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per l'accesso a foto e video senza consenso con l'app Facebook. L'applicazione per Android ha infatti permesso all'azienda californiana di accedere a contenuti multimediali degli utenti senza un consenso esplicito, attraverso una funzionalità semplice pensata per facilitare la pubblicazione di foto e video sul social network. La sanzione si basa sull'articolo 122 del Codice privacy, secondo il quale l'accesso ai dati è consentito unicamente con il consenso libero e informato dell'utente. Un procedimento potrebbe essere avviato anche sulla funzionalità correlata introdotta a metà aprile 2026 .",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "chatgpt wallet",
-        "openai",
-        "agenti ai",
-        "utenti"
+        "garante della privacy",
+        "meta",
+        "facebook"
       ],
-      "importance": 82,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 22,
+      "estimatedSeconds": 41,
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/chatgpt-wallet-agenti-ai-effettuano-acquisti/"
+        "url": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/"
       },
       "analysis": {
-        "mainFact": "ChatGPT Wallet consente agli agenti AI di OpenAI di effettuare acquisti per conto dell'utente, che deve sempre approvare la transazione.",
-        "whyItMatters": "È una funzionalità che permette agli agenti AI ( dots ) dell’azienda californiana di effettuare acquisti per conto degli utenti (solo maggiorenni), senza accedere ai dati della carta di credito.",
+        "mainFact": "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per l'accesso a foto e video senza consenso con l'app Facebook.",
+        "whyItMatters": "122 del Codice privacy, in base al quale l’accesso ai dati è consentito unicamente con il consenso libero e informato.",
         "confirmedFacts": [
-          "ChatGPT Wallet consente agli agenti AI di OpenAI di effettuare acquisti per conto dell'utente, che deve sempre approvare la transazione.",
-          "È una funzionalità che permette agli agenti AI ( dots ) dell’azienda californiana di effettuare acquisti per conto degli utenti (solo maggiorenni), senza accedere ai dati della carta di credito.",
-          "OpenAI sottolinea che oltre 1,2 miliardi di persone usano ChatGPT ogni settimana."
+          "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per l'accesso a foto e video senza consenso con l'app Facebook.",
+          "122 del Codice privacy, in base al quale l’accesso ai dati è consentito unicamente con il consenso libero e informato.",
+          "Sanzione da 805 milioni per l'uso di foto \"non autorizzato dell'utente\" su Facebook",
+          "Il Garante per la protezione dei dati personali ha inflitto una sanzione di 805 milioni di euro a Meta .",
+          "L’app Facebook per Android ha permesso all’azienda californiana di accedere a foto e video , senza un consenso esplicito degli utenti.",
+          "Si tratta di una funzionalità semplice che aiuta le persone a pubblicare foto e video su Facebook.",
+          "Italy fines Meta €805m over accessing users' photos",
+          "Un procedimento potrebbe essere avviato anche sulla funzionalità correlata introdotta a metà aprile 2026 ."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "ChatGPT Wallet",
-          "OpenAI",
-          "agenti AI",
-          "utenti"
+          "Garante della privacy",
+          "Meta",
+          "Facebook"
         ],
         "numbersAndDates": [
-          "OpenAI sottolinea che oltre 1,2 miliardi di persone usano ChatGPT ogni settimana."
+          "Sanzione da 805 milioni per l'uso di foto \"non autorizzato dell'utente\" su Facebook",
+          "Il Garante per la protezione dei dati personali ha inflitto una sanzione di 805 milioni di euro a Meta .",
+          "Italy fines Meta €805m over accessing users' photos",
+          "Un procedimento potrebbe essere avviato anche sulla funzionalità correlata introdotta a metà aprile 2026 .",
+          "805",
+          "122"
         ]
       }
     },
     {
-      "id": "story-800dc74cf9cb8db6",
-      "title": "Giganti di ghiaccio: cosa racconta l’argon-40",
-      "summary": "Un nuovo studio condotto dal Southwest Research Institute ha indagato il potenziale dell’argon-40 come tracciante della componente rocciosa presente all’interno di Urano e Nettuno. I risultati indicano che la possibilità di utilizzare l’abbondanza atmosferica di questo isotopo come indicatore della roccia presente nei due pianeti dipende da quale delle due componenti prevale, primordiale o radiogenica",
-      "spokenText": "Un nuovo studio del Southwest Research Institute ha analizzato il potenziale dell'argon-40 come tracciante della componente rocciosa all'interno di Urano e Nettuno. La ricerca si concentra sull'uso di questo isotopo per capire cosa raccontano i giganti di ghiaccio sulla loro composizione interna. Secondo i risultati, la possibilità di utilizzare l'abbondanza atmosferica di argon-40 come indicatore della roccia presente nei due pianeti dipende dalla prevalenza di due componenti: quella primordiale o quella radiogenica.",
-      "category": "scienza",
+      "id": "story-323a43e2983809c6",
+      "title": "Lead Weather Presenter",
+      "summary": "Lead Weather Presenter. Pubblicato il 13 novembre 2026. Il fenomeno El Niño in sviluppo - già il più forte mai registrato secondo alcune misure - continua a crescere e potrebbe avere effetti profondi sul clima in Nord America quest'autunno e inverno.",
+      "spokenText": "Lead Weather Presenter. Pubblicato il 13 novembre 2026. Il fenomeno El Niño in sviluppo - già il più forte mai registrato secondo alcune misure - continua a crescere e potrebbe avere effetti profondi sul clima in Nord America quest'autunno e inverno. L'ONU avverte di un El Niño 'supersize' mentre i paesi si preparano all'impatto. 3 settembre. Umido a sud. L'ultima previsione trimestrale, esterna, del Servizio Meteorologico Nazionale USA (NWS) suggerisce che questo è un esito probabile per l'inverno 2026-2027. L'inverno El Niño del 1997-1998 portò significative inondazioni nel sud-est e generò tornado in Florida. Nel forte El Niño del 2015-2016, la California ebbe precipitazioni al di sotto della media.",
+      "category": "ambiente",
       "tags": [
-        "scienza",
-        "southwest research institute",
-        "argon 40",
-        "urano",
-        "nettuno"
+        "ambiente",
+        "el nino",
+        "canada",
+        "us national weather service"
       ],
-      "importance": 65,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 29,
+      "estimatedSeconds": 44,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/13/giganti-di-ghiaccio-cosa-racconta-largon-40/"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Un nuovo studio condotto dal Southwest Research Institute ha indagato il potenziale dell’argon-40 come tracciante della componente rocciosa presente all’interno di Urano e Nettuno.",
-        "whyItMatters": "I risultati indicano che la possibilità di utilizzare l’abbondanza atmosferica di questo isotopo come indicatore della roccia presente nei due pianeti dipende da quale delle due componenti prevale, primordiale o radiogenica.",
+        "mainFact": "Lead Weather Presenter. Pubblicato il 13 novembre 2026. Il fenomeno El Niño in sviluppo - già il più forte mai registrato secondo alcune misure - continua a crescere e potrebbe avere effetti profondi sul clima in Nord America quest'autunno e inverno.",
+        "whyItMatters": "Impatto di El Niño su clima invernale USA e Canada.",
         "confirmedFacts": [
-          "Un nuovo studio condotto dal Southwest Research Institute ha indagato il potenziale dell’argon-40 come tracciante della componente rocciosa presente all’interno di Urano e Nettuno.",
-          "I risultati indicano che la possibilità di utilizzare l’abbondanza atmosferica di questo isotopo come indicatore della roccia presente nei due pianeti dipende da quale delle due componenti prevale, primordiale o radiogenica.",
-          "Giganti di ghiaccio: cosa racconta l’argon-40"
+          "Lead Weather Presenter. Pubblicato il 13 novembre 2026. Il fenomeno El Niño in sviluppo - già il più forte mai registrato secondo alcune misure - continua a crescere e potrebbe avere effetti profondi sul clima in Nord America quest'autunno e inverno.",
+          "Impatto di El Niño su clima invernale USA e Canada.",
+          "L'ONU avverte di un El Niño 'supersize' mentre i paesi si preparano all'impatto. 3 settembre. Umido a sud.",
+          "L'ultima previsione trimestrale, esterna, del Servizio Meteorologico Nazionale USA (NWS) suggerisce che questo è un esito probabile per l'inverno 2026-2027.",
+          "L'inverno El Niño del 1997-1998 portò significative inondazioni nel sud-est e generò tornado in Florida.",
+          "Nel forte El Niño del 2015-2016, la California ebbe precipitazioni al di sotto della media."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Southwest Research Institute",
-          "argon-40",
-          "Urano",
-          "Nettuno"
+          "El Niño",
+          "Canada",
+          "US National Weather Service"
         ],
         "numbersAndDates": [
-          "Giganti di ghiaccio: cosa racconta l’argon-40",
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-e36aa050ddab88e8",
-      "title": "Migliori chiavi dinamometriche (2026)",
-      "summary": "VANPO Set di chiavi dinamometriche 47 pezzi è la scelta principale per chi mantiene auto, moto e biciclette: comprende tre chiavi con intervalli 1–25, 5–60 e 20–220 Nm, precisione dichiarata ±3% e sca...",
-      "spokenText": "Le migliori chiavi dinamometriche del 2026 rappresentano un punto di riferimento per chi cerca precisione e affidabilità negli strumenti di serraggio. Migliori lettiere autopulenti per gatti (2026).",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "chiavi dinamometriche"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/automotive/migliori-chiavi-dinamometriche"
-      },
-      "analysis": {
-        "mainFact": "Migliori chiavi dinamometriche (2026)",
-        "whyItMatters": "Migliori lettiere autopulenti per gatti (2026)",
-        "confirmedFacts": [
-          "Migliori chiavi dinamometriche (2026)",
-          "Migliori lettiere autopulenti per gatti (2026)"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "chiavi dinamometriche"
-        ],
-        "numbersAndDates": [
+          "Lead Weather Presenter. Pubblicato il 13 novembre 2026. Il fenomeno El Niño in sviluppo - già il più forte mai registrato secondo alcune misure - continua a crescere e potrebbe avere effetti profondi sul clima in Nord America quest'autunno e inverno.",
+          "L'ONU avverte di un El Niño 'supersize' mentre i paesi si preparano all'impatto. 3 settembre. Umido a sud.",
+          "L'ultima previsione trimestrale, esterna, del Servizio Meteorologico Nazionale USA (NWS) suggerisce che questo è un esito probabile per l'inverno 2026-2027.",
+          "L'inverno El Niño del 1997-1998 portò significative inondazioni nel sud-est e generò tornado in Florida.",
+          "Nel forte El Niño del 2015-2016, la California ebbe precipitazioni al di sotto della media.",
+          "13",
           "2026"
         ]
       }
     },
     {
-      "id": "story-bc5b0557d98f996d",
-      "title": "Per garantire continuità terapie, sostenibilità e accesso equo a migliori opportunità cura",
-      "summary": "Per garantire continuità terapie, sostenibilità e accesso equo a migliori opportunità cura",
-      "spokenText": "La maggior parte delle terapie incluse nel Fondo sono oncologiche: si tratta di 31 delle 55 indicazioni previste per il 2025, per un valore di 353 milioni di euro, che rappresentano più della metà della spesa totale di 700 milioni. un nuovo modello di governo dell'innovazione, capace di rimuovere gli ostacoli burocratici e amministrativi locali per garantire l'immediata disponibilità dei nuovi farmaci. L'associazione chiede inoltre che, in alcuni casi, le terapie possano rimanere nel Fondo fino a cinque anni, superando l'attuale limite massimo di tre anni per il riconoscimento dell'innovatività terapeutica, senza possibilità di proroga neppure in assenza di trattamenti più efficaci.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "aiom"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 41,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/berardi-permanenza-farmaci-in-fondo-innovativi-possa-essere-estesa-fino-a-5-anni_adbbc53b-f39c-452a-ad67-05fafadbf077.html"
-      },
-      "analysis": {
-        "mainFact": "La maggior parte delle terapie incluse nel Fondo sono oncologiche: includono 31 delle 55 indicazioni del 2025, pari a 353 milioni di euro, più della metà della spesa (700 milioni).",
-        "whyItMatters": "Dall'Aiom arriva una richiesta precisa: un nuovo modello di governo dell'innovazione, che rimuova gli ostacoli burocratici e amministrativi locali alla immediata disponibilità dei nuovi farmaci e che consenta, in alcuni casi, la permanenza delle terapie nel Fondo fino a 5 anni.",
-        "confirmedFacts": [
-          "La maggior parte delle terapie incluse nel Fondo sono oncologiche: includono 31 delle 55 indicazioni del 2025, pari a 353 milioni di euro, più della metà della spesa (700 milioni).",
-          "Dall'Aiom arriva una richiesta precisa: un nuovo modello di governo dell'innovazione, che rimuova gli ostacoli burocratici e amministrativi locali alla immediata disponibilità dei nuovi farmaci e che consenta, in alcuni casi, la permanenza delle terapie nel Fondo fino a 5 anni.",
-          "La durata massima del riconoscimento dell'innovatività terapeutica è di 3 anni, senza possibilità di proroga, neppure in assenza di terapie più efficaci."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Aiom"
-        ],
-        "numbersAndDates": [
-          "La durata massima del riconoscimento dell'innovatività terapeutica è di 3 anni, senza possibilità di proroga, neppure in assenza di terapie più efficaci.",
-          "31",
-          "55",
-          "2025",
-          "353",
-          "700",
-          "5"
-        ]
-      }
-    },
-    {
-      "id": "story-0f0a33dbef1f13dc",
-      "title": "Guerra Ucraina - Russia. Zelensky",
-      "summary": "Sventato attacco per colpire Kiev. Summit Putin-Xi-Trump a margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
-      "spokenText": "Sventato attacco per colpire Kiev. Volodymyr Zelensky, parlando con i giornalisti, aggiungendo che il numero esatto è ancora in fase di definizione e che stima si aggiri fra 1.200 e 1.300. Summit Putin-Xi-Trump a margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi. Zelensky ha inoltre affermato che l'Ucraina ha bisogno di un numero di F-16 in volo due volte e mezzo superiore a quello attuale. La Russia ha lanciato 96 droni Shahed, tra cui i droni esca Gerbera e Parodiya.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "volodymyr zelensky",
-        "putin",
-        "xi",
-        "trump",
-        "apec",
-        "kiev",
-        "russia",
-        "ucraina"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 34,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/11/14/diretta/guerra_ucraina_russia_news_oggi-425722502/"
-      },
-      "analysis": {
-        "mainFact": "Sventato attacco per colpire Kiev.",
-        "whyItMatters": "Volodymyr Zelensky, parlando con i giornalisti, aggiungendo che il numero esatto è ancora in fase di definizione e che stima si aggiri fra 1.200 e 1.300.",
-        "confirmedFacts": [
-          "Sventato attacco per colpire Kiev.",
-          "Volodymyr Zelensky, parlando con i giornalisti, aggiungendo che il numero esatto è ancora in fase di definizione e che stima si aggiri fra 1.200 e 1.300.",
-          "Summit Putin-Xi-Trump a margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
-          "Zelensky ha inoltre affermato che l'Ucraina ha bisogno di un numero di F-16 in volo due volte e mezzo superiore a quello attuale.",
-          "La Russia ha lanciato 96 droni Shahed, tra cui i droni esca Gerbera e Parodiya."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Volodymyr Zelensky",
-          "Putin",
-          "Xi",
-          "Trump",
-          "Apec",
-          "Kiev",
-          "Russia",
-          "Ucraina"
-        ],
-        "numbersAndDates": [
-          "Summit Putin-Xi-Trump a margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
-          "Zelensky ha inoltre affermato che l'Ucraina ha bisogno di un numero di F-16 in volo due volte e mezzo superiore a quello attuale.",
-          "La Russia ha lanciato 96 droni Shahed, tra cui i droni esca Gerbera e Parodiya.",
-          "1.200",
-          "1.300"
-        ]
-      }
-    },
-    {
-      "id": "story-7f21a428de9e255a",
-      "title": "Nuove norme e Piani di tutela urbana per l'incremento del patrimonio verde e della",
-      "summary": "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani. In questo senso, il piano del verde ( o piano della natura ) rappresenta lo strumento chiave per pianificare, valorizzare ed incrementare il patrimonio verde e la biodiversità urbana , e promuovere nella pianificazione urbanistica locale un equilibrio tra ambiente costruito e naturale, tra infrastrutture grigie e infrastrutture verdi e blu.",
-      "spokenText": "Nuove norme e piani di tutela urbana per l'incremento del patrimonio verde entrano in vigore in seguito all'applicazione del Regolamento (UE) 2024/1991 per il Ripristino della Natura, adottato dall'Unione Europea il 18 agosto 2024. Il provvedimento segna una svolta decisiva nella politica ambientale dell'Unione, introducendo obiettivi vincolanti anche per gli ecosistemi urbani.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "unione europea",
-        "regolamento ue 2024 1991"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 21,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/nuove-norme-e-piani-di-tutela-urbana-per-lincremento-del-patrimonio-verde-e-della-biodiversita"
-      },
-      "analysis": {
-        "mainFact": "Nuove norme e Piani di tutela urbana per l'incremento del patrimonio verde e della",
-        "whyItMatters": "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani.",
-        "confirmedFacts": [
-          "Nuove norme e Piani di tutela urbana per l'incremento del patrimonio verde e della",
-          "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Unione Europea",
-          "Regolamento (UE) 2024/1991"
-        ],
-        "numbersAndDates": [
-          "2024",
-          "1991",
-          "18"
-        ]
-      }
-    },
-    {
-      "id": "story-2e04966a4b812a0b",
-      "title": "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme",
-      "summary": "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove tartarughe verdi giovani nel 2019 e ha attaccato tag satellitari ai loro gusci usando una resina specialistica e innocua.",
-      "spokenText": "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove esemplari nel 2019, applicando sui loro gusci tag satellitari tramite una resina specialistica e innocua. In un nuovo studio, i ricercatori hanno tracciato questi animali in un wetland protetto a Sharjah, negli Emirati Arabi Uniti. I dati mostrano che le tartarughe rimanevano generalmente entro soli due miglia dall'ingresso del wetland e trascorrevano più dell'80% del tempo tracciato all'interno del confine dell'area marina protetta. Un dato particolarmente significativo riguarda un esemplare che, dopo essere rimasta nel wetland per 93 giorni, ha viaggiato per oltre 500 miglia fino all'isola di Masirah, in Oman.",
+      "id": "story-1a213385f51374f9",
+      "title": "Gli astronomi hanno scoperto cosa scatena le ripetute esplosioni della stella",
+      "summary": "Gli astronomi hanno scoperto cosa scatena le ripetute esplosioni della stella instabile AT 2016blu, situata nella galassia a spirale NGC 4559, a circa 30 milioni di anni luce dalla Terra, usando l'osservatorio Chandra della NASA.",
+      "spokenText": "Gli astronomi hanno scoperto cosa scatena le ripetute esplosioni della stella instabile AT 2016blu, situata nella galassia a spirale NGC 4559, a circa 30 milioni di anni luce dalla Terra. La scoperta è stata ottenuta grazie ai dati dell'osservatorio Chandra della NASA.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "epaa",
-        "masirah island",
-        "oman"
+        "at 2016blu",
+        "ngc 4559"
       ],
-      "importance": 75,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 47,
+      "estimatedSeconds": 17,
       "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/young-turtles-find-refuge-in-both-natural-and-artificial-wetlands-in-uae-new-study-295707"
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
       },
       "analysis": {
-        "mainFact": "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove tartarughe verdi giovani nel 2019 e ha attaccato tag satellitari ai loro gusci usando una resina specialistica e innocua.",
-        "whyItMatters": "Studio su tartarughe e zone umide, rilevanza ambiente e scienza.",
+        "mainFact": "Gli astronomi hanno scoperto cosa scatena le ripetute esplosioni della stella instabile AT 2016blu, situata nella galassia a spirale NGC 4559, a circa 30 milioni di anni luce dalla Terra, usando l'osservatorio Chandra della NASA.",
+        "whyItMatters": "Osservazioni Chandra su esplosioni di stella massiccia, rilevanza scientifica.",
         "confirmedFacts": [
-          "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove tartarughe verdi giovani nel 2019 e ha attaccato tag satellitari ai loro gusci usando una resina specialistica e innocua.",
-          "Studio su tartarughe e zone umide, rilevanza ambiente e scienza.",
-          "In un nuovo studio, i miei colleghi e io abbiamo usato tag satellitari per tracciare tartarughe verdi giovani in un wetland protetto a Sharjah, negli Emirati Arabi Uniti.",
-          "Rimanevano generalmente entro soli 2 miglia dall'ingresso del wetland e trascorrevano più dell'80% del loro tempo tracciato all'interno del confine dell'area marina protetta.",
-          "Dopo essere rimasta nel wetland per 93 giorni, una tartaruga ha viaggiato per oltre 500 miglia fino all'isola di Masirah nel vicino Oman."
+          "Gli astronomi hanno scoperto cosa scatena le ripetute esplosioni della stella instabile AT 2016blu, situata nella galassia a spirale NGC 4559, a circa 30 milioni di anni luce dalla Terra, usando l'osservatorio Chandra della NASA.",
+          "Osservazioni Chandra su esplosioni di stella massiccia, rilevanza scientifica.",
+          "The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth.",
+          "Astronomers estimate the mass of this star is at least 33 times that of the Sun."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "EPAA",
-          "Masirah Island",
-          "Oman"
+          "AT 2016blu",
+          "NGC 4559"
         ],
         "numbersAndDates": [
-          "Per capire come le tartarughe verdi giovani usano questo paesaggio insolito insieme ai canali naturali di mangrovie, lo staff dell'EPAA ha catturato con cura nove tartarughe verdi giovani nel 2019 e ha attaccato tag satellitari ai loro gusci usando una resina specialistica e innocua.",
-          "Rimanevano generalmente entro soli 2 miglia dall'ingresso del wetland e trascorrevano più dell'80% del loro tempo tracciato all'interno del confine dell'area marina protetta.",
-          "Dopo essere rimasta nel wetland per 93 giorni, una tartaruga ha viaggiato per oltre 500 miglia fino all'isola di Masirah nel vicino Oman.",
-          "2019"
+          "4559",
+          "30"
         ]
-      }
-    },
-    {
-      "id": "story-5244b62085d44652",
-      "title": "Oltre la soglia: cosa accade quando lo psicologo entra nella dimensione intima del",
-      "summary": "Come cambia il lavoro dello psicologo a domicilio e nelle comunità terapeutiche? Una riflessione sulla relazione di cura oltre i confini dello studio L'articolo Oltre la soglia: cosa accade quando lo psicologo entra nella dimensione intima del paziente? proviene da State of Mind.",
-      "spokenText": "Cosa accade quando lo psicologo esce dalla geometria protetta del suo studio per varcare la soglia della dimensione più intima del paziente? State of Mind esplora la relazione terapeutica fuori dal contesto tradizionale, analizzando cosa cambia nel lavoro del professionista a domicilio e nelle comunità terapeutiche. Un approfondimento che guarda alla cura nei contesti domiciliari e comunitari, senza trarre conclusioni definitive.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "psicologo",
-        "state of mind"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 25,
-      "source": {
-        "name": "State of Mind (Psicologia)",
-        "url": "https://www.stateofmind.it/2026/11/psicologo-domicilio/?utm_source=rss&utm_medium=rss&utm_campaign=psicologo-domicilio"
-      },
-      "analysis": {
-        "mainFact": "Oltre la soglia: cosa accade quando lo psicologo entra nella dimensione intima del paziente.",
-        "whyItMatters": "Come cambia il lavoro dello psicologo a domicilio e nelle comunità terapeutiche.",
-        "confirmedFacts": [
-          "Oltre la soglia: cosa accade quando lo psicologo entra nella dimensione intima del paziente.",
-          "Come cambia il lavoro dello psicologo a domicilio e nelle comunità terapeutiche.",
-          "chat_bubble_outline Commenta (Adobe stock AI – Andy) La relazione terapeutica fuori dallo studio: la cura nei contesti domiciliari e comunitari Cosa accade quando lo psicologo esce dalla geometria protetta del suo studio per varcare la soglia della dimensione più intima del paziente?",
-          "L'articolo Genitori e algoritmi: che cosa cambia quando l’intelligenza artificiale entra nella relazione educativa – Psicologia Digitale proviene da State of Mind."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "psicologo",
-          "State of Mind"
-        ],
-        "numbersAndDates": []
       }
     }
   ]
