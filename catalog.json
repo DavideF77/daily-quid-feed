@@ -1,476 +1,470 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-16-cf80e76e5848",
-  "generatedAt": "2026-11-16T14:34:22.102Z",
+  "catalogId": "daily-quid-2026-11-17-c4276ea31f59",
+  "generatedAt": "2026-11-17T15:25:04.156Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-87a3f3696ac8ae52",
-      "title": "Carmila e Igd verso l’integrazione (con Ops obbligatoria finalizzata al delisting)",
-      "summary": "La società francese ha annunciato un accordo vincolante con Coop Alleanza 3. 0 per il conferimento della partecipazione del 40,9% dell’immobiliare italiana, con sede a Bologna. L’integrazione darebbe vita a un gruppo con valore lordo ddegli attivi di circa 9 miliardi di euro, net rental income di 530 milioni di euro e una presenza in Francia, Italia e Spagna.",
-      "spokenText": "La società francese Carmila ha annunciato un accordo vincolante con Coop Alleanza 3. 0 per il conferimento della partecipazione del 40,9% dell’immobiliare italiana Igd, con sede a Bologna. L’integrazione darebbe vita a un gruppo con valore lordo degli attivi di circa 9 miliardi di euro, net rental income di 530 milioni di euro e una presenza in Francia, Italia e Spagna. Carmila stima sinergie annue per circa 15 milioni di euro, con un impatto positivo sull’Epra Eps dell’1,5% e sull’Epra Nta per azione del 2%, assumendo l’integrazione completa. Il rapporto di cambio sotteso al conferimento è pari a 0,31 azioni ordinarie Carmila di nuova emissione per ogni azione Igd conferita. Il concambio implica un valore di 4,71 euro per azione Igd, sulla base della chiusura di Carmila del 13 novembre, con un premio del 22% rispetto al VWAP (il Volume Weighted Average Price, ovvero il prezzo medio ponderato per i volumi) a un mese di Igd e del 10,7% rispetto all’ultima quotazione. A Parigi, il titolo di Carmila, alle 10, era in calo del 2,90% mentre, a Milano, Igd era positivo a +0,94 per cento.",
-      "category": "attualita",
+      "id": "story-d1829673be79b0b4",
+      "title": "Un calo della CO2 fossile: c'entra la guerra",
+      "summary": "Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossili, mentre aumentano quelle da conversione del suolo.",
+      "spokenText": "Le proiezioni del Global Carbon Budget stimano per il 2026 una diminuzione delle emissioni di CO2 fossili, che dovrebbero raggiungere i 38,2 miliardi di tonnellate, con un calo dello 0,4% rispetto all'anno precedente. Scendono in particolare quelle legate al petrolio, meno il gas, mentre il carbone sale. Le emissioni globali di CO2 aumentano comunque Sono invece destinate ad aumentare leggermente le emissioni di CO2 derivanti da conversione del suolo , come per esempio la deforestazione.",
+      "category": "ambiente",
       "tags": [
-        "attualita",
-        "carmila",
-        "igd",
-        "coop alleanza 3 0",
-        "bologna",
-        "parigi",
-        "milano"
+        "ambiente",
+        "global carbon budget",
+        "2026"
       ],
-      "importance": 85,
+      "importance": 80,
       "mustInclude": false,
-      "estimatedSeconds": 74,
+      "estimatedSeconds": 30,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/carmila-e-igd-l-integrazione-con-ops-obbligatoria-finalizzata-delisting-AJAaW1HC"
+        "name": "Focus",
+        "url": "https://www.focus.it/ambiente/ecologia/nel-2026-emetteremo-un-po-meno-co2-da-combustibili-fossili-c-entrano-gli-shock-geopolitici"
       },
       "analysis": {
-        "mainFact": "La società francese Carmila ha annunciato un accordo vincolante con Coop Alleanza 3. 0 per il conferimento della partecipazione del 40,9% dell’immobiliare italiana Igd, con sede a Bologna.",
-        "whyItMatters": "L’integrazione darebbe vita a un gruppo con valore lordo degli attivi di circa 9 miliardi di euro, net rental income di 530 milioni di euro e una presenza in Francia, Italia e Spagna.",
+        "mainFact": "Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossili, mentre aumentano quelle da conversione del suolo.",
+        "whyItMatters": "Le emissioni globali di CO2 aumentano comunque Sono invece destinate ad aumentare leggermente le emissioni di CO2 derivanti da conversione del suolo , come per esempio la deforestazione :",
         "confirmedFacts": [
-          "La società francese Carmila ha annunciato un accordo vincolante con Coop Alleanza 3. 0 per il conferimento della partecipazione del 40,9% dell’immobiliare italiana Igd, con sede a Bologna.",
-          "L’integrazione darebbe vita a un gruppo con valore lordo degli attivi di circa 9 miliardi di euro, net rental income di 530 milioni di euro e una presenza in Francia, Italia e Spagna.",
-          "Carmila stima sinergie annue per circa 15 milioni di euro, con un impatto positivo sull’Epra Eps dell’1,5% e sull’Epra Nta per azione del 2%, assumendo l’integrazione completa.",
-          "Il rapporto di cambio sotteso al conferimento è pari a 0,31 azioni ordinarie Carmila di nuova emissione per ogni azione Igd conferita.",
-          "Il concambio implica un valore di 4,71 euro per azione Igd, sulla base della chiusura di Carmila del 13 novembre, con un premio del 22% rispetto al VWAP (il Volume Weighted Average Price, ovvero il prezzo medio ponderato per i volumi) a un mese di Igd e del 10,7% rispetto all’ultima quotazione.",
-          "A Parigi, il titolo di Carmila, alle 10, era in calo del 2,90% mentre, a Milano, Igd era positivo a +0,94 per cento."
+          "Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossili, mentre aumentano quelle da conversione del suolo.",
+          "Le emissioni globali di CO2 aumentano comunque Sono invece destinate ad aumentare leggermente le emissioni di CO2 derivanti da conversione del suolo , come per esempio la deforestazione :",
+          "Ecologia Nel 2026 emetteremo un po' meno CO2 da combustibili fossili: c'entrano gli shock geopolitici Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossile, mentre aumentano quelle da conversione del suolo.",
+          "Nel 2026, le emissioni globali di CO2 da combustibili fossili potrebbero registrare una diminuzione dello 0,4% rispetto allo scorso anno:",
+          "Lo sostiene il Global Carbon Budget , progetto che riunisce oltre 140 scienziati e che monitora l'andamento delle emissioni e dei pozzi di carbonio a livello globale, e secondo il quale, nel 2026, le emissioni di CO2 da combustibili fossili dovrebbero raggiungere le 38,2 miliardi di tonnellate.",
+          "Scendono infatti, per effetto dell'aumento dei prezzi e dell'interruzione nella catena di approvvigionamento del carburante, soprattutto le emissioni di CO2 legate al petrolio (-1,9%), seguite da quelle di gas naturale (-0,3%); quelle legate al carbone salgono dello 0,6%.",
+          "Prima d'ora i due maggiori cali di emissioni di CO2 nel 21esimo secolo sono avvenuti nel 2020 (un calo del 6% attribuito alla pandemia di CoViD-19 ) e nel 2009 (un calo del 2% rispetto all'anno precedente, dovuto alla crisi finanziaria).",
+          "I costi del carburante sono una delle ragioni dietro al calo delle emissioni fossili del 2026."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Carmila",
-          "Igd",
-          "Coop Alleanza 3.0",
-          "Bologna",
-          "Parigi",
-          "Milano"
+          "Global Carbon Budget",
+          "2026"
         ],
         "numbersAndDates": [
-          "Carmila stima sinergie annue per circa 15 milioni di euro, con un impatto positivo sull’Epra Eps dell’1,5% e sull’Epra Nta per azione del 2%, assumendo l’integrazione completa.",
-          "Il rapporto di cambio sotteso al conferimento è pari a 0,31 azioni ordinarie Carmila di nuova emissione per ogni azione Igd conferita.",
-          "Il concambio implica un valore di 4,71 euro per azione Igd, sulla base della chiusura di Carmila del 13 novembre, con un premio del 22% rispetto al VWAP (il Volume Weighted Average Price, ovvero il prezzo medio ponderato per i volumi) a un mese di Igd e del 10,7% rispetto all’ultima quotazione.",
-          "A Parigi, il titolo di Carmila, alle 10, era in calo del 2,90% mentre, a Milano, Igd era positivo a +0,94 per cento.",
-          "3",
-          "0",
-          "40,9",
-          "9",
-          "530"
+          "Ecologia Nel 2026 emetteremo un po' meno CO2 da combustibili fossili: c'entrano gli shock geopolitici Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossile, mentre aumentano quelle da conversione del suolo.",
+          "Nel 2026, le emissioni globali di CO2 da combustibili fossili potrebbero registrare una diminuzione dello 0,4% rispetto allo scorso anno:",
+          "Lo sostiene il Global Carbon Budget , progetto che riunisce oltre 140 scienziati e che monitora l'andamento delle emissioni e dei pozzi di carbonio a livello globale, e secondo il quale, nel 2026, le emissioni di CO2 da combustibili fossili dovrebbero raggiungere le 38,2 miliardi di tonnellate.",
+          "Scendono infatti, per effetto dell'aumento dei prezzi e dell'interruzione nella catena di approvvigionamento del carburante, soprattutto le emissioni di CO2 legate al petrolio (-1,9%), seguite da quelle di gas naturale (-0,3%); quelle legate al carbone salgono dello 0,6%.",
+          "Prima d'ora i due maggiori cali di emissioni di CO2 nel 21esimo secolo sono avvenuti nel 2020 (un calo del 6% attribuito alla pandemia di CoViD-19 ) e nel 2009 (un calo del 2% rispetto all'anno precedente, dovuto alla crisi finanziaria).",
+          "I costi del carburante sono una delle ragioni dietro al calo delle emissioni fossili del 2026."
         ]
       }
     },
     {
-      "id": "story-4ce8dcd86867204d",
-      "title": "Starship: impresa storica, ma il Booster esplode",
-      "summary": "SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall'orbita dopo oltre 22 ore nello spazio. A rovinare la festa è stato il razzo Super Heavy: un allarme carburante ha costretto il Booster 22 ad ammarare.",
-      "spokenText": "SpaceX ha catturato per la prima volta con la torre di lancio di Starbase uno stadio superiore di Starship. La Ship 42 è tornata alla base dopo circa 22 ore e mezza in orbita, completando 14 rivoluzioni attorno alla Terra prima di essere afferrata dalle chopsticks, i due grandi bracci meccanici della torre. Si tratta di un'impresa storica, perché ogni Ship precedente era finita in oceano o era andata perduta. Il Super Heavy, il Booster a 33 motori che funge da primo stadio della Starship, era già stato catturato tre volte dalla Mechazilla durante i voli di Starship 5, 7 e 8. Nello stesso frangente, un allarme carburante ha costretto il Booster 22 ad ammarare nel Golfo del Messico. Getty Images Sabato 14 novembre 2026, quando in Italia erano le 22.",
-      "category": "tecnologia",
+      "id": "story-a60fd5e0eb43b546",
+      "title": "Asma grave, con farmaco biologico bastano 2 iniezioni l'anno e arriva primo 'generico'",
+      "summary": "Ora si punta a curare più persone con benefici che durano di più",
+      "spokenText": "Il primo anticorpo monoclonale usato contro l'asma dal 2005 ha ora il suo generico, un farmaco equivalente rimborsabile in Italia da aprile, con stessa efficacia e sicurezza del farmaco di riferimento. Secondo i dati del registro Sani sull'asma grave, il 42% di questi pazienti soffre anche di poliposi nasale. In Europa è stato approvato il primo biologico con somministrazione ogni sei mesi, capace di ridurre di oltre il 50% gli attacchi di asma grave, mentre un farmaco già in uso ha mostrato nella pratica clinica un'efficacia fino a tre anni contro le riacutizzazioni.",
+      "category": "salute",
       "tags": [
-        "tecnologia",
-        "spacex",
-        "starbase",
-        "starship",
-        "super heavy",
-        "booster 22",
-        "ship 42",
-        "golfo del messico"
+        "salute",
+        "primo anticorpo monoclonale usato contro l asma ",
+        "farmaco equivalente",
+        "italia",
+        "europa",
+        "registro sani"
       ],
       "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 53,
+      "estimatedSeconds": 38,
       "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/scienza/spazio/impresa-storica-per-spacex-la-torre-afferra-al-volo-la-starship-42-ma-il-booster-22-esplode-nel-golfo-del-messico"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/17/asma-grave-con-farmaco-biologico-bastano-2-iniezioni-lanno-e-arriva-primo_5f0a16c4-5e9a-498e-b09c-6320229dfd13.html"
       },
       "analysis": {
-        "mainFact": "I bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall'orbita dopo oltre 22 ore nello spazio.",
-        "whyItMatters": "Un allarme carburante ha costretto il Booster 22 ad ammarare. Il recupero un'impresa storica La cattura avvenuta dopo 14 rivoluzioni attorno alla Terra , con le \"chopsticks\", i due grandi bracci della torre, che hanno afferrato il veicolo.",
+        "mainFact": "Il primo anticorpo monoclonale usato contro l'asma dal 2005 ha ora il suo generico, ossia un farmaco equivalente, rimborsabile in Italia da aprile, con stessa efficacia e sicurezza del farmaco di riferimento.",
+        "whyItMatters": "Secondo i dati del registro 'Sani' sull'asma grave, il 42% di questi pazienti soffre anche di poliposi nasale.",
         "confirmedFacts": [
-          "I bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall'orbita dopo oltre 22 ore nello spazio.",
-          "Un allarme carburante ha costretto il Booster 22 ad ammarare. Il recupero un'impresa storica La cattura avvenuta dopo 14 rivoluzioni attorno alla Terra , con le \"chopsticks\", i due grandi bracci della torre, che hanno afferrato il veicolo.",
-          "Getty Images Sabato 14 novembre 2026, quando in Italia erano le 22 e 20, SpaceX ha catturato per la prima volta con la torre di lancio uno stadio superiore di Starship : la Ship 42 tornata a Starbase dopo circa 22 ore e mezza in orbita .",
-          "L'esplosione del Booster 22 di Starship nel Golfo del Messico.",
-          "Il Super Heavy cio il Booster a 33 motori che fa da primo stadio della Starship, era gi stato catturato tre volte dalla Mechazilla (durante i voli di Starship 5, 7 e 8), mentre ogni Ship precedente era finita in oceano o andata perduta."
+          "Il primo anticorpo monoclonale usato contro l'asma dal 2005 ha ora il suo generico, ossia un farmaco equivalente, rimborsabile in Italia da aprile, con stessa efficacia e sicurezza del farmaco di riferimento.",
+          "Secondo i dati del registro 'Sani' sull'asma grave, il 42% di questi pazienti soffre anche di poliposi nasale.",
+          "In Europa stato approvato il primo biologico con una somministrazione ogni 6 mesi, capace di ridurre di oltre il 50% gli attacchi di asma grave.",
+          "E, mentre le opzioni terapeutiche si moltiplicano, un farmaco gi in uso ha mostrato nella pratica clinica un'efficacia fino a 3 anni contro le riacutizzazioni."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "SpaceX",
-          "Starbase",
-          "Starship",
-          "Super Heavy",
-          "Booster 22",
-          "Ship 42",
-          "Golfo del Messico"
+          "primo anticorpo monoclonale usato contro l'asma dal 2005",
+          "farmaco equivalente",
+          "Italia",
+          "Europa",
+          "registro 'Sani'"
         ],
         "numbersAndDates": [
-          "Getty Images Sabato 14 novembre 2026, quando in Italia erano le 22 e 20, SpaceX ha catturato per la prima volta con la torre di lancio uno stadio superiore di Starship : la Ship 42 tornata a Starbase dopo circa 22 ore e mezza in orbita .",
-          "L'esplosione del Booster 22 di Starship nel Golfo del Messico.",
-          "Il Super Heavy cio il Booster a 33 motori che fa da primo stadio della Starship, era gi stato catturato tre volte dalla Mechazilla (durante i voli di Starship 5, 7 e 8), mentre ogni Ship precedente era finita in oceano o andata perduta.",
-          "22",
-          "14"
+          "In Europa stato approvato il primo biologico con una somministrazione ogni 6 mesi, capace di ridurre di oltre il 50% gli attacchi di asma grave.",
+          "E, mentre le opzioni terapeutiche si moltiplicano, un farmaco gi in uso ha mostrato nella pratica clinica un'efficacia fino a 3 anni contro le riacutizzazioni.",
+          "2005",
+          "42"
         ]
       }
     },
     {
-      "id": "story-d20b8b6014ec8e80",
-      "title": "Stelle simili al Sole già 12,5 miliardi anni fa",
-      "summary": "Uno studio guidato dall’Istituto nazionale di astrofisica, basato sui dati della survey spettroscopica Galah e della missione spaziale Gaia dell’Esa, individua stelle con una composizione chimica simile a quella del Sole, ma quasi tre volte più antiche. Un risultato che ci porta indietro nel tempo, fino a un'epoca in cui la Via Lattea potrebbe aver già creato le condizioni per la nascita di mondi simili al nostro",
-      "spokenText": "Uno studio guidato dall'Istituto nazionale di astrofisica ha individuato stelle con una composizione chimica simile a quella del Sole, ma quasi tre volte più antiche. Questa scoperta porta indietro nel tempo fino a un'epoca in cui la Via Lattea potrebbe aver già creato le condizioni per la nascita di mondi simili al nostro.",
-      "category": "scienza",
+      "id": "story-52f99a1743c5a577",
+      "title": "Oltre il corpo: Il dolore cronico che diviene anche dolore emotivo",
+      "summary": "Dolore cronico e sofferenza emotiva sono strettamente connessi e ansia, depressione e rabbia possono influenzare la percezione del dolore e il benessere psicologico L'articolo Oltre il corpo: Il dolore cronico che diviene anche dolore emotivo proviene da State of Mind.",
+      "spokenText": "Il dolore cronico, definito come un dolore ricorrente o persistente che dura oltre tre mesi, non è solo una questione fisica. Esiste una relazione bidirezionale tra il dolore somatico e quello emotivo, dove ansia, depressione e rabbia influenzano la percezione del benessere. Circa il quaranta per cento delle persone affette manifesta sintomi clinicamente significativi di depressione o ansia, rendendo questa concomitanza un problema di salute pubblica. Superare la dicotomia mente-corpo è necessario per comprendere l'interdipendenza tra fisico e psiche. 2021). La letteratura concorde nel riconoscere che dolore cronico somatico e dolore psicologico-emotivo spesso co-occorrono e presentano una relazione di natura bidirezionale, caratterizzata da reciproche influenze (Stubbs et al. 2025).",
+      "category": "salute",
       "tags": [
-        "scienza",
-        "istituto nazionale di astrofisica",
-        "galah",
-        "gaia",
-        "esa",
-        "via lattea",
-        "sole"
+        "salute",
+        "dolore cronico",
+        "ansia",
+        "depressione",
+        "rabbia",
+        "state of mind"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 44,
+      "source": {
+        "name": "State of Mind (Psicologia)",
+        "url": "https://www.stateofmind.it/2026/11/dolore-cronico-dolore-emotivo/?utm_source=rss&utm_medium=rss&utm_campaign=dolore-cronico-dolore-emotivo"
+      },
+      "analysis": {
+        "mainFact": "Dolore cronico e sofferenza emotiva sono strettamente connessi e ansia, depressione e rabbia possono influenzare la percezione del dolore e il benessere psicologico.",
+        "whyItMatters": "Circa il 40% delle persone affette da dolore cronico manifesta sintomi clinicamente significativi di depressione o ansia, e la concomitanza di dolore cronico, depressione e ansia rappresenta un problema significativo di salute pubblica.",
+        "confirmedFacts": [
+          "Dolore cronico e sofferenza emotiva sono strettamente connessi e ansia, depressione e rabbia possono influenzare la percezione del dolore e il benessere psicologico.",
+          "Circa il 40% delle persone affette da dolore cronico manifesta sintomi clinicamente significativi di depressione o ansia, e la concomitanza di dolore cronico, depressione e ansia rappresenta un problema significativo di salute pubblica.",
+          "Il dolore cronico definito come un dolore ricorrente o persistente che dura pi di tre mesi (Raffaeli et al. , 2021).",
+          "La letteratura concorde nel riconoscere che dolore cronico somatico e dolore psicologico-emotivo spesso co-occorrono e presentano una relazione di natura bidirezionale, caratterizzata da reciproche influenze (Stubbs et al. , 2025).",
+          "Il caso dell’ansia: “E se non dovesse mai migliorare? ” La complessa relazione bidirezionale tra dolore fisico cronico ed emotivo si osserva anche considerando l’ansia.",
+          "Il caso della rabbia: “Odio sentirmi cos ” Frustrazione e rabbia sono esperienze emotive che possono accompagnare il fenomeno del dolore cronico .",
+          "Ma c’ anche una componente emotiva che concorre al dolore cronico a volte ignorata, trascurata o sottostimata.",
+          "Superando la dicotomia mente-corpo, necessario invece considerare l’interdipendenza tra dolore fisico e dolore emotivo per comprendere i fenomeni di dolore cronico ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Dolore cronico",
+          "Ansia",
+          "Depressione",
+          "Rabbia",
+          "State of Mind"
+        ],
+        "numbersAndDates": [
+          "Il dolore cronico definito come un dolore ricorrente o persistente che dura pi di tre mesi (Raffaeli et al. , 2021).",
+          "La letteratura concorde nel riconoscere che dolore cronico somatico e dolore psicologico-emotivo spesso co-occorrono e presentano una relazione di natura bidirezionale, caratterizzata da reciproche influenze (Stubbs et al. , 2025).",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "story-d24c8a9c5ebbaa71",
+      "title": "Avio, la finlandese Iceye lancia opa volontaria da 2 miliardi",
+      "summary": "Riconosciuto un corrispettivo di 41 euro per azione. Il marchio resterebbe italiano, tutelati i livelli occupazionali",
+      "spokenText": "La finlandese Iceye ha lanciato un'offerta pubblica di acquisto volontaria su Avio, riconoscendo un corrispettivo di 41 euro per azione. L'operazione valorizza l'azienda italiana circa 2,05 miliardi di euro. Il marchio resterebbe italiano e sarebbero tutelati i livelli occupazionali.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "avio",
+        "iceye",
+        "italia"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 22,
+      "estimatedSeconds": 16,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/16/stelle-antiche-disco-sottile/"
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/avio-finlandese-iceye-lancia-opa-volontaria-2-mld-41-euro-azione-AJsSH9IC"
       },
       "analysis": {
-        "mainFact": "Uno studio guidato dall’Istituto nazionale di astrofisica individua stelle con una composizione chimica simile a quella del Sole, ma quasi tre volte più antiche.",
-        "whyItMatters": "Il risultato porta indietro nel tempo fino a un'epoca in cui la Via Lattea potrebbe aver già creato le condizioni per la nascita di mondi simili al nostro.",
+        "mainFact": "La finlandese Iceye lancia un'opa volontaria da 2 miliardi su Avio, riconoscendo un corrispettivo di 41 euro per azione.",
+        "whyItMatters": "Il marchio resterebbe italiano, tutelati i livelli occupazionali.",
         "confirmedFacts": [
-          "Uno studio guidato dall’Istituto nazionale di astrofisica individua stelle con una composizione chimica simile a quella del Sole, ma quasi tre volte più antiche.",
-          "Il risultato porta indietro nel tempo fino a un'epoca in cui la Via Lattea potrebbe aver già creato le condizioni per la nascita di mondi simili al nostro.",
-          "Uno studio guidato dall’Istituto nazionale di astrofisica, basato sui dati della survey spettroscopica Galah e della missione spaziale Gaia dell’Esa, individua stelle con una composizione chimica simile a quella del Sole, ma quasi tre volte più antiche."
+          "La finlandese Iceye lancia un'opa volontaria da 2 miliardi su Avio, riconoscendo un corrispettivo di 41 euro per azione.",
+          "Il marchio resterebbe italiano, tutelati i livelli occupazionali.",
+          "Riconosciuto un corrispettivo di 41 euro per azione.",
+          "Il corrispettivo offerto valorizza Avio 2,05 miliardi di euro."
         ],
-        "uncertainties": [
-          "Un risultato che ci porta indietro nel tempo, fino a un'epoca in cui la Via Lattea potrebbe aver già creato le condizioni per la nascita di mondi simili al nostro"
-        ],
+        "uncertainties": [],
         "peopleAndOrganizations": [
-          "Istituto nazionale di astrofisica",
-          "Galah",
-          "Gaia",
-          "Esa",
-          "Via Lattea",
-          "Sole"
+          "Avio",
+          "Iceye",
+          "Italia"
+        ],
+        "numbersAndDates": [
+          "Riconosciuto un corrispettivo di 41 euro per azione.",
+          "Il corrispettivo offerto valorizza Avio 2,05 miliardi di euro.",
+          "2",
+          "41"
+        ]
+      }
+    },
+    {
+      "id": "story-10b3cb9568989de0",
+      "title": "Auto a GPL: il pieno costa di più, benzina e diesel giù",
+      "summary": "Il GPL rincara mentre benzina e gasolio scendono: nell&rsquo;aggiornamento italiano del 17 novembre, i prezzi riportati raggiungono 0,839 euro al litro sulla rete ordinaria e 0,932 euro in autostrada....",
+      "spokenText": "Il pieno di GPL costa di più, mentre i prezzi di benzina e diesel sono in calo.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "gpl",
+        "benzina",
+        "diesel"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 7,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/automotive/gpl-auto-perche-il-pieno-rincara-mentre-benzina-e-diesel-calano"
+      },
+      "analysis": {
+        "mainFact": "Auto a GPL: il pieno costa di più, benzina e diesel giù",
+        "whyItMatters": "Prezzi carburanti e GPL, diretto per interesse Energia e Industria.",
+        "confirmedFacts": [
+          "Auto a GPL: il pieno costa di più, benzina e diesel giù",
+          "Prezzi carburanti e GPL, diretto per interesse Energia e Industria."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "GPL",
+          "benzina",
+          "diesel"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-4234bf908e4faf63",
-      "title": "Il velo islamico e l’ennesima battaglia identitaria sul corpo delle donne",
-      "summary": "Dall’Austria alla Francia, fino a Italia e Spagna: vietare il velo a scuola e nello spazio pubblico libera davvero le donne o le relega ai margini, escluse dal dibattito pubblico?",
-      "spokenText": "Dall'Austria alla Francia, fino a Italia e Spagna, si discute se vietare il velo a scuola e nello spazio pubblico liberi davvero le donne o le relegi ai margini. Un primo tentativo di vietare il velo a scuola nel 2019 era stato bocciato come discriminatorio dalla Corte stessa. Emina dice di portare il velo per motivi religiosi e per assomigliare alla madre. Karimi spiega che la sua riflessione è partita da una domanda semplice rispetto alla situazione in Francia: com'è possibile che, in nome dei diritti delle donne, delle donne vengano escluse? Tra le righe del movimento si sente anche la questione del velo islamico, che nel paese è vietato a scuola dal 2004. Mentre nel Regno Unito l'Equality Act del 2010 vieta la discriminazione basata sulla religione o sulle convinzioni personali.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "austria",
-        "francia",
-        "italia",
-        "spagna",
-        "regno unito",
-        "emina",
-        "karimi"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 53,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/divieto-velo-islamico-europa-diritti-donne/"
-      },
-      "analysis": {
-        "mainFact": "Dall’Austria alla Francia, fino a Italia e Spagna, si discute se vietare il velo a scuola e nello spazio pubblico liberi davvero le donne o le relegi ai margini.",
-        "whyItMatters": "mentre nel Regno Unito l’Equality Act del 2010 vieta la discriminazione basata sulla religione o sulle convinzioni personali.",
-        "confirmedFacts": [
-          "Dall’Austria alla Francia, fino a Italia e Spagna, si discute se vietare il velo a scuola e nello spazio pubblico liberi davvero le donne o le relegi ai margini.",
-          "mentre nel Regno Unito l’Equality Act del 2010 vieta la discriminazione basata sulla religione o sulle convinzioni personali.",
-          "Un primo tentativo di vietare il velo a scuola nel 2019 era stato bocciato come “discriminatorio” dalla Corte stessa.",
-          "Emina dice di portare il velo per motivi religiosi e per assomigliare alla madre.",
-          "Karimi mi spiega che la sua riflessione è partita da una domanda semplice rispetto alla situazione in Francia: “Com’è possibile che, in nome dei diritti delle donne, delle donne vengano escluse?",
-          "Fra queste non c’è l’ hijab , ma tra le righe del movimento si sente anche la questione del velo islamico, che nel paese è vietato a scuola dal 2004:"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Austria",
-          "Francia",
-          "Italia",
-          "Spagna",
-          "Regno Unito",
-          "Emina",
-          "Karimi"
-        ],
-        "numbersAndDates": [
-          "Un primo tentativo di vietare il velo a scuola nel 2019 era stato bocciato come “discriminatorio” dalla Corte stessa.",
-          "Fra queste non c’è l’ hijab , ma tra le righe del movimento si sente anche la questione del velo islamico, che nel paese è vietato a scuola dal 2004:",
-          "2010"
-        ]
-      }
-    },
-    {
-      "id": "story-62f06bc7080f8daa",
-      "title": "Secondo il FT, Jensen Huang valuta un ritorno alla guida del colosso di Santa Clara",
-      "summary": "Secondo il FT, Jensen Huang valuta un ritorno alla guida del colosso di Santa Clara. A Piazza Affari vendite anche su Prysmian e St, bene invece la difesa",
-      "spokenText": "Jensen Huang valuta un ritorno alla guida di Nvidia, secondo quanto scrive il Financial Times, con un pressing sul cda da parte di alleati del settore tech. Il titolo è reduce da un calo settimanale del 13%, il più consistente dall'aprile 2025, con gli investitori concentrati più sul futuro amministratore delegato, dopo le dimissioni di Huang, che sui risultati. Tra gli altri market mover della settimana ci sono i verbali della Fed, in attesa della riunione del 9 dicembre, quando secondo il 90% degli operatori la banca centrale procederà con un aumento dei tassi. A Piazza Affari si registrano vendite sui titoli tech, tra cui Technoprobe, Stmicroelectronics e Prysmian. A Piazza Affari vendite anche su Prysmian e St, bene invece la difesa. Borsa in un minuto Spread in lieve rialzo, rendimento decennale al 4,43% In lieve rialzo lo spread BTp-Bund : il differenziale di rendimento tra il BTp decennale benchmark e il pari scadenza tedesco si attesta a alcuni aspetti base, uno in più rispetto alla chiusura precedente a alcuni aspetti.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "jensen huang",
-        "nvidia",
-        "financial times",
-        "piazza affari",
-        "prysmian",
-        "stmicroelectronics",
-        "technoprobe"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 69,
-      "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/borsa-ultime-notizie-indici-lunedi-16-novembre-2026-AJGnPuHC"
-      },
-      "analysis": {
-        "mainFact": "Jensen Huang valuta un ritorno alla guida di Nvidia.",
-        "whyItMatters": "A Piazza Affari si registrano vendite sui titoli tech, tra cui Technoprobe, Stmicroelectronics e Prysmian. A Piazza Affari vendite anche su Prysmian e St, bene invece la difesa.",
-        "confirmedFacts": [
-          "Jensen Huang valuta un ritorno alla guida di Nvidia.",
-          "A Piazza Affari si registrano vendite sui titoli tech, tra cui Technoprobe, Stmicroelectronics e Prysmian. A Piazza Affari vendite anche su Prysmian e St, bene invece la difesa.",
-          "Il titolo è reduce da un calo settimanale del 13% - il più consistente dall'aprile 2025 -, con gli investitori concentrati più sul futuro a. d. - dopo le dimissioni di Jensen Huang - che sui risultati.",
-          "Altro market mover della settimana saranno i verbali della Fed , in attesa della prossima riunione del 9 dicembre, quando – secondo 90% degli operatori – la banca centrale procederà con un aumento dei tassi di alcuni aspetti base.",
-          "Borsa in un minuto Spread in lieve rialzo, rendimento decennale al 4,43% In lieve rialzo lo spread BTp-Bund : il differenziale di rendimento tra il BTp decennale benchmark e il pari scadenza tedesco si attesta a alcuni aspetti base, uno in più rispetto alla chiusura precedente a alcuni aspetti."
-        ],
-        "uncertainties": [
-          "Intanto, il Financial Times scrive che l'ex ceo del colosso di Santa Clara, Jensen Huang, valuta un ritorno alla guida, con un pressing sul cda da parte di alleati del settore tech."
-        ],
-        "peopleAndOrganizations": [
-          "Jensen Huang",
-          "Nvidia",
-          "Financial Times",
-          "Piazza Affari",
-          "Prysmian",
-          "Stmicroelectronics",
-          "Technoprobe"
-        ],
-        "numbersAndDates": [
-          "Il titolo è reduce da un calo settimanale del 13% - il più consistente dall'aprile 2025 -, con gli investitori concentrati più sul futuro a. d. - dopo le dimissioni di Jensen Huang - che sui risultati.",
-          "Altro market mover della settimana saranno i verbali della Fed , in attesa della prossima riunione del 9 dicembre, quando – secondo 90% degli operatori – la banca centrale procederà con un aumento dei tassi di alcuni aspetti base.",
-          "Borsa in un minuto Spread in lieve rialzo, rendimento decennale al 4,43% In lieve rialzo lo spread BTp-Bund : il differenziale di rendimento tra il BTp decennale benchmark e il pari scadenza tedesco si attesta a alcuni aspetti base, uno in più rispetto alla chiusura precedente a alcuni aspetti."
-        ]
-      }
-    },
-    {
-      "id": "story-d45f7aadd7b49b93",
-      "title": "<img src=\"https://cdn",
-      "summary": "Le due ruote elettriche immatricolate in Italia sono salite a 1.337 a ottobre 2026, il 56,01% in più rispetto alle 857 dello stesso mese del 2025. Il prospetto ufficiale di Confindustria ANCMA, elabor...",
-      "spokenText": "Le due ruote elettriche immatricolate in Italia sono salite a 1.337 a ottobre 2026, il 56,01% in più rispetto alle 857 dello stesso mese del 2025.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "italia"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/automotive/due-ruote-elettriche-scatto-in-italia-56-01-a-ottobre"
-      },
-      "analysis": {
-        "mainFact": "Le due ruote elettriche immatricolate in Italia sono salite a 1.337 a ottobre 2026, il 56,01% in più rispetto alle 857 dello stesso mese del 2025.",
-        "whyItMatters": "Crescita del 56% delle immatricolazioni di moto elettriche in Italia.",
-        "confirmedFacts": [
-          "Le due ruote elettriche immatricolate in Italia sono salite a 1.337 a ottobre 2026, il 56,01% in più rispetto alle 857 dello stesso mese del 2025.",
-          "Crescita del 56% delle immatricolazioni di moto elettriche in Italia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Italia"
-        ],
-        "numbersAndDates": [
-          "1.337",
-          "2026",
-          "56,01",
-          "857",
-          "2025"
-        ]
-      }
-    },
-    {
-      "id": "story-c21b23b37620e55f",
-      "title": "Intelligenza artificiale, Usa e alleati firmano accordo per tutelare la supply chain",
-      "summary": "Gli Stati Uniti e i loro alleati – tra cui Giappone, Australia, Israele e Regno Unito – hanno concordato di creare un elenco congiunto di tecnologie chiave e catene di...",
-      "spokenText": "Usa e alleati firmano accordo per tutelare la supply chain. Australia, Israele e Gb, hanno concordato di creare un elenco congiunto di tecnologie e supply chain dell'IA che necessitano di più protezione, nell'ottica di contrasto della Cina .",
+      "id": "story-8408e2b7a0dafac5",
+      "title": "Usa, problemi d’accesso e disservizi per le principali banche: da Chase a Bank of America",
+      "summary": "A pochi giorni dal collasso globale di Microsoft e dal blocco a terra di tutti i voli, le infrastrutture digitali negli Stati Uniti si fermano di nuovo. Le...",
+      "spokenText": "A pochi giorni dal collasso globale di Microsoft e dal blocco a terra di tutti i voli, le infrastrutture digitali negli Stati Uniti si fermano di nuovo, con problemi d'accesso e disservizi per le principali banche, da Chase a Bank of America. La banca più colpita è stata JpMorgan Chase con oltre 4.600 segnalazioni, seguita da Bank of America con oltre 2.000. Il problema alle app e a servizi di alcune delle maggiori banche americane sarebbe tecnico e sarebbe stato iniziato da un’interruzione in casa Chase che avrebbe poi avuto ripercussioni sulle altre banche.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "giappone",
-        "australia",
-        "israele",
-        "cina"
+        "jpmorgan chase",
+        "bank of america",
+        "stati uniti",
+        "microsoft",
+        "cnn"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 38,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/usa-problemi-d-accesso-e-disservizi-le-principali-banche-AJfEdhIC"
+      },
+      "analysis": {
+        "mainFact": "A pochi giorni dal collasso globale di Microsoft e dal blocco a terra di tutti i voli, le infrastrutture digitali negli Stati Uniti si fermano di nuovo, con problemi d'accesso e disservizi per le principali banche da Chase a Bank of America.",
+        "whyItMatters": "La banca più colpita è stata JpMorgan Chase con oltre 4.600 segnalazioni, seguita da Bank of America con oltre 2.000.",
+        "confirmedFacts": [
+          "A pochi giorni dal collasso globale di Microsoft e dal blocco a terra di tutti i voli, le infrastrutture digitali negli Stati Uniti si fermano di nuovo, con problemi d'accesso e disservizi per le principali banche da Chase a Bank of America.",
+          "La banca più colpita è stata JpMorgan Chase con oltre 4.600 segnalazioni, seguita da Bank of America con oltre 2.000.",
+          "Cnn: «Per le banche Usa un problema tecnico iniziato a Chase e che ha avuto ricadute» Il problema alle app e a servizi di alcune delle maggiori banche americane sarebbe tecnico e sarebbe stato iniziato da un’interruzione in casa Chase che avrebbe poi avuto ripercussioni sulle altre banche."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "JpMorgan Chase",
+          "Bank of America",
+          "Stati Uniti",
+          "Microsoft",
+          "Cnn"
+        ],
+        "numbersAndDates": [
+          "4.600",
+          "2.000"
+        ]
+      }
+    },
+    {
+      "id": "story-31f8c19ea475f1f3",
+      "title": "Usa, California fa causa a OpenAI: «Privilegia la crescita alla sicurezza»",
+      "summary": "La California ha fatto causa a OpenAI dopo che l’azienda ha ammesso 80 episodi in cui ha perso il controllo dei propri modelli di intelligenza artificiale, sostenendo che le carenze...",
+      "spokenText": "California fa causa a OpenAI: «Privilegia la crescita alla sicurezza».",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "california",
+        "openai"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 4,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/usa-california-fa-causa-openai-privilegia-crescita-sicurezza-AJVOmuIC"
+      },
+      "analysis": {
+        "mainFact": "California fa causa a OpenAI: «Privilegia la crescita alla sicurezza»",
+        "whyItMatters": "Causa California a OpenAI su sicurezza modelli AI.",
+        "confirmedFacts": [
+          "California fa causa a OpenAI: «Privilegia la crescita alla sicurezza»",
+          "Causa California a OpenAI su sicurezza modelli AI."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "California",
+          "OpenAI"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-2ee3393fd3722b12",
+      "title": "Voyager 1 dista un giorno luce",
+      "summary": "Alle 11:16:07 del 18 novembre 2026 Voyager 1 raggiungerà, e subito supererà, la distanza di un giorno luce dalla Terra. Da circa 28 anni la sonda detiene il primato di oggetto costruito dall’uomo più lontano del cosmo. Leopoldo Benacchio (Inaf): «È un traguardo non solo simbolico: è senza precedenti. Ma ci sbatte in faccia quanto sia davvero difficile andarsene dalla Terra»",
+      "spokenText": "Voyager 1 raggiungerà e supererà la distanza di un giorno luce dalla Terra. La sonda detiene da circa ventotto anni il primato di oggetto costruito dall'uomo più lontano del cosmo. Alle 11:16:07 del 18 novembre 2026 Voyager 1 raggiungerà.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "voyager 1",
+        "terra"
       ],
       "importance": 95,
       "mustInclude": false,
       "estimatedSeconds": 16,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/intelligenza-artificiale-usa-e-alleati-firmano-accordo-tutelare-supply-chain-cina-AJKYZuHC"
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/16/voyager-1-dista-un-giorno-luce/"
       },
       "analysis": {
-        "mainFact": "Usa e alleati firmano accordo per tutelare la supply chain",
-        "whyItMatters": "Australia, Israele e Gb, hanno concordato di creare un elenco congiunto di tecnologie e supply chain dell'IA che necessitano di più protezione, nell'ottica di contrasto della Cina .",
+        "mainFact": "Alle 11:16:07 del 18 novembre 2026 Voyager 1 raggiungerà, e subito supererà, la distanza di un giorno luce dalla Terra.",
+        "whyItMatters": "Da circa 28 anni la sonda detiene il primato di oggetto costruito dall’uomo più lontano del cosmo.",
         "confirmedFacts": [
-          "Usa e alleati firmano accordo per tutelare la supply chain",
-          "Australia, Israele e Gb, hanno concordato di creare un elenco congiunto di tecnologie e supply chain dell'IA che necessitano di più protezione, nell'ottica di contrasto della Cina .",
-          "Intanto gli Usa e i loro alleati, tra cui Giappone, Australia, Israele e Gb, hanno concordato di creare un elenco congiunto di tecnologie e supply chain dell'IA che necessitano di più protezione, nell'ottica di contrasto della Cina ."
+          "Alle 11:16:07 del 18 novembre 2026 Voyager 1 raggiungerà, e subito supererà, la distanza di un giorno luce dalla Terra.",
+          "Da circa 28 anni la sonda detiene il primato di oggetto costruito dall’uomo più lontano del cosmo.",
+          "Voyager 1 dista un giorno luce"
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Giappone",
-          "Australia",
-          "Israele",
-          "Cina"
+          "Voyager 1",
+          "Terra"
+        ],
+        "numbersAndDates": [
+          "Voyager 1 dista un giorno luce",
+          "11",
+          "16",
+          "07",
+          "18",
+          "2026",
+          "1",
+          "28"
+        ]
+      }
+    },
+    {
+      "id": "story-6be387a606c1e668",
+      "title": "L’Istat ritocca al rialzo le stime preliminari pubblicate due settimane fa",
+      "summary": "L’Istat ritocca al rialzo le stime preliminari pubblicate due settimane fa: corre il carrello della spesa, +2,3%",
+      "spokenText": "L'Istat ha rivisto al rialzo le stime preliminari pubblicate due settimane fa.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "istat",
+        "carrello della spesa"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 5,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/economia/2026/11/17/news/inflazione_ottobre_dati_definitivi_peggiora_carrello_spesa-425729238/"
+      },
+      "analysis": {
+        "mainFact": "L’Istat ritocca al rialzo le stime preliminari pubblicate due settimane fa: corre il carrello della spesa, +2,3%",
+        "whyItMatters": "Inflazione in crescita ai massimi dal 2023, impatto diretto.",
+        "confirmedFacts": [
+          "L’Istat ritocca al rialzo le stime preliminari pubblicate due settimane fa: corre il carrello della spesa, +2,3%",
+          "Inflazione in crescita ai massimi dal 2023, impatto diretto."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Istat",
+          "carrello della spesa"
+        ],
+        "numbersAndDates": [
+          "2,3"
+        ]
+      }
+    },
+    {
+      "id": "story-ce0db2f76fd91619",
+      "title": "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed",
+      "summary": "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed nel 2024 \"per potenziali violazioni del controllo delle esportazioni\".",
+      "spokenText": "Esposto un documento con una timeline, gli investigatori hanno dichiarato di aver avviato le indagini su Megaspeed nel 2024 per potenziali violazioni del controllo delle esportazioni. Nel maggio 2025, gli investigatori del Dipartimento del Commercio hanno richiesto documenti a Nvidia riguardanti vendite dirette o indirette a Megaspeed. Nvidia ha successivamente inserito Megaspeed nella sua lista no sell.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "megaspeed",
+        "nvidia",
+        "singapore"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 23,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed nel 2024 \"per potenziali violazioni del controllo delle esportazioni\".",
+        "whyItMatters": "Indagine esportazioni chip AI Nvidia verso Cina, impatto tecnologia e geopolitica.",
+        "confirmedFacts": [
+          "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed nel 2024 \"per potenziali violazioni del controllo delle esportazioni\".",
+          "Indagine esportazioni chip AI Nvidia verso Cina, impatto tecnologia e geopolitica.",
+          "Nel maggio 2025, gli investigatori del Dipartimento del Commercio hanno richiesto documenti a Nvidia \"riguardanti vendite dirette o indirette a Megaspeed\".",
+          "Nvidia ha inserito Megaspeed nella sua lista 'no sell'."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Megaspeed",
+          "Nvidia",
+          "Singapore"
+        ],
+        "numbersAndDates": [
+          "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed nel 2024 \"per potenziali violazioni del controllo delle esportazioni\".",
+          "Nel maggio 2025, gli investigatori del Dipartimento del Commercio hanno richiesto documenti a Nvidia \"riguardanti vendite dirette o indirette a Megaspeed\".",
+          "Nvidia ha inserito Megaspeed nella sua lista 'no sell'.",
+          "2024"
+        ]
+      }
+    },
+    {
+      "id": "story-c76ddde6450f548b",
+      "title": "Violenze, abusi, abbandono: gli scatti inediti che raccontano dall’interno l’inferno",
+      "summary": "Le foto sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager- No Cpr e dall’associazione Naga. “Il riferimento è alla mostra di Basaglia che ha fatto capire l’orrore dei manicomi”",
+      "spokenText": "Le immagini sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager-No Cpr e dall'associazione Naga. “Il riferimento è alla mostra di Basaglia che ha fatto capire l’orrore dei manicomi”.",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "rete mai piu lager no cpr",
+        "associazione naga",
+        "basaglia",
+        "manicomi",
+        "cpr"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 14,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/cronaca/2026/11/17/news/cpr_foto_inedite_mostra_violenze_abusi_migranti-425729338/"
+      },
+      "analysis": {
+        "mainFact": "Le foto sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager- No Cpr e dall’associazione Naga.",
+        "whyItMatters": "“Il riferimento è alla mostra di Basaglia che ha fatto capire l’orrore dei manicomi”",
+        "confirmedFacts": [
+          "Le foto sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager- No Cpr e dall’associazione Naga.",
+          "“Il riferimento è alla mostra di Basaglia che ha fatto capire l’orrore dei manicomi”"
+        ],
+        "uncertainties": [
+          "Le foto sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager- No Cpr e dall’associazione Naga."
+        ],
+        "peopleAndOrganizations": [
+          "rete Mai più lager- No Cpr",
+          "associazione Naga",
+          "Basaglia",
+          "manicomi",
+          "CPR"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-08182bc95dd94746",
-      "title": "Conto Termico 3.0: la checklist per installatori e clienti",
-      "summary": "Il Conto Termico 3. 0 è il decreto del Ministero dell'ambiente e della sicurezza energetica del 7 agosto 2025, pubblicato in Gazzetta Ufficiale il 26 settembre 2025 e gestito dal GSE. Incentiva interve...",
-      "spokenText": "Il Conto Termico 3. 0 è il decreto del Ministero dell'ambiente e della sicurezza energetica del 7 agosto 2025, pubblicato in Gazzetta Ufficiale il 26 settembre 2025 e gestito dal GSE.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "ministero dell ambiente e della sicurezza energe",
-        "gse",
-        "gazzetta ufficiale"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 13,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/aioperator/conto-termico-30-la-checklist-per-installatori-e-clienti-dai-requisiti-alla-domanda-sul-portaltermico"
-      },
-      "analysis": {
-        "mainFact": "Il Conto Termico 3. 0 è il decreto del Ministero dell'ambiente e della sicurezza energetica del 7 agosto 2025, pubblicato in Gazzetta Ufficiale il 26 settembre 2025 e gestito dal GSE.",
-        "whyItMatters": "Conto Termico 3.",
-        "confirmedFacts": [
-          "Il Conto Termico 3. 0 è il decreto del Ministero dell'ambiente e della sicurezza energetica del 7 agosto 2025, pubblicato in Gazzetta Ufficiale il 26 settembre 2025 e gestito dal GSE.",
-          "Conto Termico 3."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Ministero dell'ambiente e della sicurezza energetica",
-          "GSE",
-          "Gazzetta Ufficiale"
-        ],
-        "numbersAndDates": [
-          "3",
-          "0",
-          "7",
-          "2025",
-          "26"
-        ]
-      }
-    },
-    {
-      "id": "story-f36a2bdf2c8fbe8c",
-      "title": "Uno studio pubblicato sulla rivista Atmospheric Environment confronta due approcci",
-      "summary": "Uno studio pubblicato sulla rivista Atmospheric Environment confronta due approcci avanzati per la stima delle concentrazioni di particolato atmosferico (PM 10 PM 2. 5 ) e biossido di azoto (NO 2 ) sull’intero territorio nazionale, con una risoluzione spaziale di 1 km × 1 km. Lo studio è stato realizzato da ricercatori di ISPRA, del Dipartimento di Epidemiologia del Servizio Sanitario Regionale del Lazio, di ARPAE Emilia-Romagna e del CNR-ISAC.",
-      "spokenText": "Uno studio pubblicato sulla rivista Atmospheric Environment confronta due approcci avanzati per stimare le concentrazioni di particolato atmosferico, PM 10 e PM 2. 5, e di biossido di azoto sull'intero territorio nazionale, con una risoluzione spaziale di un chilometro per chilometro. La ricerca è stata realizzata da ricercatori di ISPRA, del Dipartimento di Epidemiologia del Servizio Sanitario Regionale del Lazio, di ARPAE Emilia-Romagna e del CNR-ISAC.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "ispra",
-        "dipartimento di epidemiologia del servizio sanit",
-        "arpae emilia romagna",
-        "cnr isac",
-        "atmospheric environment"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 27,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/nuove-mappe-ad-alta-risoluzione-inquinamento-atmosferico-in-italia"
-      },
-      "analysis": {
-        "mainFact": "Uno studio pubblicato sulla rivista Atmospheric Environment confronta due approcci avanzati per la stima delle concentrazioni di particolato atmosferico (PM 10 PM 2. 5 ) e biossido di azoto (NO 2 ) sull’intero territorio nazionale, con una risoluzione spaziale di 1 km × 1 km.",
-        "whyItMatters": "Lo studio è stato realizzato da ricercatori di ISPRA, del Dipartimento di Epidemiologia del Servizio Sanitario Regionale del Lazio, di ARPAE Emilia-Romagna e del CNR-ISAC.",
-        "confirmedFacts": [
-          "Uno studio pubblicato sulla rivista Atmospheric Environment confronta due approcci avanzati per la stima delle concentrazioni di particolato atmosferico (PM 10 PM 2. 5 ) e biossido di azoto (NO 2 ) sull’intero territorio nazionale, con una risoluzione spaziale di 1 km × 1 km.",
-          "Lo studio è stato realizzato da ricercatori di ISPRA, del Dipartimento di Epidemiologia del Servizio Sanitario Regionale del Lazio, di ARPAE Emilia-Romagna e del CNR-ISAC."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "ISPRA",
-          "Dipartimento di Epidemiologia del Servizio Sanitario Regionale del Lazio",
-          "ARPAE Emilia-Romagna",
-          "CNR-ISAC",
-          "Atmospheric Environment"
-        ],
-        "numbersAndDates": [
-          "Uno studio pubblicato sulla rivista Atmospheric Environment confronta due approcci avanzati per la stima delle concentrazioni di particolato atmosferico (PM 10 PM 2. 5 ) e biossido di azoto (NO 2 ) sull’intero territorio nazionale, con una risoluzione spaziale di 1 km × 1 km.",
-          "10",
-          "2",
-          "5",
-          "1"
-        ]
-      }
-    },
-    {
-      "id": "story-e32edffd9711460f",
-      "title": "Commissariata Banca Revolut: “Rapporti con indagati per riciclaggio aggravati dal",
-      "summary": "Inchiesta di procura di Milano e Gdf: “Scoperto un milione di violazioni”. Il giro di soldi: 76,5 milioni potevano essere “intercettati”. Tra i clienti Calamucci, dell’agenzia delle spie Equalize, e un pentito di Hydra",
-      "spokenText": "Inchiesta di procura di Milano e Gdf: \"Scoperto un milione di violazioni\". Il giro di soldi: 76,5 milioni potevano essere \"intercettati\". Tra i clienti Calamucci, dell’agenzia delle spie Equalize, e un pentito di Hydra. Cos’è Revolut, la fintech da 6 milioni di clienti in Italia finita in amministrazione giudiziaria.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "procura di milano",
-        "gdf",
-        "revolut",
-        "calamucci",
-        "equalize",
-        "hydra"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 20,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://milano.repubblica.it/cronaca/2026/11/16/news/commissariata_banca_revolut_riciclaggio_metodo_mafioso-425726603/"
-      },
-      "analysis": {
-        "mainFact": "Inchiesta di procura di Milano e Gdf: \"Scoperto un milione di violazioni\".",
-        "whyItMatters": "Il giro di soldi: 76,5 milioni potevano essere \"intercettati\".",
-        "confirmedFacts": [
-          "Inchiesta di procura di Milano e Gdf: \"Scoperto un milione di violazioni\".",
-          "Il giro di soldi: 76,5 milioni potevano essere \"intercettati\".",
-          "Tra i clienti Calamucci, dell’agenzia delle spie Equalize, e un pentito di Hydra",
-          "Cos’è Revolut, la fintech da 6 milioni di clienti in Italia finita in amministrazione giudiziaria"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Procura di Milano",
-          "Gdf",
-          "Revolut",
-          "Calamucci",
-          "Equalize",
-          "Hydra"
-        ],
-        "numbersAndDates": [
-          "Cos’è Revolut, la fintech da 6 milioni di clienti in Italia finita in amministrazione giudiziaria",
-          "76,5"
-        ]
-      }
-    },
-    {
       "id": "story-ea934d3bbda35f43",
-      "title": "Ma nel gennaio 2025, dopo una sfida degli ambientalisti",
-      "summary": "Ma nel gennaio 2025, dopo una sfida degli ambientalisti, la Court of Session di Edimburgo ha stabilito che il consenso per Jackdaw e Rosebank era stato concesso illegalmente.",
-      "spokenText": "Nel gennaio 2025, la Court of Session di Edimburgo ha stabilito che il consenso per i giacimenti di Jackdaw e Rosebank era stato concesso illegalmente, a seguito di una sfida degli ambientalisti. Jackdaw è gestito da Adura in una joint venture tra Shell e un'altra società, mentre Rosebank vede coinvolti attori come Equinor. Dopo le importazioni, la produzione di questi giacimenti ammonta a circa il 2% della domanda totale del Regno Unito. Miliband dice che non si dimetterà se il governo approva il giacimento petrolifero Rosebank 51 minuti fa Burnham difende la decisione su Jackdaw mentre Badenoch esorta il primo ministro a revocare il divieto di nuove licenze per petrolio e gas 21 ottobre Jackdaw è gestito da Adura in una joint venture tra Shell e la.",
+      "title": "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito",
+      "summary": "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
+      "spokenText": "Incluse le importazioni, il volume ammonta a circa il 2% della domanda totale del Regno Unito. Il dato coinvolge direttamente Jackdaw, Aberdeen, Adura, Shell ed Equinor, i principali attori di riferimento per questa operazione.",
       "category": "ambiente",
       "tags": [
         "ambiente",
@@ -478,25 +472,21 @@
         "aberdeen",
         "adura",
         "shell",
-        "equinor",
-        "court of session in edinburgh",
-        "uk government"
+        "equinor"
       ],
-      "importance": 72,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 51,
+      "estimatedSeconds": 14,
       "source": {
         "name": "BBC News - Science & Environment",
         "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Ma nel gennaio 2025, dopo una sfida degli ambientalisti, la Court of Session di Edimburgo ha stabilito che il consenso per Jackdaw e Rosebank era stato concesso illegalmente.",
-        "whyItMatters": "Inizio flusso gas dal giacimento Jackdaw dopo approvazione.",
+        "mainFact": "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
+        "whyItMatters": "Avvio campo gas Jackdaw, rilevante per settore energia e industria.",
         "confirmedFacts": [
-          "Ma nel gennaio 2025, dopo una sfida degli ambientalisti, la Court of Session di Edimburgo ha stabilito che il consenso per Jackdaw e Rosebank era stato concesso illegalmente.",
-          "Inizio flusso gas dal giacimento Jackdaw dopo approvazione.",
-          "Miliband dice che non si dimetterà se il governo approva il giacimento petrolifero Rosebank 51 minuti fa Burnham difende la decisione su Jackdaw mentre Badenoch esorta il primo ministro a revocare il divieto di nuove licenze per petrolio e gas 21 ottobre Jackdaw è gestito da Adura in una joint venture tra Shell e la",
-          "Dopo le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito."
+          "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
+          "Avvio campo gas Jackdaw, rilevante per settore energia e industria."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
@@ -504,58 +494,11 @@
           "Aberdeen",
           "Adura",
           "Shell",
-          "Equinor",
-          "Court of Session in Edinburgh",
-          "UK government"
+          "Equinor"
         ],
         "numbersAndDates": [
-          "Ma nel gennaio 2025, dopo una sfida degli ambientalisti, la Court of Session di Edimburgo ha stabilito che il consenso per Jackdaw e Rosebank era stato concesso illegalmente.",
-          "Miliband dice che non si dimetterà se il governo approva il giacimento petrolifero Rosebank 51 minuti fa Burnham difende la decisione su Jackdaw mentre Badenoch esorta il primo ministro a revocare il divieto di nuove licenze per petrolio e gas 21 ottobre Jackdaw è gestito da Adura in una joint venture tra Shell e la",
-          "Dopo le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
-          "2025"
-        ]
-      }
-    },
-    {
-      "id": "story-7851e66e4777f311",
-      "title": "Nelle fasi iniziali dell'epidemia di Ebola nella Repubblica Democratica del Congo il",
-      "summary": "Nelle fasi iniziali dell'epidemia di Ebola nella Repubblica Democratica del Congo il virus sfuggì al rilevamento anche a causa dei tagli agli aiuti.",
-      "spokenText": "Nelle fasi iniziali dell'epidemia di Ebola in Repubblica Democratica del Congo, il virus è sfuggito al rilevamento anche a causa dei tagli agli aiuti. Le autorità sanitarie hanno denunciato il primo caso il 15 maggio 2026, ma si tratta solo della punta dell'iceberg di un sommerso che sobbolliva da settimane. Si tratta del ceppo Ebola Bundibugyo, meno conosciuto rispetto al ceppo Zaire che ha causato la maggior parte delle maggiori epidemie in Africa. Il rischio di infezioni è maggiore nelle aree vicine ai focolai iniziali, ma anche località distanti 150-200 km dai centri iniziali, disseminate su percorsi molto battuti verso città o Paesi più grandi, sono stati centri importanti di contagio. Il virus presenta nel suo bagaglio genetico 7 geni che codificano le informazioni necessarie per moltiplicarsi e per difendersi dal sistema immunitario dell'organismo ospite. Ebengo, dell'Institut National de Recherche Biom dicale (INRB) di Kinshasa (Repubblica Democratica del Congo), il primo paziente positivo a Ebola avrebbe iniziato a manifestare sintomi il 25 aprile 2026. 14 FOTO Fotogallery Ebola, i devastanti effetti sul corpo umano VAI ALLA GALLERY Esposizione.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "repubblica democratica del congo"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 72,
-      "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/scienza/salute/ultima-epidemia-ebola-congo-sorveglianza-fallita"
-      },
-      "analysis": {
-        "mainFact": "Nelle fasi iniziali dell'epidemia di Ebola nella Repubblica Democratica del Congo il virus sfuggì al rilevamento anche a causa dei tagli agli aiuti.",
-        "whyItMatters": "Le aree vicine ai focolai iniziali presentavano un rischio maggiore di infezioni, ma anche località distanti 150-200 km dai centri iniziali disseminate su percorsi molto battuti verso città o Paesi più grandi sono stati centri importanti di contagio.",
-        "confirmedFacts": [
-          "Nelle fasi iniziali dell'epidemia di Ebola nella Repubblica Democratica del Congo il virus sfuggì al rilevamento anche a causa dei tagli agli aiuti.",
-          "Le aree vicine ai focolai iniziali presentavano un rischio maggiore di infezioni, ma anche località distanti 150-200 km dai centri iniziali disseminate su percorsi molto battuti verso città o Paesi più grandi sono stati centri importanti di contagio.",
-          "Da tempo si sospettava che il primo caso dell'epidemia di Ebola in corso, denunciato dalle autorit sanitarie il 15 maggio 2026, non fosse che la punta dell'iceberg di un sommerso che sobbolliva da settimane .",
-          "Ebengo, dell'Institut National de Recherche Biom dicale (INRB) di Kinshasa (Repubblica Democratica del Congo), il primo paziente positivo a Ebola avrebbe iniziato a manifestare sintomi il 25 aprile 2026.",
-          "Ebola Bundibugyo, meno conosciuto : un sottotipo di Ebola diverso dal ceppo Zaire che ha causato la maggior parte delle maggiori epidemie di Ebola in Africa.",
-          "14 FOTO Fotogallery Ebola, i devastanti effetti sul corpo umano VAI ALLA GALLERY Esposizione.",
-          "Nel suo bagaglio genetico ci sono 7 geni che codificano le informazioni necessarie per moltiplicarsi e per difendersi dal sistema immunitario dell’organismo ospite."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Repubblica Democratica del Congo"
-        ],
-        "numbersAndDates": [
-          "Da tempo si sospettava che il primo caso dell'epidemia di Ebola in corso, denunciato dalle autorit sanitarie il 15 maggio 2026, non fosse che la punta dell'iceberg di un sommerso che sobbolliva da settimane .",
-          "Ebengo, dell'Institut National de Recherche Biom dicale (INRB) di Kinshasa (Repubblica Democratica del Congo), il primo paziente positivo a Ebola avrebbe iniziato a manifestare sintomi il 25 aprile 2026.",
-          "14 FOTO Fotogallery Ebola, i devastanti effetti sul corpo umano VAI ALLA GALLERY Esposizione.",
-          "Nel suo bagaglio genetico ci sono 7 geni che codificano le informazioni necessarie per moltiplicarsi e per difendersi dal sistema immunitario dell’organismo ospite.",
-          "150",
-          "200"
+          "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
+          "2"
         ]
       }
     },
@@ -563,31 +506,32 @@
       "id": "story-7f21a428de9e255a",
       "title": "Nuove norme e Piani di tutela urbana per l'incremento del patrimonio verde e della",
       "summary": "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani. In questo senso, il piano del verde ( o piano della natura ) rappresenta lo strumento chiave per pianificare, valorizzare ed incrementare il patrimonio verde e la biodiversità urbana , e promuovere nella pianificazione urbanistica locale un equilibrio tra ambiente costruito e naturale, tra infrastrutture grigie e infrastrutture verdi e blu.",
-      "spokenText": "Il 18 agosto 2024 è entrato in vigore il Regolamento (UE) 2024/1991 per il Ripristino della Natura, segnando una svolta decisiva nella politica ambientale dell'Unione Europea. La nuova normativa introduce obiettivi vincolanti che riguardano anche gli ecosistemi urbani, estendendo l'impegno dell'UE oltre le aree naturali tradizionali.",
+      "spokenText": "Il 18 agosto 2024 è entrato in vigore il Regolamento (UE) 2024/1991 per il Ripristino della Natura. La normativa dell'Unione Europea introduce obiettivi vincolanti che riguardano anche gli ecosistemi urbani.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "unione europea ue",
-        "regolamento ue 2024 1991"
+        "regolamento ue 2024 1991",
+        "unione europea"
       ],
-      "importance": 85,
+      "importance": 95,
       "mustInclude": false,
-      "estimatedSeconds": 19,
+      "estimatedSeconds": 12,
       "source": {
         "name": "ISPRA Notizie",
         "url": "https://www.isprambiente.gov.it/it/news/nuove-norme-e-piani-di-tutela-urbana-per-lincremento-del-patrimonio-verde-e-della-biodiversita"
       },
       "analysis": {
-        "mainFact": "L'entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell'Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani.",
-        "whyItMatters": "Regolamento UE Ripristino della Natura e piani verdi urbani.",
+        "mainFact": "L'entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, introduce obiettivi vincolanti anche per gli ecosistemi urbani.",
+        "whyItMatters": "Regolamento UE ripristino natura e piani verdi urbani, impatto ambientale diretto.",
         "confirmedFacts": [
-          "L'entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell'Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani.",
-          "Regolamento UE Ripristino della Natura e piani verdi urbani."
+          "L'entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, introduce obiettivi vincolanti anche per gli ecosistemi urbani.",
+          "Regolamento UE ripristino natura e piani verdi urbani, impatto ambientale diretto.",
+          "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Unione Europea (UE)",
-          "Regolamento (UE) 2024/1991"
+          "Regolamento (UE) 2024/1991",
+          "Unione Europea"
         ],
         "numbersAndDates": [
           "2024",
@@ -597,77 +541,86 @@
       }
     },
     {
-      "id": "story-47475eb20f1377ff",
-      "title": "Al Cnao di Pavia parte la nuova protonterapia",
-      "summary": "Consente di orientare fascio protoni a 360 gradi intorno al paziente. Nuove possibilità di cura",
-      "spokenText": "Al Cnao di Pavia parte la nuova protonterapia. Il nuovo sistema consente di orientare il fascio di protoni a 360 gradi intorno al paziente, offrendo nuove possibilità di cura. L'esperienza del centro si innesta su un patrimonio di competenze cliniche, scientifiche e tecnologiche costruito in oltre 15 anni di ricerca e trattamento dei tumori difficili. Come afferma Gianluca Vago, Presidente Cnao, l'avvio dei trattamenti con la nuova testata rotante segna un ulteriore passo avanti, proiettando Cnao tra i pochissimi centri al mondo capaci di proporre un'offerta terapeutica così avanzata e completa.",
-      "category": "salute",
+      "id": "story-8a5d28b60c1e6394",
+      "title": "Durante l'indagine di Idubi, il team di Perseverance è stato colpito da un gruppo di",
+      "summary": "Durante l'indagine di Idubi, il team di Perseverance è stato colpito da un gruppo di rocce chiarissime e di tonalità chiara.",
+      "spokenText": "Durante l'esplorazione, il team ha incontrato un gruppo di rocce chiarissime e di tonalità chiara, che si differenziano dalle tipiche rocce ignee della zona.",
+      "category": "scienza",
       "tags": [
-        "salute",
-        "cnao",
-        "pavia",
-        "gianluca vago"
+        "scienza",
+        "perseverance",
+        "idubi",
+        "lac de charmes"
       ],
-      "importance": 85,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 37,
+      "estimatedSeconds": 10,
       "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/16/al-cnao-pavia-la-nuova-protonterapia-trattamenti-ancora-piu-precisi-contro-tumori_ea296b6b-6b57-4f1e-a308-a1411bc44b12.html"
+        "name": "NASA Releases",
+        "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
       },
       "analysis": {
-        "mainFact": "Al Cnao di Pavia parte la nuova protonterapia.",
-        "whyItMatters": "Consente di orientare fascio protoni a 360 gradi intorno al paziente.",
+        "mainFact": "Durante l'indagine di Idubi, il team di Perseverance è stato colpito da un gruppo di rocce chiarissime e di tonalità chiara.",
+        "whyItMatters": "Scoperte geologiche su Marte dal rover Perseverance.",
         "confirmedFacts": [
-          "Al Cnao di Pavia parte la nuova protonterapia.",
-          "Consente di orientare fascio protoni a 360 gradi intorno al paziente.",
-          "Oggi, l'esperienza di Cnao si pone ancora una volta al servizio dell'innovazione: il nuovo sistema di protonterapia si innesta su un patrimonio di competenze cliniche, scientifiche e tecnologiche costruito in oltre 15 anni di ricerca e trattamento dei tumori difficili.",
-          "\"L'avvio dei trattamenti con la nuova testata rotante segna un ulteriore passo avanti Nel caso dell'innovazione, proiettando Cnao tra i pochissimi centri al mondo capaci di proporre un'offerta terapeutica così avanzata e completa\", afferma Gianluca Vago, Presidente Cnao.",
-          "Nuove possibilità di cura"
+          "Durante l'indagine di Idubi, il team di Perseverance è stato colpito da un gruppo di rocce chiarissime e di tonalità chiara.",
+          "Scoperte geologiche su Marte dal rover Perseverance.",
+          "16, 2026 During the Perseverance rover’s investigation of \"Idubi\" — an area of ancient Martian crust exposed in the \"Lac de Charmes\" region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily bright, light-toned rocks in the area.",
+          "Suspecting that they differed from the typical igneous rocks in the area, the rover team directed Perseverance to investigate."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Cnao",
-          "Pavia",
-          "Gianluca Vago"
+          "Perseverance",
+          "Idubi",
+          "Lac de Charmes"
         ],
-        "numbersAndDates": [
-          "Oggi, l'esperienza di Cnao si pone ancora una volta al servizio dell'innovazione: il nuovo sistema di protonterapia si innesta su un patrimonio di competenze cliniche, scientifiche e tecnologiche costruito in oltre 15 anni di ricerca e trattamento dei tumori difficili.",
-          "360"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-1a352e169a824221",
-      "title": "I paesi UE avrebbero espresso la speranza che un centro sarebbe operativo nel 2027",
-      "summary": "I paesi UE avrebbero espresso la speranza che un centro sarebbe operativo nel 2027.",
-      "spokenText": "I paesi UE avrebbero espresso la speranza che un centro sarebbe operativo nel 2027.",
-      "category": "mondo",
+      "id": "story-835227d846992a9a",
+      "title": "Dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra",
+      "summary": "Dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra: come la manipolazione digitale sta preparando il terreno per le elezioni del 2027.",
+      "spokenText": "La manipolazione digitale sta preparando il terreno per le elezioni del 2027, dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra. La Francia era stata individuata come uno dei principali bersagli, insieme alla Germania, anche dal Servizio europeo per l'azione esterna (SEAE) che ha descritto operazioni russe mirate a influenzare le elezioni federali tedesche del 2025.",
+      "category": "attualita",
       "tags": [
-        "mondo",
-        "afp"
+        "attualita",
+        "reti russe",
+        "ai slop",
+        "fondi usa",
+        "estrema destra",
+        "francia",
+        "germania",
+        "servizio europeo per l azione esterna seae"
       ],
-      "importance": 62,
+      "importance": 72,
       "mustInclude": false,
-      "estimatedSeconds": 6,
+      "estimatedSeconds": 25,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/elezioni-2027-propaganda-ai-interferenze-europa/"
       },
       "analysis": {
-        "mainFact": "I paesi UE avrebbero espresso la speranza che un centro sarebbe operativo nel 2027.",
-        "whyItMatters": "Creazione di un centro di rimpatrio migranti in Ruanda da parte di 5 paesi UE.",
+        "mainFact": "La manipolazione digitale sta preparando il terreno per le elezioni del 2027, dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra.",
+        "whyItMatters": "La Francia era stata individuata come uno dei principali bersagli, insieme alla Germania, anche dal Servizio europeo per l'azione esterna (SEAE) che ha descritto operazioni russe mirate a influenzare le elezioni federali tedesche del 2025.",
         "confirmedFacts": [
-          "I paesi UE avrebbero espresso la speranza che un centro sarebbe operativo nel 2027.",
-          "Creazione di un centro di rimpatrio migranti in Ruanda da parte di 5 paesi UE."
+          "La manipolazione digitale sta preparando il terreno per le elezioni del 2027, dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra.",
+          "La Francia era stata individuata come uno dei principali bersagli, insieme alla Germania, anche dal Servizio europeo per l'azione esterna (SEAE) che ha descritto operazioni russe mirate a influenzare le elezioni federali tedesche del 2025.",
+          "Dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra: come la manipolazione digitale sta preparando il terreno per le elezioni del 2027."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "AFP"
+          "Reti russe",
+          "AI slop",
+          "Fondi USA",
+          "Estrema destra",
+          "Francia",
+          "Germania",
+          "Servizio europeo per l'azione esterna (SEAE)"
         ],
         "numbersAndDates": [
-          "I paesi UE avrebbero espresso la speranza che un centro sarebbe operativo nel 2027.",
-          "2027"
+          "2027",
+          "2025"
         ]
       }
     }
