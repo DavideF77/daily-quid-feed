@@ -1,595 +1,600 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-20-00faad999bc2",
-  "generatedAt": "2026-11-20T14:47:36.943Z",
+  "catalogId": "daily-quid-2026-11-20-52577ccb3cda",
+  "generatedAt": "2026-11-20T21:10:33.397Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-06c02de56c290aeb",
-      "title": "Sul clima, la Cina potrebbe promettere di più (o forse no)",
-      "summary": "La Cina ha raggiunto in anticipo molti degli obiettivi che si è posta sul clima e secondo alcuni supererà anche quelli del 2030 e del 2035. I più critici li ritengono ancora troppo prudenti, ma dietro a obiettivi cauti si nasconde una realtà più complessa.",
-      "spokenText": "La Cina ha raggiunto in anticipo molti degli obiettivi che si è posta sul clima e secondo alcuni supererà anche quelli del 2030 e del 2035. I più critici li ritengono ancora troppo prudenti, ma dietro a obiettivi cauti si nasconde una realtà più complessa. Il paese è tra le grandi economie che crescono più in fretta (il PIL è salito del 5 per cento nel 2025) ma è anche il primo emettitore al mondo. Il paese guida le proprie politiche interne attraverso piani quinquennali e nel neonato piano in corso 2026-2030 l’obiettivo di riduzione dell’intensità di carbonio è del 17 per cento, di poco più basso del precedente. Nell’ultimo rapporto del 2026 il CAT definisce l’impegno della Cina come « altamente insufficiente ». Quello che il paese fa oggi sul clima è compatibile con un mondo a 3 °C, ma quello che si impegna a fare è compatibile con un mondo a 4 °C. La Cina afferma di voler ridurre del 7-10 per cento le emissioni rispetto al picco – ma senza indicare l’anno del picco da cui misurarlo.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "cina",
-        "cat",
-        "xi jinping",
-        "pil"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 72,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/cina-clima-promesse-obiettivi/"
-      },
-      "analysis": {
-        "mainFact": "Sul clima, la Cina potrebbe promettere di più (o forse no)",
-        "whyItMatters": "La Cina ha raggiunto in anticipo molti degli obiettivi che si è posta sul clima e secondo alcuni supererà anche quelli del 2030 e del 2035.",
-        "confirmedFacts": [
-          "Sul clima, la Cina potrebbe promettere di più (o forse no)",
-          "La Cina ha raggiunto in anticipo molti degli obiettivi che si è posta sul clima e secondo alcuni supererà anche quelli del 2030 e del 2035.",
-          "I più critici li ritengono ancora troppo prudenti, ma dietro a obiettivi cauti si nasconde una realtà più complessa.",
-          "Il paese è tra le grandi economie che crescono più in fretta (il PIL è salito del 5 per cento nel 2025) ma è anche il primo emettitore al mondo.",
-          "Il paese guida le proprie politiche interne attraverso piani quinquennali e nel neonato piano in corso 2026-2030 l’obiettivo di riduzione dell’intensità di carbonio è del 17 per cento, di poco più basso del precedente.",
-          "Nell’ultimo rapporto del 2026 il CAT definisce l’impegno della Cina come « altamente insufficiente ».",
-          "Quello che il paese fa oggi sul clima è compatibile con un mondo a 3 °C, ma quello che si impegna a fare è compatibile con un mondo a 4 °C.",
-          "la Cina afferma di voler ridurre del 7-10 per cento le emissioni rispetto al picco – ma senza indicare l’anno del picco da cui misurarlo;"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Cina",
-          "CAT",
-          "Xi Jinping",
-          "PIL"
-        ],
-        "numbersAndDates": [
-          "Il paese è tra le grandi economie che crescono più in fretta (il PIL è salito del 5 per cento nel 2025) ma è anche il primo emettitore al mondo.",
-          "Il paese guida le proprie politiche interne attraverso piani quinquennali e nel neonato piano in corso 2026-2030 l’obiettivo di riduzione dell’intensità di carbonio è del 17 per cento, di poco più basso del precedente.",
-          "Nell’ultimo rapporto del 2026 il CAT definisce l’impegno della Cina come « altamente insufficiente ».",
-          "Quello che il paese fa oggi sul clima è compatibile con un mondo a 3 °C, ma quello che si impegna a fare è compatibile con un mondo a 4 °C.",
-          "la Cina afferma di voler ridurre del 7-10 per cento le emissioni rispetto al picco – ma senza indicare l’anno del picco da cui misurarlo;",
-          "2030",
-          "2035"
-        ]
-      }
-    },
-    {
-      "id": "story-63273eaa3781d60a",
-      "title": "Verso una gestione unificata dei procedimenti e dei sopralluoghi \"in campo\"",
-      "summary": "Razionalizzazione dei monitoraggi, vincoli procedurali ed efficienza tecnico-scientifica nel raccordo tra VIA, Verifiche di Ottemperanza e AIA Il quadro normativo e procedurale dei controlli ambientali sugli impianti industriali di competenza statale ha raggiunto uno punto operativo determinante con la disciplina introdotta dal D. Lgs. 197/2026. La coesistenza presso il medesimo stabilimento della Valutazione di Impatto Ambientale (VIA), orientata all'analisi degli effetti significativi diretti e indiretti determinati dalla realizzazione dell'opera, e dell'Autorizzazione Integrata Ambientale (AIA), focalizzata sull'impatto derivante dall'esercizio continuativo dell'attività produttive, ha reso non rinviabile il superamento delle frammentazioni autorizzative ed ispettive. Tale richiesta emerge anche dal DLgs. 103 del 12 luglio 2024 in materia di semplificazione dei controlli sulle attività economiche al fine di assicurare la semplificazione degli adempimenti e delle attività di controllo, consentendo l'efficace tutela degli interessi pubblici, nonché di favorire la ripresa e il rilancio delle attività economiche.",
-      "spokenText": "Verso una gestione unificata dei procedimenti e dei sopralluoghi in campo. Le attività di verifica e controllo prescritte dal provvedimento di VIA e dalla fase di Verifica di Ottemperanza vengono gestite in modo unificato all'interno della procedura dei controlli AIA e dei procedimenti unificati. Il raccordo riguarda anche le emissioni acustiche e le vibrazioni, con l'integrazione tra i controlli di potenza sonora al perimetro dell'installazione e i rilievi fonometrici condotti presso i ricettori sensibili esterni.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "verifica di ottemperanza vo"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 30,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/verso-una-gestione-unificata-dei-procedimenti-e-dei-sopralluoghi-in-campo"
-      },
-      "analysis": {
-        "mainFact": "Verso una gestione unificata dei procedimenti e dei sopralluoghi \"in campo\"",
-        "whyItMatters": "Impianti esistenti già sottoposti a VIA: Le attività di verifica e controllo prescritte dal provvedimento di VIA e dalla fase di Verifica di Ottemperanza (VO) vengono gestite in modo unificato all'interno della procedura dei controlli AIA e dei procedimenti unificati.",
-        "confirmedFacts": [
-          "Verso una gestione unificata dei procedimenti e dei sopralluoghi \"in campo\"",
-          "Impianti esistenti già sottoposti a VIA: Le attività di verifica e controllo prescritte dal provvedimento di VIA e dalla fase di Verifica di Ottemperanza (VO) vengono gestite in modo unificato all'interno della procedura dei controlli AIA e dei procedimenti unificati.",
-          "Emissioni acustiche e vibrazioni: raccordo tra i controlli di potenza sonora al perimetro dell'installazione (PMC) e i rilievi fonometrici condotti presso i ricettori sensibili esterni (PMA)."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Verifica di Ottemperanza (VO)"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-7f2cc86213239d3f",
-      "title": "Terapia ormonale di affermazione di genere: il “ripensamento” è raro",
-      "summary": "Terapia ormonale di affermazione di genere: il “ripensamento” è rarosara. urbani Gio, 11/19/2026 - 16:08 20 Novembre 2026 Language Italian Sara Urbani La più grande indagine finora condotta su giovani persone transgender e gender diverse negli Stati Uniti mostra che la stragrande maggioranza considera una scelta positiva la terapia ormonale di affermazione di genere: quasi il 97% delle 376 persone partecipanti ha affermato che fosse la decisione giusta, mentre solo 10 hanno riferito di pentirsene. Lo studio, pubblicato sulla rivista scientifica JAMA Pediatrics, segue per anni ex pazienti che per la maggior parte hanno iniziato la terapia ormonale prima dei 18 anni in una clinica multidisciplinare specializzata. I risultati suggeriscono che il ricorso alla terapia non sia associato a un diffuso “pentimento” o a danni percepiti, e sostengono l’importanza di percorsi clinici basati su valutazione individuale, consenso informato e accompagnamento specialistico. Lo studio ha però anche dei limiti, per esempio circa metà del campione non ha risposto a tutte le survey inviate negli anni. Per questo abbiamo chiesto un parere ad Alberto Scala, medico endocrinologo del Centro di Riferimento Regionale del Veneto per l’Incongruenza di Genere, e i dati più interessanti sono che “una percentuale bassa si pente di aver iniziato una terapia ormonale da giovane e addirittura 3 persone, prima dicono che si sono pentite, ma successivamente questo sentimento rientra; quindi in retrospettiva dicono di non essersi pentite di averlo fatto. Delle 10 che effettivamente confermano questo pentimento, 7 avevano avuto degli effetti collaterali dalla terapia ormonale, come il fatto che abbia un impatto sulla fertilità (un aspetto che viene sempre trattato a più riprese prima di iniziarla). ” Leggi anche: Trans Day of Remembrance per non dimenticare le vittime della violenza Un altro dato interessante secondo Scala è che “questo è anche un numero più piccolo rispetto al 17% circa del campione di persone che hanno interrotto a un certo punto la terapia ormonale di affermazione di genere (quindi testosterone, estrogeni e antiandrogeni). Ma andando poi a vedere all’interno di questo campione, la grande maggioranza dice che comunque non si pente del suo percorso e di aver fatto anche una terapia ormonale in passato. Questo perché c’è una differenza comunque tra il rimpianto di aver cominciato un percorso medico di affermazione di genere e i motivi per cui una persona arriva a interrompere la terapia. ” I motivi per questa interruzione infatti possono essere vari: magari perché le persone hanno ottenuto ciò che volevano dalla terapia, come ci racconta Scala: “alcuni pazienti, dopo un periodo di testosterone, molto consapevolmente hanno deciso di interrompere la terapia, non perché fossero scontenti ma perché i risultati che desideravano erano già non reversibili (la peluria o il calo della voce). Per cui erano contenti del loro aspetto, ma questo non è un rimorso. Oppure altre persone possono aver avuto dei problemi di salute che le hanno portate ad interromperla, e altre ancora possono aver avuto dei problemi economici o organizzativi, come difficoltà ad accedere alle terapie o mantenere un controllo medico, soprattutto dato che è uno studio americano dove non c’è un sistema sanitario universalistico. ” Le linee guida per le persone minorenni Quando si parla di terapie ormonali per le persone minori è inevitabilmente necessaria un’attenzione anche maggiore di quella riservata ai pazienti adulti, e in Italia il discrimine d’età sono i 16 anni “circa”. Non basta infatti un dato squisitamente anagrafico, ma serve prima una valutazione in equipe: “queste persone fanno un percorso con una psicologa dell’età evolutiva, una neuropsichiatra infantile e degli accertamenti endocrinologici – sottolinea Alberto Scala – perché uno degli obiettivi è anche quello di valutare la maturità del minore rispetto alla scelta di cominciare una terapia come quella ormonale che è parzialmente irreversibile. Ci saranno persone che avranno una maturità più precoce rispetto ad altre che, magari, anche a 16 anni hanno bisogno di un po’ più di tempo per capire l’importanza di questa scelta e ovviamente nella decisione devono essere coinvolti e danno l’assenso i genitori. ” Ecco spiegato il motivo dell’indicazione dei 16 anni “circa” come è riportato nelle note dell’AIFA (Agenzia Italiana del Farmaco) e in vari altri documenti. Su questi temi le principali linee guida italiane sono quelle di SIGIS (Società Italiana Genere, Identità e Salute), SIAMS (Società Italiana di Andrologia e Medicina della Sessualità) e SIE (Società Italiana di Endocrinologia). Mentre i punti di riferimento a livello internazionale sono gli standard of care della WPATH (World Professional Association for Transgender Health) e le linee guida dell’Endocrine Society. Un punto su cui tutte le linee guida per l’affermazione di genere ritornano più volte è il rischio di infertilità futura, come spiega Scala: “il tema della fertilità viene ripreso nel percorso psicologico, prima dell’inizio di una terapia ormonale e prima di qualsiasi chirurgia genitale che possa compromettere la fertilità. La genitorialità, gli effetti delle terapie ormonali e le opzioni di preservazione della fertilità sono discusse ampiamente con i pazienti, sia con le persone adulte sia con quelle minorenni (in cui c’è la sfida ulteriore del fatto che si chiede loro di anticipare un po’ i tempi rispetto a una riflessione sulla propria genitorialità). ” Ma esistono anche delle soluzioni in grado di preservare la propria fertilità, per esempio con la conservazione dei gameti (ovuli e spermatozoi) prima di iniziare il percorso di affermazione di genere. Questo vale anche per i/le più giovani perché “quando si parla di terapia ormonale – conclude Scala – sono comunque persone che hanno circa 16 anni e quindi hanno già avuto il loro sviluppo gonadico ed è possibile congelare il liquido seminale o fare una stimolazione ovarica e un successivo pick up ovocitario. ” Due pesi e due misure? Tornando ai dati dello studio pubblicato su JAMA Pediatrics, una della argomentazioni più usate da chi pensa che le persone più giovani non siano in grado di scegliere consapevolmente, è il numero di ripensamenti dopo la transizione di genere. Ma esiste una percentuale di persone “pentite” dopo qualsiasi intervento terapeutico, compresa per esempio la mastectomia, eppure in altri casi non viene usata per mettere in discussione l’opportunità della terapia. E allora perché anche una piccola percentuale di ripensamenti sui percorsi di affermazione di genere viene spesso usata per contestarla in toto? Non sembra una disparità di trattamento? Per Alberto Scala la risposta è “sì, con tutti i caveat della situazione. Nel senso che lo scopo non potrà mai essere avere un rischio di pentimento zero, lo scopo è di portare la persona (e per i minori anche il sistema familiare) a prendere una decisione pienamente informata e consapevole rispetto all’inizio di una terapia ormonale. Partendo anche da un’altra considerazione, cioè che anche non fare nulla ha delle conseguenze concrete sul benessere della persona. ” Un monito da tenere sempre a mente, soprattutto in occasione del Transgender Day of Remembrance, la giornata internazionale dedicata alle vittime della transfobia. Leggi anche: Trump e la “crociata” contro le persone transgender Queste dunque sono le riflessioni che fungono da guida “mentre conduciamo il counseling o le nostre valutazioni – prosegue Scala – e se sono state effettivamente attente, approfondite, con spazio anche per esplorare i dubbi, abbiamo fatto il nostro lavoro. Abbiamo accompagnato la persona nel prendere una decisione che, in fin dei conti, è solamente sua (o condivisa con i genitori, ma rimangono comunque decisioni personali). Sicuramente non si chiede mai in altri ambiti della medicina: se il paziente si è pentito. ” Quando si parla di percorsi medici di affermazione di genere, serve forse un cambio di paradigma come chiosa Scala: “sicuramente il fatto di non avere di fronte una malattia fa sì che il counseling debba essere particolarmente accurato, ed è così. Quando c’è una patologia e c’è una proposta di cura è tutto più lineare. In questo caso, non abbiamo una malattia, ma una richiesta comunque di stare bene, di avere un corpo che si allinei maggiormente con la propria identità, quindi non lavoriamo con la malattia, ma con la salute. Non potremo mai evitare che ci possa essere qualcuno che si penta, ma d’altronde rimane una sua decisione” che deve essere appunto il più informata possibile. SCIENZA E RICERCA Uno studio pubblicato su JAMA Pediatrics su 376 giovani persone transgender e gender diverse mostra che quasi il 97% considera positiva la terapia ormonale di affermazione di genere SOCIETÀ 28 GIUGNO 2025 Rainbow Map 2025: l’Italia arretra nei diritti LGBTQIA+ MONDO SALUTE 21 DICEMBRE 2022 In Salute. Adolescenti transgender: il supporto psicologico nei percorsi di affermazione di genere SOCIETÀ 20 GENNAIO 2026 Omotransfobia. Un’indagine globale sui fattori che minano il benessere delle persone LGBTQ+ NELLA STESSA CATEGORIA Ateneo_sito 1 Off",
-      "spokenText": "La terapia ormonale di affermazione di genere è raramente oggetto di ripensamento. È quanto emerge da uno studio pubblicato su JAMA Pediatrics, che ha seguito per anni ex pazienti, per la maggior parte iniziati al percorso prima dei 18 anni in una clinica multidisciplinare specializzata. I risultati suggeriscono che il ricorso alla terapia non sia associato a un diffuso pentimento o a danni percepiti, sottolineando l'importanza di percorsi clinici basati su valutazione individuale, consenso informato e accompagnamento specialistico. Lo studio presenta comunque alcuni limiti, come il fatto che circa metà del campione non abbia risposto a tutte le survey inviate negli anni. A livello nazionale, i punti di riferimento sono le linee guida di SIGIS, SIAMS e SIE, mentre a livello internazionale si seguono gli standard of care della WPATH e quelli dell'Endocrine Society. magari perché le persone hanno ottenuto ciò che volevano dalla terapia, come ci racconta Scala.",
+      "id": "story-748bac694bebc7a2",
+      "title": "A Spoleto nasce il 'Curi', centro di ricerca per la medicina del futuro",
+      "summary": "Ia, automazione e scienze omiche per diagnosi più precoci e terapie su misura",
+      "spokenText": "A Spoleto nasce il Curi, un nuovo centro di ricerca dedicato alla medicina del futuro. L'iniziativa si fonda su un investimento di cinque milioni di euro e punta a integrare competenze scientifiche, tecnologie avanzate e ricerca multidisciplinare per avvicinare la medicina di precisione alla pratica clinica. Al centro della struttura si trova una piattaforma tecnologica che combina scienze omiche, intelligenza artificiale, automazione e chimica computazionale, con l'obiettivo di rendere le diagnosi più precoci e le terapie sempre più su misura.",
       "category": "salute",
       "tags": [
         "salute",
-        "jama pediatrics",
-        "sigis",
-        "siams",
-        "sie",
-        "wpath",
-        "endocrine society"
+        "curi",
+        "spoleto",
+        "intelligenza artificiale",
+        "scienze omiche",
+        "automazione",
+        "chimica computazionale"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 60,
+      "estimatedSeconds": 32,
       "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/scienza-ricerca/terapia-ormonale-affermazione-genere-ripensamento"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/a-spoleto-nasce-il-curi-centro-di-ricerca-per-la-medicina-del-futuro_e09f9dd4-5077-49b1-a81f-db25a37d3ca5.html"
       },
       "analysis": {
-        "mainFact": "Terapia ormonale di affermazione di genere: il “ripensamento” è raro",
-        "whyItMatters": "Lo studio, pubblicato sulla rivista scientifica JAMA Pediatrics , segue per anni ex pazienti che per la maggior parte hanno iniziato la terapia ormonale prima dei 18 anni in una clinica multidisciplinare specializzata.",
+        "mainFact": "A Spoleto nasce il 'Curi', centro di ricerca per la medicina del futuro",
+        "whyItMatters": "Con un investimento di 5 milioni di euro, il centro mette insieme competenze scientifiche, tecnologie avanzate e ricerca multidisciplinare per avvicinare la medicina di precisione alla pratica clinica.",
         "confirmedFacts": [
-          "Terapia ormonale di affermazione di genere: il “ripensamento” è raro",
-          "Lo studio, pubblicato sulla rivista scientifica JAMA Pediatrics , segue per anni ex pazienti che per la maggior parte hanno iniziato la terapia ormonale prima dei 18 anni in una clinica multidisciplinare specializzata.",
-          "Lo studio ha però anche dei limiti, per esempio circa metà del campione non ha risposto a tutte le survey inviate negli anni.",
-          "Su questi temi le principali linee guida italiane sono quelle di SIGIS (Società Italiana Genere, Identità e Salute), SIAMS (Società Italiana di Andrologia e Medicina della Sessualità) e SIE (Società Italiana di Endocrinologia).",
-          "Mentre i punti di riferimento a livello internazionale sono gli standard of care della WPATH ( World Professional Association for Transgender Health ) e le linee guida dell’ Endocrine Society .",
-          "Ma andando poi a vedere all’interno di questo campione, la grande maggioranza dice che comunque non si pente del suo percorso e di aver fatto anche una terapia ormonale in passato.",
-          "magari perché le persone hanno ottenuto ciò che volevano dalla terapia, come ci racconta Scala:"
-        ],
-        "uncertainties": [
-          "I risultati suggeriscono che il ricorso alla terapia non sia associato a un diffuso “pentimento” o a danni percepiti, e sostengono l’importanza di percorsi clinici basati su valutazione individuale, consenso informato e accompagnamento specialistico."
-        ],
-        "peopleAndOrganizations": [
-          "JAMA Pediatrics",
-          "SIGIS",
-          "SIAMS",
-          "SIE",
-          "WPATH",
-          "Endocrine Society"
-        ],
-        "numbersAndDates": [
-          "18"
-        ]
-      }
-    },
-    {
-      "id": "story-d03043b5b1fdd26f",
-      "title": "Tumori resistenti ai farmaci: dal butirrato una possibile risposta",
-      "summary": "Il sodio butirrato ha aumentato la sensibilità ai trattamenti in alcuni modelli di cellule tumorali resistenti. Uno studio dell’Università di Bari collega questo risultato a cambiamenti nel metabolismo e apre una domanda su come intervenire sui processi che accompagnano la farmacoresistenza: lo racconta Antonio Mazzocca, coordinatore dello studio",
-      "spokenText": "Il sodio butirrato ha aumentato la sensibilità ai trattamenti in alcuni modelli di cellule tumorali resistenti. Uno studio dell’Università di Bari collega questo risultato a cambiamenti nel metabolismo e apre una domanda su come intervenire sui processi che accompagnano la farmacoresistenza: lo racconta Antonio Mazzocca, coordinatore dello studio. Per esempio, nelle cellule del colon resistenti, la combinazione di sodio butirrato e 5-fluorouracile ha determinato una marcata diminuzione di quest’ultimo. Per comprendere questo risultato siamo partiti da una domanda: quali cambiamenti metabolici accompagnano la resistenza e che cosa succede quando si interviene su di essi?",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "sodio butirrato",
-        "universita di bari",
-        "antonio mazzocca",
-        "journal of biological chemistry",
-        "cellule tumorali resistenti",
-        "5 fluorouracile"
-      ],
-      "importance": 90,
-      "mustInclude": false,
-      "estimatedSeconds": 38,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/tumori-resistenti-farmaci-butirrato/"
-      },
-      "analysis": {
-        "mainFact": "Il sodio butirrato ha aumentato la sensibilità ai trattamenti in alcuni modelli di cellule tumorali resistenti.",
-        "whyItMatters": "Uno studio dell’Università di Bari collega questo risultato a cambiamenti nel metabolismo e apre una domanda su come intervenire sui processi che accompagnano la farmacoresistenza: lo racconta Antonio Mazzocca, coordinatore dello studio.",
-        "confirmedFacts": [
-          "Il sodio butirrato ha aumentato la sensibilità ai trattamenti in alcuni modelli di cellule tumorali resistenti.",
-          "Uno studio dell’Università di Bari collega questo risultato a cambiamenti nel metabolismo e apre una domanda su come intervenire sui processi che accompagnano la farmacoresistenza: lo racconta Antonio Mazzocca, coordinatore dello studio.",
-          "Per esempio, nelle cellule del colon resistenti, la combinazione di sodio butirrato e 5-fluorouracile ha determinato una marcata diminuzione di quest’ultimo.",
-          "Nel lavoro pubblicato sul Journal of Biological Chemistry abbiamo osservato che il sodio butirrato può aumentare la sensibilità ai farmaci in alcuni modelli cellulari diventati resistenti.",
-          "Per comprendere questo risultato siamo partiti da una domanda: quali cambiamenti metabolici accompagnano la resistenza e che cosa succede quando si interviene su di essi?",
-          "Analogamente, un aumento della sensibilità è stato osservato anche nelle cellule tumorali resistenti della mammella.",
-          "Il risultato più rilevante riguarda la risposta ai trattamenti: il sodio butirrato ha aumentato la sensibilità ai farmaci in alcuni dei modelli resistenti esaminati."
+          "A Spoleto nasce il 'Curi', centro di ricerca per la medicina del futuro",
+          "Con un investimento di 5 milioni di euro, il centro mette insieme competenze scientifiche, tecnologie avanzate e ricerca multidisciplinare per avvicinare la medicina di precisione alla pratica clinica.",
+          "Ia, automazione e scienze omiche per diagnosi più precoci e terapie su misura",
+          "Il cuore del Curi una piattaforma tecnologica che integra scienze omiche, intelligenza artificiale, automazione e chimica computazionale."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "sodio butirrato",
-          "Università di Bari",
-          "Antonio Mazzocca",
-          "Journal of Biological Chemistry",
-          "cellule tumorali resistenti",
-          "5-fluorouracile"
+          "Curi",
+          "Spoleto",
+          "intelligenza artificiale",
+          "scienze omiche",
+          "automazione",
+          "chimica computazionale"
         ],
         "numbersAndDates": [
-          "Per esempio, nelle cellule del colon resistenti, la combinazione di sodio butirrato e 5-fluorouracile ha determinato una marcata diminuzione di quest’ultimo."
+          "5"
         ]
       }
     },
     {
-      "id": "story-0d19263ab5d8cd27",
-      "title": "Xi, Putin e Trump lasciano fuori l'Europa",
-      "summary": "Xi, Putin e Trump lasciano fuori l'Europamattia Gio, 11/19/2026 - 20:14 20 Novembre 2026 Language Italian Mattia Sopelsa Il primo incontro a tre tra i leader di Cina, Russia e Stati Uniti si è chiuso il 19 novembre 2026 a Shenzhen, a margine del vertice della Cooperazione economica Asia-Pacifico (APEC), con un testo di poche righe. La dichiarazione sulla pace diffusa da Xinhua si apre con il ringraziamento di Vladimir Putin e Donald Trump alla Cina di Xi Jinping per aver ospitato l'incontro, poi elenca quattro punti: la riforma delle Nazioni Unite, che i tre paesi si impegnano a promuovere in quanto membri permanenti del Consiglio di sicurezza; l'aumento della produzione e delle forniture di prodotti petroliferi raffinati e la stabilità dei flussi energetici; il principio del consenso statale e il rispetto dell'immunità dei funzionari di Stato, definiti di importanza cruciale, con l'impegno a far sì che la Corte penale internazionale e gli organismi simili “non abusino della propria giurisdizione”; infine la formula per cui una guerra nucleare “non si può vincere e non si deve combattere”, accompagnata dalla promessa di un dialogo a tre sulla riduzione dei rischi nucleari e sulla non proliferazione. Nel testo non compaiono né l'Ucraina né l'Europa. Poche ore dopo, a Berlino, il cancelliere Friedrich Merz accoglieva insieme al presidente francese Emmanuel Macron e al premier britannico Andy Burnham i leader della Coalizione dei volenterosi, la rete di paesi che sostiene Kyiv. Le due immagini raccontano una divisione dei ruoli che va oltre la giornata e che dimostra una contrapposizione politica non di poco conto. Il ministro degli Esteri francese Jean-Noël Barrot, intervistato da RTL, ha sostenuto che i tre leader riuniti in Cina \"sono fondamentalmente in disaccordo su tutto, quindi non possono mettersi d'accordo su niente\" e che quella di Shenzhen non è la fotografia delle tre maggiori potenze del mondo\". Più dura la reazione di Kyiv: mentre un nuovo attacco russo con droni colpiva la capitale, raggiungendo anche la zona delle ambasciate austriaca e olandese, il ministro degli Esteri ucraino Andrii Sybiha ha scritto su X che Putin “si è atteggiato a leader globale a Shenzhen”, ma che “in realtà è un criminale e terrorista globale” e “dovrebbe essere trattato come tale”. Al di là delle reazioni, la dichiarazione, per quanto esile, mette nero su bianco un'agenda che tocca da vicino gli interessi europei senza che questa sia stata contemplata. È questo, più del paragone storico che ha accompagnato la vigilia, il punto su cui misurare il vertice. SOCIETÀ The Austrian Embassy in Kyiv has also been damaged as a result of Russia’s terrorist strikes on our capital. In reality, he is a global criminal and terrorist. And he should be treated as such. We express our full solidarity with our Austrian colleagues and urge a strong international response to Russia’s brutal attacks. @BMeinl — Andrii Sybiha 🇺🇦 (@andrii_sybiha) November 19, 2026 La Yalta del 1945 Il paragone con Yalta ha preceduto il vertice per settimane, e la conferenza del 1945 è ormai diventata sinonimo di accordi tra grandi potenze imposti ai paesi più piccoli. Sul piano storico, però, il confronto non regge molto. A Yalta, tra il 4 e l'11 febbraio 1945, l'Europa occidentale era al tavolo con Winston Churchill, accanto a Franklin D. Roosevelt e Iosif Stalin, e i tre decisero tra l'altro che anche la Francia, pur assente, avrebbe partecipato al governo della Germania sconfitta e avrebbe avuto un seggio permanente nel Consiglio di sicurezza delle future Nazioni Unite. A essere oggetto della trattativa fu semmai la Cina, perché in cambio dell'ingresso nella guerra contro il Giappone l'Unione Sovietica ottenne una sfera d'influenza in Manciuria, oltre a Sakhalin meridionale e alle isole Curili. È anche per questo che Xi, come ha scritto il Financial Times, voleva valorizzare il rapporto con i suoi due ospiti evitando però l'accostamento a una conferenza che escluse la Cina nonostante il ruolo avuto in quel conflitto. Il portavoce del Cremlino Dmitrij Peskov, citato da Interfax, ha liquidato l'analogia come un insieme di “giochi da politologi che non hanno niente a che fare con la realtà”. La smentita ufficiale convive tuttavia con un'altra lettura, diffusa proprio a Mosca. Lo stesso Financial Times rileva che la Russia non fa mistero di volere una “Yalta moderna” che rifletta i propri obiettivi in Europa. Per Alexander Gabuev, direttore del Carnegie Russia Eurasia Center, il guadagno di Putin sta nell'immagine: sedere accanto a Trump e a Xi gli restituisce lo status di leader mondiale di primo piano, anche se la Russia, arsenale nucleare a parte, non è alla pari di Stati Uniti e Cina. Più cauto, alla vigilia del vertice, Paolo Magri, presidente del Comitato scientifico dell'Istituto per gli studi di politica internazionale (ISPI), che in un'intervista a QN definiva “un'ipotesi” l'idea che i tre “si incontrino per decidere i destini del mondo” e li descriveva come “imperatori per desiderio. Ma gli imperi non ci sono”. La dichiarazione uscita da Shenzhen, in effetti, non ha spartito nulla. Resta però il formato: un tavolo ristretto in cui tre leader hanno messo per iscritto impegni su questioni che toccano anche chi non era stato invitato. Strategie e finanziamenti divergenti sull’Ucraina Se l'agenda si scrive altrove, il conto economico resta tutto accollato all’Europa, ed è di questo che si è discusso durante il vertice dei volenterosi a Berlino. Le cifre sono note: nel 2027 all'Ucraina mancheranno 70 miliardi di euro, e il 18 novembre la Commissione europea ha proposto di coprirne 45 con un nuovo prestito, diviso tra aiuti militari (25 miliardi) e sostegno al bilancio (20), lasciandone così scoperti 25. Il prestito deve però ancora essere approvato dai leader dell'Unione: Slovacchia, Repubblica Ceca, Ungheria e Bulgaria hanno già fatto sapere che non intendono parteciparvi. Il cancelliere tedesco ha insistito sulla necessità degli aiuti economici, minacciando anche il veto sul prossimo bilancio europeo nel caso di un mancato accordo: serve il contributo di tutti “affinché l’Ucraina possa difendersi finché dovrà farlo e per rendere possibili i negoziati di pace”. @SEPeaceMissions and I had a very productive meeting today with German Chancellor @_FriedrichMerz and his National Security Advisor Günter Sautter. We updated them on @realDonaldTrump discussions in China and the latest efforts to achieve a just, lasting and durable peace in Ukraine. We continue to work in close coordination with Germany, Ukraine and our European partners to align our positions and prepare for the next round of negotiations. Chancellor Merz is a strong advocate for peace in Ukraine and a strong Euro-Atlantic alliance. We are grateful for his leadership, constructive engagement, and close partnership as we work together toward our shared goal of ending this terrible war and building a secure and prosperous future for Ukraine and Europe. — Jared Kushner (@jaredkushner) November 19, 2026 Assenti gli europei a Shenzhen, a Berlino gli Stati Uniti erano invece presenti: gli inviati di Trump, Steve Witkoff e Jared Kushner, hanno aggiornato Merz sui colloqui in Cina, e Kushner ha poi assicurato su X che Washington continua a lavorare “in stretto coordinamento con la Germania, l'Ucraina e i nostri partner europei”. Il canale con l'amministrazione americana resta quindi aperto, ma è affidato agli inviati, non al presidente che a Shenzhen si è seduto accanto a Xi e Putin. La distanza tra le due sponde dell'Atlantico, però, non si misura soltanto sui formati negoziali. Secondo quanto ricostruito da Politico sulla base delle testimonianze di alcuni funzionari europei informati della conversazione, a poche ore dal trilaterale di Shenzhen, Trump si sarebbe collegato telefonicamente con il vertice dall'Air Force One per chiedere agli alleati perché continuassero a spendere miliardi per sostenere militarmente Kiev. Avrebbe lamentato che quel denaro venisse sprecato e si sarebbe detto convinto che Putin avrebbe collaborato ai negoziati di pace. È una ricostruzione che renderebbe ancora più netto lo scarto tra il peso che l'Europa si prepara a sostenere e il posto che le viene riconosciuto. Lo schema non è nuovo. Nel febbraio 2025, a Riad, i colloqui tra il segretario di Stato americano Marco Rubio e il ministro degli Esteri russo Sergej Lavrov si erano svolti senza ucraini né rappresentanti UE, e nell'agosto dello stesso anno Trump e Putin si erano incontrati da soli in Alaska. Che il posto dell'Europa non sia affatto garantito lo ha chiarito lo stesso Putin. Nella conferenza stampa tenuta in Cina, dopo il trilaterale, il presidente russo ha sostenuto che è la parte americana a premere con insistenza per il coinvolgimento degli europei e ha riconosciuto, allo stesso tempo, che discutere di sicurezza, “compresa quella in Europa, senza gli europei non ha senso”. Subito dopo, però, ha precisato che la Russia vuole prima capire “che cosa porterà l'Europa a questi negoziati” e che per questo ha proposto che i rappresentanti europei vadano a Mosca a definire la loro posizione: solo allora, ha detto, il Cremlino deciderà “in quale formato proseguire il dialogo con l'Ucraina”. L'Europa vista da Pechino Per il paese che ha ospitato e presieduto l'incontro, l'assenza dell'Europa non è un dettaglio. Una fonte informata e un diplomatico europeo hanno raccontato a Reuters che Pechino si era opposta all'inserimento dell'Ucraina nell'agenda: il colosso orientale non vuole apparire come mediatore in assenza di Kiev e dei leader europei. Per Xi, la guerra, pur rimanendo un problema europeo, non deve creare troppi attriti alle sue politiche commerciali e diplomatiche. Se il vertice di Shenzhen doveva essere la dimostrazione del potere diplomatico cinese, doveva essere allo stesso tempo un modo per non irritare l'Europa. Il rischio, per la Cina, è che la foto a tre con Putin e Trump possa costare caro nel rapporto con Bruxelles, allontanando i partner europei proprio mentre la Cina ha bisogno di un accesso agevole al mercato per collocare la propria sovraccapacità produttiva. La sedia vuota dell'Europa Il bilancio della giornata è meno netto di quanto suggerisse il paragone con Yalta. A Shenzhen non si è deciso il destino di nessuno, e la dichiarazione finale non contiene impegni misurabili né sull'Ucraina né sulle armi nucleari. Eppure i tre leader hanno scritto, su questioni che riguardano da vicino il continente, un testo che l'Europa non ha potuto discutere, e quello stesso giorno gli europei si ritrovavano a Berlino per sostenere, in gran parte da soli, i costi della guerra in Ucraina. Barrot rivendica per l'Unione un posto tra le tre maggiori potenze, e Merz, nella conferenza stampa al termine del vertice, ha rovesciato il paragone storico con Yalta in un avvertimento: “Un formato Yalta non porterà la pace”, perché senza gli europei, ha aggiunto, in “Ucraina la pace non ci sarà”. Ha poi derubricato il vertice in Cina, parlando di una mera passerella per farsi fotografare. Il prossimo appuntamento di “gala” della politica internazionale sarà il G20 che Trump ospiterà a metà dicembre in Florida: quale sarà il peso dell’Europa dopo le vicende di Shenzhen e quelle di Berlino? NELLA STESSA CATEGORIA Il presidente russo Vladimir Putin, il presidente cinese Xi Jinping e il presidente degli Stati Uniti Donald Trump al trilaterale di Shenzen a margine del meeting APEC - Win McNamee/Pool via REUTERS 1 Off",
-      "spokenText": "Vladimir Putin e Donald Trump lasciano fuori l'Europa. Il confronto tra i tre leader richiama quanto avvenuto a Yalta, tra il 4 e l'11 febbraio 1945, quando l'Europa occidentale era al tavolo con Winston Churchill, accanto a Franklin D. Tra i punti affrontati figurano la riforma delle Nazioni Unite, che i tre paesi si impegnano a promuovere in quanto membri permanenti del Consiglio di sicurezza, l'aumento della produzione e delle forniture di prodotti petroliferi raffinati e la stabilità dei flussi energetici. Viene inoltre ribadito il principio del consenso statale e il rispetto dell'immunità dei funzionari di Stato, con l'impegno affinché la Corte penale internazionale e gli organismi simili non abusino della propria giurisdizione. Infine, i tre leader sottolineano che una guerra nucleare non si può vincere e non si deve combattere, promettendo un dialogo a tre sulla riduzione dei rischi nucleari e sulla non proliferazione. Poche ore dopo, a Berlino, il cancelliere Friedrich Merz accoglieva insieme al presidente francese Emmanuel Macron e al premier britannico Andy Burnham i leader della Coalizione dei volenterosi, la rete di paesi che sostiene Kyiv. nel testo non compaiono né l'Ucraina né l'Europa.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "xi jinping",
-        "vladimir putin",
-        "donald trump",
-        "europa",
-        "ucraina",
-        "berlino",
-        "coalizione dei volenterosi"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 76,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/xi-putin-trump-lasciano-fuori-europa-shenzhen"
-      },
-      "analysis": {
-        "mainFact": "Xi, Putin e Trump lasciano fuori l'Europa",
-        "whyItMatters": "nel testo non compaiono né l'Ucraina né l'Europa.",
-        "confirmedFacts": [
-          "Xi, Putin e Trump lasciano fuori l'Europa",
-          "nel testo non compaiono né l'Ucraina né l'Europa.",
-          "A Yalta, tra il 4 e l'11 febbraio 1945, l'Europa occidentale era al tavolo con Winston Churchill, accanto a Franklin D.",
-          "la riforma delle Nazioni Unite, che i tre paesi si impegnano a promuovere in quanto membri permanenti del Consiglio di sicurezza;",
-          "l'aumento della produzione e delle forniture di prodotti petroliferi raffinati e la stabilità dei flussi energetici;",
-          "il principio del consenso statale e il rispetto dell'immunità dei funzionari di Stato, definiti di importanza cruciale, con l'impegno a far sì che la Corte penale internazionale e gli organismi simili “non abusino della propria giurisdizione” ;",
-          "infine la formula per cui una guerra nucleare “non si può vincere e non si deve combattere”, accompagnata dalla promessa di un dialogo a tre sulla riduzione dei rischi nucleari e sulla non proliferazione ."
-        ],
-        "uncertainties": [
-          "Poche ore dopo, a Berlino, il cancelliere Friedrich Merz accoglieva insieme al presidente francese Emmanuel Macron e al premier britannico Andy Burnham i leader della Coalizione dei volenterosi , la rete di paesi che sostiene Kyiv."
-        ],
-        "peopleAndOrganizations": [
-          "Xi Jinping",
-          "Vladimir Putin",
-          "Donald Trump",
-          "Europa",
-          "Ucraina",
-          "Berlino",
-          "Coalizione dei volenterosi"
-        ],
-        "numbersAndDates": [
-          "A Yalta, tra il 4 e l'11 febbraio 1945, l'Europa occidentale era al tavolo con Winston Churchill, accanto a Franklin D."
-        ]
-      }
-    },
-    {
-      "id": "story-c0903594207fcad6",
-      "title": "Tusk: 'L'incursione nel nostro spazio aereo una provocazione intenzionale russa\"",
-      "summary": "Due missili e un drone militare russo caduti sul territorio polacco, mobilitati i jet. Rutte: \"Incidente pericoloso\"",
-      "spokenText": "Due missili e un drone militare russo caduti sul territorio polacco, mobilitati i jet. Ministro polacco, 'due missili. 'Gravi violazioni dello spazio aereo, in risposta sono stati mobilitati jet della Nato'. Questo incidente è chiaramente pericoloso: una conseguenza della guerra in corso della Russia contro l'Ucraina.",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "polonia",
-        "russia",
-        "nato",
-        "rutte",
-        "tusk",
-        "ucraina"
-      ],
-      "importance": 65,
-      "mustInclude": false,
-      "estimatedSeconds": 19,
-      "source": {
-        "name": "ANSA Primapagina",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/tusk-lincursione-nel-nostro-spazio-aereo-una-provocazione-intenzionale-russa_6104402c-305d-441e-a983-2c8dfb41bd5e.html"
-      },
-      "analysis": {
-        "mainFact": "Due missili e un drone militare russo caduti sul territorio polacco, mobilitati i jet.",
-        "whyItMatters": "Ministro polacco, 'due missili e un drone russo caduti su nostro territorio'",
-        "confirmedFacts": [
-          "Due missili e un drone militare russo caduti sul territorio polacco, mobilitati i jet.",
-          "Ministro polacco, 'due missili e un drone russo caduti su nostro territorio'",
-          "'Gravi violazioni dello spazio aereo, in risposta sono stati mobilitati jet della Nato'",
-          "Due missili e un drone militare russo sono caduti stanotte sul territorio polacco a seguito dell'attacco russo sulle regione ovest dell'Ucraina .",
-          "Questo incidente è chiaramente pericoloso: una conseguenza della guerra in corso della Russia contro l'Ucraina."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Polonia",
-          "Russia",
-          "Nato",
-          "Rutte",
-          "Tusk",
-          "Ucraina"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-3bffcfb77ad2dd46",
-      "title": "Borse, si spegne l’entusiasmo su Anthropic. Forti vendite sui tech",
-      "summary": "Il debutto record del gigante AI non attenuta i timori sul settore. I listini globali perdono terreno per la settima seduta consecutiva mentre gli investitori si rifugiano in porti sicuri e fanno scendere i rendimenti dei Treasury. In calo il petrolio",
-      "spokenText": "Il debutto record del gigante AI non attenua i timori sul settore. Gli investitori preferiscono rifugiarsi in porti sicuri come bond, yen e franco svizzero, spingendo in rosso l’indice globale Msci All Country World per la settima seduta consecutiva: è la striscia peggiore dal settembre 2023. I listini globali perdono terreno per la settima seduta consecutiva mentre gli investitori si rifugiano in porti sicuri e fanno scendere i rendimenti dei Treasury. Sul piano dell’energia il prezzo del petrolio è in calo, sebbene gli attacchi dei ribelli Houthi contro la capitale dell’Arabia Saudita Riad alimentino i timori sulla tenuta dell’offerta di greggio: il future gennaio sul Wti è in area 82 dollari al barile e il Brent sui 90 dollari.",
+      "id": "story-a3d877a09cf52b37",
+      "title": "Bce: presidenza alla Spagna, per Parigi e Berlino ruoli chiave",
+      "summary": "Avviata la procedura per il cambio al vertice con de Cos nuovo numero uno. La francese Boone e il tedesco Brunnermeier verso il comitato esecutivo al posto di Schnabel e Philip Lane",
+      "spokenText": "La presidenza della Bce passa alla Spagna con de Cos nuovo numero uno, mentre la francese Boone e il tedesco Brunnermeier si avviano verso il comitato esecutivo al posto di Schnabel e Philip Lane. Si tratta della prima volta dal 2020 che si avvia questa procedura di cambio al vertice della Bce con presidenza alla Spagna e ruoli chiave per Parigi e Berlino. Brunnermeier diventerà il nuovo capo economista quando Philip Lane terminerà l'incarico il 31 maggio alla scadenza prevista. De Cos, nato nel 1971, è l'attuale direttore generale della Banca dei regolamenti internazionali ed ex-governatore della Banca di Spagna, dove il suo lavoro è stato definito eccezionale.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "anthropic",
-        "msci all country world",
-        "treasury",
-        "wti",
-        "brent"
+        "bce",
+        "spagna",
+        "parigi",
+        "berlino",
+        "de cos",
+        "boone",
+        "brunnermeier",
+        "schnabel",
+        "philip lane"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 44,
+      "source": {
+        "name": "Il Sole 24 Ore - Mondo",
+        "url": "https://www.ilsole24ore.com/art/bce-presidenza-spagna-parigi-e-berlino-ruoli-chiave-AJWIepNC"
+      },
+      "analysis": {
+        "mainFact": "La presidenza della Bce va alla Spagna con de Cos nuovo numero uno, mentre la francese Boone e il tedesco Brunnermeier vanno verso il comitato esecutivo al posto di Schnabel e Philip Lane.",
+        "whyItMatters": "È la prima volta dal 2020 che si avvia questa procedura di cambio al vertice della Bce con presidenza alla Spagna e ruoli chiave per Parigi e Berlino.",
+        "confirmedFacts": [
+          "La presidenza della Bce va alla Spagna con de Cos nuovo numero uno, mentre la francese Boone e il tedesco Brunnermeier vanno verso il comitato esecutivo al posto di Schnabel e Philip Lane.",
+          "È la prima volta dal 2020 che si avvia questa procedura di cambio al vertice della Bce con presidenza alla Spagna e ruoli chiave per Parigi e Berlino.",
+          "Brunnermeier , tedesco, diventerà il nuovo capo economista quando Philip Lane terminerà l’incarico il 31 maggio alla scadenza prevista.",
+          "Chi sono i protagonisti del “tridente” De Cos , nato nel 1971, è l’attuale direttore generale della Banca dei regolamenti internazionali (Bri) ed ex-governatore della Banca di Spagna, dove il suo lavoro è stato definito «eccezionale»."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Bce",
+          "Spagna",
+          "Parigi",
+          "Berlino",
+          "de Cos",
+          "Boone",
+          "Brunnermeier",
+          "Schnabel",
+          "Philip Lane"
+        ],
+        "numbersAndDates": [
+          "Brunnermeier , tedesco, diventerà il nuovo capo economista quando Philip Lane terminerà l’incarico il 31 maggio alla scadenza prevista.",
+          "Chi sono i protagonisti del “tridente” De Cos , nato nel 1971, è l’attuale direttore generale della Banca dei regolamenti internazionali (Bri) ed ex-governatore della Banca di Spagna, dove il suo lavoro è stato definito «eccezionale».",
+          "2020"
+        ]
+      }
+    },
+    {
+      "id": "story-045c8747c5f7dc43",
+      "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'",
+      "summary": "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
+      "spokenText": "Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa. 'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'. Xi abbiamo concordato di mettere paletti congiunti sull’intelligenza artificiale» 20 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Donald Trump. «Putin vuole risolvere la guerra con mezzi diplomatici» Parlando del conflitto in Europa, Trump ha detto che Vladimir Putin vuole che la guerra con l’Ucraina «finisca attraverso mezzi diplomatici».",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "trump",
+        "big tech",
+        "cina",
+        "stati uniti",
+        "data center"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 48,
+      "estimatedSeconds": 32,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/borse-asiatiche-calo-anthropic-cauta-il-debutto-record-AJpG3xMC"
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html"
       },
       "analysis": {
-        "mainFact": "Il debutto record del gigante AI non attenua i timori sul settore.",
-        "whyItMatters": "Gli investitori preferiscono rifugiarsi in porti sicuri come bond, yen e franco svizzero, spingendo in rosso l’indice globale Msci All Country World per la settima seduta consecutiva: è la striscia peggiore dal settembre 2023.",
+        "mainFact": "Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa",
+        "whyItMatters": "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
         "confirmedFacts": [
-          "Il debutto record del gigante AI non attenua i timori sul settore.",
-          "Gli investitori preferiscono rifugiarsi in porti sicuri come bond, yen e franco svizzero, spingendo in rosso l’indice globale Msci All Country World per la settima seduta consecutiva: è la striscia peggiore dal settembre 2023.",
-          "I listini globali perdono terreno per la settima seduta consecutiva mentre gli investitori si rifugiano in porti sicuri e fanno scendere i rendimenti dei Treasury.",
-          "Sul piano dell’energia il prezzo del petrolio è in calo, sebbene gli attacchi dei ribelli Houthi contro la capitale dell’Arabia Saudita Riad alimentino i timori sulla tenuta dell’offerta di greggio: il future gennaio sul Wti è in area 82 dollari al barile e il Brent sui 90 dollari."
+          "Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa",
+          "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
+          "\"Non permetter che i data center vengano collocati in altri Paesi, perch la Cina se li prenderebbe tutti\".",
+          "È la prima volta dal 2020 Servizio Stati Uniti Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa Il presidente: «Io e Xi abbiamo concordato di mettere paletti congiunti sull’intelligenza artificiale» 20 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Donald Trump.",
+          "«Putin vuole risolvere la guerra con mezzi diplomatici» Parlando del conflitto in Europa, Trump ha detto che Vladimir Putin vuole che la guerra con l’Ucraina «finisca attraverso mezzi diplomatici»."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Trump",
+          "big tech",
+          "Cina",
+          "Stati Uniti",
+          "data center"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-56adf371e1d45534",
+      "title": "L'Argentina approva il maxi investimento sul Gnl di Eni, Ypf e Xrg",
+      "summary": "La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires",
+      "spokenText": "Il governo argentino di Javier Milei ha approvato ufficialmente il maxi progetto di investimento dell'italiana Eni in associazione con Ypf e Xrg degli Emirati Arabi Uniti per l'esportazione di GNL. La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires. Il progetto prevede un investimento di 25 miliardi di dollari tra il 2027 e il 2030 e raggiungerà complessivamente i 50,75 miliardi di dollari entro il 2050, secondo la nota di Buenos Aires.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "governo argentino",
+        "javier milei",
+        "eni",
+        "ypf",
+        "xrg",
+        "emirati arabi uniti",
+        "buenos aires"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 31,
+      "source": {
+        "name": "ANSA Mondo",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/20/largentina-approva-il-maxi-investimento-sul-gnl-di-eni-ypf-e-xrg_3f88f05d-a87c-4f54-90a7-4176495b1ea4.html"
+      },
+      "analysis": {
+        "mainFact": "Il governo argentino di Javier Milei ha approvato ufficialmente il maxi progetto di investimento dell'italiana Eni in associazione con Ypf (Argentina) e Xrg (Emirati Arabi Uniti) sull'esportazione di GNL.",
+        "whyItMatters": "Il progetto prevede un investimento di 25 miliardi di dollari tra il 2027 e il 2030 e raggiungerà complessivamente i 50,75 miliardi di dollari entro il 2050, secondo la nota di Buenos Aires.",
+        "confirmedFacts": [
+          "Il governo argentino di Javier Milei ha approvato ufficialmente il maxi progetto di investimento dell'italiana Eni in associazione con Ypf (Argentina) e Xrg (Emirati Arabi Uniti) sull'esportazione di GNL.",
+          "Il progetto prevede un investimento di 25 miliardi di dollari tra il 2027 e il 2030 e raggiungerà complessivamente i 50,75 miliardi di dollari entro il 2050, secondo la nota di Buenos Aires.",
+          "La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "governo argentino",
+          "Javier Milei",
+          "Eni",
+          "Ypf",
+          "Xrg",
+          "Emirati Arabi Uniti",
+          "Buenos Aires"
+        ],
+        "numbersAndDates": [
+          "La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires",
+          "25",
+          "2027",
+          "2030",
+          "50,75",
+          "2050"
+        ]
+      }
+    },
+    {
+      "id": "story-623fa769d0bb5f6a",
+      "title": "Cosa rivelano i leak della Deutsche Bank su Trump, Epstein e la Russia",
+      "summary": "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo.",
+      "spokenText": "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo. Le autorità di vigilanza del Regno Unito e degli Stati Uniti hanno accusato la banca di gravi inadempienze in materia di antiriciclaggio, e la Deutsche Bank ha pagato una multa complessiva di circa 630 milioni di dollari. La Deutsche Bank è uno dei più grandi istituti finanziari al mondo, con operazioni in 55 paesi. Nel 2015, la banca tedesca è stata travolta dal cosiddetto scandalo delle “mirror trades”, in cui operazioni fittizie effettuate tramite la sua filiale di Mosca hanno portato alla fuga di oltre 10 miliardi di dollari dalla Russia. Secondo quanto ricostruito dall’organizzazione di giornalismo investigativo iStories , almeno dal 2014 le società di Trump avrebbe ricevuto denaro da società di comodo coinvolte nelle “lavanderie” azera e russa. Di cosa parliamo in questo articolo: I leak su Trump La Deutsche Bank ha concesso prestiti a Trump per anni, anche dopo una serie di fallimenti e insolvenze delle sue aziende a partire dai primi anni ’90.",
+      "category": "attualita",
+      "tags": [
+        "attualita",
+        "deutsche bank",
+        "trump",
+        "epstein",
+        "oligarchi russi",
+        "leonardo",
+        "istories",
+        "regno unito",
+        "stati uniti"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 74,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/inchiesta-inside-deutsche-bank-trump-epstein/"
+      },
+      "analysis": {
+        "mainFact": "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo.",
+        "whyItMatters": "Le autorità di vigilanza del Regno Unito e degli Stati Uniti hanno accusato la banca di gravi inadempienze in materia di antiriciclaggio, e la Deutsche Bank ha pagato una multa complessiva di circa 630 milioni di dollari.",
+        "confirmedFacts": [
+          "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo.",
+          "Le autorità di vigilanza del Regno Unito e degli Stati Uniti hanno accusato la banca di gravi inadempienze in materia di antiriciclaggio, e la Deutsche Bank ha pagato una multa complessiva di circa 630 milioni di dollari.",
+          "La Deutsche Bank è uno dei più grandi istituti finanziari al mondo, con operazioni in 55 paesi.",
+          "Nel 2015, la banca tedesca è stata travolta dal cosiddetto scandalo delle “mirror trades”, in cui operazioni fittizie effettuate tramite la sua filiale di Mosca hanno portato alla fuga di oltre 10 miliardi di dollari dalla Russia.",
+          "Secondo quanto ricostruito dall’organizzazione di giornalismo investigativo iStories , almeno dal 2014 le società di Trump avrebbe ricevuto denaro da società di comodo coinvolte nelle “lavanderie” azera e russa:",
+          "Pagamenti sospetti erano stati rilevati anche nel maggio del 2015, poco prima che Trump annunciasse la sua candidatura alla presidenza degli Stati Uniti, e poi nel 2020.",
+          "Di cosa parliamo in questo articolo: I leak su Trump La Deutsche Bank ha concesso prestiti a Trump per anni, anche dopo una serie di fallimenti e insolvenze delle sue aziende a partire dai primi anni ’90.",
+          "Fatto sta che nel 2016, non appena era diventato chiaro che Trump sarebbe diventato presidente degli Stati Uniti, Deutsche Bank ha avviato un progetto interno chiamato “New Order” (Novus Ordo) e ha classificato Trump e la sua cerchia ristretta come “clienti protetti”."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Deutsche Bank",
+          "Trump",
+          "Epstein",
+          "oligarchi russi",
+          "Leonardo",
+          "iStories",
+          "Regno Unito",
+          "Stati Uniti"
+        ],
+        "numbersAndDates": [
+          "La Deutsche Bank è uno dei più grandi istituti finanziari al mondo, con operazioni in 55 paesi.",
+          "Nel 2015, la banca tedesca è stata travolta dal cosiddetto scandalo delle “mirror trades”, in cui operazioni fittizie effettuate tramite la sua filiale di Mosca hanno portato alla fuga di oltre 10 miliardi di dollari dalla Russia.",
+          "Pagamenti sospetti erano stati rilevati anche nel maggio del 2015, poco prima che Trump annunciasse la sua candidatura alla presidenza degli Stati Uniti, e poi nel 2020.",
+          "Di cosa parliamo in questo articolo: I leak su Trump La Deutsche Bank ha concesso prestiti a Trump per anni, anche dopo una serie di fallimenti e insolvenze delle sue aziende a partire dai primi anni ’90.",
+          "Fatto sta che nel 2016, non appena era diventato chiaro che Trump sarebbe diventato presidente degli Stati Uniti, Deutsche Bank ha avviato un progetto interno chiamato “New Order” (Novus Ordo) e ha classificato Trump e la sua cerchia ristretta come “clienti protetti”.",
+          "630"
+        ]
+      }
+    },
+    {
+      "id": "story-5ac1aeb496560802",
+      "title": "Vittoria di Apple: gli ordini di backdoor devono essere pubblici",
+      "summary": "Apple può confermare pubblicamente gli ordini ricevuti dal governo britannico per l'accesso ai dati cifrati degli utenti conservati su iCloud. The post Vittoria di Apple: gli ordini di backdoor devono essere pubblici appeared first on Punto Informatico.",
+      "spokenText": "L'Investigatory Powers Tribunal del Regno Unito ha stabilito che il governo deve rendere pubblici gli ordini di accesso ai dati cifrati degli utenti conservati su iCloud. Vittoria di Apple: gli ordini di backdoor devono essere pubblici Apple può confermare pubblicamente gli ordini ricevuti dal governo britannico per l'accesso ai dati cifrati degli utenti conservati su iCloud. All’inizio del 2025, il governo britannico ha ordinato ad Apple di creare una backdoor per consentire l’accesso a tali dati in caso di indagini. La legge (Investigatory Powers Act del 2016) vieta di confermare pubblicamente la ricezione degli ordini, denominati “technical capability notice” (TCN), per motivi di sicurezza nazionale. Apple (e altre aziende) possono comunicare a tutti che il governo britannico chiede di creare una backdoor per accedere ai dati degli utenti. Apple ha presentato un secondo ricorso che verrà esaminato nel 2027.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "apple",
+        "governo britannico",
+        "investigatory powers tribunal del regno unito",
+        "icloud"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 56,
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/vittoria-apple-ordini-backdoor-pubblici/"
+      },
+      "analysis": {
+        "mainFact": "L'Investigatory Powers Tribunal del Regno Unito ha stabilito che il governo deve rendere pubblici gli ordini di accesso ai dati cifrati degli utenti conservati su iCloud.",
+        "whyItMatters": "Vittoria di Apple: gli ordini di backdoor devono essere pubblici Apple può confermare pubblicamente gli ordini ricevuti dal governo britannico per l'accesso ai dati cifrati degli utenti conservati su iCloud.",
+        "confirmedFacts": [
+          "L'Investigatory Powers Tribunal del Regno Unito ha stabilito che il governo deve rendere pubblici gli ordini di accesso ai dati cifrati degli utenti conservati su iCloud.",
+          "Vittoria di Apple: gli ordini di backdoor devono essere pubblici Apple può confermare pubblicamente gli ordini ricevuti dal governo britannico per l'accesso ai dati cifrati degli utenti conservati su iCloud.",
+          "All’inizio del 2025, il governo britannico ha ordinato ad Apple di creare una backdoor per consentire l’accesso a tali dati in caso di indagini.",
+          "La legge (Investigatory Powers Act del 2016) vieta di confermare pubblicamente la ricezione degli ordini, denominati “technical capability notice” (TCN), per motivi di sicurezza nazionale.",
+          "Apple (e altre aziende) possono comunicare a tutti che il governo britannico chiede di creare una backdoor per accedere ai dati degli utenti.",
+          "Apple ha presentato un secondo ricorso che verrà esaminato nel 2027."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Apple",
+          "governo britannico",
+          "Investigatory Powers Tribunal del Regno Unito",
+          "iCloud"
+        ],
+        "numbersAndDates": [
+          "All’inizio del 2025, il governo britannico ha ordinato ad Apple di creare una backdoor per consentire l’accesso a tali dati in caso di indagini.",
+          "La legge (Investigatory Powers Act del 2016) vieta di confermare pubblicamente la ricezione degli ordini, denominati “technical capability notice” (TCN), per motivi di sicurezza nazionale.",
+          "Apple ha presentato un secondo ricorso che verrà esaminato nel 2027."
+        ]
+      }
+    },
+    {
+      "id": "story-39fcf07226b3de26",
+      "title": "Identity security, perché una password corretta non basta più",
+      "summary": "Per anni la sicurezza dell’identità digitale si è concentrata soprattutto su una domanda: chi sta tentando di accedere? Stabilire l’identità dell’utente resta essenziale, ma oggi non basta più. Dipend...",
+      "spokenText": "Stabilire l'identità dell'utente resta essenziale, ma oggi non basta più. Per anni, la sicurezza dell'identità digitale si è concentrata soprattutto sulla domanda di chi stia tentando di accedere. si tratta del prezzo più basso del 2026. ECOVACS DEEBOT T90S PRO OMNI Care Kit costa 499,00€ su Amazon, anziché 799,00€, con uno sconto del 38%: è il prezzo più basso del 2026.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "sicurezza dell identita digitale",
+        "utente"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 25,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/identity-security-perche-una-password-corretta-non-basta-piu"
+      },
+      "analysis": {
+        "mainFact": "Stabilire l'identità dell'utente resta essenziale, ma oggi non basta più.",
+        "whyItMatters": "La sicurezza dell'identità digitale si è concentrata per anni soprattutto sulla domanda di chi stia tentando di accedere.",
+        "confirmedFacts": [
+          "Stabilire l'identità dell'utente resta essenziale, ma oggi non basta più.",
+          "La sicurezza dell'identità digitale si è concentrata per anni soprattutto sulla domanda di chi stia tentando di accedere.",
+          "ECOVACS DEEBOT T90S PRO OMNI Care Kit costa 499,00€ su Amazon, anziché 799,00€, con uno sconto del 38%: è il prezzo più basso del 2026."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "sicurezza dell'identità digitale",
+          "utente"
+        ],
+        "numbersAndDates": [
+          "ECOVACS DEEBOT T90S PRO OMNI Care Kit costa 499,00€ su Amazon, anziché 799,00€, con uno sconto del 38%: è il prezzo più basso del 2026."
+        ]
+      }
+    },
+    {
+      "id": "story-5375da556be369d3",
+      "title": "Due nuovi grandi telescopi per il sito cileno di Ctao",
+      "summary": "Approvata una configurazione aggiornata che porta il numero di telescopi dell’emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53. Lucio Angelo Antonelli (Inaf): «Questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao»",
+      "spokenText": "È stata approvata una configurazione aggiornata che porta il numero di telescopi dell'emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53. Come ha sottolineato Lucio Angelo Antonelli dell'Inaf, questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "cherenkov telescope array observatory",
+        "ctao",
+        "cile",
+        "lucio angelo antonelli",
+        "inaf",
+        "mur"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 27,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/19/due-nuovi-grandi-telescopi-per-il-sito-cileno-di-ctao/"
+      },
+      "analysis": {
+        "mainFact": "È stata approvata una configurazione aggiornata che porta il numero di telescopi dell'emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53.",
+        "whyItMatters": "Questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao.",
+        "confirmedFacts": [
+          "È stata approvata una configurazione aggiornata che porta il numero di telescopi dell'emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53.",
+          "Questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao.",
+          "Approvata una configurazione aggiornata che porta il numero di telescopi dell’emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53.",
+          "Lucio Angelo Antonelli (Inaf): «Questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao»"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Cherenkov Telescope Array Observatory",
+          "Ctao",
+          "Cile",
+          "Lucio Angelo Antonelli",
+          "Inaf",
+          "Mur"
+        ],
+        "numbersAndDates": [
+          "51",
+          "53"
+        ]
+      }
+    },
+    {
+      "id": "story-72805d1549a5d3bd",
+      "title": "SpaceX produce Starship in serie: basterà per un lancio a settimana",
+      "summary": "SpaceX ha mostrato alla stampa la fabbrica texana dove costruisce i due stadi del razzo SpaceX Starship. Secondo i responsabili dell’azienda, lo stabilimento completa uno stadio superiore ogni due set...",
+      "spokenText": "SpaceX ha aperto le porte della sua fabbrica texana ai giornalisti, mostrando lo stabilimento dove vengono costruiti i due stadi del razzo Starship.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "spacex",
+        "starship"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 10,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/scienze/spacex-produce-starship-in-serie-bastera-per-un-lancio-a-settimana"
+      },
+      "analysis": {
+        "mainFact": "SpaceX ha mostrato alla stampa la fabbrica texana dove costruisce i due stadi del razzo SpaceX Starship.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "SpaceX ha mostrato alla stampa la fabbrica texana dove costruisce i due stadi del razzo SpaceX Starship."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "SpaceX",
+          "Starship"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-8fe848d90429e90c",
+      "title": "Slide con l'AI \"gratis\", ma i tuoi file dove finiscono",
+      "summary": "Con 400 crediti alla registrazione si generano su Gamma presentazioni fino a 10 diapositive per richiesta, e su Canva il piano gratuito concede un accesso limitato agli strumenti di intelligenza artif...",
+      "spokenText": "Slide con l'AI presentata come gratuita, ma i file caricati dagli utenti finiscono su server esterni senza che sia chiaro dove vengano conservati o come vengano utilizzati.",
+      "category": "altro",
+      "tags": [
+        "altro"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 11,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/business/slide-con-lai-gratis-ma-i-tuoi-file-dove-finiscono"
+      },
+      "analysis": {
+        "mainFact": "Slide con l'AI \"gratis\", ma i tuoi file dove finiscono",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Slide con l'AI \"gratis\", ma i tuoi file dove finiscono"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-74bc67177e0316fe",
+      "title": "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a",
+      "summary": "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a 83 dollari ciascuna, come ha annunciato mercoledì.",
+      "spokenText": "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a 83 dollari ciascuna, come annunciato mercoledì.",
+      "category": "altro",
+      "tags": [
+        "altro",
+        "anthropic",
+        "claude",
+        "openai"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 8,
+      "source": {
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a 83 dollari ciascuna, come ha annunciato mercoledì.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a 83 dollari ciascuna, come ha annunciato mercoledì.",
+          "The company behind the AI platform Claude was formed by seven people who left rival OpenAI in 2021 and, in a matter of hours, will become multi-billionaires - on paper at least.",
+          "Anthropic is floating the business on the US stock exchange and will sell its shares at $83 each, it said on Wednesday.",
+          "At that price, the founders' shareholdings will be worth at least $19.3bn (£14.7bn) each.",
+          "Now 43, he is Anthropic's chief executive, and the person who, in his sister's words, makes the company \"ambitious\".",
+          "The 39-year-old is president of Anthropic, manages the executive team, and leads the firm's research, engineering, product, governance and commercial work.",
+          "Jack Clark - $19.8bn Image source, Peerapon Boonyakiat/SOPA Images/LightRocket via Getty Images Jack Clark, is another arts graduate among the original start-up's founding members and the only one who is not from North America.",
+          "Now, 37, Clark is head of public benefit at Anthropic.",
+          "Ratcliffe/Bloomberg via Getty Images Jared Kaplan, 42, is chief science officer at Anthropic, and heads its technical research."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
           "Anthropic",
-          "MSCI All Country World",
-          "Treasury",
-          "Wti",
-          "Brent"
+          "Claude",
+          "OpenAI"
         ],
         "numbersAndDates": [
-          "Sul piano dell’energia il prezzo del petrolio è in calo, sebbene gli attacchi dei ribelli Houthi contro la capitale dell’Arabia Saudita Riad alimentino i timori sulla tenuta dell’offerta di greggio: il future gennaio sul Wti è in area 82 dollari al barile e il Brent sui 90 dollari.",
-          "2023"
+          "83"
         ]
       }
     },
     {
-      "id": "story-e8d417f6f3a67f76",
-      "title": "Alla COP31 si discute anche di quando pubblicare il prossimo rapporto IPCC",
-      "summary": "Alla COP31 di Antalya i governi si dividono sulla data del settimo rapporto IPCC. Se due volumi su tre slittano al 2029, il bilancio globale dei progressi sul clima previsto per il 2028 dovrà fare a meno delle valutazioni scientifiche più aggiornate.",
-      "spokenText": "Alla COP31 di Antalya, la trentunesima conferenza ONU sul clima, i governi sono divisi sulla data di pubblicazione del settimo rapporto dell'IPCC. Il panel intergovernativo sul cambiamento climatico, istituito nel 1988 dall'Organizzazione meteorologica mondiale e dal Programma ONU per l'ambiente, non conduce ricerche dirette, ma raccoglie e valuta le evidenze scientifiche esistenti. India e Arabia Saudita, sostenute da Russia e Kenya, propongono di pubblicare il primo volume nel 2028 e gli altri due nel 2029. I Paesi favorevoli al rinvio sostengono che un'uscita entro il 2028 lascerebbe troppo poco tempo per le revisioni scientifiche e governative. Se due volumi su tre slittassero al 2029, il bilancio globale dei progressi sul clima previsto per il 2028 dovrebbe fare a meno delle valutazioni scientifiche più aggiornate.",
+      "id": "story-c24756500f2e05a8",
+      "title": "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover",
+      "summary": "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover Curiosity della NASA su Marte fino a novembre 2026.",
+      "spokenText": "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover Curiosity della NASA su Marte fino a novembre 2026.",
       "category": "scienza",
       "tags": [
         "scienza",
-        "cop31",
-        "antalya",
-        "ipcc",
-        "india",
-        "arabia saudita",
-        "russia",
-        "kenya"
+        "nasa",
+        "curiosity"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 50,
+      "estimatedSeconds": 10,
       "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/cop31-ipcc-calendario-rapporto-ar7/"
+        "name": "NASA Releases",
+        "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
       },
       "analysis": {
-        "mainFact": "Alla COP31 si discute anche di quando pubblicare il prossimo rapporto IPCC",
-        "whyItMatters": "Se due volumi su tre slittano al 2029, il bilancio globale dei progressi sul clima previsto per il 2028 dovrà fare a meno delle valutazioni scientifiche più aggiornate.",
+        "mainFact": "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover Curiosity della NASA su Marte fino a novembre 2026.",
+        "whyItMatters": "Raccolta campioni marziani da Curiosity, esplorazione spaziale con valore scientifico alto.",
         "confirmedFacts": [
-          "Alla COP31 si discute anche di quando pubblicare il prossimo rapporto IPCC",
-          "Se due volumi su tre slittano al 2029, il bilancio globale dei progressi sul clima previsto per il 2028 dovrà fare a meno delle valutazioni scientifiche più aggiornate.",
-          "Alla COP31 di Antalya i governi si dividono sulla data del settimo rapporto IPCC.",
-          "Alcuni Paesi chiedono di rinviare al 2029 la pubblicazione degli ultimi due dei tre volumi, quando però il Global stocktake, che si chiuderà alla COP33 del 2028, sarà ormai concluso.",
-          "India e Arabia Saudita, sostenute da Russia e Kenya, difendono un calendario con il primo volume nel 2028 e gli altri due nel 2029.",
-          "L’IPCC, istituito nel 1988 dall’Organizzazione meteorologica mondiale e dal Programma ONU per l’ambiente (UNEP), non conduce ricerche in proprio, ma le raccoglie e le valuta.",
-          "I Paesi favorevoli al rinvio sostengono che pubblicare i rapporti entro il 2028 lascerebbe troppo poco tempo per le revisioni scientifiche e governative.",
-          "Alla COP31, trentunesima conferenza ONU sul clima in corso ad Antalya, in Turchia, una delle questioni più controverse è diventata la data di uscita del prossimo rapporto dell’IPCC, il panel intergovernativo sul cambiamento climatico."
+          "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover Curiosity della NASA su Marte fino a novembre 2026.",
+          "Raccolta campioni marziani da Curiosity, esplorazione spaziale con valore scientifico alto.",
+          "16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "COP31",
-          "Antalya",
-          "IPCC",
-          "India",
-          "Arabia Saudita",
-          "Russia",
-          "Kenya"
+          "NASA",
+          "Curiosity"
         ],
         "numbersAndDates": [
-          "Alcuni Paesi chiedono di rinviare al 2029 la pubblicazione degli ultimi due dei tre volumi, quando però il Global stocktake, che si chiuderà alla COP33 del 2028, sarà ormai concluso.",
-          "India e Arabia Saudita, sostenute da Russia e Kenya, difendono un calendario con il primo volume nel 2028 e gli altri due nel 2029.",
-          "L’IPCC, istituito nel 1988 dall’Organizzazione meteorologica mondiale e dal Programma ONU per l’ambiente (UNEP), non conduce ricerche in proprio, ma le raccoglie e le valuta.",
-          "I Paesi favorevoli al rinvio sostengono che pubblicare i rapporti entro il 2028 lascerebbe troppo poco tempo per le revisioni scientifiche e governative.",
-          "2029",
-          "2028"
+          "16",
+          "2026",
+          "49"
         ]
       }
     },
     {
-      "id": "story-679f76b0b534d464",
-      "title": "Chi mangia patate (lunari) non muore mai",
-      "summary": "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza. Una ricerca condotta da un gruppo di ricercatori dell’Oregon State University ha dimostrato che le patate possono completare il loro ciclo vitale e produrre tuberi sicuri per il consumo umano, con rese paragonabili a quelle delle coltivazioni terrestri, anche in un suolo che simula la regolite lunare, purché sia arricchito con materia organica",
-      "spokenText": "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "luna"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 4,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/20/patate-coltivate-nella-regolite-lunare/"
-      },
-      "analysis": {
-        "mainFact": "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza.",
-        "whyItMatters": "Coltivazione patate lunari: rilevanza scienza, ambiente e tecnologia.",
-        "confirmedFacts": [
-          "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza.",
-          "Coltivazione patate lunari: rilevanza scienza, ambiente e tecnologia."
-        ],
-        "uncertainties": [
-          "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza."
-        ],
-        "peopleAndOrganizations": [
-          "Luna"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-83ba4f05ff1e3e41",
-      "title": "Le IA vogliono sbirciare nelle chat, Signal corre ai ripari",
-      "summary": "Signal blocca gli screenshot nelle proprie app per Android e iOS 27 per ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono. La decisione interviene sulle funzioni dei siste...",
-      "spokenText": "Signal ha deciso di bloccare gli screenshot nelle proprie app per Android e iOS. L'obiettivo è ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono, limitando così la possibilità che queste intelligenze artificiali acquisiscano i contenuti delle conversazioni attraverso le immagini catturate dallo schermo.",
+      "id": "story-9f42a5d39b74b5f9",
+      "title": "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del",
+      "summary": "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del fatturato annuale basata sul mese precedente) era di 81 miliardi di dollari.",
+      "spokenText": "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic era di 81 miliardi di dollari, una stima del fatturato annuale basata sul mese precedente. Guardando al breve termine, la bolletta prevista per i prossimi 12 mesi si attesta intorno ai 70 miliardi di dollari, una cifra che risulta gestibile con l'attuale tasso di fatturato annualizzato di 81 miliardi di dollari. Ciò potrebbe essere importante per un'azienda che ha già assunto impegni di spesa futuri per circa 900 miliardi di dollari, principalmente su infrastrutture di calcolo, tra ora e il 2045.",
       "category": "tecnologia",
       "tags": [
         "tecnologia",
-        "signal",
-        "assistenti ia",
-        "android",
-        "ios"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 18,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/smartphone/signal-blocca-gli-screenshot-basta-a-fermare-gemini-e-siri"
-      },
-      "analysis": {
-        "mainFact": "Signal blocca gli screenshot nelle proprie app per Android e iOS per ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Signal blocca gli screenshot nelle proprie app per Android e iOS per ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono.",
-          "Signal blocca gli screenshot nelle proprie app per Android e iOS 27 per ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Signal",
-          "assistenti IA",
-          "Android",
-          "iOS"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-1cfcf7c023061c3d",
-      "title": "La Casa Bianca rimuove il capo della cyber-security dopo una serie di disservizi",
-      "summary": "La Casa Bianca rimuove il capo della cyber-security dopo una serie di disservizi tecnologici",
-      "spokenText": "La Casa Bianca ha rimosso il capo della cyber-security a seguito di una serie di disservizi tecnologici. La decisione coinvolge Cairncross e il Republican National Committee.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "white house",
-        "cairncross",
-        "republican national committee"
+        "anthropic",
+        "nasdaq",
+        "spacex",
+        "wall street journal"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 11,
+      "estimatedSeconds": 37,
       "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+        "name": "The Conversation",
+        "url": "https://theconversation.com/was-anthropics-record-us-81-billion-listing-a-vote-of-confidence-in-ai-and-whats-next-297151"
       },
       "analysis": {
-        "mainFact": "La Casa Bianca rimuove il capo della cyber-security dopo una serie di disservizi tecnologici",
-        "whyItMatters": "Rimozione del capo della cyber-security della Casa Bianca dopo disservizi tecnologici, impatto sistemico.",
+        "mainFact": "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del fatturato annuale basata sul mese precedente) era di 81 miliardi di dollari.",
+        "whyItMatters": "IPO record di Anthropic da 81 miliardi, evento chiave per l'industria AI e l'economia tecnologica.",
         "confirmedFacts": [
-          "La Casa Bianca rimuove il capo della cyber-security dopo una serie di disservizi tecnologici",
-          "Rimozione del capo della cyber-security della Casa Bianca dopo disservizi tecnologici, impatto sistemico.",
-          "2 days ago Cairncross was previously a lawyer in the Republican Party, before becoming the chief operating officer of the Republican National Committee."
+          "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del fatturato annuale basata sul mese precedente) era di 81 miliardi di dollari.",
+          "IPO record di Anthropic da 81 miliardi, evento chiave per l'industria AI e l'economia tecnologica.",
+          "Ciò potrebbe essere importante per un'azienda che ha già assunto impegni di spesa futuri per circa 900 miliardi di dollari, principalmente su infrastrutture di calcolo, tra ora e il 2045.",
+          "La bolletta a breve termine nei prossimi 12 mesi è di circa 70 miliardi di dollari, gestibile con l'attuale tasso di fatturato annualizzato di 81 miliardi di dollari."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "White House",
-          "Cairncross",
-          "Republican National Committee"
+          "Anthropic",
+          "Nasdaq",
+          "SpaceX",
+          "Wall Street Journal"
         ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-4dc4d774fb8895ad",
-      "title": "<img src=\"https://cdn",
-      "summary": "Cursor starebbe valutando di eliminare progressivamente i modelli AI open-weight sviluppati in Cina per ragioni legate al rischio geopolitico. Il collegamento con i suoi strumenti di programmazione è...",
-      "spokenText": "Cursor starebbe valutando di eliminare progressivamente i modelli AI open-weight sviluppati in Cina per ragioni legate al rischio geopolitico.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "cursor",
-        "cina"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/hardware/cursor-valuta-l-addio-ai-modelli-ai-cinesi-ecco-perche"
-      },
-      "analysis": {
-        "mainFact": "Cursor starebbe valutando di eliminare progressivamente i modelli AI open-weight sviluppati in Cina per ragioni legate al rischio geopolitico.",
-        "whyItMatters": "AI e rischi geopolitici, rilevante per tecnologia e industria.",
-        "confirmedFacts": [
-          "Cursor starebbe valutando di eliminare progressivamente i modelli AI open-weight sviluppati in Cina per ragioni legate al rischio geopolitico.",
-          "AI e rischi geopolitici, rilevante per tecnologia e industria."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Cursor",
-          "Cina"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-c5abed3e19125d67",
-      "title": "Selezionata dall’Agenzia spaziale europea la prossima missione scientifica di classe media",
-      "summary": "Selezionata dall’Agenzia spaziale europea la prossima missione scientifica di classe media. Proposta e guidata dall’Istituto nazionale di astrofisica con il sostegno determinante dell’Agenzia spaziale italiana, porterà l’Italia in prima linea nello studio del plasma spaziale. Maria Federica Marcucci (Inaf): «È una sfida che affrontiamo con entusiasmo e con la consapevolezza della responsabilità che ci è stata affidata»",
-      "spokenText": "L'Agenzia spaziale europea ha selezionato la prossima missione scientifica di classe media. La proposta è guidata dall'Istituto nazionale di astrofisica con il sostegno determinante dell'Agenzia spaziale italiana, portando l'Italia in prima linea nello studio del plasma spaziale. Maria Federica Marcucci (Inaf): «È una sfida che affrontiamo con entusiasmo e con la consapevolezza della responsabilità che ci è stata affidata».",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "agenzia spaziale europea",
-        "istituto nazionale di astrofisica",
-        "agenzia spaziale italiana",
-        "italia",
-        "maria federica marcucci"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 24,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/19/selezione-plasma-observatory/"
-      },
-      "analysis": {
-        "mainFact": "Selezionata dall'Agenzia spaziale europea la prossima missione scientifica di classe media.",
-        "whyItMatters": "Proposta e guidata dall'Istituto nazionale di astrofisica con il sostegno determinante dell'Agenzia spaziale italiana, porterà l'Italia in prima linea nello studio del plasma spaziale.",
-        "confirmedFacts": [
-          "Selezionata dall'Agenzia spaziale europea la prossima missione scientifica di classe media.",
-          "Proposta e guidata dall'Istituto nazionale di astrofisica con il sostegno determinante dell'Agenzia spaziale italiana, porterà l'Italia in prima linea nello studio del plasma spaziale.",
-          "Maria Federica Marcucci (Inaf): «È una sfida che affrontiamo con entusiasmo e con la consapevolezza della responsabilità che ci è stata affidata»"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Agenzia spaziale europea",
-          "Istituto nazionale di astrofisica",
-          "Agenzia spaziale italiana",
-          "Italia",
-          "Maria Federica Marcucci"
-        ],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del fatturato annuale basata sul mese precedente) era di 81 miliardi di dollari.",
+          "Ciò potrebbe essere importante per un'azienda che ha già assunto impegni di spesa futuri per circa 900 miliardi di dollari, principalmente su infrastrutture di calcolo, tra ora e il 2045.",
+          "La bolletta a breve termine nei prossimi 12 mesi è di circa 70 miliardi di dollari, gestibile con l'attuale tasso di fatturato annualizzato di 81 miliardi di dollari.",
+          "81"
+        ]
       }
     },
     {
       "id": "story-323a7d81b381ea5e",
       "title": "Casa, lavoro e benessere psicologico",
       "summary": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore. Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica.",
-      "spokenText": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore. Anche chi un impiego ce l'ha, si trova spesso in una situazione di precarietà: oltre il 30 per cento dei giovani ha infatti un contratto a termine. Una pubblicazione del 2023 ha inoltre evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero. Queste dinamiche alimentano il malcontento nelle piazze e pongono al centro della discussione la crisi della rappresentanza politica. L’Italia, con dati del 2024, presenta un’elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento .",
-      "category": "diritti",
+      "spokenText": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore. Oltre il 30 per cento dei giovani ha un contratto a termine, nonostante una buona performance del mercato del lavoro negli ultimi anni. Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero. Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica completano un quadro di profonda incertezza. L'Italia, con dati del 2024, presenta un'elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento.",
+      "category": "attualita",
       "tags": [
-        "diritti",
+        "attualita",
         "giovani europei",
         "italia",
+        "mercato del lavoro",
         "contratti a termine",
-        "caro affitti",
-        "disagio psicologico",
+        "piazze",
         "rappresentanza politica"
       ],
-      "importance": 92,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 46,
+      "estimatedSeconds": 45,
       "source": {
         "name": "Valigia Blu",
         "url": "https://www.valigiablu.it/giovani-proteste-lavoro-casa-salute-mentale/"
       },
       "analysis": {
         "mainFact": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore.",
-        "whyItMatters": "Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica.",
+        "whyItMatters": "L'Italia, con dati del 2024, presenta un'elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento.",
         "confirmedFacts": [
           "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore.",
+          "L'Italia, con dati del 2024, presenta un'elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento.",
           "Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica.",
-          "L’Italia, con dati del 2024, presenta un’elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento .",
           "Anche chi un impiego ce l’ha, si trova in situazione di precarietà, nonostante una buona performance del mercato del lavoro in questi ultimi anni: oltre il 30 per cento dei giovani, infatti, ha un contratto a termine.",
           "Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero ."
         ],
@@ -597,51 +602,54 @@
         "peopleAndOrganizations": [
           "giovani europei",
           "Italia",
+          "mercato del lavoro",
           "contratti a termine",
-          "caro affitti",
-          "disagio psicologico",
+          "piazze",
           "rappresentanza politica"
         ],
         "numbersAndDates": [
-          "L’Italia, con dati del 2024, presenta un’elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento .",
           "Anche chi un impiego ce l’ha, si trova in situazione di precarietà, nonostante una buona performance del mercato del lavoro in questi ultimi anni: oltre il 30 per cento dei giovani, infatti, ha un contratto a termine.",
-          "Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero ."
+          "Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero .",
+          "2024",
+          "35"
         ]
       }
     },
     {
-      "id": "story-4428fbde9e9c74cd",
-      "title": "Londra e Ue più vicine: siglata la prima intesa post Brexit. Burnham",
-      "summary": "Von Der Leyen: “Siamo a una svolta”. Il premier britannico: “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”",
-      "spokenText": "Il premier britannico. “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”.",
-      "category": "mondo",
+      "id": "story-9b0dade63dc2ed95",
+      "title": "Il governo vuole che più case abbiano pompe di calore per ridurre l'uso di",
+      "summary": "Il governo vuole che più case abbiano pompe di calore per ridurre l'uso di combustibili fossili e abbassare le bollette energetiche.",
+      "spokenText": "Il governo punta a diffondere l'installazione di più pompe di calore nelle abitazioni per ridurre l'uso di combustibili fossili e abbassare le bollette energetiche.",
+      "category": "ambiente",
       "tags": [
-        "mondo",
-        "premier britannico",
-        "unione europea",
-        "gran bretagna",
-        "elettori"
+        "ambiente",
+        "nesta"
       ],
-      "importance": 70,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 9,
+      "estimatedSeconds": 10,
       "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/"
+        "name": "BBC News - Science & Environment",
+        "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss"
       },
       "analysis": {
-        "mainFact": "Il premier britannico. “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”.",
-        "whyItMatters": "Intesa post Brexit Londra-Ue: rilevanza geopolitica ed economica.",
+        "mainFact": "Il governo vuole che più case abbiano pompe di calore per ridurre l'uso di combustibili fossili e abbassare le bollette energetiche.",
+        "whyItMatters": "Pompe di calore e riduzione combustibili fossili, tema energia e ambiente centrale.",
         "confirmedFacts": [
-          "Il premier britannico. “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”.",
-          "Intesa post Brexit Londra-Ue: rilevanza geopolitica ed economica."
+          "Il governo vuole che più case abbiano pompe di calore per ridurre l'uso di combustibili fossili e abbassare le bollette energetiche.",
+          "Pompe di calore e riduzione combustibili fossili, tema energia e ambiente centrale.",
+          "The changes are estimated to add £10,000 to the price of new homes, though owners will likely save money on energy bills over the long term.",
+          "In January, the government introduced a £15bn Warm Homes Plan to help UK households pay for green technologies as part of efforts to reduce fossil fuel use and energy bills.",
+          "The system consists of a box measuring about 1m x 1m x 0.4m (3ft x 3ft x 1.3ft) which stands outside the property, as well as a heat pump unit and hot water cylinder inside the property.",
+          "The Boiler Upgrade Scheme provides a grant of £7,500 towards the cost of an air source or ground source heat pump for homeowners in England and Wales.",
+          "The property must have an eligible Energy Performance Certificate (EPC) - a measure of how your property is performing - issued in the last 10 years.",
+          "Scotland , external and Northern Ireland , external have separate schemes to help make homes more efficient.",
+          "Heat pump installations currently benefit from a 0% VAT rate, but this is set to rise to 5% in April 2027.",
+          "The innovation charity Nesta estimates that the average home with a heat pump and solar panels could cut its annual energy bill by nearly £1,000."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "premier britannico",
-          "Unione Europea",
-          "Gran Bretagna",
-          "elettori"
+          "Nesta"
         ],
         "numbersAndDates": []
       }
