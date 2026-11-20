@@ -1,439 +1,119 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-20-52577ccb3cda",
-  "generatedAt": "2026-11-20T21:10:33.397Z",
+  "catalogId": "daily-quid-2026-11-20-03b544d6c37d",
+  "generatedAt": "2026-11-20T21:38:56.756Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-748bac694bebc7a2",
-      "title": "A Spoleto nasce il 'Curi', centro di ricerca per la medicina del futuro",
-      "summary": "Ia, automazione e scienze omiche per diagnosi più precoci e terapie su misura",
-      "spokenText": "A Spoleto nasce il Curi, un nuovo centro di ricerca dedicato alla medicina del futuro. L'iniziativa si fonda su un investimento di cinque milioni di euro e punta a integrare competenze scientifiche, tecnologie avanzate e ricerca multidisciplinare per avvicinare la medicina di precisione alla pratica clinica. Al centro della struttura si trova una piattaforma tecnologica che combina scienze omiche, intelligenza artificiale, automazione e chimica computazionale, con l'obiettivo di rendere le diagnosi più precoci e le terapie sempre più su misura.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "curi",
-        "spoleto",
-        "intelligenza artificiale",
-        "scienze omiche",
-        "automazione",
-        "chimica computazionale"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/a-spoleto-nasce-il-curi-centro-di-ricerca-per-la-medicina-del-futuro_e09f9dd4-5077-49b1-a81f-db25a37d3ca5.html"
-      },
-      "analysis": {
-        "mainFact": "A Spoleto nasce il 'Curi', centro di ricerca per la medicina del futuro",
-        "whyItMatters": "Con un investimento di 5 milioni di euro, il centro mette insieme competenze scientifiche, tecnologie avanzate e ricerca multidisciplinare per avvicinare la medicina di precisione alla pratica clinica.",
-        "confirmedFacts": [
-          "A Spoleto nasce il 'Curi', centro di ricerca per la medicina del futuro",
-          "Con un investimento di 5 milioni di euro, il centro mette insieme competenze scientifiche, tecnologie avanzate e ricerca multidisciplinare per avvicinare la medicina di precisione alla pratica clinica.",
-          "Ia, automazione e scienze omiche per diagnosi più precoci e terapie su misura",
-          "Il cuore del Curi una piattaforma tecnologica che integra scienze omiche, intelligenza artificiale, automazione e chimica computazionale."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Curi",
-          "Spoleto",
-          "intelligenza artificiale",
-          "scienze omiche",
-          "automazione",
-          "chimica computazionale"
-        ],
-        "numbersAndDates": [
-          "5"
-        ]
-      }
-    },
-    {
-      "id": "story-a3d877a09cf52b37",
-      "title": "Bce: presidenza alla Spagna, per Parigi e Berlino ruoli chiave",
-      "summary": "Avviata la procedura per il cambio al vertice con de Cos nuovo numero uno. La francese Boone e il tedesco Brunnermeier verso il comitato esecutivo al posto di Schnabel e Philip Lane",
-      "spokenText": "La presidenza della Bce passa alla Spagna con de Cos nuovo numero uno, mentre la francese Boone e il tedesco Brunnermeier si avviano verso il comitato esecutivo al posto di Schnabel e Philip Lane. Si tratta della prima volta dal 2020 che si avvia questa procedura di cambio al vertice della Bce con presidenza alla Spagna e ruoli chiave per Parigi e Berlino. Brunnermeier diventerà il nuovo capo economista quando Philip Lane terminerà l'incarico il 31 maggio alla scadenza prevista. De Cos, nato nel 1971, è l'attuale direttore generale della Banca dei regolamenti internazionali ed ex-governatore della Banca di Spagna, dove il suo lavoro è stato definito eccezionale.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "bce",
-        "spagna",
-        "parigi",
-        "berlino",
-        "de cos",
-        "boone",
-        "brunnermeier",
-        "schnabel",
-        "philip lane"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 44,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/bce-presidenza-spagna-parigi-e-berlino-ruoli-chiave-AJWIepNC"
-      },
-      "analysis": {
-        "mainFact": "La presidenza della Bce va alla Spagna con de Cos nuovo numero uno, mentre la francese Boone e il tedesco Brunnermeier vanno verso il comitato esecutivo al posto di Schnabel e Philip Lane.",
-        "whyItMatters": "È la prima volta dal 2020 che si avvia questa procedura di cambio al vertice della Bce con presidenza alla Spagna e ruoli chiave per Parigi e Berlino.",
-        "confirmedFacts": [
-          "La presidenza della Bce va alla Spagna con de Cos nuovo numero uno, mentre la francese Boone e il tedesco Brunnermeier vanno verso il comitato esecutivo al posto di Schnabel e Philip Lane.",
-          "È la prima volta dal 2020 che si avvia questa procedura di cambio al vertice della Bce con presidenza alla Spagna e ruoli chiave per Parigi e Berlino.",
-          "Brunnermeier , tedesco, diventerà il nuovo capo economista quando Philip Lane terminerà l’incarico il 31 maggio alla scadenza prevista.",
-          "Chi sono i protagonisti del “tridente” De Cos , nato nel 1971, è l’attuale direttore generale della Banca dei regolamenti internazionali (Bri) ed ex-governatore della Banca di Spagna, dove il suo lavoro è stato definito «eccezionale»."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Bce",
-          "Spagna",
-          "Parigi",
-          "Berlino",
-          "de Cos",
-          "Boone",
-          "Brunnermeier",
-          "Schnabel",
-          "Philip Lane"
-        ],
-        "numbersAndDates": [
-          "Brunnermeier , tedesco, diventerà il nuovo capo economista quando Philip Lane terminerà l’incarico il 31 maggio alla scadenza prevista.",
-          "Chi sono i protagonisti del “tridente” De Cos , nato nel 1971, è l’attuale direttore generale della Banca dei regolamenti internazionali (Bri) ed ex-governatore della Banca di Spagna, dove il suo lavoro è stato definito «eccezionale».",
-          "2020"
-        ]
-      }
-    },
-    {
-      "id": "story-045c8747c5f7dc43",
-      "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'",
-      "summary": "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
-      "spokenText": "Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa. 'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'. Xi abbiamo concordato di mettere paletti congiunti sull’intelligenza artificiale» 20 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Donald Trump. «Putin vuole risolvere la guerra con mezzi diplomatici» Parlando del conflitto in Europa, Trump ha detto che Vladimir Putin vuole che la guerra con l’Ucraina «finisca attraverso mezzi diplomatici».",
-      "category": "mondo",
-      "tags": [
-        "mondo",
-        "trump",
-        "big tech",
-        "cina",
-        "stati uniti",
-        "data center"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 32,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html"
-      },
-      "analysis": {
-        "mainFact": "Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa",
-        "whyItMatters": "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
-        "confirmedFacts": [
-          "Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa",
-          "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
-          "\"Non permetter che i data center vengano collocati in altri Paesi, perch la Cina se li prenderebbe tutti\".",
-          "È la prima volta dal 2020 Servizio Stati Uniti Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa Il presidente: «Io e Xi abbiamo concordato di mettere paletti congiunti sull’intelligenza artificiale» 20 novembre 2026 Aggiungi Il Sole 24 Ore ai preferiti su Google Donald Trump.",
-          "«Putin vuole risolvere la guerra con mezzi diplomatici» Parlando del conflitto in Europa, Trump ha detto che Vladimir Putin vuole che la guerra con l’Ucraina «finisca attraverso mezzi diplomatici»."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Trump",
-          "big tech",
-          "Cina",
-          "Stati Uniti",
-          "data center"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-56adf371e1d45534",
-      "title": "L'Argentina approva il maxi investimento sul Gnl di Eni, Ypf e Xrg",
-      "summary": "La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires",
-      "spokenText": "Il governo argentino di Javier Milei ha approvato ufficialmente il maxi progetto di investimento dell'italiana Eni in associazione con Ypf e Xrg degli Emirati Arabi Uniti per l'esportazione di GNL. La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires. Il progetto prevede un investimento di 25 miliardi di dollari tra il 2027 e il 2030 e raggiungerà complessivamente i 50,75 miliardi di dollari entro il 2050, secondo la nota di Buenos Aires.",
+      "id": "story-0d252eec4dddcac8",
+      "title": "Il cambiamento climatico altera il ciclo globale del mercurio?",
+      "summary": "L’interazione con il cambiamento climatico Il punto è che il ciclo del mercurio, compresa la sua trasformazione nell’ altamente tossico metilmercurio, sta subendo alterazioni rapide e finora poco studiate a causa del cambiamento climatico . Pur con gravissimo ritardo rispetto ai fatti, il caso di Minamata ha portato a un cambiamento nella gestione globale del mercurio.",
+      "content": "Il ciclo del mercurio, compresa la sua trasformazione nel metilmercurio, sta subendo alterazioni rapide e poco studiate a causa del cambiamento climatico. Questo composto si forma quando il metallo, naturalmente presente nell'ambiente, viene modificato dagli organismi anaerobici degli ambienti acquatici e si diffonde lungo tutta la catena alimentare. La gestione globale di questa sostanza ha subito una svolta con la Convenzione di Minamata, siglata nel 2013 ed entrata in vigore nel 2017, un passo arrivato pur con gravissimo ritardo rispetto ai fatti. Il caso di Minamata, infatti, risale al 1956, quando la malattia fu descritta ufficialmente; l'origine fu accertata negli anni successivi come intossicazione da metilmercurio. Tuttavia, la storia non si chiude con la Convenzione. Ridurre o eliminare le immissioni causate dalle attività umane non risolve il problema del residuo accumulato nei terreni e nelle acque in secoli di inquinamento.",
+      "spokenText": "Il ciclo del mercurio, compresa la sua trasformazione nel metilmercurio, sta subendo alterazioni rapide e poco studiate a causa del cambiamento climatico. Questo composto si forma quando il metallo, naturalmente presente nell'ambiente, viene modificato dagli organismi anaerobici degli ambienti acquatici e si diffonde lungo tutta la catena alimentare. La gestione globale di questa sostanza ha subito una svolta con la Convenzione di Minamata, siglata nel 2013 ed entrata in vigore nel 2017, un passo arrivato pur con gravissimo ritardo rispetto ai fatti. Il caso di Minamata, infatti, risale al 1956, quando la malattia fu descritta ufficialmente; l'origine fu accertata negli anni successivi come intossicazione da metilmercurio. Tuttavia, la storia non si chiude con la Convenzione. Ridurre o eliminare le immissioni causate dalle attività umane non risolve il problema del residuo accumulato nei terreni e nelle acque in secoli di inquinamento.",
       "category": "ambiente",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-13T16:14:17.000Z",
       "tags": [
-        "ambiente",
-        "governo argentino",
-        "javier milei",
-        "eni",
-        "ypf",
-        "xrg",
-        "emirati arabi uniti",
-        "buenos aires"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 31,
-      "source": {
-        "name": "ANSA Mondo",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/20/largentina-approva-il-maxi-investimento-sul-gnl-di-eni-ypf-e-xrg_3f88f05d-a87c-4f54-90a7-4176495b1ea4.html"
-      },
-      "analysis": {
-        "mainFact": "Il governo argentino di Javier Milei ha approvato ufficialmente il maxi progetto di investimento dell'italiana Eni in associazione con Ypf (Argentina) e Xrg (Emirati Arabi Uniti) sull'esportazione di GNL.",
-        "whyItMatters": "Il progetto prevede un investimento di 25 miliardi di dollari tra il 2027 e il 2030 e raggiungerà complessivamente i 50,75 miliardi di dollari entro il 2050, secondo la nota di Buenos Aires.",
-        "confirmedFacts": [
-          "Il governo argentino di Javier Milei ha approvato ufficialmente il maxi progetto di investimento dell'italiana Eni in associazione con Ypf (Argentina) e Xrg (Emirati Arabi Uniti) sull'esportazione di GNL.",
-          "Il progetto prevede un investimento di 25 miliardi di dollari tra il 2027 e il 2030 e raggiungerà complessivamente i 50,75 miliardi di dollari entro il 2050, secondo la nota di Buenos Aires.",
-          "La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "governo argentino",
-          "Javier Milei",
-          "Eni",
-          "Ypf",
-          "Xrg",
-          "Emirati Arabi Uniti",
-          "Buenos Aires"
-        ],
-        "numbersAndDates": [
-          "La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires",
-          "25",
-          "2027",
-          "2030",
-          "50,75",
-          "2050"
-        ]
-      }
-    },
-    {
-      "id": "story-623fa769d0bb5f6a",
-      "title": "Cosa rivelano i leak della Deutsche Bank su Trump, Epstein e la Russia",
-      "summary": "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo.",
-      "spokenText": "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo. Le autorità di vigilanza del Regno Unito e degli Stati Uniti hanno accusato la banca di gravi inadempienze in materia di antiriciclaggio, e la Deutsche Bank ha pagato una multa complessiva di circa 630 milioni di dollari. La Deutsche Bank è uno dei più grandi istituti finanziari al mondo, con operazioni in 55 paesi. Nel 2015, la banca tedesca è stata travolta dal cosiddetto scandalo delle “mirror trades”, in cui operazioni fittizie effettuate tramite la sua filiale di Mosca hanno portato alla fuga di oltre 10 miliardi di dollari dalla Russia. Secondo quanto ricostruito dall’organizzazione di giornalismo investigativo iStories , almeno dal 2014 le società di Trump avrebbe ricevuto denaro da società di comodo coinvolte nelle “lavanderie” azera e russa. Di cosa parliamo in questo articolo: I leak su Trump La Deutsche Bank ha concesso prestiti a Trump per anni, anche dopo una serie di fallimenti e insolvenze delle sue aziende a partire dai primi anni ’90.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "deutsche bank",
-        "trump",
-        "epstein",
-        "oligarchi russi",
-        "leonardo",
-        "istories",
-        "regno unito",
-        "stati uniti"
+        "ambiente"
       ],
       "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 74,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/inchiesta-inside-deutsche-bank-trump-epstein/"
-      },
-      "analysis": {
-        "mainFact": "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo.",
-        "whyItMatters": "Le autorità di vigilanza del Regno Unito e degli Stati Uniti hanno accusato la banca di gravi inadempienze in materia di antiriciclaggio, e la Deutsche Bank ha pagato una multa complessiva di circa 630 milioni di dollari.",
-        "confirmedFacts": [
-          "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo.",
-          "Le autorità di vigilanza del Regno Unito e degli Stati Uniti hanno accusato la banca di gravi inadempienze in materia di antiriciclaggio, e la Deutsche Bank ha pagato una multa complessiva di circa 630 milioni di dollari.",
-          "La Deutsche Bank è uno dei più grandi istituti finanziari al mondo, con operazioni in 55 paesi.",
-          "Nel 2015, la banca tedesca è stata travolta dal cosiddetto scandalo delle “mirror trades”, in cui operazioni fittizie effettuate tramite la sua filiale di Mosca hanno portato alla fuga di oltre 10 miliardi di dollari dalla Russia.",
-          "Secondo quanto ricostruito dall’organizzazione di giornalismo investigativo iStories , almeno dal 2014 le società di Trump avrebbe ricevuto denaro da società di comodo coinvolte nelle “lavanderie” azera e russa:",
-          "Pagamenti sospetti erano stati rilevati anche nel maggio del 2015, poco prima che Trump annunciasse la sua candidatura alla presidenza degli Stati Uniti, e poi nel 2020.",
-          "Di cosa parliamo in questo articolo: I leak su Trump La Deutsche Bank ha concesso prestiti a Trump per anni, anche dopo una serie di fallimenti e insolvenze delle sue aziende a partire dai primi anni ’90.",
-          "Fatto sta che nel 2016, non appena era diventato chiaro che Trump sarebbe diventato presidente degli Stati Uniti, Deutsche Bank ha avviato un progetto interno chiamato “New Order” (Novus Ordo) e ha classificato Trump e la sua cerchia ristretta come “clienti protetti”."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Deutsche Bank",
-          "Trump",
-          "Epstein",
-          "oligarchi russi",
-          "Leonardo",
-          "iStories",
-          "Regno Unito",
-          "Stati Uniti"
-        ],
-        "numbersAndDates": [
-          "La Deutsche Bank è uno dei più grandi istituti finanziari al mondo, con operazioni in 55 paesi.",
-          "Nel 2015, la banca tedesca è stata travolta dal cosiddetto scandalo delle “mirror trades”, in cui operazioni fittizie effettuate tramite la sua filiale di Mosca hanno portato alla fuga di oltre 10 miliardi di dollari dalla Russia.",
-          "Pagamenti sospetti erano stati rilevati anche nel maggio del 2015, poco prima che Trump annunciasse la sua candidatura alla presidenza degli Stati Uniti, e poi nel 2020.",
-          "Di cosa parliamo in questo articolo: I leak su Trump La Deutsche Bank ha concesso prestiti a Trump per anni, anche dopo una serie di fallimenti e insolvenze delle sue aziende a partire dai primi anni ’90.",
-          "Fatto sta che nel 2016, non appena era diventato chiaro che Trump sarebbe diventato presidente degli Stati Uniti, Deutsche Bank ha avviato un progetto interno chiamato “New Order” (Novus Ordo) e ha classificato Trump e la sua cerchia ristretta come “clienti protetti”.",
-          "630"
-        ]
-      }
-    },
-    {
-      "id": "story-5ac1aeb496560802",
-      "title": "Vittoria di Apple: gli ordini di backdoor devono essere pubblici",
-      "summary": "Apple può confermare pubblicamente gli ordini ricevuti dal governo britannico per l'accesso ai dati cifrati degli utenti conservati su iCloud. The post Vittoria di Apple: gli ordini di backdoor devono essere pubblici appeared first on Punto Informatico.",
-      "spokenText": "L'Investigatory Powers Tribunal del Regno Unito ha stabilito che il governo deve rendere pubblici gli ordini di accesso ai dati cifrati degli utenti conservati su iCloud. Vittoria di Apple: gli ordini di backdoor devono essere pubblici Apple può confermare pubblicamente gli ordini ricevuti dal governo britannico per l'accesso ai dati cifrati degli utenti conservati su iCloud. All’inizio del 2025, il governo britannico ha ordinato ad Apple di creare una backdoor per consentire l’accesso a tali dati in caso di indagini. La legge (Investigatory Powers Act del 2016) vieta di confermare pubblicamente la ricezione degli ordini, denominati “technical capability notice” (TCN), per motivi di sicurezza nazionale. Apple (e altre aziende) possono comunicare a tutti che il governo britannico chiede di creare una backdoor per accedere ai dati degli utenti. Apple ha presentato un secondo ricorso che verrà esaminato nel 2027.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "apple",
-        "governo britannico",
-        "investigatory powers tribunal del regno unito",
-        "icloud"
-      ],
-      "importance": 85,
       "mustInclude": false,
       "estimatedSeconds": 56,
       "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/vittoria-apple-ordini-backdoor-pubblici/"
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/scienza-ricerca/cambiamento-climatico-ciclo-globale-mercurio"
       },
       "analysis": {
-        "mainFact": "L'Investigatory Powers Tribunal del Regno Unito ha stabilito che il governo deve rendere pubblici gli ordini di accesso ai dati cifrati degli utenti conservati su iCloud.",
-        "whyItMatters": "Vittoria di Apple: gli ordini di backdoor devono essere pubblici Apple può confermare pubblicamente gli ordini ricevuti dal governo britannico per l'accesso ai dati cifrati degli utenti conservati su iCloud.",
+        "mainFact": "L’interazione con il cambiamento climatico Il punto è che il ciclo del mercurio, compresa la sua trasformazione nell’ altamente tossico metilmercurio, sta subendo alterazioni rapide e finora poco studiate a causa del cambiamento climatico .",
+        "whyItMatters": "Pur con gravissimo ritardo rispetto ai fatti, il caso di Minamata ha portato a un cambiamento nella gestione globale del mercurio.",
         "confirmedFacts": [
-          "L'Investigatory Powers Tribunal del Regno Unito ha stabilito che il governo deve rendere pubblici gli ordini di accesso ai dati cifrati degli utenti conservati su iCloud.",
-          "Vittoria di Apple: gli ordini di backdoor devono essere pubblici Apple può confermare pubblicamente gli ordini ricevuti dal governo britannico per l'accesso ai dati cifrati degli utenti conservati su iCloud.",
-          "All’inizio del 2025, il governo britannico ha ordinato ad Apple di creare una backdoor per consentire l’accesso a tali dati in caso di indagini.",
-          "La legge (Investigatory Powers Act del 2016) vieta di confermare pubblicamente la ricezione degli ordini, denominati “technical capability notice” (TCN), per motivi di sicurezza nazionale.",
-          "Apple (e altre aziende) possono comunicare a tutti che il governo britannico chiede di creare una backdoor per accedere ai dati degli utenti.",
-          "Apple ha presentato un secondo ricorso che verrà esaminato nel 2027."
+          "L’interazione con il cambiamento climatico Il punto è che il ciclo del mercurio, compresa la sua trasformazione nell’ altamente tossico metilmercurio, sta subendo alterazioni rapide e finora poco studiate a causa del cambiamento climatico .",
+          "Pur con gravissimo ritardo rispetto ai fatti, il caso di Minamata ha portato a un cambiamento nella gestione globale del mercurio.",
+          "Nel 2013 è stata siglata la Convenzione di Minamata sul mercurio, entrata in vigore nel 2017.",
+          "Questo composto si forma quando il mercurio – naturalmente presente nell’ambiente – viene modificato dall’azione degli organismi anaerobici che vivono negli ambienti acquatici, e in questa versione modificata si diffonde lungo tutta la catena alimentare.",
+          "Gestire l’inquinamento storico da mercurio Ma la storia del mercurio non si chiude con la Convenzione di Minamata.",
+          "Ridurre – e a lungo termine eliminare – le immissioni di mercurio nell’ambiente a causa delle attività umane non risolverà un altro problema: come gestire il mercurio residuo , accumulato nei terreni e nelle acque in secoli di inquinamento.",
+          "Solo nel 1956 la malattia fu descritta ufficialmente; la sua origine fu accertata negli anni successivi: intossicazione da metilmercurio ."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Apple",
-          "governo britannico",
-          "Investigatory Powers Tribunal del Regno Unito",
-          "iCloud"
-        ],
+        "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "All’inizio del 2025, il governo britannico ha ordinato ad Apple di creare una backdoor per consentire l’accesso a tali dati in caso di indagini.",
-          "La legge (Investigatory Powers Act del 2016) vieta di confermare pubblicamente la ricezione degli ordini, denominati “technical capability notice” (TCN), per motivi di sicurezza nazionale.",
-          "Apple ha presentato un secondo ricorso che verrà esaminato nel 2027."
+          "Nel 2013 è stata siglata la Convenzione di Minamata sul mercurio, entrata in vigore nel 2017.",
+          "Solo nel 1956 la malattia fu descritta ufficialmente; la sua origine fu accertata negli anni successivi: intossicazione da metilmercurio ."
         ]
       }
     },
     {
-      "id": "story-39fcf07226b3de26",
-      "title": "Identity security, perché una password corretta non basta più",
-      "summary": "Per anni la sicurezza dell’identità digitale si è concentrata soprattutto su una domanda: chi sta tentando di accedere? Stabilire l’identità dell’utente resta essenziale, ma oggi non basta più. Dipend...",
-      "spokenText": "Stabilire l'identità dell'utente resta essenziale, ma oggi non basta più. Per anni, la sicurezza dell'identità digitale si è concentrata soprattutto sulla domanda di chi stia tentando di accedere. si tratta del prezzo più basso del 2026. ECOVACS DEEBOT T90S PRO OMNI Care Kit costa 499,00€ su Amazon, anziché 799,00€, con uno sconto del 38%: è il prezzo più basso del 2026.",
-      "category": "tecnologia",
+      "id": "story-5ae7ed0ca3570399",
+      "title": "Emissioni fossili giù nel 2026, ma è l’effetto di Hormuz",
+      "summary": "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5°C di aumento delle temperature medie, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili . La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili.",
+      "content": "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5 gradi di aumento delle temperature medie globali, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili. La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili. SCIENZA E RICERCA Emissioni annuali prodotte dai combustibili fossili, Our World in Data La Cina Tenendo a mente la particolarità del contesto geopolitico, è interessante guardare alle dinamiche nazionali. Il calo delle emissioni che si registrerà quest’anno sarà dello 0,4% rispetto all’anno scorso, una minuscola percentuale rispetto a quello che dovremmo fare per contrastare il cambiamento climatico. Le emissioni del solo settore petrolifero quest’anno caleranno del 1.9% rispetto a quello precedente.",
+      "spokenText": "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5 gradi di aumento delle temperature medie globali, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili. La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili. SCIENZA E RICERCA Emissioni annuali prodotte dai combustibili fossili, Our World in Data La Cina Tenendo a mente la particolarità del contesto geopolitico, è interessante guardare alle dinamiche nazionali. Il calo delle emissioni che si registrerà quest’anno sarà dello 0,4% rispetto all’anno scorso, una minuscola percentuale rispetto a quello che dovremmo fare per contrastare il cambiamento climatico. Le emissioni del solo settore petrolifero quest’anno caleranno del 1.9% rispetto a quello precedente.",
+      "category": "ambiente",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-16T14:52:39.000Z",
       "tags": [
-        "tecnologia",
-        "sicurezza dell identita digitale",
-        "utente"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 25,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/identity-security-perche-una-password-corretta-non-basta-piu"
-      },
-      "analysis": {
-        "mainFact": "Stabilire l'identità dell'utente resta essenziale, ma oggi non basta più.",
-        "whyItMatters": "La sicurezza dell'identità digitale si è concentrata per anni soprattutto sulla domanda di chi stia tentando di accedere.",
-        "confirmedFacts": [
-          "Stabilire l'identità dell'utente resta essenziale, ma oggi non basta più.",
-          "La sicurezza dell'identità digitale si è concentrata per anni soprattutto sulla domanda di chi stia tentando di accedere.",
-          "ECOVACS DEEBOT T90S PRO OMNI Care Kit costa 499,00€ su Amazon, anziché 799,00€, con uno sconto del 38%: è il prezzo più basso del 2026."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "sicurezza dell'identità digitale",
-          "utente"
-        ],
-        "numbersAndDates": [
-          "ECOVACS DEEBOT T90S PRO OMNI Care Kit costa 499,00€ su Amazon, anziché 799,00€, con uno sconto del 38%: è il prezzo più basso del 2026."
-        ]
-      }
-    },
-    {
-      "id": "story-5375da556be369d3",
-      "title": "Due nuovi grandi telescopi per il sito cileno di Ctao",
-      "summary": "Approvata una configurazione aggiornata che porta il numero di telescopi dell’emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53. Lucio Angelo Antonelli (Inaf): «Questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao»",
-      "spokenText": "È stata approvata una configurazione aggiornata che porta il numero di telescopi dell'emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53. Come ha sottolineato Lucio Angelo Antonelli dell'Inaf, questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "cherenkov telescope array observatory",
-        "ctao",
-        "cile",
-        "lucio angelo antonelli",
-        "inaf",
-        "mur"
+        "ambiente"
       ],
       "importance": 75,
       "mustInclude": false,
-      "estimatedSeconds": 27,
+      "estimatedSeconds": 56,
       "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/19/due-nuovi-grandi-telescopi-per-il-sito-cileno-di-ctao/"
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/scienza-ricerca/emissioni-combustibili-fossili-2026-global-carbon-project"
       },
       "analysis": {
-        "mainFact": "È stata approvata una configurazione aggiornata che porta il numero di telescopi dell'emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53.",
-        "whyItMatters": "Questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao.",
+        "mainFact": "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5°C di aumento delle temperature medie, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili .",
+        "whyItMatters": "La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili.",
         "confirmedFacts": [
-          "È stata approvata una configurazione aggiornata che porta il numero di telescopi dell'emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53.",
-          "Questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao.",
-          "Approvata una configurazione aggiornata che porta il numero di telescopi dell’emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53.",
-          "Lucio Angelo Antonelli (Inaf): «Questo risultato è il frutto di uno sforzo nazionale condiviso, in cui il supporto del Mur e le competenze dei nostri istituti di ricerca e dell'industria convergono per espandere la nostra visione dell'universo estremo con il Ctao»"
+          "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5°C di aumento delle temperature medie, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili .",
+          "La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili.",
+          "SCIENZA E RICERCA Emissioni annuali prodotte dai combustibili fossili, Our World in Data La Cina Tenendo a mente la particolarità del contesto geopolitico, è interessante guardare alle dinamiche nazionali.",
+          "L'ultimo anno in cui si era registrato un calo delle emissioni era stato il 2020 .",
+          "Il calo delle emissioni che si registrerà quest’anno sarà dello 0,4% rispetto all’anno scorso, una minuscola percentuale rispetto a quello che dovremmo fare per contrastare il cambiamento climatico.",
+          "Le emissioni del solo settore petrolifero quest’anno caleranno del 1.9% rispetto a quello precedente."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Cherenkov Telescope Array Observatory",
-          "Ctao",
-          "Cile",
-          "Lucio Angelo Antonelli",
-          "Inaf",
-          "Mur"
-        ],
+        "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "51",
-          "53"
+          "L'ultimo anno in cui si era registrato un calo delle emissioni era stato il 2020 .",
+          "Il calo delle emissioni che si registrerà quest’anno sarà dello 0,4% rispetto all’anno scorso, una minuscola percentuale rispetto a quello che dovremmo fare per contrastare il cambiamento climatico.",
+          "Le emissioni del solo settore petrolifero quest’anno caleranno del 1.9% rispetto a quello precedente.",
+          "2024",
+          "1,5",
+          "32",
+          "38,2"
         ]
       }
     },
     {
-      "id": "story-72805d1549a5d3bd",
-      "title": "SpaceX produce Starship in serie: basterà per un lancio a settimana",
-      "summary": "SpaceX ha mostrato alla stampa la fabbrica texana dove costruisce i due stadi del razzo SpaceX Starship. Secondo i responsabili dell’azienda, lo stabilimento completa uno stadio superiore ogni due set...",
-      "spokenText": "SpaceX ha aperto le porte della sua fabbrica texana ai giornalisti, mostrando lo stabilimento dove vengono costruiti i due stadi del razzo Starship.",
-      "category": "altro",
+      "id": "story-8c8cdadba63583a5",
+      "title": "Utilizzando i dati contemporanei dei registri svedesi, con validazione esterna in Finlandia, abbiamo ridefinito OxMIS come modelli specifici per diagnosi per i disturbi dello spettro schizofrenico e il disturbo bipolare",
+      "summary": "Utilizzando i dati contemporanei dei registri svedesi, con validazione esterna in Finlandia, abbiamo ridefinito OxMIS come modelli specifici per diagnosi per i disturbi dello spettro schizofrenico e il disturbo bipolare. Tuttavia, i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo e non è ancora chiaro se modelli separati per i disturbi dello spettro schizofrenico e il disturbo bipolare migliorino le prestazioni.",
+      "content": "OxMIS è uno dei pochi strumenti di valutazione del rischio di suicidio sviluppati per persone con gravi disturbi mentali e ha mostrato buone prestazioni negli studi di validazione esterna. I modelli aggiornati, denominati OxMIS2, hanno dimostrato generalmente una buona calibrazione, con differenze nei profili dei predittori e nelle prestazioni tra i gruppi diagnostici. Tuttavia, non è ancora chiaro se strumenti separati per queste due categorie diagnostiche migliorino le prestazioni complessive, e i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo.",
+      "spokenText": "OxMIS è uno dei pochi strumenti di valutazione del rischio di suicidio sviluppati per persone con gravi disturbi mentali e ha mostrato buone prestazioni negli studi di validazione esterna. I modelli aggiornati, denominati OxMIS2, hanno dimostrato generalmente una buona calibrazione, con differenze nei profili dei predittori e nelle prestazioni tra i gruppi diagnostici. Tuttavia, non è ancora chiaro se strumenti separati per queste due categorie diagnostiche migliorino le prestazioni complessive, e i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo.",
+      "category": "salute",
+      "editorialGroup": "psicoterapia",
+      "publishedAt": "2026-11-14T04:19:34.000Z",
       "tags": [
-        "altro",
-        "spacex",
-        "starship"
+        "salute"
       ],
-      "importance": 72,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 10,
+      "estimatedSeconds": 34,
       "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/scienze/spacex-produce-starship-in-serie-bastera-per-un-lancio-a-settimana"
+        "name": "BMJ Mental Health",
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302634?rss=1"
       },
       "analysis": {
-        "mainFact": "SpaceX ha mostrato alla stampa la fabbrica texana dove costruisce i due stadi del razzo SpaceX Starship.",
-        "whyItMatters": "",
+        "mainFact": "Utilizzando i dati contemporanei dei registri svedesi, con validazione esterna in Finlandia, abbiamo ridefinito OxMIS come modelli specifici per diagnosi per i disturbi dello spettro schizofrenico e il disturbo bipolare.",
+        "whyItMatters": "Tuttavia, i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo e non è ancora chiaro se modelli separati per i disturbi dello spettro schizofrenico e il disturbo bipolare migliorino le prestazioni.",
         "confirmedFacts": [
-          "SpaceX ha mostrato alla stampa la fabbrica texana dove costruisce i due stadi del razzo SpaceX Starship."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "SpaceX",
-          "Starship"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-8fe848d90429e90c",
-      "title": "Slide con l'AI \"gratis\", ma i tuoi file dove finiscono",
-      "summary": "Con 400 crediti alla registrazione si generano su Gamma presentazioni fino a 10 diapositive per richiesta, e su Canva il piano gratuito concede un accesso limitato agli strumenti di intelligenza artif...",
-      "spokenText": "Slide con l'AI presentata come gratuita, ma i file caricati dagli utenti finiscono su server esterni senza che sia chiaro dove vengano conservati o come vengano utilizzati.",
-      "category": "altro",
-      "tags": [
-        "altro"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 11,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/business/slide-con-lai-gratis-ma-i-tuoi-file-dove-finiscono"
-      },
-      "analysis": {
-        "mainFact": "Slide con l'AI \"gratis\", ma i tuoi file dove finiscono",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Slide con l'AI \"gratis\", ma i tuoi file dove finiscono"
+          "Utilizzando i dati contemporanei dei registri svedesi, con validazione esterna in Finlandia, abbiamo ridefinito OxMIS come modelli specifici per diagnosi per i disturbi dello spettro schizofrenico e il disturbo bipolare.",
+          "Tuttavia, i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo e non è ancora chiaro se modelli separati per i disturbi dello spettro schizofrenico e il disturbo bipolare migliorino le prestazioni.",
+          "Lo strumento Oxford Mental Illness and Suicide (OxMIS) è uno dei pochi modelli di valutazione del rischio di suicidio sviluppati per persone con gravi disturbi mentali e ha mostrato buone prestazioni negli studi di validazione esterna.",
+          "I modelli aggiornati (OxMIS2) hanno dimostrato generalmente una buona calibrazione, con differenze nei profili dei predittori e nelle prestazioni del modello tra i gruppi diagnostici."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -441,217 +121,106 @@
       }
     },
     {
-      "id": "story-74bc67177e0316fe",
-      "title": "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a",
-      "summary": "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a 83 dollari ciascuna, come ha annunciato mercoledì.",
-      "spokenText": "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a 83 dollari ciascuna, come annunciato mercoledì.",
-      "category": "altro",
+      "id": "story-511d6ff568c55147",
+      "title": "Allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio versus trattamento abituale ottimizzato in pazienti con cancro (Reduct): uno studio multicentrico, a gruppi paralleli, randomizzato controllato",
+      "summary": "Allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio versus trattamento abituale ottimizzato in pazienti con cancro (Reduct): uno studio multicentrico, a gruppi paralleli, randomizzato controllato Questo studio multicentrico, a gruppi paralleli, randomizzato controllato aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
+      "content": "Uno studio multicentrico, a gruppi paralleli e randomizzato controllato ha confrontato un allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio con il trattamento abituale ottimizzato in pazienti con cancro. I risultati suggeriscono che gli interventi EMH autoguidati possono migliorare esiti specifici come l'ansia e l'autoefficacia, ma non il disagio globale. Questa ricerca aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
+      "spokenText": "Uno studio multicentrico, a gruppi paralleli e randomizzato controllato ha confrontato un allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio con il trattamento abituale ottimizzato in pazienti con cancro. I risultati suggeriscono che gli interventi EMH autoguidati possono migliorare esiti specifici come l'ansia e l'autoefficacia, ma non il disagio globale. Questa ricerca aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
+      "category": "salute",
+      "editorialGroup": "psicoterapia",
+      "publishedAt": "2026-11-14T04:19:35.000Z",
       "tags": [
-        "altro",
-        "anthropic",
-        "claude",
-        "openai"
-      ],
-      "importance": 72,
-      "mustInclude": false,
-      "estimatedSeconds": 8,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a 83 dollari ciascuna, come ha annunciato mercoledì.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Anthropic sta quotando l'attività alla borsa statunitense e venderà le sue azioni a 83 dollari ciascuna, come ha annunciato mercoledì.",
-          "The company behind the AI platform Claude was formed by seven people who left rival OpenAI in 2021 and, in a matter of hours, will become multi-billionaires - on paper at least.",
-          "Anthropic is floating the business on the US stock exchange and will sell its shares at $83 each, it said on Wednesday.",
-          "At that price, the founders' shareholdings will be worth at least $19.3bn (£14.7bn) each.",
-          "Now 43, he is Anthropic's chief executive, and the person who, in his sister's words, makes the company \"ambitious\".",
-          "The 39-year-old is president of Anthropic, manages the executive team, and leads the firm's research, engineering, product, governance and commercial work.",
-          "Jack Clark - $19.8bn Image source, Peerapon Boonyakiat/SOPA Images/LightRocket via Getty Images Jack Clark, is another arts graduate among the original start-up's founding members and the only one who is not from North America.",
-          "Now, 37, Clark is head of public benefit at Anthropic.",
-          "Ratcliffe/Bloomberg via Getty Images Jared Kaplan, 42, is chief science officer at Anthropic, and heads its technical research."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Anthropic",
-          "Claude",
-          "OpenAI"
-        ],
-        "numbersAndDates": [
-          "83"
-        ]
-      }
-    },
-    {
-      "id": "story-c24756500f2e05a8",
-      "title": "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover",
-      "summary": "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover Curiosity della NASA su Marte fino a novembre 2026.",
-      "spokenText": "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover Curiosity della NASA su Marte fino a novembre 2026.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "nasa",
-        "curiosity"
+        "salute"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 10,
+      "estimatedSeconds": 30,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+        "name": "BMJ Mental Health",
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302908?rss=1"
       },
       "analysis": {
-        "mainFact": "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover Curiosity della NASA su Marte fino a novembre 2026.",
-        "whyItMatters": "Raccolta campioni marziani da Curiosity, esplorazione spaziale con valore scientifico alto.",
+        "mainFact": "Allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio versus trattamento abituale ottimizzato in pazienti con cancro (Reduct): uno studio multicentrico, a gruppi paralleli, randomizzato controllato",
+        "whyItMatters": "Questo studio multicentrico, a gruppi paralleli, randomizzato controllato aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
         "confirmedFacts": [
-          "Il collage del 16 novembre 2026 mostra 49 fori di perforazione catturati dal rover Curiosity della NASA su Marte fino a novembre 2026.",
-          "Raccolta campioni marziani da Curiosity, esplorazione spaziale con valore scientifico alto.",
-          "16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026."
+          "Allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio versus trattamento abituale ottimizzato in pazienti con cancro (Reduct): uno studio multicentrico, a gruppi paralleli, randomizzato controllato",
+          "Questo studio multicentrico, a gruppi paralleli, randomizzato controllato aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
+          "I risultati suggeriscono che gli interventi EMH autoguidati possono migliorare esiti specifici come l'ansia e l'autoefficacia, ma non il disagio globale nei pazienti con cancro."
         ],
         "uncertainties": [],
-        "peopleAndOrganizations": [
-          "NASA",
-          "Curiosity"
-        ],
-        "numbersAndDates": [
-          "16",
-          "2026",
-          "49"
-        ]
-      }
-    },
-    {
-      "id": "story-9f42a5d39b74b5f9",
-      "title": "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del",
-      "summary": "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del fatturato annuale basata sul mese precedente) era di 81 miliardi di dollari.",
-      "spokenText": "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic era di 81 miliardi di dollari, una stima del fatturato annuale basata sul mese precedente. Guardando al breve termine, la bolletta prevista per i prossimi 12 mesi si attesta intorno ai 70 miliardi di dollari, una cifra che risulta gestibile con l'attuale tasso di fatturato annualizzato di 81 miliardi di dollari. Ciò potrebbe essere importante per un'azienda che ha già assunto impegni di spesa futuri per circa 900 miliardi di dollari, principalmente su infrastrutture di calcolo, tra ora e il 2045.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "anthropic",
-        "nasdaq",
-        "spacex",
-        "wall street journal"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 37,
-      "source": {
-        "name": "The Conversation",
-        "url": "https://theconversation.com/was-anthropics-record-us-81-billion-listing-a-vote-of-confidence-in-ai-and-whats-next-297151"
-      },
-      "analysis": {
-        "mainFact": "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del fatturato annuale basata sul mese precedente) era di 81 miliardi di dollari.",
-        "whyItMatters": "IPO record di Anthropic da 81 miliardi, evento chiave per l'industria AI e l'economia tecnologica.",
-        "confirmedFacts": [
-          "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del fatturato annuale basata sul mese precedente) era di 81 miliardi di dollari.",
-          "IPO record di Anthropic da 81 miliardi, evento chiave per l'industria AI e l'economia tecnologica.",
-          "Ciò potrebbe essere importante per un'azienda che ha già assunto impegni di spesa futuri per circa 900 miliardi di dollari, principalmente su infrastrutture di calcolo, tra ora e il 2045.",
-          "La bolletta a breve termine nei prossimi 12 mesi è di circa 70 miliardi di dollari, gestibile con l'attuale tasso di fatturato annualizzato di 81 miliardi di dollari."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Anthropic",
-          "Nasdaq",
-          "SpaceX",
-          "Wall Street Journal"
-        ],
-        "numbersAndDates": [
-          "Alla fine di ottobre, il tasso annualizzato di fatturato di Anthropic (una stima del fatturato annuale basata sul mese precedente) era di 81 miliardi di dollari.",
-          "Ciò potrebbe essere importante per un'azienda che ha già assunto impegni di spesa futuri per circa 900 miliardi di dollari, principalmente su infrastrutture di calcolo, tra ora e il 2045.",
-          "La bolletta a breve termine nei prossimi 12 mesi è di circa 70 miliardi di dollari, gestibile con l'attuale tasso di fatturato annualizzato di 81 miliardi di dollari.",
-          "81"
-        ]
-      }
-    },
-    {
-      "id": "story-323a7d81b381ea5e",
-      "title": "Casa, lavoro e benessere psicologico",
-      "summary": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore. Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica.",
-      "spokenText": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore. Oltre il 30 per cento dei giovani ha un contratto a termine, nonostante una buona performance del mercato del lavoro negli ultimi anni. Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero. Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica completano un quadro di profonda incertezza. L'Italia, con dati del 2024, presenta un'elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "giovani europei",
-        "italia",
-        "mercato del lavoro",
-        "contratti a termine",
-        "piazze",
-        "rappresentanza politica"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 45,
-      "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/giovani-proteste-lavoro-casa-salute-mentale/"
-      },
-      "analysis": {
-        "mainFact": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore.",
-        "whyItMatters": "L'Italia, con dati del 2024, presenta un'elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento.",
-        "confirmedFacts": [
-          "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore.",
-          "L'Italia, con dati del 2024, presenta un'elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento.",
-          "Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica.",
-          "Anche chi un impiego ce l’ha, si trova in situazione di precarietà, nonostante una buona performance del mercato del lavoro in questi ultimi anni: oltre il 30 per cento dei giovani, infatti, ha un contratto a termine.",
-          "Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero ."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "giovani europei",
-          "Italia",
-          "mercato del lavoro",
-          "contratti a termine",
-          "piazze",
-          "rappresentanza politica"
-        ],
-        "numbersAndDates": [
-          "Anche chi un impiego ce l’ha, si trova in situazione di precarietà, nonostante una buona performance del mercato del lavoro in questi ultimi anni: oltre il 30 per cento dei giovani, infatti, ha un contratto a termine.",
-          "Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero .",
-          "2024",
-          "35"
-        ]
-      }
-    },
-    {
-      "id": "story-9b0dade63dc2ed95",
-      "title": "Il governo vuole che più case abbiano pompe di calore per ridurre l'uso di",
-      "summary": "Il governo vuole che più case abbiano pompe di calore per ridurre l'uso di combustibili fossili e abbassare le bollette energetiche.",
-      "spokenText": "Il governo punta a diffondere l'installazione di più pompe di calore nelle abitazioni per ridurre l'uso di combustibili fossili e abbassare le bollette energetiche.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "nesta"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 10,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Il governo vuole che più case abbiano pompe di calore per ridurre l'uso di combustibili fossili e abbassare le bollette energetiche.",
-        "whyItMatters": "Pompe di calore e riduzione combustibili fossili, tema energia e ambiente centrale.",
-        "confirmedFacts": [
-          "Il governo vuole che più case abbiano pompe di calore per ridurre l'uso di combustibili fossili e abbassare le bollette energetiche.",
-          "Pompe di calore e riduzione combustibili fossili, tema energia e ambiente centrale.",
-          "The changes are estimated to add £10,000 to the price of new homes, though owners will likely save money on energy bills over the long term.",
-          "In January, the government introduced a £15bn Warm Homes Plan to help UK households pay for green technologies as part of efforts to reduce fossil fuel use and energy bills.",
-          "The system consists of a box measuring about 1m x 1m x 0.4m (3ft x 3ft x 1.3ft) which stands outside the property, as well as a heat pump unit and hot water cylinder inside the property.",
-          "The Boiler Upgrade Scheme provides a grant of £7,500 towards the cost of an air source or ground source heat pump for homeowners in England and Wales.",
-          "The property must have an eligible Energy Performance Certificate (EPC) - a measure of how your property is performing - issued in the last 10 years.",
-          "Scotland , external and Northern Ireland , external have separate schemes to help make homes more efficient.",
-          "Heat pump installations currently benefit from a 0% VAT rate, but this is set to rise to 5% in April 2027.",
-          "The innovation charity Nesta estimates that the average home with a heat pump and solar panels could cut its annual energy bill by nearly £1,000."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Nesta"
-        ],
+        "peopleAndOrganizations": [],
         "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-719c43bc9ab8426c",
+      "title": "Un esempio è Klebsiella pneumoniae resistente ai carbapenemi, una classe di antibiotici riservata al trattamento di infezioni gravi",
+      "summary": "Un esempio è Klebsiella pneumoniae resistente ai carbapenemi, una classe di antibiotici riservata al trattamento di infezioni gravi. Allo stesso tempo, il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale, e per questo motivo la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti agli antibiotici.",
+      "content": "Un esempio di resistenza agli antibiotici è rappresentato da Klebsiella pneumoniae resistente ai carbapenemi, una classe di farmaci riservata al trattamento di infezioni gravi. Questo fenomeno si inserisce in un contesto in cui il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale. Proprio per questo motivo, la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti a questi farmaci. Obiettivi UE Ridurre il consumo totale di antibiotici negli esseri umani del 20%.",
+      "spokenText": "Un esempio di resistenza agli antibiotici è rappresentato da Klebsiella pneumoniae resistente ai carbapenemi, una classe di farmaci riservata al trattamento di infezioni gravi. Questo fenomeno si inserisce in un contesto in cui il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale. Proprio per questo motivo, la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti a questi farmaci. Obiettivi UE Ridurre il consumo totale di antibiotici negli esseri umani del 20%.",
+      "category": "salute",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-18T05:00:07.000Z",
+      "tags": [
+        "salute"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 32,
+      "source": {
+        "name": "ECDC News",
+        "url": "https://www.ecdc.europa.eu/en/news-events/urgent-action-needed-safeguard-effectiveness-antibiotics"
+      },
+      "analysis": {
+        "mainFact": "Un esempio è Klebsiella pneumoniae resistente ai carbapenemi, una classe di antibiotici riservata al trattamento di infezioni gravi.",
+        "whyItMatters": "Allo stesso tempo, il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale, e per questo motivo la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti agli antibiotici.",
+        "confirmedFacts": [
+          "Un esempio è Klebsiella pneumoniae resistente ai carbapenemi, una classe di antibiotici riservata al trattamento di infezioni gravi.",
+          "Allo stesso tempo, il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale, e per questo motivo la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti agli antibiotici.",
+          "Obiettivi UE Ridurre il consumo totale di antibiotici negli esseri umani del 20%."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "Obiettivi UE Ridurre il consumo totale di antibiotici negli esseri umani del 20%.",
+          "90",
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-a1003f96d5857309",
+      "title": "Casi sono stati segnalati anche in Kenya e Nigeria nell'ottobre 2026 e sono stati segnalati in Uganda, dove il focolaio è terminato",
+      "summary": "Casi sono stati segnalati anche in Kenya e Nigeria nell'ottobre 2026 e sono stati segnalati in Uganda, dove il focolaio è terminato. Dall'inizio del focolaio, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
+      "content": "Casi di Ebola sono stati segnalati in Kenya e Nigeria nell'ottobre 2026, mentre in Uganda il focolaio si è concluso. In Nigeria, un caso è stato confermato il 20 ottobre 2026. Dall'inizio dell'epidemia, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
+      "spokenText": "Casi di Ebola sono stati segnalati in Kenya e Nigeria nell'ottobre 2026, mentre in Uganda il focolaio si è concluso. In Nigeria, un caso è stato confermato il 20 ottobre 2026. Dall'inizio dell'epidemia, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
+      "category": "salute",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-17T16:36:21.000Z",
+      "tags": [
+        "salute"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 20,
+      "source": {
+        "name": "ECDC News",
+        "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026"
+      },
+      "analysis": {
+        "mainFact": "Casi sono stati segnalati anche in Kenya e Nigeria nell'ottobre 2026 e sono stati segnalati in Uganda, dove il focolaio è terminato.",
+        "whyItMatters": "Dall'inizio del focolaio, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
+        "confirmedFacts": [
+          "Casi sono stati segnalati anche in Kenya e Nigeria nell'ottobre 2026 e sono stati segnalati in Uganda, dove il focolaio è terminato.",
+          "Dall'inizio del focolaio, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
+          "In Nigeria, un caso di Ebola è stato segnalato il 20 ottobre 2026."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "In Nigeria, un caso di Ebola è stato segnalato il 20 ottobre 2026.",
+          "2026"
+        ]
       }
     }
   ]
