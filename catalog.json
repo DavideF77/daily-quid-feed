@@ -1,627 +1,649 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-17-c4276ea31f59",
-  "generatedAt": "2026-11-17T15:25:04.156Z",
+  "catalogId": "daily-quid-2026-11-20-00faad999bc2",
+  "generatedAt": "2026-11-20T14:47:36.943Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-d1829673be79b0b4",
-      "title": "Un calo della CO2 fossile: c'entra la guerra",
-      "summary": "Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossili, mentre aumentano quelle da conversione del suolo.",
-      "spokenText": "Le proiezioni del Global Carbon Budget stimano per il 2026 una diminuzione delle emissioni di CO2 fossili, che dovrebbero raggiungere i 38,2 miliardi di tonnellate, con un calo dello 0,4% rispetto all'anno precedente. Scendono in particolare quelle legate al petrolio, meno il gas, mentre il carbone sale. Le emissioni globali di CO2 aumentano comunque Sono invece destinate ad aumentare leggermente le emissioni di CO2 derivanti da conversione del suolo , come per esempio la deforestazione.",
+      "id": "story-06c02de56c290aeb",
+      "title": "Sul clima, la Cina potrebbe promettere di più (o forse no)",
+      "summary": "La Cina ha raggiunto in anticipo molti degli obiettivi che si è posta sul clima e secondo alcuni supererà anche quelli del 2030 e del 2035. I più critici li ritengono ancora troppo prudenti, ma dietro a obiettivi cauti si nasconde una realtà più complessa.",
+      "spokenText": "La Cina ha raggiunto in anticipo molti degli obiettivi che si è posta sul clima e secondo alcuni supererà anche quelli del 2030 e del 2035. I più critici li ritengono ancora troppo prudenti, ma dietro a obiettivi cauti si nasconde una realtà più complessa. Il paese è tra le grandi economie che crescono più in fretta (il PIL è salito del 5 per cento nel 2025) ma è anche il primo emettitore al mondo. Il paese guida le proprie politiche interne attraverso piani quinquennali e nel neonato piano in corso 2026-2030 l’obiettivo di riduzione dell’intensità di carbonio è del 17 per cento, di poco più basso del precedente. Nell’ultimo rapporto del 2026 il CAT definisce l’impegno della Cina come « altamente insufficiente ». Quello che il paese fa oggi sul clima è compatibile con un mondo a 3 °C, ma quello che si impegna a fare è compatibile con un mondo a 4 °C. La Cina afferma di voler ridurre del 7-10 per cento le emissioni rispetto al picco – ma senza indicare l’anno del picco da cui misurarlo.",
       "category": "ambiente",
       "tags": [
         "ambiente",
-        "global carbon budget",
-        "2026"
+        "cina",
+        "cat",
+        "xi jinping",
+        "pil"
       ],
-      "importance": 80,
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 72,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/cina-clima-promesse-obiettivi/"
+      },
+      "analysis": {
+        "mainFact": "Sul clima, la Cina potrebbe promettere di più (o forse no)",
+        "whyItMatters": "La Cina ha raggiunto in anticipo molti degli obiettivi che si è posta sul clima e secondo alcuni supererà anche quelli del 2030 e del 2035.",
+        "confirmedFacts": [
+          "Sul clima, la Cina potrebbe promettere di più (o forse no)",
+          "La Cina ha raggiunto in anticipo molti degli obiettivi che si è posta sul clima e secondo alcuni supererà anche quelli del 2030 e del 2035.",
+          "I più critici li ritengono ancora troppo prudenti, ma dietro a obiettivi cauti si nasconde una realtà più complessa.",
+          "Il paese è tra le grandi economie che crescono più in fretta (il PIL è salito del 5 per cento nel 2025) ma è anche il primo emettitore al mondo.",
+          "Il paese guida le proprie politiche interne attraverso piani quinquennali e nel neonato piano in corso 2026-2030 l’obiettivo di riduzione dell’intensità di carbonio è del 17 per cento, di poco più basso del precedente.",
+          "Nell’ultimo rapporto del 2026 il CAT definisce l’impegno della Cina come « altamente insufficiente ».",
+          "Quello che il paese fa oggi sul clima è compatibile con un mondo a 3 °C, ma quello che si impegna a fare è compatibile con un mondo a 4 °C.",
+          "la Cina afferma di voler ridurre del 7-10 per cento le emissioni rispetto al picco – ma senza indicare l’anno del picco da cui misurarlo;"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Cina",
+          "CAT",
+          "Xi Jinping",
+          "PIL"
+        ],
+        "numbersAndDates": [
+          "Il paese è tra le grandi economie che crescono più in fretta (il PIL è salito del 5 per cento nel 2025) ma è anche il primo emettitore al mondo.",
+          "Il paese guida le proprie politiche interne attraverso piani quinquennali e nel neonato piano in corso 2026-2030 l’obiettivo di riduzione dell’intensità di carbonio è del 17 per cento, di poco più basso del precedente.",
+          "Nell’ultimo rapporto del 2026 il CAT definisce l’impegno della Cina come « altamente insufficiente ».",
+          "Quello che il paese fa oggi sul clima è compatibile con un mondo a 3 °C, ma quello che si impegna a fare è compatibile con un mondo a 4 °C.",
+          "la Cina afferma di voler ridurre del 7-10 per cento le emissioni rispetto al picco – ma senza indicare l’anno del picco da cui misurarlo;",
+          "2030",
+          "2035"
+        ]
+      }
+    },
+    {
+      "id": "story-63273eaa3781d60a",
+      "title": "Verso una gestione unificata dei procedimenti e dei sopralluoghi \"in campo\"",
+      "summary": "Razionalizzazione dei monitoraggi, vincoli procedurali ed efficienza tecnico-scientifica nel raccordo tra VIA, Verifiche di Ottemperanza e AIA Il quadro normativo e procedurale dei controlli ambientali sugli impianti industriali di competenza statale ha raggiunto uno punto operativo determinante con la disciplina introdotta dal D. Lgs. 197/2026. La coesistenza presso il medesimo stabilimento della Valutazione di Impatto Ambientale (VIA), orientata all'analisi degli effetti significativi diretti e indiretti determinati dalla realizzazione dell'opera, e dell'Autorizzazione Integrata Ambientale (AIA), focalizzata sull'impatto derivante dall'esercizio continuativo dell'attività produttive, ha reso non rinviabile il superamento delle frammentazioni autorizzative ed ispettive. Tale richiesta emerge anche dal DLgs. 103 del 12 luglio 2024 in materia di semplificazione dei controlli sulle attività economiche al fine di assicurare la semplificazione degli adempimenti e delle attività di controllo, consentendo l'efficace tutela degli interessi pubblici, nonché di favorire la ripresa e il rilancio delle attività economiche.",
+      "spokenText": "Verso una gestione unificata dei procedimenti e dei sopralluoghi in campo. Le attività di verifica e controllo prescritte dal provvedimento di VIA e dalla fase di Verifica di Ottemperanza vengono gestite in modo unificato all'interno della procedura dei controlli AIA e dei procedimenti unificati. Il raccordo riguarda anche le emissioni acustiche e le vibrazioni, con l'integrazione tra i controlli di potenza sonora al perimetro dell'installazione e i rilievi fonometrici condotti presso i ricettori sensibili esterni.",
+      "category": "ambiente",
+      "tags": [
+        "ambiente",
+        "verifica di ottemperanza vo"
+      ],
+      "importance": 72,
       "mustInclude": false,
       "estimatedSeconds": 30,
       "source": {
-        "name": "Focus",
-        "url": "https://www.focus.it/ambiente/ecologia/nel-2026-emetteremo-un-po-meno-co2-da-combustibili-fossili-c-entrano-gli-shock-geopolitici"
+        "name": "ISPRA Notizie",
+        "url": "https://www.isprambiente.gov.it/it/news/verso-una-gestione-unificata-dei-procedimenti-e-dei-sopralluoghi-in-campo"
       },
       "analysis": {
-        "mainFact": "Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossili, mentre aumentano quelle da conversione del suolo.",
-        "whyItMatters": "Le emissioni globali di CO2 aumentano comunque Sono invece destinate ad aumentare leggermente le emissioni di CO2 derivanti da conversione del suolo , come per esempio la deforestazione :",
+        "mainFact": "Verso una gestione unificata dei procedimenti e dei sopralluoghi \"in campo\"",
+        "whyItMatters": "Impianti esistenti già sottoposti a VIA: Le attività di verifica e controllo prescritte dal provvedimento di VIA e dalla fase di Verifica di Ottemperanza (VO) vengono gestite in modo unificato all'interno della procedura dei controlli AIA e dei procedimenti unificati.",
         "confirmedFacts": [
-          "Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossili, mentre aumentano quelle da conversione del suolo.",
-          "Le emissioni globali di CO2 aumentano comunque Sono invece destinate ad aumentare leggermente le emissioni di CO2 derivanti da conversione del suolo , come per esempio la deforestazione :",
-          "Ecologia Nel 2026 emetteremo un po' meno CO2 da combustibili fossili: c'entrano gli shock geopolitici Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossile, mentre aumentano quelle da conversione del suolo.",
-          "Nel 2026, le emissioni globali di CO2 da combustibili fossili potrebbero registrare una diminuzione dello 0,4% rispetto allo scorso anno:",
-          "Lo sostiene il Global Carbon Budget , progetto che riunisce oltre 140 scienziati e che monitora l'andamento delle emissioni e dei pozzi di carbonio a livello globale, e secondo il quale, nel 2026, le emissioni di CO2 da combustibili fossili dovrebbero raggiungere le 38,2 miliardi di tonnellate.",
-          "Scendono infatti, per effetto dell'aumento dei prezzi e dell'interruzione nella catena di approvvigionamento del carburante, soprattutto le emissioni di CO2 legate al petrolio (-1,9%), seguite da quelle di gas naturale (-0,3%); quelle legate al carbone salgono dello 0,6%.",
-          "Prima d'ora i due maggiori cali di emissioni di CO2 nel 21esimo secolo sono avvenuti nel 2020 (un calo del 6% attribuito alla pandemia di CoViD-19 ) e nel 2009 (un calo del 2% rispetto all'anno precedente, dovuto alla crisi finanziaria).",
-          "I costi del carburante sono una delle ragioni dietro al calo delle emissioni fossili del 2026."
+          "Verso una gestione unificata dei procedimenti e dei sopralluoghi \"in campo\"",
+          "Impianti esistenti già sottoposti a VIA: Le attività di verifica e controllo prescritte dal provvedimento di VIA e dalla fase di Verifica di Ottemperanza (VO) vengono gestite in modo unificato all'interno della procedura dei controlli AIA e dei procedimenti unificati.",
+          "Emissioni acustiche e vibrazioni: raccordo tra i controlli di potenza sonora al perimetro dell'installazione (PMC) e i rilievi fonometrici condotti presso i ricettori sensibili esterni (PMA)."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Global Carbon Budget",
-          "2026"
-        ],
-        "numbersAndDates": [
-          "Ecologia Nel 2026 emetteremo un po' meno CO2 da combustibili fossili: c'entrano gli shock geopolitici Le proiezioni del Global Carbon Budget stimano una diminuzione delle emissioni di CO2 fossile, mentre aumentano quelle da conversione del suolo.",
-          "Nel 2026, le emissioni globali di CO2 da combustibili fossili potrebbero registrare una diminuzione dello 0,4% rispetto allo scorso anno:",
-          "Lo sostiene il Global Carbon Budget , progetto che riunisce oltre 140 scienziati e che monitora l'andamento delle emissioni e dei pozzi di carbonio a livello globale, e secondo il quale, nel 2026, le emissioni di CO2 da combustibili fossili dovrebbero raggiungere le 38,2 miliardi di tonnellate.",
-          "Scendono infatti, per effetto dell'aumento dei prezzi e dell'interruzione nella catena di approvvigionamento del carburante, soprattutto le emissioni di CO2 legate al petrolio (-1,9%), seguite da quelle di gas naturale (-0,3%); quelle legate al carbone salgono dello 0,6%.",
-          "Prima d'ora i due maggiori cali di emissioni di CO2 nel 21esimo secolo sono avvenuti nel 2020 (un calo del 6% attribuito alla pandemia di CoViD-19 ) e nel 2009 (un calo del 2% rispetto all'anno precedente, dovuto alla crisi finanziaria).",
-          "I costi del carburante sono una delle ragioni dietro al calo delle emissioni fossili del 2026."
-        ]
-      }
-    },
-    {
-      "id": "story-a60fd5e0eb43b546",
-      "title": "Asma grave, con farmaco biologico bastano 2 iniezioni l'anno e arriva primo 'generico'",
-      "summary": "Ora si punta a curare più persone con benefici che durano di più",
-      "spokenText": "Il primo anticorpo monoclonale usato contro l'asma dal 2005 ha ora il suo generico, un farmaco equivalente rimborsabile in Italia da aprile, con stessa efficacia e sicurezza del farmaco di riferimento. Secondo i dati del registro Sani sull'asma grave, il 42% di questi pazienti soffre anche di poliposi nasale. In Europa è stato approvato il primo biologico con somministrazione ogni sei mesi, capace di ridurre di oltre il 50% gli attacchi di asma grave, mentre un farmaco già in uso ha mostrato nella pratica clinica un'efficacia fino a tre anni contro le riacutizzazioni.",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "primo anticorpo monoclonale usato contro l asma ",
-        "farmaco equivalente",
-        "italia",
-        "europa",
-        "registro sani"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 38,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/17/asma-grave-con-farmaco-biologico-bastano-2-iniezioni-lanno-e-arriva-primo_5f0a16c4-5e9a-498e-b09c-6320229dfd13.html"
-      },
-      "analysis": {
-        "mainFact": "Il primo anticorpo monoclonale usato contro l'asma dal 2005 ha ora il suo generico, ossia un farmaco equivalente, rimborsabile in Italia da aprile, con stessa efficacia e sicurezza del farmaco di riferimento.",
-        "whyItMatters": "Secondo i dati del registro 'Sani' sull'asma grave, il 42% di questi pazienti soffre anche di poliposi nasale.",
-        "confirmedFacts": [
-          "Il primo anticorpo monoclonale usato contro l'asma dal 2005 ha ora il suo generico, ossia un farmaco equivalente, rimborsabile in Italia da aprile, con stessa efficacia e sicurezza del farmaco di riferimento.",
-          "Secondo i dati del registro 'Sani' sull'asma grave, il 42% di questi pazienti soffre anche di poliposi nasale.",
-          "In Europa stato approvato il primo biologico con una somministrazione ogni 6 mesi, capace di ridurre di oltre il 50% gli attacchi di asma grave.",
-          "E, mentre le opzioni terapeutiche si moltiplicano, un farmaco gi in uso ha mostrato nella pratica clinica un'efficacia fino a 3 anni contro le riacutizzazioni."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "primo anticorpo monoclonale usato contro l'asma dal 2005",
-          "farmaco equivalente",
-          "Italia",
-          "Europa",
-          "registro 'Sani'"
-        ],
-        "numbersAndDates": [
-          "In Europa stato approvato il primo biologico con una somministrazione ogni 6 mesi, capace di ridurre di oltre il 50% gli attacchi di asma grave.",
-          "E, mentre le opzioni terapeutiche si moltiplicano, un farmaco gi in uso ha mostrato nella pratica clinica un'efficacia fino a 3 anni contro le riacutizzazioni.",
-          "2005",
-          "42"
-        ]
-      }
-    },
-    {
-      "id": "story-52f99a1743c5a577",
-      "title": "Oltre il corpo: Il dolore cronico che diviene anche dolore emotivo",
-      "summary": "Dolore cronico e sofferenza emotiva sono strettamente connessi e ansia, depressione e rabbia possono influenzare la percezione del dolore e il benessere psicologico L'articolo Oltre il corpo: Il dolore cronico che diviene anche dolore emotivo proviene da State of Mind.",
-      "spokenText": "Il dolore cronico, definito come un dolore ricorrente o persistente che dura oltre tre mesi, non è solo una questione fisica. Esiste una relazione bidirezionale tra il dolore somatico e quello emotivo, dove ansia, depressione e rabbia influenzano la percezione del benessere. Circa il quaranta per cento delle persone affette manifesta sintomi clinicamente significativi di depressione o ansia, rendendo questa concomitanza un problema di salute pubblica. Superare la dicotomia mente-corpo è necessario per comprendere l'interdipendenza tra fisico e psiche. 2021). La letteratura concorde nel riconoscere che dolore cronico somatico e dolore psicologico-emotivo spesso co-occorrono e presentano una relazione di natura bidirezionale, caratterizzata da reciproche influenze (Stubbs et al. 2025).",
-      "category": "salute",
-      "tags": [
-        "salute",
-        "dolore cronico",
-        "ansia",
-        "depressione",
-        "rabbia",
-        "state of mind"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 44,
-      "source": {
-        "name": "State of Mind (Psicologia)",
-        "url": "https://www.stateofmind.it/2026/11/dolore-cronico-dolore-emotivo/?utm_source=rss&utm_medium=rss&utm_campaign=dolore-cronico-dolore-emotivo"
-      },
-      "analysis": {
-        "mainFact": "Dolore cronico e sofferenza emotiva sono strettamente connessi e ansia, depressione e rabbia possono influenzare la percezione del dolore e il benessere psicologico.",
-        "whyItMatters": "Circa il 40% delle persone affette da dolore cronico manifesta sintomi clinicamente significativi di depressione o ansia, e la concomitanza di dolore cronico, depressione e ansia rappresenta un problema significativo di salute pubblica.",
-        "confirmedFacts": [
-          "Dolore cronico e sofferenza emotiva sono strettamente connessi e ansia, depressione e rabbia possono influenzare la percezione del dolore e il benessere psicologico.",
-          "Circa il 40% delle persone affette da dolore cronico manifesta sintomi clinicamente significativi di depressione o ansia, e la concomitanza di dolore cronico, depressione e ansia rappresenta un problema significativo di salute pubblica.",
-          "Il dolore cronico definito come un dolore ricorrente o persistente che dura pi di tre mesi (Raffaeli et al. , 2021).",
-          "La letteratura concorde nel riconoscere che dolore cronico somatico e dolore psicologico-emotivo spesso co-occorrono e presentano una relazione di natura bidirezionale, caratterizzata da reciproche influenze (Stubbs et al. , 2025).",
-          "Il caso dell’ansia: “E se non dovesse mai migliorare? ” La complessa relazione bidirezionale tra dolore fisico cronico ed emotivo si osserva anche considerando l’ansia.",
-          "Il caso della rabbia: “Odio sentirmi cos ” Frustrazione e rabbia sono esperienze emotive che possono accompagnare il fenomeno del dolore cronico .",
-          "Ma c’ anche una componente emotiva che concorre al dolore cronico a volte ignorata, trascurata o sottostimata.",
-          "Superando la dicotomia mente-corpo, necessario invece considerare l’interdipendenza tra dolore fisico e dolore emotivo per comprendere i fenomeni di dolore cronico ."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Dolore cronico",
-          "Ansia",
-          "Depressione",
-          "Rabbia",
-          "State of Mind"
-        ],
-        "numbersAndDates": [
-          "Il dolore cronico definito come un dolore ricorrente o persistente che dura pi di tre mesi (Raffaeli et al. , 2021).",
-          "La letteratura concorde nel riconoscere che dolore cronico somatico e dolore psicologico-emotivo spesso co-occorrono e presentano una relazione di natura bidirezionale, caratterizzata da reciproche influenze (Stubbs et al. , 2025).",
-          "40"
-        ]
-      }
-    },
-    {
-      "id": "story-d24c8a9c5ebbaa71",
-      "title": "Avio, la finlandese Iceye lancia opa volontaria da 2 miliardi",
-      "summary": "Riconosciuto un corrispettivo di 41 euro per azione. Il marchio resterebbe italiano, tutelati i livelli occupazionali",
-      "spokenText": "La finlandese Iceye ha lanciato un'offerta pubblica di acquisto volontaria su Avio, riconoscendo un corrispettivo di 41 euro per azione. L'operazione valorizza l'azienda italiana circa 2,05 miliardi di euro. Il marchio resterebbe italiano e sarebbero tutelati i livelli occupazionali.",
-      "category": "altro",
-      "tags": [
-        "altro",
-        "avio",
-        "iceye",
-        "italia"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 16,
-      "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/avio-finlandese-iceye-lancia-opa-volontaria-2-mld-41-euro-azione-AJsSH9IC"
-      },
-      "analysis": {
-        "mainFact": "La finlandese Iceye lancia un'opa volontaria da 2 miliardi su Avio, riconoscendo un corrispettivo di 41 euro per azione.",
-        "whyItMatters": "Il marchio resterebbe italiano, tutelati i livelli occupazionali.",
-        "confirmedFacts": [
-          "La finlandese Iceye lancia un'opa volontaria da 2 miliardi su Avio, riconoscendo un corrispettivo di 41 euro per azione.",
-          "Il marchio resterebbe italiano, tutelati i livelli occupazionali.",
-          "Riconosciuto un corrispettivo di 41 euro per azione.",
-          "Il corrispettivo offerto valorizza Avio 2,05 miliardi di euro."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Avio",
-          "Iceye",
-          "Italia"
-        ],
-        "numbersAndDates": [
-          "Riconosciuto un corrispettivo di 41 euro per azione.",
-          "Il corrispettivo offerto valorizza Avio 2,05 miliardi di euro.",
-          "2",
-          "41"
-        ]
-      }
-    },
-    {
-      "id": "story-10b3cb9568989de0",
-      "title": "Auto a GPL: il pieno costa di più, benzina e diesel giù",
-      "summary": "Il GPL rincara mentre benzina e gasolio scendono: nell&rsquo;aggiornamento italiano del 17 novembre, i prezzi riportati raggiungono 0,839 euro al litro sulla rete ordinaria e 0,932 euro in autostrada....",
-      "spokenText": "Il pieno di GPL costa di più, mentre i prezzi di benzina e diesel sono in calo.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "gpl",
-        "benzina",
-        "diesel"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 7,
-      "source": {
-        "name": "Tom's Hardware",
-        "url": "https://www.tomshw.it/automotive/gpl-auto-perche-il-pieno-rincara-mentre-benzina-e-diesel-calano"
-      },
-      "analysis": {
-        "mainFact": "Auto a GPL: il pieno costa di più, benzina e diesel giù",
-        "whyItMatters": "Prezzi carburanti e GPL, diretto per interesse Energia e Industria.",
-        "confirmedFacts": [
-          "Auto a GPL: il pieno costa di più, benzina e diesel giù",
-          "Prezzi carburanti e GPL, diretto per interesse Energia e Industria."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "GPL",
-          "benzina",
-          "diesel"
+          "Verifica di Ottemperanza (VO)"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-8408e2b7a0dafac5",
-      "title": "Usa, problemi d’accesso e disservizi per le principali banche: da Chase a Bank of America",
-      "summary": "A pochi giorni dal collasso globale di Microsoft e dal blocco a terra di tutti i voli, le infrastrutture digitali negli Stati Uniti si fermano di nuovo. Le...",
-      "spokenText": "A pochi giorni dal collasso globale di Microsoft e dal blocco a terra di tutti i voli, le infrastrutture digitali negli Stati Uniti si fermano di nuovo, con problemi d'accesso e disservizi per le principali banche, da Chase a Bank of America. La banca più colpita è stata JpMorgan Chase con oltre 4.600 segnalazioni, seguita da Bank of America con oltre 2.000. Il problema alle app e a servizi di alcune delle maggiori banche americane sarebbe tecnico e sarebbe stato iniziato da un’interruzione in casa Chase che avrebbe poi avuto ripercussioni sulle altre banche.",
-      "category": "tecnologia",
+      "id": "story-7f2cc86213239d3f",
+      "title": "Terapia ormonale di affermazione di genere: il “ripensamento” è raro",
+      "summary": "Terapia ormonale di affermazione di genere: il “ripensamento” è rarosara. urbani Gio, 11/19/2026 - 16:08 20 Novembre 2026 Language Italian Sara Urbani La più grande indagine finora condotta su giovani persone transgender e gender diverse negli Stati Uniti mostra che la stragrande maggioranza considera una scelta positiva la terapia ormonale di affermazione di genere: quasi il 97% delle 376 persone partecipanti ha affermato che fosse la decisione giusta, mentre solo 10 hanno riferito di pentirsene. Lo studio, pubblicato sulla rivista scientifica JAMA Pediatrics, segue per anni ex pazienti che per la maggior parte hanno iniziato la terapia ormonale prima dei 18 anni in una clinica multidisciplinare specializzata. I risultati suggeriscono che il ricorso alla terapia non sia associato a un diffuso “pentimento” o a danni percepiti, e sostengono l’importanza di percorsi clinici basati su valutazione individuale, consenso informato e accompagnamento specialistico. Lo studio ha però anche dei limiti, per esempio circa metà del campione non ha risposto a tutte le survey inviate negli anni. Per questo abbiamo chiesto un parere ad Alberto Scala, medico endocrinologo del Centro di Riferimento Regionale del Veneto per l’Incongruenza di Genere, e i dati più interessanti sono che “una percentuale bassa si pente di aver iniziato una terapia ormonale da giovane e addirittura 3 persone, prima dicono che si sono pentite, ma successivamente questo sentimento rientra; quindi in retrospettiva dicono di non essersi pentite di averlo fatto. Delle 10 che effettivamente confermano questo pentimento, 7 avevano avuto degli effetti collaterali dalla terapia ormonale, come il fatto che abbia un impatto sulla fertilità (un aspetto che viene sempre trattato a più riprese prima di iniziarla). ” Leggi anche: Trans Day of Remembrance per non dimenticare le vittime della violenza Un altro dato interessante secondo Scala è che “questo è anche un numero più piccolo rispetto al 17% circa del campione di persone che hanno interrotto a un certo punto la terapia ormonale di affermazione di genere (quindi testosterone, estrogeni e antiandrogeni). Ma andando poi a vedere all’interno di questo campione, la grande maggioranza dice che comunque non si pente del suo percorso e di aver fatto anche una terapia ormonale in passato. Questo perché c’è una differenza comunque tra il rimpianto di aver cominciato un percorso medico di affermazione di genere e i motivi per cui una persona arriva a interrompere la terapia. ” I motivi per questa interruzione infatti possono essere vari: magari perché le persone hanno ottenuto ciò che volevano dalla terapia, come ci racconta Scala: “alcuni pazienti, dopo un periodo di testosterone, molto consapevolmente hanno deciso di interrompere la terapia, non perché fossero scontenti ma perché i risultati che desideravano erano già non reversibili (la peluria o il calo della voce). Per cui erano contenti del loro aspetto, ma questo non è un rimorso. Oppure altre persone possono aver avuto dei problemi di salute che le hanno portate ad interromperla, e altre ancora possono aver avuto dei problemi economici o organizzativi, come difficoltà ad accedere alle terapie o mantenere un controllo medico, soprattutto dato che è uno studio americano dove non c’è un sistema sanitario universalistico. ” Le linee guida per le persone minorenni Quando si parla di terapie ormonali per le persone minori è inevitabilmente necessaria un’attenzione anche maggiore di quella riservata ai pazienti adulti, e in Italia il discrimine d’età sono i 16 anni “circa”. Non basta infatti un dato squisitamente anagrafico, ma serve prima una valutazione in equipe: “queste persone fanno un percorso con una psicologa dell’età evolutiva, una neuropsichiatra infantile e degli accertamenti endocrinologici – sottolinea Alberto Scala – perché uno degli obiettivi è anche quello di valutare la maturità del minore rispetto alla scelta di cominciare una terapia come quella ormonale che è parzialmente irreversibile. Ci saranno persone che avranno una maturità più precoce rispetto ad altre che, magari, anche a 16 anni hanno bisogno di un po’ più di tempo per capire l’importanza di questa scelta e ovviamente nella decisione devono essere coinvolti e danno l’assenso i genitori. ” Ecco spiegato il motivo dell’indicazione dei 16 anni “circa” come è riportato nelle note dell’AIFA (Agenzia Italiana del Farmaco) e in vari altri documenti. Su questi temi le principali linee guida italiane sono quelle di SIGIS (Società Italiana Genere, Identità e Salute), SIAMS (Società Italiana di Andrologia e Medicina della Sessualità) e SIE (Società Italiana di Endocrinologia). Mentre i punti di riferimento a livello internazionale sono gli standard of care della WPATH (World Professional Association for Transgender Health) e le linee guida dell’Endocrine Society. Un punto su cui tutte le linee guida per l’affermazione di genere ritornano più volte è il rischio di infertilità futura, come spiega Scala: “il tema della fertilità viene ripreso nel percorso psicologico, prima dell’inizio di una terapia ormonale e prima di qualsiasi chirurgia genitale che possa compromettere la fertilità. La genitorialità, gli effetti delle terapie ormonali e le opzioni di preservazione della fertilità sono discusse ampiamente con i pazienti, sia con le persone adulte sia con quelle minorenni (in cui c’è la sfida ulteriore del fatto che si chiede loro di anticipare un po’ i tempi rispetto a una riflessione sulla propria genitorialità). ” Ma esistono anche delle soluzioni in grado di preservare la propria fertilità, per esempio con la conservazione dei gameti (ovuli e spermatozoi) prima di iniziare il percorso di affermazione di genere. Questo vale anche per i/le più giovani perché “quando si parla di terapia ormonale – conclude Scala – sono comunque persone che hanno circa 16 anni e quindi hanno già avuto il loro sviluppo gonadico ed è possibile congelare il liquido seminale o fare una stimolazione ovarica e un successivo pick up ovocitario. ” Due pesi e due misure? Tornando ai dati dello studio pubblicato su JAMA Pediatrics, una della argomentazioni più usate da chi pensa che le persone più giovani non siano in grado di scegliere consapevolmente, è il numero di ripensamenti dopo la transizione di genere. Ma esiste una percentuale di persone “pentite” dopo qualsiasi intervento terapeutico, compresa per esempio la mastectomia, eppure in altri casi non viene usata per mettere in discussione l’opportunità della terapia. E allora perché anche una piccola percentuale di ripensamenti sui percorsi di affermazione di genere viene spesso usata per contestarla in toto? Non sembra una disparità di trattamento? Per Alberto Scala la risposta è “sì, con tutti i caveat della situazione. Nel senso che lo scopo non potrà mai essere avere un rischio di pentimento zero, lo scopo è di portare la persona (e per i minori anche il sistema familiare) a prendere una decisione pienamente informata e consapevole rispetto all’inizio di una terapia ormonale. Partendo anche da un’altra considerazione, cioè che anche non fare nulla ha delle conseguenze concrete sul benessere della persona. ” Un monito da tenere sempre a mente, soprattutto in occasione del Transgender Day of Remembrance, la giornata internazionale dedicata alle vittime della transfobia. Leggi anche: Trump e la “crociata” contro le persone transgender Queste dunque sono le riflessioni che fungono da guida “mentre conduciamo il counseling o le nostre valutazioni – prosegue Scala – e se sono state effettivamente attente, approfondite, con spazio anche per esplorare i dubbi, abbiamo fatto il nostro lavoro. Abbiamo accompagnato la persona nel prendere una decisione che, in fin dei conti, è solamente sua (o condivisa con i genitori, ma rimangono comunque decisioni personali). Sicuramente non si chiede mai in altri ambiti della medicina: se il paziente si è pentito. ” Quando si parla di percorsi medici di affermazione di genere, serve forse un cambio di paradigma come chiosa Scala: “sicuramente il fatto di non avere di fronte una malattia fa sì che il counseling debba essere particolarmente accurato, ed è così. Quando c’è una patologia e c’è una proposta di cura è tutto più lineare. In questo caso, non abbiamo una malattia, ma una richiesta comunque di stare bene, di avere un corpo che si allinei maggiormente con la propria identità, quindi non lavoriamo con la malattia, ma con la salute. Non potremo mai evitare che ci possa essere qualcuno che si penta, ma d’altronde rimane una sua decisione” che deve essere appunto il più informata possibile. SCIENZA E RICERCA Uno studio pubblicato su JAMA Pediatrics su 376 giovani persone transgender e gender diverse mostra che quasi il 97% considera positiva la terapia ormonale di affermazione di genere SOCIETÀ 28 GIUGNO 2025 Rainbow Map 2025: l’Italia arretra nei diritti LGBTQIA+ MONDO SALUTE 21 DICEMBRE 2022 In Salute. Adolescenti transgender: il supporto psicologico nei percorsi di affermazione di genere SOCIETÀ 20 GENNAIO 2026 Omotransfobia. Un’indagine globale sui fattori che minano il benessere delle persone LGBTQ+ NELLA STESSA CATEGORIA Ateneo_sito 1 Off",
+      "spokenText": "La terapia ormonale di affermazione di genere è raramente oggetto di ripensamento. È quanto emerge da uno studio pubblicato su JAMA Pediatrics, che ha seguito per anni ex pazienti, per la maggior parte iniziati al percorso prima dei 18 anni in una clinica multidisciplinare specializzata. I risultati suggeriscono che il ricorso alla terapia non sia associato a un diffuso pentimento o a danni percepiti, sottolineando l'importanza di percorsi clinici basati su valutazione individuale, consenso informato e accompagnamento specialistico. Lo studio presenta comunque alcuni limiti, come il fatto che circa metà del campione non abbia risposto a tutte le survey inviate negli anni. A livello nazionale, i punti di riferimento sono le linee guida di SIGIS, SIAMS e SIE, mentre a livello internazionale si seguono gli standard of care della WPATH e quelli dell'Endocrine Society. magari perché le persone hanno ottenuto ciò che volevano dalla terapia, come ci racconta Scala.",
+      "category": "salute",
       "tags": [
-        "tecnologia",
-        "jpmorgan chase",
-        "bank of america",
-        "stati uniti",
-        "microsoft",
-        "cnn"
+        "salute",
+        "jama pediatrics",
+        "sigis",
+        "siams",
+        "sie",
+        "wpath",
+        "endocrine society"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 38,
+      "estimatedSeconds": 60,
       "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/usa-problemi-d-accesso-e-disservizi-le-principali-banche-AJfEdhIC"
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/scienza-ricerca/terapia-ormonale-affermazione-genere-ripensamento"
       },
       "analysis": {
-        "mainFact": "A pochi giorni dal collasso globale di Microsoft e dal blocco a terra di tutti i voli, le infrastrutture digitali negli Stati Uniti si fermano di nuovo, con problemi d'accesso e disservizi per le principali banche da Chase a Bank of America.",
-        "whyItMatters": "La banca più colpita è stata JpMorgan Chase con oltre 4.600 segnalazioni, seguita da Bank of America con oltre 2.000.",
+        "mainFact": "Terapia ormonale di affermazione di genere: il “ripensamento” è raro",
+        "whyItMatters": "Lo studio, pubblicato sulla rivista scientifica JAMA Pediatrics , segue per anni ex pazienti che per la maggior parte hanno iniziato la terapia ormonale prima dei 18 anni in una clinica multidisciplinare specializzata.",
         "confirmedFacts": [
-          "A pochi giorni dal collasso globale di Microsoft e dal blocco a terra di tutti i voli, le infrastrutture digitali negli Stati Uniti si fermano di nuovo, con problemi d'accesso e disservizi per le principali banche da Chase a Bank of America.",
-          "La banca più colpita è stata JpMorgan Chase con oltre 4.600 segnalazioni, seguita da Bank of America con oltre 2.000.",
-          "Cnn: «Per le banche Usa un problema tecnico iniziato a Chase e che ha avuto ricadute» Il problema alle app e a servizi di alcune delle maggiori banche americane sarebbe tecnico e sarebbe stato iniziato da un’interruzione in casa Chase che avrebbe poi avuto ripercussioni sulle altre banche."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "JpMorgan Chase",
-          "Bank of America",
-          "Stati Uniti",
-          "Microsoft",
-          "Cnn"
-        ],
-        "numbersAndDates": [
-          "4.600",
-          "2.000"
-        ]
-      }
-    },
-    {
-      "id": "story-31f8c19ea475f1f3",
-      "title": "Usa, California fa causa a OpenAI: «Privilegia la crescita alla sicurezza»",
-      "summary": "La California ha fatto causa a OpenAI dopo che l’azienda ha ammesso 80 episodi in cui ha perso il controllo dei propri modelli di intelligenza artificiale, sostenendo che le carenze...",
-      "spokenText": "California fa causa a OpenAI: «Privilegia la crescita alla sicurezza».",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "california",
-        "openai"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 4,
-      "source": {
-        "name": "Il Sole 24 Ore - Mondo",
-        "url": "https://www.ilsole24ore.com/art/usa-california-fa-causa-openai-privilegia-crescita-sicurezza-AJVOmuIC"
-      },
-      "analysis": {
-        "mainFact": "California fa causa a OpenAI: «Privilegia la crescita alla sicurezza»",
-        "whyItMatters": "Causa California a OpenAI su sicurezza modelli AI.",
-        "confirmedFacts": [
-          "California fa causa a OpenAI: «Privilegia la crescita alla sicurezza»",
-          "Causa California a OpenAI su sicurezza modelli AI."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "California",
-          "OpenAI"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-2ee3393fd3722b12",
-      "title": "Voyager 1 dista un giorno luce",
-      "summary": "Alle 11:16:07 del 18 novembre 2026 Voyager 1 raggiungerà, e subito supererà, la distanza di un giorno luce dalla Terra. Da circa 28 anni la sonda detiene il primato di oggetto costruito dall’uomo più lontano del cosmo. Leopoldo Benacchio (Inaf): «È un traguardo non solo simbolico: è senza precedenti. Ma ci sbatte in faccia quanto sia davvero difficile andarsene dalla Terra»",
-      "spokenText": "Voyager 1 raggiungerà e supererà la distanza di un giorno luce dalla Terra. La sonda detiene da circa ventotto anni il primato di oggetto costruito dall'uomo più lontano del cosmo. Alle 11:16:07 del 18 novembre 2026 Voyager 1 raggiungerà.",
-      "category": "scienza",
-      "tags": [
-        "scienza",
-        "voyager 1",
-        "terra"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 16,
-      "source": {
-        "name": "Media INAF",
-        "url": "https://www.media.inaf.it/2026/11/16/voyager-1-dista-un-giorno-luce/"
-      },
-      "analysis": {
-        "mainFact": "Alle 11:16:07 del 18 novembre 2026 Voyager 1 raggiungerà, e subito supererà, la distanza di un giorno luce dalla Terra.",
-        "whyItMatters": "Da circa 28 anni la sonda detiene il primato di oggetto costruito dall’uomo più lontano del cosmo.",
-        "confirmedFacts": [
-          "Alle 11:16:07 del 18 novembre 2026 Voyager 1 raggiungerà, e subito supererà, la distanza di un giorno luce dalla Terra.",
-          "Da circa 28 anni la sonda detiene il primato di oggetto costruito dall’uomo più lontano del cosmo.",
-          "Voyager 1 dista un giorno luce"
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Voyager 1",
-          "Terra"
-        ],
-        "numbersAndDates": [
-          "Voyager 1 dista un giorno luce",
-          "11",
-          "16",
-          "07",
-          "18",
-          "2026",
-          "1",
-          "28"
-        ]
-      }
-    },
-    {
-      "id": "story-6be387a606c1e668",
-      "title": "L’Istat ritocca al rialzo le stime preliminari pubblicate due settimane fa",
-      "summary": "L’Istat ritocca al rialzo le stime preliminari pubblicate due settimane fa: corre il carrello della spesa, +2,3%",
-      "spokenText": "L'Istat ha rivisto al rialzo le stime preliminari pubblicate due settimane fa.",
-      "category": "attualita",
-      "tags": [
-        "attualita",
-        "istat",
-        "carrello della spesa"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 5,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/economia/2026/11/17/news/inflazione_ottobre_dati_definitivi_peggiora_carrello_spesa-425729238/"
-      },
-      "analysis": {
-        "mainFact": "L’Istat ritocca al rialzo le stime preliminari pubblicate due settimane fa: corre il carrello della spesa, +2,3%",
-        "whyItMatters": "Inflazione in crescita ai massimi dal 2023, impatto diretto.",
-        "confirmedFacts": [
-          "L’Istat ritocca al rialzo le stime preliminari pubblicate due settimane fa: corre il carrello della spesa, +2,3%",
-          "Inflazione in crescita ai massimi dal 2023, impatto diretto."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Istat",
-          "carrello della spesa"
-        ],
-        "numbersAndDates": [
-          "2,3"
-        ]
-      }
-    },
-    {
-      "id": "story-ce0db2f76fd91619",
-      "title": "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed",
-      "summary": "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed nel 2024 \"per potenziali violazioni del controllo delle esportazioni\".",
-      "spokenText": "Esposto un documento con una timeline, gli investigatori hanno dichiarato di aver avviato le indagini su Megaspeed nel 2024 per potenziali violazioni del controllo delle esportazioni. Nel maggio 2025, gli investigatori del Dipartimento del Commercio hanno richiesto documenti a Nvidia riguardanti vendite dirette o indirette a Megaspeed. Nvidia ha successivamente inserito Megaspeed nella sua lista no sell.",
-      "category": "tecnologia",
-      "tags": [
-        "tecnologia",
-        "megaspeed",
-        "nvidia",
-        "singapore"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 23,
-      "source": {
-        "name": "BBC News - World",
-        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed nel 2024 \"per potenziali violazioni del controllo delle esportazioni\".",
-        "whyItMatters": "Indagine esportazioni chip AI Nvidia verso Cina, impatto tecnologia e geopolitica.",
-        "confirmedFacts": [
-          "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed nel 2024 \"per potenziali violazioni del controllo delle esportazioni\".",
-          "Indagine esportazioni chip AI Nvidia verso Cina, impatto tecnologia e geopolitica.",
-          "Nel maggio 2025, gli investigatori del Dipartimento del Commercio hanno richiesto documenti a Nvidia \"riguardanti vendite dirette o indirette a Megaspeed\".",
-          "Nvidia ha inserito Megaspeed nella sua lista 'no sell'."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Megaspeed",
-          "Nvidia",
-          "Singapore"
-        ],
-        "numbersAndDates": [
-          "Esponendo una timeline, hanno dichiarato di aver iniziato a indagare su Megaspeed nel 2024 \"per potenziali violazioni del controllo delle esportazioni\".",
-          "Nel maggio 2025, gli investigatori del Dipartimento del Commercio hanno richiesto documenti a Nvidia \"riguardanti vendite dirette o indirette a Megaspeed\".",
-          "Nvidia ha inserito Megaspeed nella sua lista 'no sell'.",
-          "2024"
-        ]
-      }
-    },
-    {
-      "id": "story-c76ddde6450f548b",
-      "title": "Violenze, abusi, abbandono: gli scatti inediti che raccontano dall’interno l’inferno",
-      "summary": "Le foto sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager- No Cpr e dall’associazione Naga. “Il riferimento è alla mostra di Basaglia che ha fatto capire l’orrore dei manicomi”",
-      "spokenText": "Le immagini sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager-No Cpr e dall'associazione Naga. “Il riferimento è alla mostra di Basaglia che ha fatto capire l’orrore dei manicomi”.",
-      "category": "diritti",
-      "tags": [
-        "diritti",
-        "rete mai piu lager no cpr",
-        "associazione naga",
-        "basaglia",
-        "manicomi",
-        "cpr"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "La Repubblica",
-        "url": "https://www.repubblica.it/cronaca/2026/11/17/news/cpr_foto_inedite_mostra_violenze_abusi_migranti-425729338/"
-      },
-      "analysis": {
-        "mainFact": "Le foto sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager- No Cpr e dall’associazione Naga.",
-        "whyItMatters": "“Il riferimento è alla mostra di Basaglia che ha fatto capire l’orrore dei manicomi”",
-        "confirmedFacts": [
-          "Le foto sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager- No Cpr e dall’associazione Naga.",
-          "“Il riferimento è alla mostra di Basaglia che ha fatto capire l’orrore dei manicomi”"
+          "Terapia ormonale di affermazione di genere: il “ripensamento” è raro",
+          "Lo studio, pubblicato sulla rivista scientifica JAMA Pediatrics , segue per anni ex pazienti che per la maggior parte hanno iniziato la terapia ormonale prima dei 18 anni in una clinica multidisciplinare specializzata.",
+          "Lo studio ha però anche dei limiti, per esempio circa metà del campione non ha risposto a tutte le survey inviate negli anni.",
+          "Su questi temi le principali linee guida italiane sono quelle di SIGIS (Società Italiana Genere, Identità e Salute), SIAMS (Società Italiana di Andrologia e Medicina della Sessualità) e SIE (Società Italiana di Endocrinologia).",
+          "Mentre i punti di riferimento a livello internazionale sono gli standard of care della WPATH ( World Professional Association for Transgender Health ) e le linee guida dell’ Endocrine Society .",
+          "Ma andando poi a vedere all’interno di questo campione, la grande maggioranza dice che comunque non si pente del suo percorso e di aver fatto anche una terapia ormonale in passato.",
+          "magari perché le persone hanno ottenuto ciò che volevano dalla terapia, come ci racconta Scala:"
         ],
         "uncertainties": [
-          "Le foto sono state scattate dagli stessi trattenuti e raccolte dalla rete Mai più lager- No Cpr e dall’associazione Naga."
+          "I risultati suggeriscono che il ricorso alla terapia non sia associato a un diffuso “pentimento” o a danni percepiti, e sostengono l’importanza di percorsi clinici basati su valutazione individuale, consenso informato e accompagnamento specialistico."
         ],
         "peopleAndOrganizations": [
-          "rete Mai più lager- No Cpr",
-          "associazione Naga",
-          "Basaglia",
-          "manicomi",
-          "CPR"
-        ],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-ea934d3bbda35f43",
-      "title": "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito",
-      "summary": "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
-      "spokenText": "Incluse le importazioni, il volume ammonta a circa il 2% della domanda totale del Regno Unito. Il dato coinvolge direttamente Jackdaw, Aberdeen, Adura, Shell ed Equinor, i principali attori di riferimento per questa operazione.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "jackdaw",
-        "aberdeen",
-        "adura",
-        "shell",
-        "equinor"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 14,
-      "source": {
-        "name": "BBC News - Science & Environment",
-        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
-        "whyItMatters": "Avvio campo gas Jackdaw, rilevante per settore energia e industria.",
-        "confirmedFacts": [
-          "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
-          "Avvio campo gas Jackdaw, rilevante per settore energia e industria."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Jackdaw",
-          "Aberdeen",
-          "Adura",
-          "Shell",
-          "Equinor"
+          "JAMA Pediatrics",
+          "SIGIS",
+          "SIAMS",
+          "SIE",
+          "WPATH",
+          "Endocrine Society"
         ],
         "numbersAndDates": [
-          "Incluse le importazioni, ciò ammonta a circa il 2% della domanda totale del Regno Unito.",
-          "2"
-        ]
-      }
-    },
-    {
-      "id": "story-7f21a428de9e255a",
-      "title": "Nuove norme e Piani di tutela urbana per l'incremento del patrimonio verde e della",
-      "summary": "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani. In questo senso, il piano del verde ( o piano della natura ) rappresenta lo strumento chiave per pianificare, valorizzare ed incrementare il patrimonio verde e la biodiversità urbana , e promuovere nella pianificazione urbanistica locale un equilibrio tra ambiente costruito e naturale, tra infrastrutture grigie e infrastrutture verdi e blu.",
-      "spokenText": "Il 18 agosto 2024 è entrato in vigore il Regolamento (UE) 2024/1991 per il Ripristino della Natura. La normativa dell'Unione Europea introduce obiettivi vincolanti che riguardano anche gli ecosistemi urbani.",
-      "category": "ambiente",
-      "tags": [
-        "ambiente",
-        "regolamento ue 2024 1991",
-        "unione europea"
-      ],
-      "importance": 95,
-      "mustInclude": false,
-      "estimatedSeconds": 12,
-      "source": {
-        "name": "ISPRA Notizie",
-        "url": "https://www.isprambiente.gov.it/it/news/nuove-norme-e-piani-di-tutela-urbana-per-lincremento-del-patrimonio-verde-e-della-biodiversita"
-      },
-      "analysis": {
-        "mainFact": "L'entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, introduce obiettivi vincolanti anche per gli ecosistemi urbani.",
-        "whyItMatters": "Regolamento UE ripristino natura e piani verdi urbani, impatto ambientale diretto.",
-        "confirmedFacts": [
-          "L'entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, introduce obiettivi vincolanti anche per gli ecosistemi urbani.",
-          "Regolamento UE ripristino natura e piani verdi urbani, impatto ambientale diretto.",
-          "L’entrata in vigore del Regolamento (UE) 2024/1991 per il Ripristino della Natura, il 18 agosto 2024, segna una svolta decisiva nella politica ambientale dell’Unione Europea (UE) e introduce obiettivi vincolanti anche per gli ecosistemi urbani."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [
-          "Regolamento (UE) 2024/1991",
-          "Unione Europea"
-        ],
-        "numbersAndDates": [
-          "2024",
-          "1991",
           "18"
         ]
       }
     },
     {
-      "id": "story-8a5d28b60c1e6394",
-      "title": "Durante l'indagine di Idubi, il team di Perseverance è stato colpito da un gruppo di",
-      "summary": "Durante l'indagine di Idubi, il team di Perseverance è stato colpito da un gruppo di rocce chiarissime e di tonalità chiara.",
-      "spokenText": "Durante l'esplorazione, il team ha incontrato un gruppo di rocce chiarissime e di tonalità chiara, che si differenziano dalle tipiche rocce ignee della zona.",
-      "category": "scienza",
+      "id": "story-d03043b5b1fdd26f",
+      "title": "Tumori resistenti ai farmaci: dal butirrato una possibile risposta",
+      "summary": "Il sodio butirrato ha aumentato la sensibilità ai trattamenti in alcuni modelli di cellule tumorali resistenti. Uno studio dell’Università di Bari collega questo risultato a cambiamenti nel metabolismo e apre una domanda su come intervenire sui processi che accompagnano la farmacoresistenza: lo racconta Antonio Mazzocca, coordinatore dello studio",
+      "spokenText": "Il sodio butirrato ha aumentato la sensibilità ai trattamenti in alcuni modelli di cellule tumorali resistenti. Uno studio dell’Università di Bari collega questo risultato a cambiamenti nel metabolismo e apre una domanda su come intervenire sui processi che accompagnano la farmacoresistenza: lo racconta Antonio Mazzocca, coordinatore dello studio. Per esempio, nelle cellule del colon resistenti, la combinazione di sodio butirrato e 5-fluorouracile ha determinato una marcata diminuzione di quest’ultimo. Per comprendere questo risultato siamo partiti da una domanda: quali cambiamenti metabolici accompagnano la resistenza e che cosa succede quando si interviene su di essi?",
+      "category": "salute",
       "tags": [
-        "scienza",
-        "perseverance",
-        "idubi",
-        "lac de charmes"
+        "salute",
+        "sodio butirrato",
+        "universita di bari",
+        "antonio mazzocca",
+        "journal of biological chemistry",
+        "cellule tumorali resistenti",
+        "5 fluorouracile"
       ],
-      "importance": 82,
+      "importance": 90,
       "mustInclude": false,
-      "estimatedSeconds": 10,
+      "estimatedSeconds": 38,
       "source": {
-        "name": "NASA Releases",
-        "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/tumori-resistenti-farmaci-butirrato/"
       },
       "analysis": {
-        "mainFact": "Durante l'indagine di Idubi, il team di Perseverance è stato colpito da un gruppo di rocce chiarissime e di tonalità chiara.",
-        "whyItMatters": "Scoperte geologiche su Marte dal rover Perseverance.",
+        "mainFact": "Il sodio butirrato ha aumentato la sensibilità ai trattamenti in alcuni modelli di cellule tumorali resistenti.",
+        "whyItMatters": "Uno studio dell’Università di Bari collega questo risultato a cambiamenti nel metabolismo e apre una domanda su come intervenire sui processi che accompagnano la farmacoresistenza: lo racconta Antonio Mazzocca, coordinatore dello studio.",
         "confirmedFacts": [
-          "Durante l'indagine di Idubi, il team di Perseverance è stato colpito da un gruppo di rocce chiarissime e di tonalità chiara.",
-          "Scoperte geologiche su Marte dal rover Perseverance.",
-          "16, 2026 During the Perseverance rover’s investigation of \"Idubi\" — an area of ancient Martian crust exposed in the \"Lac de Charmes\" region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily bright, light-toned rocks in the area.",
-          "Suspecting that they differed from the typical igneous rocks in the area, the rover team directed Perseverance to investigate."
+          "Il sodio butirrato ha aumentato la sensibilità ai trattamenti in alcuni modelli di cellule tumorali resistenti.",
+          "Uno studio dell’Università di Bari collega questo risultato a cambiamenti nel metabolismo e apre una domanda su come intervenire sui processi che accompagnano la farmacoresistenza: lo racconta Antonio Mazzocca, coordinatore dello studio.",
+          "Per esempio, nelle cellule del colon resistenti, la combinazione di sodio butirrato e 5-fluorouracile ha determinato una marcata diminuzione di quest’ultimo.",
+          "Nel lavoro pubblicato sul Journal of Biological Chemistry abbiamo osservato che il sodio butirrato può aumentare la sensibilità ai farmaci in alcuni modelli cellulari diventati resistenti.",
+          "Per comprendere questo risultato siamo partiti da una domanda: quali cambiamenti metabolici accompagnano la resistenza e che cosa succede quando si interviene su di essi?",
+          "Analogamente, un aumento della sensibilità è stato osservato anche nelle cellule tumorali resistenti della mammella.",
+          "Il risultato più rilevante riguarda la risposta ai trattamenti: il sodio butirrato ha aumentato la sensibilità ai farmaci in alcuni dei modelli resistenti esaminati."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Perseverance",
-          "Idubi",
-          "Lac de Charmes"
+          "sodio butirrato",
+          "Università di Bari",
+          "Antonio Mazzocca",
+          "Journal of Biological Chemistry",
+          "cellule tumorali resistenti",
+          "5-fluorouracile"
+        ],
+        "numbersAndDates": [
+          "Per esempio, nelle cellule del colon resistenti, la combinazione di sodio butirrato e 5-fluorouracile ha determinato una marcata diminuzione di quest’ultimo."
+        ]
+      }
+    },
+    {
+      "id": "story-0d19263ab5d8cd27",
+      "title": "Xi, Putin e Trump lasciano fuori l'Europa",
+      "summary": "Xi, Putin e Trump lasciano fuori l'Europamattia Gio, 11/19/2026 - 20:14 20 Novembre 2026 Language Italian Mattia Sopelsa Il primo incontro a tre tra i leader di Cina, Russia e Stati Uniti si è chiuso il 19 novembre 2026 a Shenzhen, a margine del vertice della Cooperazione economica Asia-Pacifico (APEC), con un testo di poche righe. La dichiarazione sulla pace diffusa da Xinhua si apre con il ringraziamento di Vladimir Putin e Donald Trump alla Cina di Xi Jinping per aver ospitato l'incontro, poi elenca quattro punti: la riforma delle Nazioni Unite, che i tre paesi si impegnano a promuovere in quanto membri permanenti del Consiglio di sicurezza; l'aumento della produzione e delle forniture di prodotti petroliferi raffinati e la stabilità dei flussi energetici; il principio del consenso statale e il rispetto dell'immunità dei funzionari di Stato, definiti di importanza cruciale, con l'impegno a far sì che la Corte penale internazionale e gli organismi simili “non abusino della propria giurisdizione”; infine la formula per cui una guerra nucleare “non si può vincere e non si deve combattere”, accompagnata dalla promessa di un dialogo a tre sulla riduzione dei rischi nucleari e sulla non proliferazione. Nel testo non compaiono né l'Ucraina né l'Europa. Poche ore dopo, a Berlino, il cancelliere Friedrich Merz accoglieva insieme al presidente francese Emmanuel Macron e al premier britannico Andy Burnham i leader della Coalizione dei volenterosi, la rete di paesi che sostiene Kyiv. Le due immagini raccontano una divisione dei ruoli che va oltre la giornata e che dimostra una contrapposizione politica non di poco conto. Il ministro degli Esteri francese Jean-Noël Barrot, intervistato da RTL, ha sostenuto che i tre leader riuniti in Cina \"sono fondamentalmente in disaccordo su tutto, quindi non possono mettersi d'accordo su niente\" e che quella di Shenzhen non è la fotografia delle tre maggiori potenze del mondo\". Più dura la reazione di Kyiv: mentre un nuovo attacco russo con droni colpiva la capitale, raggiungendo anche la zona delle ambasciate austriaca e olandese, il ministro degli Esteri ucraino Andrii Sybiha ha scritto su X che Putin “si è atteggiato a leader globale a Shenzhen”, ma che “in realtà è un criminale e terrorista globale” e “dovrebbe essere trattato come tale”. Al di là delle reazioni, la dichiarazione, per quanto esile, mette nero su bianco un'agenda che tocca da vicino gli interessi europei senza che questa sia stata contemplata. È questo, più del paragone storico che ha accompagnato la vigilia, il punto su cui misurare il vertice. SOCIETÀ The Austrian Embassy in Kyiv has also been damaged as a result of Russia’s terrorist strikes on our capital. In reality, he is a global criminal and terrorist. And he should be treated as such. We express our full solidarity with our Austrian colleagues and urge a strong international response to Russia’s brutal attacks. @BMeinl — Andrii Sybiha 🇺🇦 (@andrii_sybiha) November 19, 2026 La Yalta del 1945 Il paragone con Yalta ha preceduto il vertice per settimane, e la conferenza del 1945 è ormai diventata sinonimo di accordi tra grandi potenze imposti ai paesi più piccoli. Sul piano storico, però, il confronto non regge molto. A Yalta, tra il 4 e l'11 febbraio 1945, l'Europa occidentale era al tavolo con Winston Churchill, accanto a Franklin D. Roosevelt e Iosif Stalin, e i tre decisero tra l'altro che anche la Francia, pur assente, avrebbe partecipato al governo della Germania sconfitta e avrebbe avuto un seggio permanente nel Consiglio di sicurezza delle future Nazioni Unite. A essere oggetto della trattativa fu semmai la Cina, perché in cambio dell'ingresso nella guerra contro il Giappone l'Unione Sovietica ottenne una sfera d'influenza in Manciuria, oltre a Sakhalin meridionale e alle isole Curili. È anche per questo che Xi, come ha scritto il Financial Times, voleva valorizzare il rapporto con i suoi due ospiti evitando però l'accostamento a una conferenza che escluse la Cina nonostante il ruolo avuto in quel conflitto. Il portavoce del Cremlino Dmitrij Peskov, citato da Interfax, ha liquidato l'analogia come un insieme di “giochi da politologi che non hanno niente a che fare con la realtà”. La smentita ufficiale convive tuttavia con un'altra lettura, diffusa proprio a Mosca. Lo stesso Financial Times rileva che la Russia non fa mistero di volere una “Yalta moderna” che rifletta i propri obiettivi in Europa. Per Alexander Gabuev, direttore del Carnegie Russia Eurasia Center, il guadagno di Putin sta nell'immagine: sedere accanto a Trump e a Xi gli restituisce lo status di leader mondiale di primo piano, anche se la Russia, arsenale nucleare a parte, non è alla pari di Stati Uniti e Cina. Più cauto, alla vigilia del vertice, Paolo Magri, presidente del Comitato scientifico dell'Istituto per gli studi di politica internazionale (ISPI), che in un'intervista a QN definiva “un'ipotesi” l'idea che i tre “si incontrino per decidere i destini del mondo” e li descriveva come “imperatori per desiderio. Ma gli imperi non ci sono”. La dichiarazione uscita da Shenzhen, in effetti, non ha spartito nulla. Resta però il formato: un tavolo ristretto in cui tre leader hanno messo per iscritto impegni su questioni che toccano anche chi non era stato invitato. Strategie e finanziamenti divergenti sull’Ucraina Se l'agenda si scrive altrove, il conto economico resta tutto accollato all’Europa, ed è di questo che si è discusso durante il vertice dei volenterosi a Berlino. Le cifre sono note: nel 2027 all'Ucraina mancheranno 70 miliardi di euro, e il 18 novembre la Commissione europea ha proposto di coprirne 45 con un nuovo prestito, diviso tra aiuti militari (25 miliardi) e sostegno al bilancio (20), lasciandone così scoperti 25. Il prestito deve però ancora essere approvato dai leader dell'Unione: Slovacchia, Repubblica Ceca, Ungheria e Bulgaria hanno già fatto sapere che non intendono parteciparvi. Il cancelliere tedesco ha insistito sulla necessità degli aiuti economici, minacciando anche il veto sul prossimo bilancio europeo nel caso di un mancato accordo: serve il contributo di tutti “affinché l’Ucraina possa difendersi finché dovrà farlo e per rendere possibili i negoziati di pace”. @SEPeaceMissions and I had a very productive meeting today with German Chancellor @_FriedrichMerz and his National Security Advisor Günter Sautter. We updated them on @realDonaldTrump discussions in China and the latest efforts to achieve a just, lasting and durable peace in Ukraine. We continue to work in close coordination with Germany, Ukraine and our European partners to align our positions and prepare for the next round of negotiations. Chancellor Merz is a strong advocate for peace in Ukraine and a strong Euro-Atlantic alliance. We are grateful for his leadership, constructive engagement, and close partnership as we work together toward our shared goal of ending this terrible war and building a secure and prosperous future for Ukraine and Europe. — Jared Kushner (@jaredkushner) November 19, 2026 Assenti gli europei a Shenzhen, a Berlino gli Stati Uniti erano invece presenti: gli inviati di Trump, Steve Witkoff e Jared Kushner, hanno aggiornato Merz sui colloqui in Cina, e Kushner ha poi assicurato su X che Washington continua a lavorare “in stretto coordinamento con la Germania, l'Ucraina e i nostri partner europei”. Il canale con l'amministrazione americana resta quindi aperto, ma è affidato agli inviati, non al presidente che a Shenzhen si è seduto accanto a Xi e Putin. La distanza tra le due sponde dell'Atlantico, però, non si misura soltanto sui formati negoziali. Secondo quanto ricostruito da Politico sulla base delle testimonianze di alcuni funzionari europei informati della conversazione, a poche ore dal trilaterale di Shenzhen, Trump si sarebbe collegato telefonicamente con il vertice dall'Air Force One per chiedere agli alleati perché continuassero a spendere miliardi per sostenere militarmente Kiev. Avrebbe lamentato che quel denaro venisse sprecato e si sarebbe detto convinto che Putin avrebbe collaborato ai negoziati di pace. È una ricostruzione che renderebbe ancora più netto lo scarto tra il peso che l'Europa si prepara a sostenere e il posto che le viene riconosciuto. Lo schema non è nuovo. Nel febbraio 2025, a Riad, i colloqui tra il segretario di Stato americano Marco Rubio e il ministro degli Esteri russo Sergej Lavrov si erano svolti senza ucraini né rappresentanti UE, e nell'agosto dello stesso anno Trump e Putin si erano incontrati da soli in Alaska. Che il posto dell'Europa non sia affatto garantito lo ha chiarito lo stesso Putin. Nella conferenza stampa tenuta in Cina, dopo il trilaterale, il presidente russo ha sostenuto che è la parte americana a premere con insistenza per il coinvolgimento degli europei e ha riconosciuto, allo stesso tempo, che discutere di sicurezza, “compresa quella in Europa, senza gli europei non ha senso”. Subito dopo, però, ha precisato che la Russia vuole prima capire “che cosa porterà l'Europa a questi negoziati” e che per questo ha proposto che i rappresentanti europei vadano a Mosca a definire la loro posizione: solo allora, ha detto, il Cremlino deciderà “in quale formato proseguire il dialogo con l'Ucraina”. L'Europa vista da Pechino Per il paese che ha ospitato e presieduto l'incontro, l'assenza dell'Europa non è un dettaglio. Una fonte informata e un diplomatico europeo hanno raccontato a Reuters che Pechino si era opposta all'inserimento dell'Ucraina nell'agenda: il colosso orientale non vuole apparire come mediatore in assenza di Kiev e dei leader europei. Per Xi, la guerra, pur rimanendo un problema europeo, non deve creare troppi attriti alle sue politiche commerciali e diplomatiche. Se il vertice di Shenzhen doveva essere la dimostrazione del potere diplomatico cinese, doveva essere allo stesso tempo un modo per non irritare l'Europa. Il rischio, per la Cina, è che la foto a tre con Putin e Trump possa costare caro nel rapporto con Bruxelles, allontanando i partner europei proprio mentre la Cina ha bisogno di un accesso agevole al mercato per collocare la propria sovraccapacità produttiva. La sedia vuota dell'Europa Il bilancio della giornata è meno netto di quanto suggerisse il paragone con Yalta. A Shenzhen non si è deciso il destino di nessuno, e la dichiarazione finale non contiene impegni misurabili né sull'Ucraina né sulle armi nucleari. Eppure i tre leader hanno scritto, su questioni che riguardano da vicino il continente, un testo che l'Europa non ha potuto discutere, e quello stesso giorno gli europei si ritrovavano a Berlino per sostenere, in gran parte da soli, i costi della guerra in Ucraina. Barrot rivendica per l'Unione un posto tra le tre maggiori potenze, e Merz, nella conferenza stampa al termine del vertice, ha rovesciato il paragone storico con Yalta in un avvertimento: “Un formato Yalta non porterà la pace”, perché senza gli europei, ha aggiunto, in “Ucraina la pace non ci sarà”. Ha poi derubricato il vertice in Cina, parlando di una mera passerella per farsi fotografare. Il prossimo appuntamento di “gala” della politica internazionale sarà il G20 che Trump ospiterà a metà dicembre in Florida: quale sarà il peso dell’Europa dopo le vicende di Shenzhen e quelle di Berlino? NELLA STESSA CATEGORIA Il presidente russo Vladimir Putin, il presidente cinese Xi Jinping e il presidente degli Stati Uniti Donald Trump al trilaterale di Shenzen a margine del meeting APEC - Win McNamee/Pool via REUTERS 1 Off",
+      "spokenText": "Vladimir Putin e Donald Trump lasciano fuori l'Europa. Il confronto tra i tre leader richiama quanto avvenuto a Yalta, tra il 4 e l'11 febbraio 1945, quando l'Europa occidentale era al tavolo con Winston Churchill, accanto a Franklin D. Tra i punti affrontati figurano la riforma delle Nazioni Unite, che i tre paesi si impegnano a promuovere in quanto membri permanenti del Consiglio di sicurezza, l'aumento della produzione e delle forniture di prodotti petroliferi raffinati e la stabilità dei flussi energetici. Viene inoltre ribadito il principio del consenso statale e il rispetto dell'immunità dei funzionari di Stato, con l'impegno affinché la Corte penale internazionale e gli organismi simili non abusino della propria giurisdizione. Infine, i tre leader sottolineano che una guerra nucleare non si può vincere e non si deve combattere, promettendo un dialogo a tre sulla riduzione dei rischi nucleari e sulla non proliferazione. Poche ore dopo, a Berlino, il cancelliere Friedrich Merz accoglieva insieme al presidente francese Emmanuel Macron e al premier britannico Andy Burnham i leader della Coalizione dei volenterosi, la rete di paesi che sostiene Kyiv. nel testo non compaiono né l'Ucraina né l'Europa.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "xi jinping",
+        "vladimir putin",
+        "donald trump",
+        "europa",
+        "ucraina",
+        "berlino",
+        "coalizione dei volenterosi"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 76,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/xi-putin-trump-lasciano-fuori-europa-shenzhen"
+      },
+      "analysis": {
+        "mainFact": "Xi, Putin e Trump lasciano fuori l'Europa",
+        "whyItMatters": "nel testo non compaiono né l'Ucraina né l'Europa.",
+        "confirmedFacts": [
+          "Xi, Putin e Trump lasciano fuori l'Europa",
+          "nel testo non compaiono né l'Ucraina né l'Europa.",
+          "A Yalta, tra il 4 e l'11 febbraio 1945, l'Europa occidentale era al tavolo con Winston Churchill, accanto a Franklin D.",
+          "la riforma delle Nazioni Unite, che i tre paesi si impegnano a promuovere in quanto membri permanenti del Consiglio di sicurezza;",
+          "l'aumento della produzione e delle forniture di prodotti petroliferi raffinati e la stabilità dei flussi energetici;",
+          "il principio del consenso statale e il rispetto dell'immunità dei funzionari di Stato, definiti di importanza cruciale, con l'impegno a far sì che la Corte penale internazionale e gli organismi simili “non abusino della propria giurisdizione” ;",
+          "infine la formula per cui una guerra nucleare “non si può vincere e non si deve combattere”, accompagnata dalla promessa di un dialogo a tre sulla riduzione dei rischi nucleari e sulla non proliferazione ."
+        ],
+        "uncertainties": [
+          "Poche ore dopo, a Berlino, il cancelliere Friedrich Merz accoglieva insieme al presidente francese Emmanuel Macron e al premier britannico Andy Burnham i leader della Coalizione dei volenterosi , la rete di paesi che sostiene Kyiv."
+        ],
+        "peopleAndOrganizations": [
+          "Xi Jinping",
+          "Vladimir Putin",
+          "Donald Trump",
+          "Europa",
+          "Ucraina",
+          "Berlino",
+          "Coalizione dei volenterosi"
+        ],
+        "numbersAndDates": [
+          "A Yalta, tra il 4 e l'11 febbraio 1945, l'Europa occidentale era al tavolo con Winston Churchill, accanto a Franklin D."
+        ]
+      }
+    },
+    {
+      "id": "story-c0903594207fcad6",
+      "title": "Tusk: 'L'incursione nel nostro spazio aereo una provocazione intenzionale russa\"",
+      "summary": "Due missili e un drone militare russo caduti sul territorio polacco, mobilitati i jet. Rutte: \"Incidente pericoloso\"",
+      "spokenText": "Due missili e un drone militare russo caduti sul territorio polacco, mobilitati i jet. Ministro polacco, 'due missili. 'Gravi violazioni dello spazio aereo, in risposta sono stati mobilitati jet della Nato'. Questo incidente è chiaramente pericoloso: una conseguenza della guerra in corso della Russia contro l'Ucraina.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "polonia",
+        "russia",
+        "nato",
+        "rutte",
+        "tusk",
+        "ucraina"
+      ],
+      "importance": 65,
+      "mustInclude": false,
+      "estimatedSeconds": 19,
+      "source": {
+        "name": "ANSA Primapagina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/tusk-lincursione-nel-nostro-spazio-aereo-una-provocazione-intenzionale-russa_6104402c-305d-441e-a983-2c8dfb41bd5e.html"
+      },
+      "analysis": {
+        "mainFact": "Due missili e un drone militare russo caduti sul territorio polacco, mobilitati i jet.",
+        "whyItMatters": "Ministro polacco, 'due missili e un drone russo caduti su nostro territorio'",
+        "confirmedFacts": [
+          "Due missili e un drone militare russo caduti sul territorio polacco, mobilitati i jet.",
+          "Ministro polacco, 'due missili e un drone russo caduti su nostro territorio'",
+          "'Gravi violazioni dello spazio aereo, in risposta sono stati mobilitati jet della Nato'",
+          "Due missili e un drone militare russo sono caduti stanotte sul territorio polacco a seguito dell'attacco russo sulle regione ovest dell'Ucraina .",
+          "Questo incidente è chiaramente pericoloso: una conseguenza della guerra in corso della Russia contro l'Ucraina."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Polonia",
+          "Russia",
+          "Nato",
+          "Rutte",
+          "Tusk",
+          "Ucraina"
         ],
         "numbersAndDates": []
       }
     },
     {
-      "id": "story-835227d846992a9a",
-      "title": "Dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra",
-      "summary": "Dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra: come la manipolazione digitale sta preparando il terreno per le elezioni del 2027.",
-      "spokenText": "La manipolazione digitale sta preparando il terreno per le elezioni del 2027, dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra. La Francia era stata individuata come uno dei principali bersagli, insieme alla Germania, anche dal Servizio europeo per l'azione esterna (SEAE) che ha descritto operazioni russe mirate a influenzare le elezioni federali tedesche del 2025.",
+      "id": "story-3bffcfb77ad2dd46",
+      "title": "Borse, si spegne l’entusiasmo su Anthropic. Forti vendite sui tech",
+      "summary": "Il debutto record del gigante AI non attenuta i timori sul settore. I listini globali perdono terreno per la settima seduta consecutiva mentre gli investitori si rifugiano in porti sicuri e fanno scendere i rendimenti dei Treasury. In calo il petrolio",
+      "spokenText": "Il debutto record del gigante AI non attenua i timori sul settore. Gli investitori preferiscono rifugiarsi in porti sicuri come bond, yen e franco svizzero, spingendo in rosso l’indice globale Msci All Country World per la settima seduta consecutiva: è la striscia peggiore dal settembre 2023. I listini globali perdono terreno per la settima seduta consecutiva mentre gli investitori si rifugiano in porti sicuri e fanno scendere i rendimenti dei Treasury. Sul piano dell’energia il prezzo del petrolio è in calo, sebbene gli attacchi dei ribelli Houthi contro la capitale dell’Arabia Saudita Riad alimentino i timori sulla tenuta dell’offerta di greggio: il future gennaio sul Wti è in area 82 dollari al barile e il Brent sui 90 dollari.",
       "category": "attualita",
       "tags": [
         "attualita",
-        "reti russe",
-        "ai slop",
-        "fondi usa",
-        "estrema destra",
-        "francia",
-        "germania",
-        "servizio europeo per l azione esterna seae"
+        "anthropic",
+        "msci all country world",
+        "treasury",
+        "wti",
+        "brent"
       ],
-      "importance": 72,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 25,
+      "estimatedSeconds": 48,
       "source": {
-        "name": "Valigia Blu",
-        "url": "https://www.valigiablu.it/elezioni-2027-propaganda-ai-interferenze-europa/"
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/borse-asiatiche-calo-anthropic-cauta-il-debutto-record-AJpG3xMC"
       },
       "analysis": {
-        "mainFact": "La manipolazione digitale sta preparando il terreno per le elezioni del 2027, dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra.",
-        "whyItMatters": "La Francia era stata individuata come uno dei principali bersagli, insieme alla Germania, anche dal Servizio europeo per l'azione esterna (SEAE) che ha descritto operazioni russe mirate a influenzare le elezioni federali tedesche del 2025.",
+        "mainFact": "Il debutto record del gigante AI non attenua i timori sul settore.",
+        "whyItMatters": "Gli investitori preferiscono rifugiarsi in porti sicuri come bond, yen e franco svizzero, spingendo in rosso l’indice globale Msci All Country World per la settima seduta consecutiva: è la striscia peggiore dal settembre 2023.",
         "confirmedFacts": [
-          "La manipolazione digitale sta preparando il terreno per le elezioni del 2027, dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra.",
-          "La Francia era stata individuata come uno dei principali bersagli, insieme alla Germania, anche dal Servizio europeo per l'azione esterna (SEAE) che ha descritto operazioni russe mirate a influenzare le elezioni federali tedesche del 2025.",
-          "Dalla propaganda delle reti russe all'AI slop fino ai fondi USA per l'estrema destra: come la manipolazione digitale sta preparando il terreno per le elezioni del 2027."
+          "Il debutto record del gigante AI non attenua i timori sul settore.",
+          "Gli investitori preferiscono rifugiarsi in porti sicuri come bond, yen e franco svizzero, spingendo in rosso l’indice globale Msci All Country World per la settima seduta consecutiva: è la striscia peggiore dal settembre 2023.",
+          "I listini globali perdono terreno per la settima seduta consecutiva mentre gli investitori si rifugiano in porti sicuri e fanno scendere i rendimenti dei Treasury.",
+          "Sul piano dell’energia il prezzo del petrolio è in calo, sebbene gli attacchi dei ribelli Houthi contro la capitale dell’Arabia Saudita Riad alimentino i timori sulla tenuta dell’offerta di greggio: il future gennaio sul Wti è in area 82 dollari al barile e il Brent sui 90 dollari."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [
-          "Reti russe",
-          "AI slop",
-          "Fondi USA",
-          "Estrema destra",
-          "Francia",
-          "Germania",
-          "Servizio europeo per l'azione esterna (SEAE)"
+          "Anthropic",
+          "MSCI All Country World",
+          "Treasury",
+          "Wti",
+          "Brent"
         ],
         "numbersAndDates": [
-          "2027",
-          "2025"
+          "Sul piano dell’energia il prezzo del petrolio è in calo, sebbene gli attacchi dei ribelli Houthi contro la capitale dell’Arabia Saudita Riad alimentino i timori sulla tenuta dell’offerta di greggio: il future gennaio sul Wti è in area 82 dollari al barile e il Brent sui 90 dollari.",
+          "2023"
         ]
+      }
+    },
+    {
+      "id": "story-e8d417f6f3a67f76",
+      "title": "Alla COP31 si discute anche di quando pubblicare il prossimo rapporto IPCC",
+      "summary": "Alla COP31 di Antalya i governi si dividono sulla data del settimo rapporto IPCC. Se due volumi su tre slittano al 2029, il bilancio globale dei progressi sul clima previsto per il 2028 dovrà fare a meno delle valutazioni scientifiche più aggiornate.",
+      "spokenText": "Alla COP31 di Antalya, la trentunesima conferenza ONU sul clima, i governi sono divisi sulla data di pubblicazione del settimo rapporto dell'IPCC. Il panel intergovernativo sul cambiamento climatico, istituito nel 1988 dall'Organizzazione meteorologica mondiale e dal Programma ONU per l'ambiente, non conduce ricerche dirette, ma raccoglie e valuta le evidenze scientifiche esistenti. India e Arabia Saudita, sostenute da Russia e Kenya, propongono di pubblicare il primo volume nel 2028 e gli altri due nel 2029. I Paesi favorevoli al rinvio sostengono che un'uscita entro il 2028 lascerebbe troppo poco tempo per le revisioni scientifiche e governative. Se due volumi su tre slittassero al 2029, il bilancio globale dei progressi sul clima previsto per il 2028 dovrebbe fare a meno delle valutazioni scientifiche più aggiornate.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "cop31",
+        "antalya",
+        "ipcc",
+        "india",
+        "arabia saudita",
+        "russia",
+        "kenya"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 50,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/cop31-ipcc-calendario-rapporto-ar7/"
+      },
+      "analysis": {
+        "mainFact": "Alla COP31 si discute anche di quando pubblicare il prossimo rapporto IPCC",
+        "whyItMatters": "Se due volumi su tre slittano al 2029, il bilancio globale dei progressi sul clima previsto per il 2028 dovrà fare a meno delle valutazioni scientifiche più aggiornate.",
+        "confirmedFacts": [
+          "Alla COP31 si discute anche di quando pubblicare il prossimo rapporto IPCC",
+          "Se due volumi su tre slittano al 2029, il bilancio globale dei progressi sul clima previsto per il 2028 dovrà fare a meno delle valutazioni scientifiche più aggiornate.",
+          "Alla COP31 di Antalya i governi si dividono sulla data del settimo rapporto IPCC.",
+          "Alcuni Paesi chiedono di rinviare al 2029 la pubblicazione degli ultimi due dei tre volumi, quando però il Global stocktake, che si chiuderà alla COP33 del 2028, sarà ormai concluso.",
+          "India e Arabia Saudita, sostenute da Russia e Kenya, difendono un calendario con il primo volume nel 2028 e gli altri due nel 2029.",
+          "L’IPCC, istituito nel 1988 dall’Organizzazione meteorologica mondiale e dal Programma ONU per l’ambiente (UNEP), non conduce ricerche in proprio, ma le raccoglie e le valuta.",
+          "I Paesi favorevoli al rinvio sostengono che pubblicare i rapporti entro il 2028 lascerebbe troppo poco tempo per le revisioni scientifiche e governative.",
+          "Alla COP31, trentunesima conferenza ONU sul clima in corso ad Antalya, in Turchia, una delle questioni più controverse è diventata la data di uscita del prossimo rapporto dell’IPCC, il panel intergovernativo sul cambiamento climatico."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "COP31",
+          "Antalya",
+          "IPCC",
+          "India",
+          "Arabia Saudita",
+          "Russia",
+          "Kenya"
+        ],
+        "numbersAndDates": [
+          "Alcuni Paesi chiedono di rinviare al 2029 la pubblicazione degli ultimi due dei tre volumi, quando però il Global stocktake, che si chiuderà alla COP33 del 2028, sarà ormai concluso.",
+          "India e Arabia Saudita, sostenute da Russia e Kenya, difendono un calendario con il primo volume nel 2028 e gli altri due nel 2029.",
+          "L’IPCC, istituito nel 1988 dall’Organizzazione meteorologica mondiale e dal Programma ONU per l’ambiente (UNEP), non conduce ricerche in proprio, ma le raccoglie e le valuta.",
+          "I Paesi favorevoli al rinvio sostengono che pubblicare i rapporti entro il 2028 lascerebbe troppo poco tempo per le revisioni scientifiche e governative.",
+          "2029",
+          "2028"
+        ]
+      }
+    },
+    {
+      "id": "story-679f76b0b534d464",
+      "title": "Chi mangia patate (lunari) non muore mai",
+      "summary": "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza. Una ricerca condotta da un gruppo di ricercatori dell’Oregon State University ha dimostrato che le patate possono completare il loro ciclo vitale e produrre tuberi sicuri per il consumo umano, con rese paragonabili a quelle delle coltivazioni terrestri, anche in un suolo che simula la regolite lunare, purché sia arricchito con materia organica",
+      "spokenText": "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza.",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "luna"
+      ],
+      "importance": 95,
+      "mustInclude": false,
+      "estimatedSeconds": 4,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/20/patate-coltivate-nella-regolite-lunare/"
+      },
+      "analysis": {
+        "mainFact": "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza.",
+        "whyItMatters": "Coltivazione patate lunari: rilevanza scienza, ambiente e tecnologia.",
+        "confirmedFacts": [
+          "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza.",
+          "Coltivazione patate lunari: rilevanza scienza, ambiente e tecnologia."
+        ],
+        "uncertainties": [
+          "Coltivare cibo sulla Luna potrebbe non essere più solo fantascienza."
+        ],
+        "peopleAndOrganizations": [
+          "Luna"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-83ba4f05ff1e3e41",
+      "title": "Le IA vogliono sbirciare nelle chat, Signal corre ai ripari",
+      "summary": "Signal blocca gli screenshot nelle proprie app per Android e iOS 27 per ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono. La decisione interviene sulle funzioni dei siste...",
+      "spokenText": "Signal ha deciso di bloccare gli screenshot nelle proprie app per Android e iOS. L'obiettivo è ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono, limitando così la possibilità che queste intelligenze artificiali acquisiscano i contenuti delle conversazioni attraverso le immagini catturate dallo schermo.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "signal",
+        "assistenti ia",
+        "android",
+        "ios"
+      ],
+      "importance": 72,
+      "mustInclude": false,
+      "estimatedSeconds": 18,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/smartphone/signal-blocca-gli-screenshot-basta-a-fermare-gemini-e-siri"
+      },
+      "analysis": {
+        "mainFact": "Signal blocca gli screenshot nelle proprie app per Android e iOS per ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Signal blocca gli screenshot nelle proprie app per Android e iOS per ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono.",
+          "Signal blocca gli screenshot nelle proprie app per Android e iOS 27 per ostacolare l'accesso degli assistenti IA ai messaggi visualizzati sul telefono."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Signal",
+          "assistenti IA",
+          "Android",
+          "iOS"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-1cfcf7c023061c3d",
+      "title": "La Casa Bianca rimuove il capo della cyber-security dopo una serie di disservizi",
+      "summary": "La Casa Bianca rimuove il capo della cyber-security dopo una serie di disservizi tecnologici",
+      "spokenText": "La Casa Bianca ha rimosso il capo della cyber-security a seguito di una serie di disservizi tecnologici. La decisione coinvolge Cairncross e il Republican National Committee.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "white house",
+        "cairncross",
+        "republican national committee"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 11,
+      "source": {
+        "name": "BBC News - World",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "La Casa Bianca rimuove il capo della cyber-security dopo una serie di disservizi tecnologici",
+        "whyItMatters": "Rimozione del capo della cyber-security della Casa Bianca dopo disservizi tecnologici, impatto sistemico.",
+        "confirmedFacts": [
+          "La Casa Bianca rimuove il capo della cyber-security dopo una serie di disservizi tecnologici",
+          "Rimozione del capo della cyber-security della Casa Bianca dopo disservizi tecnologici, impatto sistemico.",
+          "2 days ago Cairncross was previously a lawyer in the Republican Party, before becoming the chief operating officer of the Republican National Committee."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "White House",
+          "Cairncross",
+          "Republican National Committee"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-4dc4d774fb8895ad",
+      "title": "<img src=\"https://cdn",
+      "summary": "Cursor starebbe valutando di eliminare progressivamente i modelli AI open-weight sviluppati in Cina per ragioni legate al rischio geopolitico. Il collegamento con i suoi strumenti di programmazione è...",
+      "spokenText": "Cursor starebbe valutando di eliminare progressivamente i modelli AI open-weight sviluppati in Cina per ragioni legate al rischio geopolitico.",
+      "category": "tecnologia",
+      "tags": [
+        "tecnologia",
+        "cursor",
+        "cina"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 8,
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshw.it/hardware/cursor-valuta-l-addio-ai-modelli-ai-cinesi-ecco-perche"
+      },
+      "analysis": {
+        "mainFact": "Cursor starebbe valutando di eliminare progressivamente i modelli AI open-weight sviluppati in Cina per ragioni legate al rischio geopolitico.",
+        "whyItMatters": "AI e rischi geopolitici, rilevante per tecnologia e industria.",
+        "confirmedFacts": [
+          "Cursor starebbe valutando di eliminare progressivamente i modelli AI open-weight sviluppati in Cina per ragioni legate al rischio geopolitico.",
+          "AI e rischi geopolitici, rilevante per tecnologia e industria."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Cursor",
+          "Cina"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-c5abed3e19125d67",
+      "title": "Selezionata dall’Agenzia spaziale europea la prossima missione scientifica di classe media",
+      "summary": "Selezionata dall’Agenzia spaziale europea la prossima missione scientifica di classe media. Proposta e guidata dall’Istituto nazionale di astrofisica con il sostegno determinante dell’Agenzia spaziale italiana, porterà l’Italia in prima linea nello studio del plasma spaziale. Maria Federica Marcucci (Inaf): «È una sfida che affrontiamo con entusiasmo e con la consapevolezza della responsabilità che ci è stata affidata»",
+      "spokenText": "L'Agenzia spaziale europea ha selezionato la prossima missione scientifica di classe media. La proposta è guidata dall'Istituto nazionale di astrofisica con il sostegno determinante dell'Agenzia spaziale italiana, portando l'Italia in prima linea nello studio del plasma spaziale. Maria Federica Marcucci (Inaf): «È una sfida che affrontiamo con entusiasmo e con la consapevolezza della responsabilità che ci è stata affidata».",
+      "category": "scienza",
+      "tags": [
+        "scienza",
+        "agenzia spaziale europea",
+        "istituto nazionale di astrofisica",
+        "agenzia spaziale italiana",
+        "italia",
+        "maria federica marcucci"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 24,
+      "source": {
+        "name": "Media INAF",
+        "url": "https://www.media.inaf.it/2026/11/19/selezione-plasma-observatory/"
+      },
+      "analysis": {
+        "mainFact": "Selezionata dall'Agenzia spaziale europea la prossima missione scientifica di classe media.",
+        "whyItMatters": "Proposta e guidata dall'Istituto nazionale di astrofisica con il sostegno determinante dell'Agenzia spaziale italiana, porterà l'Italia in prima linea nello studio del plasma spaziale.",
+        "confirmedFacts": [
+          "Selezionata dall'Agenzia spaziale europea la prossima missione scientifica di classe media.",
+          "Proposta e guidata dall'Istituto nazionale di astrofisica con il sostegno determinante dell'Agenzia spaziale italiana, porterà l'Italia in prima linea nello studio del plasma spaziale.",
+          "Maria Federica Marcucci (Inaf): «È una sfida che affrontiamo con entusiasmo e con la consapevolezza della responsabilità che ci è stata affidata»"
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "Agenzia spaziale europea",
+          "Istituto nazionale di astrofisica",
+          "Agenzia spaziale italiana",
+          "Italia",
+          "Maria Federica Marcucci"
+        ],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-323a7d81b381ea5e",
+      "title": "Casa, lavoro e benessere psicologico",
+      "summary": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore. Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica.",
+      "spokenText": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore. Anche chi un impiego ce l'ha, si trova spesso in una situazione di precarietà: oltre il 30 per cento dei giovani ha infatti un contratto a termine. Una pubblicazione del 2023 ha inoltre evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero. Queste dinamiche alimentano il malcontento nelle piazze e pongono al centro della discussione la crisi della rappresentanza politica. L’Italia, con dati del 2024, presenta un’elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento .",
+      "category": "diritti",
+      "tags": [
+        "diritti",
+        "giovani europei",
+        "italia",
+        "contratti a termine",
+        "caro affitti",
+        "disagio psicologico",
+        "rappresentanza politica"
+      ],
+      "importance": 92,
+      "mustInclude": false,
+      "estimatedSeconds": 46,
+      "source": {
+        "name": "Valigia Blu",
+        "url": "https://www.valigiablu.it/giovani-proteste-lavoro-casa-salute-mentale/"
+      },
+      "analysis": {
+        "mainFact": "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore.",
+        "whyItMatters": "Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica.",
+        "confirmedFacts": [
+          "Tra contratti precari, caro affitti e disagio psicologico, per i giovani europei studiare e lavorare non basta più a garantirsi un futuro migliore.",
+          "Le radici del malcontento nelle piazze e una crisi che chiama in causa la rappresentanza politica.",
+          "L’Italia, con dati del 2024, presenta un’elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento .",
+          "Anche chi un impiego ce l’ha, si trova in situazione di precarietà, nonostante una buona performance del mercato del lavoro in questi ultimi anni: oltre il 30 per cento dei giovani, infatti, ha un contratto a termine.",
+          "Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero ."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "giovani europei",
+          "Italia",
+          "contratti a termine",
+          "caro affitti",
+          "disagio psicologico",
+          "rappresentanza politica"
+        ],
+        "numbersAndDates": [
+          "L’Italia, con dati del 2024, presenta un’elevata incidenza di contratti a termine per i più giovani, che raggiungono quasi il 35 per cento .",
+          "Anche chi un impiego ce l’ha, si trova in situazione di precarietà, nonostante una buona performance del mercato del lavoro in questi ultimi anni: oltre il 30 per cento dei giovani, infatti, ha un contratto a termine.",
+          "Una pubblicazione del 2023 ha evidenziato come le fasce più giovani siano meno preoccupate per il lavoro durante il tempo libero ."
+        ]
+      }
+    },
+    {
+      "id": "story-4428fbde9e9c74cd",
+      "title": "Londra e Ue più vicine: siglata la prima intesa post Brexit. Burnham",
+      "summary": "Von Der Leyen: “Siamo a una svolta”. Il premier britannico: “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”",
+      "spokenText": "Il premier britannico. “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”.",
+      "category": "mondo",
+      "tags": [
+        "mondo",
+        "premier britannico",
+        "unione europea",
+        "gran bretagna",
+        "elettori"
+      ],
+      "importance": 70,
+      "mustInclude": false,
+      "estimatedSeconds": 9,
+      "source": {
+        "name": "La Repubblica",
+        "url": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/"
+      },
+      "analysis": {
+        "mainFact": "Il premier britannico. “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”.",
+        "whyItMatters": "Intesa post Brexit Londra-Ue: rilevanza geopolitica ed economica.",
+        "confirmedFacts": [
+          "Il premier britannico. “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”.",
+          "Intesa post Brexit Londra-Ue: rilevanza geopolitica ed economica."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [
+          "premier britannico",
+          "Unione Europea",
+          "Gran Bretagna",
+          "elettori"
+        ],
+        "numbersAndDates": []
       }
     }
   ]
