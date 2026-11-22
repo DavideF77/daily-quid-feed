@@ -1,119 +1,67 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-20-03b544d6c37d",
-  "generatedAt": "2026-11-20T21:38:56.756Z",
+  "catalogId": "daily-quid-2026-11-22-a843907a8b37",
+  "generatedAt": "2026-11-22T19:20:00.864Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-0d252eec4dddcac8",
-      "title": "Il cambiamento climatico altera il ciclo globale del mercurio?",
-      "summary": "L’interazione con il cambiamento climatico Il punto è che il ciclo del mercurio, compresa la sua trasformazione nell’ altamente tossico metilmercurio, sta subendo alterazioni rapide e finora poco studiate a causa del cambiamento climatico . Pur con gravissimo ritardo rispetto ai fatti, il caso di Minamata ha portato a un cambiamento nella gestione globale del mercurio.",
-      "content": "Il ciclo del mercurio, compresa la sua trasformazione nel metilmercurio, sta subendo alterazioni rapide e poco studiate a causa del cambiamento climatico. Questo composto si forma quando il metallo, naturalmente presente nell'ambiente, viene modificato dagli organismi anaerobici degli ambienti acquatici e si diffonde lungo tutta la catena alimentare. La gestione globale di questa sostanza ha subito una svolta con la Convenzione di Minamata, siglata nel 2013 ed entrata in vigore nel 2017, un passo arrivato pur con gravissimo ritardo rispetto ai fatti. Il caso di Minamata, infatti, risale al 1956, quando la malattia fu descritta ufficialmente; l'origine fu accertata negli anni successivi come intossicazione da metilmercurio. Tuttavia, la storia non si chiude con la Convenzione. Ridurre o eliminare le immissioni causate dalle attività umane non risolve il problema del residuo accumulato nei terreni e nelle acque in secoli di inquinamento.",
-      "spokenText": "Il ciclo del mercurio, compresa la sua trasformazione nel metilmercurio, sta subendo alterazioni rapide e poco studiate a causa del cambiamento climatico. Questo composto si forma quando il metallo, naturalmente presente nell'ambiente, viene modificato dagli organismi anaerobici degli ambienti acquatici e si diffonde lungo tutta la catena alimentare. La gestione globale di questa sostanza ha subito una svolta con la Convenzione di Minamata, siglata nel 2013 ed entrata in vigore nel 2017, un passo arrivato pur con gravissimo ritardo rispetto ai fatti. Il caso di Minamata, infatti, risale al 1956, quando la malattia fu descritta ufficialmente; l'origine fu accertata negli anni successivi come intossicazione da metilmercurio. Tuttavia, la storia non si chiude con la Convenzione. Ridurre o eliminare le immissioni causate dalle attività umane non risolve il problema del residuo accumulato nei terreni e nelle acque in secoli di inquinamento.",
-      "category": "ambiente",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-13T16:14:17.000Z",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 56,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/scienza-ricerca/cambiamento-climatico-ciclo-globale-mercurio"
-      },
-      "analysis": {
-        "mainFact": "L’interazione con il cambiamento climatico Il punto è che il ciclo del mercurio, compresa la sua trasformazione nell’ altamente tossico metilmercurio, sta subendo alterazioni rapide e finora poco studiate a causa del cambiamento climatico .",
-        "whyItMatters": "Pur con gravissimo ritardo rispetto ai fatti, il caso di Minamata ha portato a un cambiamento nella gestione globale del mercurio.",
-        "confirmedFacts": [
-          "L’interazione con il cambiamento climatico Il punto è che il ciclo del mercurio, compresa la sua trasformazione nell’ altamente tossico metilmercurio, sta subendo alterazioni rapide e finora poco studiate a causa del cambiamento climatico .",
-          "Pur con gravissimo ritardo rispetto ai fatti, il caso di Minamata ha portato a un cambiamento nella gestione globale del mercurio.",
-          "Nel 2013 è stata siglata la Convenzione di Minamata sul mercurio, entrata in vigore nel 2017.",
-          "Questo composto si forma quando il mercurio – naturalmente presente nell’ambiente – viene modificato dall’azione degli organismi anaerobici che vivono negli ambienti acquatici, e in questa versione modificata si diffonde lungo tutta la catena alimentare.",
-          "Gestire l’inquinamento storico da mercurio Ma la storia del mercurio non si chiude con la Convenzione di Minamata.",
-          "Ridurre – e a lungo termine eliminare – le immissioni di mercurio nell’ambiente a causa delle attività umane non risolverà un altro problema: come gestire il mercurio residuo , accumulato nei terreni e nelle acque in secoli di inquinamento.",
-          "Solo nel 1956 la malattia fu descritta ufficialmente; la sua origine fu accertata negli anni successivi: intossicazione da metilmercurio ."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "Nel 2013 è stata siglata la Convenzione di Minamata sul mercurio, entrata in vigore nel 2017.",
-          "Solo nel 1956 la malattia fu descritta ufficialmente; la sua origine fu accertata negli anni successivi: intossicazione da metilmercurio ."
-        ]
-      }
-    },
-    {
-      "id": "story-5ae7ed0ca3570399",
-      "title": "Emissioni fossili giù nel 2026, ma è l’effetto di Hormuz",
-      "summary": "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5°C di aumento delle temperature medie, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili . La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili.",
-      "content": "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5 gradi di aumento delle temperature medie globali, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili. La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili. SCIENZA E RICERCA Emissioni annuali prodotte dai combustibili fossili, Our World in Data La Cina Tenendo a mente la particolarità del contesto geopolitico, è interessante guardare alle dinamiche nazionali. Il calo delle emissioni che si registrerà quest’anno sarà dello 0,4% rispetto all’anno scorso, una minuscola percentuale rispetto a quello che dovremmo fare per contrastare il cambiamento climatico. Le emissioni del solo settore petrolifero quest’anno caleranno del 1.9% rispetto a quello precedente.",
-      "spokenText": "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5 gradi di aumento delle temperature medie globali, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili. La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili. SCIENZA E RICERCA Emissioni annuali prodotte dai combustibili fossili, Our World in Data La Cina Tenendo a mente la particolarità del contesto geopolitico, è interessante guardare alle dinamiche nazionali. Il calo delle emissioni che si registrerà quest’anno sarà dello 0,4% rispetto all’anno scorso, una minuscola percentuale rispetto a quello che dovremmo fare per contrastare il cambiamento climatico. Le emissioni del solo settore petrolifero quest’anno caleranno del 1.9% rispetto a quello precedente.",
-      "category": "ambiente",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-16T14:52:39.000Z",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 56,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/scienza-ricerca/emissioni-combustibili-fossili-2026-global-carbon-project"
-      },
-      "analysis": {
-        "mainFact": "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5°C di aumento delle temperature medie, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili .",
-        "whyItMatters": "La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili.",
-        "confirmedFacts": [
-          "Si avvia a essere il secondo anno, dopo il 2024, a superare la soglia di 1,5°C di aumento delle temperature medie, ma sarà anche il secondo anno a registrare una diminuzione delle emissioni globali provenienti dai combustibili fossili .",
-          "La Cina rimane il primo produttore al mondo di emissioni, con quasi un terzo (32%) dei 38,2 miliardi di tonnellate di CO2 (Gt CO2) ascrivibili ai combustibili fossili.",
-          "SCIENZA E RICERCA Emissioni annuali prodotte dai combustibili fossili, Our World in Data La Cina Tenendo a mente la particolarità del contesto geopolitico, è interessante guardare alle dinamiche nazionali.",
-          "L'ultimo anno in cui si era registrato un calo delle emissioni era stato il 2020 .",
-          "Il calo delle emissioni che si registrerà quest’anno sarà dello 0,4% rispetto all’anno scorso, una minuscola percentuale rispetto a quello che dovremmo fare per contrastare il cambiamento climatico.",
-          "Le emissioni del solo settore petrolifero quest’anno caleranno del 1.9% rispetto a quello precedente."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "L'ultimo anno in cui si era registrato un calo delle emissioni era stato il 2020 .",
-          "Il calo delle emissioni che si registrerà quest’anno sarà dello 0,4% rispetto all’anno scorso, una minuscola percentuale rispetto a quello che dovremmo fare per contrastare il cambiamento climatico.",
-          "Le emissioni del solo settore petrolifero quest’anno caleranno del 1.9% rispetto a quello precedente.",
-          "2024",
-          "1,5",
-          "32",
-          "38,2"
-        ]
-      }
-    },
-    {
-      "id": "story-8c8cdadba63583a5",
-      "title": "Utilizzando i dati contemporanei dei registri svedesi, con validazione esterna in Finlandia, abbiamo ridefinito OxMIS come modelli specifici per diagnosi per i disturbi dello spettro schizofrenico e il disturbo bipolare",
-      "summary": "Utilizzando i dati contemporanei dei registri svedesi, con validazione esterna in Finlandia, abbiamo ridefinito OxMIS come modelli specifici per diagnosi per i disturbi dello spettro schizofrenico e il disturbo bipolare. Tuttavia, i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo e non è ancora chiaro se modelli separati per i disturbi dello spettro schizofrenico e il disturbo bipolare migliorino le prestazioni.",
-      "content": "OxMIS è uno dei pochi strumenti di valutazione del rischio di suicidio sviluppati per persone con gravi disturbi mentali e ha mostrato buone prestazioni negli studi di validazione esterna. I modelli aggiornati, denominati OxMIS2, hanno dimostrato generalmente una buona calibrazione, con differenze nei profili dei predittori e nelle prestazioni tra i gruppi diagnostici. Tuttavia, non è ancora chiaro se strumenti separati per queste due categorie diagnostiche migliorino le prestazioni complessive, e i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo.",
-      "spokenText": "OxMIS è uno dei pochi strumenti di valutazione del rischio di suicidio sviluppati per persone con gravi disturbi mentali e ha mostrato buone prestazioni negli studi di validazione esterna. I modelli aggiornati, denominati OxMIS2, hanno dimostrato generalmente una buona calibrazione, con differenze nei profili dei predittori e nelle prestazioni tra i gruppi diagnostici. Tuttavia, non è ancora chiaro se strumenti separati per queste due categorie diagnostiche migliorino le prestazioni complessive, e i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo.",
+      "id": "story-7f2cc86213239d3f",
+      "title": "Terapia ormonale di affermazione di genere: il ripensamento è raro",
+      "summary": "La più grande indagine statunitense su giovani transgender mostra che quasi il 97% dei partecipanti ritiene corretta la scelta della terapia ormonale, mentre solo 10 persone hanno riferito di essersi pentite; i dati sono pubblicati su JAMA Pediatrics.",
+      "content": "La più grande indagine finora condotta negli Stati Uniti su giovani persone transgender e gender diverse indica che il ripensamento dopo la terapia ormonale di affermazione di genere è raro. Lo studio, pubblicato su JAMA Pediatrics, ha coinvolto 376 partecipanti, per lo più iniziati al trattamento prima dei 18 anni in una clinica multidisciplinare specializzata. Quasi il 97 per cento ha affermato che la terapia è stata la decisione giusta, mentre solo 10 persone hanno riferito di essersi pentite. Tra queste, sette avevano riportato effetti collaterali, tra cui l’impatto sulla fertilità, tema affrontato ripetutamente prima di iniziare il percorso. I ricercatori segnalano però un limite: circa metà del campione non ha risposto a tutte le survey inviate negli anni. Alberto Scala, endocrinologo del Centro di Riferimento Regionale del Veneto per l’Incongruenza di Genere, spiega che circa il 17 per cento del campione ha interrotto in un certo momento la terapia, ma la maggior parte di queste persone non si pente del percorso. Le interruzioni possono dipendere da obiettivi già raggiunti, problemi di salute o difficoltà economiche e organizzative, specialmente in un contesto senza sistema sanitario universale. In Italia l’età di riferimento è intorno ai 16 anni, ma non basta il dato anagrafico: serve una valutazione in équipe con psicologa dell’età evolutiva, neuropsichiatra infantile e accertamenti endocrinologici per valutare la maturità del minore, con il coinvolgimento e l’assenso dei genitori. Le linee guida italiane di SIGIS, SIAMS e SIE, insieme agli standard internazionali di WPATH ed Endocrine Society, richiamano ripetutamente il rischio di infertilità futura.",
+      "spokenText": "La più grande indagine finora condotta negli Stati Uniti su giovani persone transgender e gender diverse indica che il ripensamento dopo la terapia ormonale di affermazione di genere è raro. Lo studio, pubblicato su JAMA Pediatrics, ha coinvolto 376 partecipanti, per lo più iniziati al trattamento prima dei 18 anni in una clinica multidisciplinare specializzata. Quasi il 97 per cento ha affermato che la terapia è stata la decisione giusta, mentre solo 10 persone hanno riferito di essersi pentite. Tra queste, sette avevano riportato effetti collaterali, tra cui l’impatto sulla fertilità, tema affrontato ripetutamente prima di iniziare il percorso. I ricercatori segnalano però un limite: circa metà del campione non ha risposto a tutte le survey inviate negli anni. Alberto Scala, endocrinologo del Centro di Riferimento Regionale del Veneto per l’Incongruenza di Genere, spiega che circa il 17 per cento del campione ha interrotto in un certo momento la terapia, ma la maggior parte di queste persone non si pente del percorso. Le interruzioni possono dipendere da obiettivi già raggiunti, problemi di salute o difficoltà economiche e organizzative, specialmente in un contesto senza sistema sanitario universale. In Italia l’età di riferimento è intorno ai 16 anni, ma non basta il dato anagrafico: serve una valutazione in équipe con psicologa dell’età evolutiva, neuropsichiatra infantile e accertamenti endocrinologici per valutare la maturità del minore, con il coinvolgimento e l’assenso dei genitori. Le linee guida italiane di SIGIS, SIAMS e SIE, insieme agli standard internazionali di WPATH ed Endocrine Society, richiamano ripetutamente il rischio di infertilità futura.",
       "category": "salute",
-      "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-14T04:19:34.000Z",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-19T15:08:42.000Z",
       "tags": [
         "salute"
       ],
-      "importance": 85,
+      "importance": 100,
       "mustInclude": false,
-      "estimatedSeconds": 34,
+      "estimatedSeconds": 102,
       "source": {
-        "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302634?rss=1"
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/scienza-ricerca/terapia-ormonale-affermazione-genere-ripensamento"
       },
       "analysis": {
-        "mainFact": "Utilizzando i dati contemporanei dei registri svedesi, con validazione esterna in Finlandia, abbiamo ridefinito OxMIS come modelli specifici per diagnosi per i disturbi dello spettro schizofrenico e il disturbo bipolare.",
-        "whyItMatters": "Tuttavia, i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo e non è ancora chiaro se modelli separati per i disturbi dello spettro schizofrenico e il disturbo bipolare migliorino le prestazioni.",
+        "mainFact": "La più grande indagine statunitense su giovani transgender mostra che quasi il 97% dei partecipanti ritiene corretta la scelta della terapia ormonale, mentre solo 10 persone hanno riferito di essersi pentite; i dati sono pubblicati su JAMA Pediatrics.",
+        "whyItMatters": "",
         "confirmedFacts": [
-          "Utilizzando i dati contemporanei dei registri svedesi, con validazione esterna in Finlandia, abbiamo ridefinito OxMIS come modelli specifici per diagnosi per i disturbi dello spettro schizofrenico e il disturbo bipolare.",
-          "Tuttavia, i modelli di valutazione e previsione del rischio potrebbero richiedere aggiornamenti nel tempo e non è ancora chiaro se modelli separati per i disturbi dello spettro schizofrenico e il disturbo bipolare migliorino le prestazioni.",
-          "Lo strumento Oxford Mental Illness and Suicide (OxMIS) è uno dei pochi modelli di valutazione del rischio di suicidio sviluppati per persone con gravi disturbi mentali e ha mostrato buone prestazioni negli studi di validazione esterna.",
-          "I modelli aggiornati (OxMIS2) hanno dimostrato generalmente una buona calibrazione, con differenze nei profili dei predittori e nelle prestazioni del modello tra i gruppi diagnostici."
+          "La più grande indagine statunitense su giovani transgender mostra che quasi il 97% dei partecipanti ritiene corretta la scelta della terapia ormonale, mentre solo 10 persone hanno riferito di essersi pentite; i dati sono pubblicati su JAMA Pediatrics."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "97",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "story-541ede519580f329",
+      "title": "Comportamenti ripetitivi focalizzati sul corpo: comuni e spesso sottovalutati negli adolescenti",
+      "summary": "Uno studio trasversale basato sull'OxWell Student Survey mostra che la maggior parte degli adolescenti riporta almeno un comportamento ripetitivo focalizzato sul corpo, ma circa uno su dieci lo vive con disagio, associato a sintomi internalizzanti e bullismo.",
+      "content": "Uno studio pubblicato su BMJ Mental Health, basato sull'OxWell Student Survey, ha analizzato i comportamenti ripetitivi focalizzati sul corpo, come strapparsi i capelli o stuzzicarsi la pelle, in un ampio campione scolastico di adolescenti. I ricercatori sottolineano che questi comportamenti sono comuni e solitamente iniziano nell'adolescenza, ma sono stati finora studiati soprattutto come disturbi separati nelle popolazioni adulte. Dalla survey emerge che la maggior parte degli adolescenti riporta almeno un comportamento di questo tipo e che la maggior parte non ne prova disagio. Tuttavia, circa un adolescente su dieci riferisce comportamenti fonte di sofferenza. Questi casi sono stati fortemente associati a sintomi internalizzanti e a esperienze di bullismo. Gli autori evidenziano che i comportamenti ripetitivi focalizzati sul corpo non sono di per sé patologici, ma che una minoranza sostanziale di giovani li vive come una fonte significativa di disturbo, spesso trascurata o sottovalutata. Secondo lo studio, un maggiore riconoscimento in ambito sanitario, educativo e di ricerca potrebbe aiutare a identificare bisogni insoddisfatti e a offrire un supporto più adeguato a chi ne soffre.",
+      "spokenText": "Uno studio pubblicato su BMJ Mental Health, basato sull'OxWell Student Survey, ha analizzato i comportamenti ripetitivi focalizzati sul corpo, come strapparsi i capelli o stuzzicarsi la pelle, in un ampio campione scolastico di adolescenti. I ricercatori sottolineano che questi comportamenti sono comuni e solitamente iniziano nell'adolescenza, ma sono stati finora studiati soprattutto come disturbi separati nelle popolazioni adulte. Dalla survey emerge che la maggior parte degli adolescenti riporta almeno un comportamento di questo tipo e che la maggior parte non ne prova disagio. Tuttavia, circa un adolescente su dieci riferisce comportamenti fonte di sofferenza. Questi casi sono stati fortemente associati a sintomi internalizzanti e a esperienze di bullismo. Gli autori evidenziano che i comportamenti ripetitivi focalizzati sul corpo non sono di per sé patologici, ma che una minoranza sostanziale di giovani li vive come una fonte significativa di disturbo, spesso trascurata o sottovalutata. Secondo lo studio, un maggiore riconoscimento in ambito sanitario, educativo e di ricerca potrebbe aiutare a identificare bisogni insoddisfatti e a offrire un supporto più adeguato a chi ne soffre.",
+      "category": "altro",
+      "editorialGroup": "psicoterapia",
+      "publishedAt": "2026-11-20T07:01:27.000Z",
+      "tags": [
+        "altro"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 70,
+      "source": {
+        "name": "BMJ Mental Health",
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302871?rss=1"
+      },
+      "analysis": {
+        "mainFact": "Uno studio trasversale basato sull'OxWell Student Survey mostra che la maggior parte degli adolescenti riporta almeno un comportamento ripetitivo focalizzato sul corpo, ma circa uno su dieci lo vive con disagio, associato a sintomi internalizzanti e bullismo.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Uno studio trasversale basato sull'OxWell Student Survey mostra che la maggior parte degli adolescenti riporta almeno un comportamento ripetitivo focalizzato sul corpo, ma circa uno su dieci lo vive con disagio, associato a sintomi internalizzanti e bullismo."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -122,30 +70,62 @@
     },
     {
       "id": "story-511d6ff568c55147",
-      "title": "Allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio versus trattamento abituale ottimizzato in pazienti con cancro (Reduct): uno studio multicentrico, a gruppi paralleli, randomizzato controllato",
-      "summary": "Allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio versus trattamento abituale ottimizzato in pazienti con cancro (Reduct): uno studio multicentrico, a gruppi paralleli, randomizzato controllato Questo studio multicentrico, a gruppi paralleli, randomizzato controllato aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
-      "content": "Uno studio multicentrico, a gruppi paralleli e randomizzato controllato ha confrontato un allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio con il trattamento abituale ottimizzato in pazienti con cancro. I risultati suggeriscono che gli interventi EMH autoguidati possono migliorare esiti specifici come l'ansia e l'autoefficacia, ma non il disagio globale. Questa ricerca aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
-      "spokenText": "Uno studio multicentrico, a gruppi paralleli e randomizzato controllato ha confrontato un allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio con il trattamento abituale ottimizzato in pazienti con cancro. I risultati suggeriscono che gli interventi EMH autoguidati possono migliorare esiti specifici come l'ansia e l'autoefficacia, ma non il disagio globale. Questa ricerca aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
-      "category": "salute",
+      "title": "Asma infantile e rischio suicidario: il legame documentato in una coorte canadese",
+      "summary": "Uno studio longitudinale su 1633 individui mostra che l'asma nell'infanzia è associato a un maggiore rischio di ideazione e tentativo suicidario in adolescenza e giovane età; i sintomi depressivi spiegano dal 20% al 30% di questo rischio.",
+      "content": "Uno studio pubblicato su BMJ Mental Health ha analizzato l'associazione longitudinale tra condizioni fisiche nell'infanzia e pensieri o comportamenti suicidari nei giovani. I ricercatori hanno seguito una coorte di nascita canadese composta da 1633 individui, osservando che l'asma è stato costantemente associato a un aumento del rischio di ideazione suicidaria, ideazione suicidaria grave e tentativo di suicidio durante l'adolescenza e la giovane età. Secondo i dati riportati, i sintomi depressivi in adolescenza spiegano tra il 20% e il 30% di questo aumento del rischio. Gli autori sottolineano che i risultati evidenziano la necessità di screening e interventi di salute mentale di routine nell'assistenza pediatrica, in particolare per i giovani con asma. Il contesto di partenza indica che la prevalenza a vita di ideazione e tentativi suicidari tra bambini e adolescenti è rispettivamente del 18% e del 6%. Lo studio non stabilisce un rapporto di causalità diretto e lascia aperte le incertezze su quali altre condizioni fisiche possano presentare rischi comparabili.",
+      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha analizzato l'associazione longitudinale tra condizioni fisiche nell'infanzia e pensieri o comportamenti suicidari nei giovani. I ricercatori hanno seguito una coorte di nascita canadese composta da 1633 individui, osservando che l'asma è stato costantemente associato a un aumento del rischio di ideazione suicidaria, ideazione suicidaria grave e tentativo di suicidio durante l'adolescenza e la giovane età. Secondo i dati riportati, i sintomi depressivi in adolescenza spiegano tra il 20% e il 30% di questo aumento del rischio. Gli autori sottolineano che i risultati evidenziano la necessità di screening e interventi di salute mentale di routine nell'assistenza pediatrica, in particolare per i giovani con asma. Il contesto di partenza indica che la prevalenza a vita di ideazione e tentativi suicidari tra bambini e adolescenti è rispettivamente del 18% e del 6%. Lo studio non stabilisce un rapporto di causalità diretto e lascia aperte le incertezze su quali altre condizioni fisiche possano presentare rischi comparabili.",
+      "category": "altro",
       "editorialGroup": "psicoterapia",
       "publishedAt": "2026-11-14T04:19:35.000Z",
       "tags": [
-        "salute"
+        "altro"
       ],
-      "importance": 85,
+      "importance": 55,
       "mustInclude": false,
-      "estimatedSeconds": 30,
+      "estimatedSeconds": 64,
       "source": {
         "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302908?rss=1"
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302889?rss=1"
       },
       "analysis": {
-        "mainFact": "Allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio versus trattamento abituale ottimizzato in pazienti con cancro (Reduct): uno studio multicentrico, a gruppi paralleli, randomizzato controllato",
-        "whyItMatters": "Questo studio multicentrico, a gruppi paralleli, randomizzato controllato aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
+        "mainFact": "Uno studio longitudinale su 1633 individui mostra che l'asma nell'infanzia è associato a un maggiore rischio di ideazione e tentativo suicidario in adolescenza e giovane età; i sintomi depressivi spiegano dal 20% al 30% di questo rischio.",
+        "whyItMatters": "",
         "confirmedFacts": [
-          "Allenamento autoguidato basato sul web di mindfulness e riduzione delle abilità di disagio versus trattamento abituale ottimizzato in pazienti con cancro (Reduct): uno studio multicentrico, a gruppi paralleli, randomizzato controllato",
-          "Questo studio multicentrico, a gruppi paralleli, randomizzato controllato aggiunge prove confermative sull'efficacia di un intervento EMH autoguidato rispetto a una condizione di controllo attiva.",
-          "I risultati suggeriscono che gli interventi EMH autoguidati possono migliorare esiti specifici come l'ansia e l'autoefficacia, ma non il disagio globale nei pazienti con cancro."
+          "Uno studio longitudinale su 1633 individui mostra che l'asma nell'infanzia è associato a un maggiore rischio di ideazione e tentativo suicidario in adolescenza e giovane età; i sintomi depressivi spiegano dal 20% al 30% di questo rischio."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "1633",
+          "20",
+          "30"
+        ]
+      }
+    },
+    {
+      "id": "story-8cee1fb1a7d612cb",
+      "title": "Sisa: le cinque mosse per prevenire le malattie cardiovascolari",
+      "summary": "La Società italiana per lo studio dell'aterosclerosi ha presentato cinque indicazioni per contrastare infarto, ictus e aterosclerosi, integrando stili di vita, controllo dei fattori di rischio e attenzione alle malattie ereditarie.",
+      "content": "La Società italiana per lo studio dell'aterosclerosi ha definito cinque mosse per proteggere la salute cardiovascolare e prevenire aterosclerosi, infarto ed ictus. Le indicazioni sono state presentate in occasione del quarantesimo congresso nazionale della società, incentrato su stili di vita, ambiente, diagnosi precoce, nuove terapie e malattie rare, con una visione che lega cuore, reni, fegato e metabolismo. La prima indicazione riguarda un'alimentazione equilibrata, il controllo del peso e l'attenzione ai grassi nel sangue. La seconda punta a contrastare la sedentarietà con movimento quotidiano, l'abbandono del fumo e l'attenzione alla qualità dell'aria. La terza regola prevede il monitoraggio di tutti i fattori di rischio, non solo il colesterolo Ldl, ma anche trigliceridi, pressione arteriosa, glicemia, peso e la salute di reni e fegato, poiché il rischio cardiovascolare nasce dalla combinazione di più elementi. La quarta indica di valutare precocemente il rischio con il medico e, se necessario, seguire terapie personalizzate per prevenire il primo evento o le recidive. Infine, la società richiama l'attenzione sul Dna: valori di Ldl oltre centonovanta milligrammi per decilitro o trigliceridi superiori a ottocentottanta milligrammi per decilitro possono segnalare una malattia ereditaria, il cui riconoscimento tempestivo può tutelare anche figli, fratelli e genitori.",
+      "spokenText": "La Società italiana per lo studio dell'aterosclerosi ha definito cinque mosse per proteggere la salute cardiovascolare e prevenire aterosclerosi, infarto ed ictus. Le indicazioni sono state presentate in occasione del quarantesimo congresso nazionale della società, incentrato su stili di vita, ambiente, diagnosi precoce, nuove terapie e malattie rare, con una visione che lega cuore, reni, fegato e metabolismo. La prima indicazione riguarda un'alimentazione equilibrata, il controllo del peso e l'attenzione ai grassi nel sangue. La seconda punta a contrastare la sedentarietà con movimento quotidiano, l'abbandono del fumo e l'attenzione alla qualità dell'aria. La terza regola prevede il monitoraggio di tutti i fattori di rischio, non solo il colesterolo Ldl, ma anche trigliceridi, pressione arteriosa, glicemia, peso e la salute di reni e fegato, poiché il rischio cardiovascolare nasce dalla combinazione di più elementi. La quarta indica di valutare precocemente il rischio con il medico e, se necessario, seguire terapie personalizzate per prevenire il primo evento o le recidive. Infine, la società richiama l'attenzione sul Dna: valori di Ldl oltre centonovanta milligrammi per decilitro o trigliceridi superiori a ottocentottanta milligrammi per decilitro possono segnalare una malattia ereditaria, il cui riconoscimento tempestivo può tutelare anche figli, fratelli e genitori.",
+      "category": "scienza",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-22T12:03:20.000Z",
+      "tags": [
+        "scienza"
+      ],
+      "importance": 100,
+      "mustInclude": false,
+      "estimatedSeconds": 79,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/22/da-alimentazione-a-movimento-le-5-mosse-per-la-salute-cardiovascolare_6ba340d0-ecce-43f8-aa58-ab8fe331032d.html"
+      },
+      "analysis": {
+        "mainFact": "La Società italiana per lo studio dell'aterosclerosi ha presentato cinque indicazioni per contrastare infarto, ictus e aterosclerosi, integrando stili di vita, controllo dei fattori di rischio e attenzione alle malattie ereditarie.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "La Società italiana per lo studio dell'aterosclerosi ha presentato cinque indicazioni per contrastare infarto, ictus e aterosclerosi, integrando stili di vita, controllo dei fattori di rischio e attenzione alle malattie ereditarie."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -154,72 +134,128 @@
     },
     {
       "id": "story-719c43bc9ab8426c",
-      "title": "Un esempio è Klebsiella pneumoniae resistente ai carbapenemi, una classe di antibiotici riservata al trattamento di infezioni gravi",
-      "summary": "Un esempio è Klebsiella pneumoniae resistente ai carbapenemi, una classe di antibiotici riservata al trattamento di infezioni gravi. Allo stesso tempo, il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale, e per questo motivo la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti agli antibiotici.",
-      "content": "Un esempio di resistenza agli antibiotici è rappresentato da Klebsiella pneumoniae resistente ai carbapenemi, una classe di farmaci riservata al trattamento di infezioni gravi. Questo fenomeno si inserisce in un contesto in cui il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale. Proprio per questo motivo, la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti a questi farmaci. Obiettivi UE Ridurre il consumo totale di antibiotici negli esseri umani del 20%.",
-      "spokenText": "Un esempio di resistenza agli antibiotici è rappresentato da Klebsiella pneumoniae resistente ai carbapenemi, una classe di farmaci riservata al trattamento di infezioni gravi. Questo fenomeno si inserisce in un contesto in cui il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale. Proprio per questo motivo, la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti a questi farmaci. Obiettivi UE Ridurre il consumo totale di antibiotici negli esseri umani del 20%.",
-      "category": "salute",
+      "title": "Resistenza agli antibiotici, l’Europa resta indietro sugli obiettivi 2030",
+      "summary": "L’ECDC lancia l’allarme per la diffusione dei batteri resistenti agli antibiotici in occasione della Giornata europea per la consapevolezza sugli antibiotici. Tra i dati più critici, l’aumento del 72% delle infezioni del sangue da Klebsiella pneumoniae resistente ai carbapenemi dal 2019.",
+      "content": "Il Centro europeo per la prevenzione e il controllo delle malattie chiede interventi urgenti per preservare l’efficacia degli antibiotici, in occasione della Giornata europea per la consapevolezza sugli antibiotici. L’ECDC segnala che l’Unione europea è ancora indietro rispetto a diversi obiettivi fissati per il 2030 per contrastare la resistenza antimicrobica. I dati più preoccupanti riguardano la Klebsiella pneumoniae resistente ai carbapenemi, antibiotici riservati alle infezioni gravi: le infezioni del sangue causate da questo batterio sono aumentate del 72 per cento dal 2019 e sono associate a un elevato tasso di mortalità. Anche le infezioni del sangue da Escherichia coli resistente a cefalosporine di terza generazione sono cresciute, del 16,4 per cento, nonostante l’obiettivo fosse una riduzione del 10 per cento. L’ECDC sottolinea però alcune innovazioni, come la sorveglianza genomica più rapida, che permettono di monitorare meglio la diffusione dei batteri resistenti e di intervenire più velocemente per fermare i contagi. Tra i progressi registrati, il consumo di antibiotici nell’uomo è calato del 5 per cento tra il 2019 e il 2025, ma l’obiettivo per il 2030 è una riduzione del 20 per cento. L’autorità europea invita le autorità sanitarie a intervenire rapidamente con misure di prevenzione e controllo delle infezioni, sorveglianza rafforzata e coordinamento tra le strutture sanitarie.",
+      "spokenText": "Il Centro europeo per la prevenzione e il controllo delle malattie chiede interventi urgenti per preservare l’efficacia degli antibiotici, in occasione della Giornata europea per la consapevolezza sugli antibiotici. L’ECDC segnala che l’Unione europea è ancora indietro rispetto a diversi obiettivi fissati per il 2030 per contrastare la resistenza antimicrobica. I dati più preoccupanti riguardano la Klebsiella pneumoniae resistente ai carbapenemi, antibiotici riservati alle infezioni gravi: le infezioni del sangue causate da questo batterio sono aumentate del 72 per cento dal 2019 e sono associate a un elevato tasso di mortalità. Anche le infezioni del sangue da Escherichia coli resistente a cefalosporine di terza generazione sono cresciute, del 16,4 per cento, nonostante l’obiettivo fosse una riduzione del 10 per cento. L’ECDC sottolinea però alcune innovazioni, come la sorveglianza genomica più rapida, che permettono di monitorare meglio la diffusione dei batteri resistenti e di intervenire più velocemente per fermare i contagi. Tra i progressi registrati, il consumo di antibiotici nell’uomo è calato del 5 per cento tra il 2019 e il 2025, ma l’obiettivo per il 2030 è una riduzione del 20 per cento. L’autorità europea invita le autorità sanitarie a intervenire rapidamente con misure di prevenzione e controllo delle infezioni, sorveglianza rafforzata e coordinamento tra le strutture sanitarie.",
+      "category": "attualita",
       "editorialGroup": "salute",
       "publishedAt": "2026-11-18T05:00:07.000Z",
       "tags": [
-        "salute"
+        "attualita"
       ],
-      "importance": 95,
+      "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 32,
+      "estimatedSeconds": 84,
       "source": {
         "name": "ECDC News",
         "url": "https://www.ecdc.europa.eu/en/news-events/urgent-action-needed-safeguard-effectiveness-antibiotics"
       },
       "analysis": {
-        "mainFact": "Un esempio è Klebsiella pneumoniae resistente ai carbapenemi, una classe di antibiotici riservata al trattamento di infezioni gravi.",
-        "whyItMatters": "Allo stesso tempo, il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale, e per questo motivo la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti agli antibiotici.",
+        "mainFact": "L’ECDC lancia l’allarme per la diffusione dei batteri resistenti agli antibiotici in occasione della Giornata europea per la consapevolezza sugli antibiotici. Tra i dati più critici, l’aumento del 72% delle infezioni del sangue da Klebsiella pneumoniae resistente ai carbapenemi dal 2019.",
+        "whyItMatters": "",
         "confirmedFacts": [
-          "Un esempio è Klebsiella pneumoniae resistente ai carbapenemi, una classe di antibiotici riservata al trattamento di infezioni gravi.",
-          "Allo stesso tempo, il 90% di tutto il consumo umano di antibiotici avviene nel settore comunitario o ambulatoriale, e per questo motivo la campagna 2026 dell'ECDC si concentra sui bambini, che sono spesso esposti agli antibiotici.",
-          "Obiettivi UE Ridurre il consumo totale di antibiotici negli esseri umani del 20%."
+          "L’ECDC lancia l’allarme per la diffusione dei batteri resistenti agli antibiotici in occasione della Giornata europea per la consapevolezza sugli antibiotici. Tra i dati più critici, l’aumento del 72% delle infezioni del sangue da Klebsiella pneumoniae resistente ai carbapenemi dal 2019."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "Obiettivi UE Ridurre il consumo totale di antibiotici negli esseri umani del 20%.",
-          "90",
-          "2026"
+          "72",
+          "2019"
         ]
       }
     },
     {
-      "id": "story-a1003f96d5857309",
-      "title": "Casi sono stati segnalati anche in Kenya e Nigeria nell'ottobre 2026 e sono stati segnalati in Uganda, dove il focolaio è terminato",
-      "summary": "Casi sono stati segnalati anche in Kenya e Nigeria nell'ottobre 2026 e sono stati segnalati in Uganda, dove il focolaio è terminato. Dall'inizio del focolaio, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
-      "content": "Casi di Ebola sono stati segnalati in Kenya e Nigeria nell'ottobre 2026, mentre in Uganda il focolaio si è concluso. In Nigeria, un caso è stato confermato il 20 ottobre 2026. Dall'inizio dell'epidemia, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
-      "spokenText": "Casi di Ebola sono stati segnalati in Kenya e Nigeria nell'ottobre 2026, mentre in Uganda il focolaio si è concluso. In Nigeria, un caso è stato confermato il 20 ottobre 2026. Dall'inizio dell'epidemia, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
-      "category": "salute",
-      "editorialGroup": "salute",
-      "publishedAt": "2026-11-17T16:36:21.000Z",
+      "id": "story-3385df7efc75cbf5",
+      "title": "COP31 ad Antalya fallisce senza accordo politico",
+      "summary": "La COP31 si è conclusa senza adottare l'Antalya Pact: UE, Panama, Regno Unito, Norvegia, Isole Marshall e Vanuatu hanno bloccato il testo per l'assenza di riferimenti espliciti ai combustibili fossili e di certezze sulla finanza per l'adattamento. L'Accordo di Parigi resta in vigore, ma manca il compromesso politico per collegare e rafforzare le decisioni già approvate.",
+      "content": "La COP31 di Antalya si è chiusa senza adottare l'Antalya Pact, la decisione che avrebbe dovuto riassumere l'indirizzo politico della conferenza. Dopo oltre 45 ore di prolungamento, il presidente turco Murat Kurum ha preso atto dell'assenza di consenso e ha annunciato che non presenterà un altro testo. Rimangono gli accordi precedenti e le iniziative volontarie, ma manca il compromesso che avrebbe dovuto collegarle e rafforzarle. L'Unione Europea, insieme a Panama, Regno Unito, Norvegia, Isole Marshall e Vanuatu, si è opposta al pacchetto, denunciando il rischio di dare copertura politica all'uso continuato dei combustibili fossili e l'assenza di un percorso credibile per limitare il superamento di 1,5 gradi. Il ministro irlandese Darragh O'Brien ha definito la conferenza dirottata da qualche petrostato. Ani Dasgupta, presidente del World Resources Institute, ha parlato di fallimento della leadership politica, ma non dell'Accordo di Parigi, che continua a prescrivere obblighi, trasparenza e revisione degli impegni nazionali. Il fallimento riguarda dunque la capacità dei governi di usare questa architettura per decidere come realizzare gli obiettivi sottoscritti.",
+      "spokenText": "La COP31 di Antalya si è chiusa senza adottare l'Antalya Pact, la decisione che avrebbe dovuto riassumere l'indirizzo politico della conferenza. Dopo oltre 45 ore di prolungamento, il presidente turco Murat Kurum ha preso atto dell'assenza di consenso e ha annunciato che non presenterà un altro testo. Rimangono gli accordi precedenti e le iniziative volontarie, ma manca il compromesso che avrebbe dovuto collegarle e rafforzarle. L'Unione Europea, insieme a Panama, Regno Unito, Norvegia, Isole Marshall e Vanuatu, si è opposta al pacchetto, denunciando il rischio di dare copertura politica all'uso continuato dei combustibili fossili e l'assenza di un percorso credibile per limitare il superamento di 1,5 gradi. Il ministro irlandese Darragh O'Brien ha definito la conferenza dirottata da qualche petrostato. Ani Dasgupta, presidente del World Resources Institute, ha parlato di fallimento della leadership politica, ma non dell'Accordo di Parigi, che continua a prescrivere obblighi, trasparenza e revisione degli impegni nazionali. Il fallimento riguarda dunque la capacità dei governi di usare questa architettura per decidere come realizzare gli obiettivi sottoscritti.",
+      "category": "attualita",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-22T14:08:09.000Z",
       "tags": [
-        "salute"
+        "attualita"
+      ],
+      "importance": 100,
+      "mustInclude": false,
+      "estimatedSeconds": 68,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/cop31-antalya-senza-accordo-fiducia/"
+      },
+      "analysis": {
+        "mainFact": "La COP31 si è conclusa senza adottare l'Antalya Pact: UE, Panama, Regno Unito, Norvegia, Isole Marshall e Vanuatu hanno bloccato il testo per l'assenza di riferimenti espliciti ai combustibili fossili e di certezze sulla finanza per l'adattamento. L'Accordo di Parigi resta in vigore, ma manca il compromesso politico per collegare e rafforzare le decisioni già approvate.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "La COP31 si è conclusa senza adottare l'Antalya Pact: UE, Panama, Regno Unito, Norvegia, Isole Marshall e Vanuatu hanno bloccato il testo per l'assenza di riferimenti espliciti ai combustibili fossili e di certezze sulla finanza per l'adattamento. L'Accordo di Parigi resta in vigore, ma manca il compromesso politico per collegare e rafforzare le decisioni già approvate."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-ea38397c05cec079",
+      "title": "Vujčić (BCE): AI e debito sovrano i rischi per la stabilità finanziaria",
+      "summary": "Il vicepresidente della BCE Boris Vujčić avverte che l'espansione dell'intelligenza artificiale e le fragilità dei mercati del debito sovrano sono i due rischi principali per il sistema finanziario dell'area euro, in vista della pubblicazione della Financial Stability Review.",
+      "content": "Il vicepresidente della Banca Centrale Europea, Boris Vujčić, ha parlato all'Euro Finance Week di Francoforte, due giorni prima della pubblicazione della Financial Stability Review. Il suo messaggio centrale è che l'area euro ha bisogno di più finanza basata sui mercati, ma che un ruolo maggiore dei non-bancari deve accompagnarsi a salvaguardie più forti a livello di sistema. Tra i rischi individuati, due spiccano rispetto a un anno fa: l'intelligenza artificiale e i mercati del debito sovrano. Per l'AI, le vulnerabilità non riguardano più solo le valutazioni azionarie, ma anche l'espansione del finanziamento esterno dal capitale al debito, la concentrazione delle esposizioni, l'adozione rapida e i potenziali attacchi informatici. Vujčić cita anche l'alta concentrazione di fornitori terzi di servizi critici, in particolare tecnologici, su cui fanno affidamento banche e intermediari finanziari dell'area euro. Sul fronte del debito sovrano, le preoccupazioni sulla sostenibilità sono aumentate su entrambe le sponde dell'Atlantico, contribuendo all'aumento dei rendimenti a lungo termine, insieme a maggiori esigenze di finanziamento pubblico, incertezza politica e geopolitica e una base di investitori più sensibile ai prezzi. Sul piano macroeconomico, l'inflazione headline nell'area euro è salita al 4 per cento a ottobre, dal 3,8 per cento di settembre, principalmente per via dell'energia. L'inflazione sottostante è rimasta ampiamente stabile e i salari non mostrano ancora una risposta materiale. Vujčić ricorda inoltre che la spesa in capitale cumulata delle principali aziende tecnologiche statunitensi è proiettata a raggiungere 5,5 trilioni di dollari entro il 2030, mentre i volumi di IPO legati all'AI sono in rotta per superare, rispetto al PIL statunitense, i massimi della bolla delle dot-com.",
+      "spokenText": "Il vicepresidente della Banca Centrale Europea, Boris Vujčić, ha parlato all'Euro Finance Week di Francoforte, due giorni prima della pubblicazione della Financial Stability Review. Il suo messaggio centrale è che l'area euro ha bisogno di più finanza basata sui mercati, ma che un ruolo maggiore dei non-bancari deve accompagnarsi a salvaguardie più forti a livello di sistema. Tra i rischi individuati, due spiccano rispetto a un anno fa: l'intelligenza artificiale e i mercati del debito sovrano. Per l'AI, le vulnerabilità non riguardano più solo le valutazioni azionarie, ma anche l'espansione del finanziamento esterno dal capitale al debito, la concentrazione delle esposizioni, l'adozione rapida e i potenziali attacchi informatici. Vujčić cita anche l'alta concentrazione di fornitori terzi di servizi critici, in particolare tecnologici, su cui fanno affidamento banche e intermediari finanziari dell'area euro. Sul fronte del debito sovrano, le preoccupazioni sulla sostenibilità sono aumentate su entrambe le sponde dell'Atlantico, contribuendo all'aumento dei rendimenti a lungo termine, insieme a maggiori esigenze di finanziamento pubblico, incertezza politica e geopolitica e una base di investitori più sensibile ai prezzi. Sul piano macroeconomico, l'inflazione headline nell'area euro è salita al 4 per cento a ottobre, dal 3,8 per cento di settembre, principalmente per via dell'energia. L'inflazione sottostante è rimasta ampiamente stabile e i salari non mostrano ancora una risposta materiale. Vujčić ricorda inoltre che la spesa in capitale cumulata delle principali aziende tecnologiche statunitensi è proiettata a raggiungere 5,5 trilioni di dollari entro il 2030, mentre i volumi di IPO legati all'AI sono in rotta per superare, rispetto al PIL statunitense, i massimi della bolla delle dot-com.",
+      "category": "attualita",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-16T08:30:00.000Z",
+      "tags": [
+        "attualita"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 20,
+      "estimatedSeconds": 105,
       "source": {
-        "name": "ECDC News",
-        "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026"
+        "name": "Banca Centrale Europea",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html"
       },
       "analysis": {
-        "mainFact": "Casi sono stati segnalati anche in Kenya e Nigeria nell'ottobre 2026 e sono stati segnalati in Uganda, dove il focolaio è terminato.",
-        "whyItMatters": "Dall'inizio del focolaio, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
+        "mainFact": "Il vicepresidente della BCE Boris Vujčić avverte che l'espansione dell'intelligenza artificiale e le fragilità dei mercati del debito sovrano sono i due rischi principali per il sistema finanziario dell'area euro, in vista della pubblicazione della Financial Stability Review.",
+        "whyItMatters": "",
         "confirmedFacts": [
-          "Casi sono stati segnalati anche in Kenya e Nigeria nell'ottobre 2026 e sono stati segnalati in Uganda, dove il focolaio è terminato.",
-          "Dall'inizio del focolaio, otto province sono state colpite: Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uélé, Bas-Uélé, Sud Ubangi e Nord Ubangi.",
-          "In Nigeria, un caso di Ebola è stato segnalato il 20 ottobre 2026."
+          "Il vicepresidente della BCE Boris Vujčić avverte che l'espansione dell'intelligenza artificiale e le fragilità dei mercati del debito sovrano sono i due rischi principali per il sistema finanziario dell'area euro, in vista della pubblicazione della Financial Stability Review."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-e6c077b5319a76da",
+      "title": "Sanofi valuta l'acquisto di Insmed per oltre 30 miliardi di dollari",
+      "summary": "Sanofi sta valutando l'acquisizione della biotech americana Insmed per oltre 30 miliardi di dollari, nell'ambito della strategia di ricerca di nuovi blockbuster per compensare la scadenza dei brevetti di Dupixent. Il titolo Insmed è balzato oltre il 24% a Wall Street, mentre Sanofi ha ceduto il 2,85% a Parigi.",
+      "content": "Sanofi sta valutando l'acquisizione di Insmed, società biofarmaceutica statunitense specializzata in terapie per patologie polmonari, respiratorie, infiammatorie e immunologiche. L'operazione potrebbe richiedere settimane e avere un valore superiore a 30 miliardi di dollari. A Wall Street, il titolo Insmed ha reagito con un balzo superiore al 24%, portando la capitalizzazione oltre quota 31 miliardi. A Parigi, Sanofi ha chiuso la seduta in flessione del 2,85%, con una capitalizzazione di 101 miliardi. L'operazione si inserisce nella strategia del gruppo francese di rafforzare il portafoglio attraverso acquisizioni, mentre le grandi aziende farmaceutiche cercano nuovi blockbuster per compensare l'erosione dei ricavi legata alla scadenza dei brevetti. Il nodo principale per Sanofi è Dupixent, farmaco di punta contro asma e patologie dermatologiche, destinato a perdere l'esclusività nei primi anni del prossimo decennio. La ceo Belén Garijo, arrivata al vertice all'inizio dell'anno dopo l'uscita di Paul Hudson, ha indicato l'M&A come leva di sviluppo durante la conference call sui risultati del terzo trimestre. Sanofi dispone di una significativa capacità finanziaria, grazie anche alla cessione della quota di controllo di Opella a Clayton Dubilier & Rice, che ha generato circa 10 miliardi di euro di proventi netti. Il direttore finanziario François-Xavier Roger ha lasciato intendere che il gruppo è pronto a valutare operazioni più grandi rispetto al passato. Entro fine anno il gruppo dovrebbe presentare un aggiornamento sulle priorità strategiche. Le azioni Sanofi da inizio anno hanno un saldo positivo dell'1,75%, ma solo nell'ultimo mese hanno recuperato il 18%. Insmed ha corso in Borsa nell'ultimo mese con un rialzo del 50%, dopo aver rivisto al rialzo le previsioni di ricavi per il 2026 per Brinsupri e Arikayce. La società ha inoltre nominato Paul Hudson, ex amministratore delegato di Sanofi, nel proprio board come membro indipendente.",
+      "spokenText": "Sanofi sta valutando l'acquisizione di Insmed, società biofarmaceutica statunitense specializzata in terapie per patologie polmonari, respiratorie, infiammatorie e immunologiche. L'operazione potrebbe richiedere settimane e avere un valore superiore a 30 miliardi di dollari. A Wall Street, il titolo Insmed ha reagito con un balzo superiore al 24%, portando la capitalizzazione oltre quota 31 miliardi. A Parigi, Sanofi ha chiuso la seduta in flessione del 2,85%, con una capitalizzazione di 101 miliardi. L'operazione si inserisce nella strategia del gruppo francese di rafforzare il portafoglio attraverso acquisizioni, mentre le grandi aziende farmaceutiche cercano nuovi blockbuster per compensare l'erosione dei ricavi legata alla scadenza dei brevetti. Il nodo principale per Sanofi è Dupixent, farmaco di punta contro asma e patologie dermatologiche, destinato a perdere l'esclusività nei primi anni del prossimo decennio. La ceo Belén Garijo, arrivata al vertice all'inizio dell'anno dopo l'uscita di Paul Hudson, ha indicato l'M&A come leva di sviluppo durante la conference call sui risultati del terzo trimestre. Sanofi dispone di una significativa capacità finanziaria, grazie anche alla cessione della quota di controllo di Opella a Clayton Dubilier & Rice, che ha generato circa 10 miliardi di euro di proventi netti. Il direttore finanziario François-Xavier Roger ha lasciato intendere che il gruppo è pronto a valutare operazioni più grandi rispetto al passato. Entro fine anno il gruppo dovrebbe presentare un aggiornamento sulle priorità strategiche. Le azioni Sanofi da inizio anno hanno un saldo positivo dell'1,75%, ma solo nell'ultimo mese hanno recuperato il 18%. Insmed ha corso in Borsa nell'ultimo mese con un rialzo del 50%, dopo aver rivisto al rialzo le previsioni di ricavi per il 2026 per Brinsupri e Arikayce. La società ha inoltre nominato Paul Hudson, ex amministratore delegato di Sanofi, nel proprio board come membro indipendente.",
+      "category": "attualita",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-19T17:33:00.000Z",
+      "tags": [
+        "attualita"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 116,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/sanofi-valuta-l-acquisizione-insmed-oltre-30-miliardi-dollari-AJqwJGMC"
+      },
+      "analysis": {
+        "mainFact": "Sanofi sta valutando l'acquisizione della biotech americana Insmed per oltre 30 miliardi di dollari, nell'ambito della strategia di ricerca di nuovi blockbuster per compensare la scadenza dei brevetti di Dupixent. Il titolo Insmed è balzato oltre il 24% a Wall Street, mentre Sanofi ha ceduto il 2,85% a Parigi.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Sanofi sta valutando l'acquisizione della biotech americana Insmed per oltre 30 miliardi di dollari, nell'ambito della strategia di ricerca di nuovi blockbuster per compensare la scadenza dei brevetti di Dupixent. Il titolo Insmed è balzato oltre il 24% a Wall Street, mentre Sanofi ha ceduto il 2,85% a Parigi."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "In Nigeria, un caso di Ebola è stato segnalato il 20 ottobre 2026.",
-          "2026"
+          "30",
+          "24",
+          "2,85"
         ]
       }
     }
