@@ -1,259 +1,260 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-23-490054e438fb",
-  "generatedAt": "2026-11-23T20:13:16.321Z",
+  "catalogId": "daily-quid-2026-11-24-104b982357f4",
+  "generatedAt": "2026-11-24T16:53:06.189Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-8c8cdadba63583a5",
-      "title": "Nuovi modelli OxMIS2 per valutare il rischio di suicidio in schizofrenia e disturbo bipolare",
-      "summary": "Uno studio su BMJ Mental Health ha aggiornato e validato il modello OxMIS in versioni specifiche per schizofrenia e disturbo bipolare, usando registri svedesi e validazione finlandese, mostrando una buona calibrazione e un beneficio netto maggiore rispetto alle strategie di trattamento generalizzato a basse soglie di rischio.",
-      "content": "Una ricerca pubblicata su BMJ Mental Health ha aggiornato e validato il modello OxMIS, uno strumento per la valutazione del rischio di suicidio nelle persone con malattia mentale grave. Gli studiosi hanno sviluppato due modelli distinti, denominati OxMIS2, specifici rispettivamente per i disturbi dello spettro schizofrenico e per il disturbo bipolare. L'analisi si è basata su dati contemporanei dei registri svedesi, con una validazione esterna effettuata in Finlandia. I risultati indicano che i nuovi modelli presentano generalmente una buona calibrazione, sebbene i profili dei predittori e le prestazioni variino tra i due gruppi diagnostici. Secondo l'analisi delle curve decisionale, entrambi i modelli offrono un beneficio netto superiore rispetto alle strategie di trattamento generalizzato, sia per tutti che per nessuno, specialmente a soglie di rischio più basse. Gli autori suggeriscono che questi strumenti potrebbero aiutare a indirizzare interventi preventivi a bassa intensità verso le persone con disturbi dello spettro schizofrenico. I ricercatori precisano che sono necessarie ulteriori verifiche per confermare l'utilità clinica nella pratica psicoterapeutica quotidiana.",
-      "spokenText": "Una ricerca pubblicata su BMJ Mental Health ha aggiornato e validato il modello OxMIS, uno strumento per la valutazione del rischio di suicidio nelle persone con malattia mentale grave. Gli studiosi hanno sviluppato due modelli distinti, denominati OxMIS2, specifici rispettivamente per i disturbi dello spettro schizofrenico e per il disturbo bipolare. L'analisi si è basata su dati contemporanei dei registri svedesi, con una validazione esterna effettuata in Finlandia. I risultati indicano che i nuovi modelli presentano generalmente una buona calibrazione, sebbene i profili dei predittori e le prestazioni variino tra i due gruppi diagnostici. Secondo l'analisi delle curve decisionale, entrambi i modelli offrono un beneficio netto superiore rispetto alle strategie di trattamento generalizzato, sia per tutti che per nessuno, specialmente a soglie di rischio più basse. Gli autori suggeriscono che questi strumenti potrebbero aiutare a indirizzare interventi preventivi a bassa intensità verso le persone con disturbi dello spettro schizofrenico. I ricercatori precisano che sono necessarie ulteriori verifiche per confermare l'utilità clinica nella pratica psicoterapeutica quotidiana.",
+      "id": "story-d555e6513eac7cb2",
+      "title": "Resilienza nel disturbo bipolare: mancano strumenti di valutazione specifici",
+      "summary": "Una revisione sistematica pubblicata su BMJ Mental Health mostra che il 93% degli studi sulla resilienza nel disturbo bipolare usa scale per la popolazione generale, senza strumenti validati né definizioni adatte alla natura episodica della malattia.",
+      "content": "Una revisione sistematica pubblicata su BMJ Mental Health segnala un vuoto metodologico nella valutazione clinica della resilienza nel disturbo bipolare. Gli autori hanno esaminato gli studi disponibili e rilevato che il 93% si affida a scale sviluppate per la popolazione generale, anziché a strumenti validati specificamente per chi vive con il disturbo bipolare. Inoltre, nessuno degli studi inclusi utilizza una definizione di resilienza costruita sulle caratteristiche cliniche della malattia, caratterizzata da episodi ricorrenti di mania, ipomania e depressione, intervallati da periodi di eutimia o sintomi sottosoglia. Secondo i ricercatori, questo gap potrebbe orientare le future ricerche verso un approccio più inclusivo, capace di tenere conto della natura fluttuante ed episodica del disturbo. Al momento, però, mancano evidenze documentate su ricadute concrete per la pratica psicoterapeutica quotidiana.",
+      "spokenText": "Una revisione sistematica pubblicata su BMJ Mental Health segnala un vuoto metodologico nella valutazione clinica della resilienza nel disturbo bipolare. Gli autori hanno esaminato gli studi disponibili e rilevato che il 93% si affida a scale sviluppate per la popolazione generale, anziché a strumenti validati specificamente per chi vive con il disturbo bipolare. Inoltre, nessuno degli studi inclusi utilizza una definizione di resilienza costruita sulle caratteristiche cliniche della malattia, caratterizzata da episodi ricorrenti di mania, ipomania e depressione, intervallati da periodi di eutimia o sintomi sottosoglia. Secondo i ricercatori, questo gap potrebbe orientare le future ricerche verso un approccio più inclusivo, capace di tenere conto della natura fluttuante ed episodica del disturbo. Al momento, però, mancano evidenze documentate su ricadute concrete per la pratica psicoterapeutica quotidiana.",
       "category": "altro",
       "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-14T04:19:34.000Z",
+      "publishedAt": "2026-11-18T09:59:10.000Z",
       "tags": [
         "altro"
       ],
       "importance": 52,
       "mustInclude": false,
-      "estimatedSeconds": 66,
+      "estimatedSeconds": 51,
       "source": {
         "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302634?rss=1"
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e303066?rss=1"
       },
       "analysis": {
-        "mainFact": "Uno studio su BMJ Mental Health ha aggiornato e validato il modello OxMIS in versioni specifiche per schizofrenia e disturbo bipolare, usando registri svedesi e validazione finlandese, mostrando una buona calibrazione e un beneficio netto maggiore rispetto alle strategie di trattamento generalizzato a basse soglie di rischio.",
+        "mainFact": "Una revisione sistematica pubblicata su BMJ Mental Health mostra che il 93% degli studi sulla resilienza nel disturbo bipolare usa scale per la popolazione generale, senza strumenti validati né definizioni adatte alla natura episodica della malattia.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Uno studio su BMJ Mental Health ha aggiornato e validato il modello OxMIS in versioni specifiche per schizofrenia e disturbo bipolare, usando registri svedesi e validazione finlandese, mostrando una buona calibrazione e un beneficio netto maggiore rispetto alle strategie di trattamento generalizzato a basse soglie di rischio."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-0ec3cd6a4f1bdc1c",
-      "title": "Safewards e RutiSafeNet non riducono conflitti e contenzione",
-      "summary": "Uno studio spagnolo su un reparto acuto di otto posti letto non ha rilevato cambiamenti robusti in eventi di conflitto e misure restrittive dopo l'introduzione congiunta del modello Safewards e dello strumento di monitoraggio RutiSafeNet, nonostante l'alta fedeltà all'implementazione.",
-      "content": "Uno studio pubblicato su BJPsych Open ha valutato l'implementazione congiunta del modello Safewards e dello strumento di monitoraggio del rischio RutiSafeNet in un reparto psichiatrico acuto chiuso di otto posti letto in Spagna, tra il dicembre 2023 e il giugno 2025. L'obiettivo era verificare se l'intervento riducesse eventi di conflitto e misure restrittive. L'analisi ha coinvolto 478 giorni-osservazione, di cui 164 in fase di base e 314 dopo l'implementazione. Tutti e dieci gli interventi previsti sono stati erogati, con una fedeltà superiore al 70% a partire dalla quinta valutazione, e almeno un punteggio RutiSafeNet è stato registrato nel 73% dei giorni successivi all'avvio. I risultati, tuttavia, non hanno mostrato cambiamenti robusti. Gli eventi totali di conflitto hanno mostrato un aumento immediato del livello rispetto a una tendenza di base in declino, con un rapporto di incidenza di 3,66, intervallo di confidenza al 95% da 1,08 a 12,41, ma l'effetto non è risultato robusto dopo l'aggiustamento stagionale o il bootstrapping. Le misure restrittive totali sono rimaste invariate, con un rapporto di incidenza di 0,78, intervallo di confidenza al 95% da 0,15 a 4,00. Su 21 coefficienti esplorativi, tre sono risultati nominalmente significativi, nessuno dopo la correzione per il falso tasso di scoperta. Gli autori concludono che l'implementazione è stata fattibile, ma non sono stati rilevati cambiamenti robusti in conflitto o coazione, e che sono necessarie valutazioni controllate su più siti.",
-      "spokenText": "Uno studio pubblicato su BJPsych Open ha valutato l'implementazione congiunta del modello Safewards e dello strumento di monitoraggio del rischio RutiSafeNet in un reparto psichiatrico acuto chiuso di otto posti letto in Spagna, tra il dicembre 2023 e il giugno 2025. L'obiettivo era verificare se l'intervento riducesse eventi di conflitto e misure restrittive. L'analisi ha coinvolto 478 giorni-osservazione, di cui 164 in fase di base e 314 dopo l'implementazione. Tutti e dieci gli interventi previsti sono stati erogati, con una fedeltà superiore al 70% a partire dalla quinta valutazione, e almeno un punteggio RutiSafeNet è stato registrato nel 73% dei giorni successivi all'avvio. I risultati, tuttavia, non hanno mostrato cambiamenti robusti. Gli eventi totali di conflitto hanno mostrato un aumento immediato del livello rispetto a una tendenza di base in declino, con un rapporto di incidenza di 3,66, intervallo di confidenza al 95% da 1,08 a 12,41, ma l'effetto non è risultato robusto dopo l'aggiustamento stagionale o il bootstrapping. Le misure restrittive totali sono rimaste invariate, con un rapporto di incidenza di 0,78, intervallo di confidenza al 95% da 0,15 a 4,00. Su 21 coefficienti esplorativi, tre sono risultati nominalmente significativi, nessuno dopo la correzione per il falso tasso di scoperta. Gli autori concludono che l'implementazione è stata fattibile, ma non sono stati rilevati cambiamenti robusti in conflitto o coazione, e che sono necessarie valutazioni controllate su più siti.",
-      "category": "altro",
-      "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "tags": [
-        "altro"
-      ],
-      "importance": 52,
-      "mustInclude": false,
-      "estimatedSeconds": 92,
-      "source": {
-        "name": "BJPsych Open",
-        "url": "https://dx.doi.org/10.1192/bjo.2026.12154?rft_dat=source%3Ddrss"
-      },
-      "analysis": {
-        "mainFact": "Uno studio spagnolo su un reparto acuto di otto posti letto non ha rilevato cambiamenti robusti in eventi di conflitto e misure restrittive dopo l'introduzione congiunta del modello Safewards e dello strumento di monitoraggio RutiSafeNet, nonostante l'alta fedeltà all'implementazione.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Uno studio spagnolo su un reparto acuto di otto posti letto non ha rilevato cambiamenti robusti in eventi di conflitto e misure restrittive dopo l'introduzione congiunta del modello Safewards e dello strumento di monitoraggio RutiSafeNet, nonostante l'alta fedeltà all'implementazione."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-4f803838271975bf",
-      "title": "Oncologi chiedono iter nazionale per il nuovo farmaco al tumore al pancreas",
-      "summary": "L'Aiom sollecita un percorso nazionale per l'accesso a daraxonrasib, nuova terapia per il tumore del pancreas metastatico, per evitare disparità regionali in attesa della negoziazione tra Aifa e l'azienda produttrice per la rimborsabilità.",
-      "content": "L'Associazione italiana di oncologia medica chiede un iter nazionale per l'accesso a daraxonrasib, la nuova terapia mirata contro il tumore del pancreas metastatico, recentemente approvata dalla Commissione europea. Secondo il presidente Massimo Di Maio, l'assenza di un percorso unico rischia di creare disparità territoriali, come dimostra il caso della Lombardia, che ha autorizzato l'Asst di Lecco ad acquistare il farmaco negli Stati Uniti per una paziente. L'Aiom spiega che il farmaco non è ancora rimborsabile in Italia perché è in corso la trattativa tra l'Agenzia italiana del farmaco e l'azienda produttrice. L'associazione avverte che, storicamente, tra la rimborsabilità e l'effettiva disponibilità nelle Regioni possono passare molti mesi. Il contesto è l'incontro del 19 novembre al Quirinale, dove società scientifiche e associazioni di pazienti hanno consegnato al Presidente Mattarella il Manifesto Nazionale per la lotta contro il tumore del pancreas, che prevede accesso tempestivo e sostenibile alle terapie innovative e standard di cura uniformi.",
-      "spokenText": "L'Associazione italiana di oncologia medica chiede un iter nazionale per l'accesso a daraxonrasib, la nuova terapia mirata contro il tumore del pancreas metastatico, recentemente approvata dalla Commissione europea. Secondo il presidente Massimo Di Maio, l'assenza di un percorso unico rischia di creare disparità territoriali, come dimostra il caso della Lombardia, che ha autorizzato l'Asst di Lecco ad acquistare il farmaco negli Stati Uniti per una paziente. L'Aiom spiega che il farmaco non è ancora rimborsabile in Italia perché è in corso la trattativa tra l'Agenzia italiana del farmaco e l'azienda produttrice. L'associazione avverte che, storicamente, tra la rimborsabilità e l'effettiva disponibilità nelle Regioni possono passare molti mesi. Il contesto è l'incontro del 19 novembre al Quirinale, dove società scientifiche e associazioni di pazienti hanno consegnato al Presidente Mattarella il Manifesto Nazionale per la lotta contro il tumore del pancreas, che prevede accesso tempestivo e sostenibile alle terapie innovative e standard di cura uniformi.",
-      "category": "salute",
-      "editorialGroup": "salute",
-      "publishedAt": "2026-11-23T12:38:53.000Z",
-      "tags": [
-        "salute"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 62,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/23/oncologi-definire-iter-nazionale-per-accesso-a-nuovo-farmaco-tumore-pancreas_2e5f0d19-cc6d-4548-b9e2-0871e996079a.html"
-      },
-      "analysis": {
-        "mainFact": "L'Aiom sollecita un percorso nazionale per l'accesso a daraxonrasib, nuova terapia per il tumore del pancreas metastatico, per evitare disparità regionali in attesa della negoziazione tra Aifa e l'azienda produttrice per la rimborsabilità.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "L'Aiom sollecita un percorso nazionale per l'accesso a daraxonrasib, nuova terapia per il tumore del pancreas metastatico, per evitare disparità regionali in attesa della negoziazione tra Aifa e l'azienda produttrice per la rimborsabilità."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-8a5b6cbc8451bdd3",
-      "title": "Marmot: le disuguaglianze di salute si combattono nei quartieri",
-      "summary": "Sir Michael Marmot stima che l'80% delle disuguaglianze sanitarie dipenda dalle condizioni sociali e presenta a Roma l'Atlante della salute urbana per guidare interventi mirati nei territori.",
-      "content": "Restare in salute non dipende solo dalle cure ospedaliere, ma anche dalle opportunità che offre il territorio in cui si vive. Lo ribadisce Sir Michael Marmot, epidemiologo dell'University College London, atteso a Roma per la presentazione del Primo Atlante della salute urbana della città, curato da Alessio D'Amato e presentato dal sindaco Roberto Gualtieri. Lo strumento fotografa le differenze di salute e i determinanti sociali nei vari quartieri. Secondo le stime citate da Marmot, le condizioni sociali potrebbero spiegare circa l'80% delle disuguaglianze nella salute. Da questa consapevolezza nascono le Marmot Cities, città che applicano i suoi principi per garantire a tutti le stesse opportunità di salute, indipendentemente dal reddito o dal luogo di residenza. L'esperienza è già attiva in Inghilterra, Galles e Scozia e si sta estendendo in Irlanda. Marmot indica come priorità le buone condizioni fin dalla prima infanzia, l'istruzione, il lavoro dignitoso, un reddito adeguato, una casa e un ambiente urbano salubri, oltre al contrasto alle discriminazioni e alla conciliazione tra sostenibilità ambientale ed equità. L'epidemiologo cita Greater Manchester, Liverpool e Leeds come esempi di città che hanno portato avanti questi progetti nonostante i tagli ai finanziamenti, utilizzando le risorse esistenti in modo diverso. Per Roma auspica l'adesione al modello. Oltre alle disuguaglianze, Marmot individua nella crisi climatica e nell'intelligenza artificiale le altre due grandi minacce per la salute pubblica globale. Sull'IA si dice prudente: chiunque affermi di prevederne l'impatto probabilmente si sbaglierà già il giorno dopo. Infine, richiama alla cooperazione internazionale e indica quattro priorità per le future emergenze sanitarie: riformare l'architettura finanziaria globale, investire nei determinanti sociali, condividere la proprietà intellettuale delle innovazioni mediche, a partire dai vaccini, e rafforzare la solidarietà delle comunità. Alla domanda se saremo preparati per un'altra pandemia, risponde: non credo.",
-      "spokenText": "Restare in salute non dipende solo dalle cure ospedaliere, ma anche dalle opportunità che offre il territorio in cui si vive. Lo ribadisce Sir Michael Marmot, epidemiologo dell'University College London, atteso a Roma per la presentazione del Primo Atlante della salute urbana della città, curato da Alessio D'Amato e presentato dal sindaco Roberto Gualtieri. Lo strumento fotografa le differenze di salute e i determinanti sociali nei vari quartieri. Secondo le stime citate da Marmot, le condizioni sociali potrebbero spiegare circa l'80% delle disuguaglianze nella salute. Da questa consapevolezza nascono le Marmot Cities, città che applicano i suoi principi per garantire a tutti le stesse opportunità di salute, indipendentemente dal reddito o dal luogo di residenza. L'esperienza è già attiva in Inghilterra, Galles e Scozia e si sta estendendo in Irlanda. Marmot indica come priorità le buone condizioni fin dalla prima infanzia, l'istruzione, il lavoro dignitoso, un reddito adeguato, una casa e un ambiente urbano salubri, oltre al contrasto alle discriminazioni e alla conciliazione tra sostenibilità ambientale ed equità. L'epidemiologo cita Greater Manchester, Liverpool e Leeds come esempi di città che hanno portato avanti questi progetti nonostante i tagli ai finanziamenti, utilizzando le risorse esistenti in modo diverso. Per Roma auspica l'adesione al modello. Oltre alle disuguaglianze, Marmot individua nella crisi climatica e nell'intelligenza artificiale le altre due grandi minacce per la salute pubblica globale. Sull'IA si dice prudente: chiunque affermi di prevederne l'impatto probabilmente si sbaglierà già il giorno dopo. Infine, richiama alla cooperazione internazionale e indica quattro priorità per le future emergenze sanitarie: riformare l'architettura finanziaria globale, investire nei determinanti sociali, condividere la proprietà intellettuale delle innovazioni mediche, a partire dai vaccini, e rafforzare la solidarietà delle comunità. Alla domanda se saremo preparati per un'altra pandemia, risponde: non credo.",
-      "category": "salute",
-      "editorialGroup": "salute",
-      "publishedAt": "2026-11-23T12:34:00.000Z",
-      "tags": [
-        "salute"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 116,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/23/ansa-sir-marmot-la-salute-si-costruisce-nei-quartieri-non-solo-in-ospedale_319776c7-3772-4ccd-ac72-46748145fce0.html"
-      },
-      "analysis": {
-        "mainFact": "Sir Michael Marmot stima che l'80% delle disuguaglianze sanitarie dipenda dalle condizioni sociali e presenta a Roma l'Atlante della salute urbana per guidare interventi mirati nei territori.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Sir Michael Marmot stima che l'80% delle disuguaglianze sanitarie dipenda dalle condizioni sociali e presenta a Roma l'Atlante della salute urbana per guidare interventi mirati nei territori."
+          "Una revisione sistematica pubblicata su BMJ Mental Health mostra che il 93% degli studi sulla resilienza nel disturbo bipolare usa scale per la popolazione generale, senza strumenti validati né definizioni adatte alla natura episodica della malattia."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "80"
+          "93"
         ]
       }
     },
     {
-      "id": "story-69b17f14f3896c8e",
-      "title": "Caldo estremo e rischi per i braccianti agricoli pugliesi",
-      "summary": "Un rapporto di Terra! ed EStà documenta come le ondate di calore stiano peggiorando le condizioni di lavoro nei campi di Puglia, aumentando il rischio di infortuni e causando perdite significative nei raccolti di angurie e pomodori.",
-      "content": "Il rapporto \"Il cibo scotta\", realizzato da Terra! ed EStà, accende i riflettori sul lavoro dei braccianti agricoli in Puglia sotto il sole cocente. I ricercatori hanno intervistato circa sessanta lavoratori originari di diversi Paesi africani, residenti in insediamenti informali nelle province di Foggia, Taranto, Brindisi e Lecce. Il quadro che emerge è critico: a Borgo Mezzanone, ad esempio, Ibrahima racconta di aver incontrato i ricercatori alle sedici di un pomeriggio di fine luglio con quaranta gradi all'ombra, descrivendo l'impossibilità di lavorare con tale calore. I dati confermano la pericolosità della situazione. L'analisi di Chiara Di Blasi e colleghi, basata su centocinquantamilaquattrocentoventidue infortuni registrati dall'INAIL in diciannove regioni italiane tra il 2014 e il 2018, indica che quando le temperature superano livelli eccezionali, ovvero quelli raggiunti solo un giorno su cento, il rischio di infortunio sale in media del tredici per cento, arrivando al ventitré per cento tra i giovani dai quindici ai trentaquattro anni. Le conseguenze non riguardano solo la salute, ma anche l'economia agricola. A San Severo, un produttore ha dovuto spostare la raccolta dei pomodori tra le dieci di sera e le nove del mattino per evitare che i frutti, troppo caldi, si rompessero. In provincia di Taranto, nel luglio del duemilaventisei, il sole ha fatto spaccare le angurie ancora nei campi, con Coldiretti Puglia che stima perdite fino al sessanta per cento del raccolto nelle aziende più colpite.",
-      "spokenText": "Il rapporto \"Il cibo scotta\", realizzato da Terra! ed EStà, accende i riflettori sul lavoro dei braccianti agricoli in Puglia sotto il sole cocente. I ricercatori hanno intervistato circa sessanta lavoratori originari di diversi Paesi africani, residenti in insediamenti informali nelle province di Foggia, Taranto, Brindisi e Lecce. Il quadro che emerge è critico: a Borgo Mezzanone, ad esempio, Ibrahima racconta di aver incontrato i ricercatori alle sedici di un pomeriggio di fine luglio con quaranta gradi all'ombra, descrivendo l'impossibilità di lavorare con tale calore. I dati confermano la pericolosità della situazione. L'analisi di Chiara Di Blasi e colleghi, basata su centocinquantamilaquattrocentoventidue infortuni registrati dall'INAIL in diciannove regioni italiane tra il 2014 e il 2018, indica che quando le temperature superano livelli eccezionali, ovvero quelli raggiunti solo un giorno su cento, il rischio di infortunio sale in media del tredici per cento, arrivando al ventitré per cento tra i giovani dai quindici ai trentaquattro anni. Le conseguenze non riguardano solo la salute, ma anche l'economia agricola. A San Severo, un produttore ha dovuto spostare la raccolta dei pomodori tra le dieci di sera e le nove del mattino per evitare che i frutti, troppo caldi, si rompessero. In provincia di Taranto, nel luglio del duemilaventisei, il sole ha fatto spaccare le angurie ancora nei campi, con Coldiretti Puglia che stima perdite fino al sessanta per cento del raccolto nelle aziende più colpite.",
-      "category": "scienza",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-19T17:07:28.000Z",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 100,
-      "mustInclude": false,
-      "estimatedSeconds": 93,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/cibo-scotta-lavoro-braccianti-agricoli-caldo-estremo"
-      },
-      "analysis": {
-        "mainFact": "Un rapporto di Terra! ed EStà documenta come le ondate di calore stiano peggiorando le condizioni di lavoro nei campi di Puglia, aumentando il rischio di infortuni e causando perdite significative nei raccolti di angurie e pomodori.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Un rapporto di Terra! ed EStà documenta come le ondate di calore stiano peggiorando le condizioni di lavoro nei campi di Puglia, aumentando il rischio di infortuni e causando perdite significative nei raccolti di angurie e pomodori."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-e8d417f6f3a67f76",
-      "title": "COP31, stallo sulla data del prossimo rapporto IPCC",
-      "summary": "Alla COP31 di Antalya i governi discutono la pubblicazione del settimo rapporto IPCC: se due volumi slittano al 2029, il bilancio globale sul clima del 2028 farà a meno delle valutazioni scientifiche più aggiornate.",
-      "content": "Alla COP31 di Antalya, la trentunesima conferenza ONU sul clima, i governi sono divisi sulla data di uscita del settimo rapporto dell'IPCC, il panel intergovernativo sul cambiamento climatico. In gioco c'è il secondo Global stocktake, il bilancio dei progressi climatici previsto per il 2028 dall'Accordo di Parigi. Alcuni Paesi, tra cui India e Arabia Saudita, chiedono di pubblicare gli ultimi due volumi del rapporto nel 2029, quando il bilancio sarà già concluso. Unione Europea e piccoli Stati insulari vogliono invece tutti e tre i volumi pronti in tempo. Jim Skea, presidente dell'IPCC, ha ricordato che l'azione climatica senza la scienza del clima è come una nave senza timone. L'IPCC non conduce ricerche proprie, ma raccoglie e valuta gli studi esistenti; i governi approvano le sintesi per i decisori politici. I volumi a rischio riguardano impatti, adattamento e mitigazione, quindi sono fondamentali per valutare i rischi del riscaldamento globale e le strategie per ridurre le emissioni. Se slittano al 2029, i governi potranno usare altri studi, ma non le nuove valutazioni complessive dell'IPCC. A complicare il quadro ci sono anche i fondi: dopo il ritiro degli Stati Uniti, i contributi ricevuti coprono appena un terzo del bilancio approvato per il 2026. La riunione sospesa ad Addis Abeba riprenderà dall'1 al 3 dicembre, ma ad Antalya le posizioni non si sono ancora avvicinate.",
-      "spokenText": "Alla COP31 di Antalya, la trentunesima conferenza ONU sul clima, i governi sono divisi sulla data di uscita del settimo rapporto dell'IPCC, il panel intergovernativo sul cambiamento climatico. In gioco c'è il secondo Global stocktake, il bilancio dei progressi climatici previsto per il 2028 dall'Accordo di Parigi. Alcuni Paesi, tra cui India e Arabia Saudita, chiedono di pubblicare gli ultimi due volumi del rapporto nel 2029, quando il bilancio sarà già concluso. Unione Europea e piccoli Stati insulari vogliono invece tutti e tre i volumi pronti in tempo. Jim Skea, presidente dell'IPCC, ha ricordato che l'azione climatica senza la scienza del clima è come una nave senza timone. L'IPCC non conduce ricerche proprie, ma raccoglie e valuta gli studi esistenti; i governi approvano le sintesi per i decisori politici. I volumi a rischio riguardano impatti, adattamento e mitigazione, quindi sono fondamentali per valutare i rischi del riscaldamento globale e le strategie per ridurre le emissioni. Se slittano al 2029, i governi potranno usare altri studi, ma non le nuove valutazioni complessive dell'IPCC. A complicare il quadro ci sono anche i fondi: dopo il ritiro degli Stati Uniti, i contributi ricevuti coprono appena un terzo del bilancio approvato per il 2026. La riunione sospesa ad Addis Abeba riprenderà dall'1 al 3 dicembre, ma ad Antalya le posizioni non si sono ancora avvicinate.",
-      "category": "scienza",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-18T18:54:37.000Z",
-      "tags": [
-        "scienza"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 89,
-      "source": {
-        "name": "Scienza in rete",
-        "url": "https://www.scienzainrete.it/articoli/cop31-ipcc-calendario-rapporto-ar7/"
-      },
-      "analysis": {
-        "mainFact": "Alla COP31 di Antalya i governi discutono la pubblicazione del settimo rapporto IPCC: se due volumi slittano al 2029, il bilancio globale sul clima del 2028 farà a meno delle valutazioni scientifiche più aggiornate.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Alla COP31 di Antalya i governi discutono la pubblicazione del settimo rapporto IPCC: se due volumi slittano al 2029, il bilancio globale sul clima del 2028 farà a meno delle valutazioni scientifiche più aggiornate."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "2029",
-          "2028"
-        ]
-      }
-    },
-    {
-      "id": "story-ba3d0c5099a38f0e",
-      "title": "Jensen Huang torna alla guida di Nvidia dopo 11 giorni",
-      "summary": "Il fondatore di Nvidia si è dimesso a fine ottobre dopo accuse di due relazioni extraconiugali, una con una donna sospettata di spionaggio cinese, ma il consiglio lo ha reintegrato il 12 novembre 2026 dichiarando che il suo ritorno è nell'interesse di azionisti, dipendenti, partner e clienti.",
-      "content": "Jensen Huang, fondatore e amministratore delegato di Nvidia, è tornato alla guida dell'azienda appena undici giorni dopo le dimissioni. Il consiglio di amministrazione lo ha reintegrato il 12 novembre 2026, affermando che il suo ritorno è nell'interesse di azionisti, dipendenti, partner e clienti. Huang si era dimesso a fine ottobre, dopo le prime notizie pubblicate dal New York Times il 29 ottobre su una relazione con Alice Huang, una donna d'affari legata a un'azienda di Singapore che le autorità statunitensi sospettano sia un agente dell'intelligence cinese. Huang ha ammesso l'infedeltà e si è scusato con la famiglia. La notizia di una seconda relazione, con Kimberly Powell, vicepresidente per il settore sanitario in Nvidia da diciotto anni, ha poi provocato una riunione del consiglio e l'annuncio delle sue dimissioni. Subito dopo è partita una campagna interna, riportata dai media, per chiedere il suo ritorno, sostenuta da dipendenti attuali ed ex, partner, azionisti e sostenitori. Nvidia domina il mercato dei microchip per l'intelligenza artificiale ed è al centro della competizione tecnologica tra Stati Uniti e Cina. I suoi clienti includono Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI e Anthropic. Secondo l'indice Bloomberg Billionaires, la fortuna stimata di Huang era vicina a duecento miliardi di dollari all'inizio dell'anno, poi scesa a circa centocinque miliardi. L'azienda è oggi la seconda più preziosa al mondo. Il consiglio non ha fornito dettagli sulle condizioni del reintegro, e non sono note le eventuali conseguenze legali o regolamentari delle accuse.",
-      "spokenText": "Jensen Huang, fondatore e amministratore delegato di Nvidia, è tornato alla guida dell'azienda appena undici giorni dopo le dimissioni. Il consiglio di amministrazione lo ha reintegrato il 12 novembre 2026, affermando che il suo ritorno è nell'interesse di azionisti, dipendenti, partner e clienti. Huang si era dimesso a fine ottobre, dopo le prime notizie pubblicate dal New York Times il 29 ottobre su una relazione con Alice Huang, una donna d'affari legata a un'azienda di Singapore che le autorità statunitensi sospettano sia un agente dell'intelligence cinese. Huang ha ammesso l'infedeltà e si è scusato con la famiglia. La notizia di una seconda relazione, con Kimberly Powell, vicepresidente per il settore sanitario in Nvidia da diciotto anni, ha poi provocato una riunione del consiglio e l'annuncio delle sue dimissioni. Subito dopo è partita una campagna interna, riportata dai media, per chiedere il suo ritorno, sostenuta da dipendenti attuali ed ex, partner, azionisti e sostenitori. Nvidia domina il mercato dei microchip per l'intelligenza artificiale ed è al centro della competizione tecnologica tra Stati Uniti e Cina. I suoi clienti includono Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI e Anthropic. Secondo l'indice Bloomberg Billionaires, la fortuna stimata di Huang era vicina a duecento miliardi di dollari all'inizio dell'anno, poi scesa a circa centocinque miliardi. L'azienda è oggi la seconda più preziosa al mondo. Il consiglio non ha fornito dettagli sulle condizioni del reintegro, e non sono note le eventuali conseguenze legali o regolamentari delle accuse.",
+      "id": "story-931541e6a1c11f86",
+      "title": "IA generativa in psicoterapia: i clinici chiedono regole e formazione",
+      "summary": "Uno studio multicentrico su 354 professionisti della salute mentale in 25 paesi mostra che l'IA generativa suscita preoccupazioni per la sicurezza e il ruolo della relazione terapeutica, evidenziando una carenza di linee guida e competenze.",
+      "content": "Uno studio pubblicato su BMJ Mental Health ha analisi le opinioni di 354 professionisti della salute mentale provenienti da 25 paesi sull'uso dell'intelligenza artificiale generativa in psicoterapia. La ricerca, basata su oltre 16 mila parole di risposte aperte, è la prima analisi qualitativa globale sul tema. I clinici hanno identificato quattro temi principali, tra cui l'irremplacabilità della relazione terapeutica e preoccupazioni per la sicurezza in contesti di salute mentale, come psicosi, suicidialità e dipendenza. Lo studio evidenzia un deficit acuto di formazione e governance: i professionisti chiedono l'istituzione di framework di competenze e linee guida etiche per l'uso di questi strumenti. I risultati suggeriscono che, sebbene l'adozione dell'IA stia accelerando, mancano ancora evidenze documentate e protocolli condivisi per l'integrazione di queste tecnologie nella pratica psicoterapeutica clinica.",
+      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha analisi le opinioni di 354 professionisti della salute mentale provenienti da 25 paesi sull'uso dell'intelligenza artificiale generativa in psicoterapia. La ricerca, basata su oltre 16 mila parole di risposte aperte, è la prima analisi qualitativa globale sul tema. I clinici hanno identificato quattro temi principali, tra cui l'irremplacabilità della relazione terapeutica e preoccupazioni per la sicurezza in contesti di salute mentale, come psicosi, suicidialità e dipendenza. Lo studio evidenzia un deficit acuto di formazione e governance: i professionisti chiedono l'istituzione di framework di competenze e linee guida etiche per l'uso di questi strumenti. I risultati suggeriscono che, sebbene l'adozione dell'IA stia accelerando, mancano ancora evidenze documentate e protocolli condivisi per l'integrazione di queste tecnologie nella pratica psicoterapeutica clinica.",
       "category": "tecnologia",
-      "editorialGroup": "finanza",
-      "publishedAt": "2026-11-23T15:49:52.000Z",
+      "editorialGroup": "psicoterapia",
+      "publishedAt": "2026-11-17T10:56:08.000Z",
       "tags": [
         "tecnologia"
       ],
       "importance": 55,
       "mustInclude": false,
-      "estimatedSeconds": 97,
+      "estimatedSeconds": 51,
       "source": {
-        "name": "BBC News - Business",
-        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+        "name": "BMJ Mental Health",
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302991?rss=1"
       },
       "analysis": {
-        "mainFact": "Il fondatore di Nvidia si è dimesso a fine ottobre dopo accuse di due relazioni extraconiugali, una con una donna sospettata di spionaggio cinese, ma il consiglio lo ha reintegrato il 12 novembre 2026 dichiarando che il suo ritorno è nell'interesse di azionisti, dipendenti, partner e clienti.",
+        "mainFact": "Uno studio multicentrico su 354 professionisti della salute mentale in 25 paesi mostra che l'IA generativa suscita preoccupazioni per la sicurezza e il ruolo della relazione terapeutica, evidenziando una carenza di linee guida e competenze.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Il fondatore di Nvidia si è dimesso a fine ottobre dopo accuse di due relazioni extraconiugali, una con una donna sospettata di spionaggio cinese, ma il consiglio lo ha reintegrato il 12 novembre 2026 dichiarando che il suo ritorno è nell'interesse di azionisti, dipendenti, partner e clienti."
+          "Uno studio multicentrico su 354 professionisti della salute mentale in 25 paesi mostra che l'IA generativa suscita preoccupazioni per la sicurezza e il ruolo della relazione terapeutica, evidenziando una carenza di linee guida e competenze."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "12",
-          "2026"
+          "354",
+          "25"
         ]
       }
     },
     {
-      "id": "story-a7b01e57cc7b02c6",
-      "title": "Abivax replica a Scorpion Capital e rimbalza a Parigi",
-      "summary": "Abivax respinge le accuse di Scorpion Capital su Obefazimod e conferma la fiducia negli studi di Fase 3. Il titolo recupera il 10,6% a Parigi dopo il tonfo del 17% della scorsa settimana.",
-      "content": "Abivax rimbalza alla Borsa di Parigi dopo aver contrattaccato le accuse lanciate alla fine della scorsa settimana da Scorpion Capital. Il titolo della società farmaceutica francese, specializzata in immunologia, guadagna il 10,6 per cento, portandosi a 69,65 euro, e raggiunge la vetta dell'indice Stoxx Europe. Il recupero è parziale rispetto al tonfo del 17 per cento accusato venerdì dopo l'offensiva del fondo specializzato in vendite allo scoperto. Scorpion Capital aveva messo in discussione l'efficacia, la sicurezza e l'affidabilità degli studi clinici su Obefazimod, il principale farmaco sperimentale di Abivax per la cura della colite ulcerosa. La società respinge le accuse, definendo il rapporto del fondo inaccurato e fuorviante, e sottolinea che Scorpion ha dichiarato esplicitamente la propria posizione corta sulle azioni, evidenziando un diretto interesse finanziario nel calo del titolo. Abivax conferma la piena fiducia nell'integrità del programma di sviluppo clinico, in particolare nei risultati degli studi di Fase 3 Abtect, e annuncia di prevedere la presentazione della domanda di autorizzazione all'immissione in commercio alla Food and Drug Administration entro la fine dell'anno. Allinvest Securities segnala un evidente conflitto di interessi in Scorpion Capital, citando anche precedenti rapporti allarmistici su altre società, come Twist Bioscience, che non hanno trovato riscontro. Gli analisti di Portzamparc e Stifel ritengono che le accuse riguardino il meccanismo d'azione del farmaco e non la sua efficacia, ma avvertono che il titolo potrebbe continuare a soffrire fino a una confutazione dettagliata da parte del management.",
-      "spokenText": "Abivax rimbalza alla Borsa di Parigi dopo aver contrattaccato le accuse lanciate alla fine della scorsa settimana da Scorpion Capital. Il titolo della società farmaceutica francese, specializzata in immunologia, guadagna il 10,6 per cento, portandosi a 69,65 euro, e raggiunge la vetta dell'indice Stoxx Europe. Il recupero è parziale rispetto al tonfo del 17 per cento accusato venerdì dopo l'offensiva del fondo specializzato in vendite allo scoperto. Scorpion Capital aveva messo in discussione l'efficacia, la sicurezza e l'affidabilità degli studi clinici su Obefazimod, il principale farmaco sperimentale di Abivax per la cura della colite ulcerosa. La società respinge le accuse, definendo il rapporto del fondo inaccurato e fuorviante, e sottolinea che Scorpion ha dichiarato esplicitamente la propria posizione corta sulle azioni, evidenziando un diretto interesse finanziario nel calo del titolo. Abivax conferma la piena fiducia nell'integrità del programma di sviluppo clinico, in particolare nei risultati degli studi di Fase 3 Abtect, e annuncia di prevedere la presentazione della domanda di autorizzazione all'immissione in commercio alla Food and Drug Administration entro la fine dell'anno. Allinvest Securities segnala un evidente conflitto di interessi in Scorpion Capital, citando anche precedenti rapporti allarmistici su altre società, come Twist Bioscience, che non hanno trovato riscontro. Gli analisti di Portzamparc e Stifel ritengono che le accuse riguardino il meccanismo d'azione del farmaco e non la sua efficacia, ma avvertono che il titolo potrebbe continuare a soffrire fino a una confutazione dettagliata da parte del management.",
+      "id": "story-52cf24940b2f9c95",
+      "title": "Prevenzione: una donna su tre ignora l'autopalpazione, metà degli italiani a rischio cardiovascolare",
+      "summary": "Il progetto 'Prevenzione è salute' ha rilevato che il 35% delle donne non conosce l'autopalpazione mammaria e un partecipante su due ha un rischio cardiovascolare almeno moderato, con differenze significative tra uomini e donne.",
+      "content": "Il progetto 'Prevenzione è salute', promosso da Summeet e Inrete e concluso al Ministero della Salute, ha presentato i risultati di una rilevazione effettuata in 19 piazze italiane. Per quanto riguarda la salute femminile, su 412 partecipanti con un'età media di 48,8 anni, circa una donna su tre, pari al 35%, non conosce la tecnica dell'autopalpazione mammaria. Sebbene il 90% delle intervistate dichiari di conoscere gli screening del Servizio sanitario nazionale, oltre una su cinque non li esegue regolarmente, mentre il 78% riferisce una partecipazione costante. Circa una donna su cinque ha manifestato interesse per la valutazione della riserva ovarica e una quota analoga per il social freezing. Sul fronte cardiovascolare, la rilevazione ha coinvolto 1.301 persone, con un'età media di circa 60 anni, per il 63% donne e il 37% uomini. Secondo l'analisi di sintesi, un partecipante su due presenta un rischio cardiovascolare almeno moderato: il 34% rientra nella categoria moderata e il 16% in quella elevata o molto elevata. I dati mostrano differenze di genere: un uomo su quattro si colloca nella fascia elevata o molto elevata, rispetto a circa una donna su dieci. Tra le abitudini, quasi quattro partecipanti su dieci non praticano attività fisica regolare e il 41% riferisce un'alimentazione non sempre equilibrata. Il 17% è fumatore attivo e un ulteriore 22% dichiara di aver fumato in passato. I risultati indicano spazi di intervento sui comportamenti modificabili, sottolineando il valore di un'educazione alla salute per tradurre le raccomandazioni in scelte quotidiane sostenibili.",
+      "spokenText": "Il progetto 'Prevenzione è salute', promosso da Summeet e Inrete e concluso al Ministero della Salute, ha presentato i risultati di una rilevazione effettuata in 19 piazze italiane. Per quanto riguarda la salute femminile, su 412 partecipanti con un'età media di 48,8 anni, circa una donna su tre, pari al 35%, non conosce la tecnica dell'autopalpazione mammaria. Sebbene il 90% delle intervistate dichiari di conoscere gli screening del Servizio sanitario nazionale, oltre una su cinque non li esegue regolarmente, mentre il 78% riferisce una partecipazione costante. Circa una donna su cinque ha manifestato interesse per la valutazione della riserva ovarica e una quota analoga per il social freezing. Sul fronte cardiovascolare, la rilevazione ha coinvolto 1.301 persone, con un'età media di circa 60 anni, per il 63% donne e il 37% uomini. Secondo l'analisi di sintesi, un partecipante su due presenta un rischio cardiovascolare almeno moderato: il 34% rientra nella categoria moderata e il 16% in quella elevata o molto elevata. I dati mostrano differenze di genere: un uomo su quattro si colloca nella fascia elevata o molto elevata, rispetto a circa una donna su dieci. Tra le abitudini, quasi quattro partecipanti su dieci non praticano attività fisica regolare e il 41% riferisce un'alimentazione non sempre equilibrata. Il 17% è fumatore attivo e un ulteriore 22% dichiara di aver fumato in passato. I risultati indicano spazi di intervento sui comportamenti modificabili, sottolineando il valore di un'educazione alla salute per tradurre le raccomandazioni in scelte quotidiane sostenibili.",
       "category": "salute",
-      "editorialGroup": "finanza",
-      "publishedAt": "2026-11-23T10:55:00.000Z",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-24T15:59:57.000Z",
       "tags": [
         "salute"
       ],
       "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 96,
+      "estimatedSeconds": 99,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/abivax-replica-accuse-scorpion-capital-e-rimbalza-parigi-AJTizwPC"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/una-donna-su-3-non-conosce-la-tecnica-dellautopalpazione-mammaria_2a87d840-f0dc-4735-b761-8916bb60e9d8.html"
       },
       "analysis": {
-        "mainFact": "Abivax respinge le accuse di Scorpion Capital su Obefazimod e conferma la fiducia negli studi di Fase 3. Il titolo recupera il 10,6% a Parigi dopo il tonfo del 17% della scorsa settimana.",
+        "mainFact": "Il progetto 'Prevenzione è salute' ha rilevato che il 35% delle donne non conosce l'autopalpazione mammaria e un partecipante su due ha un rischio cardiovascolare almeno moderato, con differenze significative tra uomini e donne.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Abivax respinge le accuse di Scorpion Capital su Obefazimod e conferma la fiducia negli studi di Fase 3. Il titolo recupera il 10,6% a Parigi dopo il tonfo del 17% della scorsa settimana."
+          "Il progetto 'Prevenzione è salute' ha rilevato che il 35% delle donne non conosce l'autopalpazione mammaria e un partecipante su due ha un rischio cardiovascolare almeno moderato, con differenze significative tra uomini e donne."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "3",
-          "10,6",
-          "17"
+          "35"
+        ]
+      }
+    },
+    {
+      "id": "story-f4cffbe00e29e16c",
+      "title": "Torino riapre la prima scuola italiana di chirurgia plastica",
+      "summary": "L'Università di Torino ha riaperto la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica, nove anni dopo l'ultimo accreditamento e 73 anni dalla fondazione della prima scuola italiana del settore, con focus sulla chirurgia ricostruttiva per tumori della mammella e della pelle.",
+      "content": "A Torino riapre la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica dell'Università di Torino, presso l'Azienda ospedaliero-universitaria Città della Salute e della Scienza. L'inaugurazione si è svolta ieri, a 73 anni esatti dall'apertura, proprio nel capoluogo piemontese, della prima scuola italiana di specializzazione in chirurgia plastica, e a nove anni dall'ultimo accreditamento. Diretta da Marco Fraccalvieri, docente del Dipartimento di Scienze chirurgiche, la scuola darà particolare spazio alla chirurgia ricostruttiva nel trattamento dei tumori della mammella e della pelle. Alla realizzazione del progetto ha contribuito anche Donato Casella, direttore della struttura complessa di Chirurgia plastica e ricostruttiva della Città della Salute. La rettrice Cristina Prandi ha spiegato che riaprire la scuola significa dare continuità a una storia iniziata nell'ateneo, mettendo le competenze al servizio della formazione di nuove generazioni di medici. Livio Tranchida, direttore generale della Città della Salute di Torino, ha evidenziato che la varietà dei casi trattati e la collaborazione multidisciplinare rappresentano un contesto di grande valore per la formazione dei futuri specialisti. Fraccalvieri ha aggiunto che la scuola dovrà essere profondamente contemporanea, poiché tecniche, tecnologie e il ruolo del chirurgo plastico nei percorsi multidisciplinari sono cambiati. Alla cerimonia inaugurale è intervenuto con una lectio magistralis Nicolò Scuderi, professore emerito di Chirurgia plastica dell'Università La Sapienza di Roma.",
+      "spokenText": "A Torino riapre la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica dell'Università di Torino, presso l'Azienda ospedaliero-universitaria Città della Salute e della Scienza. L'inaugurazione si è svolta ieri, a 73 anni esatti dall'apertura, proprio nel capoluogo piemontese, della prima scuola italiana di specializzazione in chirurgia plastica, e a nove anni dall'ultimo accreditamento. Diretta da Marco Fraccalvieri, docente del Dipartimento di Scienze chirurgiche, la scuola darà particolare spazio alla chirurgia ricostruttiva nel trattamento dei tumori della mammella e della pelle. Alla realizzazione del progetto ha contribuito anche Donato Casella, direttore della struttura complessa di Chirurgia plastica e ricostruttiva della Città della Salute. La rettrice Cristina Prandi ha spiegato che riaprire la scuola significa dare continuità a una storia iniziata nell'ateneo, mettendo le competenze al servizio della formazione di nuove generazioni di medici. Livio Tranchida, direttore generale della Città della Salute di Torino, ha evidenziato che la varietà dei casi trattati e la collaborazione multidisciplinare rappresentano un contesto di grande valore per la formazione dei futuri specialisti. Fraccalvieri ha aggiunto che la scuola dovrà essere profondamente contemporanea, poiché tecniche, tecnologie e il ruolo del chirurgo plastico nei percorsi multidisciplinari sono cambiati. Alla cerimonia inaugurale è intervenuto con una lectio magistralis Nicolò Scuderi, professore emerito di Chirurgia plastica dell'Università La Sapienza di Roma.",
+      "category": "salute",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-24T15:11:10.000Z",
+      "tags": [
+        "salute"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 85,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/24/riapre-a-torino-la-prima-scuola-italiana-di-chirurgia-plastica_d1a60aa4-8744-40fe-8590-0679fd460d42.html"
+      },
+      "analysis": {
+        "mainFact": "L'Università di Torino ha riaperto la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica, nove anni dopo l'ultimo accreditamento e 73 anni dalla fondazione della prima scuola italiana del settore, con focus sulla chirurgia ricostruttiva per tumori della mammella e della pelle.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "L'Università di Torino ha riaperto la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica, nove anni dopo l'ultimo accreditamento e 73 anni dalla fondazione della prima scuola italiana del settore, con focus sulla chirurgia ricostruttiva per tumori della mammella e della pelle."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "73"
+        ]
+      }
+    },
+    {
+      "id": "story-3aeea5e4fa98265f",
+      "title": "COP31 fallisce, l’Europa blocca il patto di Antalya",
+      "summary": "L’Unione Europea e un gruppo di paesi hanno respinto il documento finale della COP31 perché non menzionava i combustibili fossili e promoveva le tecnologie di cattura del carbonio come soluzione principale, facendo saltare l’accordo dopo quasi cinquanta ore di negoziati.",
+      "content": "La COP31 di Antalya si è chiusa senza un accordo. L’Unione Europea, per voce del ministro irlandese Darragh O’Brien, ha respinto formalmente l’Antalya Pact, il documento finale della conferenza, perché non menzionava i combustibili fossili, definiti il principale motore del cambiamento climatico. Insieme all’UE si sono opposte le Isole Marshall, Vanuatu, Panama con gli Stati Sudamericani, la Norvegia e il Regno Unito. Poiché le decisioni delle COP richiedono il consenso, un solo no è bastato a far saltare il banco dopo quasi cinquanta ore di straordinari. Il punto di rottura è stato anche il ruolo delle tecnologie di cattura, utilizzo e stoccaggio della CO2, le CCUS, promosse dalla coalizione guidata dall’Arabia Saudita. Secondo l’Unione Europea e il commissario Wopke Hoekstra, queste tecnologie non possono essere presentate come una soluzione su larga scala per compensare la prosecuzione delle attività fossili, perché rischiano di diventare un pretesto per mantenere in vita un’economia basata su carbone, petrolio e gas. Neil Grant di Climate Analytics le ha definite un cavallo di Troia per gli interessi dei combustibili fossili. La notizia segna un cambio di rotta politico: l’Europa riprende la leadership climatica, dicendo no a un testo che avrebbe tradito il Green Deal. Il contesto è quello di una crisi del multilateralismo, con temperature già oltre la soglia di 1,5 gradi e crescenti difficoltà nel trovare un terreno comune internazionale. Le conseguenze documentate riguardano lo stallo dei negoziati globali sul clima, ma anche l’apertura di uno spazio per costruire un nuovo equilibrio basato su trasparenza e responsabilità condivisa.",
+      "spokenText": "La COP31 di Antalya si è chiusa senza un accordo. L’Unione Europea, per voce del ministro irlandese Darragh O’Brien, ha respinto formalmente l’Antalya Pact, il documento finale della conferenza, perché non menzionava i combustibili fossili, definiti il principale motore del cambiamento climatico. Insieme all’UE si sono opposte le Isole Marshall, Vanuatu, Panama con gli Stati Sudamericani, la Norvegia e il Regno Unito. Poiché le decisioni delle COP richiedono il consenso, un solo no è bastato a far saltare il banco dopo quasi cinquanta ore di straordinari. Il punto di rottura è stato anche il ruolo delle tecnologie di cattura, utilizzo e stoccaggio della CO2, le CCUS, promosse dalla coalizione guidata dall’Arabia Saudita. Secondo l’Unione Europea e il commissario Wopke Hoekstra, queste tecnologie non possono essere presentate come una soluzione su larga scala per compensare la prosecuzione delle attività fossili, perché rischiano di diventare un pretesto per mantenere in vita un’economia basata su carbone, petrolio e gas. Neil Grant di Climate Analytics le ha definite un cavallo di Troia per gli interessi dei combustibili fossili. La notizia segna un cambio di rotta politico: l’Europa riprende la leadership climatica, dicendo no a un testo che avrebbe tradito il Green Deal. Il contesto è quello di una crisi del multilateralismo, con temperature già oltre la soglia di 1,5 gradi e crescenti difficoltà nel trovare un terreno comune internazionale. Le conseguenze documentate riguardano lo stallo dei negoziati globali sul clima, ma anche l’apertura di uno spazio per costruire un nuovo equilibrio basato su trasparenza e responsabilità condivisa.",
+      "category": "mondo",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-24T08:07:35.000Z",
+      "tags": [
+        "mondo"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 102,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/non-accordo-cop31-europa-prima-linea"
+      },
+      "analysis": {
+        "mainFact": "L’Unione Europea e un gruppo di paesi hanno respinto il documento finale della COP31 perché non menzionava i combustibili fossili e promoveva le tecnologie di cattura del carbonio come soluzione principale, facendo saltare l’accordo dopo quasi cinquanta ore di negoziati.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "L’Unione Europea e un gruppo di paesi hanno respinto il documento finale della COP31 perché non menzionava i combustibili fossili e promoveva le tecnologie di cattura del carbonio come soluzione principale, facendo saltare l’accordo dopo quasi cinquanta ore di negoziati."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-15dd33838eb8b9b3",
+      "title": "COP31: le isole chiedono oceani nei negoziati climatici",
+      "summary": "Alla COP31 le Isole Salomone diventano il primo piccolo Stato insulare contributore del Green Climate Fund, mentre i negoziati aprono per la prima volta a misure oceaniche sostenibili nei piani climatici nazionali.",
+      "content": "Alla COP31, Francis Siaumari, leader delle comunità locali delle Isole Salomone, è lontano per la prima volta dal suo villaggio di Walande, oggi completamente sommerso dal Re delle Maree, l’alta marea eccezionale che, con il cambiamento climatico, divora le isole un pezzo alla volta. Il primo ministro Matthew Wale ha annunciato il 12 novembre un contributo di 400.000 dollari alla terza ricostituzione del Green Climate Fund: è la prima volta che un piccolo Stato insulare in via di sviluppo, tradizionalmente destinatario dei finanziamenti, diventa anche Paese contributore, e il primo impegno per il nuovo ciclo di fondi. Wale ha chiamato in causa Europa e BRICS per mitigazione, adattamento e risarcimento dei danni climatici. L’Alleanza dei Piccoli Stati Insulari, 39 paesi, chiede di mantenere raggiungibile il limite di 1,5 gradi, accelerare l’uscita dai combustibili fossili e ricevere fondi a fondo perduto. Secondo le stime, servirebbero 305 miliardi di dollari l’anno entro il 2035 per l’adattamento, contro i circa 30 miliardi attuali; anche triplicando i fondi, come promesso alla COP30, si coprirebbe solo il 20-29% del fabbisogno, avverte l’UNEP. Le bozze della COP31 non indicano un cronoprogramma per la triplicazione e cancellano i riferimenti ai combustibili fossili, ma per la prima volta invitano i paesi a inserire misure oceaniche sostenibili nei contributi nazionali e nei piani di adattamento, con finanza, tecnologia e capacità prevedibili. Sul tavolo c’è anche l’Antalya Ocean and Seas Compact, presentato il 17 novembre, che sostiene pesca sostenibile e rinnovabili offshore.",
+      "spokenText": "Alla COP31, Francis Siaumari, leader delle comunità locali delle Isole Salomone, è lontano per la prima volta dal suo villaggio di Walande, oggi completamente sommerso dal Re delle Maree, l’alta marea eccezionale che, con il cambiamento climatico, divora le isole un pezzo alla volta. Il primo ministro Matthew Wale ha annunciato il 12 novembre un contributo di 400.000 dollari alla terza ricostituzione del Green Climate Fund: è la prima volta che un piccolo Stato insulare in via di sviluppo, tradizionalmente destinatario dei finanziamenti, diventa anche Paese contributore, e il primo impegno per il nuovo ciclo di fondi. Wale ha chiamato in causa Europa e BRICS per mitigazione, adattamento e risarcimento dei danni climatici. L’Alleanza dei Piccoli Stati Insulari, 39 paesi, chiede di mantenere raggiungibile il limite di 1,5 gradi, accelerare l’uscita dai combustibili fossili e ricevere fondi a fondo perduto. Secondo le stime, servirebbero 305 miliardi di dollari l’anno entro il 2035 per l’adattamento, contro i circa 30 miliardi attuali; anche triplicando i fondi, come promesso alla COP30, si coprirebbe solo il 20-29% del fabbisogno, avverte l’UNEP. Le bozze della COP31 non indicano un cronoprogramma per la triplicazione e cancellano i riferimenti ai combustibili fossili, ma per la prima volta invitano i paesi a inserire misure oceaniche sostenibili nei contributi nazionali e nei piani di adattamento, con finanza, tecnologia e capacità prevedibili. Sul tavolo c’è anche l’Antalya Ocean and Seas Compact, presentato il 17 novembre, che sostiene pesca sostenibile e rinnovabili offshore.",
+      "category": "mondo",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-20T18:51:21.000Z",
+      "tags": [
+        "mondo"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 97,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/mari-oceani-negoziati-cop31-antalya-mediterraneo-isole-salomone"
+      },
+      "analysis": {
+        "mainFact": "Alla COP31 le Isole Salomone diventano il primo piccolo Stato insulare contributore del Green Climate Fund, mentre i negoziati aprono per la prima volta a misure oceaniche sostenibili nei piani climatici nazionali.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Alla COP31 le Isole Salomone diventano il primo piccolo Stato insulare contributore del Green Climate Fund, mentre i negoziati aprono per la prima volta a misure oceaniche sostenibili nei piani climatici nazionali."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-58d05612771bc784",
+      "title": "Nvidia, Huang torna CEO e Wall Street rimbalza",
+      "summary": "Il ritorno di Jensen Huang alla guida di Nvidia ha fatto salire il valore di mercato di quasi mille miliardi di dollari, trascinando al rialzo Nasdaq e S&P 500 dopo settimane di cali legati a dimissioni, scandalo e indagini.",
+      "content": "Il valore di mercato di Nvidia è cresciuto di quasi mille miliardi di dollari dopo che il consiglio di amministrazione ha reintegrato Jensen Huang come amministratore delegato con effetto immediato. Il titolo è balzato di oltre il 31 per cento, trascinando al rialzo i mercati tecnologici: il Nasdaq è salito del 6,5 per cento e lo S&P 500 del 4,75 per cento. Anche Micron è avanzata del 19 per cento, AMD di quasi il 7 per cento e Tesla di quasi l'11,5 per cento. Il rimbalzo arriva dopo un periodo difficile per il produttore di chip. Huang si era dimesso meno di due settimane fa, ammettendo una relazione con una donna sospettata di essere una spia cinese, e le azioni erano crollate significativamente. Il quattro novembre, la vittoria dei democratici alle elezioni di midterm aveva già alimentato timori di una regolamentazione più severa sull'intelligenza artificiale, provocando un'ampia vendita di titoli tecnologici. Venerdì le azioni Nvidia erano scese del 13,7 per cento, mentre Reuters, non confermato dalla Bbc, aveva riportato un'indagine della Sec sulle pratiche contabili della società. Il consiglio ha votato all'unanimità il reintegro del cofondatore dopo una serie di incontri, ma il presidente Donald Trump ha dichiarato di aver convinto il consiglio a riportare Huang. Alcuni osservatori definiscono l'operazione un'incredibile marcia indietro, considerando le accuse di spionaggio e le incertezze sull'indagine della Sec. Politici, tra cui la senatrice Jeanne Shaheen, chiedono maggiore trasparenza e sostengono che il settore dell'intelligenza artificiale necessiti di regole e controllo. Nonostante il rimbalzo, il titolo resta circa il 21 per cento al di sotto del livello di un mese fa, e gli analisti avvertono che ogni mossa futura di Huang sarà attentamente scrutata dal mercato.",
+      "spokenText": "Il valore di mercato di Nvidia è cresciuto di quasi mille miliardi di dollari dopo che il consiglio di amministrazione ha reintegrato Jensen Huang come amministratore delegato con effetto immediato. Il titolo è balzato di oltre il 31 per cento, trascinando al rialzo i mercati tecnologici: il Nasdaq è salito del 6,5 per cento e lo S&P 500 del 4,75 per cento. Anche Micron è avanzata del 19 per cento, AMD di quasi il 7 per cento e Tesla di quasi l'11,5 per cento. Il rimbalzo arriva dopo un periodo difficile per il produttore di chip. Huang si era dimesso meno di due settimane fa, ammettendo una relazione con una donna sospettata di essere una spia cinese, e le azioni erano crollate significativamente. Il quattro novembre, la vittoria dei democratici alle elezioni di midterm aveva già alimentato timori di una regolamentazione più severa sull'intelligenza artificiale, provocando un'ampia vendita di titoli tecnologici. Venerdì le azioni Nvidia erano scese del 13,7 per cento, mentre Reuters, non confermato dalla Bbc, aveva riportato un'indagine della Sec sulle pratiche contabili della società. Il consiglio ha votato all'unanimità il reintegro del cofondatore dopo una serie di incontri, ma il presidente Donald Trump ha dichiarato di aver convinto il consiglio a riportare Huang. Alcuni osservatori definiscono l'operazione un'incredibile marcia indietro, considerando le accuse di spionaggio e le incertezze sull'indagine della Sec. Politici, tra cui la senatrice Jeanne Shaheen, chiedono maggiore trasparenza e sostengono che il settore dell'intelligenza artificiale necessiti di regole e controllo. Nonostante il rimbalzo, il titolo resta circa il 21 per cento al di sotto del livello di un mese fa, e gli analisti avvertono che ogni mossa futura di Huang sarà attentamente scrutata dal mercato.",
+      "category": "tecnologia",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-23T21:23:42.000Z",
+      "tags": [
+        "tecnologia"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 113,
+      "source": {
+        "name": "BBC News - Business",
+        "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "Il ritorno di Jensen Huang alla guida di Nvidia ha fatto salire il valore di mercato di quasi mille miliardi di dollari, trascinando al rialzo Nasdaq e S&P 500 dopo settimane di cali legati a dimissioni, scandalo e indagini.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Il ritorno di Jensen Huang alla guida di Nvidia ha fatto salire il valore di mercato di quasi mille miliardi di dollari, trascinando al rialzo Nasdaq e S&P 500 dopo settimane di cali legati a dimissioni, scandalo e indagini."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "500"
+        ]
+      }
+    },
+    {
+      "id": "story-1aaa57a6b3befcb7",
+      "title": "Borse in calo, Milano chiude a -1,8% tra timori AI e nuovi dazi",
+      "summary": "L’effetto positivo del ritorno del fondatore di Nvidia è durato meno di 24 ore. I mercati temono che le società dell’intelligenza artificiale non generino ritorni sufficienti per gli investimenti effettuati, mentre si profilano nuovi dazi statunitensi contro Cina e Unione europea.",
+      "content": "L’effetto Huang non ha superato il test delle 24 ore. Il ritorno del fondatore di Nvidia al timone del colosso dei chip non è bastato a dissipare i timori sulla capacità delle società dell’intelligenza artificiale di generare ritorni sufficienti a giustificare gli investimenti effettuati per le infrastrutture di nuova generazione. Le vendite hanno così travolto i titoli tecnologici: a Wall Street Nvidia ha ceduto circa il 6% dopo aver guadagnato oltre il 31% alla vigilia, mentre Anthropic è scesa del 12% a 78,21 dollari, al di sotto del prezzo di collocamento di 83 dollari. A peggiorare l’umore degli investitori sono arrivate le indiscrezioni sul ritorno della guerra commerciale, con l’amministrazione americana intenzionata ad alzare i dazi nei confronti di Cina, Unione europea e altri Paesi. In Europa tutti i principali indici hanno chiuso in territorio negativo, con Milano peggiore a -1,8%. Sul mercato valutario l’euro si è riportato a 1,0968 dollari, mentre il petrolio Brent è sceso sotto i 90 dollari, a 89,57 dollari al barile. Lo spread ha chiuso in rialzo a 109 punti. Gli operatori segnalano che il rimbalzo è frutto della volatilità e non di un’inversione di tendenza, con la dinamica dei prezzi che resta negativa.",
+      "spokenText": "L’effetto Huang non ha superato il test delle 24 ore. Il ritorno del fondatore di Nvidia al timone del colosso dei chip non è bastato a dissipare i timori sulla capacità delle società dell’intelligenza artificiale di generare ritorni sufficienti a giustificare gli investimenti effettuati per le infrastrutture di nuova generazione. Le vendite hanno così travolto i titoli tecnologici: a Wall Street Nvidia ha ceduto circa il 6% dopo aver guadagnato oltre il 31% alla vigilia, mentre Anthropic è scesa del 12% a 78,21 dollari, al di sotto del prezzo di collocamento di 83 dollari. A peggiorare l’umore degli investitori sono arrivate le indiscrezioni sul ritorno della guerra commerciale, con l’amministrazione americana intenzionata ad alzare i dazi nei confronti di Cina, Unione europea e altri Paesi. In Europa tutti i principali indici hanno chiuso in territorio negativo, con Milano peggiore a -1,8%. Sul mercato valutario l’euro si è riportato a 1,0968 dollari, mentre il petrolio Brent è sceso sotto i 90 dollari, a 89,57 dollari al barile. Lo spread ha chiuso in rialzo a 109 punti. Gli operatori segnalano che il rimbalzo è frutto della volatilità e non di un’inversione di tendenza, con la dinamica dei prezzi che resta negativa.",
+      "category": "attualita",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-24T07:45:00.000Z",
+      "tags": [
+        "attualita"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 80,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/borse-future-positivi-maxi-rimbalzo-nasdaq-greggio-calo-AJBRZxQC"
+      },
+      "analysis": {
+        "mainFact": "L’effetto positivo del ritorno del fondatore di Nvidia è durato meno di 24 ore. I mercati temono che le società dell’intelligenza artificiale non generino ritorni sufficienti per gli investimenti effettuati, mentre si profilano nuovi dazi statunitensi contro Cina e Unione europea.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "L’effetto positivo del ritorno del fondatore di Nvidia è durato meno di 24 ore. I mercati temono che le società dell’intelligenza artificiale non generino ritorni sufficienti per gli investimenti effettuati, mentre si profilano nuovi dazi statunitensi contro Cina e Unione europea."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "24"
         ]
       }
     }
