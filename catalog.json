@@ -1,163 +1,64 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-24-104b982357f4",
-  "generatedAt": "2026-11-24T16:53:06.189Z",
+  "catalogId": "daily-quid-2026-11-25-1864e0403687",
+  "generatedAt": "2026-11-25T16:41:21.244Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-d555e6513eac7cb2",
-      "title": "Resilienza nel disturbo bipolare: mancano strumenti di valutazione specifici",
-      "summary": "Una revisione sistematica pubblicata su BMJ Mental Health mostra che il 93% degli studi sulla resilienza nel disturbo bipolare usa scale per la popolazione generale, senza strumenti validati né definizioni adatte alla natura episodica della malattia.",
-      "content": "Una revisione sistematica pubblicata su BMJ Mental Health segnala un vuoto metodologico nella valutazione clinica della resilienza nel disturbo bipolare. Gli autori hanno esaminato gli studi disponibili e rilevato che il 93% si affida a scale sviluppate per la popolazione generale, anziché a strumenti validati specificamente per chi vive con il disturbo bipolare. Inoltre, nessuno degli studi inclusi utilizza una definizione di resilienza costruita sulle caratteristiche cliniche della malattia, caratterizzata da episodi ricorrenti di mania, ipomania e depressione, intervallati da periodi di eutimia o sintomi sottosoglia. Secondo i ricercatori, questo gap potrebbe orientare le future ricerche verso un approccio più inclusivo, capace di tenere conto della natura fluttuante ed episodica del disturbo. Al momento, però, mancano evidenze documentate su ricadute concrete per la pratica psicoterapeutica quotidiana.",
-      "spokenText": "Una revisione sistematica pubblicata su BMJ Mental Health segnala un vuoto metodologico nella valutazione clinica della resilienza nel disturbo bipolare. Gli autori hanno esaminato gli studi disponibili e rilevato che il 93% si affida a scale sviluppate per la popolazione generale, anziché a strumenti validati specificamente per chi vive con il disturbo bipolare. Inoltre, nessuno degli studi inclusi utilizza una definizione di resilienza costruita sulle caratteristiche cliniche della malattia, caratterizzata da episodi ricorrenti di mania, ipomania e depressione, intervallati da periodi di eutimia o sintomi sottosoglia. Secondo i ricercatori, questo gap potrebbe orientare le future ricerche verso un approccio più inclusivo, capace di tenere conto della natura fluttuante ed episodica del disturbo. Al momento, però, mancano evidenze documentate su ricadute concrete per la pratica psicoterapeutica quotidiana.",
+      "id": "story-210af4a5b8fdf274",
+      "title": "Mindfulness a scuola: nessun vantaggio per gli studenti dopo due anni, ma benefici per i docenti",
+      "summary": "Il follow-up biennale dello studio MYRIAD mostra che il training di mindfulness universale non supera l'insegnamento abituale per la salute mentale degli adolescenti, ma mantiene effetti positivi sul benessere degli insegnanti e sul clima scolastico.",
+      "content": "Secondo il follow-up a due anni dello studio MYRIAD, pubblicato su BMJ Mental Health, il training universale di mindfulness nelle scuole non offre vantaggi significativi rispetto all'insegnamento abituale per la salute mentale e il benessere degli adolescenti. I ricercatori, che hanno confrontato il programma con la prassi scolastica ordinaria in un trial randomizzato a grappoli, riferiscono che per gli studenti non si rilevano superiorità documentate nel lungo termine. Diversa la situazione per il personale docente: i benefici segnalati dagli insegnanti sul proprio benessere e sul clima scolastico si mantengono dopo ventiquattro mesi. Gli autori sottolineano che, sebbene l'approccio universale resti promettente in termini di potenziale costo-efficacia, i dati attuali non dimostrano un impatto superiore per gli alunni. Le conclusioni invitano a valutare con cautela l'adozione su larga scala di questi interventi, tenendo conto degli effetti differenziati su studenti e insegnanti e delle incertezze residue sui meccanismi di azione.",
+      "spokenText": "Secondo il follow-up a due anni dello studio MYRIAD, pubblicato su BMJ Mental Health, il training universale di mindfulness nelle scuole non offre vantaggi significativi rispetto all'insegnamento abituale per la salute mentale e il benessere degli adolescenti. I ricercatori, che hanno confrontato il programma con la prassi scolastica ordinaria in un trial randomizzato a grappoli, riferiscono che per gli studenti non si rilevano superiorità documentate nel lungo termine. Diversa la situazione per il personale docente: i benefici segnalati dagli insegnanti sul proprio benessere e sul clima scolastico si mantengono dopo ventiquattro mesi. Gli autori sottolineano che, sebbene l'approccio universale resti promettente in termini di potenziale costo-efficacia, i dati attuali non dimostrano un impatto superiore per gli alunni. Le conclusioni invitano a valutare con cautela l'adozione su larga scala di questi interventi, tenendo conto degli effetti differenziati su studenti e insegnanti e delle incertezze residue sui meccanismi di azione.",
       "category": "altro",
       "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-18T09:59:10.000Z",
+      "publishedAt": "2026-11-02T16:12:45.000Z",
       "tags": [
         "altro"
       ],
       "importance": 52,
       "mustInclude": false,
-      "estimatedSeconds": 51,
+      "estimatedSeconds": 60,
       "source": {
         "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e303066?rss=1"
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e303016?rss=1"
       },
       "analysis": {
-        "mainFact": "Una revisione sistematica pubblicata su BMJ Mental Health mostra che il 93% degli studi sulla resilienza nel disturbo bipolare usa scale per la popolazione generale, senza strumenti validati né definizioni adatte alla natura episodica della malattia.",
+        "mainFact": "Il follow-up biennale dello studio MYRIAD mostra che il training di mindfulness universale non supera l'insegnamento abituale per la salute mentale degli adolescenti, ma mantiene effetti positivi sul benessere degli insegnanti e sul clima scolastico.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Una revisione sistematica pubblicata su BMJ Mental Health mostra che il 93% degli studi sulla resilienza nel disturbo bipolare usa scale per la popolazione generale, senza strumenti validati né definizioni adatte alla natura episodica della malattia."
+          "Il follow-up biennale dello studio MYRIAD mostra che il training di mindfulness universale non supera l'insegnamento abituale per la salute mentale degli adolescenti, ma mantiene effetti positivi sul benessere degli insegnanti e sul clima scolastico."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "93"
-        ]
+        "numbersAndDates": []
       }
     },
     {
-      "id": "story-931541e6a1c11f86",
-      "title": "IA generativa in psicoterapia: i clinici chiedono regole e formazione",
-      "summary": "Uno studio multicentrico su 354 professionisti della salute mentale in 25 paesi mostra che l'IA generativa suscita preoccupazioni per la sicurezza e il ruolo della relazione terapeutica, evidenziando una carenza di linee guida e competenze.",
-      "content": "Uno studio pubblicato su BMJ Mental Health ha analisi le opinioni di 354 professionisti della salute mentale provenienti da 25 paesi sull'uso dell'intelligenza artificiale generativa in psicoterapia. La ricerca, basata su oltre 16 mila parole di risposte aperte, è la prima analisi qualitativa globale sul tema. I clinici hanno identificato quattro temi principali, tra cui l'irremplacabilità della relazione terapeutica e preoccupazioni per la sicurezza in contesti di salute mentale, come psicosi, suicidialità e dipendenza. Lo studio evidenzia un deficit acuto di formazione e governance: i professionisti chiedono l'istituzione di framework di competenze e linee guida etiche per l'uso di questi strumenti. I risultati suggeriscono che, sebbene l'adozione dell'IA stia accelerando, mancano ancora evidenze documentate e protocolli condivisi per l'integrazione di queste tecnologie nella pratica psicoterapeutica clinica.",
-      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha analisi le opinioni di 354 professionisti della salute mentale provenienti da 25 paesi sull'uso dell'intelligenza artificiale generativa in psicoterapia. La ricerca, basata su oltre 16 mila parole di risposte aperte, è la prima analisi qualitativa globale sul tema. I clinici hanno identificato quattro temi principali, tra cui l'irremplacabilità della relazione terapeutica e preoccupazioni per la sicurezza in contesti di salute mentale, come psicosi, suicidialità e dipendenza. Lo studio evidenzia un deficit acuto di formazione e governance: i professionisti chiedono l'istituzione di framework di competenze e linee guida etiche per l'uso di questi strumenti. I risultati suggeriscono che, sebbene l'adozione dell'IA stia accelerando, mancano ancora evidenze documentate e protocolli condivisi per l'integrazione di queste tecnologie nella pratica psicoterapeutica clinica.",
+      "id": "story-04a176024031da85",
+      "title": "Machine learning predice depressione perinatale e cure psichiatriche acute",
+      "summary": "Uno studio britannico su dati elettronici preconcezionali mostra una predizione moderata del rischio di depressione perinatale e di cure psichiatriche acute in donne con precedenti contatti con i servizi di salute mentale secondari.",
+      "content": "Uno studio pubblicato su BMJ Mental Health ha analizzato i dati elettronici raccolti prima del concepimento nel Regno Unito per prevedere, tra le donne con precedenti contatti con i servizi di salute mentale secondari, il rischio di depressione perinatale e la necessità di cure psichiatriche acute. I ricercatori riferiscono che le informazioni routinariamente raccolte permettono una previsione di accuratezza moderata sia nel periodo antenatale che postnatale. Tra i predittori più stabili emergono la gravità preesistente dei sintomi affettivi e dello spettro psicotico, i precedenti trattamenti psicotropici, la primiparità e lo svantaggio socioeconomico. Lo studio è tra i primi a utilizzare il machine learning per l'esito psichiatrico acuto, come il ricovero o il trattamento intensivo domiciliare. Gli autori precisano che l'accuratezza è moderata e che i risultati riguardono una popolazione già in carico ai servizi specialistici, quindi non sono direttamente estendibili alla popolazione generale.",
+      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha analizzato i dati elettronici raccolti prima del concepimento nel Regno Unito per prevedere, tra le donne con precedenti contatti con i servizi di salute mentale secondari, il rischio di depressione perinatale e la necessità di cure psichiatriche acute. I ricercatori riferiscono che le informazioni routinariamente raccolte permettono una previsione di accuratezza moderata sia nel periodo antenatale che postnatale. Tra i predittori più stabili emergono la gravità preesistente dei sintomi affettivi e dello spettro psicotico, i precedenti trattamenti psicotropici, la primiparità e lo svantaggio socioeconomico. Lo studio è tra i primi a utilizzare il machine learning per l'esito psichiatrico acuto, come il ricovero o il trattamento intensivo domiciliare. Gli autori precisano che l'accuratezza è moderata e che i risultati riguardono una popolazione già in carico ai servizi specialistici, quindi non sono direttamente estendibili alla popolazione generale.",
       "category": "tecnologia",
       "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-17T10:56:08.000Z",
+      "publishedAt": "2026-11-10T16:54:59.000Z",
       "tags": [
         "tecnologia"
       ],
       "importance": 55,
       "mustInclude": false,
-      "estimatedSeconds": 51,
+      "estimatedSeconds": 58,
       "source": {
         "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302991?rss=1"
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302945?rss=1"
       },
       "analysis": {
-        "mainFact": "Uno studio multicentrico su 354 professionisti della salute mentale in 25 paesi mostra che l'IA generativa suscita preoccupazioni per la sicurezza e il ruolo della relazione terapeutica, evidenziando una carenza di linee guida e competenze.",
+        "mainFact": "Uno studio britannico su dati elettronici preconcezionali mostra una predizione moderata del rischio di depressione perinatale e di cure psichiatriche acute in donne con precedenti contatti con i servizi di salute mentale secondari.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Uno studio multicentrico su 354 professionisti della salute mentale in 25 paesi mostra che l'IA generativa suscita preoccupazioni per la sicurezza e il ruolo della relazione terapeutica, evidenziando una carenza di linee guida e competenze."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "354",
-          "25"
-        ]
-      }
-    },
-    {
-      "id": "story-52cf24940b2f9c95",
-      "title": "Prevenzione: una donna su tre ignora l'autopalpazione, metà degli italiani a rischio cardiovascolare",
-      "summary": "Il progetto 'Prevenzione è salute' ha rilevato che il 35% delle donne non conosce l'autopalpazione mammaria e un partecipante su due ha un rischio cardiovascolare almeno moderato, con differenze significative tra uomini e donne.",
-      "content": "Il progetto 'Prevenzione è salute', promosso da Summeet e Inrete e concluso al Ministero della Salute, ha presentato i risultati di una rilevazione effettuata in 19 piazze italiane. Per quanto riguarda la salute femminile, su 412 partecipanti con un'età media di 48,8 anni, circa una donna su tre, pari al 35%, non conosce la tecnica dell'autopalpazione mammaria. Sebbene il 90% delle intervistate dichiari di conoscere gli screening del Servizio sanitario nazionale, oltre una su cinque non li esegue regolarmente, mentre il 78% riferisce una partecipazione costante. Circa una donna su cinque ha manifestato interesse per la valutazione della riserva ovarica e una quota analoga per il social freezing. Sul fronte cardiovascolare, la rilevazione ha coinvolto 1.301 persone, con un'età media di circa 60 anni, per il 63% donne e il 37% uomini. Secondo l'analisi di sintesi, un partecipante su due presenta un rischio cardiovascolare almeno moderato: il 34% rientra nella categoria moderata e il 16% in quella elevata o molto elevata. I dati mostrano differenze di genere: un uomo su quattro si colloca nella fascia elevata o molto elevata, rispetto a circa una donna su dieci. Tra le abitudini, quasi quattro partecipanti su dieci non praticano attività fisica regolare e il 41% riferisce un'alimentazione non sempre equilibrata. Il 17% è fumatore attivo e un ulteriore 22% dichiara di aver fumato in passato. I risultati indicano spazi di intervento sui comportamenti modificabili, sottolineando il valore di un'educazione alla salute per tradurre le raccomandazioni in scelte quotidiane sostenibili.",
-      "spokenText": "Il progetto 'Prevenzione è salute', promosso da Summeet e Inrete e concluso al Ministero della Salute, ha presentato i risultati di una rilevazione effettuata in 19 piazze italiane. Per quanto riguarda la salute femminile, su 412 partecipanti con un'età media di 48,8 anni, circa una donna su tre, pari al 35%, non conosce la tecnica dell'autopalpazione mammaria. Sebbene il 90% delle intervistate dichiari di conoscere gli screening del Servizio sanitario nazionale, oltre una su cinque non li esegue regolarmente, mentre il 78% riferisce una partecipazione costante. Circa una donna su cinque ha manifestato interesse per la valutazione della riserva ovarica e una quota analoga per il social freezing. Sul fronte cardiovascolare, la rilevazione ha coinvolto 1.301 persone, con un'età media di circa 60 anni, per il 63% donne e il 37% uomini. Secondo l'analisi di sintesi, un partecipante su due presenta un rischio cardiovascolare almeno moderato: il 34% rientra nella categoria moderata e il 16% in quella elevata o molto elevata. I dati mostrano differenze di genere: un uomo su quattro si colloca nella fascia elevata o molto elevata, rispetto a circa una donna su dieci. Tra le abitudini, quasi quattro partecipanti su dieci non praticano attività fisica regolare e il 41% riferisce un'alimentazione non sempre equilibrata. Il 17% è fumatore attivo e un ulteriore 22% dichiara di aver fumato in passato. I risultati indicano spazi di intervento sui comportamenti modificabili, sottolineando il valore di un'educazione alla salute per tradurre le raccomandazioni in scelte quotidiane sostenibili.",
-      "category": "salute",
-      "editorialGroup": "salute",
-      "publishedAt": "2026-11-24T15:59:57.000Z",
-      "tags": [
-        "salute"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 99,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/una-donna-su-3-non-conosce-la-tecnica-dellautopalpazione-mammaria_2a87d840-f0dc-4735-b761-8916bb60e9d8.html"
-      },
-      "analysis": {
-        "mainFact": "Il progetto 'Prevenzione è salute' ha rilevato che il 35% delle donne non conosce l'autopalpazione mammaria e un partecipante su due ha un rischio cardiovascolare almeno moderato, con differenze significative tra uomini e donne.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Il progetto 'Prevenzione è salute' ha rilevato che il 35% delle donne non conosce l'autopalpazione mammaria e un partecipante su due ha un rischio cardiovascolare almeno moderato, con differenze significative tra uomini e donne."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "35"
-        ]
-      }
-    },
-    {
-      "id": "story-f4cffbe00e29e16c",
-      "title": "Torino riapre la prima scuola italiana di chirurgia plastica",
-      "summary": "L'Università di Torino ha riaperto la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica, nove anni dopo l'ultimo accreditamento e 73 anni dalla fondazione della prima scuola italiana del settore, con focus sulla chirurgia ricostruttiva per tumori della mammella e della pelle.",
-      "content": "A Torino riapre la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica dell'Università di Torino, presso l'Azienda ospedaliero-universitaria Città della Salute e della Scienza. L'inaugurazione si è svolta ieri, a 73 anni esatti dall'apertura, proprio nel capoluogo piemontese, della prima scuola italiana di specializzazione in chirurgia plastica, e a nove anni dall'ultimo accreditamento. Diretta da Marco Fraccalvieri, docente del Dipartimento di Scienze chirurgiche, la scuola darà particolare spazio alla chirurgia ricostruttiva nel trattamento dei tumori della mammella e della pelle. Alla realizzazione del progetto ha contribuito anche Donato Casella, direttore della struttura complessa di Chirurgia plastica e ricostruttiva della Città della Salute. La rettrice Cristina Prandi ha spiegato che riaprire la scuola significa dare continuità a una storia iniziata nell'ateneo, mettendo le competenze al servizio della formazione di nuove generazioni di medici. Livio Tranchida, direttore generale della Città della Salute di Torino, ha evidenziato che la varietà dei casi trattati e la collaborazione multidisciplinare rappresentano un contesto di grande valore per la formazione dei futuri specialisti. Fraccalvieri ha aggiunto che la scuola dovrà essere profondamente contemporanea, poiché tecniche, tecnologie e il ruolo del chirurgo plastico nei percorsi multidisciplinari sono cambiati. Alla cerimonia inaugurale è intervenuto con una lectio magistralis Nicolò Scuderi, professore emerito di Chirurgia plastica dell'Università La Sapienza di Roma.",
-      "spokenText": "A Torino riapre la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica dell'Università di Torino, presso l'Azienda ospedaliero-universitaria Città della Salute e della Scienza. L'inaugurazione si è svolta ieri, a 73 anni esatti dall'apertura, proprio nel capoluogo piemontese, della prima scuola italiana di specializzazione in chirurgia plastica, e a nove anni dall'ultimo accreditamento. Diretta da Marco Fraccalvieri, docente del Dipartimento di Scienze chirurgiche, la scuola darà particolare spazio alla chirurgia ricostruttiva nel trattamento dei tumori della mammella e della pelle. Alla realizzazione del progetto ha contribuito anche Donato Casella, direttore della struttura complessa di Chirurgia plastica e ricostruttiva della Città della Salute. La rettrice Cristina Prandi ha spiegato che riaprire la scuola significa dare continuità a una storia iniziata nell'ateneo, mettendo le competenze al servizio della formazione di nuove generazioni di medici. Livio Tranchida, direttore generale della Città della Salute di Torino, ha evidenziato che la varietà dei casi trattati e la collaborazione multidisciplinare rappresentano un contesto di grande valore per la formazione dei futuri specialisti. Fraccalvieri ha aggiunto che la scuola dovrà essere profondamente contemporanea, poiché tecniche, tecnologie e il ruolo del chirurgo plastico nei percorsi multidisciplinari sono cambiati. Alla cerimonia inaugurale è intervenuto con una lectio magistralis Nicolò Scuderi, professore emerito di Chirurgia plastica dell'Università La Sapienza di Roma.",
-      "category": "salute",
-      "editorialGroup": "salute",
-      "publishedAt": "2026-11-24T15:11:10.000Z",
-      "tags": [
-        "salute"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 85,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/24/riapre-a-torino-la-prima-scuola-italiana-di-chirurgia-plastica_d1a60aa4-8744-40fe-8590-0679fd460d42.html"
-      },
-      "analysis": {
-        "mainFact": "L'Università di Torino ha riaperto la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica, nove anni dopo l'ultimo accreditamento e 73 anni dalla fondazione della prima scuola italiana del settore, con focus sulla chirurgia ricostruttiva per tumori della mammella e della pelle.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "L'Università di Torino ha riaperto la Scuola di specializzazione in Chirurgia plastica ricostruttiva ed estetica, nove anni dopo l'ultimo accreditamento e 73 anni dalla fondazione della prima scuola italiana del settore, con focus sulla chirurgia ricostruttiva per tumori della mammella e della pelle."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "73"
-        ]
-      }
-    },
-    {
-      "id": "story-3aeea5e4fa98265f",
-      "title": "COP31 fallisce, l’Europa blocca il patto di Antalya",
-      "summary": "L’Unione Europea e un gruppo di paesi hanno respinto il documento finale della COP31 perché non menzionava i combustibili fossili e promoveva le tecnologie di cattura del carbonio come soluzione principale, facendo saltare l’accordo dopo quasi cinquanta ore di negoziati.",
-      "content": "La COP31 di Antalya si è chiusa senza un accordo. L’Unione Europea, per voce del ministro irlandese Darragh O’Brien, ha respinto formalmente l’Antalya Pact, il documento finale della conferenza, perché non menzionava i combustibili fossili, definiti il principale motore del cambiamento climatico. Insieme all’UE si sono opposte le Isole Marshall, Vanuatu, Panama con gli Stati Sudamericani, la Norvegia e il Regno Unito. Poiché le decisioni delle COP richiedono il consenso, un solo no è bastato a far saltare il banco dopo quasi cinquanta ore di straordinari. Il punto di rottura è stato anche il ruolo delle tecnologie di cattura, utilizzo e stoccaggio della CO2, le CCUS, promosse dalla coalizione guidata dall’Arabia Saudita. Secondo l’Unione Europea e il commissario Wopke Hoekstra, queste tecnologie non possono essere presentate come una soluzione su larga scala per compensare la prosecuzione delle attività fossili, perché rischiano di diventare un pretesto per mantenere in vita un’economia basata su carbone, petrolio e gas. Neil Grant di Climate Analytics le ha definite un cavallo di Troia per gli interessi dei combustibili fossili. La notizia segna un cambio di rotta politico: l’Europa riprende la leadership climatica, dicendo no a un testo che avrebbe tradito il Green Deal. Il contesto è quello di una crisi del multilateralismo, con temperature già oltre la soglia di 1,5 gradi e crescenti difficoltà nel trovare un terreno comune internazionale. Le conseguenze documentate riguardano lo stallo dei negoziati globali sul clima, ma anche l’apertura di uno spazio per costruire un nuovo equilibrio basato su trasparenza e responsabilità condivisa.",
-      "spokenText": "La COP31 di Antalya si è chiusa senza un accordo. L’Unione Europea, per voce del ministro irlandese Darragh O’Brien, ha respinto formalmente l’Antalya Pact, il documento finale della conferenza, perché non menzionava i combustibili fossili, definiti il principale motore del cambiamento climatico. Insieme all’UE si sono opposte le Isole Marshall, Vanuatu, Panama con gli Stati Sudamericani, la Norvegia e il Regno Unito. Poiché le decisioni delle COP richiedono il consenso, un solo no è bastato a far saltare il banco dopo quasi cinquanta ore di straordinari. Il punto di rottura è stato anche il ruolo delle tecnologie di cattura, utilizzo e stoccaggio della CO2, le CCUS, promosse dalla coalizione guidata dall’Arabia Saudita. Secondo l’Unione Europea e il commissario Wopke Hoekstra, queste tecnologie non possono essere presentate come una soluzione su larga scala per compensare la prosecuzione delle attività fossili, perché rischiano di diventare un pretesto per mantenere in vita un’economia basata su carbone, petrolio e gas. Neil Grant di Climate Analytics le ha definite un cavallo di Troia per gli interessi dei combustibili fossili. La notizia segna un cambio di rotta politico: l’Europa riprende la leadership climatica, dicendo no a un testo che avrebbe tradito il Green Deal. Il contesto è quello di una crisi del multilateralismo, con temperature già oltre la soglia di 1,5 gradi e crescenti difficoltà nel trovare un terreno comune internazionale. Le conseguenze documentate riguardano lo stallo dei negoziati globali sul clima, ma anche l’apertura di uno spazio per costruire un nuovo equilibrio basato su trasparenza e responsabilità condivisa.",
-      "category": "mondo",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-24T08:07:35.000Z",
-      "tags": [
-        "mondo"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 102,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/non-accordo-cop31-europa-prima-linea"
-      },
-      "analysis": {
-        "mainFact": "L’Unione Europea e un gruppo di paesi hanno respinto il documento finale della COP31 perché non menzionava i combustibili fossili e promoveva le tecnologie di cattura del carbonio come soluzione principale, facendo saltare l’accordo dopo quasi cinquanta ore di negoziati.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "L’Unione Europea e un gruppo di paesi hanno respinto il documento finale della COP31 perché non menzionava i combustibili fossili e promoveva le tecnologie di cattura del carbonio come soluzione principale, facendo saltare l’accordo dopo quasi cinquanta ore di negoziati."
+          "Uno studio britannico su dati elettronici preconcezionali mostra una predizione moderata del rischio di depressione perinatale e di cure psichiatriche acute in donne con precedenti contatti con i servizi di salute mentale secondari."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -165,96 +66,204 @@
       }
     },
     {
-      "id": "story-15dd33838eb8b9b3",
-      "title": "COP31: le isole chiedono oceani nei negoziati climatici",
-      "summary": "Alla COP31 le Isole Salomone diventano il primo piccolo Stato insulare contributore del Green Climate Fund, mentre i negoziati aprono per la prima volta a misure oceaniche sostenibili nei piani climatici nazionali.",
-      "content": "Alla COP31, Francis Siaumari, leader delle comunità locali delle Isole Salomone, è lontano per la prima volta dal suo villaggio di Walande, oggi completamente sommerso dal Re delle Maree, l’alta marea eccezionale che, con il cambiamento climatico, divora le isole un pezzo alla volta. Il primo ministro Matthew Wale ha annunciato il 12 novembre un contributo di 400.000 dollari alla terza ricostituzione del Green Climate Fund: è la prima volta che un piccolo Stato insulare in via di sviluppo, tradizionalmente destinatario dei finanziamenti, diventa anche Paese contributore, e il primo impegno per il nuovo ciclo di fondi. Wale ha chiamato in causa Europa e BRICS per mitigazione, adattamento e risarcimento dei danni climatici. L’Alleanza dei Piccoli Stati Insulari, 39 paesi, chiede di mantenere raggiungibile il limite di 1,5 gradi, accelerare l’uscita dai combustibili fossili e ricevere fondi a fondo perduto. Secondo le stime, servirebbero 305 miliardi di dollari l’anno entro il 2035 per l’adattamento, contro i circa 30 miliardi attuali; anche triplicando i fondi, come promesso alla COP30, si coprirebbe solo il 20-29% del fabbisogno, avverte l’UNEP. Le bozze della COP31 non indicano un cronoprogramma per la triplicazione e cancellano i riferimenti ai combustibili fossili, ma per la prima volta invitano i paesi a inserire misure oceaniche sostenibili nei contributi nazionali e nei piani di adattamento, con finanza, tecnologia e capacità prevedibili. Sul tavolo c’è anche l’Antalya Ocean and Seas Compact, presentato il 17 novembre, che sostiene pesca sostenibile e rinnovabili offshore.",
-      "spokenText": "Alla COP31, Francis Siaumari, leader delle comunità locali delle Isole Salomone, è lontano per la prima volta dal suo villaggio di Walande, oggi completamente sommerso dal Re delle Maree, l’alta marea eccezionale che, con il cambiamento climatico, divora le isole un pezzo alla volta. Il primo ministro Matthew Wale ha annunciato il 12 novembre un contributo di 400.000 dollari alla terza ricostituzione del Green Climate Fund: è la prima volta che un piccolo Stato insulare in via di sviluppo, tradizionalmente destinatario dei finanziamenti, diventa anche Paese contributore, e il primo impegno per il nuovo ciclo di fondi. Wale ha chiamato in causa Europa e BRICS per mitigazione, adattamento e risarcimento dei danni climatici. L’Alleanza dei Piccoli Stati Insulari, 39 paesi, chiede di mantenere raggiungibile il limite di 1,5 gradi, accelerare l’uscita dai combustibili fossili e ricevere fondi a fondo perduto. Secondo le stime, servirebbero 305 miliardi di dollari l’anno entro il 2035 per l’adattamento, contro i circa 30 miliardi attuali; anche triplicando i fondi, come promesso alla COP30, si coprirebbe solo il 20-29% del fabbisogno, avverte l’UNEP. Le bozze della COP31 non indicano un cronoprogramma per la triplicazione e cancellano i riferimenti ai combustibili fossili, ma per la prima volta invitano i paesi a inserire misure oceaniche sostenibili nei contributi nazionali e nei piani di adattamento, con finanza, tecnologia e capacità prevedibili. Sul tavolo c’è anche l’Antalya Ocean and Seas Compact, presentato il 17 novembre, che sostiene pesca sostenibile e rinnovabili offshore.",
-      "category": "mondo",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-20T18:51:21.000Z",
+      "id": "story-396e22aa10ce8477",
+      "title": "Accessi in Pronto Soccorso per violenza sulle donne: +34,4% dal 2017",
+      "summary": "Nel 2025 oltre 19.600 donne hanno avuto accessi in Pronto Soccorso con indicazione di violenza, secondo i dati ministero della Salute-Istat, con un aumento del 34,4% rispetto al 2017 e un incremento del 9,5% dei ricoveri ospedalieri.",
+      "content": "Nel 2025 sono stati registrati 19.625 accessi di donne in Pronto Soccorso con indicazione di violenza. I dati, forniti dal ministero della Salute e dall'Istat, segnano un incremento del 34,4% rispetto ai 14.333 accessi del 2017. I ricoveri ospedalieri in regime ordinario sono stati 1.545, per un totale di 1.683 ricoveri esclusi quelli da parto, con un aumento del 9,5% sul 2017. L'analisi per età mostra tassi di accesso più elevati tra le donne di 18-34 e 35-49 anni, rispettivamente 12,2 e 10,3 accessi per 10.000 residenti nel 2025. Tra le minorenni il tasso è passato da 3,5 a 6,6 per 10.000 residenti, mentre nella fascia 50-64 anni è aumentato da 3,4 a 4,9. La quota di accessi con indicazione di violenza per 10.000 accessi totali è passata dal 14,1% del 2017 al 19% del 2025. Secondo il ministero della Salute, l'incremento può essere ricondotto a una pluralità di fattori, tra cui la maggiore capacità degli operatori sanitari di intercettare gli episodi grazie alla formazione ricevuta, la maggiore consapevolezza delle donne che dichiarano più frequentemente la reale motivazione dell'accesso e il possibile aumento della diffusione del fenomeno. Il ministro della Salute Orazio Schillaci ha dichiarato che i dati confermano che non ci si può rassegnare a un fenomeno odioso che continua a colpire migliaia di donne, e che il Servizio sanitario nazionale è al fianco delle donne che vivono situazioni di violenza.",
+      "spokenText": "Nel 2025 sono stati registrati 19.625 accessi di donne in Pronto Soccorso con indicazione di violenza. I dati, forniti dal ministero della Salute e dall'Istat, segnano un incremento del 34,4% rispetto ai 14.333 accessi del 2017. I ricoveri ospedalieri in regime ordinario sono stati 1.545, per un totale di 1.683 ricoveri esclusi quelli da parto, con un aumento del 9,5% sul 2017. L'analisi per età mostra tassi di accesso più elevati tra le donne di 18-34 e 35-49 anni, rispettivamente 12,2 e 10,3 accessi per 10.000 residenti nel 2025. Tra le minorenni il tasso è passato da 3,5 a 6,6 per 10.000 residenti, mentre nella fascia 50-64 anni è aumentato da 3,4 a 4,9. La quota di accessi con indicazione di violenza per 10.000 accessi totali è passata dal 14,1% del 2017 al 19% del 2025. Secondo il ministero della Salute, l'incremento può essere ricondotto a una pluralità di fattori, tra cui la maggiore capacità degli operatori sanitari di intercettare gli episodi grazie alla formazione ricevuta, la maggiore consapevolezza delle donne che dichiarano più frequentemente la reale motivazione dell'accesso e il possibile aumento della diffusione del fenomeno. Il ministro della Salute Orazio Schillaci ha dichiarato che i dati confermano che non ci si può rassegnare a un fenomeno odioso che continua a colpire migliaia di donne, e che il Servizio sanitario nazionale è al fianco delle donne che vivono situazioni di violenza.",
+      "category": "salute",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-25T15:49:47.000Z",
       "tags": [
-        "mondo"
+        "salute"
       ],
-      "importance": 75,
+      "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 97,
+      "estimatedSeconds": 93,
       "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/mari-oceani-negoziati-cop31-antalya-mediterraneo-isole-salomone"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/25/violenza-alle-donne-nel-2025-oltre-19.600-accessi-in-pronto-soccorso_3241ede2-a1f4-4dc6-9711-aacc276e3af0.html"
       },
       "analysis": {
-        "mainFact": "Alla COP31 le Isole Salomone diventano il primo piccolo Stato insulare contributore del Green Climate Fund, mentre i negoziati aprono per la prima volta a misure oceaniche sostenibili nei piani climatici nazionali.",
+        "mainFact": "Nel 2025 oltre 19.600 donne hanno avuto accessi in Pronto Soccorso con indicazione di violenza, secondo i dati ministero della Salute-Istat, con un aumento del 34,4% rispetto al 2017 e un incremento del 9,5% dei ricoveri ospedalieri.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Alla COP31 le Isole Salomone diventano il primo piccolo Stato insulare contributore del Green Climate Fund, mentre i negoziati aprono per la prima volta a misure oceaniche sostenibili nei piani climatici nazionali."
+          "Nel 2025 oltre 19.600 donne hanno avuto accessi in Pronto Soccorso con indicazione di violenza, secondo i dati ministero della Salute-Istat, con un aumento del 34,4% rispetto al 2017 e un incremento del 9,5% dei ricoveri ospedalieri."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
-        "numbersAndDates": []
+        "numbersAndDates": [
+          "2025",
+          "19.600",
+          "34,4",
+          "2017",
+          "9,5"
+        ]
       }
     },
     {
-      "id": "story-58d05612771bc784",
-      "title": "Nvidia, Huang torna CEO e Wall Street rimbalza",
-      "summary": "Il ritorno di Jensen Huang alla guida di Nvidia ha fatto salire il valore di mercato di quasi mille miliardi di dollari, trascinando al rialzo Nasdaq e S&P 500 dopo settimane di cali legati a dimissioni, scandalo e indagini.",
-      "content": "Il valore di mercato di Nvidia è cresciuto di quasi mille miliardi di dollari dopo che il consiglio di amministrazione ha reintegrato Jensen Huang come amministratore delegato con effetto immediato. Il titolo è balzato di oltre il 31 per cento, trascinando al rialzo i mercati tecnologici: il Nasdaq è salito del 6,5 per cento e lo S&P 500 del 4,75 per cento. Anche Micron è avanzata del 19 per cento, AMD di quasi il 7 per cento e Tesla di quasi l'11,5 per cento. Il rimbalzo arriva dopo un periodo difficile per il produttore di chip. Huang si era dimesso meno di due settimane fa, ammettendo una relazione con una donna sospettata di essere una spia cinese, e le azioni erano crollate significativamente. Il quattro novembre, la vittoria dei democratici alle elezioni di midterm aveva già alimentato timori di una regolamentazione più severa sull'intelligenza artificiale, provocando un'ampia vendita di titoli tecnologici. Venerdì le azioni Nvidia erano scese del 13,7 per cento, mentre Reuters, non confermato dalla Bbc, aveva riportato un'indagine della Sec sulle pratiche contabili della società. Il consiglio ha votato all'unanimità il reintegro del cofondatore dopo una serie di incontri, ma il presidente Donald Trump ha dichiarato di aver convinto il consiglio a riportare Huang. Alcuni osservatori definiscono l'operazione un'incredibile marcia indietro, considerando le accuse di spionaggio e le incertezze sull'indagine della Sec. Politici, tra cui la senatrice Jeanne Shaheen, chiedono maggiore trasparenza e sostengono che il settore dell'intelligenza artificiale necessiti di regole e controllo. Nonostante il rimbalzo, il titolo resta circa il 21 per cento al di sotto del livello di un mese fa, e gli analisti avvertono che ogni mossa futura di Huang sarà attentamente scrutata dal mercato.",
-      "spokenText": "Il valore di mercato di Nvidia è cresciuto di quasi mille miliardi di dollari dopo che il consiglio di amministrazione ha reintegrato Jensen Huang come amministratore delegato con effetto immediato. Il titolo è balzato di oltre il 31 per cento, trascinando al rialzo i mercati tecnologici: il Nasdaq è salito del 6,5 per cento e lo S&P 500 del 4,75 per cento. Anche Micron è avanzata del 19 per cento, AMD di quasi il 7 per cento e Tesla di quasi l'11,5 per cento. Il rimbalzo arriva dopo un periodo difficile per il produttore di chip. Huang si era dimesso meno di due settimane fa, ammettendo una relazione con una donna sospettata di essere una spia cinese, e le azioni erano crollate significativamente. Il quattro novembre, la vittoria dei democratici alle elezioni di midterm aveva già alimentato timori di una regolamentazione più severa sull'intelligenza artificiale, provocando un'ampia vendita di titoli tecnologici. Venerdì le azioni Nvidia erano scese del 13,7 per cento, mentre Reuters, non confermato dalla Bbc, aveva riportato un'indagine della Sec sulle pratiche contabili della società. Il consiglio ha votato all'unanimità il reintegro del cofondatore dopo una serie di incontri, ma il presidente Donald Trump ha dichiarato di aver convinto il consiglio a riportare Huang. Alcuni osservatori definiscono l'operazione un'incredibile marcia indietro, considerando le accuse di spionaggio e le incertezze sull'indagine della Sec. Politici, tra cui la senatrice Jeanne Shaheen, chiedono maggiore trasparenza e sostengono che il settore dell'intelligenza artificiale necessiti di regole e controllo. Nonostante il rimbalzo, il titolo resta circa il 21 per cento al di sotto del livello di un mese fa, e gli analisti avvertono che ogni mossa futura di Huang sarà attentamente scrutata dal mercato.",
-      "category": "tecnologia",
-      "editorialGroup": "finanza",
-      "publishedAt": "2026-11-23T21:23:42.000Z",
+      "id": "story-fc2475409e1f270a",
+      "title": "I nati dopo il 2000 rischiano di invecchiare prima dei genitori",
+      "summary": "Secondo la Società Italiana di Gerontologia e Geriatria, i giovani nati dopo il 2000 potrebbero mostrare segni di invecchiamento fino a 13 anni prima rispetto alle generazioni precedenti, a causa di obesità, diabete e disagio psichico. Il fenomeno emerge da uno studio britannico su oltre 86.500 persone e trova riscontri anche in Italia.",
+      "content": "I ragazzi nati dopo il 2000 rischiano di invecchiare prima e peggio dei propri genitori, con i segni dell'avanzamento dell'età che potrebbero palesarsi fino a tredici anni prima rispetto alla generazione precedente. L'allarme arriva dalla Società Italiana di Gerontologia e Geriatria, in occasione del suo congresso nazionale a Napoli. Gli esperti citano una revisione pubblicata su Population Studies da ricercatori di University College London, King's College London e University of Oxford, che hanno analizzato i dati di oltre ottantaseimila persone nate in Gran Bretagna tra il mille novecentoquarantasei e il duemiladue. Lo studio confronta baby boomer, generazione X, millennial e generazione Z, rilevando un arretramento della salute di generazione in generazione. Le cause principali sono ansia, depressione, stress psicoaffettivo, obesità e diabete, in crescita esponenziale negli ultimi anni. Secondo i geriatri, questi fattori possono aumentare il rischio per i giovani di trascorrere più anni in cattiva salute. In Italia, il disagio psichico emerge come uno dei fattori che compromettono direttamente la longevità in salute, con i nuovi accessi ai servizi di salute mentale tra i diciotto e ventiquattro anni che registrano la frequenza più alta, novantaquattro ogni diecimila abitanti. Il presidente della Sigg, Dario Leosco, spiega che il peggioramento degli indicatori di peso e salute mentale nelle fasce più giovani suggerisce un'insorgenza più precoce di cattiva salute. Il fenomeno è in gran parte prevenibile: intervenire su peso e salute mentale può cambiare la traiettoria di una generazione.",
+      "spokenText": "I ragazzi nati dopo il 2000 rischiano di invecchiare prima e peggio dei propri genitori, con i segni dell'avanzamento dell'età che potrebbero palesarsi fino a tredici anni prima rispetto alla generazione precedente. L'allarme arriva dalla Società Italiana di Gerontologia e Geriatria, in occasione del suo congresso nazionale a Napoli. Gli esperti citano una revisione pubblicata su Population Studies da ricercatori di University College London, King's College London e University of Oxford, che hanno analizzato i dati di oltre ottantaseimila persone nate in Gran Bretagna tra il mille novecentoquarantasei e il duemiladue. Lo studio confronta baby boomer, generazione X, millennial e generazione Z, rilevando un arretramento della salute di generazione in generazione. Le cause principali sono ansia, depressione, stress psicoaffettivo, obesità e diabete, in crescita esponenziale negli ultimi anni. Secondo i geriatri, questi fattori possono aumentare il rischio per i giovani di trascorrere più anni in cattiva salute. In Italia, il disagio psichico emerge come uno dei fattori che compromettono direttamente la longevità in salute, con i nuovi accessi ai servizi di salute mentale tra i diciotto e ventiquattro anni che registrano la frequenza più alta, novantaquattro ogni diecimila abitanti. Il presidente della Sigg, Dario Leosco, spiega che il peggioramento degli indicatori di peso e salute mentale nelle fasce più giovani suggerisce un'insorgenza più precoce di cattiva salute. Il fenomeno è in gran parte prevenibile: intervenire su peso e salute mentale può cambiare la traiettoria di una generazione.",
+      "category": "salute",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-25T15:37:58.000Z",
       "tags": [
-        "tecnologia"
+        "salute"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 95,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/25/londa-di-giovani-vecchi-i-nati-dopo-il-2000-rischiano-di-invecchiare-prima_31dc7594-10dc-464e-8b34-d13c1edb8319.html"
+      },
+      "analysis": {
+        "mainFact": "Secondo la Società Italiana di Gerontologia e Geriatria, i giovani nati dopo il 2000 potrebbero mostrare segni di invecchiamento fino a 13 anni prima rispetto alle generazioni precedenti, a causa di obesità, diabete e disagio psichico. Il fenomeno emerge da uno studio britannico su oltre 86.500 persone e trova riscontri anche in Italia.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Secondo la Società Italiana di Gerontologia e Geriatria, i giovani nati dopo il 2000 potrebbero mostrare segni di invecchiamento fino a 13 anni prima rispetto alle generazioni precedenti, a causa di obesità, diabete e disagio psichico. Il fenomeno emerge da uno studio britannico su oltre 86.500 persone e trova riscontri anche in Italia."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "2000",
+          "13",
+          "86.500"
+        ]
+      }
+    },
+    {
+      "id": "story-9b0a0d0c8345088c",
+      "title": "Transizione energetica avanti nonostante il fallimento della COP31",
+      "summary": "Il vertice COP31 si è concluso senza accordo dopo il rifiuto dell'Unione Europea e di oltre cento Paesi, ma l'elettrificazione continua: 80 nazioni puntano al 35% degli usi finali entro il 2035, mentre la crisi dello stretto di Hormuz accelera rinnovabili, nucleare e produzione domestica.",
+      "content": "La COP31, presieduta dalla Turchia, è fallita: l'Unione Europea ha rigettato il testo finale, insieme ad almeno un centinaio di altri Paesi, perché l'accordo non conteneva impegni concreti per ridurre i combustibili fossili e apriva alla cattura e stoccaggio della CO2, tecnologie che rischiano di giustificare nuovi progetti di estrazione di idrocarburi. Nonostante il fallimento di Antalya, la transizione energetica continua. Ottanta Paesi sui centonovantasei presenti hanno sottoscritto l'obiettivo di portare l'elettricità al trentacinque per cento degli usi energetici finali entro il duemilatrentacinque. A spingere il cambiamento è anche la crisi dello stretto di Hormuz, chiuso dopo l'inizio della guerra in Iran. Prima del conflitto, dallo stretto transitavano venti milioni di barili al giorno, circa il venti per cento del traffico petrolifero globale. Secondo il direttore esecutivo dell'Agenzia Internazionale dell'Energia, Fatih Birol, anche se il passaggio venisse ripristinato, entro cinque anni i volumi potrebbero scendere a dieci milioni di barili al giorno e a due milioni entro il duemilatrentacinque. Birol indica tre risposte già in atto: diversificazione delle fonti, produzione domestica ed elettrificazione. Crescono in particolare il solare in Asia e il nucleare, con novanta gigawatt già in costruzione, il livello più alto degli ultimi quarant'anni. Anche il carbone è aumentato temporaneamente, ma l'Agenzia non prevede una ripresa strutturale della fonte più emissiva.",
+      "spokenText": "La COP31, presieduta dalla Turchia, è fallita: l'Unione Europea ha rigettato il testo finale, insieme ad almeno un centinaio di altri Paesi, perché l'accordo non conteneva impegni concreti per ridurre i combustibili fossili e apriva alla cattura e stoccaggio della CO2, tecnologie che rischiano di giustificare nuovi progetti di estrazione di idrocarburi. Nonostante il fallimento di Antalya, la transizione energetica continua. Ottanta Paesi sui centonovantasei presenti hanno sottoscritto l'obiettivo di portare l'elettricità al trentacinque per cento degli usi energetici finali entro il duemilatrentacinque. A spingere il cambiamento è anche la crisi dello stretto di Hormuz, chiuso dopo l'inizio della guerra in Iran. Prima del conflitto, dallo stretto transitavano venti milioni di barili al giorno, circa il venti per cento del traffico petrolifero globale. Secondo il direttore esecutivo dell'Agenzia Internazionale dell'Energia, Fatih Birol, anche se il passaggio venisse ripristinato, entro cinque anni i volumi potrebbero scendere a dieci milioni di barili al giorno e a due milioni entro il duemilatrentacinque. Birol indica tre risposte già in atto: diversificazione delle fonti, produzione domestica ed elettrificazione. Crescono in particolare il solare in Asia e il nucleare, con novanta gigawatt già in costruzione, il livello più alto degli ultimi quarant'anni. Anche il carbone è aumentato temporaneamente, ma l'Agenzia non prevede una ripresa strutturale della fonte più emissiva.",
+      "category": "ambiente",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-23T14:54:37.000Z",
+      "tags": [
+        "ambiente"
       ],
       "importance": 55,
       "mustInclude": false,
-      "estimatedSeconds": 113,
+      "estimatedSeconds": 86,
       "source": {
-        "name": "BBC News - Business",
-        "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/transizione-energetica-fallimento-cop31-stretto-hormuz-iea"
       },
       "analysis": {
-        "mainFact": "Il ritorno di Jensen Huang alla guida di Nvidia ha fatto salire il valore di mercato di quasi mille miliardi di dollari, trascinando al rialzo Nasdaq e S&P 500 dopo settimane di cali legati a dimissioni, scandalo e indagini.",
+        "mainFact": "Il vertice COP31 si è concluso senza accordo dopo il rifiuto dell'Unione Europea e di oltre cento Paesi, ma l'elettrificazione continua: 80 nazioni puntano al 35% degli usi finali entro il 2035, mentre la crisi dello stretto di Hormuz accelera rinnovabili, nucleare e produzione domestica.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Il ritorno di Jensen Huang alla guida di Nvidia ha fatto salire il valore di mercato di quasi mille miliardi di dollari, trascinando al rialzo Nasdaq e S&P 500 dopo settimane di cali legati a dimissioni, scandalo e indagini."
+          "Il vertice COP31 si è concluso senza accordo dopo il rifiuto dell'Unione Europea e di oltre cento Paesi, ma l'elettrificazione continua: 80 nazioni puntano al 35% degli usi finali entro il 2035, mentre la crisi dello stretto di Hormuz accelera rinnovabili, nucleare e produzione domestica."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "500"
+          "80",
+          "35",
+          "2035"
         ]
       }
     },
     {
-      "id": "story-1aaa57a6b3befcb7",
-      "title": "Borse in calo, Milano chiude a -1,8% tra timori AI e nuovi dazi",
-      "summary": "L’effetto positivo del ritorno del fondatore di Nvidia è durato meno di 24 ore. I mercati temono che le società dell’intelligenza artificiale non generino ritorni sufficienti per gli investimenti effettuati, mentre si profilano nuovi dazi statunitensi contro Cina e Unione europea.",
-      "content": "L’effetto Huang non ha superato il test delle 24 ore. Il ritorno del fondatore di Nvidia al timone del colosso dei chip non è bastato a dissipare i timori sulla capacità delle società dell’intelligenza artificiale di generare ritorni sufficienti a giustificare gli investimenti effettuati per le infrastrutture di nuova generazione. Le vendite hanno così travolto i titoli tecnologici: a Wall Street Nvidia ha ceduto circa il 6% dopo aver guadagnato oltre il 31% alla vigilia, mentre Anthropic è scesa del 12% a 78,21 dollari, al di sotto del prezzo di collocamento di 83 dollari. A peggiorare l’umore degli investitori sono arrivate le indiscrezioni sul ritorno della guerra commerciale, con l’amministrazione americana intenzionata ad alzare i dazi nei confronti di Cina, Unione europea e altri Paesi. In Europa tutti i principali indici hanno chiuso in territorio negativo, con Milano peggiore a -1,8%. Sul mercato valutario l’euro si è riportato a 1,0968 dollari, mentre il petrolio Brent è sceso sotto i 90 dollari, a 89,57 dollari al barile. Lo spread ha chiuso in rialzo a 109 punti. Gli operatori segnalano che il rimbalzo è frutto della volatilità e non di un’inversione di tendenza, con la dinamica dei prezzi che resta negativa.",
-      "spokenText": "L’effetto Huang non ha superato il test delle 24 ore. Il ritorno del fondatore di Nvidia al timone del colosso dei chip non è bastato a dissipare i timori sulla capacità delle società dell’intelligenza artificiale di generare ritorni sufficienti a giustificare gli investimenti effettuati per le infrastrutture di nuova generazione. Le vendite hanno così travolto i titoli tecnologici: a Wall Street Nvidia ha ceduto circa il 6% dopo aver guadagnato oltre il 31% alla vigilia, mentre Anthropic è scesa del 12% a 78,21 dollari, al di sotto del prezzo di collocamento di 83 dollari. A peggiorare l’umore degli investitori sono arrivate le indiscrezioni sul ritorno della guerra commerciale, con l’amministrazione americana intenzionata ad alzare i dazi nei confronti di Cina, Unione europea e altri Paesi. In Europa tutti i principali indici hanno chiuso in territorio negativo, con Milano peggiore a -1,8%. Sul mercato valutario l’euro si è riportato a 1,0968 dollari, mentre il petrolio Brent è sceso sotto i 90 dollari, a 89,57 dollari al barile. Lo spread ha chiuso in rialzo a 109 punti. Gli operatori segnalano che il rimbalzo è frutto della volatilità e non di un’inversione di tendenza, con la dinamica dei prezzi che resta negativa.",
+      "id": "story-092e95d0e93c858c",
+      "title": "Pechino guida la ricerca scientifica nelle città del 2025",
+      "summary": "Secondo il Nature Index 2026, Pechino resta prima nelle scienze naturali, mentre le città cinesi dominano la chimica e crescono nelle scienze della Terra e ambientali.",
+      "content": "Secondo il Nature Index 2026, Pechino si conferma al primo posto tra le città mondiali per ricerca di alta qualità nelle scienze naturali nel 2025. Nel periodo compreso tra il 2016 e il 2025, cinque città cinesi sono entrate nella top ten, mentre due città statunitensi precedentemente tra le prime dieci sono uscite dalla top venti. Nelle scienze biologiche, la classifica è la più geograficamente diversificata, con quattro città statunitensi, quattro cinesi e due europee tra le prime dieci. In chimica, le città cinesi occupano tutte le prime dieci posizioni; Pechino e Shanghai hanno mostrato la crescita maggiore tra le prime cinquanta, aumentando il proprio adjusted Share di quasi novecento punti ciascuna. Nelle scienze della Terra e ambientali, Pechino ha contribuito per il venticinque per cento dello Share cinese nel 2025, la percentuale più alta tra le prime cinque città delle aree delle scienze naturali e della salute. Sempre in questo ambito, Qingdao ha registrato la variazione percentuale più ampia dell'adjusted Share tra il 2016 e il 2025, pari al cinquecentoquarantacinque virgola cinque per cento, mentre Pechino ha ottenuto l'incremento assoluto maggiore, con settecentotré punti aggiuntivi. I dati si basano sullo Share dell'Indice Nature e riflettono tendenze di ricerca, non risultati clinici o applicazioni pratiche immediate.",
+      "spokenText": "Secondo il Nature Index 2026, Pechino si conferma al primo posto tra le città mondiali per ricerca di alta qualità nelle scienze naturali nel 2025. Nel periodo compreso tra il 2016 e il 2025, cinque città cinesi sono entrate nella top ten, mentre due città statunitensi precedentemente tra le prime dieci sono uscite dalla top venti. Nelle scienze biologiche, la classifica è la più geograficamente diversificata, con quattro città statunitensi, quattro cinesi e due europee tra le prime dieci. In chimica, le città cinesi occupano tutte le prime dieci posizioni; Pechino e Shanghai hanno mostrato la crescita maggiore tra le prime cinquanta, aumentando il proprio adjusted Share di quasi novecento punti ciascuna. Nelle scienze della Terra e ambientali, Pechino ha contribuito per il venticinque per cento dello Share cinese nel 2025, la percentuale più alta tra le prime cinque città delle aree delle scienze naturali e della salute. Sempre in questo ambito, Qingdao ha registrato la variazione percentuale più ampia dell'adjusted Share tra il 2016 e il 2025, pari al cinquecentoquarantacinque virgola cinque per cento, mentre Pechino ha ottenuto l'incremento assoluto maggiore, con settecentotré punti aggiuntivi. I dati si basano sullo Share dell'Indice Nature e riflettono tendenze di ricerca, non risultati clinici o applicazioni pratiche immediate.",
+      "category": "altro",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "tags": [
+        "altro"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 83,
+      "source": {
+        "name": "Nature",
+        "url": "https://www.nature.com/articles/d41586-026-03468-3"
+      },
+      "analysis": {
+        "mainFact": "Secondo il Nature Index 2026, Pechino resta prima nelle scienze naturali, mentre le città cinesi dominano la chimica e crescono nelle scienze della Terra e ambientali.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Secondo il Nature Index 2026, Pechino resta prima nelle scienze naturali, mentre le città cinesi dominano la chimica e crescono nelle scienze della Terra e ambientali."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "2026"
+        ]
+      }
+    },
+    {
+      "id": "story-a2143a340c130b76",
+      "title": "Poundland in amministrazione, a rischio 11.000 posti di lavoro",
+      "summary": "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo il fallimento delle trattative per la cessione, mettendo a rischio 11.000 posti di lavoro a poche settimane dal Natale.",
+      "content": "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo che i proprietari non sono riusciti a trovare un acquirente per mantenere l'attività. La procedura è stata avviata mercoledì scorso, poche settimane prima di Natale, e mette a rischio circa 11.000 posti di lavoro. La società di consulenza Alix Partners è stata incaricata di supervisionare il processo e cercherà di vendere l'attività e i suoi asset, con l'ipotesi che l'azienda venga smembrata e alcuni negozi ceduti a concorrenti. Durante l'amministrazione, i punti vendita e i centri di distribuzione rimarranno aperti e continueranno a operare. Al centro della crisi c'è un prestito azionario ereditato da Gordon Brothers, che ha acquistato l'azienda per meno di una sterlina l'anno scorso. Di tale debito, Gordon Brothers vantava 22,5 milioni di sterline, mentre l'ex proprietario Pepco ne vantava 7,5 milioni. Sono state rifiutate diverse offerte per rilevare l'attività in funzione, tra cui quella della società irlandese Martin Property Group, disposta a saldare 5 milioni di sterline subito e il resto entro il 2030, e quella del gruppo londinese Xyra, che offriva 12,5 milioni di sterline ma non ha concluso in tempo. Gordon Brothers ha dichiarato di aver iniettato 85 milioni di sterline nell'azienda nell'ultimo anno per evitarne l'insolvenza. Il senior managing director per l'area EMEA della società, Mark Newton-Jones, è stato convocato da una commissione di parlamentari britannici per fornire garanzie che l'azienda non procederà alla liquidazione delle scorte di Poundland.",
+      "spokenText": "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo che i proprietari non sono riusciti a trovare un acquirente per mantenere l'attività. La procedura è stata avviata mercoledì scorso, poche settimane prima di Natale, e mette a rischio circa 11.000 posti di lavoro. La società di consulenza Alix Partners è stata incaricata di supervisionare il processo e cercherà di vendere l'attività e i suoi asset, con l'ipotesi che l'azienda venga smembrata e alcuni negozi ceduti a concorrenti. Durante l'amministrazione, i punti vendita e i centri di distribuzione rimarranno aperti e continueranno a operare. Al centro della crisi c'è un prestito azionario ereditato da Gordon Brothers, che ha acquistato l'azienda per meno di una sterlina l'anno scorso. Di tale debito, Gordon Brothers vantava 22,5 milioni di sterline, mentre l'ex proprietario Pepco ne vantava 7,5 milioni. Sono state rifiutate diverse offerte per rilevare l'attività in funzione, tra cui quella della società irlandese Martin Property Group, disposta a saldare 5 milioni di sterline subito e il resto entro il 2030, e quella del gruppo londinese Xyra, che offriva 12,5 milioni di sterline ma non ha concluso in tempo. Gordon Brothers ha dichiarato di aver iniettato 85 milioni di sterline nell'azienda nell'ultimo anno per evitarne l'insolvenza. Il senior managing director per l'area EMEA della società, Mark Newton-Jones, è stato convocato da una commissione di parlamentari britannici per fornire garanzie che l'azienda non procederà alla liquidazione delle scorte di Poundland.",
+      "category": "altro",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-25T16:24:30.000Z",
+      "tags": [
+        "altro"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 96,
+      "source": {
+        "name": "BBC News - Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+      },
+      "analysis": {
+        "mainFact": "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo il fallimento delle trattative per la cessione, mettendo a rischio 11.000 posti di lavoro a poche settimane dal Natale.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo il fallimento delle trattative per la cessione, mettendo a rischio 11.000 posti di lavoro a poche settimane dal Natale."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "11.000"
+        ]
+      }
+    },
+    {
+      "id": "story-f0ed00c5f8402eb8",
+      "title": "Pagamenti con carta superano il contante nei negozi dell'area euro",
+      "summary": "Secondo lo studio SPACE della BCE, nel 2026 le carte fisiche hanno raggiunto il 45% dei pagamenti nei punti vendita, superando per la prima volta il contante al 44%. I consumatori chiedono comunque di mantenere la scelta tra contante e pagamenti digitali.",
+      "content": "La Banca Centrale Europea ha pubblicato l'ultimo studio SPACE sulle abitudini di pagamento dei consumatori nell'area euro. Per la prima volta da quando i dati sono raccolti in modo comparabile, nel 2016, i pagamenti con carta fisica nei negozi hanno superato il contante: il 45% delle transazioni contro il 44%. I pagamenti mobili sono saliti al 9%, dal 6% del 2024. Nonostante il cambiamento delle pratiche, le preferenze dei consumatori restano stabili. Il 54% preferisce carte o altri metodi senza contanti, il 22% preferisce il contante e il 23% non ha una preferenza chiara. Una larga maggioranza ritiene importante mantenere la scelta: l'82% valuta l'opzione di pagare digitalmente, mentre il 62% apprezza quella di pagare in contanti. Solo il 3% dichiara di non usare mai il contante. L'accesso al contante resta facile per la maggior parte, anche se la quota è scesa all'85% dall'87% del 2024. Tra chi ha tentato un prelievo allo sportello automatico nell'anno precedente, il 19% ha riscontrato difficoltà. Inoltre, in tutti i paesi dell'area euro, almeno il 12% dei consumatori ha subito almeno un rifiuto di pagamenti con carta o mobile nel mese precedente l'indagine. Piero Cipollone, membro del Comitato esecutivo della BCE, ha dichiarato che i mezzi di pagamento digitali stanno diventando più importanti nelle transazioni quotidiane, ma che la scelta è ciò che conta davvero per gli europei. La BCE continuerà a garantire ai cittadini la libertà di scegliere come pagare, salvaguardando il contante e preparandosi alla possibile emissione dell'equivalente digitale, l'euro digitale. L'indagine ha coinvolto 51.551 rispondenti in tutta l'area euro, con dati raccolti in due round: dal 29 settembre al 27 novembre 2025 e dal 16 marzo al 15 maggio 2026.",
+      "spokenText": "La Banca Centrale Europea ha pubblicato l'ultimo studio SPACE sulle abitudini di pagamento dei consumatori nell'area euro. Per la prima volta da quando i dati sono raccolti in modo comparabile, nel 2016, i pagamenti con carta fisica nei negozi hanno superato il contante: il 45% delle transazioni contro il 44%. I pagamenti mobili sono saliti al 9%, dal 6% del 2024. Nonostante il cambiamento delle pratiche, le preferenze dei consumatori restano stabili. Il 54% preferisce carte o altri metodi senza contanti, il 22% preferisce il contante e il 23% non ha una preferenza chiara. Una larga maggioranza ritiene importante mantenere la scelta: l'82% valuta l'opzione di pagare digitalmente, mentre il 62% apprezza quella di pagare in contanti. Solo il 3% dichiara di non usare mai il contante. L'accesso al contante resta facile per la maggior parte, anche se la quota è scesa all'85% dall'87% del 2024. Tra chi ha tentato un prelievo allo sportello automatico nell'anno precedente, il 19% ha riscontrato difficoltà. Inoltre, in tutti i paesi dell'area euro, almeno il 12% dei consumatori ha subito almeno un rifiuto di pagamenti con carta o mobile nel mese precedente l'indagine. Piero Cipollone, membro del Comitato esecutivo della BCE, ha dichiarato che i mezzi di pagamento digitali stanno diventando più importanti nelle transazioni quotidiane, ma che la scelta è ciò che conta davvero per gli europei. La BCE continuerà a garantire ai cittadini la libertà di scegliere come pagare, salvaguardando il contante e preparandosi alla possibile emissione dell'equivalente digitale, l'euro digitale. L'indagine ha coinvolto 51.551 rispondenti in tutta l'area euro, con dati raccolti in due round: dal 29 settembre al 27 novembre 2025 e dal 16 marzo al 15 maggio 2026.",
       "category": "attualita",
       "editorialGroup": "finanza",
-      "publishedAt": "2026-11-24T07:45:00.000Z",
+      "publishedAt": "2026-11-25T10:00:00.000Z",
       "tags": [
         "attualita"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 80,
+      "estimatedSeconds": 112,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/borse-future-positivi-maxi-rimbalzo-nasdaq-greggio-calo-AJBRZxQC"
+        "name": "Banca Centrale Europea",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html"
       },
       "analysis": {
-        "mainFact": "L’effetto positivo del ritorno del fondatore di Nvidia è durato meno di 24 ore. I mercati temono che le società dell’intelligenza artificiale non generino ritorni sufficienti per gli investimenti effettuati, mentre si profilano nuovi dazi statunitensi contro Cina e Unione europea.",
+        "mainFact": "Secondo lo studio SPACE della BCE, nel 2026 le carte fisiche hanno raggiunto il 45% dei pagamenti nei punti vendita, superando per la prima volta il contante al 44%. I consumatori chiedono comunque di mantenere la scelta tra contante e pagamenti digitali.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "L’effetto positivo del ritorno del fondatore di Nvidia è durato meno di 24 ore. I mercati temono che le società dell’intelligenza artificiale non generino ritorni sufficienti per gli investimenti effettuati, mentre si profilano nuovi dazi statunitensi contro Cina e Unione europea."
+          "Secondo lo studio SPACE della BCE, nel 2026 le carte fisiche hanno raggiunto il 45% dei pagamenti nei punti vendita, superando per la prima volta il contante al 44%. I consumatori chiedono comunque di mantenere la scelta tra contante e pagamenti digitali."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "24"
+          "2026",
+          "45",
+          "44"
         ]
       }
     }
