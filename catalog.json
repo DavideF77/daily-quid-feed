@@ -1,34 +1,98 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-25-1864e0403687",
-  "generatedAt": "2026-11-25T16:41:21.244Z",
+  "catalogId": "daily-quid-2026-11-26-ad0218ecd6f3",
+  "generatedAt": "2026-11-26T16:15:30.139Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-210af4a5b8fdf274",
-      "title": "Mindfulness a scuola: nessun vantaggio per gli studenti dopo due anni, ma benefici per i docenti",
-      "summary": "Il follow-up biennale dello studio MYRIAD mostra che il training di mindfulness universale non supera l'insegnamento abituale per la salute mentale degli adolescenti, ma mantiene effetti positivi sul benessere degli insegnanti e sul clima scolastico.",
-      "content": "Secondo il follow-up a due anni dello studio MYRIAD, pubblicato su BMJ Mental Health, il training universale di mindfulness nelle scuole non offre vantaggi significativi rispetto all'insegnamento abituale per la salute mentale e il benessere degli adolescenti. I ricercatori, che hanno confrontato il programma con la prassi scolastica ordinaria in un trial randomizzato a grappoli, riferiscono che per gli studenti non si rilevano superiorità documentate nel lungo termine. Diversa la situazione per il personale docente: i benefici segnalati dagli insegnanti sul proprio benessere e sul clima scolastico si mantengono dopo ventiquattro mesi. Gli autori sottolineano che, sebbene l'approccio universale resti promettente in termini di potenziale costo-efficacia, i dati attuali non dimostrano un impatto superiore per gli alunni. Le conclusioni invitano a valutare con cautela l'adozione su larga scala di questi interventi, tenendo conto degli effetti differenziati su studenti e insegnanti e delle incertezze residue sui meccanismi di azione.",
-      "spokenText": "Secondo il follow-up a due anni dello studio MYRIAD, pubblicato su BMJ Mental Health, il training universale di mindfulness nelle scuole non offre vantaggi significativi rispetto all'insegnamento abituale per la salute mentale e il benessere degli adolescenti. I ricercatori, che hanno confrontato il programma con la prassi scolastica ordinaria in un trial randomizzato a grappoli, riferiscono che per gli studenti non si rilevano superiorità documentate nel lungo termine. Diversa la situazione per il personale docente: i benefici segnalati dagli insegnanti sul proprio benessere e sul clima scolastico si mantengono dopo ventiquattro mesi. Gli autori sottolineano che, sebbene l'approccio universale resti promettente in termini di potenziale costo-efficacia, i dati attuali non dimostrano un impatto superiore per gli alunni. Le conclusioni invitano a valutare con cautela l'adozione su larga scala di questi interventi, tenendo conto degli effetti differenziati su studenti e insegnanti e delle incertezze residue sui meccanismi di azione.",
+      "id": "story-bb678fcda46b26c9",
+      "title": "Trichotillomania e autolesioni: associazione documentata su scala nazionale",
+      "summary": "Uno studio nazionale longitudinale ha rilevato un'associazione significativa tra diagnosi ICD-10 di tricotillomania e eventi di autolesione registrati, suggerendo la necessità di valutare entrambi i disturbi in psicoterapia.",
+      "content": "Uno studio pubblicato su BMJ Mental Health ha esaminato per la prima volta su scala nazionale il legame tra disturbo da strappamento dei capelli, noto anche come tricotillomania, e autolesioni. La ricerca si è basata su dati nazionali, longitudinali e raccolti in modo oggettivo, e ha rilevato un'associazione significativa tra le diagnosi ICD-10 di tricotillomania e gli eventi di autolesione registrati. Gli autori sottolineano che i due disturbi condividono caratteristiche cliniche, ma fino ad ora l'estensione della loro co-occorrenza era sconosciuta. I risultati indicano l'importanza di indagare i fattori eziologici condivisi per comprendere perché alcune persone mettano in atto entrambi i comportamenti. Per chi esercita la psicoterapia, la conseguenza documentata è la necessità di valutare la presenza di autolesioni nei pazienti con tricotillomania e viceversa, considerando che le stime di popolazione collocano il disturbo tra l'1% e una percentuale superiore non specificata nel testo. Lo studio non fornisce previsioni sull'evoluzione clinica né indicazioni terapeutiche dirette, e i dati osservazionali non permettono di stabilire un nesso di causalità.",
+      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha esaminato per la prima volta su scala nazionale il legame tra disturbo da strappamento dei capelli, noto anche come tricotillomania, e autolesioni. La ricerca si è basata su dati nazionali, longitudinali e raccolti in modo oggettivo, e ha rilevato un'associazione significativa tra le diagnosi ICD-10 di tricotillomania e gli eventi di autolesione registrati. Gli autori sottolineano che i due disturbi condividono caratteristiche cliniche, ma fino ad ora l'estensione della loro co-occorrenza era sconosciuta. I risultati indicano l'importanza di indagare i fattori eziologici condivisi per comprendere perché alcune persone mettano in atto entrambi i comportamenti. Per chi esercita la psicoterapia, la conseguenza documentata è la necessità di valutare la presenza di autolesioni nei pazienti con tricotillomania e viceversa, considerando che le stime di popolazione collocano il disturbo tra l'1% e una percentuale superiore non specificata nel testo. Lo studio non fornisce previsioni sull'evoluzione clinica né indicazioni terapeutiche dirette, e i dati osservazionali non permettono di stabilire un nesso di causalità.",
       "category": "altro",
       "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-02T16:12:45.000Z",
+      "publishedAt": "2026-11-26T11:40:47.000Z",
       "tags": [
         "altro"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 67,
+      "source": {
+        "name": "BMJ Mental Health",
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302712?rss=1"
+      },
+      "analysis": {
+        "mainFact": "Uno studio nazionale longitudinale ha rilevato un'associazione significativa tra diagnosi ICD-10 di tricotillomania e eventi di autolesione registrati, suggerendo la necessità di valutare entrambi i disturbi in psicoterapia.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Uno studio nazionale longitudinale ha rilevato un'associazione significativa tra diagnosi ICD-10 di tricotillomania e eventi di autolesione registrati, suggerendo la necessità di valutare entrambi i disturbi in psicoterapia."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "story-5229db321b856f9f",
+      "title": "Co-design per ridurre le disparità etniche nei ricoveri coatti",
+      "summary": "Uno studio su BMJ Mental Health presenta cinque raccomandazioni politiche elaborate con pazienti, famiglie e operatori per ridurre le disuguaglianze etniche nei trattamenti sanitari obbligatori, in vista della revisione del Mental Health Act del 2008.",
+      "content": "Uno studio pubblicato su BMJ Mental Health ha sviluppato cinque raccomandazioni politiche per ridurre le disuguaglianze etniche nei ricoveri e nei trattamenti sanitari obbligatori. Il lavoro è stato condotto per informare la revisione del Mental Health Act del 2008 e ha coinvolto un gruppo eterogeneo di stakeholder del sistema sanitario, insieme a pazienti, famiglie e comunità. Gli autori sottolineano che le voci delle persone provenienti da contesti razzializzati sono spesso assenti dai dibattiti politici e di ricerca. Per colmare questo gap, sono stati utilizzati metodi creativi per rappresentare le prospettive di esperienza vissuta durante gli incontri di co-progettazione, facilitando il coinvolgimento dei partecipanti. Le raccomandazioni mirano a migliorare la qualità delle cure e a ridurre i ricoveri coatti, affrontando un fenomeno che colpisce in modo sproporzionato le persone di origine razzializzata. Non sono ancora disponibili stime sull'impatto numerico delle misure, né dati sui tempi di attuazione delle proposte.",
+      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha sviluppato cinque raccomandazioni politiche per ridurre le disuguaglianze etniche nei ricoveri e nei trattamenti sanitari obbligatori. Il lavoro è stato condotto per informare la revisione del Mental Health Act del 2008 e ha coinvolto un gruppo eterogeneo di stakeholder del sistema sanitario, insieme a pazienti, famiglie e comunità. Gli autori sottolineano che le voci delle persone provenienti da contesti razzializzati sono spesso assenti dai dibattiti politici e di ricerca. Per colmare questo gap, sono stati utilizzati metodi creativi per rappresentare le prospettive di esperienza vissuta durante gli incontri di co-progettazione, facilitando il coinvolgimento dei partecipanti. Le raccomandazioni mirano a migliorare la qualità delle cure e a ridurre i ricoveri coatti, affrontando un fenomeno che colpisce in modo sproporzionato le persone di origine razzializzata. Non sono ancora disponibili stime sull'impatto numerico delle misure, né dati sui tempi di attuazione delle proposte.",
+      "category": "cultura",
+      "editorialGroup": "psicoterapia",
+      "publishedAt": "2026-11-04T16:35:48.000Z",
+      "tags": [
+        "cultura"
       ],
       "importance": 52,
       "mustInclude": false,
       "estimatedSeconds": 60,
       "source": {
         "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e303016?rss=1"
+        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302715?rss=1"
       },
       "analysis": {
-        "mainFact": "Il follow-up biennale dello studio MYRIAD mostra che il training di mindfulness universale non supera l'insegnamento abituale per la salute mentale degli adolescenti, ma mantiene effetti positivi sul benessere degli insegnanti e sul clima scolastico.",
+        "mainFact": "Uno studio su BMJ Mental Health presenta cinque raccomandazioni politiche elaborate con pazienti, famiglie e operatori per ridurre le disuguaglianze etniche nei trattamenti sanitari obbligatori, in vista della revisione del Mental Health Act del 2008.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Il follow-up biennale dello studio MYRIAD mostra che il training di mindfulness universale non supera l'insegnamento abituale per la salute mentale degli adolescenti, ma mantiene effetti positivi sul benessere degli insegnanti e sul clima scolastico."
+          "Uno studio su BMJ Mental Health presenta cinque raccomandazioni politiche elaborate con pazienti, famiglie e operatori per ridurre le disuguaglianze etniche nei trattamenti sanitari obbligatori, in vista della revisione del Mental Health Act del 2008."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "2008"
+        ]
+      }
+    },
+    {
+      "id": "story-acc0a122d7e92b8a",
+      "title": "A Negrar apre Casa Pablito, alloggio per pazienti oncologici",
+      "summary": "All'Irccs Sacro Cuore Don Calabria di Negrar è stata inaugurata Casa Pablito, prima struttura della Paolo Rossi Foundation: offre un alloggio protetto dentro l'ospedale a pazienti oncologici fragili e ai loro familiari, per evitare spostamenti faticosi tra le sedute di chemioterapia e radioterapia.",
+      "content": "A Negrar, in provincia di Verona, è stata inaugurata Casa Pablito, la prima struttura realizzata dalla Paolo Rossi Foundation all'interno dell'Irccs Sacro Cuore Don Calabria. Si tratta di un alloggio protetto, a pochi passi dai reparti, destinato a pazienti oncologici fragili sottoposti a chemioterapia o radioterapia e ai loro familiari. L'obiettivo è evitare spostamenti faticosi tra una seduta e l'altra, offrendo un luogo dove restare vicino all'ospedale senza dover affrontare lunghi tragitti. La struttura dispone di tre stanze da due posti letto, collegate in caso di necessità con i reparti di riferimento, un'area verde e spazi comuni. L'iniziativa nasce dall'esperienza di Federica Cappelletti, vedova del calciatore Paolo Rossi, scomparso nel dicembre 2020 per un tumore al polmone. All'inaugurazione erano presenti il ministro della Salute Orazio Schillaci e il presidente della Regione Veneto Alberto Stefani. Schillaci ha definito l'umanizzazione delle cure una dimensione essenziale del Servizio sanitario nazionale. I medici della Radio-oncologia e dell'Oncologia medica dell'Irccs sottolineano che per molti pazienti il vero ostacolo non è solo la terapia, ma lo stress fisico ed emotivo legato agli spostamenti e al timore di trovarsi soli in caso di effetti collaterali. Casa Pablito è il primo traguardo di un progetto pilota nazionale che punta a estendersi in altre strutture ospedaliere italiane.",
+      "spokenText": "A Negrar, in provincia di Verona, è stata inaugurata Casa Pablito, la prima struttura realizzata dalla Paolo Rossi Foundation all'interno dell'Irccs Sacro Cuore Don Calabria. Si tratta di un alloggio protetto, a pochi passi dai reparti, destinato a pazienti oncologici fragili sottoposti a chemioterapia o radioterapia e ai loro familiari. L'obiettivo è evitare spostamenti faticosi tra una seduta e l'altra, offrendo un luogo dove restare vicino all'ospedale senza dover affrontare lunghi tragitti. La struttura dispone di tre stanze da due posti letto, collegate in caso di necessità con i reparti di riferimento, un'area verde e spazi comuni. L'iniziativa nasce dall'esperienza di Federica Cappelletti, vedova del calciatore Paolo Rossi, scomparso nel dicembre 2020 per un tumore al polmone. All'inaugurazione erano presenti il ministro della Salute Orazio Schillaci e il presidente della Regione Veneto Alberto Stefani. Schillaci ha definito l'umanizzazione delle cure una dimensione essenziale del Servizio sanitario nazionale. I medici della Radio-oncologia e dell'Oncologia medica dell'Irccs sottolineano che per molti pazienti il vero ostacolo non è solo la terapia, ma lo stress fisico ed emotivo legato agli spostamenti e al timore di trovarsi soli in caso di effetti collaterali. Casa Pablito è il primo traguardo di un progetto pilota nazionale che punta a estendersi in altre strutture ospedaliere italiane.",
+      "category": "salute",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-26T14:33:35.000Z",
+      "tags": [
+        "salute"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 84,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/26/casa-pablito-dopo-chemioterapia-una-vera-dimora-dentro-lospedale_af511855-8ebb-4858-bc1a-17647642d8bf.html"
+      },
+      "analysis": {
+        "mainFact": "All'Irccs Sacro Cuore Don Calabria di Negrar è stata inaugurata Casa Pablito, prima struttura della Paolo Rossi Foundation: offre un alloggio protetto dentro l'ospedale a pazienti oncologici fragili e ai loro familiari, per evitare spostamenti faticosi tra le sedute di chemioterapia e radioterapia.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "All'Irccs Sacro Cuore Don Calabria di Negrar è stata inaugurata Casa Pablito, prima struttura della Paolo Rossi Foundation: offre un alloggio protetto dentro l'ospedale a pazienti oncologici fragili e ai loro familiari, per evitare spostamenti faticosi tra le sedute di chemioterapia e radioterapia."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
@@ -36,234 +100,163 @@
       }
     },
     {
-      "id": "story-04a176024031da85",
-      "title": "Machine learning predice depressione perinatale e cure psichiatriche acute",
-      "summary": "Uno studio britannico su dati elettronici preconcezionali mostra una predizione moderata del rischio di depressione perinatale e di cure psichiatriche acute in donne con precedenti contatti con i servizi di salute mentale secondari.",
-      "content": "Uno studio pubblicato su BMJ Mental Health ha analizzato i dati elettronici raccolti prima del concepimento nel Regno Unito per prevedere, tra le donne con precedenti contatti con i servizi di salute mentale secondari, il rischio di depressione perinatale e la necessità di cure psichiatriche acute. I ricercatori riferiscono che le informazioni routinariamente raccolte permettono una previsione di accuratezza moderata sia nel periodo antenatale che postnatale. Tra i predittori più stabili emergono la gravità preesistente dei sintomi affettivi e dello spettro psicotico, i precedenti trattamenti psicotropici, la primiparità e lo svantaggio socioeconomico. Lo studio è tra i primi a utilizzare il machine learning per l'esito psichiatrico acuto, come il ricovero o il trattamento intensivo domiciliare. Gli autori precisano che l'accuratezza è moderata e che i risultati riguardono una popolazione già in carico ai servizi specialistici, quindi non sono direttamente estendibili alla popolazione generale.",
-      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha analizzato i dati elettronici raccolti prima del concepimento nel Regno Unito per prevedere, tra le donne con precedenti contatti con i servizi di salute mentale secondari, il rischio di depressione perinatale e la necessità di cure psichiatriche acute. I ricercatori riferiscono che le informazioni routinariamente raccolte permettono una previsione di accuratezza moderata sia nel periodo antenatale che postnatale. Tra i predittori più stabili emergono la gravità preesistente dei sintomi affettivi e dello spettro psicotico, i precedenti trattamenti psicotropici, la primiparità e lo svantaggio socioeconomico. Lo studio è tra i primi a utilizzare il machine learning per l'esito psichiatrico acuto, come il ricovero o il trattamento intensivo domiciliare. Gli autori precisano che l'accuratezza è moderata e che i risultati riguardono una popolazione già in carico ai servizi specialistici, quindi non sono direttamente estendibili alla popolazione generale.",
-      "category": "tecnologia",
-      "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-10T16:54:59.000Z",
-      "tags": [
-        "tecnologia"
-      ],
-      "importance": 55,
-      "mustInclude": false,
-      "estimatedSeconds": 58,
-      "source": {
-        "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302945?rss=1"
-      },
-      "analysis": {
-        "mainFact": "Uno studio britannico su dati elettronici preconcezionali mostra una predizione moderata del rischio di depressione perinatale e di cure psichiatriche acute in donne con precedenti contatti con i servizi di salute mentale secondari.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Uno studio britannico su dati elettronici preconcezionali mostra una predizione moderata del rischio di depressione perinatale e di cure psichiatriche acute in donne con precedenti contatti con i servizi di salute mentale secondari."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-396e22aa10ce8477",
-      "title": "Accessi in Pronto Soccorso per violenza sulle donne: +34,4% dal 2017",
-      "summary": "Nel 2025 oltre 19.600 donne hanno avuto accessi in Pronto Soccorso con indicazione di violenza, secondo i dati ministero della Salute-Istat, con un aumento del 34,4% rispetto al 2017 e un incremento del 9,5% dei ricoveri ospedalieri.",
-      "content": "Nel 2025 sono stati registrati 19.625 accessi di donne in Pronto Soccorso con indicazione di violenza. I dati, forniti dal ministero della Salute e dall'Istat, segnano un incremento del 34,4% rispetto ai 14.333 accessi del 2017. I ricoveri ospedalieri in regime ordinario sono stati 1.545, per un totale di 1.683 ricoveri esclusi quelli da parto, con un aumento del 9,5% sul 2017. L'analisi per età mostra tassi di accesso più elevati tra le donne di 18-34 e 35-49 anni, rispettivamente 12,2 e 10,3 accessi per 10.000 residenti nel 2025. Tra le minorenni il tasso è passato da 3,5 a 6,6 per 10.000 residenti, mentre nella fascia 50-64 anni è aumentato da 3,4 a 4,9. La quota di accessi con indicazione di violenza per 10.000 accessi totali è passata dal 14,1% del 2017 al 19% del 2025. Secondo il ministero della Salute, l'incremento può essere ricondotto a una pluralità di fattori, tra cui la maggiore capacità degli operatori sanitari di intercettare gli episodi grazie alla formazione ricevuta, la maggiore consapevolezza delle donne che dichiarano più frequentemente la reale motivazione dell'accesso e il possibile aumento della diffusione del fenomeno. Il ministro della Salute Orazio Schillaci ha dichiarato che i dati confermano che non ci si può rassegnare a un fenomeno odioso che continua a colpire migliaia di donne, e che il Servizio sanitario nazionale è al fianco delle donne che vivono situazioni di violenza.",
-      "spokenText": "Nel 2025 sono stati registrati 19.625 accessi di donne in Pronto Soccorso con indicazione di violenza. I dati, forniti dal ministero della Salute e dall'Istat, segnano un incremento del 34,4% rispetto ai 14.333 accessi del 2017. I ricoveri ospedalieri in regime ordinario sono stati 1.545, per un totale di 1.683 ricoveri esclusi quelli da parto, con un aumento del 9,5% sul 2017. L'analisi per età mostra tassi di accesso più elevati tra le donne di 18-34 e 35-49 anni, rispettivamente 12,2 e 10,3 accessi per 10.000 residenti nel 2025. Tra le minorenni il tasso è passato da 3,5 a 6,6 per 10.000 residenti, mentre nella fascia 50-64 anni è aumentato da 3,4 a 4,9. La quota di accessi con indicazione di violenza per 10.000 accessi totali è passata dal 14,1% del 2017 al 19% del 2025. Secondo il ministero della Salute, l'incremento può essere ricondotto a una pluralità di fattori, tra cui la maggiore capacità degli operatori sanitari di intercettare gli episodi grazie alla formazione ricevuta, la maggiore consapevolezza delle donne che dichiarano più frequentemente la reale motivazione dell'accesso e il possibile aumento della diffusione del fenomeno. Il ministro della Salute Orazio Schillaci ha dichiarato che i dati confermano che non ci si può rassegnare a un fenomeno odioso che continua a colpire migliaia di donne, e che il Servizio sanitario nazionale è al fianco delle donne che vivono situazioni di violenza.",
-      "category": "salute",
-      "editorialGroup": "salute",
-      "publishedAt": "2026-11-25T15:49:47.000Z",
-      "tags": [
-        "salute"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 93,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/25/violenza-alle-donne-nel-2025-oltre-19.600-accessi-in-pronto-soccorso_3241ede2-a1f4-4dc6-9711-aacc276e3af0.html"
-      },
-      "analysis": {
-        "mainFact": "Nel 2025 oltre 19.600 donne hanno avuto accessi in Pronto Soccorso con indicazione di violenza, secondo i dati ministero della Salute-Istat, con un aumento del 34,4% rispetto al 2017 e un incremento del 9,5% dei ricoveri ospedalieri.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Nel 2025 oltre 19.600 donne hanno avuto accessi in Pronto Soccorso con indicazione di violenza, secondo i dati ministero della Salute-Istat, con un aumento del 34,4% rispetto al 2017 e un incremento del 9,5% dei ricoveri ospedalieri."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "2025",
-          "19.600",
-          "34,4",
-          "2017",
-          "9,5"
-        ]
-      }
-    },
-    {
-      "id": "story-fc2475409e1f270a",
-      "title": "I nati dopo il 2000 rischiano di invecchiare prima dei genitori",
-      "summary": "Secondo la Società Italiana di Gerontologia e Geriatria, i giovani nati dopo il 2000 potrebbero mostrare segni di invecchiamento fino a 13 anni prima rispetto alle generazioni precedenti, a causa di obesità, diabete e disagio psichico. Il fenomeno emerge da uno studio britannico su oltre 86.500 persone e trova riscontri anche in Italia.",
-      "content": "I ragazzi nati dopo il 2000 rischiano di invecchiare prima e peggio dei propri genitori, con i segni dell'avanzamento dell'età che potrebbero palesarsi fino a tredici anni prima rispetto alla generazione precedente. L'allarme arriva dalla Società Italiana di Gerontologia e Geriatria, in occasione del suo congresso nazionale a Napoli. Gli esperti citano una revisione pubblicata su Population Studies da ricercatori di University College London, King's College London e University of Oxford, che hanno analizzato i dati di oltre ottantaseimila persone nate in Gran Bretagna tra il mille novecentoquarantasei e il duemiladue. Lo studio confronta baby boomer, generazione X, millennial e generazione Z, rilevando un arretramento della salute di generazione in generazione. Le cause principali sono ansia, depressione, stress psicoaffettivo, obesità e diabete, in crescita esponenziale negli ultimi anni. Secondo i geriatri, questi fattori possono aumentare il rischio per i giovani di trascorrere più anni in cattiva salute. In Italia, il disagio psichico emerge come uno dei fattori che compromettono direttamente la longevità in salute, con i nuovi accessi ai servizi di salute mentale tra i diciotto e ventiquattro anni che registrano la frequenza più alta, novantaquattro ogni diecimila abitanti. Il presidente della Sigg, Dario Leosco, spiega che il peggioramento degli indicatori di peso e salute mentale nelle fasce più giovani suggerisce un'insorgenza più precoce di cattiva salute. Il fenomeno è in gran parte prevenibile: intervenire su peso e salute mentale può cambiare la traiettoria di una generazione.",
-      "spokenText": "I ragazzi nati dopo il 2000 rischiano di invecchiare prima e peggio dei propri genitori, con i segni dell'avanzamento dell'età che potrebbero palesarsi fino a tredici anni prima rispetto alla generazione precedente. L'allarme arriva dalla Società Italiana di Gerontologia e Geriatria, in occasione del suo congresso nazionale a Napoli. Gli esperti citano una revisione pubblicata su Population Studies da ricercatori di University College London, King's College London e University of Oxford, che hanno analizzato i dati di oltre ottantaseimila persone nate in Gran Bretagna tra il mille novecentoquarantasei e il duemiladue. Lo studio confronta baby boomer, generazione X, millennial e generazione Z, rilevando un arretramento della salute di generazione in generazione. Le cause principali sono ansia, depressione, stress psicoaffettivo, obesità e diabete, in crescita esponenziale negli ultimi anni. Secondo i geriatri, questi fattori possono aumentare il rischio per i giovani di trascorrere più anni in cattiva salute. In Italia, il disagio psichico emerge come uno dei fattori che compromettono direttamente la longevità in salute, con i nuovi accessi ai servizi di salute mentale tra i diciotto e ventiquattro anni che registrano la frequenza più alta, novantaquattro ogni diecimila abitanti. Il presidente della Sigg, Dario Leosco, spiega che il peggioramento degli indicatori di peso e salute mentale nelle fasce più giovani suggerisce un'insorgenza più precoce di cattiva salute. Il fenomeno è in gran parte prevenibile: intervenire su peso e salute mentale può cambiare la traiettoria di una generazione.",
-      "category": "salute",
-      "editorialGroup": "salute",
-      "publishedAt": "2026-11-25T15:37:58.000Z",
-      "tags": [
-        "salute"
-      ],
-      "importance": 82,
-      "mustInclude": false,
-      "estimatedSeconds": 95,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/25/londa-di-giovani-vecchi-i-nati-dopo-il-2000-rischiano-di-invecchiare-prima_31dc7594-10dc-464e-8b34-d13c1edb8319.html"
-      },
-      "analysis": {
-        "mainFact": "Secondo la Società Italiana di Gerontologia e Geriatria, i giovani nati dopo il 2000 potrebbero mostrare segni di invecchiamento fino a 13 anni prima rispetto alle generazioni precedenti, a causa di obesità, diabete e disagio psichico. Il fenomeno emerge da uno studio britannico su oltre 86.500 persone e trova riscontri anche in Italia.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Secondo la Società Italiana di Gerontologia e Geriatria, i giovani nati dopo il 2000 potrebbero mostrare segni di invecchiamento fino a 13 anni prima rispetto alle generazioni precedenti, a causa di obesità, diabete e disagio psichico. Il fenomeno emerge da uno studio britannico su oltre 86.500 persone e trova riscontri anche in Italia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "2000",
-          "13",
-          "86.500"
-        ]
-      }
-    },
-    {
-      "id": "story-9b0a0d0c8345088c",
-      "title": "Transizione energetica avanti nonostante il fallimento della COP31",
-      "summary": "Il vertice COP31 si è concluso senza accordo dopo il rifiuto dell'Unione Europea e di oltre cento Paesi, ma l'elettrificazione continua: 80 nazioni puntano al 35% degli usi finali entro il 2035, mentre la crisi dello stretto di Hormuz accelera rinnovabili, nucleare e produzione domestica.",
-      "content": "La COP31, presieduta dalla Turchia, è fallita: l'Unione Europea ha rigettato il testo finale, insieme ad almeno un centinaio di altri Paesi, perché l'accordo non conteneva impegni concreti per ridurre i combustibili fossili e apriva alla cattura e stoccaggio della CO2, tecnologie che rischiano di giustificare nuovi progetti di estrazione di idrocarburi. Nonostante il fallimento di Antalya, la transizione energetica continua. Ottanta Paesi sui centonovantasei presenti hanno sottoscritto l'obiettivo di portare l'elettricità al trentacinque per cento degli usi energetici finali entro il duemilatrentacinque. A spingere il cambiamento è anche la crisi dello stretto di Hormuz, chiuso dopo l'inizio della guerra in Iran. Prima del conflitto, dallo stretto transitavano venti milioni di barili al giorno, circa il venti per cento del traffico petrolifero globale. Secondo il direttore esecutivo dell'Agenzia Internazionale dell'Energia, Fatih Birol, anche se il passaggio venisse ripristinato, entro cinque anni i volumi potrebbero scendere a dieci milioni di barili al giorno e a due milioni entro il duemilatrentacinque. Birol indica tre risposte già in atto: diversificazione delle fonti, produzione domestica ed elettrificazione. Crescono in particolare il solare in Asia e il nucleare, con novanta gigawatt già in costruzione, il livello più alto degli ultimi quarant'anni. Anche il carbone è aumentato temporaneamente, ma l'Agenzia non prevede una ripresa strutturale della fonte più emissiva.",
-      "spokenText": "La COP31, presieduta dalla Turchia, è fallita: l'Unione Europea ha rigettato il testo finale, insieme ad almeno un centinaio di altri Paesi, perché l'accordo non conteneva impegni concreti per ridurre i combustibili fossili e apriva alla cattura e stoccaggio della CO2, tecnologie che rischiano di giustificare nuovi progetti di estrazione di idrocarburi. Nonostante il fallimento di Antalya, la transizione energetica continua. Ottanta Paesi sui centonovantasei presenti hanno sottoscritto l'obiettivo di portare l'elettricità al trentacinque per cento degli usi energetici finali entro il duemilatrentacinque. A spingere il cambiamento è anche la crisi dello stretto di Hormuz, chiuso dopo l'inizio della guerra in Iran. Prima del conflitto, dallo stretto transitavano venti milioni di barili al giorno, circa il venti per cento del traffico petrolifero globale. Secondo il direttore esecutivo dell'Agenzia Internazionale dell'Energia, Fatih Birol, anche se il passaggio venisse ripristinato, entro cinque anni i volumi potrebbero scendere a dieci milioni di barili al giorno e a due milioni entro il duemilatrentacinque. Birol indica tre risposte già in atto: diversificazione delle fonti, produzione domestica ed elettrificazione. Crescono in particolare il solare in Asia e il nucleare, con novanta gigawatt già in costruzione, il livello più alto degli ultimi quarant'anni. Anche il carbone è aumentato temporaneamente, ma l'Agenzia non prevede una ripresa strutturale della fonte più emissiva.",
-      "category": "ambiente",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-23T14:54:37.000Z",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 55,
-      "mustInclude": false,
-      "estimatedSeconds": 86,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/transizione-energetica-fallimento-cop31-stretto-hormuz-iea"
-      },
-      "analysis": {
-        "mainFact": "Il vertice COP31 si è concluso senza accordo dopo il rifiuto dell'Unione Europea e di oltre cento Paesi, ma l'elettrificazione continua: 80 nazioni puntano al 35% degli usi finali entro il 2035, mentre la crisi dello stretto di Hormuz accelera rinnovabili, nucleare e produzione domestica.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Il vertice COP31 si è concluso senza accordo dopo il rifiuto dell'Unione Europea e di oltre cento Paesi, ma l'elettrificazione continua: 80 nazioni puntano al 35% degli usi finali entro il 2035, mentre la crisi dello stretto di Hormuz accelera rinnovabili, nucleare e produzione domestica."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "80",
-          "35",
-          "2035"
-        ]
-      }
-    },
-    {
-      "id": "story-092e95d0e93c858c",
-      "title": "Pechino guida la ricerca scientifica nelle città del 2025",
-      "summary": "Secondo il Nature Index 2026, Pechino resta prima nelle scienze naturali, mentre le città cinesi dominano la chimica e crescono nelle scienze della Terra e ambientali.",
-      "content": "Secondo il Nature Index 2026, Pechino si conferma al primo posto tra le città mondiali per ricerca di alta qualità nelle scienze naturali nel 2025. Nel periodo compreso tra il 2016 e il 2025, cinque città cinesi sono entrate nella top ten, mentre due città statunitensi precedentemente tra le prime dieci sono uscite dalla top venti. Nelle scienze biologiche, la classifica è la più geograficamente diversificata, con quattro città statunitensi, quattro cinesi e due europee tra le prime dieci. In chimica, le città cinesi occupano tutte le prime dieci posizioni; Pechino e Shanghai hanno mostrato la crescita maggiore tra le prime cinquanta, aumentando il proprio adjusted Share di quasi novecento punti ciascuna. Nelle scienze della Terra e ambientali, Pechino ha contribuito per il venticinque per cento dello Share cinese nel 2025, la percentuale più alta tra le prime cinque città delle aree delle scienze naturali e della salute. Sempre in questo ambito, Qingdao ha registrato la variazione percentuale più ampia dell'adjusted Share tra il 2016 e il 2025, pari al cinquecentoquarantacinque virgola cinque per cento, mentre Pechino ha ottenuto l'incremento assoluto maggiore, con settecentotré punti aggiuntivi. I dati si basano sullo Share dell'Indice Nature e riflettono tendenze di ricerca, non risultati clinici o applicazioni pratiche immediate.",
-      "spokenText": "Secondo il Nature Index 2026, Pechino si conferma al primo posto tra le città mondiali per ricerca di alta qualità nelle scienze naturali nel 2025. Nel periodo compreso tra il 2016 e il 2025, cinque città cinesi sono entrate nella top ten, mentre due città statunitensi precedentemente tra le prime dieci sono uscite dalla top venti. Nelle scienze biologiche, la classifica è la più geograficamente diversificata, con quattro città statunitensi, quattro cinesi e due europee tra le prime dieci. In chimica, le città cinesi occupano tutte le prime dieci posizioni; Pechino e Shanghai hanno mostrato la crescita maggiore tra le prime cinquanta, aumentando il proprio adjusted Share di quasi novecento punti ciascuna. Nelle scienze della Terra e ambientali, Pechino ha contribuito per il venticinque per cento dello Share cinese nel 2025, la percentuale più alta tra le prime cinque città delle aree delle scienze naturali e della salute. Sempre in questo ambito, Qingdao ha registrato la variazione percentuale più ampia dell'adjusted Share tra il 2016 e il 2025, pari al cinquecentoquarantacinque virgola cinque per cento, mentre Pechino ha ottenuto l'incremento assoluto maggiore, con settecentotré punti aggiuntivi. I dati si basano sullo Share dell'Indice Nature e riflettono tendenze di ricerca, non risultati clinici o applicazioni pratiche immediate.",
-      "category": "altro",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-25T00:00:00.000Z",
-      "tags": [
-        "altro"
-      ],
-      "importance": 55,
-      "mustInclude": false,
-      "estimatedSeconds": 83,
-      "source": {
-        "name": "Nature",
-        "url": "https://www.nature.com/articles/d41586-026-03468-3"
-      },
-      "analysis": {
-        "mainFact": "Secondo il Nature Index 2026, Pechino resta prima nelle scienze naturali, mentre le città cinesi dominano la chimica e crescono nelle scienze della Terra e ambientali.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Secondo il Nature Index 2026, Pechino resta prima nelle scienze naturali, mentre le città cinesi dominano la chimica e crescono nelle scienze della Terra e ambientali."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "2026"
-        ]
-      }
-    },
-    {
-      "id": "story-a2143a340c130b76",
-      "title": "Poundland in amministrazione, a rischio 11.000 posti di lavoro",
-      "summary": "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo il fallimento delle trattative per la cessione, mettendo a rischio 11.000 posti di lavoro a poche settimane dal Natale.",
-      "content": "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo che i proprietari non sono riusciti a trovare un acquirente per mantenere l'attività. La procedura è stata avviata mercoledì scorso, poche settimane prima di Natale, e mette a rischio circa 11.000 posti di lavoro. La società di consulenza Alix Partners è stata incaricata di supervisionare il processo e cercherà di vendere l'attività e i suoi asset, con l'ipotesi che l'azienda venga smembrata e alcuni negozi ceduti a concorrenti. Durante l'amministrazione, i punti vendita e i centri di distribuzione rimarranno aperti e continueranno a operare. Al centro della crisi c'è un prestito azionario ereditato da Gordon Brothers, che ha acquistato l'azienda per meno di una sterlina l'anno scorso. Di tale debito, Gordon Brothers vantava 22,5 milioni di sterline, mentre l'ex proprietario Pepco ne vantava 7,5 milioni. Sono state rifiutate diverse offerte per rilevare l'attività in funzione, tra cui quella della società irlandese Martin Property Group, disposta a saldare 5 milioni di sterline subito e il resto entro il 2030, e quella del gruppo londinese Xyra, che offriva 12,5 milioni di sterline ma non ha concluso in tempo. Gordon Brothers ha dichiarato di aver iniettato 85 milioni di sterline nell'azienda nell'ultimo anno per evitarne l'insolvenza. Il senior managing director per l'area EMEA della società, Mark Newton-Jones, è stato convocato da una commissione di parlamentari britannici per fornire garanzie che l'azienda non procederà alla liquidazione delle scorte di Poundland.",
-      "spokenText": "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo che i proprietari non sono riusciti a trovare un acquirente per mantenere l'attività. La procedura è stata avviata mercoledì scorso, poche settimane prima di Natale, e mette a rischio circa 11.000 posti di lavoro. La società di consulenza Alix Partners è stata incaricata di supervisionare il processo e cercherà di vendere l'attività e i suoi asset, con l'ipotesi che l'azienda venga smembrata e alcuni negozi ceduti a concorrenti. Durante l'amministrazione, i punti vendita e i centri di distribuzione rimarranno aperti e continueranno a operare. Al centro della crisi c'è un prestito azionario ereditato da Gordon Brothers, che ha acquistato l'azienda per meno di una sterlina l'anno scorso. Di tale debito, Gordon Brothers vantava 22,5 milioni di sterline, mentre l'ex proprietario Pepco ne vantava 7,5 milioni. Sono state rifiutate diverse offerte per rilevare l'attività in funzione, tra cui quella della società irlandese Martin Property Group, disposta a saldare 5 milioni di sterline subito e il resto entro il 2030, e quella del gruppo londinese Xyra, che offriva 12,5 milioni di sterline ma non ha concluso in tempo. Gordon Brothers ha dichiarato di aver iniettato 85 milioni di sterline nell'azienda nell'ultimo anno per evitarne l'insolvenza. Il senior managing director per l'area EMEA della società, Mark Newton-Jones, è stato convocato da una commissione di parlamentari britannici per fornire garanzie che l'azienda non procederà alla liquidazione delle scorte di Poundland.",
-      "category": "altro",
-      "editorialGroup": "finanza",
-      "publishedAt": "2026-11-25T16:24:30.000Z",
-      "tags": [
-        "altro"
-      ],
-      "importance": 55,
-      "mustInclude": false,
-      "estimatedSeconds": 96,
-      "source": {
-        "name": "BBC News - Business",
-        "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
-      },
-      "analysis": {
-        "mainFact": "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo il fallimento delle trattative per la cessione, mettendo a rischio 11.000 posti di lavoro a poche settimane dal Natale.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "La catena di discount britannica Poundland è entrata in amministrazione controllata dopo il fallimento delle trattative per la cessione, mettendo a rischio 11.000 posti di lavoro a poche settimane dal Natale."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "11.000"
-        ]
-      }
-    },
-    {
-      "id": "story-f0ed00c5f8402eb8",
-      "title": "Pagamenti con carta superano il contante nei negozi dell'area euro",
-      "summary": "Secondo lo studio SPACE della BCE, nel 2026 le carte fisiche hanno raggiunto il 45% dei pagamenti nei punti vendita, superando per la prima volta il contante al 44%. I consumatori chiedono comunque di mantenere la scelta tra contante e pagamenti digitali.",
-      "content": "La Banca Centrale Europea ha pubblicato l'ultimo studio SPACE sulle abitudini di pagamento dei consumatori nell'area euro. Per la prima volta da quando i dati sono raccolti in modo comparabile, nel 2016, i pagamenti con carta fisica nei negozi hanno superato il contante: il 45% delle transazioni contro il 44%. I pagamenti mobili sono saliti al 9%, dal 6% del 2024. Nonostante il cambiamento delle pratiche, le preferenze dei consumatori restano stabili. Il 54% preferisce carte o altri metodi senza contanti, il 22% preferisce il contante e il 23% non ha una preferenza chiara. Una larga maggioranza ritiene importante mantenere la scelta: l'82% valuta l'opzione di pagare digitalmente, mentre il 62% apprezza quella di pagare in contanti. Solo il 3% dichiara di non usare mai il contante. L'accesso al contante resta facile per la maggior parte, anche se la quota è scesa all'85% dall'87% del 2024. Tra chi ha tentato un prelievo allo sportello automatico nell'anno precedente, il 19% ha riscontrato difficoltà. Inoltre, in tutti i paesi dell'area euro, almeno il 12% dei consumatori ha subito almeno un rifiuto di pagamenti con carta o mobile nel mese precedente l'indagine. Piero Cipollone, membro del Comitato esecutivo della BCE, ha dichiarato che i mezzi di pagamento digitali stanno diventando più importanti nelle transazioni quotidiane, ma che la scelta è ciò che conta davvero per gli europei. La BCE continuerà a garantire ai cittadini la libertà di scegliere come pagare, salvaguardando il contante e preparandosi alla possibile emissione dell'equivalente digitale, l'euro digitale. L'indagine ha coinvolto 51.551 rispondenti in tutta l'area euro, con dati raccolti in due round: dal 29 settembre al 27 novembre 2025 e dal 16 marzo al 15 maggio 2026.",
-      "spokenText": "La Banca Centrale Europea ha pubblicato l'ultimo studio SPACE sulle abitudini di pagamento dei consumatori nell'area euro. Per la prima volta da quando i dati sono raccolti in modo comparabile, nel 2016, i pagamenti con carta fisica nei negozi hanno superato il contante: il 45% delle transazioni contro il 44%. I pagamenti mobili sono saliti al 9%, dal 6% del 2024. Nonostante il cambiamento delle pratiche, le preferenze dei consumatori restano stabili. Il 54% preferisce carte o altri metodi senza contanti, il 22% preferisce il contante e il 23% non ha una preferenza chiara. Una larga maggioranza ritiene importante mantenere la scelta: l'82% valuta l'opzione di pagare digitalmente, mentre il 62% apprezza quella di pagare in contanti. Solo il 3% dichiara di non usare mai il contante. L'accesso al contante resta facile per la maggior parte, anche se la quota è scesa all'85% dall'87% del 2024. Tra chi ha tentato un prelievo allo sportello automatico nell'anno precedente, il 19% ha riscontrato difficoltà. Inoltre, in tutti i paesi dell'area euro, almeno il 12% dei consumatori ha subito almeno un rifiuto di pagamenti con carta o mobile nel mese precedente l'indagine. Piero Cipollone, membro del Comitato esecutivo della BCE, ha dichiarato che i mezzi di pagamento digitali stanno diventando più importanti nelle transazioni quotidiane, ma che la scelta è ciò che conta davvero per gli europei. La BCE continuerà a garantire ai cittadini la libertà di scegliere come pagare, salvaguardando il contante e preparandosi alla possibile emissione dell'equivalente digitale, l'euro digitale. L'indagine ha coinvolto 51.551 rispondenti in tutta l'area euro, con dati raccolti in due round: dal 29 settembre al 27 novembre 2025 e dal 16 marzo al 15 maggio 2026.",
+      "id": "story-aef3cb0396cbfa78",
+      "title": "Fondo da 10 milioni per la ricerca sui tumori pediatrici",
+      "summary": "Fiagop e Aieop chiedono un fondo pubblico strutturale per la ricerca sul cancro pediatrico, finanziato riallocando risorse già stanziate; oltre 20mila adesioni alla petizione online e quattro emendamenti in manovra.",
+      "content": "Fiagop e Aieop chiedono al governo e al parlamento di istituire un fondo pubblico strutturale di dieci milioni di euro per la ricerca contro i tumori pediatrici. La richiesta arriva in vista dell'iter parlamentare per la prossima Legge di Bilancio, su cui sono già stati presentati quattro emendamenti da parte di maggioranza e opposizione. A sostegno della proposta, le associazioni hanno raccolto oltre ventimila adesioni alla petizione online intitolata \"Tutti devono diventare grandi\". Secondo i dati citati, ogni anno in Italia circa duemilacinquecento bambini e adolescenti ricevono una diagnosi di tumore, meno del due per cento di tutte le diagnosi oncologiche, motivo per cui il tema resta spesso fuori dall'agenda pubblica. Fiagop e Aieop sottolineano che nessuno dei diciannove studi nazionali attivi nella rete è attualmente finanziato con fondi pubblici e che l'industria investe poco a causa del numero esiguo di pazienti. Le conseguenze documentate riguardano l'accesso alla ricerca: meno del cinquanta per cento degli adolescenti tra i quindici e i diciannove anni è arruolato in uno studio scientifico, mentre quasi il cento per cento dei bambini sotto i quattordici anni vi partecipa. La diagnosi centralizzata, necessaria per protocolli affidabili e medicina di precisione, regge quasi esclusivamente su fondi associativi e volontariato. Le associazioni precisano che il fondo non comporterebbe costi aggiuntivi, ma si finanzierebbe riallocando l'uno virgola cinque per cento del Capitolo 3398 per la ricerca sanitaria e lo zero virgola cinque per cento del Fondo Farmaci Innovativi. Secondo Fiagop e Aieop, un fondo dedicato garantirebbe più possibilità di guarigione, meno effetti collaterali e una riduzione della cronicità a carico del Servizio sanitario nazionale.",
+      "spokenText": "Fiagop e Aieop chiedono al governo e al parlamento di istituire un fondo pubblico strutturale di dieci milioni di euro per la ricerca contro i tumori pediatrici. La richiesta arriva in vista dell'iter parlamentare per la prossima Legge di Bilancio, su cui sono già stati presentati quattro emendamenti da parte di maggioranza e opposizione. A sostegno della proposta, le associazioni hanno raccolto oltre ventimila adesioni alla petizione online intitolata \"Tutti devono diventare grandi\". Secondo i dati citati, ogni anno in Italia circa duemilacinquecento bambini e adolescenti ricevono una diagnosi di tumore, meno del due per cento di tutte le diagnosi oncologiche, motivo per cui il tema resta spesso fuori dall'agenda pubblica. Fiagop e Aieop sottolineano che nessuno dei diciannove studi nazionali attivi nella rete è attualmente finanziato con fondi pubblici e che l'industria investe poco a causa del numero esiguo di pazienti. Le conseguenze documentate riguardano l'accesso alla ricerca: meno del cinquanta per cento degli adolescenti tra i quindici e i diciannove anni è arruolato in uno studio scientifico, mentre quasi il cento per cento dei bambini sotto i quattordici anni vi partecipa. La diagnosi centralizzata, necessaria per protocolli affidabili e medicina di precisione, regge quasi esclusivamente su fondi associativi e volontariato. Le associazioni precisano che il fondo non comporterebbe costi aggiuntivi, ma si finanzierebbe riallocando l'uno virgola cinque per cento del Capitolo 3398 per la ricerca sanitaria e lo zero virgola cinque per cento del Fondo Farmaci Innovativi. Secondo Fiagop e Aieop, un fondo dedicato garantirebbe più possibilità di guarigione, meno effetti collaterali e una riduzione della cronicità a carico del Servizio sanitario nazionale.",
       "category": "attualita",
-      "editorialGroup": "finanza",
-      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-26T15:18:21.000Z",
       "tags": [
         "attualita"
       ],
       "importance": 85,
       "mustInclude": false,
-      "estimatedSeconds": 112,
+      "estimatedSeconds": 106,
       "source": {
-        "name": "Banca Centrale Europea",
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/26/associazioni-in-manovra-istituire-fondo-10-milioni-per-ricerca-tumori-pediatrici_c2bc364c-9075-49de-950f-9a5744ef6f89.html"
       },
       "analysis": {
-        "mainFact": "Secondo lo studio SPACE della BCE, nel 2026 le carte fisiche hanno raggiunto il 45% dei pagamenti nei punti vendita, superando per la prima volta il contante al 44%. I consumatori chiedono comunque di mantenere la scelta tra contante e pagamenti digitali.",
+        "mainFact": "Fiagop e Aieop chiedono un fondo pubblico strutturale per la ricerca sul cancro pediatrico, finanziato riallocando risorse già stanziate; oltre 20mila adesioni alla petizione online e quattro emendamenti in manovra.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Secondo lo studio SPACE della BCE, nel 2026 le carte fisiche hanno raggiunto il 45% dei pagamenti nei punti vendita, superando per la prima volta il contante al 44%. I consumatori chiedono comunque di mantenere la scelta tra contante e pagamenti digitali."
+          "Fiagop e Aieop chiedono un fondo pubblico strutturale per la ricerca sul cancro pediatrico, finanziato riallocando risorse già stanziate; oltre 20mila adesioni alla petizione online e quattro emendamenti in manovra."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-973e7f0282f0a8ae",
+      "title": "Batterie, elettricità serale a metà prezzo",
+      "summary": "Un'analisi di Ember, Energy Square e Cleantech for Italy stima che l'uso di batterie caricate con rinnovabili di giorno potrebbe ridurre il costo dell'elettricità serale da 210 euro al MWh a una forbice tra 106 e 122 euro al MWh, con un risparmio fino al 49%.",
+      "content": "In Italia quasi metà dell'elettricità proviene da centrali a gas, e a ottobre 2026 il prezzo serale medio era di 210 euro al MegaWattora. Secondo una nuova analisi di Ember, Energy Square e Cleantech for Italy, sostituire quelle centrali con l'energia accumulata dalle batterie durante il giorno, quando sole e vento producono in abbondanza, farebbe scendere il costo serale a una forbice tra 106 euro al MWh per le batterie caricate con il solare e 122 euro al MWh per quelle caricate con l'eolico. Il risparmio arriverebbe fino al 49 per cento. Beatrice Petrovich, analista di Ember, spiega che l'Italia ha sole in abbondanza, ma la sera dipende ancora dal gas, che costa caro. A fine 2025 il Paese deteneva già quasi un quinto della capacità di batterie operativa nell'Unione Europea, e la seconda asta del MACSE, il meccanismo di approvvigionamento della capacità di stoccaggio elettrico gestito da Terna, ha assegnato 16 gigawattora di accumulo di grande taglia. Gli esiti sono stati approvati da MASE e ARERA. L'analisi stima che, se il differenziale di prezzo tra le fasce orarie restasse ai livelli del 2026, i ricavi del time-shifting coprirebbero l'intero costo dell'asta senza oneri aggiuntivi in bolletta. Ad oggi sono installati 7 gigawattora, che il MACSE potrebbe portare a 38 entro il 2029, ma secondo Ember nel 2035 il fabbisogno di accumulo sarà compreso tra 76 e 96 gigawattora, a seconda della crescita delle rinnovabili. Michele Torsello di Energy Square osserva che accumuli, reti e nuova capacità di generazione devono svilupparsi insieme per abbassare i costi dell'intero sistema elettrico.",
+      "spokenText": "In Italia quasi metà dell'elettricità proviene da centrali a gas, e a ottobre 2026 il prezzo serale medio era di 210 euro al MegaWattora. Secondo una nuova analisi di Ember, Energy Square e Cleantech for Italy, sostituire quelle centrali con l'energia accumulata dalle batterie durante il giorno, quando sole e vento producono in abbondanza, farebbe scendere il costo serale a una forbice tra 106 euro al MWh per le batterie caricate con il solare e 122 euro al MWh per quelle caricate con l'eolico. Il risparmio arriverebbe fino al 49 per cento. Beatrice Petrovich, analista di Ember, spiega che l'Italia ha sole in abbondanza, ma la sera dipende ancora dal gas, che costa caro. A fine 2025 il Paese deteneva già quasi un quinto della capacità di batterie operativa nell'Unione Europea, e la seconda asta del MACSE, il meccanismo di approvvigionamento della capacità di stoccaggio elettrico gestito da Terna, ha assegnato 16 gigawattora di accumulo di grande taglia. Gli esiti sono stati approvati da MASE e ARERA. L'analisi stima che, se il differenziale di prezzo tra le fasce orarie restasse ai livelli del 2026, i ricavi del time-shifting coprirebbero l'intero costo dell'asta senza oneri aggiuntivi in bolletta. Ad oggi sono installati 7 gigawattora, che il MACSE potrebbe portare a 38 entro il 2029, ma secondo Ember nel 2035 il fabbisogno di accumulo sarà compreso tra 76 e 96 gigawattora, a seconda della crescita delle rinnovabili. Michele Torsello di Energy Square osserva che accumuli, reti e nuova capacità di generazione devono svilupparsi insieme per abbassare i costi dell'intero sistema elettrico.",
+      "category": "ambiente",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-25T14:00:22.000Z",
+      "tags": [
+        "ambiente"
+      ],
+      "importance": 75,
+      "mustInclude": false,
+      "estimatedSeconds": 104,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/batterie-accumulo-dimezzare-costo-elettricita-serale-gas-italia"
+      },
+      "analysis": {
+        "mainFact": "Un'analisi di Ember, Energy Square e Cleantech for Italy stima che l'uso di batterie caricate con rinnovabili di giorno potrebbe ridurre il costo dell'elettricità serale da 210 euro al MWh a una forbice tra 106 e 122 euro al MWh, con un risparmio fino al 49%.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Un'analisi di Ember, Energy Square e Cleantech for Italy stima che l'uso di batterie caricate con rinnovabili di giorno potrebbe ridurre il costo dell'elettricità serale da 210 euro al MWh a una forbice tra 106 e 122 euro al MWh, con un risparmio fino al 49%."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "2026",
-          "45",
-          "44"
+          "210",
+          "106",
+          "122",
+          "49"
+        ]
+      }
+    },
+    {
+      "id": "story-1bd2ba46f1e30904",
+      "title": "Il ritorno militare dei palloni aerostatici",
+      "summary": "Dopo cinquant'anni di assenza, i palloni aerostatici militari sono tornati in cielo per missioni di spionaggio e sorveglianza, con impieghi documentati in Medio Oriente, Ucraina e nello spazio aereo di Giappone, Canada, Stati Uniti e Taiwan.",
+      "content": "Dagli anni Venti del nuovo secolo, i palloni aerostatici militari sono ricomparsi in cielo dopo un'eclisse di cinquant'anni, secondo quanto ricostruito da Alessandro Pascolini per Il Bo Live. Il fatto più recente è la conferma, lo scorso tredici ottobre, del dispiegamento simultaneo di decine di palloni autonomi in Medio Oriente da parte dell'esercito degli Stati Uniti, a supporto di missioni operative sotto il Comando centrale. Gli Stati Uniti hanno in corso significativi programmi militari per sistemi più leggeri dell'aria stratosferici. Nella guerra in Ucraina si stanno sviluppando palloni per missioni sia difensive che offensive. Il contesto risale a una storia plurisecolare: il primo aerostato sopra un campo di battaglia fu osservato il ventisei giugno mille settecento novantaquattro a Fleurus, in Belgio, mentre il primo bombardamento aereo fu tentato il due luglio mille ottocento quarantanove dagli austriaci contro Venezia, senza successo. Le conseguenze documentate riguardano il ritorno di uno strumento di sorveglianza persistente ad alta quota in teatri militari attivi. Tra i casi citati, palloni di ricognizione cinesi furono osservati sul Giappone nel due mila diciannove, duemilaventi e duemilaventuno, e un pallone di sorveglianza cinese fu individuato il tre febbraio duemilaventitré dopo aver attraversato Canada e Stati Uniti. Fra dicembre duemilaventitré e gennaio duemilaventiquattro, prima delle elezioni presidenziali taiwanesi, molti palloni cinesi sorvolarono l'isola ad altezze fra sei e otto chilometri, passando direttamente su installazioni militari e basi aeree.",
+      "spokenText": "Dagli anni Venti del nuovo secolo, i palloni aerostatici militari sono ricomparsi in cielo dopo un'eclisse di cinquant'anni, secondo quanto ricostruito da Alessandro Pascolini per Il Bo Live. Il fatto più recente è la conferma, lo scorso tredici ottobre, del dispiegamento simultaneo di decine di palloni autonomi in Medio Oriente da parte dell'esercito degli Stati Uniti, a supporto di missioni operative sotto il Comando centrale. Gli Stati Uniti hanno in corso significativi programmi militari per sistemi più leggeri dell'aria stratosferici. Nella guerra in Ucraina si stanno sviluppando palloni per missioni sia difensive che offensive. Il contesto risale a una storia plurisecolare: il primo aerostato sopra un campo di battaglia fu osservato il ventisei giugno mille settecento novantaquattro a Fleurus, in Belgio, mentre il primo bombardamento aereo fu tentato il due luglio mille ottocento quarantanove dagli austriaci contro Venezia, senza successo. Le conseguenze documentate riguardano il ritorno di uno strumento di sorveglianza persistente ad alta quota in teatri militari attivi. Tra i casi citati, palloni di ricognizione cinesi furono osservati sul Giappone nel due mila diciannove, duemilaventi e duemilaventuno, e un pallone di sorveglianza cinese fu individuato il tre febbraio duemilaventitré dopo aver attraversato Canada e Stati Uniti. Fra dicembre duemilaventitré e gennaio duemilaventiquattro, prima delle elezioni presidenziali taiwanesi, molti palloni cinesi sorvolarono l'isola ad altezze fra sei e otto chilometri, passando direttamente su installazioni militari e basi aeree.",
+      "category": "mondo",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-20T13:32:41.000Z",
+      "tags": [
+        "mondo"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 92,
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it/it/news/societa/ritorno-palloni-aerostatici-militari-stratosfera-geopolitica"
+      },
+      "analysis": {
+        "mainFact": "Dopo cinquant'anni di assenza, i palloni aerostatici militari sono tornati in cielo per missioni di spionaggio e sorveglianza, con impieghi documentati in Medio Oriente, Ucraina e nello spazio aereo di Giappone, Canada, Stati Uniti e Taiwan.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Dopo cinquant'anni di assenza, i palloni aerostatici militari sono tornati in cielo per missioni di spionaggio e sorveglianza, con impieghi documentati in Medio Oriente, Ucraina e nello spazio aereo di Giappone, Canada, Stati Uniti e Taiwan."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-bcf2598d097aba4a",
+      "title": "Borse europee in rialzo, Milano guida il rimbalzo",
+      "summary": "Le Borse europee chiudono in positivo trainate dai tecnologici, con Milano migliore grazie a Stmicroelectronics, Technoprobe e Prysmian. UniCredit resta in focus dopo l'ok polacco per Commerzbank, mentre lo spread scende a 110 punti base.",
+      "content": "Le Borse europee hanno consolidato il rimbalzo in una giornata priva del riferimento di Wall Street, chiusa per il Giorno del Ringraziamento. A trainare gli indici è stato il settore tecnologico, con Milano che si è confermata la migliore del Vecchio Continente. Sul FTSE MIB, Stmicroelectronics, Technoprobe e Prysmian hanno registrato rialzi superiori al 5%, dopo aver faticato a fare prezzo in apertura. Bene anche Parigi, Francoforte, Madrid, Amsterdam e Londra. A Piazza Affari resta sotto i riflettori UniCredit, che ha ricevuto le approvazioni rimaste in sospeso dall'Autorità di vigilanza finanziaria polacca per il perfezionamento dell'offerta su Commerzbank. Sul fronte macro, il dollaro resta forte con il cambio euro/dollaro a 1,0971, mentre il petrolio è in lieve rialzo con il Brent a 94,67 dollari al barile. Lo spread tra Btp e Bund è sceso a 110 punti base, con il rendimento del decennale italiano al 4,35 per cento. I mercati restano tuttavia attenti alle incertezze legate alla politica monetaria della Federal Reserve e ai nuovi dazi annunciati dalla Casa Bianca.",
+      "spokenText": "Le Borse europee hanno consolidato il rimbalzo in una giornata priva del riferimento di Wall Street, chiusa per il Giorno del Ringraziamento. A trainare gli indici è stato il settore tecnologico, con Milano che si è confermata la migliore del Vecchio Continente. Sul FTSE MIB, Stmicroelectronics, Technoprobe e Prysmian hanno registrato rialzi superiori al 5%, dopo aver faticato a fare prezzo in apertura. Bene anche Parigi, Francoforte, Madrid, Amsterdam e Londra. A Piazza Affari resta sotto i riflettori UniCredit, che ha ricevuto le approvazioni rimaste in sospeso dall'Autorità di vigilanza finanziaria polacca per il perfezionamento dell'offerta su Commerzbank. Sul fronte macro, il dollaro resta forte con il cambio euro/dollaro a 1,0971, mentre il petrolio è in lieve rialzo con il Brent a 94,67 dollari al barile. Lo spread tra Btp e Bund è sceso a 110 punti base, con il rendimento del decennale italiano al 4,35 per cento. I mercati restano tuttavia attenti alle incertezze legate alla politica monetaria della Federal Reserve e ai nuovi dazi annunciati dalla Casa Bianca.",
+      "category": "attualita",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-26T06:27:00.000Z",
+      "tags": [
+        "attualita"
+      ],
+      "importance": 85,
+      "mustInclude": false,
+      "estimatedSeconds": 68,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/borse-asiatiche-positive-tokyo-guadagna-l-1percento-AJkFC4SC"
+      },
+      "analysis": {
+        "mainFact": "Le Borse europee chiudono in positivo trainate dai tecnologici, con Milano migliore grazie a Stmicroelectronics, Technoprobe e Prysmian. UniCredit resta in focus dopo l'ok polacco per Commerzbank, mentre lo spread scende a 110 punti base.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Le Borse europee chiudono in positivo trainate dai tecnologici, con Milano migliore grazie a Stmicroelectronics, Technoprobe e Prysmian. UniCredit resta in focus dopo l'ok polacco per Commerzbank, mentre lo spread scende a 110 punti base."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "110"
+        ]
+      }
+    },
+    {
+      "id": "story-ae30b9a2de24b94b",
+      "title": "Lego investe un miliardo di dollari per un nuovo stabilimento in Portogallo",
+      "summary": "Il gruppo danese costruirà un impianto a Estarreja, a sud di Porto, con avvio dei cantieri nel primo semestre del 2027 e produzione dal 2030, generando circa 1.000 nuovi posti di lavoro.",
+      "content": "Lego ha annunciato un investimento di un miliardo di dollari per un nuovo stabilimento a Estarreja, a sud di Porto, in Portogallo. La struttura, che sarà la più automatizzata e tecnologicamente avanzata del gruppo, vedrà l'avvio dei cantieri nella prima metà del 2027 e l'inizio della produzione nel 2030, generando circa mille nuovi posti di lavoro. L'impianto si occuperà di stampaggio, lavorazione e confezionamento, con l'obiettivo di rafforzare la presenza in Europa e di espandere la domanda in Africa e Medio Oriente. L'investimento si inserisce in un periodo di crescita per l'azienda danese: nel primo semestre del 2026 i ricavi sono aumentati del 21 per cento e le vendite ai consumatori del 22 per cento, trainati anche dal lancio di 314 nuovi set di giocattoli. Lego sta espandendo la propria rete produttiva a livello internazionale, con interventi in Cina, Ungheria, Vietnam e un nuovo stabilimento in Virginia, negli Stati Uniti, atteso per il 2027. Sul fronte della sostenibilità, il gruppo punta a coprire il cento per cento del fabbisogno energetico annuale con fonti rinnovabili, utilizzando pannelli solari e sistemi di accumulo a batteria. Il Ceo Niels B. Christiansen ha tuttavia avvertito che le tensioni internazionali e la guerra in Iran hanno aumentato la volatilità del prezzo del petrolio, con possibili ripercussioni sul costo della plastica utilizzata per i mattoncini, sebbene l'impatto sia stato finora contenuto grazie all'uso di materiali non derivati da combustibili fossili.",
+      "spokenText": "Lego ha annunciato un investimento di un miliardo di dollari per un nuovo stabilimento a Estarreja, a sud di Porto, in Portogallo. La struttura, che sarà la più automatizzata e tecnologicamente avanzata del gruppo, vedrà l'avvio dei cantieri nella prima metà del 2027 e l'inizio della produzione nel 2030, generando circa mille nuovi posti di lavoro. L'impianto si occuperà di stampaggio, lavorazione e confezionamento, con l'obiettivo di rafforzare la presenza in Europa e di espandere la domanda in Africa e Medio Oriente. L'investimento si inserisce in un periodo di crescita per l'azienda danese: nel primo semestre del 2026 i ricavi sono aumentati del 21 per cento e le vendite ai consumatori del 22 per cento, trainati anche dal lancio di 314 nuovi set di giocattoli. Lego sta espandendo la propria rete produttiva a livello internazionale, con interventi in Cina, Ungheria, Vietnam e un nuovo stabilimento in Virginia, negli Stati Uniti, atteso per il 2027. Sul fronte della sostenibilità, il gruppo punta a coprire il cento per cento del fabbisogno energetico annuale con fonti rinnovabili, utilizzando pannelli solari e sistemi di accumulo a batteria. Il Ceo Niels B. Christiansen ha tuttavia avvertito che le tensioni internazionali e la guerra in Iran hanno aumentato la volatilità del prezzo del petrolio, con possibili ripercussioni sul costo della plastica utilizzata per i mattoncini, sebbene l'impatto sia stato finora contenuto grazie all'uso di materiali non derivati da combustibili fossili.",
+      "category": "altro",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-23T16:50:00.000Z",
+      "tags": [
+        "altro"
+      ],
+      "importance": 52,
+      "mustInclude": false,
+      "estimatedSeconds": 94,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/lego-investe-1-miliardo-il-nuovo-sito-portogallo-AJ7cRNQC"
+      },
+      "analysis": {
+        "mainFact": "Il gruppo danese costruirà un impianto a Estarreja, a sud di Porto, con avvio dei cantieri nel primo semestre del 2027 e produzione dal 2030, generando circa 1.000 nuovi posti di lavoro.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Il gruppo danese costruirà un impianto a Estarreja, a sud di Porto, con avvio dei cantieri nel primo semestre del 2027 e produzione dal 2030, generando circa 1.000 nuovi posti di lavoro."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "2027",
+          "2030",
+          "1.000"
         ]
       }
     }
