@@ -1,262 +1,263 @@
 {
   "schemaVersion": 1,
-  "catalogId": "daily-quid-2026-11-26-ad0218ecd6f3",
-  "generatedAt": "2026-11-26T16:15:30.139Z",
+  "catalogId": "daily-quid-2026-11-27-7fe4212323a2",
+  "generatedAt": "2026-11-27T16:00:00.951Z",
   "edition": "manual",
   "language": "it-IT",
   "stories": [
     {
-      "id": "story-bb678fcda46b26c9",
-      "title": "Trichotillomania e autolesioni: associazione documentata su scala nazionale",
-      "summary": "Uno studio nazionale longitudinale ha rilevato un'associazione significativa tra diagnosi ICD-10 di tricotillomania e eventi di autolesione registrati, suggerendo la necessità di valutare entrambi i disturbi in psicoterapia.",
-      "content": "Uno studio pubblicato su BMJ Mental Health ha esaminato per la prima volta su scala nazionale il legame tra disturbo da strappamento dei capelli, noto anche come tricotillomania, e autolesioni. La ricerca si è basata su dati nazionali, longitudinali e raccolti in modo oggettivo, e ha rilevato un'associazione significativa tra le diagnosi ICD-10 di tricotillomania e gli eventi di autolesione registrati. Gli autori sottolineano che i due disturbi condividono caratteristiche cliniche, ma fino ad ora l'estensione della loro co-occorrenza era sconosciuta. I risultati indicano l'importanza di indagare i fattori eziologici condivisi per comprendere perché alcune persone mettano in atto entrambi i comportamenti. Per chi esercita la psicoterapia, la conseguenza documentata è la necessità di valutare la presenza di autolesioni nei pazienti con tricotillomania e viceversa, considerando che le stime di popolazione collocano il disturbo tra l'1% e una percentuale superiore non specificata nel testo. Lo studio non fornisce previsioni sull'evoluzione clinica né indicazioni terapeutiche dirette, e i dati osservazionali non permettono di stabilire un nesso di causalità.",
-      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha esaminato per la prima volta su scala nazionale il legame tra disturbo da strappamento dei capelli, noto anche come tricotillomania, e autolesioni. La ricerca si è basata su dati nazionali, longitudinali e raccolti in modo oggettivo, e ha rilevato un'associazione significativa tra le diagnosi ICD-10 di tricotillomania e gli eventi di autolesione registrati. Gli autori sottolineano che i due disturbi condividono caratteristiche cliniche, ma fino ad ora l'estensione della loro co-occorrenza era sconosciuta. I risultati indicano l'importanza di indagare i fattori eziologici condivisi per comprendere perché alcune persone mettano in atto entrambi i comportamenti. Per chi esercita la psicoterapia, la conseguenza documentata è la necessità di valutare la presenza di autolesioni nei pazienti con tricotillomania e viceversa, considerando che le stime di popolazione collocano il disturbo tra l'1% e una percentuale superiore non specificata nel testo. Lo studio non fornisce previsioni sull'evoluzione clinica né indicazioni terapeutiche dirette, e i dati osservazionali non permettono di stabilire un nesso di causalità.",
+      "id": "story-450ff27a83626445",
+      "title": "Distress psicologico e crisi epilettiche nei bambini sfollati",
+      "summary": "Un editoriale su BJPsych Open segnala l'aumento delle crisi epilettiche e del disagio psicologico nei bambini costretti alla fuga, evidenziando il ruolo dello stress da conflitto e la scarsa gestione di entrambe le condizioni.",
+      "content": "Un editoriale pubblicato su BJPsych Open da Asma Hallab e Arjune Sen, del Centre for Global Epilepsy dell'Università di Oxford, lancia l'allarme sui bambini costretti alla fuga da guerre e conflitti. Gli autori ricordano che i minori rappresentano circa il 40 per cento delle persone sfollate a livello globale, ma i dati su questo gruppo restano limitati. Disturbi delle convulsioni, in particolare l'epilessia, e disturbi della salute mentale sono condizioni fortemente stigmatizzate, spesso taciute e di conseguenza gestite in modo inadeguato. Il testo collega il disagio psicologico legato allo sfollamento forzato al rischio di crisi epilettiche. Uno studio sui nuovi esordi di crisi durante la guerra nei Balcani ha rilevato che l'incidenza dell'epilessia era quadruplicata nei bambini provenienti da aree colpite dal conflitto rispetto a chi non aveva vissuto tale esperienza. Ricerche biologiche indicano inoltre che i livelli di cortisolo nel capello possono essere significativamente più alti nei bambini con prima crisi epilettica rispetto a chi non ha epilessia, suggerendo un maggiore livello di stress nei tre mesi precedenti l'esordio. Gli autori sottolineano che le principali cause di epilessia pediatrica nei paesi a basso e medio reddito includono complicanze perinatali, malattie infettive del sistema nervoso centrale e traumi cranici, ma che il disagio psicologico associato al conflitto potrebbe rappresentare un fattore aggiuntivo. L'editoriale non fornisce stime di prevalenza aggiornate né indica soluzioni operative già validate, limitandosi a segnalare la necessità di maggiore consapevolezza e interventi mirati per questa popolazione vulnerabile.",
+      "spokenText": "Un editoriale pubblicato su BJPsych Open da Asma Hallab e Arjune Sen, del Centre for Global Epilepsy dell'Università di Oxford, lancia l'allarme sui bambini costretti alla fuga da guerre e conflitti. Gli autori ricordano che i minori rappresentano circa il 40 per cento delle persone sfollate a livello globale, ma i dati su questo gruppo restano limitati. Disturbi delle convulsioni, in particolare l'epilessia, e disturbi della salute mentale sono condizioni fortemente stigmatizzate, spesso taciute e di conseguenza gestite in modo inadeguato. Il testo collega il disagio psicologico legato allo sfollamento forzato al rischio di crisi epilettiche. Uno studio sui nuovi esordi di crisi durante la guerra nei Balcani ha rilevato che l'incidenza dell'epilessia era quadruplicata nei bambini provenienti da aree colpite dal conflitto rispetto a chi non aveva vissuto tale esperienza. Ricerche biologiche indicano inoltre che i livelli di cortisolo nel capello possono essere significativamente più alti nei bambini con prima crisi epilettica rispetto a chi non ha epilessia, suggerendo un maggiore livello di stress nei tre mesi precedenti l'esordio. Gli autori sottolineano che le principali cause di epilessia pediatrica nei paesi a basso e medio reddito includono complicanze perinatali, malattie infettive del sistema nervoso centrale e traumi cranici, ma che il disagio psicologico associato al conflitto potrebbe rappresentare un fattore aggiuntivo. L'editoriale non fornisce stime di prevalenza aggiornate né indica soluzioni operative già validate, limitandosi a segnalare la necessità di maggiore consapevolezza e interventi mirati per questa popolazione vulnerabile.",
       "category": "altro",
       "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-26T11:40:47.000Z",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
       "tags": [
         "altro"
       ],
-      "importance": 55,
-      "mustInclude": false,
-      "estimatedSeconds": 67,
-      "source": {
-        "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302712?rss=1"
-      },
-      "analysis": {
-        "mainFact": "Uno studio nazionale longitudinale ha rilevato un'associazione significativa tra diagnosi ICD-10 di tricotillomania e eventi di autolesione registrati, suggerendo la necessità di valutare entrambi i disturbi in psicoterapia.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Uno studio nazionale longitudinale ha rilevato un'associazione significativa tra diagnosi ICD-10 di tricotillomania e eventi di autolesione registrati, suggerendo la necessità di valutare entrambi i disturbi in psicoterapia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "10"
-        ]
-      }
-    },
-    {
-      "id": "story-5229db321b856f9f",
-      "title": "Co-design per ridurre le disparità etniche nei ricoveri coatti",
-      "summary": "Uno studio su BMJ Mental Health presenta cinque raccomandazioni politiche elaborate con pazienti, famiglie e operatori per ridurre le disuguaglianze etniche nei trattamenti sanitari obbligatori, in vista della revisione del Mental Health Act del 2008.",
-      "content": "Uno studio pubblicato su BMJ Mental Health ha sviluppato cinque raccomandazioni politiche per ridurre le disuguaglianze etniche nei ricoveri e nei trattamenti sanitari obbligatori. Il lavoro è stato condotto per informare la revisione del Mental Health Act del 2008 e ha coinvolto un gruppo eterogeneo di stakeholder del sistema sanitario, insieme a pazienti, famiglie e comunità. Gli autori sottolineano che le voci delle persone provenienti da contesti razzializzati sono spesso assenti dai dibattiti politici e di ricerca. Per colmare questo gap, sono stati utilizzati metodi creativi per rappresentare le prospettive di esperienza vissuta durante gli incontri di co-progettazione, facilitando il coinvolgimento dei partecipanti. Le raccomandazioni mirano a migliorare la qualità delle cure e a ridurre i ricoveri coatti, affrontando un fenomeno che colpisce in modo sproporzionato le persone di origine razzializzata. Non sono ancora disponibili stime sull'impatto numerico delle misure, né dati sui tempi di attuazione delle proposte.",
-      "spokenText": "Uno studio pubblicato su BMJ Mental Health ha sviluppato cinque raccomandazioni politiche per ridurre le disuguaglianze etniche nei ricoveri e nei trattamenti sanitari obbligatori. Il lavoro è stato condotto per informare la revisione del Mental Health Act del 2008 e ha coinvolto un gruppo eterogeneo di stakeholder del sistema sanitario, insieme a pazienti, famiglie e comunità. Gli autori sottolineano che le voci delle persone provenienti da contesti razzializzati sono spesso assenti dai dibattiti politici e di ricerca. Per colmare questo gap, sono stati utilizzati metodi creativi per rappresentare le prospettive di esperienza vissuta durante gli incontri di co-progettazione, facilitando il coinvolgimento dei partecipanti. Le raccomandazioni mirano a migliorare la qualità delle cure e a ridurre i ricoveri coatti, affrontando un fenomeno che colpisce in modo sproporzionato le persone di origine razzializzata. Non sono ancora disponibili stime sull'impatto numerico delle misure, né dati sui tempi di attuazione delle proposte.",
-      "category": "cultura",
-      "editorialGroup": "psicoterapia",
-      "publishedAt": "2026-11-04T16:35:48.000Z",
-      "tags": [
-        "cultura"
-      ],
       "importance": 52,
       "mustInclude": false,
-      "estimatedSeconds": 60,
+      "estimatedSeconds": 96,
       "source": {
-        "name": "BMJ Mental Health",
-        "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302715?rss=1"
+        "name": "BJPsych Open",
+        "url": "https://dx.doi.org/10.1192/bjo.2026.12145?rft_dat=source%3Ddrss"
       },
       "analysis": {
-        "mainFact": "Uno studio su BMJ Mental Health presenta cinque raccomandazioni politiche elaborate con pazienti, famiglie e operatori per ridurre le disuguaglianze etniche nei trattamenti sanitari obbligatori, in vista della revisione del Mental Health Act del 2008.",
+        "mainFact": "Un editoriale su BJPsych Open segnala l'aumento delle crisi epilettiche e del disagio psicologico nei bambini costretti alla fuga, evidenziando il ruolo dello stress da conflitto e la scarsa gestione di entrambe le condizioni.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Uno studio su BMJ Mental Health presenta cinque raccomandazioni politiche elaborate con pazienti, famiglie e operatori per ridurre le disuguaglianze etniche nei trattamenti sanitari obbligatori, in vista della revisione del Mental Health Act del 2008."
+          "Un editoriale su BJPsych Open segnala l'aumento delle crisi epilettiche e del disagio psicologico nei bambini costretti alla fuga, evidenziando il ruolo dello stress da conflitto e la scarsa gestione di entrambe le condizioni."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-cf3c5af253c8805a",
+      "title": "Salute mentale giovani in Asia centrale: servono più studi",
+      "summary": "Una revisione su BJPsych Open mappa 40 studi pubblicati tra il 2013 e il 2025 su bambini e giovani in Asia centrale, evidenziando ansia, disturbi affettivi, suicidio e uso di sostanze, ma segnala la scarsa qualità e rilevanza contestuale delle ricerche per guidare interventi psicoterapeutici.",
+      "content": "Una revisione pubblicata su BJPsych Open ha mappato la ricerca sulla salute mentale di bambini e giovani in Asia centrale. Gli autori, seguendo le linee guida del Joanna Briggs Institute, hanno esaminato cinque database e Google Scholar, selezionando quaranta studi peer-reviewed pubblicati tra il 2013 e il 2025, perlopiù condotti in Kazakistan. I partecipanti andavano dai tre ai diciannove anni, includevano studenti universitari, persone in diverse fasi della vita e adulti coinvolti nella cura dei giovani. I temi trattati spaziano da ansia e disturbi affettivi al suicidio, al benessere e alla qualità della vita, alla promozione della salute mentale e della resilienza, all’uso di sostanze e ad altre difficoltà psicologiche. La maggior parte delle ricerche ha usato disegni quantitativi trasversali, concentrandosi su prevalenza e fattori di rischio e protezione. Gli autori concludono che, sebbene il quadro copra popolazioni e temi rilevanti, servono studi più rigorosi e contestualmente pertinenti per informare politiche e interventi psicoterapeutici nella regione. I dati attuali non consentono ancora di trarre indicazioni operative consolidate per chi esercita la psicoterapia.",
+      "spokenText": "Una revisione pubblicata su BJPsych Open ha mappato la ricerca sulla salute mentale di bambini e giovani in Asia centrale. Gli autori, seguendo le linee guida del Joanna Briggs Institute, hanno esaminato cinque database e Google Scholar, selezionando quaranta studi peer-reviewed pubblicati tra il 2013 e il 2025, perlopiù condotti in Kazakistan. I partecipanti andavano dai tre ai diciannove anni, includevano studenti universitari, persone in diverse fasi della vita e adulti coinvolti nella cura dei giovani. I temi trattati spaziano da ansia e disturbi affettivi al suicidio, al benessere e alla qualità della vita, alla promozione della salute mentale e della resilienza, all’uso di sostanze e ad altre difficoltà psicologiche. La maggior parte delle ricerche ha usato disegni quantitativi trasversali, concentrandosi su prevalenza e fattori di rischio e protezione. Gli autori concludono che, sebbene il quadro copra popolazioni e temi rilevanti, servono studi più rigorosi e contestualmente pertinenti per informare politiche e interventi psicoterapeutici nella regione. I dati attuali non consentono ancora di trarre indicazioni operative consolidate per chi esercita la psicoterapia.",
+      "category": "tecnologia",
+      "editorialGroup": "psicoterapia",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "tags": [
+        "tecnologia"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 69,
+      "source": {
+        "name": "BJPsych Open",
+        "url": "https://dx.doi.org/10.1192/bjo.2026.12140?rft_dat=source%3Ddrss"
+      },
+      "analysis": {
+        "mainFact": "Una revisione su BJPsych Open mappa 40 studi pubblicati tra il 2013 e il 2025 su bambini e giovani in Asia centrale, evidenziando ansia, disturbi affettivi, suicidio e uso di sostanze, ma segnala la scarsa qualità e rilevanza contestuale delle ricerche per guidare interventi psicoterapeutici.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Una revisione su BJPsych Open mappa 40 studi pubblicati tra il 2013 e il 2025 su bambini e giovani in Asia centrale, evidenziando ansia, disturbi affettivi, suicidio e uso di sostanze, ma segnala la scarsa qualità e rilevanza contestuale delle ricerche per guidare interventi psicoterapeutici."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "2008"
+          "40",
+          "2013",
+          "2025"
         ]
       }
     },
     {
-      "id": "story-acc0a122d7e92b8a",
-      "title": "A Negrar apre Casa Pablito, alloggio per pazienti oncologici",
-      "summary": "All'Irccs Sacro Cuore Don Calabria di Negrar è stata inaugurata Casa Pablito, prima struttura della Paolo Rossi Foundation: offre un alloggio protetto dentro l'ospedale a pazienti oncologici fragili e ai loro familiari, per evitare spostamenti faticosi tra le sedute di chemioterapia e radioterapia.",
-      "content": "A Negrar, in provincia di Verona, è stata inaugurata Casa Pablito, la prima struttura realizzata dalla Paolo Rossi Foundation all'interno dell'Irccs Sacro Cuore Don Calabria. Si tratta di un alloggio protetto, a pochi passi dai reparti, destinato a pazienti oncologici fragili sottoposti a chemioterapia o radioterapia e ai loro familiari. L'obiettivo è evitare spostamenti faticosi tra una seduta e l'altra, offrendo un luogo dove restare vicino all'ospedale senza dover affrontare lunghi tragitti. La struttura dispone di tre stanze da due posti letto, collegate in caso di necessità con i reparti di riferimento, un'area verde e spazi comuni. L'iniziativa nasce dall'esperienza di Federica Cappelletti, vedova del calciatore Paolo Rossi, scomparso nel dicembre 2020 per un tumore al polmone. All'inaugurazione erano presenti il ministro della Salute Orazio Schillaci e il presidente della Regione Veneto Alberto Stefani. Schillaci ha definito l'umanizzazione delle cure una dimensione essenziale del Servizio sanitario nazionale. I medici della Radio-oncologia e dell'Oncologia medica dell'Irccs sottolineano che per molti pazienti il vero ostacolo non è solo la terapia, ma lo stress fisico ed emotivo legato agli spostamenti e al timore di trovarsi soli in caso di effetti collaterali. Casa Pablito è il primo traguardo di un progetto pilota nazionale che punta a estendersi in altre strutture ospedaliere italiane.",
-      "spokenText": "A Negrar, in provincia di Verona, è stata inaugurata Casa Pablito, la prima struttura realizzata dalla Paolo Rossi Foundation all'interno dell'Irccs Sacro Cuore Don Calabria. Si tratta di un alloggio protetto, a pochi passi dai reparti, destinato a pazienti oncologici fragili sottoposti a chemioterapia o radioterapia e ai loro familiari. L'obiettivo è evitare spostamenti faticosi tra una seduta e l'altra, offrendo un luogo dove restare vicino all'ospedale senza dover affrontare lunghi tragitti. La struttura dispone di tre stanze da due posti letto, collegate in caso di necessità con i reparti di riferimento, un'area verde e spazi comuni. L'iniziativa nasce dall'esperienza di Federica Cappelletti, vedova del calciatore Paolo Rossi, scomparso nel dicembre 2020 per un tumore al polmone. All'inaugurazione erano presenti il ministro della Salute Orazio Schillaci e il presidente della Regione Veneto Alberto Stefani. Schillaci ha definito l'umanizzazione delle cure una dimensione essenziale del Servizio sanitario nazionale. I medici della Radio-oncologia e dell'Oncologia medica dell'Irccs sottolineano che per molti pazienti il vero ostacolo non è solo la terapia, ma lo stress fisico ed emotivo legato agli spostamenti e al timore di trovarsi soli in caso di effetti collaterali. Casa Pablito è il primo traguardo di un progetto pilota nazionale che punta a estendersi in altre strutture ospedaliere italiane.",
+      "id": "story-772879d4d95a80ae",
+      "title": "Lazio: accesso gratuito al farmaco per tumore del pancreas metastatico",
+      "summary": "La Regione Lazio ha approvato un protocollo per garantire l'accesso gratuito e uniforme al Daraxonrasib, farmaco per il tumore del pancreas metastatico autorizzato in Europa ma non ancora disponibile nel Servizio Sanitario Nazionale italiano.",
+      "content": "La Giunta regionale del Lazio ha approvato una delibera per garantire l'accesso gratuito al medicinale Daraxonrasib, destinato al trattamento del tumore del pancreas metastatico. Il farmaco ha ricevuto l'autorizzazione alla commercializzazione dalla Commissione Europea, ma non è ancora disponibile in Italia attraverso il Servizio Sanitario Nazionale. Secondo quanto dichiarato dal presidente della Regione, Francesco Rocca, l'obiettivo è fornire risposte rapide, basate sulle evidenze scientifiche e uguali per tutti di fronte a una patologia aggressiva. Il provvedimento adotta il documento tecnico-scientifico della Commissione Regionale del Farmaco e prevede che, dopo la richiesta dell'oncologo, la verifica della corrispondenza del caso ai criteri clinici, molecolari e di sicurezza avvenga entro sette giorni. La prescrizione e la somministrazione saranno concentrate in centri oncologici selezionati, dotati di percorsi di supporto dermatologico e nutrizionale per gestire gli effetti collaterali della terapia orale continuativa. Parallelamente, l'Aifa ha comunicato di essere impegnata nella definizione di un percorso di accesso precoce al farmaco, sconsigliando acquisti a livello territoriale per evitare rischi per la negoziazione di un prezzo sostenibile.",
+      "spokenText": "La Giunta regionale del Lazio ha approvato una delibera per garantire l'accesso gratuito al medicinale Daraxonrasib, destinato al trattamento del tumore del pancreas metastatico. Il farmaco ha ricevuto l'autorizzazione alla commercializzazione dalla Commissione Europea, ma non è ancora disponibile in Italia attraverso il Servizio Sanitario Nazionale. Secondo quanto dichiarato dal presidente della Regione, Francesco Rocca, l'obiettivo è fornire risposte rapide, basate sulle evidenze scientifiche e uguali per tutti di fronte a una patologia aggressiva. Il provvedimento adotta il documento tecnico-scientifico della Commissione Regionale del Farmaco e prevede che, dopo la richiesta dell'oncologo, la verifica della corrispondenza del caso ai criteri clinici, molecolari e di sicurezza avvenga entro sette giorni. La prescrizione e la somministrazione saranno concentrate in centri oncologici selezionati, dotati di percorsi di supporto dermatologico e nutrizionale per gestire gli effetti collaterali della terapia orale continuativa. Parallelamente, l'Aifa ha comunicato di essere impegnata nella definizione di un percorso di accesso precoce al farmaco, sconsigliando acquisti a livello territoriale per evitare rischi per la negoziazione di un prezzo sostenibile.",
       "category": "salute",
       "editorialGroup": "salute",
-      "publishedAt": "2026-11-26T14:33:35.000Z",
+      "publishedAt": "2026-11-26T17:37:52.000Z",
       "tags": [
         "salute"
       ],
       "importance": 82,
       "mustInclude": false,
-      "estimatedSeconds": 84,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/26/casa-pablito-dopo-chemioterapia-una-vera-dimora-dentro-lospedale_af511855-8ebb-4858-bc1a-17647642d8bf.html"
-      },
-      "analysis": {
-        "mainFact": "All'Irccs Sacro Cuore Don Calabria di Negrar è stata inaugurata Casa Pablito, prima struttura della Paolo Rossi Foundation: offre un alloggio protetto dentro l'ospedale a pazienti oncologici fragili e ai loro familiari, per evitare spostamenti faticosi tra le sedute di chemioterapia e radioterapia.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "All'Irccs Sacro Cuore Don Calabria di Negrar è stata inaugurata Casa Pablito, prima struttura della Paolo Rossi Foundation: offre un alloggio protetto dentro l'ospedale a pazienti oncologici fragili e ai loro familiari, per evitare spostamenti faticosi tra le sedute di chemioterapia e radioterapia."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-aef3cb0396cbfa78",
-      "title": "Fondo da 10 milioni per la ricerca sui tumori pediatrici",
-      "summary": "Fiagop e Aieop chiedono un fondo pubblico strutturale per la ricerca sul cancro pediatrico, finanziato riallocando risorse già stanziate; oltre 20mila adesioni alla petizione online e quattro emendamenti in manovra.",
-      "content": "Fiagop e Aieop chiedono al governo e al parlamento di istituire un fondo pubblico strutturale di dieci milioni di euro per la ricerca contro i tumori pediatrici. La richiesta arriva in vista dell'iter parlamentare per la prossima Legge di Bilancio, su cui sono già stati presentati quattro emendamenti da parte di maggioranza e opposizione. A sostegno della proposta, le associazioni hanno raccolto oltre ventimila adesioni alla petizione online intitolata \"Tutti devono diventare grandi\". Secondo i dati citati, ogni anno in Italia circa duemilacinquecento bambini e adolescenti ricevono una diagnosi di tumore, meno del due per cento di tutte le diagnosi oncologiche, motivo per cui il tema resta spesso fuori dall'agenda pubblica. Fiagop e Aieop sottolineano che nessuno dei diciannove studi nazionali attivi nella rete è attualmente finanziato con fondi pubblici e che l'industria investe poco a causa del numero esiguo di pazienti. Le conseguenze documentate riguardano l'accesso alla ricerca: meno del cinquanta per cento degli adolescenti tra i quindici e i diciannove anni è arruolato in uno studio scientifico, mentre quasi il cento per cento dei bambini sotto i quattordici anni vi partecipa. La diagnosi centralizzata, necessaria per protocolli affidabili e medicina di precisione, regge quasi esclusivamente su fondi associativi e volontariato. Le associazioni precisano che il fondo non comporterebbe costi aggiuntivi, ma si finanzierebbe riallocando l'uno virgola cinque per cento del Capitolo 3398 per la ricerca sanitaria e lo zero virgola cinque per cento del Fondo Farmaci Innovativi. Secondo Fiagop e Aieop, un fondo dedicato garantirebbe più possibilità di guarigione, meno effetti collaterali e una riduzione della cronicità a carico del Servizio sanitario nazionale.",
-      "spokenText": "Fiagop e Aieop chiedono al governo e al parlamento di istituire un fondo pubblico strutturale di dieci milioni di euro per la ricerca contro i tumori pediatrici. La richiesta arriva in vista dell'iter parlamentare per la prossima Legge di Bilancio, su cui sono già stati presentati quattro emendamenti da parte di maggioranza e opposizione. A sostegno della proposta, le associazioni hanno raccolto oltre ventimila adesioni alla petizione online intitolata \"Tutti devono diventare grandi\". Secondo i dati citati, ogni anno in Italia circa duemilacinquecento bambini e adolescenti ricevono una diagnosi di tumore, meno del due per cento di tutte le diagnosi oncologiche, motivo per cui il tema resta spesso fuori dall'agenda pubblica. Fiagop e Aieop sottolineano che nessuno dei diciannove studi nazionali attivi nella rete è attualmente finanziato con fondi pubblici e che l'industria investe poco a causa del numero esiguo di pazienti. Le conseguenze documentate riguardano l'accesso alla ricerca: meno del cinquanta per cento degli adolescenti tra i quindici e i diciannove anni è arruolato in uno studio scientifico, mentre quasi il cento per cento dei bambini sotto i quattordici anni vi partecipa. La diagnosi centralizzata, necessaria per protocolli affidabili e medicina di precisione, regge quasi esclusivamente su fondi associativi e volontariato. Le associazioni precisano che il fondo non comporterebbe costi aggiuntivi, ma si finanzierebbe riallocando l'uno virgola cinque per cento del Capitolo 3398 per la ricerca sanitaria e lo zero virgola cinque per cento del Fondo Farmaci Innovativi. Secondo Fiagop e Aieop, un fondo dedicato garantirebbe più possibilità di guarigione, meno effetti collaterali e una riduzione della cronicità a carico del Servizio sanitario nazionale.",
-      "category": "attualita",
-      "editorialGroup": "salute",
-      "publishedAt": "2026-11-26T15:18:21.000Z",
-      "tags": [
-        "attualita"
-      ],
-      "importance": 85,
-      "mustInclude": false,
-      "estimatedSeconds": 106,
-      "source": {
-        "name": "ANSA Salute",
-        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/26/associazioni-in-manovra-istituire-fondo-10-milioni-per-ricerca-tumori-pediatrici_c2bc364c-9075-49de-950f-9a5744ef6f89.html"
-      },
-      "analysis": {
-        "mainFact": "Fiagop e Aieop chiedono un fondo pubblico strutturale per la ricerca sul cancro pediatrico, finanziato riallocando risorse già stanziate; oltre 20mila adesioni alla petizione online e quattro emendamenti in manovra.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Fiagop e Aieop chiedono un fondo pubblico strutturale per la ricerca sul cancro pediatrico, finanziato riallocando risorse già stanziate; oltre 20mila adesioni alla petizione online e quattro emendamenti in manovra."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-973e7f0282f0a8ae",
-      "title": "Batterie, elettricità serale a metà prezzo",
-      "summary": "Un'analisi di Ember, Energy Square e Cleantech for Italy stima che l'uso di batterie caricate con rinnovabili di giorno potrebbe ridurre il costo dell'elettricità serale da 210 euro al MWh a una forbice tra 106 e 122 euro al MWh, con un risparmio fino al 49%.",
-      "content": "In Italia quasi metà dell'elettricità proviene da centrali a gas, e a ottobre 2026 il prezzo serale medio era di 210 euro al MegaWattora. Secondo una nuova analisi di Ember, Energy Square e Cleantech for Italy, sostituire quelle centrali con l'energia accumulata dalle batterie durante il giorno, quando sole e vento producono in abbondanza, farebbe scendere il costo serale a una forbice tra 106 euro al MWh per le batterie caricate con il solare e 122 euro al MWh per quelle caricate con l'eolico. Il risparmio arriverebbe fino al 49 per cento. Beatrice Petrovich, analista di Ember, spiega che l'Italia ha sole in abbondanza, ma la sera dipende ancora dal gas, che costa caro. A fine 2025 il Paese deteneva già quasi un quinto della capacità di batterie operativa nell'Unione Europea, e la seconda asta del MACSE, il meccanismo di approvvigionamento della capacità di stoccaggio elettrico gestito da Terna, ha assegnato 16 gigawattora di accumulo di grande taglia. Gli esiti sono stati approvati da MASE e ARERA. L'analisi stima che, se il differenziale di prezzo tra le fasce orarie restasse ai livelli del 2026, i ricavi del time-shifting coprirebbero l'intero costo dell'asta senza oneri aggiuntivi in bolletta. Ad oggi sono installati 7 gigawattora, che il MACSE potrebbe portare a 38 entro il 2029, ma secondo Ember nel 2035 il fabbisogno di accumulo sarà compreso tra 76 e 96 gigawattora, a seconda della crescita delle rinnovabili. Michele Torsello di Energy Square osserva che accumuli, reti e nuova capacità di generazione devono svilupparsi insieme per abbassare i costi dell'intero sistema elettrico.",
-      "spokenText": "In Italia quasi metà dell'elettricità proviene da centrali a gas, e a ottobre 2026 il prezzo serale medio era di 210 euro al MegaWattora. Secondo una nuova analisi di Ember, Energy Square e Cleantech for Italy, sostituire quelle centrali con l'energia accumulata dalle batterie durante il giorno, quando sole e vento producono in abbondanza, farebbe scendere il costo serale a una forbice tra 106 euro al MWh per le batterie caricate con il solare e 122 euro al MWh per quelle caricate con l'eolico. Il risparmio arriverebbe fino al 49 per cento. Beatrice Petrovich, analista di Ember, spiega che l'Italia ha sole in abbondanza, ma la sera dipende ancora dal gas, che costa caro. A fine 2025 il Paese deteneva già quasi un quinto della capacità di batterie operativa nell'Unione Europea, e la seconda asta del MACSE, il meccanismo di approvvigionamento della capacità di stoccaggio elettrico gestito da Terna, ha assegnato 16 gigawattora di accumulo di grande taglia. Gli esiti sono stati approvati da MASE e ARERA. L'analisi stima che, se il differenziale di prezzo tra le fasce orarie restasse ai livelli del 2026, i ricavi del time-shifting coprirebbero l'intero costo dell'asta senza oneri aggiuntivi in bolletta. Ad oggi sono installati 7 gigawattora, che il MACSE potrebbe portare a 38 entro il 2029, ma secondo Ember nel 2035 il fabbisogno di accumulo sarà compreso tra 76 e 96 gigawattora, a seconda della crescita delle rinnovabili. Michele Torsello di Energy Square osserva che accumuli, reti e nuova capacità di generazione devono svilupparsi insieme per abbassare i costi dell'intero sistema elettrico.",
-      "category": "ambiente",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-25T14:00:22.000Z",
-      "tags": [
-        "ambiente"
-      ],
-      "importance": 75,
-      "mustInclude": false,
-      "estimatedSeconds": 104,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/batterie-accumulo-dimezzare-costo-elettricita-serale-gas-italia"
-      },
-      "analysis": {
-        "mainFact": "Un'analisi di Ember, Energy Square e Cleantech for Italy stima che l'uso di batterie caricate con rinnovabili di giorno potrebbe ridurre il costo dell'elettricità serale da 210 euro al MWh a una forbice tra 106 e 122 euro al MWh, con un risparmio fino al 49%.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Un'analisi di Ember, Energy Square e Cleantech for Italy stima che l'uso di batterie caricate con rinnovabili di giorno potrebbe ridurre il costo dell'elettricità serale da 210 euro al MWh a una forbice tra 106 e 122 euro al MWh, con un risparmio fino al 49%."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": [
-          "210",
-          "106",
-          "122",
-          "49"
-        ]
-      }
-    },
-    {
-      "id": "story-1bd2ba46f1e30904",
-      "title": "Il ritorno militare dei palloni aerostatici",
-      "summary": "Dopo cinquant'anni di assenza, i palloni aerostatici militari sono tornati in cielo per missioni di spionaggio e sorveglianza, con impieghi documentati in Medio Oriente, Ucraina e nello spazio aereo di Giappone, Canada, Stati Uniti e Taiwan.",
-      "content": "Dagli anni Venti del nuovo secolo, i palloni aerostatici militari sono ricomparsi in cielo dopo un'eclisse di cinquant'anni, secondo quanto ricostruito da Alessandro Pascolini per Il Bo Live. Il fatto più recente è la conferma, lo scorso tredici ottobre, del dispiegamento simultaneo di decine di palloni autonomi in Medio Oriente da parte dell'esercito degli Stati Uniti, a supporto di missioni operative sotto il Comando centrale. Gli Stati Uniti hanno in corso significativi programmi militari per sistemi più leggeri dell'aria stratosferici. Nella guerra in Ucraina si stanno sviluppando palloni per missioni sia difensive che offensive. Il contesto risale a una storia plurisecolare: il primo aerostato sopra un campo di battaglia fu osservato il ventisei giugno mille settecento novantaquattro a Fleurus, in Belgio, mentre il primo bombardamento aereo fu tentato il due luglio mille ottocento quarantanove dagli austriaci contro Venezia, senza successo. Le conseguenze documentate riguardano il ritorno di uno strumento di sorveglianza persistente ad alta quota in teatri militari attivi. Tra i casi citati, palloni di ricognizione cinesi furono osservati sul Giappone nel due mila diciannove, duemilaventi e duemilaventuno, e un pallone di sorveglianza cinese fu individuato il tre febbraio duemilaventitré dopo aver attraversato Canada e Stati Uniti. Fra dicembre duemilaventitré e gennaio duemilaventiquattro, prima delle elezioni presidenziali taiwanesi, molti palloni cinesi sorvolarono l'isola ad altezze fra sei e otto chilometri, passando direttamente su installazioni militari e basi aeree.",
-      "spokenText": "Dagli anni Venti del nuovo secolo, i palloni aerostatici militari sono ricomparsi in cielo dopo un'eclisse di cinquant'anni, secondo quanto ricostruito da Alessandro Pascolini per Il Bo Live. Il fatto più recente è la conferma, lo scorso tredici ottobre, del dispiegamento simultaneo di decine di palloni autonomi in Medio Oriente da parte dell'esercito degli Stati Uniti, a supporto di missioni operative sotto il Comando centrale. Gli Stati Uniti hanno in corso significativi programmi militari per sistemi più leggeri dell'aria stratosferici. Nella guerra in Ucraina si stanno sviluppando palloni per missioni sia difensive che offensive. Il contesto risale a una storia plurisecolare: il primo aerostato sopra un campo di battaglia fu osservato il ventisei giugno mille settecento novantaquattro a Fleurus, in Belgio, mentre il primo bombardamento aereo fu tentato il due luglio mille ottocento quarantanove dagli austriaci contro Venezia, senza successo. Le conseguenze documentate riguardano il ritorno di uno strumento di sorveglianza persistente ad alta quota in teatri militari attivi. Tra i casi citati, palloni di ricognizione cinesi furono osservati sul Giappone nel due mila diciannove, duemilaventi e duemilaventuno, e un pallone di sorveglianza cinese fu individuato il tre febbraio duemilaventitré dopo aver attraversato Canada e Stati Uniti. Fra dicembre duemilaventitré e gennaio duemilaventiquattro, prima delle elezioni presidenziali taiwanesi, molti palloni cinesi sorvolarono l'isola ad altezze fra sei e otto chilometri, passando direttamente su installazioni militari e basi aeree.",
-      "category": "mondo",
-      "editorialGroup": "scienza",
-      "publishedAt": "2026-11-20T13:32:41.000Z",
-      "tags": [
-        "mondo"
-      ],
-      "importance": 55,
-      "mustInclude": false,
-      "estimatedSeconds": 92,
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it/it/news/societa/ritorno-palloni-aerostatici-militari-stratosfera-geopolitica"
-      },
-      "analysis": {
-        "mainFact": "Dopo cinquant'anni di assenza, i palloni aerostatici militari sono tornati in cielo per missioni di spionaggio e sorveglianza, con impieghi documentati in Medio Oriente, Ucraina e nello spazio aereo di Giappone, Canada, Stati Uniti e Taiwan.",
-        "whyItMatters": "",
-        "confirmedFacts": [
-          "Dopo cinquant'anni di assenza, i palloni aerostatici militari sono tornati in cielo per missioni di spionaggio e sorveglianza, con impieghi documentati in Medio Oriente, Ucraina e nello spazio aereo di Giappone, Canada, Stati Uniti e Taiwan."
-        ],
-        "uncertainties": [],
-        "peopleAndOrganizations": [],
-        "numbersAndDates": []
-      }
-    },
-    {
-      "id": "story-bcf2598d097aba4a",
-      "title": "Borse europee in rialzo, Milano guida il rimbalzo",
-      "summary": "Le Borse europee chiudono in positivo trainate dai tecnologici, con Milano migliore grazie a Stmicroelectronics, Technoprobe e Prysmian. UniCredit resta in focus dopo l'ok polacco per Commerzbank, mentre lo spread scende a 110 punti base.",
-      "content": "Le Borse europee hanno consolidato il rimbalzo in una giornata priva del riferimento di Wall Street, chiusa per il Giorno del Ringraziamento. A trainare gli indici è stato il settore tecnologico, con Milano che si è confermata la migliore del Vecchio Continente. Sul FTSE MIB, Stmicroelectronics, Technoprobe e Prysmian hanno registrato rialzi superiori al 5%, dopo aver faticato a fare prezzo in apertura. Bene anche Parigi, Francoforte, Madrid, Amsterdam e Londra. A Piazza Affari resta sotto i riflettori UniCredit, che ha ricevuto le approvazioni rimaste in sospeso dall'Autorità di vigilanza finanziaria polacca per il perfezionamento dell'offerta su Commerzbank. Sul fronte macro, il dollaro resta forte con il cambio euro/dollaro a 1,0971, mentre il petrolio è in lieve rialzo con il Brent a 94,67 dollari al barile. Lo spread tra Btp e Bund è sceso a 110 punti base, con il rendimento del decennale italiano al 4,35 per cento. I mercati restano tuttavia attenti alle incertezze legate alla politica monetaria della Federal Reserve e ai nuovi dazi annunciati dalla Casa Bianca.",
-      "spokenText": "Le Borse europee hanno consolidato il rimbalzo in una giornata priva del riferimento di Wall Street, chiusa per il Giorno del Ringraziamento. A trainare gli indici è stato il settore tecnologico, con Milano che si è confermata la migliore del Vecchio Continente. Sul FTSE MIB, Stmicroelectronics, Technoprobe e Prysmian hanno registrato rialzi superiori al 5%, dopo aver faticato a fare prezzo in apertura. Bene anche Parigi, Francoforte, Madrid, Amsterdam e Londra. A Piazza Affari resta sotto i riflettori UniCredit, che ha ricevuto le approvazioni rimaste in sospeso dall'Autorità di vigilanza finanziaria polacca per il perfezionamento dell'offerta su Commerzbank. Sul fronte macro, il dollaro resta forte con il cambio euro/dollaro a 1,0971, mentre il petrolio è in lieve rialzo con il Brent a 94,67 dollari al barile. Lo spread tra Btp e Bund è sceso a 110 punti base, con il rendimento del decennale italiano al 4,35 per cento. I mercati restano tuttavia attenti alle incertezze legate alla politica monetaria della Federal Reserve e ai nuovi dazi annunciati dalla Casa Bianca.",
-      "category": "attualita",
-      "editorialGroup": "finanza",
-      "publishedAt": "2026-11-26T06:27:00.000Z",
-      "tags": [
-        "attualita"
-      ],
-      "importance": 85,
-      "mustInclude": false,
       "estimatedSeconds": 68,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/borse-asiatiche-positive-tokyo-guadagna-l-1percento-AJkFC4SC"
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/26/regione-lazio-via-libera-ad-accesso-gratuito-farmaco-contro-tumore-pancreas_5706c0bd-25c1-4b55-a909-ad260fce5bd5.html"
       },
       "analysis": {
-        "mainFact": "Le Borse europee chiudono in positivo trainate dai tecnologici, con Milano migliore grazie a Stmicroelectronics, Technoprobe e Prysmian. UniCredit resta in focus dopo l'ok polacco per Commerzbank, mentre lo spread scende a 110 punti base.",
+        "mainFact": "La Regione Lazio ha approvato un protocollo per garantire l'accesso gratuito e uniforme al Daraxonrasib, farmaco per il tumore del pancreas metastatico autorizzato in Europa ma non ancora disponibile nel Servizio Sanitario Nazionale italiano.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Le Borse europee chiudono in positivo trainate dai tecnologici, con Milano migliore grazie a Stmicroelectronics, Technoprobe e Prysmian. UniCredit resta in focus dopo l'ok polacco per Commerzbank, mentre lo spread scende a 110 punti base."
+          "La Regione Lazio ha approvato un protocollo per garantire l'accesso gratuito e uniforme al Daraxonrasib, farmaco per il tumore del pancreas metastatico autorizzato in Europa ma non ancora disponibile nel Servizio Sanitario Nazionale italiano."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-f85a8d37f87dd883",
+      "title": "Aids, al Bambino Gesù tre storie di cura e stigma",
+      "summary": "In vista della Giornata mondiale contro l'Aids, l'ospedale pediatrico racconta tre casi di giovani pazienti e lancia test gratuiti e counseling per gli adolescenti dal 30 novembre al 2 dicembre.",
+      "content": "In vista della Giornata mondiale per la lotta all'Aids, l'ospedale pediatrico Bambino Gesù ha raccontato tre storie di pazienti giovani, segnate dalla paura e dai pregiudizi, ma anche dalle cure. Sara ha scoperto di avere l'Hiv in gravidanza avanzata e sua figlia è nata con l'infezione; oggi la bambina ha sei anni e convive con il virus. Ilary, diagnosticata a 16 anni con Hiv e sifilide, è oggi madre di un bambino nato senza Hiv grazie alla terapia in gravidanza. Luca, 17 anni, convive con un'infezione congenita da Hiv e un linfoma, e oggi riceve un trattamento antiretrovirale a lunga durata ogni due mesi; è padre di una bambina di sei anni nata senza il virus. Secondo l'ospedale, non è l'Hiv a fare paura, ma lo stigma che ancora oggi ferisce e isola. Per questo, il Bambino Gesù organizza tre pomeriggi di test gratuiti e counseling per l'Hiv rivolti agli adolescenti: il 30 novembre, il 1 e il 2 dicembre, dalle 14 alle 17, nella sede di San Paolo. Negli ultimi quattro anni, l'Unità di Malattie Infettive ha seguito 48 bambini esposti all'Hiv, uno dei quali risultato infetto perché l'infezione materna era stata diagnosticata soltanto al parto. Nello stesso periodo sono state effettuate quattro nuove diagnosi pediatriche di HIV in pazienti tra 0 e 17 anni e presi in carico cinque pazienti con Hiv provenienti dall'estero.",
+      "spokenText": "In vista della Giornata mondiale per la lotta all'Aids, l'ospedale pediatrico Bambino Gesù ha raccontato tre storie di pazienti giovani, segnate dalla paura e dai pregiudizi, ma anche dalle cure. Sara ha scoperto di avere l'Hiv in gravidanza avanzata e sua figlia è nata con l'infezione; oggi la bambina ha sei anni e convive con il virus. Ilary, diagnosticata a 16 anni con Hiv e sifilide, è oggi madre di un bambino nato senza Hiv grazie alla terapia in gravidanza. Luca, 17 anni, convive con un'infezione congenita da Hiv e un linfoma, e oggi riceve un trattamento antiretrovirale a lunga durata ogni due mesi; è padre di una bambina di sei anni nata senza il virus. Secondo l'ospedale, non è l'Hiv a fare paura, ma lo stigma che ancora oggi ferisce e isola. Per questo, il Bambino Gesù organizza tre pomeriggi di test gratuiti e counseling per l'Hiv rivolti agli adolescenti: il 30 novembre, il 1 e il 2 dicembre, dalle 14 alle 17, nella sede di San Paolo. Negli ultimi quattro anni, l'Unità di Malattie Infettive ha seguito 48 bambini esposti all'Hiv, uno dei quali risultato infetto perché l'infezione materna era stata diagnosticata soltanto al parto. Nello stesso periodo sono state effettuate quattro nuove diagnosi pediatriche di HIV in pazienti tra 0 e 17 anni e presi in carico cinque pazienti con Hiv provenienti dall'estero.",
+      "category": "salute",
+      "editorialGroup": "salute",
+      "publishedAt": "2026-11-26T12:44:42.000Z",
+      "tags": [
+        "salute"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 91,
+      "source": {
+        "name": "ANSA Salute",
+        "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/26/aids-da-bambino-gesu-tre-storie-di-paura-e-pregiudizi-ma-anche-di-cura_7cf7d05b-513d-4ab1-a699-af399fbc6640.html"
+      },
+      "analysis": {
+        "mainFact": "In vista della Giornata mondiale contro l'Aids, l'ospedale pediatrico racconta tre casi di giovani pazienti e lancia test gratuiti e counseling per gli adolescenti dal 30 novembre al 2 dicembre.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "In vista della Giornata mondiale contro l'Aids, l'ospedale pediatrico racconta tre casi di giovani pazienti e lancia test gratuiti e counseling per gli adolescenti dal 30 novembre al 2 dicembre."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "110"
+          "30",
+          "2"
         ]
       }
     },
     {
-      "id": "story-ae30b9a2de24b94b",
-      "title": "Lego investe un miliardo di dollari per un nuovo stabilimento in Portogallo",
-      "summary": "Il gruppo danese costruirà un impianto a Estarreja, a sud di Porto, con avvio dei cantieri nel primo semestre del 2027 e produzione dal 2030, generando circa 1.000 nuovi posti di lavoro.",
-      "content": "Lego ha annunciato un investimento di un miliardo di dollari per un nuovo stabilimento a Estarreja, a sud di Porto, in Portogallo. La struttura, che sarà la più automatizzata e tecnologicamente avanzata del gruppo, vedrà l'avvio dei cantieri nella prima metà del 2027 e l'inizio della produzione nel 2030, generando circa mille nuovi posti di lavoro. L'impianto si occuperà di stampaggio, lavorazione e confezionamento, con l'obiettivo di rafforzare la presenza in Europa e di espandere la domanda in Africa e Medio Oriente. L'investimento si inserisce in un periodo di crescita per l'azienda danese: nel primo semestre del 2026 i ricavi sono aumentati del 21 per cento e le vendite ai consumatori del 22 per cento, trainati anche dal lancio di 314 nuovi set di giocattoli. Lego sta espandendo la propria rete produttiva a livello internazionale, con interventi in Cina, Ungheria, Vietnam e un nuovo stabilimento in Virginia, negli Stati Uniti, atteso per il 2027. Sul fronte della sostenibilità, il gruppo punta a coprire il cento per cento del fabbisogno energetico annuale con fonti rinnovabili, utilizzando pannelli solari e sistemi di accumulo a batteria. Il Ceo Niels B. Christiansen ha tuttavia avvertito che le tensioni internazionali e la guerra in Iran hanno aumentato la volatilità del prezzo del petrolio, con possibili ripercussioni sul costo della plastica utilizzata per i mattoncini, sebbene l'impatto sia stato finora contenuto grazie all'uso di materiali non derivati da combustibili fossili.",
-      "spokenText": "Lego ha annunciato un investimento di un miliardo di dollari per un nuovo stabilimento a Estarreja, a sud di Porto, in Portogallo. La struttura, che sarà la più automatizzata e tecnologicamente avanzata del gruppo, vedrà l'avvio dei cantieri nella prima metà del 2027 e l'inizio della produzione nel 2030, generando circa mille nuovi posti di lavoro. L'impianto si occuperà di stampaggio, lavorazione e confezionamento, con l'obiettivo di rafforzare la presenza in Europa e di espandere la domanda in Africa e Medio Oriente. L'investimento si inserisce in un periodo di crescita per l'azienda danese: nel primo semestre del 2026 i ricavi sono aumentati del 21 per cento e le vendite ai consumatori del 22 per cento, trainati anche dal lancio di 314 nuovi set di giocattoli. Lego sta espandendo la propria rete produttiva a livello internazionale, con interventi in Cina, Ungheria, Vietnam e un nuovo stabilimento in Virginia, negli Stati Uniti, atteso per il 2027. Sul fronte della sostenibilità, il gruppo punta a coprire il cento per cento del fabbisogno energetico annuale con fonti rinnovabili, utilizzando pannelli solari e sistemi di accumulo a batteria. Il Ceo Niels B. Christiansen ha tuttavia avvertito che le tensioni internazionali e la guerra in Iran hanno aumentato la volatilità del prezzo del petrolio, con possibili ripercussioni sul costo della plastica utilizzata per i mattoncini, sebbene l'impatto sia stato finora contenuto grazie all'uso di materiali non derivati da combustibili fossili.",
+      "id": "story-99ab4d561022a029",
+      "title": "Il Medioevo come modello di sostenibilità",
+      "summary": "La storica Annette Kehnel mostra nel suo libro come economia circolare, riuso e microcredito fossero già pratiche comuni nel Medioevo, spinte dalla necessità di preservare i mezzi di sussistenza.",
+      "content": "Secondo la storica Annette Kehnel, professoressa all'Università di Mannheim, le pratiche di sostenibilità attuali, come l'economia circolare e il riciclo, non sono affatto moderne. Nel suo libro L'Età verde, pubblicato in Italia da Il Saggiatore, Kehnel spiega che nel Medioevo ridurre, riutilizzare e riciclare era la normalità, dettata dalla necessità di preservare i mezzi di sussistenza. L'autrice sottolinea che l'esaltazione del progresso a tutti i costi è iniziata solo nel Settecento, mentre nella seconda metà del Novecento molte conoscenze sul riuso dei materiali sono state dimenticate. Kehnel evidenzia come, tra il 1400 e il 1500, il microcredito fosse una forma di scambio quotidiana nelle città europee e come i beghinaggi del XIII secolo anticipassero i moderni modelli di cohousing. La storica invita a riconsiderare il Medioevo non come un'epoca primitiva, ma come un periodo in cui l'economia circolare era un modello di riferimento per garantire la sopravvivenza delle generazioni future.",
+      "spokenText": "Secondo la storica Annette Kehnel, professoressa all'Università di Mannheim, le pratiche di sostenibilità attuali, come l'economia circolare e il riciclo, non sono affatto moderne. Nel suo libro L'Età verde, pubblicato in Italia da Il Saggiatore, Kehnel spiega che nel Medioevo ridurre, riutilizzare e riciclare era la normalità, dettata dalla necessità di preservare i mezzi di sussistenza. L'autrice sottolinea che l'esaltazione del progresso a tutti i costi è iniziata solo nel Settecento, mentre nella seconda metà del Novecento molte conoscenze sul riuso dei materiali sono state dimenticate. Kehnel evidenzia come, tra il 1400 e il 1500, il microcredito fosse una forma di scambio quotidiana nelle città europee e come i beghinaggi del XIII secolo anticipassero i moderni modelli di cohousing. La storica invita a riconsiderare il Medioevo non come un'epoca primitiva, ma come un periodo in cui l'economia circolare era un modello di riferimento per garantire la sopravvivenza delle generazioni future.",
+      "category": "scienza",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-27T07:00:00.000Z",
+      "tags": [
+        "scienza"
+      ],
+      "importance": 100,
+      "mustInclude": false,
+      "estimatedSeconds": 60,
+      "source": {
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it/articoli/eta-verde-kehnel-sostenibilita-medioevo/"
+      },
+      "analysis": {
+        "mainFact": "La storica Annette Kehnel mostra nel suo libro come economia circolare, riuso e microcredito fossero già pratiche comuni nel Medioevo, spinte dalla necessità di preservare i mezzi di sussistenza.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "La storica Annette Kehnel mostra nel suo libro come economia circolare, riuso e microcredito fossero già pratiche comuni nel Medioevo, spinte dalla necessità di preservare i mezzi di sussistenza."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": []
+      }
+    },
+    {
+      "id": "story-c8339f535f324da7",
+      "title": "Le paludi custodiscono quasi un terzo del carbonio del suolo",
+      "summary": "Le paludi occupano solo il 3% della superficie terrestre ma immagazzinano circa il 30% del carbonio del suolo, grazie a condizioni di ristagno idrico che rallentano la decomposizione della materia organica.",
+      "content": "Le paludi sono ecosistemi affascinanti e poco compresi, formati da condizioni di ristagno idrico e mancanza di ossigeno che rallentano la decomposizione delle piante, facendo accumulare materia organica sotto forma di torba. Secondo l'ecologa Merritt Turetsky, questi ambienti occupano solo il 3% della superficie terrestre del pianeta, ma immagazzinano circa il 30% del carbonio contenuto nel suolo. La studiosa descrive le paludi come uno spazio liminale, dove terra e acqua si confondono, rivelando una bellezza inquietante e suggestiva. Nonostante lo scetticismo di molti, che tendono a sottovalutare questi luoghi, Turetsky sottolinea il loro ruolo cruciale nel ciclo del carbonio e nella regolazione del clima. Il dato evidenzia quanto la conservazione di questi ecosistemi sia fondamentale per contrastare l'accumulo di gas serra in atmosfera, anche se la loro estensione limitata li rende vulnerabili a interventi umani e cambiamenti ambientali.",
+      "spokenText": "Le paludi sono ecosistemi affascinanti e poco compresi, formati da condizioni di ristagno idrico e mancanza di ossigeno che rallentano la decomposizione delle piante, facendo accumulare materia organica sotto forma di torba. Secondo l'ecologa Merritt Turetsky, questi ambienti occupano solo il 3% della superficie terrestre del pianeta, ma immagazzinano circa il 30% del carbonio contenuto nel suolo. La studiosa descrive le paludi come uno spazio liminale, dove terra e acqua si confondono, rivelando una bellezza inquietante e suggestiva. Nonostante lo scetticismo di molti, che tendono a sottovalutare questi luoghi, Turetsky sottolinea il loro ruolo cruciale nel ciclo del carbonio e nella regolazione del clima. Il dato evidenzia quanto la conservazione di questi ecosistemi sia fondamentale per contrastare l'accumulo di gas serra in atmosfera, anche se la loro estensione limitata li rende vulnerabili a interventi umani e cambiamenti ambientali.",
       "category": "altro",
-      "editorialGroup": "finanza",
-      "publishedAt": "2026-11-23T16:50:00.000Z",
+      "editorialGroup": "scienza",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
       "tags": [
         "altro"
       ],
       "importance": 52,
       "mustInclude": false,
-      "estimatedSeconds": 94,
+      "estimatedSeconds": 56,
       "source": {
-        "name": "Il Sole 24 Ore - Finanza",
-        "url": "https://www.ilsole24ore.com/art/lego-investe-1-miliardo-il-nuovo-sito-portogallo-AJ7cRNQC"
+        "name": "Nature",
+        "url": "https://www.nature.com/articles/d41586-026-03885-4"
       },
       "analysis": {
-        "mainFact": "Il gruppo danese costruirà un impianto a Estarreja, a sud di Porto, con avvio dei cantieri nel primo semestre del 2027 e produzione dal 2030, generando circa 1.000 nuovi posti di lavoro.",
+        "mainFact": "Le paludi occupano solo il 3% della superficie terrestre ma immagazzinano circa il 30% del carbonio del suolo, grazie a condizioni di ristagno idrico che rallentano la decomposizione della materia organica.",
         "whyItMatters": "",
         "confirmedFacts": [
-          "Il gruppo danese costruirà un impianto a Estarreja, a sud di Porto, con avvio dei cantieri nel primo semestre del 2027 e produzione dal 2030, generando circa 1.000 nuovi posti di lavoro."
+          "Le paludi occupano solo il 3% della superficie terrestre ma immagazzinano circa il 30% del carbonio del suolo, grazie a condizioni di ristagno idrico che rallentano la decomposizione della materia organica."
         ],
         "uncertainties": [],
         "peopleAndOrganizations": [],
         "numbersAndDates": [
-          "2027",
-          "2030",
-          "1.000"
+          "3",
+          "30"
+        ]
+      }
+    },
+    {
+      "id": "story-4d9951f6c4ab5317",
+      "title": "Borse in recupero, gas in calo e fiducia Ue in calo",
+      "summary": "Le Borse europee e di Wall Street consolidano i guadagni grazie al comparto tecnologico, mentre il gas Ttf scende in area 83 euro. L'indice di incertezza economica della Commissione europea cala a 17,5, con fiducia in peggioramento in Italia e Francia.",
+      "content": "Le Borse europee consolidano i guadagni, sostenute dal comparto tecnologico e da una rinnovata propensione al rischio degli investitori. A Wall Street, gli indici principali chiudono in rialzo una settimana volatile, con Anthropic tornata a scambiare poco sopra il prezzo di collocamento iniziale di 83 dollari. Sul fronte macroeconomico, l'indicatore della Commissione europea sull'incertezza economica nella Ue a novembre scende di 2,1 punti a quota 17,5. Il miglioramento è trainato da una minore incertezza sulla situazione aziendale, mentre cresce l'apprensione dei consumatori per la propria situazione finanziaria. Tra le principali economie, la fiducia peggiora in Italia di 3,1 punti e in Francia di 2,3, mentre migliora in Olanda e Germania. Sul mercato energetico, rallenta la corsa del petrolio, con il future gennaio del Wti sugli 84 dollari al barile e il Brent oltre i 95. Il gas Ttf ad Amsterdam scivola in area 83 euro al Megawattora, complice l'attesa di una ripresa dei flussi norvegesi e di maggiori carichi di Gnl, nonostante le preoccupazioni per le temperature rigide e gli stoccaggi europei al 67,20%, sotto la media quinquennale.",
+      "spokenText": "Le Borse europee consolidano i guadagni, sostenute dal comparto tecnologico e da una rinnovata propensione al rischio degli investitori. A Wall Street, gli indici principali chiudono in rialzo una settimana volatile, con Anthropic tornata a scambiare poco sopra il prezzo di collocamento iniziale di 83 dollari. Sul fronte macroeconomico, l'indicatore della Commissione europea sull'incertezza economica nella Ue a novembre scende di 2,1 punti a quota 17,5. Il miglioramento è trainato da una minore incertezza sulla situazione aziendale, mentre cresce l'apprensione dei consumatori per la propria situazione finanziaria. Tra le principali economie, la fiducia peggiora in Italia di 3,1 punti e in Francia di 2,3, mentre migliora in Olanda e Germania. Sul mercato energetico, rallenta la corsa del petrolio, con il future gennaio del Wti sugli 84 dollari al barile e il Brent oltre i 95. Il gas Ttf ad Amsterdam scivola in area 83 euro al Megawattora, complice l'attesa di una ripresa dei flussi norvegesi e di maggiori carichi di Gnl, nonostante le preoccupazioni per le temperature rigide e gli stoccaggi europei al 67,20%, sotto la media quinquennale.",
+      "category": "ambiente",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-27T06:14:00.000Z",
+      "tags": [
+        "ambiente"
+      ],
+      "importance": 55,
+      "mustInclude": false,
+      "estimatedSeconds": 72,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/volano-borse-cinesi-shanghai-32percento-shenzhen-63percento-AJro4PUC"
+      },
+      "analysis": {
+        "mainFact": "Le Borse europee e di Wall Street consolidano i guadagni grazie al comparto tecnologico, mentre il gas Ttf scende in area 83 euro. L'indice di incertezza economica della Commissione europea cala a 17,5, con fiducia in peggioramento in Italia e Francia.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Le Borse europee e di Wall Street consolidano i guadagni grazie al comparto tecnologico, mentre il gas Ttf scende in area 83 euro. L'indice di incertezza economica della Commissione europea cala a 17,5, con fiducia in peggioramento in Italia e Francia."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "83",
+          "17,5"
+        ]
+      }
+    },
+    {
+      "id": "story-36a8660f096228ca",
+      "title": "Altria e Japan Tobacco studiano offerta per Imperial Brands",
+      "summary": "Altria Group valuta un'offerta per Imperial Brands, da 26 miliardi di sterline, potenzialmente con Japan Tobacco, per creare un polo globale del tabacco in un mercato con 1,2 miliardi di fumatori in calo.",
+      "content": "Altria Group, gruppo statunitense del tabacco, sta valutando un'offerta per il produttore britannico Imperial Brands, che ha una capitalizzazione di mercato di 26 miliardi di sterline. L'operazione potrebbe avvenire in partnership con Japan Tobacco e darebbe vita a uno dei più grandi consolidamenti del settore da oltre un decennio. Imperial Brands, proprietaria tra gli altri dei marchi Winston e Kool, ha dichiarato di non aver ancora ricevuto un'offerta formale. Se l'accordo si concretizzasse, gli asset verrebbero probabilmente suddivisi in diverse aree geografiche per accedere a nuovi mercati e segmenti di crescita. L'obiettivo delle tre aziende è competire più efficacemente con Philip Morris International e British American Tobacco nel settore delle alternative senza fumo, come bustine di nicotina, sigarette elettroniche e tabacco riscaldato. Secondo l'Organizzazione Mondiale della Sanità, i fumatori globali sono scesi a 1,2 miliardi nel 2024, rispetto agli 1,38 miliardi del 2000, con una riduzione di 120 milioni di persone solo dal 2010. Al contempo, oltre 100 milioni di persone utilizzano ora sigarette elettroniche, circa il 7% della popolazione mondiale. Il settore resta sotto pressione per via di normative complesse e del calo costante dei consumi di sigarette tradizionali.",
+      "spokenText": "Altria Group, gruppo statunitense del tabacco, sta valutando un'offerta per il produttore britannico Imperial Brands, che ha una capitalizzazione di mercato di 26 miliardi di sterline. L'operazione potrebbe avvenire in partnership con Japan Tobacco e darebbe vita a uno dei più grandi consolidamenti del settore da oltre un decennio. Imperial Brands, proprietaria tra gli altri dei marchi Winston e Kool, ha dichiarato di non aver ancora ricevuto un'offerta formale. Se l'accordo si concretizzasse, gli asset verrebbero probabilmente suddivisi in diverse aree geografiche per accedere a nuovi mercati e segmenti di crescita. L'obiettivo delle tre aziende è competire più efficacemente con Philip Morris International e British American Tobacco nel settore delle alternative senza fumo, come bustine di nicotina, sigarette elettroniche e tabacco riscaldato. Secondo l'Organizzazione Mondiale della Sanità, i fumatori globali sono scesi a 1,2 miliardi nel 2024, rispetto agli 1,38 miliardi del 2000, con una riduzione di 120 milioni di persone solo dal 2010. Al contempo, oltre 100 milioni di persone utilizzano ora sigarette elettroniche, circa il 7% della popolazione mondiale. Il settore resta sotto pressione per via di normative complesse e del calo costante dei consumi di sigarette tradizionali.",
+      "category": "scienza",
+      "editorialGroup": "finanza",
+      "publishedAt": "2026-11-27T08:43:43.000Z",
+      "tags": [
+        "scienza"
+      ],
+      "importance": 82,
+      "mustInclude": false,
+      "estimatedSeconds": 76,
+      "source": {
+        "name": "Il Sole 24 Ore - Finanza",
+        "url": "https://www.ilsole24ore.com/art/marlboro-e-west-fusione-studio-creare-polo-mondiale-sigarette-AJ6WkWUC"
+      },
+      "analysis": {
+        "mainFact": "Altria Group valuta un'offerta per Imperial Brands, da 26 miliardi di sterline, potenzialmente con Japan Tobacco, per creare un polo globale del tabacco in un mercato con 1,2 miliardi di fumatori in calo.",
+        "whyItMatters": "",
+        "confirmedFacts": [
+          "Altria Group valuta un'offerta per Imperial Brands, da 26 miliardi di sterline, potenzialmente con Japan Tobacco, per creare un polo globale del tabacco in un mercato con 1,2 miliardi di fumatori in calo."
+        ],
+        "uncertainties": [],
+        "peopleAndOrganizations": [],
+        "numbersAndDates": [
+          "26",
+          "1,2"
         ]
       }
     }
